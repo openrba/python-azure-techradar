@@ -1,0 +1,272 @@
+idleTimeoutInMinutes:
+  path: Microsoft.Network/natGateways/idleTimeoutInMinutes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/idleTimeoutInMinutes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/natGateways/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publicIpAddresses:
+  path: Microsoft.Network/natGateways/publicIpAddresses
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/publicIpAddresses/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publicIpAddresses[*]:
+  path: Microsoft.Network/natGateways/publicIpAddresses[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/publicIpAddresses[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publicIpAddresses[*].id:
+  path: Microsoft.Network/natGateways/publicIpAddresses[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/publicIpAddresses[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publicIpPrefixes:
+  path: Microsoft.Network/natGateways/publicIpPrefixes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/publicIpPrefixes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publicIpPrefixes[*]:
+  path: Microsoft.Network/natGateways/publicIpPrefixes[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/publicIpPrefixes[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publicIpPrefixes[*].id:
+  path: Microsoft.Network/natGateways/publicIpPrefixes[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/publicIpPrefixes[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resourceGuid:
+  path: Microsoft.Network/natGateways/resourceGuid
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/resourceGuid/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku:
+  path: Microsoft.Network/natGateways/sku
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/sku/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku.name:
+  path: Microsoft.Network/natGateways/sku.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/sku.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subnets:
+  path: Microsoft.Network/natGateways/subnets
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/subnets/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subnets[*]:
+  path: Microsoft.Network/natGateways/subnets[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/subnets[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subnets[*].id:
+  path: Microsoft.Network/natGateways/subnets[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/subnets[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+zones:
+  path: Microsoft.Network/natGateways/zones
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/zones/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+zones[*]:
+  path: Microsoft.Network/natGateways/zones[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/natGateways/zones[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

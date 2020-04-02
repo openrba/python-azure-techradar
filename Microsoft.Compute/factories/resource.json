@@ -1,0 +1,8 @@
+[
+    "Microsoft.Compute/factories/dataflows",
+    "Microsoft.Compute/factories/datasets",
+    "Microsoft.Compute/factories/integrationRuntimes",
+    "Microsoft.Compute/factories/linkedservices",
+    "Microsoft.Compute/factories/pipelines",
+    "Microsoft.Compute/factories/triggers"
+]

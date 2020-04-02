@@ -1,0 +1,6 @@
+[
+    "Microsoft.Network/streamingjobs/functions",
+    "Microsoft.Network/streamingjobs/inputs",
+    "Microsoft.Network/streamingjobs/outputs",
+    "Microsoft.Network/streamingjobs/transformations"
+]

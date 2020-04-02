@@ -1,0 +1,8 @@
+[
+    "Microsoft.Compute/Vaults/backupFabrics/backupProtectionIntent",
+    "Microsoft.Compute/Vaults/backupFabrics/protectionContainers",
+    "Microsoft.Compute/Vaults/backupFabrics/protectionContainers/protectedItems",
+    "Microsoft.Compute/Vaults/backupPolicies",
+    "Microsoft.Compute/Vaults/backupstorageconfig",
+    "Microsoft.Compute/Vaults/extendedInformation"
+]

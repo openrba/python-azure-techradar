@@ -1,0 +1,51 @@
+applications:
+  path: Microsoft.Network/batchAccounts/applications
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/batchAccounts/applications/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+certificates:
+  path: Microsoft.Network/batchAccounts/certificates
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/batchAccounts/certificates/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+pools:
+  path: Microsoft.Network/batchAccounts/pools
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/batchAccounts/pools/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

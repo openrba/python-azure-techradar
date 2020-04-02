@@ -1,0 +1,10 @@
+[
+    "Microsoft.Network/subscriptions/locations",
+    "Microsoft.Network/subscriptions/operationresults",
+    "Microsoft.Network/subscriptions/providers",
+    "Microsoft.Network/subscriptions/resourceGroups",
+    "Microsoft.Network/subscriptions/resourcegroups/resources",
+    "Microsoft.Network/subscriptions/resources",
+    "Microsoft.Network/subscriptions/tagNames/tagValues",
+    "Microsoft.Network/subscriptions/tagnames"
+]

@@ -1,0 +1,6 @@
+[
+    "Microsoft.Network/virtualMachines/diagnosticSettings",
+    "Microsoft.Network/virtualMachines/extensions",
+    "Microsoft.Network/virtualMachines/metricDefinitions",
+    "Microsoft.Network/virtualMachines/metrics"
+]

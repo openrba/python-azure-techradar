@@ -1,0 +1,952 @@
+connectionBandwidth:
+  path: Microsoft.Network/vpnGateways/vpnConnections/connectionBandwidth
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/connectionBandwidth/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionBandwidthInMbps:
+  path: Microsoft.Network/vpnGateways/vpnConnections/connectionBandwidthInMbps
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/connectionBandwidthInMbps/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionStatus:
+  path: Microsoft.Network/vpnGateways/vpnConnections/connectionStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/connectionStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+egressBytesTransferred:
+  path: Microsoft.Network/vpnGateways/vpnConnections/egressBytesTransferred
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/egressBytesTransferred/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enableBgp:
+  path: Microsoft.Network/vpnGateways/vpnConnections/enableBgp
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/enableBgp/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enableInternetSecurity:
+  path: Microsoft.Network/vpnGateways/vpnConnections/enableInternetSecurity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/enableInternetSecurity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enableRateLimiting:
+  path: Microsoft.Network/vpnGateways/vpnConnections/enableRateLimiting
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/enableRateLimiting/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ingressBytesTransferred:
+  path: Microsoft.Network/vpnGateways/vpnConnections/ingressBytesTransferred
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/ingressBytesTransferred/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies:
+  path: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*]:
+  path: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].dhGroup:
+  path: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].dhGroup
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].dhGroup/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].ikeEncryption:
+  path: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].ikeEncryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].ikeEncryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].ikeIntegrity:
+  path: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].ikeIntegrity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].ikeIntegrity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].ipsecEncryption:
+  path: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].ipsecEncryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].ipsecEncryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].ipsecIntegrity:
+  path: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].ipsecIntegrity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].ipsecIntegrity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].pfsGroup:
+  path: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].pfsGroup
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].pfsGroup/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].saDataSizeKilobytes:
+  path: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].saDataSizeKilobytes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].saDataSizeKilobytes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].saLifeTimeSeconds:
+  path: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].saLifeTimeSeconds
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/ipsecPolicies[*].saLifeTimeSeconds/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/vpnGateways/vpnConnections/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+remoteVpnSite:
+  path: Microsoft.Network/vpnGateways/vpnConnections/remoteVpnSite
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/remoteVpnSite/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+remoteVpnSite.id:
+  path: Microsoft.Network/vpnGateways/vpnConnections/remoteVpnSite.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/remoteVpnSite.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routingWeight:
+  path: Microsoft.Network/vpnGateways/vpnConnections/routingWeight
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/routingWeight/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sharedKey:
+  path: Microsoft.Network/vpnGateways/vpnConnections/sharedKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/sharedKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+useLocalAzureIpAddress:
+  path: Microsoft.Network/vpnGateways/vpnConnections/useLocalAzureIpAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/useLocalAzureIpAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+usePolicyBasedTrafficSelectors:
+  path: Microsoft.Network/vpnGateways/vpnConnections/usePolicyBasedTrafficSelectors
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/usePolicyBasedTrafficSelectors/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnConnectionProtocolType:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnConnectionProtocolType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnConnectionProtocolType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*]:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].connectionBandwidth:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].connectionBandwidth
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].connectionBandwidth/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].connectionStatus:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].connectionStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].connectionStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].egressBytesTransferred:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].egressBytesTransferred
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].egressBytesTransferred/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].enableBgp:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].enableBgp
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].enableBgp/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].enableRateLimiting:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].enableRateLimiting
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].enableRateLimiting/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].etag:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].id:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].ingressBytesTransferred:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ingressBytesTransferred
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ingressBytesTransferred/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].ipsecPolicies:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].ipsecPolicies[*]:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].ipsecPolicies[*].dhGroup:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].dhGroup
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].dhGroup/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].ipsecPolicies[*].ikeEncryption:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].ikeEncryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].ikeEncryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].ipsecPolicies[*].ikeIntegrity:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].ikeIntegrity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].ikeIntegrity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].ipsecPolicies[*].ipsecEncryption:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].ipsecEncryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].ipsecEncryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].ipsecPolicies[*].ipsecIntegrity:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].ipsecIntegrity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].ipsecIntegrity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].ipsecPolicies[*].pfsGroup:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].pfsGroup
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].pfsGroup/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].ipsecPolicies[*].saDataSizeKilobytes:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].saDataSizeKilobytes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].saDataSizeKilobytes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].ipsecPolicies[*].saLifeTimeSeconds:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].saLifeTimeSeconds
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].ipsecPolicies[*].saLifeTimeSeconds/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].name:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].provisioningState:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].routingWeight:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].routingWeight
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].routingWeight/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].sharedKey:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].sharedKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].sharedKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].type:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].useLocalAzureIpAddress:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].useLocalAzureIpAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].useLocalAzureIpAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].usePolicyBasedTrafficSelectors:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].usePolicyBasedTrafficSelectors
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].usePolicyBasedTrafficSelectors/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].vpnConnectionProtocolType:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].vpnConnectionProtocolType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].vpnConnectionProtocolType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].vpnSiteLink:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].vpnSiteLink
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].vpnSiteLink/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnLinkConnections[*].vpnSiteLink.id:
+  path: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].vpnSiteLink.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/vpnGateways/vpnConnections/vpnLinkConnections[*].vpnSiteLink.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

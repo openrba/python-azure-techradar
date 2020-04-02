@@ -1,0 +1,119 @@
+availableScopes:
+  path: Microsoft.Network/reservationOrders/availableScopes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/reservationOrders/availableScopes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+calculateRefund:
+  path: Microsoft.Network/reservationOrders/calculateRefund
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/reservationOrders/calculateRefund/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+merge:
+  path: Microsoft.Network/reservationOrders/merge
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/reservationOrders/merge/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+reservations:
+  path: Microsoft.Network/reservationOrders/reservations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/reservationOrders/reservations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+return:
+  path: Microsoft.Network/reservationOrders/return
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/reservationOrders/return/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+split:
+  path: Microsoft.Network/reservationOrders/split
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/reservationOrders/split/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+swap:
+  path: Microsoft.Network/reservationOrders/swap
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/reservationOrders/swap/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

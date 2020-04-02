@@ -1,0 +1,986 @@
+autoStart:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/autoStart
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/autoStart/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+destination:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/destination
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/destination/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+destination.address:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/destination.address
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/destination.address/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+destination.port:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/destination.port
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/destination.port/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+destination.resourceId:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/destination.resourceId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/destination.resourceId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*]:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].address:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].address
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].address/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].filter:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].filter.address:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.address
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.address/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].filter.type:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].name:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].resourceId:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].resourceId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].resourceId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitoringIntervalInSeconds:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/monitoringIntervalInSeconds
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/monitoringIntervalInSeconds/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+notes:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/notes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/notes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+outputs:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/outputs
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+outputs[*]:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+outputs[*].type:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+outputs[*].workspaceSettings:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].workspaceSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].workspaceSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+outputs[*].workspaceSettings.workspaceResourceId:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].workspaceSettings.workspaceResourceId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].workspaceSettings.workspaceResourceId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+source:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/source
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/source/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+source.port:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/source.port
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/source.port/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+source.resourceId:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/source.resourceId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/source.resourceId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*]:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].httpConfiguration:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].httpConfiguration.method:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.method
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.method/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].httpConfiguration.path:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.path
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.path/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].httpConfiguration.port:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.port
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.port/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].httpConfiguration.preferHTTPS:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.preferHTTPS
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.preferHTTPS/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].httpConfiguration.requestHeaders:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].httpConfiguration.requestHeaders[*]:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].httpConfiguration.requestHeaders[*].name:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].httpConfiguration.requestHeaders[*].value:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*].value
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*].value/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].httpConfiguration.validStatusCodeRanges:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.validStatusCodeRanges
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.validStatusCodeRanges/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].httpConfiguration.validStatusCodeRanges[*]:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.validStatusCodeRanges[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.validStatusCodeRanges[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].icmpConfiguration:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].icmpConfiguration
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].icmpConfiguration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].icmpConfiguration.disableTraceRoute:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].icmpConfiguration.disableTraceRoute
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].icmpConfiguration.disableTraceRoute/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].name:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].preferredIPVersion:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].preferredIPVersion
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].preferredIPVersion/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].protocol:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].protocol
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].protocol/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].successThreshold:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].successThreshold.checksFailedPercent:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold.checksFailedPercent
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold.checksFailedPercent/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].successThreshold.roundTripTimeMs:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold.roundTripTimeMs
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold.roundTripTimeMs/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].tcpConfiguration:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].tcpConfiguration.disableTraceRoute:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration.disableTraceRoute
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration.disableTraceRoute/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].tcpConfiguration.port:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration.port
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration.port/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testConfigurations[*].testFrequencySec:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].testFrequencySec
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].testFrequencySec/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testGroups:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testGroups[*]:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testGroups[*].destinations:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].destinations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].destinations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testGroups[*].destinations[*]:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].destinations[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].destinations[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testGroups[*].disable:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].disable
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].disable/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testGroups[*].name:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testGroups[*].sources:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].sources
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].sources/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testGroups[*].sources[*]:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].sources[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].sources[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testGroups[*].testConfigurations:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].testConfigurations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].testConfigurations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+testGroups[*].testConfigurations[*]:
+  path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].testConfigurations[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].testConfigurations[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

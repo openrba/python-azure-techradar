@@ -1,0 +1,14 @@
+[
+    "Microsoft.Network/sites/slots/config",
+    "Microsoft.Network/sites/slots/domainownershipidentifiers",
+    "Microsoft.Network/sites/slots/eventGridFilters",
+    "Microsoft.Network/sites/slots/hostNameBindings",
+    "Microsoft.Network/sites/slots/hybridconnection",
+    "Microsoft.Network/sites/slots/hybridconnectionnamespaces/relays",
+    "Microsoft.Network/sites/slots/networkConfig",
+    "Microsoft.Network/sites/slots/premieraddons",
+    "Microsoft.Network/sites/slots/publiccertificates",
+    "Microsoft.Network/sites/slots/sourcecontrols",
+    "Microsoft.Network/sites/slots/virtualnetworkconnections",
+    "Microsoft.Network/sites/slots/virtualnetworkconnections/gateways"
+]

@@ -1,0 +1,204 @@
+accountFilters:
+  path: Microsoft.Compute/mediaservices/accountFilters
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/mediaservices/accountFilters/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+assets:
+  path: Microsoft.Compute/mediaservices/assets
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/mediaservices/assets/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+contentKeyPolicies:
+  path: Microsoft.Compute/mediaservices/contentKeyPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/mediaservices/contentKeyPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.Compute/mediaservices/eventGridFilters
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/mediaservices/eventGridFilters/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveEventOperations:
+  path: Microsoft.Compute/mediaservices/liveEventOperations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/mediaservices/liveEventOperations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveEvents:
+  path: Microsoft.Compute/mediaservices/liveEvents
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/mediaservices/liveEvents/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveOutputOperations:
+  path: Microsoft.Compute/mediaservices/liveOutputOperations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/mediaservices/liveOutputOperations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingEndpointOperations:
+  path: Microsoft.Compute/mediaservices/streamingEndpointOperations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/mediaservices/streamingEndpointOperations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingEndpoints:
+  path: Microsoft.Compute/mediaservices/streamingEndpoints
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/mediaservices/streamingEndpoints/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingLocators:
+  path: Microsoft.Compute/mediaservices/streamingLocators
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/mediaservices/streamingLocators/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingPolicies:
+  path: Microsoft.Compute/mediaservices/streamingPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/mediaservices/streamingPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transforms:
+  path: Microsoft.Compute/mediaservices/transforms
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/mediaservices/transforms/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,5 @@
+[
+    "Microsoft.Compute/environments/accessPolicies",
+    "Microsoft.Compute/environments/eventsources",
+    "Microsoft.Compute/environments/referenceDataSets"
+]

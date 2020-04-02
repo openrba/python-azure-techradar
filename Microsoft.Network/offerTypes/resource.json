@@ -1,0 +1,8 @@
+[
+    "Microsoft.Network/offerTypes/publishers",
+    "Microsoft.Network/offerTypes/publishers/offers",
+    "Microsoft.Network/offerTypes/publishers/offers/plans",
+    "Microsoft.Network/offerTypes/publishers/offers/plans/agreements",
+    "Microsoft.Network/offerTypes/publishers/offers/plans/configs",
+    "Microsoft.Network/offerTypes/publishers/offers/plans/configs/importImage"
+]

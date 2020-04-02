@@ -1,0 +1,442 @@
+GetCredentials:
+  path: Microsoft.Network/registries/GetCredentials
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/GetCredentials/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+buildTasks:
+  path: Microsoft.Network/registries/buildTasks
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/buildTasks/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+builds:
+  path: Microsoft.Network/registries/builds
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/builds/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.Network/registries/eventGridFilters
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/eventGridFilters/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+generateCredentials:
+  path: Microsoft.Network/registries/generateCredentials
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/generateCredentials/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+getBuildSourceUploadUrl:
+  path: Microsoft.Network/registries/getBuildSourceUploadUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/getBuildSourceUploadUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+importImage:
+  path: Microsoft.Network/registries/importImage
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/importImage/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listBuildSourceUploadUrl:
+  path: Microsoft.Network/registries/listBuildSourceUploadUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/listBuildSourceUploadUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listCredentials:
+  path: Microsoft.Network/registries/listCredentials
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/listCredentials/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listPolicies:
+  path: Microsoft.Network/registries/listPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/listPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listUsages:
+  path: Microsoft.Network/registries/listUsages
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/listUsages/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnectionProxies:
+  path: Microsoft.Network/registries/privateEndpointConnectionProxies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/privateEndpointConnectionProxies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.Network/registries/privateEndpointConnections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/privateEndpointConnections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkResources:
+  path: Microsoft.Network/registries/privateLinkResources
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/privateLinkResources/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+queueBuild:
+  path: Microsoft.Network/registries/queueBuild
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/queueBuild/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+regenerateCredential:
+  path: Microsoft.Network/registries/regenerateCredential
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/regenerateCredential/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+regenerateCredentials:
+  path: Microsoft.Network/registries/regenerateCredentials
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/regenerateCredentials/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+replications:
+  path: Microsoft.Network/registries/replications
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/replications/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+runs:
+  path: Microsoft.Network/registries/runs
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/runs/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scheduleRun:
+  path: Microsoft.Network/registries/scheduleRun
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/scheduleRun/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scopeMaps:
+  path: Microsoft.Network/registries/scopeMaps
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/scopeMaps/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+taskRuns:
+  path: Microsoft.Network/registries/taskRuns
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/taskRuns/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tasks:
+  path: Microsoft.Network/registries/tasks
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/tasks/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tokens:
+  path: Microsoft.Network/registries/tokens
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/tokens/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+updatePolicies:
+  path: Microsoft.Network/registries/updatePolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/updatePolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+webhooks:
+  path: Microsoft.Network/registries/webhooks
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registries/webhooks/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

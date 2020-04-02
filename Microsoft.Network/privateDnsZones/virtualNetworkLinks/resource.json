@@ -1,0 +1,7 @@
+[
+    "Microsoft.Network/privateDnsZones/virtualNetworkLinks/provisioningState",
+    "Microsoft.Network/privateDnsZones/virtualNetworkLinks/registrationEnabled",
+    "Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork",
+    "Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork.id",
+    "Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetworkLinkState"
+]

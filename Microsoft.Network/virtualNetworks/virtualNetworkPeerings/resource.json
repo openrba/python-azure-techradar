@@ -1,0 +1,13 @@
+[
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowForwardedTraffic",
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowGatewayTransit",
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowVirtualNetworkAccess",
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peeringState",
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/provisioningState",
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace",
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes",
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*]",
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork",
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork.id",
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/useRemoteGateways"
+]

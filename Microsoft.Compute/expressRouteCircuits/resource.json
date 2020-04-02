@@ -1,0 +1,5 @@
+[
+    "Microsoft.Compute/expressRouteCircuits/authorizations",
+    "Microsoft.Compute/expressRouteCircuits/peerings",
+    "Microsoft.Compute/expressRouteCircuits/peerings/connections"
+]

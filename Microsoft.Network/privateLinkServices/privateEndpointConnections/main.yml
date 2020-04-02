@@ -1,0 +1,1003 @@
+linkIdentifier:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/linkIdentifier
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/linkIdentifier/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.etag:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.id:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.location:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.location
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.location/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*]:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].etag:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds[*]:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].id:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].name:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.description:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.description
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.description/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.status:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.status
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.status/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceId:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].provisioningState:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].requestMessage:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].requestMessage
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].requestMessage/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.manualPrivateLinkServiceConnections[*].type:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.name:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.networkInterfaces:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.networkInterfaces[*]:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.networkInterfaces[*].etag:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.networkInterfaces[*].id:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.networkInterfaces[*].location:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].location
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].location/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.networkInterfaces[*].name:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.networkInterfaces[*].tags:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].tags
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].tags/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.networkInterfaces[*].type:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*]:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].etag:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].groupIds:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].groupIds
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].groupIds/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].groupIds[*]:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].groupIds[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].groupIds[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].id:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].name:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.description:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.description
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.description/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.status:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.status
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.status/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceId:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].provisioningState:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].requestMessage:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].requestMessage
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].requestMessage/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.privateLinkServiceConnections[*].type:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.provisioningState:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.subnet:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.subnet.etag:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.subnet.id:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.subnet.name:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.tags:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.tags
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.tags/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.type:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkServiceConnectionState:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkServiceConnectionState.actionRequired:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkServiceConnectionState.actionsRequired:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkServiceConnectionState.description:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.description
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.description/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkServiceConnectionState.status:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.status
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.status/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/privateLinkServices/privateEndpointConnections/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

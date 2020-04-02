@@ -1,0 +1,6 @@
+[
+    "Microsoft.Network/labAccounts/galleryImages",
+    "Microsoft.Network/labAccounts/labs",
+    "Microsoft.Network/labAccounts/labs/environmentSettings",
+    "Microsoft.Network/labAccounts/labs/users"
+]

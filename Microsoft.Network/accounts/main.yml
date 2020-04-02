@@ -1,0 +1,170 @@
+computePolicies:
+  path: Microsoft.Network/accounts/computePolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/accounts/computePolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataLakeStoreAccounts:
+  path: Microsoft.Network/accounts/dataLakeStoreAccounts
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/accounts/dataLakeStoreAccounts/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.Network/accounts/eventGridFilters
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/accounts/eventGridFilters/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+firewallRules:
+  path: Microsoft.Network/accounts/firewallRules
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/accounts/firewallRules/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateAtlases:
+  path: Microsoft.Network/accounts/privateAtlases
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/accounts/privateAtlases/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+shares:
+  path: Microsoft.Network/accounts/shares
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/accounts/shares/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sharesubscriptions:
+  path: Microsoft.Network/accounts/sharesubscriptions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/accounts/sharesubscriptions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageAccounts:
+  path: Microsoft.Network/accounts/storageAccounts
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/accounts/storageAccounts/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+trustedIdProviders:
+  path: Microsoft.Network/accounts/trustedIdProviders
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/accounts/trustedIdProviders/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkRules:
+  path: Microsoft.Network/accounts/virtualNetworkRules
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/accounts/virtualNetworkRules/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

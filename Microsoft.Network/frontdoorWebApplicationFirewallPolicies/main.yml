@@ -1,0 +1,1139 @@
+customRules:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].action:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].action
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].action/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].enabledState:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].enabledState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].enabledState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].etag:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].matchConditions:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].matchConditions[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].matchConditions[*].matchValue:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchValue
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchValue/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].matchConditions[*].matchValue[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchValue[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchValue[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].matchConditions[*].matchVariable:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchVariable
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchVariable/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].matchConditions[*].negateCondition:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].negateCondition
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].negateCondition/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].matchConditions[*].operator:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].operator
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].operator/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].matchConditions[*].selector:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].selector
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].selector/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].matchConditions[*].transforms:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].transforms
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].transforms/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].matchConditions[*].transforms[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].transforms[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].transforms[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].name:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].priority:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].priority
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].priority/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].rateLimitDurationInMinutes:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].rateLimitDurationInMinutes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].rateLimitDurationInMinutes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].rateLimitThreshold:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].rateLimitThreshold
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].rateLimitThreshold/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].ruleType:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].ruleType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].ruleType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].transforms:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].transforms
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].transforms/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customRules.rules[*].transforms[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].transforms[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].transforms[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontendEndpointLinks:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontendEndpointLinks[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontendEndpointLinks[*].id:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].exclusions:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].exclusions[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].exclusions[*].matchVariable:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].matchVariable
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].matchVariable/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].exclusions[*].selector:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].selector
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].selector/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].exclusions[*].selectorMatchOperator:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].selectorMatchOperator
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].selectorMatchOperator/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].matchVariable:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].matchVariable
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].matchVariable/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selector:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selector
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selector/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selectorMatchOperator:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selectorMatchOperator
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selectorMatchOperator/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].ruleGroupName:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].ruleGroupName
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].ruleGroupName/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].action:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].action
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].action/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].enabledState:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].enabledState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].enabledState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].matchVariable:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].matchVariable
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].matchVariable/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].selector:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].selector
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].selector/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].selectorMatchOperator:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].selectorMatchOperator
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].selectorMatchOperator/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].ruleId:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].ruleId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].ruleId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleSetType:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleSetType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleSetType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.managedRuleSets[*].ruleSetVersion:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleSetVersion
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleSetVersion/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.ruleSets:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.ruleSets[*]:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.ruleSets[*].priority:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].priority
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].priority/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.ruleSets[*].ruleSetType:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].ruleSetType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].ruleSetType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedRules.ruleSets[*].version:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].version
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].version/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policySettings:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policySettings.customBlockResponseBody:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.customBlockResponseBody
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.customBlockResponseBody/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policySettings.customBlockResponseStatusCode:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.customBlockResponseStatusCode
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.customBlockResponseStatusCode/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policySettings.enabledState:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.enabledState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.enabledState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policySettings.mode:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.mode
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.mode/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policySettings.redirectUrl:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.redirectUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.redirectUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resourceState:
+  path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/resourceState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/resourceState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

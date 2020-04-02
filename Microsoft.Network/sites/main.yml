@@ -1,0 +1,221 @@
+config:
+  path: Microsoft.Network/sites/config
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/config/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+domainownershipidentifiers:
+  path: Microsoft.Network/sites/domainownershipidentifiers
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/domainownershipidentifiers/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.Network/sites/eventGridFilters
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/eventGridFilters/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hostNameBindings:
+  path: Microsoft.Network/sites/hostNameBindings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/hostNameBindings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnection:
+  path: Microsoft.Network/sites/hybridconnection
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/hybridconnection/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnectionnamespaces:
+  path: Microsoft.Network/sites/hybridconnectionnamespaces
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/hybridconnectionnamespaces/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkConfig:
+  path: Microsoft.Network/sites/networkConfig
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/networkConfig/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+premieraddons:
+  path: Microsoft.Network/sites/premieraddons
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/premieraddons/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateaccess:
+  path: Microsoft.Network/sites/privateaccess
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/privateaccess/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publiccertificates:
+  path: Microsoft.Network/sites/publiccertificates
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/publiccertificates/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+slots:
+  path: Microsoft.Network/sites/slots
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/slots/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sourcecontrols:
+  path: Microsoft.Network/sites/sourcecontrols
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/sourcecontrols/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualnetworkconnections:
+  path: Microsoft.Network/sites/virtualnetworkconnections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/sites/virtualnetworkconnections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

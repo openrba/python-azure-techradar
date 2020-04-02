@@ -1,0 +1,238 @@
+dnsName:
+  path: Microsoft.Network/bastionHosts/dnsName
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/dnsName/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations:
+  path: Microsoft.Network/bastionHosts/ipConfigurations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/ipConfigurations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*]:
+  path: Microsoft.Network/bastionHosts/ipConfigurations[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].etag:
+  path: Microsoft.Network/bastionHosts/ipConfigurations[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].id:
+  path: Microsoft.Network/bastionHosts/ipConfigurations[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].name:
+  path: Microsoft.Network/bastionHosts/ipConfigurations[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].privateIPAllocationMethod:
+  path: Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].provisioningState:
+  path: Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].publicIPAddress:
+  path: Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].publicIPAddress.id:
+  path: Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].subnet:
+  path: Microsoft.Network/bastionHosts/ipConfigurations[*].subnet
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].subnet/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].subnet.id:
+  path: Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].type:
+  path: Microsoft.Network/bastionHosts/ipConfigurations[*].type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/bastionHosts/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/bastionHosts/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

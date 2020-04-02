@@ -1,0 +1,646 @@
+provisioningState:
+  path: Microsoft.Compute/galleries/images/versions/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.endOfLifeDate:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.endOfLifeDate
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.endOfLifeDate/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.excludeFromLatest:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.excludeFromLatest
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.excludeFromLatest/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.publishedDate:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.publishedDate
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.publishedDate/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.replicaCount:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.replicaCount
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.replicaCount/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.source:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.source
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.source/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.source.managedImage:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.source.managedImage
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.source.managedImage/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.source.managedImage.id:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.source.managedImage.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.source.managedImage.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.storageAccountType:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.storageAccountType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.storageAccountType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.targetRegions:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.targetRegions[*]:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.targetRegions[*].name:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.targetRegions[*].regionalReplicaCount:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].regionalReplicaCount
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].regionalReplicaCount/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publishingProfile.targetRegions[*].storageAccountType:
+  path: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].storageAccountType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].storageAccountType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+replicationStatus:
+  path: Microsoft.Compute/galleries/images/versions/replicationStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+replicationStatus.aggregatedState:
+  path: Microsoft.Compute/galleries/images/versions/replicationStatus.aggregatedState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.aggregatedState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+replicationStatus.summary:
+  path: Microsoft.Compute/galleries/images/versions/replicationStatus.summary
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+replicationStatus.summary[*]:
+  path: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+replicationStatus.summary[*].details:
+  path: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].details
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].details/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+replicationStatus.summary[*].progress:
+  path: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].progress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].progress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+replicationStatus.summary[*].region:
+  path: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].region
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].region/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+replicationStatus.summary[*].state:
+  path: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].state
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].state/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDiskImages:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDiskImages[*]:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDiskImages[*].hostCaching:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].hostCaching
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].hostCaching/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDiskImages[*].lun:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].lun
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].lun/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDiskImages[*].sizeInGB:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].sizeInGB
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].sizeInGB/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDiskImages[*].source:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDiskImages[*].source.id:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDiskImage:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDiskImage.hostCaching:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.hostCaching
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.hostCaching/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDiskImage.sizeInGB:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.sizeInGB
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.sizeInGB/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDiskImage.source:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDiskImage.source.id:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.source:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.source
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.source/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.source.id:
+  path: Microsoft.Compute/galleries/images/versions/storageProfile.source.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.source.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

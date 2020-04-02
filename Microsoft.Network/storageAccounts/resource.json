@@ -1,0 +1,19 @@
+[
+    "Microsoft.Network/storageAccounts/blobServices",
+    "Microsoft.Network/storageAccounts/blobServices/containers/immutabilityPolicies",
+    "Microsoft.Network/storageAccounts/fileServices",
+    "Microsoft.Network/storageAccounts/fileServices/shares",
+    "Microsoft.Network/storageAccounts/listAccountSas",
+    "Microsoft.Network/storageAccounts/listServiceSas",
+    "Microsoft.Network/storageAccounts/managementPolicies",
+    "Microsoft.Network/storageAccounts/metricDefinitions",
+    "Microsoft.Network/storageAccounts/metrics",
+    "Microsoft.Network/storageAccounts/privateEndpointConnections",
+    "Microsoft.Network/storageAccounts/queueServices",
+    "Microsoft.Network/storageAccounts/services",
+    "Microsoft.Network/storageAccounts/services/diagnosticSettings",
+    "Microsoft.Network/storageAccounts/services/metricDefinitions",
+    "Microsoft.Network/storageAccounts/services/metrics",
+    "Microsoft.Network/storageAccounts/tableServices",
+    "Microsoft.Network/storageAccounts/vmImages"
+]

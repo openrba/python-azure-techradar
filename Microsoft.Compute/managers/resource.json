@@ -1,0 +1,19 @@
+[
+    "Microsoft.Compute/managers/accessControlRecords",
+    "Microsoft.Compute/managers/bandwidthSettings",
+    "Microsoft.Compute/managers/devices/alertSettings",
+    "Microsoft.Compute/managers/devices/backupPolicies",
+    "Microsoft.Compute/managers/devices/backupPolicies/schedules",
+    "Microsoft.Compute/managers/devices/backupScheduleGroups",
+    "Microsoft.Compute/managers/devices/chapSettings",
+    "Microsoft.Compute/managers/devices/fileservers",
+    "Microsoft.Compute/managers/devices/fileservers/shares",
+    "Microsoft.Compute/managers/devices/iscsiservers",
+    "Microsoft.Compute/managers/devices/iscsiservers/disks",
+    "Microsoft.Compute/managers/devices/timeSettings",
+    "Microsoft.Compute/managers/devices/volumeContainers",
+    "Microsoft.Compute/managers/devices/volumeContainers/volumes",
+    "Microsoft.Compute/managers/extendedInformation",
+    "Microsoft.Compute/managers/storageAccountCredentials",
+    "Microsoft.Compute/managers/storageDomains"
+]

@@ -1,0 +1,17 @@
+[
+    "Microsoft.Compute/mediaservices/accountFilters",
+    "Microsoft.Compute/mediaservices/assets",
+    "Microsoft.Compute/mediaservices/assets/assetFilters",
+    "Microsoft.Compute/mediaservices/contentKeyPolicies",
+    "Microsoft.Compute/mediaservices/eventGridFilters",
+    "Microsoft.Compute/mediaservices/liveEventOperations",
+    "Microsoft.Compute/mediaservices/liveEvents",
+    "Microsoft.Compute/mediaservices/liveEvents/liveOutputs",
+    "Microsoft.Compute/mediaservices/liveOutputOperations",
+    "Microsoft.Compute/mediaservices/streamingEndpointOperations",
+    "Microsoft.Compute/mediaservices/streamingEndpoints",
+    "Microsoft.Compute/mediaservices/streamingLocators",
+    "Microsoft.Compute/mediaservices/streamingPolicies",
+    "Microsoft.Compute/mediaservices/transforms",
+    "Microsoft.Compute/mediaservices/transforms/jobs"
+]

@@ -1,0 +1,1683 @@
+azureASN:
+  path: Microsoft.Network/expressRouteCircuits/peerings/azureASN
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/azureASN/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*]:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*].addressPrefix:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*].addressPrefix
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*].addressPrefix/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*].authorizationKey:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*].authorizationKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*].authorizationKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*].circuitConnectionStatus:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*].circuitConnectionStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*].circuitConnectionStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*].etag:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*].expressRouteCircuitPeering:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*].expressRouteCircuitPeering
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*].expressRouteCircuitPeering/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*].expressRouteCircuitPeering.id:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*].expressRouteCircuitPeering.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*].expressRouteCircuitPeering.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*].id:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*].name:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*].peerExpressRouteCircuitPeering:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*].peerExpressRouteCircuitPeering
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*].peerExpressRouteCircuitPeering/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*].peerExpressRouteCircuitPeering.id:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*].peerExpressRouteCircuitPeering.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*].peerExpressRouteCircuitPeering.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*].provisioningState:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections[*].type:
+  path: Microsoft.Network/expressRouteCircuits/peerings/connections[*].type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections[*].type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+expressRouteConnection:
+  path: Microsoft.Network/expressRouteCircuits/peerings/expressRouteConnection
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/expressRouteConnection/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+expressRouteConnection.id:
+  path: Microsoft.Network/expressRouteCircuits/peerings/expressRouteConnection.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/expressRouteConnection.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+gatewayManagerEtag:
+  path: Microsoft.Network/expressRouteCircuits/peerings/gatewayManagerEtag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/gatewayManagerEtag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.microsoftPeeringConfig:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.microsoftPeeringConfig.advertisedCommunities:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedCommunities
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedCommunities/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.microsoftPeeringConfig.advertisedCommunities[*]:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedCommunities[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedCommunities[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixes:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixesState:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixesState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixesState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixes[*]:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixes[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixes[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.microsoftPeeringConfig.customerASN:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.customerASN
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.customerASN/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.microsoftPeeringConfig.legacyMode:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.legacyMode
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.legacyMode/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.microsoftPeeringConfig.routingRegistryName:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.routingRegistryName
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.microsoftPeeringConfig.routingRegistryName/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.primaryPeerAddressPrefix:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.primaryPeerAddressPrefix
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.primaryPeerAddressPrefix/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.routeFilter:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.routeFilter.id:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.routeFilter.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.secondaryPeerAddressPrefix:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.secondaryPeerAddressPrefix
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.secondaryPeerAddressPrefix/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipv6PeeringConfig.state:
+  path: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.state
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/ipv6PeeringConfig.state/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+lastModifiedBy:
+  path: Microsoft.Network/expressRouteCircuits/peerings/lastModifiedBy
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/lastModifiedBy/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+microsoftPeeringConfig:
+  path: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+microsoftPeeringConfig.advertisedCommunities:
+  path: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedCommunities
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedCommunities/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+microsoftPeeringConfig.advertisedCommunities[*]:
+  path: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedCommunities[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedCommunities[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+microsoftPeeringConfig.advertisedPublicPrefixes:
+  path: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedPublicPrefixes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedPublicPrefixes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+microsoftPeeringConfig.advertisedPublicPrefixesState:
+  path: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedPublicPrefixesState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedPublicPrefixesState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+microsoftPeeringConfig.advertisedPublicPrefixes[*]:
+  path: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedPublicPrefixes[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.advertisedPublicPrefixes[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+microsoftPeeringConfig.customerASN:
+  path: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.customerASN
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.customerASN/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+microsoftPeeringConfig.legacyMode:
+  path: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.legacyMode
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.legacyMode/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+microsoftPeeringConfig.routingRegistryName:
+  path: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.routingRegistryName
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/microsoftPeeringConfig.routingRegistryName/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peerASN:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peerASN
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peerASN/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*]:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].addressPrefix:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].addressPrefix
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].addressPrefix/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].authResourceGuid:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].authResourceGuid
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].authResourceGuid/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].circuitConnectionStatus:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].circuitConnectionStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].circuitConnectionStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].connectionName:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].connectionName
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].connectionName/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].etag:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].expressRouteCircuitPeering:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].expressRouteCircuitPeering
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].expressRouteCircuitPeering/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].expressRouteCircuitPeering.id:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].expressRouteCircuitPeering.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].expressRouteCircuitPeering.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].id:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].name:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].peerExpressRouteCircuitPeering:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].peerExpressRouteCircuitPeering
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].peerExpressRouteCircuitPeering/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].peerExpressRouteCircuitPeering.id:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].peerExpressRouteCircuitPeering.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].peerExpressRouteCircuitPeering.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].provisioningState:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeredConnections[*].type:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeredConnections[*].type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeringType:
+  path: Microsoft.Network/expressRouteCircuits/peerings/peeringType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/peeringType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+primaryAzurePort:
+  path: Microsoft.Network/expressRouteCircuits/peerings/primaryAzurePort
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/primaryAzurePort/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+primaryPeerAddressPrefix:
+  path: Microsoft.Network/expressRouteCircuits/peerings/primaryPeerAddressPrefix
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/primaryPeerAddressPrefix/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/expressRouteCircuits/peerings/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.etag:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.id:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.location:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.location
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.location/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.name:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.peerings:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.peerings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.peerings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.peerings[*]:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.peerings[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.peerings[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.peerings[*].etag:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.peerings[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.peerings[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.peerings[*].name:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.peerings[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.peerings[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.provisioningState:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.rules:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.rules[*]:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.rules[*].access:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].access
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].access/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.rules[*].communities:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].communities
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].communities/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.rules[*].communities[*]:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].communities[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].communities[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.rules[*].etag:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.rules[*].id:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.rules[*].location:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].location
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].location/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.rules[*].name:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.rules[*].provisioningState:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.rules[*].routeFilterRuleType:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].routeFilterRuleType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].routeFilterRuleType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.rules[*].tags:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].tags
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.rules[*].tags/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.tags:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.tags
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.tags/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilter.type:
+  path: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/routeFilter.type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+secondaryAzurePort:
+  path: Microsoft.Network/expressRouteCircuits/peerings/secondaryAzurePort
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/secondaryAzurePort/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+secondaryPeerAddressPrefix:
+  path: Microsoft.Network/expressRouteCircuits/peerings/secondaryPeerAddressPrefix
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/secondaryPeerAddressPrefix/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sharedKey:
+  path: Microsoft.Network/expressRouteCircuits/peerings/sharedKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/sharedKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+state:
+  path: Microsoft.Network/expressRouteCircuits/peerings/state
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/state/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+stats:
+  path: Microsoft.Network/expressRouteCircuits/peerings/stats
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/stats/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+stats.bytesIn:
+  path: Microsoft.Network/expressRouteCircuits/peerings/stats.bytesIn
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/stats.bytesIn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+stats.bytesOut:
+  path: Microsoft.Network/expressRouteCircuits/peerings/stats.bytesOut
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/stats.bytesOut/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+stats.primarybytesIn:
+  path: Microsoft.Network/expressRouteCircuits/peerings/stats.primarybytesIn
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/stats.primarybytesIn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+stats.primarybytesOut:
+  path: Microsoft.Network/expressRouteCircuits/peerings/stats.primarybytesOut
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/stats.primarybytesOut/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+stats.secondarybytesIn:
+  path: Microsoft.Network/expressRouteCircuits/peerings/stats.secondarybytesIn
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/stats.secondarybytesIn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+stats.secondarybytesOut:
+  path: Microsoft.Network/expressRouteCircuits/peerings/stats.secondarybytesOut
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/stats.secondarybytesOut/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vlanId:
+  path: Microsoft.Network/expressRouteCircuits/peerings/vlanId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteCircuits/peerings/vlanId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,19 @@
+[
+    "Microsoft.Network/managers/accessControlRecords",
+    "Microsoft.Network/managers/bandwidthSettings",
+    "Microsoft.Network/managers/devices/alertSettings",
+    "Microsoft.Network/managers/devices/backupPolicies",
+    "Microsoft.Network/managers/devices/backupPolicies/schedules",
+    "Microsoft.Network/managers/devices/backupScheduleGroups",
+    "Microsoft.Network/managers/devices/chapSettings",
+    "Microsoft.Network/managers/devices/fileservers",
+    "Microsoft.Network/managers/devices/fileservers/shares",
+    "Microsoft.Network/managers/devices/iscsiservers",
+    "Microsoft.Network/managers/devices/iscsiservers/disks",
+    "Microsoft.Network/managers/devices/timeSettings",
+    "Microsoft.Network/managers/devices/volumeContainers",
+    "Microsoft.Network/managers/devices/volumeContainers/volumes",
+    "Microsoft.Network/managers/extendedInformation",
+    "Microsoft.Network/managers/storageAccountCredentials",
+    "Microsoft.Network/managers/storageDomains"
+]

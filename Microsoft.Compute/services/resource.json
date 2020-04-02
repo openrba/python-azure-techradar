@@ -1,0 +1,7 @@
+[
+    "Microsoft.Compute/services/problemclassifications",
+    "Microsoft.Compute/services/projects",
+    "Microsoft.Compute/services/projects/files",
+    "Microsoft.Compute/services/projects/tasks",
+    "Microsoft.Compute/services/serviceTasks"
+]

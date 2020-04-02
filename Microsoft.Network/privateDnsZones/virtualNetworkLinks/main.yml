@@ -1,0 +1,85 @@
+provisioningState:
+  path: Microsoft.Network/privateDnsZones/virtualNetworkLinks/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+registrationEnabled:
+  path: Microsoft.Network/privateDnsZones/virtualNetworkLinks/registrationEnabled
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/registrationEnabled/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetwork:
+  path: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetwork.id:
+  path: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkLinkState:
+  path: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetworkLinkState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetworkLinkState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

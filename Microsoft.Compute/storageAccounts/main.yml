@@ -1,0 +1,204 @@
+blobServices:
+  path: Microsoft.Compute/storageAccounts/blobServices
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/storageAccounts/blobServices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileServices:
+  path: Microsoft.Compute/storageAccounts/fileServices
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/storageAccounts/fileServices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listAccountSas:
+  path: Microsoft.Compute/storageAccounts/listAccountSas
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/storageAccounts/listAccountSas/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listServiceSas:
+  path: Microsoft.Compute/storageAccounts/listServiceSas
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/storageAccounts/listServiceSas/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementPolicies:
+  path: Microsoft.Compute/storageAccounts/managementPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/storageAccounts/managementPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.Compute/storageAccounts/metricDefinitions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/storageAccounts/metricDefinitions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.Compute/storageAccounts/metrics
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/storageAccounts/metrics/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.Compute/storageAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/storageAccounts/privateEndpointConnections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+queueServices:
+  path: Microsoft.Compute/storageAccounts/queueServices
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/storageAccounts/queueServices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+services:
+  path: Microsoft.Compute/storageAccounts/services
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/storageAccounts/services/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tableServices:
+  path: Microsoft.Compute/storageAccounts/tableServices
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/storageAccounts/tableServices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vmImages:
+  path: Microsoft.Compute/storageAccounts/vmImages
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/storageAccounts/vmImages/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

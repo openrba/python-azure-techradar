@@ -1,0 +1,187 @@
+config:
+  path: Microsoft.Compute/sites/slots/config
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/sites/slots/config/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+domainownershipidentifiers:
+  path: Microsoft.Compute/sites/slots/domainownershipidentifiers
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/sites/slots/domainownershipidentifiers/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.Compute/sites/slots/eventGridFilters
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/sites/slots/eventGridFilters/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hostNameBindings:
+  path: Microsoft.Compute/sites/slots/hostNameBindings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/sites/slots/hostNameBindings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnection:
+  path: Microsoft.Compute/sites/slots/hybridconnection
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/sites/slots/hybridconnection/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnectionnamespaces:
+  path: Microsoft.Compute/sites/slots/hybridconnectionnamespaces
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/sites/slots/hybridconnectionnamespaces/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkConfig:
+  path: Microsoft.Compute/sites/slots/networkConfig
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/sites/slots/networkConfig/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+premieraddons:
+  path: Microsoft.Compute/sites/slots/premieraddons
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/sites/slots/premieraddons/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publiccertificates:
+  path: Microsoft.Compute/sites/slots/publiccertificates
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/sites/slots/publiccertificates/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sourcecontrols:
+  path: Microsoft.Compute/sites/slots/sourcecontrols
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/sites/slots/sourcecontrols/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualnetworkconnections:
+  path: Microsoft.Compute/sites/slots/virtualnetworkconnections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/sites/slots/virtualnetworkconnections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

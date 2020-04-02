@@ -1,0 +1,68 @@
+Alerts:
+  path: Microsoft.Compute/ExternalBillingAccounts/Alerts
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/ExternalBillingAccounts/Alerts/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Dimensions:
+  path: Microsoft.Compute/ExternalBillingAccounts/Dimensions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/ExternalBillingAccounts/Dimensions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Forecast:
+  path: Microsoft.Compute/ExternalBillingAccounts/Forecast
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/ExternalBillingAccounts/Forecast/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Query:
+  path: Microsoft.Compute/ExternalBillingAccounts/Query
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/ExternalBillingAccounts/Query/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,20 @@
+[
+    "Microsoft.Network/publicIPPrefixes/ipPrefix",
+    "Microsoft.Network/publicIPPrefixes/ipTags",
+    "Microsoft.Network/publicIPPrefixes/ipTags[*]",
+    "Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType",
+    "Microsoft.Network/publicIPPrefixes/ipTags[*].tag",
+    "Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration",
+    "Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id",
+    "Microsoft.Network/publicIPPrefixes/prefixLength",
+    "Microsoft.Network/publicIPPrefixes/provisioningState",
+    "Microsoft.Network/publicIPPrefixes/publicIPAddressVersion",
+    "Microsoft.Network/publicIPPrefixes/publicIPAddresses",
+    "Microsoft.Network/publicIPPrefixes/publicIPAddresses[*]",
+    "Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id",
+    "Microsoft.Network/publicIPPrefixes/resourceGuid",
+    "Microsoft.Network/publicIPPrefixes/sku",
+    "Microsoft.Network/publicIPPrefixes/sku.name",
+    "Microsoft.Network/publicIPPrefixes/zones",
+    "Microsoft.Network/publicIPPrefixes/zones[*]"
+]

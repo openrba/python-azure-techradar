@@ -1,0 +1,102 @@
+dataflows:
+  path: Microsoft.Network/factories/dataflows
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/factories/dataflows/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+datasets:
+  path: Microsoft.Network/factories/datasets
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/factories/datasets/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+integrationRuntimes:
+  path: Microsoft.Network/factories/integrationRuntimes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/factories/integrationRuntimes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+linkedservices:
+  path: Microsoft.Network/factories/linkedservices
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/factories/linkedservices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+pipelines:
+  path: Microsoft.Network/factories/pipelines
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/factories/pipelines/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+triggers:
+  path: Microsoft.Network/factories/triggers
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/factories/triggers/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

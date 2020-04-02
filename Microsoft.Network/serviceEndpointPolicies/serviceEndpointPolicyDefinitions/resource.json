@@ -1,0 +1,7 @@
+[
+    "Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/description",
+    "Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState",
+    "Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/service",
+    "Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources",
+    "Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*]"
+]

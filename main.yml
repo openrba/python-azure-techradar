@@ -613,7 +613,7 @@ Microsoft.Commerce:
 Microsoft.Compute:
   path: Microsoft.Compute
   description: UNKNOWN
-  status: HOLD
+  status: TRIAL
   url: Microsoft.Compute/README.md
   architecture review:
     type: UNKNOWN
@@ -1786,7 +1786,7 @@ Microsoft.NetApp:
 Microsoft.Network:
   path: Microsoft.Network
   description: UNKNOWN
-  status: HOLD
+  status: TRIAL
   url: Microsoft.Network/README.md
   architecture review:
     type: UNKNOWN

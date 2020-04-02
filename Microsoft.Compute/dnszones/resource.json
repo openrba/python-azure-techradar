@@ -1,0 +1,14 @@
+[
+    "Microsoft.Compute/dnszones/A",
+    "Microsoft.Compute/dnszones/AAAA",
+    "Microsoft.Compute/dnszones/CAA",
+    "Microsoft.Compute/dnszones/CNAME",
+    "Microsoft.Compute/dnszones/MX",
+    "Microsoft.Compute/dnszones/NS",
+    "Microsoft.Compute/dnszones/PTR",
+    "Microsoft.Compute/dnszones/SOA",
+    "Microsoft.Compute/dnszones/SRV",
+    "Microsoft.Compute/dnszones/TXT",
+    "Microsoft.Compute/dnszones/all",
+    "Microsoft.Compute/dnszones/recordsets"
+]

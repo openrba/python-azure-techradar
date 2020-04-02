@@ -1,0 +1,153 @@
+agreements:
+  path: Microsoft.Network/integrationAccounts/agreements
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/integrationAccounts/agreements/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+assemblies:
+  path: Microsoft.Network/integrationAccounts/assemblies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/integrationAccounts/assemblies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+batchConfigurations:
+  path: Microsoft.Network/integrationAccounts/batchConfigurations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/integrationAccounts/batchConfigurations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+certificates:
+  path: Microsoft.Network/integrationAccounts/certificates
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/integrationAccounts/certificates/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+maps:
+  path: Microsoft.Network/integrationAccounts/maps
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/integrationAccounts/maps/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+partners:
+  path: Microsoft.Network/integrationAccounts/partners
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/integrationAccounts/partners/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+rosettaNetProcessConfigurations:
+  path: Microsoft.Network/integrationAccounts/rosettaNetProcessConfigurations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/integrationAccounts/rosettaNetProcessConfigurations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.Network/integrationAccounts/schemas
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/integrationAccounts/schemas/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sessions:
+  path: Microsoft.Network/integrationAccounts/sessions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/integrationAccounts/sessions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

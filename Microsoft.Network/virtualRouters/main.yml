@@ -1,0 +1,187 @@
+hostedGateway:
+  path: Microsoft.Network/virtualRouters/hostedGateway
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualRouters/hostedGateway/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hostedGateway.id:
+  path: Microsoft.Network/virtualRouters/hostedGateway.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualRouters/hostedGateway.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hostedSubnet:
+  path: Microsoft.Network/virtualRouters/hostedSubnet
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualRouters/hostedSubnet/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hostedSubnet.id:
+  path: Microsoft.Network/virtualRouters/hostedSubnet.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualRouters/hostedSubnet.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peerings:
+  path: Microsoft.Network/virtualRouters/peerings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualRouters/peerings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peerings[*]:
+  path: Microsoft.Network/virtualRouters/peerings[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualRouters/peerings[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peerings[*].id:
+  path: Microsoft.Network/virtualRouters/peerings[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualRouters/peerings[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/virtualRouters/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualRouters/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualRouterAsn:
+  path: Microsoft.Network/virtualRouters/virtualRouterAsn
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualRouters/virtualRouterAsn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualRouterIps:
+  path: Microsoft.Network/virtualRouters/virtualRouterIps
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualRouters/virtualRouterIps/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualRouterIps[*]:
+  path: Microsoft.Network/virtualRouters/virtualRouterIps[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualRouters/virtualRouterIps[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

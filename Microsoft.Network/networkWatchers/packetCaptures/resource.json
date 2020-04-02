@@ -1,0 +1,17 @@
+[
+    "Microsoft.Network/networkWatchers/packetCaptures/bytesToCapturePerPacket",
+    "Microsoft.Network/networkWatchers/packetCaptures/filters",
+    "Microsoft.Network/networkWatchers/packetCaptures/filters[*]",
+    "Microsoft.Network/networkWatchers/packetCaptures/filters[*].localIPAddress",
+    "Microsoft.Network/networkWatchers/packetCaptures/filters[*].localPort",
+    "Microsoft.Network/networkWatchers/packetCaptures/filters[*].protocol",
+    "Microsoft.Network/networkWatchers/packetCaptures/filters[*].remoteIPAddress",
+    "Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort",
+    "Microsoft.Network/networkWatchers/packetCaptures/storageLocation",
+    "Microsoft.Network/networkWatchers/packetCaptures/storageLocation.filePath",
+    "Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storageId",
+    "Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storagePath",
+    "Microsoft.Network/networkWatchers/packetCaptures/target",
+    "Microsoft.Network/networkWatchers/packetCaptures/timeLimitInSeconds",
+    "Microsoft.Network/networkWatchers/packetCaptures/totalBytesPerSession"
+]

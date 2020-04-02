@@ -1,0 +1,16 @@
+[
+    "Microsoft.Network/virtualRouters/hostedGateway",
+    "Microsoft.Network/virtualRouters/hostedGateway.id",
+    "Microsoft.Network/virtualRouters/hostedSubnet",
+    "Microsoft.Network/virtualRouters/hostedSubnet.id",
+    "Microsoft.Network/virtualRouters/peerings",
+    "Microsoft.Network/virtualRouters/peerings/peerAsn",
+    "Microsoft.Network/virtualRouters/peerings/peerIp",
+    "Microsoft.Network/virtualRouters/peerings/provisioningState",
+    "Microsoft.Network/virtualRouters/peerings[*]",
+    "Microsoft.Network/virtualRouters/peerings[*].id",
+    "Microsoft.Network/virtualRouters/provisioningState",
+    "Microsoft.Network/virtualRouters/virtualRouterAsn",
+    "Microsoft.Network/virtualRouters/virtualRouterIps",
+    "Microsoft.Network/virtualRouters/virtualRouterIps[*]"
+]

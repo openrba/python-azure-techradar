@@ -1,0 +1,85 @@
+provisioningState:
+  path: Microsoft.Network/ddosProtectionPlans/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/ddosProtectionPlans/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resourceGuid:
+  path: Microsoft.Network/ddosProtectionPlans/resourceGuid
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/ddosProtectionPlans/resourceGuid/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworks:
+  path: Microsoft.Network/ddosProtectionPlans/virtualNetworks
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/ddosProtectionPlans/virtualNetworks/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworks[*]:
+  path: Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworks[*].id:
+  path: Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

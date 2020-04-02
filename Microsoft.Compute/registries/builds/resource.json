@@ -1,0 +1,4 @@
+[
+    "Microsoft.Compute/registries/builds/cancel",
+    "Microsoft.Compute/registries/builds/getLogLink"
+]

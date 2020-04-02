@@ -1,0 +1,918 @@
+accountType:
+  path: Microsoft.Compute/disks/accountType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/accountType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData:
+  path: Microsoft.Compute/disks/creationData
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/creationData/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.createOption:
+  path: Microsoft.Compute/disks/creationData.createOption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/creationData.createOption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.imageReference:
+  path: Microsoft.Compute/disks/creationData.imageReference
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/creationData.imageReference/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.imageReference.id:
+  path: Microsoft.Compute/disks/creationData.imageReference.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/creationData.imageReference.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.imageReference.lun:
+  path: Microsoft.Compute/disks/creationData.imageReference.lun
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/creationData.imageReference.lun/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.sourceResourceId:
+  path: Microsoft.Compute/disks/creationData.sourceResourceId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/creationData.sourceResourceId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.sourceUniqueId:
+  path: Microsoft.Compute/disks/creationData.sourceUniqueId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/creationData.sourceUniqueId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.sourceUri:
+  path: Microsoft.Compute/disks/creationData.sourceUri
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/creationData.sourceUri/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.storageAccountId:
+  path: Microsoft.Compute/disks/creationData.storageAccountId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/creationData.storageAccountId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.uploadSizeBytes:
+  path: Microsoft.Compute/disks/creationData.uploadSizeBytes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/creationData.uploadSizeBytes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+diskIOPSReadWrite:
+  path: Microsoft.Compute/disks/diskIOPSReadWrite
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/diskIOPSReadWrite/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+diskMBpsReadWrite:
+  path: Microsoft.Compute/disks/diskMBpsReadWrite
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/diskMBpsReadWrite/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+diskSizeBytes:
+  path: Microsoft.Compute/disks/diskSizeBytes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/diskSizeBytes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+diskSizeGB:
+  path: Microsoft.Compute/disks/diskSizeGB
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/diskSizeGB/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+diskState:
+  path: Microsoft.Compute/disks/diskState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/diskState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryption:
+  path: Microsoft.Compute/disks/encryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryption.diskEncryptionSetId:
+  path: Microsoft.Compute/disks/encryption.diskEncryptionSetId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryption.diskEncryptionSetId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryption.type:
+  path: Microsoft.Compute/disks/encryption.type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryption.type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings:
+  path: Microsoft.Compute/disks/encryptionSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.diskEncryptionKey:
+  path: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.diskEncryptionKey.secretUrl:
+  path: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.secretUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.secretUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.diskEncryptionKey.sourceVault:
+  path: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.sourceVault
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.sourceVault/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.diskEncryptionKey.sourceVault.id:
+  path: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.sourceVault.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.sourceVault.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.enabled:
+  path: Microsoft.Compute/disks/encryptionSettings.enabled
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettings.enabled/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.keyEncryptionKey:
+  path: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.keyEncryptionKey.keyUrl:
+  path: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.keyUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.keyUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.keyEncryptionKey.sourceVault:
+  path: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.sourceVault
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.sourceVault/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.keyEncryptionKey.sourceVault.id:
+  path: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.sourceVault.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.sourceVault.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.enabled:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection.enabled
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.enabled/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettingsVersion:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettingsVersion
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettingsVersion/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*]:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id:
+  path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hyperVGeneration:
+  path: Microsoft.Compute/disks/hyperVGeneration
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/hyperVGeneration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedBy:
+  path: Microsoft.Compute/disks/managedBy
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/managedBy/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+osType:
+  path: Microsoft.Compute/disks/osType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/osType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ownerId:
+  path: Microsoft.Compute/disks/ownerId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/ownerId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Compute/disks/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku:
+  path: Microsoft.Compute/disks/sku
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/sku/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku.name:
+  path: Microsoft.Compute/disks/sku.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/sku.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku.tier:
+  path: Microsoft.Compute/disks/sku.tier
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/sku.tier/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+timeCreated:
+  path: Microsoft.Compute/disks/timeCreated
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/timeCreated/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+uniqueId:
+  path: Microsoft.Compute/disks/uniqueId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/uniqueId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+zones:
+  path: Microsoft.Compute/disks/zones
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/zones/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+zones[*]:
+  path: Microsoft.Compute/disks/zones[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/disks/zones[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

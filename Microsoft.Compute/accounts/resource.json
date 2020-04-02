@@ -1,0 +1,21 @@
+[
+    "Microsoft.Compute/accounts/computePolicies",
+    "Microsoft.Compute/accounts/dataLakeStoreAccounts",
+    "Microsoft.Compute/accounts/eventGridFilters",
+    "Microsoft.Compute/accounts/firewallRules",
+    "Microsoft.Compute/accounts/privateAtlases",
+    "Microsoft.Compute/accounts/shares",
+    "Microsoft.Compute/accounts/shares/datasets",
+    "Microsoft.Compute/accounts/shares/invitations",
+    "Microsoft.Compute/accounts/shares/providersharesubscriptions",
+    "Microsoft.Compute/accounts/shares/synchronizationSettings",
+    "Microsoft.Compute/accounts/sharesubscriptions",
+    "Microsoft.Compute/accounts/sharesubscriptions/consumerSourceDataSets",
+    "Microsoft.Compute/accounts/sharesubscriptions/datasetmappings",
+    "Microsoft.Compute/accounts/sharesubscriptions/triggers",
+    "Microsoft.Compute/accounts/storageAccounts",
+    "Microsoft.Compute/accounts/storageAccounts/containers",
+    "Microsoft.Compute/accounts/storageAccounts/containers/listSasTokens",
+    "Microsoft.Compute/accounts/trustedIdProviders",
+    "Microsoft.Compute/accounts/virtualNetworkRules"
+]

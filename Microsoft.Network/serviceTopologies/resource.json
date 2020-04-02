@@ -1,0 +1,4 @@
+[
+    "Microsoft.Network/serviceTopologies/services",
+    "Microsoft.Network/serviceTopologies/services/serviceUnits"
+]

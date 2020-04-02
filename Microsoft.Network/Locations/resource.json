@@ -1,0 +1,7 @@
+[
+    "Microsoft.Network/Locations/OperationStatuses",
+    "Microsoft.Network/Locations/OperationTypes",
+    "Microsoft.Network/Locations/availabilityGroupListenerOperationResults",
+    "Microsoft.Network/Locations/sqlVirtualMachineGroupOperationResults",
+    "Microsoft.Network/Locations/sqlVirtualMachineOperationResults"
+]

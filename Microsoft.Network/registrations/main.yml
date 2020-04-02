@@ -1,0 +1,34 @@
+customerSubscriptions:
+  path: Microsoft.Network/registrations/customerSubscriptions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registrations/customerSubscriptions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+products:
+  path: Microsoft.Network/registrations/products
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/registrations/products/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

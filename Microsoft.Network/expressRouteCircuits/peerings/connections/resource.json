@@ -1,0 +1,10 @@
+[
+    "Microsoft.Network/expressRouteCircuits/peerings/connections/addressPrefix",
+    "Microsoft.Network/expressRouteCircuits/peerings/connections/authorizationKey",
+    "Microsoft.Network/expressRouteCircuits/peerings/connections/circuitConnectionStatus",
+    "Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering",
+    "Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering.id",
+    "Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering",
+    "Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering.id",
+    "Microsoft.Network/expressRouteCircuits/peerings/connections/provisioningState"
+]

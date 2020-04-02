@@ -1,0 +1,187 @@
+attachedConnections:
+  path: Microsoft.Network/virtualHubs/routeTables/attachedConnections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualHubs/routeTables/attachedConnections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+attachedConnections[*]:
+  path: Microsoft.Network/virtualHubs/routeTables/attachedConnections[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualHubs/routeTables/attachedConnections[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/virtualHubs/routeTables/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualHubs/routeTables/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routes:
+  path: Microsoft.Network/virtualHubs/routeTables/routes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualHubs/routeTables/routes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routes[*]:
+  path: Microsoft.Network/virtualHubs/routeTables/routes[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routes[*].destinationType:
+  path: Microsoft.Network/virtualHubs/routeTables/routes[*].destinationType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*].destinationType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routes[*].destinations:
+  path: Microsoft.Network/virtualHubs/routeTables/routes[*].destinations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*].destinations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routes[*].destinations[*]:
+  path: Microsoft.Network/virtualHubs/routeTables/routes[*].destinations[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*].destinations[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routes[*].nextHopType:
+  path: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHopType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHopType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routes[*].nextHops:
+  path: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routes[*].nextHops[*]:
+  path: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

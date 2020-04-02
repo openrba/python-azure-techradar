@@ -1,0 +1,11 @@
+[
+    "Microsoft.Compute/integrationAccounts/agreements",
+    "Microsoft.Compute/integrationAccounts/assemblies",
+    "Microsoft.Compute/integrationAccounts/batchConfigurations",
+    "Microsoft.Compute/integrationAccounts/certificates",
+    "Microsoft.Compute/integrationAccounts/maps",
+    "Microsoft.Compute/integrationAccounts/partners",
+    "Microsoft.Compute/integrationAccounts/rosettaNetProcessConfigurations",
+    "Microsoft.Compute/integrationAccounts/schemas",
+    "Microsoft.Compute/integrationAccounts/sessions"
+]

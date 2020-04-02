@@ -1,0 +1,85 @@
+access:
+  path: Microsoft.Network/routeFilters/routeFilterRules/access
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/routeFilters/routeFilterRules/access/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+communities:
+  path: Microsoft.Network/routeFilters/routeFilterRules/communities
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/routeFilters/routeFilterRules/communities/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+communities[*]:
+  path: Microsoft.Network/routeFilters/routeFilterRules/communities[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/routeFilters/routeFilterRules/communities[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/routeFilters/routeFilterRules/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/routeFilters/routeFilterRules/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routeFilterRuleType:
+  path: Microsoft.Network/routeFilters/routeFilterRules/routeFilterRuleType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/routeFilters/routeFilterRules/routeFilterRuleType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

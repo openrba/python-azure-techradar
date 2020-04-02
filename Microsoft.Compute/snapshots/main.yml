@@ -1,0 +1,850 @@
+accountType:
+  path: Microsoft.Compute/snapshots/accountType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/accountType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData:
+  path: Microsoft.Compute/snapshots/creationData
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/creationData/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.createOption:
+  path: Microsoft.Compute/snapshots/creationData.createOption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/creationData.createOption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.imageReference:
+  path: Microsoft.Compute/snapshots/creationData.imageReference
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/creationData.imageReference/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.imageReference.id:
+  path: Microsoft.Compute/snapshots/creationData.imageReference.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/creationData.imageReference.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.imageReference.lun:
+  path: Microsoft.Compute/snapshots/creationData.imageReference.lun
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/creationData.imageReference.lun/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.sourceResourceId:
+  path: Microsoft.Compute/snapshots/creationData.sourceResourceId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/creationData.sourceResourceId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.sourceUniqueId:
+  path: Microsoft.Compute/snapshots/creationData.sourceUniqueId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/creationData.sourceUniqueId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.sourceUri:
+  path: Microsoft.Compute/snapshots/creationData.sourceUri
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/creationData.sourceUri/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.storageAccountId:
+  path: Microsoft.Compute/snapshots/creationData.storageAccountId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/creationData.storageAccountId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+creationData.uploadSizeBytes:
+  path: Microsoft.Compute/snapshots/creationData.uploadSizeBytes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/creationData.uploadSizeBytes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+diskSizeBytes:
+  path: Microsoft.Compute/snapshots/diskSizeBytes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/diskSizeBytes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+diskSizeGB:
+  path: Microsoft.Compute/snapshots/diskSizeGB
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/diskSizeGB/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryption:
+  path: Microsoft.Compute/snapshots/encryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryption.diskEncryptionSetId:
+  path: Microsoft.Compute/snapshots/encryption.diskEncryptionSetId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryption.diskEncryptionSetId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryption.type:
+  path: Microsoft.Compute/snapshots/encryption.type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryption.type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings:
+  path: Microsoft.Compute/snapshots/encryptionSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.diskEncryptionKey:
+  path: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.diskEncryptionKey.secretUrl:
+  path: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.secretUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.secretUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.diskEncryptionKey.sourceVault:
+  path: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.diskEncryptionKey.sourceVault.id:
+  path: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.enabled:
+  path: Microsoft.Compute/snapshots/encryptionSettings.enabled
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettings.enabled/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.keyEncryptionKey:
+  path: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.keyEncryptionKey.keyUrl:
+  path: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.keyUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.keyUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.keyEncryptionKey.sourceVault:
+  path: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.sourceVault
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.sourceVault/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettings.keyEncryptionKey.sourceVault.id:
+  path: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.sourceVault.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.sourceVault.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.enabled:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection.enabled
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.enabled/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettingsVersion:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettingsVersion
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettingsVersion/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*]:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id:
+  path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hyperVGeneration:
+  path: Microsoft.Compute/snapshots/hyperVGeneration
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/hyperVGeneration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+incremental:
+  path: Microsoft.Compute/snapshots/incremental
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/incremental/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managedBy:
+  path: Microsoft.Compute/snapshots/managedBy
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/managedBy/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+osType:
+  path: Microsoft.Compute/snapshots/osType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/osType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ownerId:
+  path: Microsoft.Compute/snapshots/ownerId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/ownerId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Compute/snapshots/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku:
+  path: Microsoft.Compute/snapshots/sku
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/sku/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku.name:
+  path: Microsoft.Compute/snapshots/sku.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/sku.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku.tier:
+  path: Microsoft.Compute/snapshots/sku.tier
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/sku.tier/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+timeCreated:
+  path: Microsoft.Compute/snapshots/timeCreated
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/timeCreated/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+uniqueId:
+  path: Microsoft.Compute/snapshots/uniqueId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/snapshots/uniqueId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

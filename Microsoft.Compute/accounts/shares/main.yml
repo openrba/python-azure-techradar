@@ -1,0 +1,68 @@
+datasets:
+  path: Microsoft.Compute/accounts/shares/datasets
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/accounts/shares/datasets/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+invitations:
+  path: Microsoft.Compute/accounts/shares/invitations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/accounts/shares/invitations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+providersharesubscriptions:
+  path: Microsoft.Compute/accounts/shares/providersharesubscriptions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/accounts/shares/providersharesubscriptions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+synchronizationSettings:
+  path: Microsoft.Compute/accounts/shares/synchronizationSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/accounts/shares/synchronizationSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,5 @@
+[
+    "Microsoft.Network/accounts/sharesubscriptions/consumerSourceDataSets",
+    "Microsoft.Network/accounts/sharesubscriptions/datasetmappings",
+    "Microsoft.Network/accounts/sharesubscriptions/triggers"
+]

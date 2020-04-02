@@ -1,0 +1,595 @@
+aRecords:
+  path: Microsoft.Network/privateDnsZones/AAAA/aRecords
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/aRecords/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+aRecords[*]:
+  path: Microsoft.Network/privateDnsZones/AAAA/aRecords[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/aRecords[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+aRecords[*].ipv4Address:
+  path: Microsoft.Network/privateDnsZones/AAAA/aRecords[*].ipv4Address
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/aRecords[*].ipv4Address/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+aaaaRecords:
+  path: Microsoft.Network/privateDnsZones/AAAA/aaaaRecords
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/aaaaRecords/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+aaaaRecords[*]:
+  path: Microsoft.Network/privateDnsZones/AAAA/aaaaRecords[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/aaaaRecords[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+aaaaRecords[*].ipv6Address:
+  path: Microsoft.Network/privateDnsZones/AAAA/aaaaRecords[*].ipv6Address
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/aaaaRecords[*].ipv6Address/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+cnameRecord:
+  path: Microsoft.Network/privateDnsZones/AAAA/cnameRecord
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/cnameRecord/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+cnameRecord.cname:
+  path: Microsoft.Network/privateDnsZones/AAAA/cnameRecord.cname
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/cnameRecord.cname/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fqdn:
+  path: Microsoft.Network/privateDnsZones/AAAA/fqdn
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/fqdn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+isAutoRegistered:
+  path: Microsoft.Network/privateDnsZones/AAAA/isAutoRegistered
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/isAutoRegistered/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metadata:
+  path: Microsoft.Network/privateDnsZones/AAAA/metadata
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/metadata/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+mxRecords:
+  path: Microsoft.Network/privateDnsZones/AAAA/mxRecords
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/mxRecords/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+mxRecords[*]:
+  path: Microsoft.Network/privateDnsZones/AAAA/mxRecords[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/mxRecords[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+mxRecords[*].exchange:
+  path: Microsoft.Network/privateDnsZones/AAAA/mxRecords[*].exchange
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/mxRecords[*].exchange/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+mxRecords[*].preference:
+  path: Microsoft.Network/privateDnsZones/AAAA/mxRecords[*].preference
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/mxRecords[*].preference/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ptrRecords:
+  path: Microsoft.Network/privateDnsZones/AAAA/ptrRecords
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/ptrRecords/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ptrRecords[*]:
+  path: Microsoft.Network/privateDnsZones/AAAA/ptrRecords[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/ptrRecords[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ptrRecords[*].ptrdname:
+  path: Microsoft.Network/privateDnsZones/AAAA/ptrRecords[*].ptrdname
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/ptrRecords[*].ptrdname/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+soaRecord:
+  path: Microsoft.Network/privateDnsZones/AAAA/soaRecord
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/soaRecord/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+soaRecord.email:
+  path: Microsoft.Network/privateDnsZones/AAAA/soaRecord.email
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/soaRecord.email/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+soaRecord.expireTime:
+  path: Microsoft.Network/privateDnsZones/AAAA/soaRecord.expireTime
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/soaRecord.expireTime/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+soaRecord.host:
+  path: Microsoft.Network/privateDnsZones/AAAA/soaRecord.host
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/soaRecord.host/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+soaRecord.minimumTtl:
+  path: Microsoft.Network/privateDnsZones/AAAA/soaRecord.minimumTtl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/soaRecord.minimumTtl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+soaRecord.refreshTime:
+  path: Microsoft.Network/privateDnsZones/AAAA/soaRecord.refreshTime
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/soaRecord.refreshTime/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+soaRecord.retryTime:
+  path: Microsoft.Network/privateDnsZones/AAAA/soaRecord.retryTime
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/soaRecord.retryTime/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+soaRecord.serialNumber:
+  path: Microsoft.Network/privateDnsZones/AAAA/soaRecord.serialNumber
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/soaRecord.serialNumber/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+srvRecords:
+  path: Microsoft.Network/privateDnsZones/AAAA/srvRecords
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/srvRecords/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+srvRecords[*]:
+  path: Microsoft.Network/privateDnsZones/AAAA/srvRecords[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/srvRecords[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+srvRecords[*].port:
+  path: Microsoft.Network/privateDnsZones/AAAA/srvRecords[*].port
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/srvRecords[*].port/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+srvRecords[*].priority:
+  path: Microsoft.Network/privateDnsZones/AAAA/srvRecords[*].priority
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/srvRecords[*].priority/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+srvRecords[*].target:
+  path: Microsoft.Network/privateDnsZones/AAAA/srvRecords[*].target
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/srvRecords[*].target/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+srvRecords[*].weight:
+  path: Microsoft.Network/privateDnsZones/AAAA/srvRecords[*].weight
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/srvRecords[*].weight/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ttl:
+  path: Microsoft.Network/privateDnsZones/AAAA/ttl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/ttl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+txtRecords:
+  path: Microsoft.Network/privateDnsZones/AAAA/txtRecords
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/txtRecords/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+txtRecords[*]:
+  path: Microsoft.Network/privateDnsZones/AAAA/txtRecords[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateDnsZones/AAAA/txtRecords[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

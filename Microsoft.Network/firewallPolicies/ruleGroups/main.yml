@@ -1,0 +1,119 @@
+priority:
+  path: Microsoft.Network/firewallPolicies/ruleGroups/priority
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/firewallPolicies/ruleGroups/priority/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/firewallPolicies/ruleGroups/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/firewallPolicies/ruleGroups/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+rules:
+  path: Microsoft.Network/firewallPolicies/ruleGroups/rules
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/firewallPolicies/ruleGroups/rules/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+rules[*]:
+  path: Microsoft.Network/firewallPolicies/ruleGroups/rules[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/firewallPolicies/ruleGroups/rules[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+rules[*].name:
+  path: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+rules[*].priority:
+  path: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].priority
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].priority/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+rules[*].ruleType:
+  path: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].ruleType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].ruleType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

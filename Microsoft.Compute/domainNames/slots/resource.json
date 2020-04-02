@@ -1,0 +1,5 @@
+[
+    "Microsoft.Compute/domainNames/slots/roles",
+    "Microsoft.Compute/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.Compute/domainNames/slots/roles/metrics"
+]

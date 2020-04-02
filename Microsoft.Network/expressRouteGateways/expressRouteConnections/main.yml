@@ -1,0 +1,102 @@
+authorizationKey:
+  path: Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enableInternetSecurity:
+  path: Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+expressRouteCircuitPeering:
+  path: Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+expressRouteCircuitPeering.id:
+  path: Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routingWeight:
+  path: Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

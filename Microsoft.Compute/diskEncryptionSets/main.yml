@@ -1,0 +1,170 @@
+activeKey:
+  path: Microsoft.Compute/diskEncryptionSets/activeKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/diskEncryptionSets/activeKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+activeKey.keyUrl:
+  path: Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+activeKey.sourceVault:
+  path: Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+activeKey.sourceVault.id:
+  path: Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+previousKeys:
+  path: Microsoft.Compute/diskEncryptionSets/previousKeys
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/diskEncryptionSets/previousKeys/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+previousKeys[*]:
+  path: Microsoft.Compute/diskEncryptionSets/previousKeys[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/diskEncryptionSets/previousKeys[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+previousKeys[*].keyUrl:
+  path: Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+previousKeys[*].sourceVault:
+  path: Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+previousKeys[*].sourceVault.id:
+  path: Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Compute/diskEncryptionSets/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/diskEncryptionSets/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

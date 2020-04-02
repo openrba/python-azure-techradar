@@ -1,0 +1,3519 @@
+authorizationKey:
+  path: Microsoft.Network/connections/authorizationKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/authorizationKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionProtocol:
+  path: Microsoft.Network/connections/connectionProtocol
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/connectionProtocol/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionStatus:
+  path: Microsoft.Network/connections/connectionStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/connectionStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionType:
+  path: Microsoft.Network/connections/connectionType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/connectionType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+egressBytesTransferred:
+  path: Microsoft.Network/connections/egressBytesTransferred
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/egressBytesTransferred/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enableBgp:
+  path: Microsoft.Network/connections/enableBgp
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/enableBgp/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+expressRouteGatewayBypass:
+  path: Microsoft.Network/connections/expressRouteGatewayBypass
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/expressRouteGatewayBypass/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ingressBytesTransferred:
+  path: Microsoft.Network/connections/ingressBytesTransferred
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/ingressBytesTransferred/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies:
+  path: Microsoft.Network/connections/ipsecPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/ipsecPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*]:
+  path: Microsoft.Network/connections/ipsecPolicies[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/ipsecPolicies[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].dhGroup:
+  path: Microsoft.Network/connections/ipsecPolicies[*].dhGroup
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/ipsecPolicies[*].dhGroup/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].ikeEncryption:
+  path: Microsoft.Network/connections/ipsecPolicies[*].ikeEncryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/ipsecPolicies[*].ikeEncryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].ikeIntegrity:
+  path: Microsoft.Network/connections/ipsecPolicies[*].ikeIntegrity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/ipsecPolicies[*].ikeIntegrity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].ipsecEncryption:
+  path: Microsoft.Network/connections/ipsecPolicies[*].ipsecEncryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/ipsecPolicies[*].ipsecEncryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].ipsecIntegrity:
+  path: Microsoft.Network/connections/ipsecPolicies[*].ipsecIntegrity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/ipsecPolicies[*].ipsecIntegrity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].pfsGroup:
+  path: Microsoft.Network/connections/ipsecPolicies[*].pfsGroup
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/ipsecPolicies[*].pfsGroup/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].saDataSizeKilobytes:
+  path: Microsoft.Network/connections/ipsecPolicies[*].saDataSizeKilobytes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/ipsecPolicies[*].saDataSizeKilobytes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipsecPolicies[*].saLifeTimeSeconds:
+  path: Microsoft.Network/connections/ipsecPolicies[*].saLifeTimeSeconds
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/ipsecPolicies[*].saLifeTimeSeconds/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2:
+  path: Microsoft.Network/connections/localNetworkGateway2
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.bgpSettings:
+  path: Microsoft.Network/connections/localNetworkGateway2.bgpSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.bgpSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.bgpSettings.asn:
+  path: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.asn
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.asn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.bgpSettings.bgpPeeringAddress:
+  path: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.bgpPeeringAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.bgpPeeringAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.bgpSettings.peerWeight:
+  path: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.peerWeight
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.peerWeight/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.etag:
+  path: Microsoft.Network/connections/localNetworkGateway2.etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.gatewayIpAddress:
+  path: Microsoft.Network/connections/localNetworkGateway2.gatewayIpAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.gatewayIpAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.id:
+  path: Microsoft.Network/connections/localNetworkGateway2.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.localNetworkAddressSpace:
+  path: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.localNetworkAddressSpace.addressPrefixes:
+  path: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.addressPrefixes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.addressPrefixes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.localNetworkAddressSpace.addressPrefixes[*]:
+  path: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.addressPrefixes[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.addressPrefixes[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.location:
+  path: Microsoft.Network/connections/localNetworkGateway2.location
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.location/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.name:
+  path: Microsoft.Network/connections/localNetworkGateway2.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.provisioningState:
+  path: Microsoft.Network/connections/localNetworkGateway2.provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.resourceGuid:
+  path: Microsoft.Network/connections/localNetworkGateway2.resourceGuid
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.resourceGuid/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.tags:
+  path: Microsoft.Network/connections/localNetworkGateway2.tags
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.tags/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkGateway2.type:
+  path: Microsoft.Network/connections/localNetworkGateway2.type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/localNetworkGateway2.type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peer:
+  path: Microsoft.Network/connections/peer
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/peer/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peer.id:
+  path: Microsoft.Network/connections/peer.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/peer.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/connections/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resourceGuid:
+  path: Microsoft.Network/connections/resourceGuid
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/resourceGuid/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+routingWeight:
+  path: Microsoft.Network/connections/routingWeight
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/routingWeight/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sharedKey:
+  path: Microsoft.Network/connections/sharedKey
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/sharedKey/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+trafficSelectorPolicies:
+  path: Microsoft.Network/connections/trafficSelectorPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/trafficSelectorPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+trafficSelectorPolicies[*]:
+  path: Microsoft.Network/connections/trafficSelectorPolicies[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/trafficSelectorPolicies[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+trafficSelectorPolicies[*].localAddressRanges:
+  path: Microsoft.Network/connections/trafficSelectorPolicies[*].localAddressRanges
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/trafficSelectorPolicies[*].localAddressRanges/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+trafficSelectorPolicies[*].localAddressRanges[*]:
+  path: Microsoft.Network/connections/trafficSelectorPolicies[*].localAddressRanges[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/trafficSelectorPolicies[*].localAddressRanges[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+trafficSelectorPolicies[*].remoteAddressRanges:
+  path: Microsoft.Network/connections/trafficSelectorPolicies[*].remoteAddressRanges
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/trafficSelectorPolicies[*].remoteAddressRanges/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+trafficSelectorPolicies[*].remoteAddressRanges[*]:
+  path: Microsoft.Network/connections/trafficSelectorPolicies[*].remoteAddressRanges[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/trafficSelectorPolicies[*].remoteAddressRanges[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tunnelConnectionStatus:
+  path: Microsoft.Network/connections/tunnelConnectionStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/tunnelConnectionStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tunnelConnectionStatus[*]:
+  path: Microsoft.Network/connections/tunnelConnectionStatus[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/tunnelConnectionStatus[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tunnelConnectionStatus[*].connectionStatus:
+  path: Microsoft.Network/connections/tunnelConnectionStatus[*].connectionStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/tunnelConnectionStatus[*].connectionStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tunnelConnectionStatus[*].egressBytesTransferred:
+  path: Microsoft.Network/connections/tunnelConnectionStatus[*].egressBytesTransferred
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/tunnelConnectionStatus[*].egressBytesTransferred/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tunnelConnectionStatus[*].ingressBytesTransferred:
+  path: Microsoft.Network/connections/tunnelConnectionStatus[*].ingressBytesTransferred
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/tunnelConnectionStatus[*].ingressBytesTransferred/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tunnelConnectionStatus[*].lastConnectionEstablishedUtcTime:
+  path: Microsoft.Network/connections/tunnelConnectionStatus[*].lastConnectionEstablishedUtcTime
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/tunnelConnectionStatus[*].lastConnectionEstablishedUtcTime/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tunnelConnectionStatus[*].tunnel:
+  path: Microsoft.Network/connections/tunnelConnectionStatus[*].tunnel
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/tunnelConnectionStatus[*].tunnel/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+usePolicyBasedTrafficSelectors:
+  path: Microsoft.Network/connections/usePolicyBasedTrafficSelectors
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/usePolicyBasedTrafficSelectors/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1:
+  path: Microsoft.Network/connections/virtualNetworkGateway1
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.activeActive:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.activeActive
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.activeActive/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.bgpSettings:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.bgpSettings.asn:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.asn
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.asn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.bgpSettings.bgpPeeringAddress:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.bgpPeeringAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.bgpPeeringAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.bgpSettings.peerWeight:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.peerWeight
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.peerWeight/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.customRoutes:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.customRoutes.addressPrefixes:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes.addressPrefixes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes.addressPrefixes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.customRoutes.addressPrefixes[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes.addressPrefixes[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes.addressPrefixes[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.enableBgp:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.enableBgp
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.enableBgp/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.enableDnsForwarding:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.enableDnsForwarding
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.enableDnsForwarding/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.etag:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.gatewayDefaultSite:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.gatewayDefaultSite
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.gatewayDefaultSite/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.gatewayDefaultSite.id:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.gatewayDefaultSite.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.gatewayDefaultSite.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.gatewayType:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.gatewayType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.gatewayType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.id:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.inboundDnsForwardingEndpoint:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.inboundDnsForwardingEndpoint
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.inboundDnsForwardingEndpoint/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.ipConfigurations:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.ipConfigurations[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.ipConfigurations[*].etag:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.ipConfigurations[*].id:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.ipConfigurations[*].name:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.ipConfigurations[*].privateIPAddress:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].privateIPAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].privateIPAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.ipConfigurations[*].privateIPAllocationMethod:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].privateIPAllocationMethod
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].privateIPAllocationMethod/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.ipConfigurations[*].provisioningState:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.ipConfigurations[*].publicIPAddress:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].publicIPAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].publicIPAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.ipConfigurations[*].publicIPAddress.id:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].publicIPAddress.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].publicIPAddress.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.ipConfigurations[*].subnet:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].subnet
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].subnet/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.ipConfigurations[*].subnet.id:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].subnet.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].subnet.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.location:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.location
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.location/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.name:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.provisioningState:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.resourceGuid:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.resourceGuid
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.resourceGuid/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.sku:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.sku
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.sku/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.sku.capacity:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.sku.capacity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.sku.capacity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.sku.name:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.sku.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.sku.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.sku.tier:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.sku.tier
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.sku.tier/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.tags:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.tags
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.tags/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.type:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.aadAudience:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadAudience
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadAudience/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.aadIssuer:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadIssuer
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadIssuer/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.aadTenant:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadTenant
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadTenant/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.radiusServerAddress:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.radiusServerAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.radiusServerAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.radiusServerSecret:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.radiusServerSecret
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.radiusServerSecret/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncryption:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].etag:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].id:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].name:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].provisioningState:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].thumbprint:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].thumbprint
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].thumbprint/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].etag:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].id:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].name:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].provisioningState:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].publicCertData:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].publicCertData
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].publicCertData/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnGatewayGeneration:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnGatewayGeneration
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnGatewayGeneration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway1.vpnType:
+  path: Microsoft.Network/connections/virtualNetworkGateway1.vpnType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2:
+  path: Microsoft.Network/connections/virtualNetworkGateway2
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.activeActive:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.activeActive
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.activeActive/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.bgpSettings:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.bgpSettings.asn:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.asn
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.asn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.bgpSettings.bgpPeeringAddress:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.bgpPeeringAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.bgpPeeringAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.bgpSettings.peerWeight:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.peerWeight
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.peerWeight/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.customRoutes:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.customRoutes.addressPrefixes:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.addressPrefixes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.addressPrefixes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.customRoutes.addressPrefixes[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.addressPrefixes[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.addressPrefixes[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.enableBgp:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.enableBgp
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.enableBgp/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.enableDnsForwarding:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.enableDnsForwarding
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.enableDnsForwarding/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.etag:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.gatewayDefaultSite:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.gatewayDefaultSite
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.gatewayDefaultSite/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.gatewayDefaultSite.id:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.gatewayDefaultSite.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.gatewayDefaultSite.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.gatewayType:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.gatewayType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.gatewayType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.id:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.inboundDnsForwardingEndpoint:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.inboundDnsForwardingEndpoint
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.inboundDnsForwardingEndpoint/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.ipConfigurations:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.ipConfigurations[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.ipConfigurations[*].etag:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.ipConfigurations[*].id:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.ipConfigurations[*].name:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.ipConfigurations[*].privateIPAddress:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].privateIPAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].privateIPAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.ipConfigurations[*].privateIPAllocationMethod:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].privateIPAllocationMethod
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].privateIPAllocationMethod/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.ipConfigurations[*].provisioningState:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.ipConfigurations[*].publicIPAddress:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].publicIPAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].publicIPAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.ipConfigurations[*].publicIPAddress.id:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].publicIPAddress.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].publicIPAddress.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.ipConfigurations[*].subnet:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].subnet
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].subnet/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.ipConfigurations[*].subnet.id:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].subnet.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].subnet.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.location:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.location
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.location/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.name:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.provisioningState:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.resourceGuid:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.resourceGuid
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.resourceGuid/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.sku:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.sku
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.sku/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.sku.capacity:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.sku.capacity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.sku.capacity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.sku.name:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.sku.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.sku.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.sku.tier:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.sku.tier
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.sku.tier/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.tags:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.tags
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.tags/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.type:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.aadAudience:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadAudience
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadAudience/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.aadIssuer:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadIssuer
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadIssuer/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.aadTenant:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadTenant
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadTenant/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.radiusServerAddress:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.radiusServerAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.radiusServerAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.radiusServerSecret:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.radiusServerSecret
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.radiusServerSecret/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncryption:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].etag:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].id:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].name:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].provisioningState:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].thumbprint:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].thumbprint
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].thumbprint/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*]:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].etag:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].id:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].name:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].provisioningState:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].publicCertData:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].publicCertData
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].publicCertData/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnGatewayGeneration:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnGatewayGeneration
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnGatewayGeneration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkGateway2.vpnType:
+  path: Microsoft.Network/connections/virtualNetworkGateway2.vpnType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

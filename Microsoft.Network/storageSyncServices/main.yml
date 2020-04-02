@@ -1,0 +1,51 @@
+registeredServers:
+  path: Microsoft.Network/storageSyncServices/registeredServers
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/storageSyncServices/registeredServers/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+syncGroups:
+  path: Microsoft.Network/storageSyncServices/syncGroups
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/storageSyncServices/syncGroups/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+workflows:
+  path: Microsoft.Network/storageSyncServices/workflows
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/storageSyncServices/workflows/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

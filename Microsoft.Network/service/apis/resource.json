@@ -1,0 +1,14 @@
+[
+    "Microsoft.Network/service/apis/diagnostics",
+    "Microsoft.Network/service/apis/issues",
+    "Microsoft.Network/service/apis/issues/attachments",
+    "Microsoft.Network/service/apis/issues/comments",
+    "Microsoft.Network/service/apis/operations",
+    "Microsoft.Network/service/apis/operations/policies",
+    "Microsoft.Network/service/apis/operations/tags",
+    "Microsoft.Network/service/apis/policies",
+    "Microsoft.Network/service/apis/releases",
+    "Microsoft.Network/service/apis/schemas",
+    "Microsoft.Network/service/apis/tagDescriptions",
+    "Microsoft.Network/service/apis/tags"
+]

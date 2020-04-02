@@ -1,0 +1,4 @@
+[
+    "Microsoft.Network/registries/runs/cancel",
+    "Microsoft.Network/registries/runs/listLogSasUrl"
+]

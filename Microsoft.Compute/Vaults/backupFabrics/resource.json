@@ -1,0 +1,5 @@
+[
+    "Microsoft.Compute/Vaults/backupFabrics/backupProtectionIntent",
+    "Microsoft.Compute/Vaults/backupFabrics/protectionContainers",
+    "Microsoft.Compute/Vaults/backupFabrics/protectionContainers/protectedItems"
+]

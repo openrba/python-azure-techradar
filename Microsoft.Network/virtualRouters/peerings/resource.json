@@ -1,0 +1,5 @@
+[
+    "Microsoft.Network/virtualRouters/peerings/peerAsn",
+    "Microsoft.Network/virtualRouters/peerings/peerIp",
+    "Microsoft.Network/virtualRouters/peerings/provisioningState"
+]

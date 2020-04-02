@@ -1,0 +1,51 @@
+privateEndpointConnectionProxies:
+  path: Microsoft.Network/privateLinkScopes/privateEndpointConnectionProxies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkScopes/privateEndpointConnectionProxies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.Network/privateLinkScopes/privateEndpointConnections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkScopes/privateEndpointConnections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scopedResources:
+  path: Microsoft.Network/privateLinkScopes/scopedResources
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/privateLinkScopes/scopedResources/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

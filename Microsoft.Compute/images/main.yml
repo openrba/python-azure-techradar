@@ -1,0 +1,544 @@
+hyperVGeneration:
+  path: Microsoft.Compute/images/hyperVGeneration
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/hyperVGeneration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Compute/images/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sourceVirtualMachine:
+  path: Microsoft.Compute/images/sourceVirtualMachine
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/sourceVirtualMachine/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sourceVirtualMachine.id:
+  path: Microsoft.Compute/images/sourceVirtualMachine.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/sourceVirtualMachine.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile:
+  path: Microsoft.Compute/images/storageProfile
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks:
+  path: Microsoft.Compute/images/storageProfile.dataDisks
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks[*]:
+  path: Microsoft.Compute/images/storageProfile.dataDisks[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks[*].blobUri:
+  path: Microsoft.Compute/images/storageProfile.dataDisks[*].blobUri
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].blobUri/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks[*].caching:
+  path: Microsoft.Compute/images/storageProfile.dataDisks[*].caching
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].caching/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks[*].diskEncryptionSet:
+  path: Microsoft.Compute/images/storageProfile.dataDisks[*].diskEncryptionSet
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].diskEncryptionSet/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks[*].diskEncryptionSet.id:
+  path: Microsoft.Compute/images/storageProfile.dataDisks[*].diskEncryptionSet.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].diskEncryptionSet.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks[*].diskSizeGB:
+  path: Microsoft.Compute/images/storageProfile.dataDisks[*].diskSizeGB
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].diskSizeGB/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks[*].lun:
+  path: Microsoft.Compute/images/storageProfile.dataDisks[*].lun
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].lun/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks[*].managedDisk:
+  path: Microsoft.Compute/images/storageProfile.dataDisks[*].managedDisk
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].managedDisk/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks[*].managedDisk.id:
+  path: Microsoft.Compute/images/storageProfile.dataDisks[*].managedDisk.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].managedDisk.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks[*].snapshot:
+  path: Microsoft.Compute/images/storageProfile.dataDisks[*].snapshot
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].snapshot/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks[*].snapshot.id:
+  path: Microsoft.Compute/images/storageProfile.dataDisks[*].snapshot.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].snapshot.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.dataDisks[*].storageAccountType:
+  path: Microsoft.Compute/images/storageProfile.dataDisks[*].storageAccountType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].storageAccountType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk:
+  path: Microsoft.Compute/images/storageProfile.osDisk
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk.blobUri:
+  path: Microsoft.Compute/images/storageProfile.osDisk.blobUri
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk.blobUri/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk.caching:
+  path: Microsoft.Compute/images/storageProfile.osDisk.caching
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk.caching/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk.diskEncryptionSet:
+  path: Microsoft.Compute/images/storageProfile.osDisk.diskEncryptionSet
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk.diskEncryptionSet/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk.diskEncryptionSet.id:
+  path: Microsoft.Compute/images/storageProfile.osDisk.diskEncryptionSet.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk.diskEncryptionSet.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk.diskSizeGB:
+  path: Microsoft.Compute/images/storageProfile.osDisk.diskSizeGB
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk.diskSizeGB/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk.managedDisk:
+  path: Microsoft.Compute/images/storageProfile.osDisk.managedDisk
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk.managedDisk/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk.managedDisk.id:
+  path: Microsoft.Compute/images/storageProfile.osDisk.managedDisk.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk.managedDisk.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk.osState:
+  path: Microsoft.Compute/images/storageProfile.osDisk.osState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk.osState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk.osType:
+  path: Microsoft.Compute/images/storageProfile.osDisk.osType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk.osType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk.snapshot:
+  path: Microsoft.Compute/images/storageProfile.osDisk.snapshot
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk.snapshot/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk.snapshot.id:
+  path: Microsoft.Compute/images/storageProfile.osDisk.snapshot.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk.snapshot.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.osDisk.storageAccountType:
+  path: Microsoft.Compute/images/storageProfile.osDisk.storageAccountType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.osDisk.storageAccountType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageProfile.zoneResilient:
+  path: Microsoft.Compute/images/storageProfile.zoneResilient
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/images/storageProfile.zoneResilient/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

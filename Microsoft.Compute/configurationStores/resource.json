@@ -1,0 +1,4 @@
+[
+    "Microsoft.Compute/configurationStores/eventGridFilters",
+    "Microsoft.Compute/configurationStores/privateEndpointConnections"
+]

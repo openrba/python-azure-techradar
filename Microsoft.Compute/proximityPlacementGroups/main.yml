@@ -1,0 +1,578 @@
+availabilitySets:
+  path: Microsoft.Compute/proximityPlacementGroups/availabilitySets
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilitySets[*]:
+  path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilitySets[*].colocationStatus:
+  path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilitySets[*].colocationStatus.code:
+  path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.code
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.code/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilitySets[*].colocationStatus.displayStatus:
+  path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.displayStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.displayStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilitySets[*].colocationStatus.level:
+  path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.level
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.level/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilitySets[*].colocationStatus.message:
+  path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.message
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.message/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilitySets[*].colocationStatus.time:
+  path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.time
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.time/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilitySets[*].id:
+  path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+colocationStatus:
+  path: Microsoft.Compute/proximityPlacementGroups/colocationStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+colocationStatus.code:
+  path: Microsoft.Compute/proximityPlacementGroups/colocationStatus.code
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.code/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+colocationStatus.displayStatus:
+  path: Microsoft.Compute/proximityPlacementGroups/colocationStatus.displayStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.displayStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+colocationStatus.level:
+  path: Microsoft.Compute/proximityPlacementGroups/colocationStatus.level
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.level/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+colocationStatus.message:
+  path: Microsoft.Compute/proximityPlacementGroups/colocationStatus.message
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.message/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+colocationStatus.time:
+  path: Microsoft.Compute/proximityPlacementGroups/colocationStatus.time
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.time/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+proximityPlacementGroupType:
+  path: Microsoft.Compute/proximityPlacementGroups/proximityPlacementGroupType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/proximityPlacementGroupType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachineScaleSets:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachineScaleSets[*]:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachineScaleSets[*].colocationStatus:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachineScaleSets[*].colocationStatus.code:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.code
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.code/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachineScaleSets[*].colocationStatus.displayStatus:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.displayStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.displayStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachineScaleSets[*].colocationStatus.level:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.level
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.level/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachineScaleSets[*].colocationStatus.message:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.message
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.message/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachineScaleSets[*].colocationStatus.time:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.time
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.time/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachineScaleSets[*].id:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachines
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines[*]:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines[*].colocationStatus:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines[*].colocationStatus.code:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.code
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.code/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines[*].colocationStatus.displayStatus:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.displayStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.displayStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines[*].colocationStatus.level:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.level
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.level/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines[*].colocationStatus.message:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.message
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.message/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines[*].colocationStatus.time:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.time
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.time/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines[*].id:
+  path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,6 @@
+[
+    "Microsoft.Network/routeTables/routes/addressPrefix",
+    "Microsoft.Network/routeTables/routes/nextHopIpAddress",
+    "Microsoft.Network/routeTables/routes/nextHopType",
+    "Microsoft.Network/routeTables/routes/provisioningState"
+]

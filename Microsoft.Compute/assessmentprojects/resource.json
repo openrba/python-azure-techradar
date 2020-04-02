@@ -1,0 +1,6 @@
+[
+    "Microsoft.Compute/assessmentprojects/groups",
+    "Microsoft.Compute/assessmentprojects/groups/assessments",
+    "Microsoft.Compute/assessmentprojects/hypervcollectors",
+    "Microsoft.Compute/assessmentprojects/vmwarecollectors"
+]

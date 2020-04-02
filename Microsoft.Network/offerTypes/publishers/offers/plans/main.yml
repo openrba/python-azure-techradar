@@ -1,0 +1,34 @@
+agreements:
+  path: Microsoft.Network/offerTypes/publishers/offers/plans/agreements
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/offerTypes/publishers/offers/plans/agreements/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+configs:
+  path: Microsoft.Network/offerTypes/publishers/offers/plans/configs
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/offerTypes/publishers/offers/plans/configs/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

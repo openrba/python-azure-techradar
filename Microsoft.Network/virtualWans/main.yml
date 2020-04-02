@@ -1,0 +1,221 @@
+allowBranchToBranchTraffic:
+  path: Microsoft.Network/virtualWans/allowBranchToBranchTraffic
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/allowBranchToBranchTraffic/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+allowVnetToVnetTraffic:
+  path: Microsoft.Network/virtualWans/allowVnetToVnetTraffic
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/allowVnetToVnetTraffic/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+disableVpnEncryption:
+  path: Microsoft.Network/virtualWans/disableVpnEncryption
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/disableVpnEncryption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+office365LocalBreakoutCategory:
+  path: Microsoft.Network/virtualWans/office365LocalBreakoutCategory
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/office365LocalBreakoutCategory/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/virtualWans/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+securityProviderName:
+  path: Microsoft.Network/virtualWans/securityProviderName
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/securityProviderName/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+type:
+  path: Microsoft.Network/virtualWans/type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualHubs:
+  path: Microsoft.Network/virtualWans/virtualHubs
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/virtualHubs/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualHubs[*]:
+  path: Microsoft.Network/virtualWans/virtualHubs[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/virtualHubs[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualHubs[*].id:
+  path: Microsoft.Network/virtualWans/virtualHubs[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/virtualHubs[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnSites:
+  path: Microsoft.Network/virtualWans/vpnSites
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/vpnSites/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnSites[*]:
+  path: Microsoft.Network/virtualWans/vpnSites[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/vpnSites[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vpnSites[*].id:
+  path: Microsoft.Network/virtualWans/vpnSites[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualWans/vpnSites[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

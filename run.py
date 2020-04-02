@@ -195,6 +195,35 @@ def makeMarkdown(data,path):
         mdf.new_line("")
         mdf.new_table(columns=4,rows=adopt_cnt,text=adopt_tbl,text_align='center')
 
+    # Handle the Trial Section
+    mdf.new_header(level=3, title='Trial')
+    mdf.new_paragraph("Technologies that we have seen work with success in projects "
+    "to solve real problems;  first serious usage experience that confirm benefits "
+    "and uncover limitations.  TRIAL technologies are slightly more risky; some "
+    "engineers in our organization walked this path and will share knowledge and "
+    "experiences.  This area can contain services that have been architecture and "
+    "security reviewed but do not contain automated policy managmeent."
+    )
+
+    trial_tbl = ["Resource","Description","Path","Status"]
+    trial_cnt = len(trial_list) + 1
+    for key in trial_list:
+        resourceName    = key
+        resourceDesc    = data[key].get("description","")
+        resourcePath    = data[key].get("path","")
+        resourceUrl     = data[key].get("url","")
+        resourceStatus    = data[key].get("status","")
+        resourceName    = "["+resourceName+"]("+base_url+'/'+resourceUrl+")"
+        trial_tbl.extend([resourceName,resourceDesc,resourcePath,resourceStatus])
+    
+    if trial_cnt == 1:
+        mdf.new_line("")
+        mdf.new_line("There are currently no resources at this ring level.",bold_italics_code='bi', color='red')
+    else:
+        mdf.new_line("")
+        mdf.new_table(columns=4,rows=trial_cnt,text=trial_tbl,text_align='center') 
+
+
     # Handle the Hold Section
     mdf.new_header(level=3, title='Hold')
     mdf.new_paragraph("Technologies not recommended to be used for new projects. "

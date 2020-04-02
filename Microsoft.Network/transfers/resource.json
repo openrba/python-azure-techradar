@@ -1,0 +1,6 @@
+[
+    "Microsoft.Network/transfers/acceptTransfer",
+    "Microsoft.Network/transfers/declineTransfer",
+    "Microsoft.Network/transfers/operationStatus",
+    "Microsoft.Network/transfers/validateTransfer"
+]

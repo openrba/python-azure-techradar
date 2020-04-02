@@ -1,0 +1,5 @@
+[
+    "Microsoft.Network/servers/jobAgents/jobs",
+    "Microsoft.Network/servers/jobAgents/jobs/executions",
+    "Microsoft.Network/servers/jobAgents/jobs/steps"
+]

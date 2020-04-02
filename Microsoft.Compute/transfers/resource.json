@@ -1,0 +1,6 @@
+[
+    "Microsoft.Compute/transfers/acceptTransfer",
+    "Microsoft.Compute/transfers/declineTransfer",
+    "Microsoft.Compute/transfers/operationStatus",
+    "Microsoft.Compute/transfers/validateTransfer"
+]

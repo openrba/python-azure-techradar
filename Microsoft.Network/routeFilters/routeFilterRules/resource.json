@@ -1,0 +1,7 @@
+[
+    "Microsoft.Network/routeFilters/routeFilterRules/access",
+    "Microsoft.Network/routeFilters/routeFilterRules/communities",
+    "Microsoft.Network/routeFilters/routeFilterRules/communities[*]",
+    "Microsoft.Network/routeFilters/routeFilterRules/provisioningState",
+    "Microsoft.Network/routeFilters/routeFilterRules/routeFilterRuleType"
+]

@@ -1,0 +1,136 @@
+alertSettings:
+  path: Microsoft.Network/managers/devices/alertSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managers/devices/alertSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupPolicies:
+  path: Microsoft.Network/managers/devices/backupPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managers/devices/backupPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupScheduleGroups:
+  path: Microsoft.Network/managers/devices/backupScheduleGroups
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managers/devices/backupScheduleGroups/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+chapSettings:
+  path: Microsoft.Network/managers/devices/chapSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managers/devices/chapSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileservers:
+  path: Microsoft.Network/managers/devices/fileservers
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managers/devices/fileservers/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+iscsiservers:
+  path: Microsoft.Network/managers/devices/iscsiservers
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managers/devices/iscsiservers/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+timeSettings:
+  path: Microsoft.Network/managers/devices/timeSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managers/devices/timeSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+volumeContainers:
+  path: Microsoft.Network/managers/devices/volumeContainers
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managers/devices/volumeContainers/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

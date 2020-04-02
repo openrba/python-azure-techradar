@@ -1,0 +1,6 @@
+[
+    "Microsoft.Network/accounts/shares/datasets",
+    "Microsoft.Network/accounts/shares/invitations",
+    "Microsoft.Network/accounts/shares/providersharesubscriptions",
+    "Microsoft.Network/accounts/shares/synchronizationSettings"
+]

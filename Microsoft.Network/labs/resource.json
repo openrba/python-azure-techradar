@@ -1,0 +1,20 @@
+[
+    "Microsoft.Network/labs/artifactSources",
+    "Microsoft.Network/labs/costs",
+    "Microsoft.Network/labs/customImages",
+    "Microsoft.Network/labs/environments",
+    "Microsoft.Network/labs/formulas",
+    "Microsoft.Network/labs/notificationChannels",
+    "Microsoft.Network/labs/policySets/policies",
+    "Microsoft.Network/labs/schedules",
+    "Microsoft.Network/labs/serviceRunners",
+    "Microsoft.Network/labs/users",
+    "Microsoft.Network/labs/users/disks",
+    "Microsoft.Network/labs/users/environments",
+    "Microsoft.Network/labs/users/secrets",
+    "Microsoft.Network/labs/users/serviceFabrics",
+    "Microsoft.Network/labs/users/serviceFabrics/schedules",
+    "Microsoft.Network/labs/virtualMachines",
+    "Microsoft.Network/labs/virtualMachines/schedules",
+    "Microsoft.Network/labs/virtualNetworks"
+]

@@ -1,0 +1,221 @@
+autoReplaceOnFailure:
+  path: Microsoft.Compute/hostGroups/hosts/autoReplaceOnFailure
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/autoReplaceOnFailure/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hostId:
+  path: Microsoft.Compute/hostGroups/hosts/hostId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/hostId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+licenseType:
+  path: Microsoft.Compute/hostGroups/hosts/licenseType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/licenseType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+platformFaultDomain:
+  path: Microsoft.Compute/hostGroups/hosts/platformFaultDomain
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/platformFaultDomain/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Compute/hostGroups/hosts/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningTime:
+  path: Microsoft.Compute/hostGroups/hosts/provisioningTime
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/provisioningTime/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku:
+  path: Microsoft.Compute/hostGroups/hosts/sku
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/sku/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku.capacity:
+  path: Microsoft.Compute/hostGroups/hosts/sku.capacity
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/sku.capacity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku.name:
+  path: Microsoft.Compute/hostGroups/hosts/sku.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/sku.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku.tier:
+  path: Microsoft.Compute/hostGroups/hosts/sku.tier
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/sku.tier/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines:
+  path: Microsoft.Compute/hostGroups/hosts/virtualMachines
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/virtualMachines/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines[*]:
+  path: Microsoft.Compute/hostGroups/hosts/virtualMachines[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/virtualMachines[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines[*].id:
+  path: Microsoft.Compute/hostGroups/hosts/virtualMachines[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/hostGroups/hosts/virtualMachines[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

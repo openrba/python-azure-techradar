@@ -1,0 +1,9 @@
+[
+    "Microsoft.Network/domainNames/capabilities",
+    "Microsoft.Network/domainNames/internalLoadBalancers",
+    "Microsoft.Network/domainNames/serviceCertificates",
+    "Microsoft.Network/domainNames/slots",
+    "Microsoft.Network/domainNames/slots/roles",
+    "Microsoft.Network/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.Network/domainNames/slots/roles/metrics"
+]

@@ -1,0 +1,3 @@
+[
+    "Microsoft.Network/frontDoors/backendPools/backends[*].address"
+]

@@ -1,0 +1,17 @@
+jobs:
+  path: Microsoft.Network/servers/jobAgents/jobs
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/servers/jobAgents/jobs/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -22,6 +22,16 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***
+### Trial
+
+
+Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
+
+|Resource|Description|Path|Status|
+| :---: | :---: | :---: | :---: |
+|[Microsoft.Compute](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/README.md)|UNKNOWN|Microsoft.Compute|TRIAL|
+|[Microsoft.Network](https://github.com/openrba/python-azure-techradar/Microsoft.Network/README.md)|UNKNOWN|Microsoft.Network|TRIAL|
+
 ### Hold
 
 
@@ -65,7 +75,6 @@ Technologies not recommended to be used for new projects. Technologies that we t
 |Microsoft.ClassicSubscription|UNKNOWN|Microsoft.ClassicSubscription|HOLD|
 |Microsoft.CognitiveServices|UNKNOWN|Microsoft.CognitiveServices|HOLD|
 |Microsoft.Commerce|UNKNOWN|Microsoft.Commerce|HOLD|
-|Microsoft.Compute|UNKNOWN|Microsoft.Compute|HOLD|
 |Microsoft.Consumption|UNKNOWN|Microsoft.Consumption|HOLD|
 |Microsoft.ContainerInstance|UNKNOWN|Microsoft.ContainerInstance|HOLD|
 |Microsoft.ContainerRegistry|UNKNOWN|Microsoft.ContainerRegistry|HOLD|
@@ -134,7 +143,6 @@ Technologies not recommended to be used for new projects. Technologies that we t
 |Microsoft.Migrate|UNKNOWN|Microsoft.Migrate|HOLD|
 |Microsoft.MixedReality|UNKNOWN|Microsoft.MixedReality|HOLD|
 |Microsoft.NetApp|UNKNOWN|Microsoft.NetApp|HOLD|
-|Microsoft.Network|UNKNOWN|Microsoft.Network|HOLD|
 |Microsoft.NotificationHubs|UNKNOWN|Microsoft.NotificationHubs|HOLD|
 |Microsoft.ObjectStore|UNKNOWN|Microsoft.ObjectStore|HOLD|
 |Microsoft.OffAzure|UNKNOWN|Microsoft.OffAzure|HOLD|

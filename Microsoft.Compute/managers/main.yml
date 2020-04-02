@@ -1,0 +1,102 @@
+accessControlRecords:
+  path: Microsoft.Compute/managers/accessControlRecords
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/managers/accessControlRecords/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+bandwidthSettings:
+  path: Microsoft.Compute/managers/bandwidthSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/managers/bandwidthSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+devices:
+  path: Microsoft.Compute/managers/devices
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/managers/devices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extendedInformation:
+  path: Microsoft.Compute/managers/extendedInformation
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/managers/extendedInformation/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageAccountCredentials:
+  path: Microsoft.Compute/managers/storageAccountCredentials
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/managers/storageAccountCredentials/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageDomains:
+  path: Microsoft.Compute/managers/storageDomains
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/managers/storageDomains/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

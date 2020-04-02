@@ -1,0 +1,136 @@
+locations:
+  path: Microsoft.Network/subscriptions/locations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/subscriptions/locations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operationresults:
+  path: Microsoft.Network/subscriptions/operationresults
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/subscriptions/operationresults/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+providers:
+  path: Microsoft.Network/subscriptions/providers
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/subscriptions/providers/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resourceGroups:
+  path: Microsoft.Network/subscriptions/resourceGroups
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/subscriptions/resourceGroups/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resourcegroups:
+  path: Microsoft.Network/subscriptions/resourcegroups
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/subscriptions/resourcegroups/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources:
+  path: Microsoft.Network/subscriptions/resources
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/subscriptions/resources/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tagNames:
+  path: Microsoft.Network/subscriptions/tagNames
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/subscriptions/tagNames/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tagnames:
+  path: Microsoft.Network/subscriptions/tagnames
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/subscriptions/tagnames/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

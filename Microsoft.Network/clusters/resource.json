@@ -1,0 +1,13 @@
+[
+    "Microsoft.Network/clusters/applicationTypes",
+    "Microsoft.Network/clusters/applicationTypes/versions",
+    "Microsoft.Network/clusters/applications",
+    "Microsoft.Network/clusters/applications/services",
+    "Microsoft.Network/clusters/attacheddatabaseconfigurations",
+    "Microsoft.Network/clusters/databases",
+    "Microsoft.Network/clusters/databases/dataconnections",
+    "Microsoft.Network/clusters/databases/eventhubconnections",
+    "Microsoft.Network/clusters/databases/principalassignments",
+    "Microsoft.Network/clusters/operationresults",
+    "Microsoft.Network/clusters/principalassignments"
+]

@@ -1,0 +1,4 @@
+[
+    "Microsoft.Compute/reservationOrders/reservations/availableScopes",
+    "Microsoft.Compute/reservationOrders/reservations/revisions"
+]

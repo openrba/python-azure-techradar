@@ -1,0 +1,20 @@
+[
+    "Microsoft.Compute/labs/artifactSources",
+    "Microsoft.Compute/labs/costs",
+    "Microsoft.Compute/labs/customImages",
+    "Microsoft.Compute/labs/environments",
+    "Microsoft.Compute/labs/formulas",
+    "Microsoft.Compute/labs/notificationChannels",
+    "Microsoft.Compute/labs/policySets/policies",
+    "Microsoft.Compute/labs/schedules",
+    "Microsoft.Compute/labs/serviceRunners",
+    "Microsoft.Compute/labs/users",
+    "Microsoft.Compute/labs/users/disks",
+    "Microsoft.Compute/labs/users/environments",
+    "Microsoft.Compute/labs/users/secrets",
+    "Microsoft.Compute/labs/users/serviceFabrics",
+    "Microsoft.Compute/labs/users/serviceFabrics/schedules",
+    "Microsoft.Compute/labs/virtualMachines",
+    "Microsoft.Compute/labs/virtualMachines/schedules",
+    "Microsoft.Compute/labs/virtualNetworks"
+]

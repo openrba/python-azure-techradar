@@ -1,0 +1,12 @@
+[
+    "Microsoft.Compute/diskEncryptionSets/activeKey",
+    "Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl",
+    "Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault",
+    "Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id",
+    "Microsoft.Compute/diskEncryptionSets/previousKeys",
+    "Microsoft.Compute/diskEncryptionSets/previousKeys[*]",
+    "Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl",
+    "Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault",
+    "Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id",
+    "Microsoft.Compute/diskEncryptionSets/provisioningState"
+]

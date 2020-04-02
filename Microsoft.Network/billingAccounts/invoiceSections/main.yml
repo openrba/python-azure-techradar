@@ -1,0 +1,170 @@
+billingSubscriptionMoveOperations:
+  path: Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptionMoveOperations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptionMoveOperations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingSubscriptions:
+  path: Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+elevate:
+  path: Microsoft.Network/billingAccounts/invoiceSections/elevate
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/billingAccounts/invoiceSections/elevate/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+initiateTransfer:
+  path: Microsoft.Network/billingAccounts/invoiceSections/initiateTransfer
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/billingAccounts/invoiceSections/initiateTransfer/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+patchOperations:
+  path: Microsoft.Network/billingAccounts/invoiceSections/patchOperations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/billingAccounts/invoiceSections/patchOperations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+productMoveOperations:
+  path: Microsoft.Network/billingAccounts/invoiceSections/productMoveOperations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/billingAccounts/invoiceSections/productMoveOperations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+productTransfersResults:
+  path: Microsoft.Network/billingAccounts/invoiceSections/productTransfersResults
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/billingAccounts/invoiceSections/productTransfersResults/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+products:
+  path: Microsoft.Network/billingAccounts/invoiceSections/products
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/billingAccounts/invoiceSections/products/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transactions:
+  path: Microsoft.Network/billingAccounts/invoiceSections/transactions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/billingAccounts/invoiceSections/transactions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transfers:
+  path: Microsoft.Network/billingAccounts/invoiceSections/transfers
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/billingAccounts/invoiceSections/transfers/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

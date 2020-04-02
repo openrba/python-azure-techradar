@@ -1,0 +1,5 @@
+[
+    "Microsoft.Network/blueprints/artifacts",
+    "Microsoft.Network/blueprints/versions",
+    "Microsoft.Network/blueprints/versions/artifacts"
+]

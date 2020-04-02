@@ -1,0 +1,2125 @@
+applicationRuleCollections:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*]:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].action:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].action
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].action/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].action.type:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].action.type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].action.type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].etag:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].id:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].name:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].priority:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].priority
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].priority/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].provisioningState:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*]:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].description:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].description
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].description/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].fqdnTags:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].fqdnTags
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].fqdnTags/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].fqdnTags[*]:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].fqdnTags[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].fqdnTags[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].name:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].protocols:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].protocols
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].protocols/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].protocols[*]:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].protocols[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].protocols[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].protocols[*].port:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].protocols[*].port
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].protocols[*].port/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].protocols[*].protocolType:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].protocols[*].protocolType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].protocols[*].protocolType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].sourceAddresses:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].sourceAddresses
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].sourceAddresses/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].sourceAddresses[*]:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].sourceAddresses[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].sourceAddresses[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].sourceIpGroups:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].sourceIpGroups
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].sourceIpGroups/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].sourceIpGroups[*]:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].sourceIpGroups[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].sourceIpGroups[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].targetFqdns:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].targetFqdns
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].targetFqdns/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].targetFqdns[*]:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].targetFqdns[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].targetFqdns[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].targetUrls:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].targetUrls
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].targetUrls/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applicationRuleCollections[*].rules[*].targetUrls[*]:
+  path: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].targetUrls[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/applicationRuleCollections[*].rules[*].targetUrls[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+firewallPolicy:
+  path: Microsoft.Network/azureFirewalls/firewallPolicy
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/firewallPolicy/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+firewallPolicy.id:
+  path: Microsoft.Network/azureFirewalls/firewallPolicy.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/firewallPolicy.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hubIpAddresses:
+  path: Microsoft.Network/azureFirewalls/hubIpAddresses
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/hubIpAddresses/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hubIpAddresses.privateIPAddress:
+  path: Microsoft.Network/azureFirewalls/hubIpAddresses.privateIPAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/hubIpAddresses.privateIPAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hubIpAddresses.publicIPAddresses:
+  path: Microsoft.Network/azureFirewalls/hubIpAddresses.publicIPAddresses
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/hubIpAddresses.publicIPAddresses/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hubIpAddresses.publicIPAddresses[*]:
+  path: Microsoft.Network/azureFirewalls/hubIpAddresses.publicIPAddresses[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/hubIpAddresses.publicIPAddresses[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hubIpAddresses.publicIPAddresses[*].address:
+  path: Microsoft.Network/azureFirewalls/hubIpAddresses.publicIPAddresses[*].address
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/hubIpAddresses.publicIPAddresses[*].address/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*]:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].etag:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].id:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].internalPublicIpAddress:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*].internalPublicIpAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*].internalPublicIpAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].internalPublicIpAddress.id:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*].internalPublicIpAddress.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*].internalPublicIpAddress.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].name:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].privateIPAddress:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*].privateIPAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*].privateIPAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].provisioningState:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].publicIPAddress:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*].publicIPAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*].publicIPAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].publicIPAddress.id:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*].publicIPAddress.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*].publicIPAddress.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].subnet:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*].subnet
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*].subnet/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].subnet.id:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*].subnet.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*].subnet.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipConfigurations[*].type:
+  path: Microsoft.Network/azureFirewalls/ipConfigurations[*].type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipConfigurations[*].type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipGroups:
+  path: Microsoft.Network/azureFirewalls/ipGroups
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipGroups/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipGroups[*]:
+  path: Microsoft.Network/azureFirewalls/ipGroups[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipGroups[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipGroups[*].changeNumber:
+  path: Microsoft.Network/azureFirewalls/ipGroups[*].changeNumber
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipGroups[*].changeNumber/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipGroups[*].id:
+  path: Microsoft.Network/azureFirewalls/ipGroups[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/ipGroups[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementIpConfiguration:
+  path: Microsoft.Network/azureFirewalls/managementIpConfiguration
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/managementIpConfiguration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementIpConfiguration.etag:
+  path: Microsoft.Network/azureFirewalls/managementIpConfiguration.etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/managementIpConfiguration.etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementIpConfiguration.id:
+  path: Microsoft.Network/azureFirewalls/managementIpConfiguration.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/managementIpConfiguration.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementIpConfiguration.name:
+  path: Microsoft.Network/azureFirewalls/managementIpConfiguration.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/managementIpConfiguration.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementIpConfiguration.privateIPAddress:
+  path: Microsoft.Network/azureFirewalls/managementIpConfiguration.privateIPAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/managementIpConfiguration.privateIPAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementIpConfiguration.provisioningState:
+  path: Microsoft.Network/azureFirewalls/managementIpConfiguration.provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/managementIpConfiguration.provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementIpConfiguration.publicIPAddress:
+  path: Microsoft.Network/azureFirewalls/managementIpConfiguration.publicIPAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/managementIpConfiguration.publicIPAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementIpConfiguration.publicIPAddress.id:
+  path: Microsoft.Network/azureFirewalls/managementIpConfiguration.publicIPAddress.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/managementIpConfiguration.publicIPAddress.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementIpConfiguration.subnet:
+  path: Microsoft.Network/azureFirewalls/managementIpConfiguration.subnet
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/managementIpConfiguration.subnet/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementIpConfiguration.subnet.id:
+  path: Microsoft.Network/azureFirewalls/managementIpConfiguration.subnet.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/managementIpConfiguration.subnet.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementIpConfiguration.type:
+  path: Microsoft.Network/azureFirewalls/managementIpConfiguration.type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/managementIpConfiguration.type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*]:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].action:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].action
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].action/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].action.type:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].action.type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].action.type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].etag:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].id:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].name:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].priority:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].priority
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].priority/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].provisioningState:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*]:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].description:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].description
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].description/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].destinationAddresses:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].destinationAddresses
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].destinationAddresses/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].destinationAddresses[*]:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].destinationAddresses[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].destinationAddresses[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].destinationPorts:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].destinationPorts
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].destinationPorts/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].destinationPorts[*]:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].destinationPorts[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].destinationPorts[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].name:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].protocols:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].protocols
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].protocols/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].protocols[*]:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].protocols[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].protocols[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].sourceAddresses:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].sourceAddresses
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].sourceAddresses/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].sourceAddresses[*]:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].sourceAddresses[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].sourceAddresses[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].sourceIpGroups:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].sourceIpGroups
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].sourceIpGroups/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].sourceIpGroups[*]:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].sourceIpGroups[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].sourceIpGroups[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].translatedAddress:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].translatedAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].translatedAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].translatedFqdn:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].translatedFqdn
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].translatedFqdn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+natRuleCollections[*].rules[*].translatedPort:
+  path: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].translatedPort
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/natRuleCollections[*].rules[*].translatedPort/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*]:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].action:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].action
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].action/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].action.type:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].action.type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].action.type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].etag:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].etag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].etag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].id:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].name:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].priority:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].priority
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].priority/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].provisioningState:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*]:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].description:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].description
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].description/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].destinationAddresses:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationAddresses
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationAddresses/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].destinationAddresses[*]:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationAddresses[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationAddresses[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].destinationFqdns:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationFqdns
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationFqdns/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].destinationFqdns[*]:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationFqdns[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationFqdns[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].destinationIpGroups:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationIpGroups
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationIpGroups/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].destinationIpGroups[*]:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationIpGroups[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationIpGroups[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].destinationPorts:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationPorts
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationPorts/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].destinationPorts[*]:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationPorts[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].destinationPorts[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].name:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].protocols:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].protocols
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].protocols/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].protocols[*]:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].protocols[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].protocols[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].sourceAddresses:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].sourceAddresses
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].sourceAddresses/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].sourceAddresses[*]:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].sourceAddresses[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].sourceAddresses[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].sourceIpGroups:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].sourceIpGroups
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].sourceIpGroups/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkRuleCollections[*].rules[*].sourceIpGroups[*]:
+  path: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].sourceIpGroups[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/networkRuleCollections[*].rules[*].sourceIpGroups[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/azureFirewalls/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku:
+  path: Microsoft.Network/azureFirewalls/sku
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/sku/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku.name:
+  path: Microsoft.Network/azureFirewalls/sku.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/sku.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku.tier:
+  path: Microsoft.Network/azureFirewalls/sku.tier
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/sku.tier/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+threatIntelMode:
+  path: Microsoft.Network/azureFirewalls/threatIntelMode
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/threatIntelMode/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualHub:
+  path: Microsoft.Network/azureFirewalls/virtualHub
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/virtualHub/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualHub.id:
+  path: Microsoft.Network/azureFirewalls/virtualHub.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/virtualHub.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+zones:
+  path: Microsoft.Network/azureFirewalls/zones
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/zones/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+zones[*]:
+  path: Microsoft.Network/azureFirewalls/zones[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/azureFirewalls/zones[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

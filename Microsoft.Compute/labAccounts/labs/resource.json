@@ -1,0 +1,4 @@
+[
+    "Microsoft.Compute/labAccounts/labs/environmentSettings",
+    "Microsoft.Compute/labAccounts/labs/users"
+]

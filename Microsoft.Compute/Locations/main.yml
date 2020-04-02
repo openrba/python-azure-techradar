@@ -1,0 +1,85 @@
+OperationStatuses:
+  path: Microsoft.Compute/Locations/OperationStatuses
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/Locations/OperationStatuses/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+OperationTypes:
+  path: Microsoft.Compute/Locations/OperationTypes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/Locations/OperationTypes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilityGroupListenerOperationResults:
+  path: Microsoft.Compute/Locations/availabilityGroupListenerOperationResults
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/Locations/availabilityGroupListenerOperationResults/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlVirtualMachineGroupOperationResults:
+  path: Microsoft.Compute/Locations/sqlVirtualMachineGroupOperationResults
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/Locations/sqlVirtualMachineGroupOperationResults/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlVirtualMachineOperationResults:
+  path: Microsoft.Compute/Locations/sqlVirtualMachineOperationResults
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/Locations/sqlVirtualMachineOperationResults/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

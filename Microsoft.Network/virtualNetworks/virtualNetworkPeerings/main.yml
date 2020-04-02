@@ -1,0 +1,187 @@
+allowForwardedTraffic:
+  path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowForwardedTraffic
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowForwardedTraffic/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+allowGatewayTransit:
+  path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowGatewayTransit
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowGatewayTransit/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+allowVirtualNetworkAccess:
+  path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowVirtualNetworkAccess
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowVirtualNetworkAccess/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peeringState:
+  path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peeringState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peeringState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+remoteAddressSpace:
+  path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+remoteAddressSpace.addressPrefixes:
+  path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+remoteAddressSpace.addressPrefixes[*]:
+  path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+remoteVirtualNetwork:
+  path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+remoteVirtualNetwork.id:
+  path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+useRemoteGateways:
+  path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/useRemoteGateways
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/useRemoteGateways/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

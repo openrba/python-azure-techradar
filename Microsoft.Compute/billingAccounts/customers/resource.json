@@ -1,0 +1,9 @@
+[
+    "Microsoft.Compute/billingAccounts/customers/billingPermissions",
+    "Microsoft.Compute/billingAccounts/customers/billingSubscriptions",
+    "Microsoft.Compute/billingAccounts/customers/initiateTransfer",
+    "Microsoft.Compute/billingAccounts/customers/policies",
+    "Microsoft.Compute/billingAccounts/customers/products",
+    "Microsoft.Compute/billingAccounts/customers/transactions",
+    "Microsoft.Compute/billingAccounts/customers/transfers"
+]

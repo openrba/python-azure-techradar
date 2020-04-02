@@ -1,0 +1,306 @@
+ipPrefix:
+  path: Microsoft.Network/publicIPPrefixes/ipPrefix
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/ipPrefix/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipTags:
+  path: Microsoft.Network/publicIPPrefixes/ipTags
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/ipTags/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipTags[*]:
+  path: Microsoft.Network/publicIPPrefixes/ipTags[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/ipTags[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipTags[*].ipTagType:
+  path: Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ipTags[*].tag:
+  path: Microsoft.Network/publicIPPrefixes/ipTags[*].tag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/ipTags[*].tag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+loadBalancerFrontendIpConfiguration:
+  path: Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+loadBalancerFrontendIpConfiguration.id:
+  path: Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+prefixLength:
+  path: Microsoft.Network/publicIPPrefixes/prefixLength
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/prefixLength/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/publicIPPrefixes/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publicIPAddressVersion:
+  path: Microsoft.Network/publicIPPrefixes/publicIPAddressVersion
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/publicIPAddressVersion/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publicIPAddresses:
+  path: Microsoft.Network/publicIPPrefixes/publicIPAddresses
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/publicIPAddresses/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publicIPAddresses[*]:
+  path: Microsoft.Network/publicIPPrefixes/publicIPAddresses[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/publicIPAddresses[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publicIPAddresses[*].id:
+  path: Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resourceGuid:
+  path: Microsoft.Network/publicIPPrefixes/resourceGuid
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/resourceGuid/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku:
+  path: Microsoft.Network/publicIPPrefixes/sku
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/sku/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sku.name:
+  path: Microsoft.Network/publicIPPrefixes/sku.name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/sku.name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+zones:
+  path: Microsoft.Network/publicIPPrefixes/zones
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/zones/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+zones[*]:
+  path: Microsoft.Network/publicIPPrefixes/zones[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/publicIPPrefixes/zones[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

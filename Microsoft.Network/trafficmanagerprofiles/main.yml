@@ -1,0 +1,1139 @@
+customHeaders:
+  path: Microsoft.Network/trafficmanagerprofiles/customHeaders
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/customHeaders/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customHeaders[*]:
+  path: Microsoft.Network/trafficmanagerprofiles/customHeaders[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/customHeaders[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customHeaders[*].name:
+  path: Microsoft.Network/trafficmanagerprofiles/customHeaders[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/customHeaders[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dnsConfig:
+  path: Microsoft.Network/trafficmanagerprofiles/dnsConfig
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/dnsConfig/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dnsConfig.fqdn:
+  path: Microsoft.Network/trafficmanagerprofiles/dnsConfig.fqdn
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/dnsConfig.fqdn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dnsConfig.relativeName:
+  path: Microsoft.Network/trafficmanagerprofiles/dnsConfig.relativeName
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/dnsConfig.relativeName/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dnsConfig.ttl:
+  path: Microsoft.Network/trafficmanagerprofiles/dnsConfig.ttl
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/dnsConfig.ttl/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpointLocation:
+  path: Microsoft.Network/trafficmanagerprofiles/endpointLocation
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpointLocation/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpointMonitorStatus:
+  path: Microsoft.Network/trafficmanagerprofiles/endpointMonitorStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpointMonitorStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpointStatus:
+  path: Microsoft.Network/trafficmanagerprofiles/endpointStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpointStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*]:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].customHeaders:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].customHeaders
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].customHeaders/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].customHeaders[*]:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].customHeaders[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].customHeaders[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].customHeaders[*].name:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].customHeaders[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].customHeaders[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].customHeaders[*].value:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].customHeaders[*].value
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].customHeaders[*].value/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].endpointLocation:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].endpointLocation
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].endpointLocation/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].endpointMonitorStatus:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].endpointMonitorStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].endpointMonitorStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].endpointStatus:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].endpointStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].endpointStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].geoMapping:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].geoMapping
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].geoMapping/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].geoMapping[*]:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].geoMapping[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].geoMapping[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].id:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].minChildEndpoints:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].minChildEndpoints
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].minChildEndpoints/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].name:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].priority:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].priority
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].priority/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].subnets:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].subnets
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].subnets/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].subnets[*]:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].subnets[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].subnets[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].subnets[*].first:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].subnets[*].first
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].subnets[*].first/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].subnets[*].last:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].subnets[*].last
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].subnets[*].last/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].subnets[*].scope:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].subnets[*].scope
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].subnets[*].scope/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].target:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].target
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].target/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].targetResourceId:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].targetResourceId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].targetResourceId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].type:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+endpoints[*].weight:
+  path: Microsoft.Network/trafficmanagerprofiles/endpoints[*].weight
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/endpoints[*].weight/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+geoMapping:
+  path: Microsoft.Network/trafficmanagerprofiles/geoMapping
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/geoMapping/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+geoMapping[*]:
+  path: Microsoft.Network/trafficmanagerprofiles/geoMapping[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/geoMapping[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+heatMaps:
+  path: Microsoft.Network/trafficmanagerprofiles/heatMaps
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/heatMaps/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+maxReturn:
+  path: Microsoft.Network/trafficmanagerprofiles/maxReturn
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/maxReturn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+minChildEndpoints:
+  path: Microsoft.Network/trafficmanagerprofiles/minChildEndpoints
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/minChildEndpoints/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.customHeaders:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.customHeaders
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.customHeaders/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.customHeaders[*]:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.customHeaders[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.customHeaders[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.customHeaders[*].name:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.customHeaders[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.customHeaders[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.customHeaders[*].value:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.customHeaders[*].value
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.customHeaders[*].value/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.expectedStatusCodeRanges:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.expectedStatusCodeRanges
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.expectedStatusCodeRanges/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.expectedStatusCodeRanges[*]:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.expectedStatusCodeRanges[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.expectedStatusCodeRanges[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.expectedStatusCodeRanges[*].max:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.expectedStatusCodeRanges[*].max
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.expectedStatusCodeRanges[*].max/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.expectedStatusCodeRanges[*].min:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.expectedStatusCodeRanges[*].min
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.expectedStatusCodeRanges[*].min/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.intervalInSeconds:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.intervalInSeconds
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.intervalInSeconds/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.path:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.path
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.path/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.port:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.port
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.port/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.profileMonitorStatus:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.profileMonitorStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.profileMonitorStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.protocol:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.protocol
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.protocol/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.timeoutInSeconds:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.timeoutInSeconds
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.timeoutInSeconds/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+monitorConfig.toleratedNumberOfFailures:
+  path: Microsoft.Network/trafficmanagerprofiles/monitorConfig.toleratedNumberOfFailures
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/monitorConfig.toleratedNumberOfFailures/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+priority:
+  path: Microsoft.Network/trafficmanagerprofiles/priority
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/priority/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+profileStatus:
+  path: Microsoft.Network/trafficmanagerprofiles/profileStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/profileStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subnets:
+  path: Microsoft.Network/trafficmanagerprofiles/subnets
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/subnets/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subnets[*]:
+  path: Microsoft.Network/trafficmanagerprofiles/subnets[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/subnets[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subnets[*].first:
+  path: Microsoft.Network/trafficmanagerprofiles/subnets[*].first
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/subnets[*].first/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subnets[*].last:
+  path: Microsoft.Network/trafficmanagerprofiles/subnets[*].last
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/subnets[*].last/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subnets[*].scope:
+  path: Microsoft.Network/trafficmanagerprofiles/subnets[*].scope
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/subnets[*].scope/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+target:
+  path: Microsoft.Network/trafficmanagerprofiles/target
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/target/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+targetResourceId:
+  path: Microsoft.Network/trafficmanagerprofiles/targetResourceId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/targetResourceId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+trafficRoutingMethod:
+  path: Microsoft.Network/trafficmanagerprofiles/trafficRoutingMethod
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/trafficRoutingMethod/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+trafficViewEnrollmentStatus:
+  path: Microsoft.Network/trafficmanagerprofiles/trafficViewEnrollmentStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/trafficViewEnrollmentStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+weight:
+  path: Microsoft.Network/trafficmanagerprofiles/weight
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/trafficmanagerprofiles/weight/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

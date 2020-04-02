@@ -1,0 +1,9 @@
+[
+    "Microsoft.Network/firewallPolicies/ruleGroups/priority",
+    "Microsoft.Network/firewallPolicies/ruleGroups/provisioningState",
+    "Microsoft.Network/firewallPolicies/ruleGroups/rules",
+    "Microsoft.Network/firewallPolicies/ruleGroups/rules[*]",
+    "Microsoft.Network/firewallPolicies/ruleGroups/rules[*].name",
+    "Microsoft.Network/firewallPolicies/ruleGroups/rules[*].priority",
+    "Microsoft.Network/firewallPolicies/ruleGroups/rules[*].ruleType"
+]

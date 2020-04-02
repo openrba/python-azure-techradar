@@ -1,0 +1,8 @@
+[
+    "Microsoft.Network/ipGroups/firewalls",
+    "Microsoft.Network/ipGroups/firewalls[*]",
+    "Microsoft.Network/ipGroups/firewalls[*].id",
+    "Microsoft.Network/ipGroups/ipAddresses",
+    "Microsoft.Network/ipGroups/ipAddresses[*]",
+    "Microsoft.Network/ipGroups/provisioningState"
+]

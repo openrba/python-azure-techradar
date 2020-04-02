@@ -1,0 +1,5 @@
+[
+    "Microsoft.Compute/stores/accessPolicies",
+    "Microsoft.Compute/stores/services",
+    "Microsoft.Compute/stores/services/tokens"
+]

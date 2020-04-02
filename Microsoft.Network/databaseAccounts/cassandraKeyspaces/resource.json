@@ -1,0 +1,5 @@
+[
+    "Microsoft.Network/databaseAccounts/cassandraKeyspaces/tables",
+    "Microsoft.Network/databaseAccounts/cassandraKeyspaces/tables/throughputSettings",
+    "Microsoft.Network/databaseAccounts/cassandraKeyspaces/throughputSettings"
+]

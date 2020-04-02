@@ -1,0 +1,13 @@
+[
+    "Microsoft.Network/ddosCustomPolicies/protocolCustomSettings",
+    "Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*]",
+    "Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].protocol",
+    "Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].sourceRateOverride",
+    "Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerRateOverride",
+    "Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerSensitivityOverride",
+    "Microsoft.Network/ddosCustomPolicies/provisioningState",
+    "Microsoft.Network/ddosCustomPolicies/publicIPAddresses",
+    "Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*]",
+    "Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*].id",
+    "Microsoft.Network/ddosCustomPolicies/resourceGuid"
+]

@@ -1,0 +1,16 @@
+[
+    "Microsoft.Network/bastionHosts/dnsName",
+    "Microsoft.Network/bastionHosts/ipConfigurations",
+    "Microsoft.Network/bastionHosts/ipConfigurations[*]",
+    "Microsoft.Network/bastionHosts/ipConfigurations[*].etag",
+    "Microsoft.Network/bastionHosts/ipConfigurations[*].id",
+    "Microsoft.Network/bastionHosts/ipConfigurations[*].name",
+    "Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod",
+    "Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState",
+    "Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress",
+    "Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id",
+    "Microsoft.Network/bastionHosts/ipConfigurations[*].subnet",
+    "Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id",
+    "Microsoft.Network/bastionHosts/ipConfigurations[*].type",
+    "Microsoft.Network/bastionHosts/provisioningState"
+]

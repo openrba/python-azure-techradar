@@ -1,0 +1,8 @@
+[
+    "Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey",
+    "Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity",
+    "Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering",
+    "Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id",
+    "Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState",
+    "Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight"
+]

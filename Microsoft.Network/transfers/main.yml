@@ -1,0 +1,68 @@
+acceptTransfer:
+  path: Microsoft.Network/transfers/acceptTransfer
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/transfers/acceptTransfer/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+declineTransfer:
+  path: Microsoft.Network/transfers/declineTransfer
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/transfers/declineTransfer/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operationStatus:
+  path: Microsoft.Network/transfers/operationStatus
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/transfers/operationStatus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+validateTransfer:
+  path: Microsoft.Network/transfers/validateTransfer
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/transfers/validateTransfer/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

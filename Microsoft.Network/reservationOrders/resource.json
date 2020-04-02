@@ -1,0 +1,11 @@
+[
+    "Microsoft.Network/reservationOrders/availableScopes",
+    "Microsoft.Network/reservationOrders/calculateRefund",
+    "Microsoft.Network/reservationOrders/merge",
+    "Microsoft.Network/reservationOrders/reservations",
+    "Microsoft.Network/reservationOrders/reservations/availableScopes",
+    "Microsoft.Network/reservationOrders/reservations/revisions",
+    "Microsoft.Network/reservationOrders/return",
+    "Microsoft.Network/reservationOrders/split",
+    "Microsoft.Network/reservationOrders/swap"
+]

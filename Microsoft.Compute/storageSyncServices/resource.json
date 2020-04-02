@@ -1,0 +1,7 @@
+[
+    "Microsoft.Compute/storageSyncServices/registeredServers",
+    "Microsoft.Compute/storageSyncServices/syncGroups",
+    "Microsoft.Compute/storageSyncServices/syncGroups/cloudEndpoints",
+    "Microsoft.Compute/storageSyncServices/syncGroups/serverEndpoints",
+    "Microsoft.Compute/storageSyncServices/workflows"
+]

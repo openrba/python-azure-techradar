@@ -1,0 +1,8 @@
+[
+    "Microsoft.Network/databaseAccounts/sqlDatabases/containers",
+    "Microsoft.Network/databaseAccounts/sqlDatabases/containers/storedProcedures",
+    "Microsoft.Network/databaseAccounts/sqlDatabases/containers/throughputSettings",
+    "Microsoft.Network/databaseAccounts/sqlDatabases/containers/triggers",
+    "Microsoft.Network/databaseAccounts/sqlDatabases/containers/userDefinedFunctions",
+    "Microsoft.Network/databaseAccounts/sqlDatabases/throughputSettings"
+]

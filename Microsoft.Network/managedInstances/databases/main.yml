@@ -1,0 +1,85 @@
+backupLongTermRetentionPolicies:
+  path: Microsoft.Network/managedInstances/databases/backupLongTermRetentionPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managedInstances/databases/backupLongTermRetentionPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupShortTermRetentionPolicies:
+  path: Microsoft.Network/managedInstances/databases/backupShortTermRetentionPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managedInstances/databases/backupShortTermRetentionPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.Network/managedInstances/databases/schemas
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managedInstances/databases/schemas/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+securityAlertPolicies:
+  path: Microsoft.Network/managedInstances/databases/securityAlertPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managedInstances/databases/securityAlertPolicies/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vulnerabilityAssessments:
+  path: Microsoft.Network/managedInstances/databases/vulnerabilityAssessments
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/managedInstances/databases/vulnerabilityAssessments/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

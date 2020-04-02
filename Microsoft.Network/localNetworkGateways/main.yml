@@ -1,0 +1,170 @@
+bgpSettings:
+  path: Microsoft.Network/localNetworkGateways/bgpSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/localNetworkGateways/bgpSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+bgpSettings.asn:
+  path: Microsoft.Network/localNetworkGateways/bgpSettings.asn
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/localNetworkGateways/bgpSettings.asn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+bgpSettings.bgpPeeringAddress:
+  path: Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+bgpSettings.peerWeight:
+  path: Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+gatewayIpAddress:
+  path: Microsoft.Network/localNetworkGateways/gatewayIpAddress
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/localNetworkGateways/gatewayIpAddress/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkAddressSpace:
+  path: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkAddressSpace.addressPrefixes:
+  path: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+localNetworkAddressSpace.addressPrefixes[*]:
+  path: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Network/localNetworkGateways/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/localNetworkGateways/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resourceGuid:
+  path: Microsoft.Network/localNetworkGateways/resourceGuid
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Network/localNetworkGateways/resourceGuid/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

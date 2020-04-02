@@ -1,0 +1,408 @@
+autoUpgradeMinorVersion:
+  path: Microsoft.Compute/virtualMachines/extensions/autoUpgradeMinorVersion
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/autoUpgradeMinorVersion/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enableAutomaticUpgrade:
+  path: Microsoft.Compute/virtualMachines/extensions/enableAutomaticUpgrade
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/enableAutomaticUpgrade/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+forceUpdateTag:
+  path: Microsoft.Compute/virtualMachines/extensions/forceUpdateTag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/forceUpdateTag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+protectedSettings:
+  path: Microsoft.Compute/virtualMachines/extensions/protectedSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/protectedSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.Compute/virtualMachines/extensions/provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publisher:
+  path: Microsoft.Compute/virtualMachines/extensions/publisher
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/publisher/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources:
+  path: Microsoft.Compute/virtualMachines/extensions/resources
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*]:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*]
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*]/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*].autoUpgradeMinorVersion:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*].autoUpgradeMinorVersion
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].autoUpgradeMinorVersion/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*].forceUpdateTag:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*].forceUpdateTag
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].forceUpdateTag/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*].id:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*].id
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].id/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*].location:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*].location
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].location/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*].name:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*].name
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].name/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*].protectedSettings:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*].protectedSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].protectedSettings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*].provisioningState:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*].provisioningState
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].provisioningState/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*].publisher:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*].publisher
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].publisher/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*].settings:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*].settings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].settings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*].tags:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*].tags
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].tags/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*].type:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*].type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources[*].typeHandlerVersion:
+  path: Microsoft.Compute/virtualMachines/extensions/resources[*].typeHandlerVersion
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].typeHandlerVersion/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+settings:
+  path: Microsoft.Compute/virtualMachines/extensions/settings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/settings/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+settings.workspaceId:
+  path: Microsoft.Compute/virtualMachines/extensions/settings.workspaceId
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/settings.workspaceId/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+type:
+  path: Microsoft.Compute/virtualMachines/extensions/type
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/type/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+typeHandlerVersion:
+  path: Microsoft.Compute/virtualMachines/extensions/typeHandlerVersion
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.Compute/virtualMachines/extensions/typeHandlerVersion/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,15 @@
+[
+    "Microsoft.Network/virtualWans/allowBranchToBranchTraffic",
+    "Microsoft.Network/virtualWans/allowVnetToVnetTraffic",
+    "Microsoft.Network/virtualWans/disableVpnEncryption",
+    "Microsoft.Network/virtualWans/office365LocalBreakoutCategory",
+    "Microsoft.Network/virtualWans/provisioningState",
+    "Microsoft.Network/virtualWans/securityProviderName",
+    "Microsoft.Network/virtualWans/type",
+    "Microsoft.Network/virtualWans/virtualHubs",
+    "Microsoft.Network/virtualWans/virtualHubs[*]",
+    "Microsoft.Network/virtualWans/virtualHubs[*].id",
+    "Microsoft.Network/virtualWans/vpnSites",
+    "Microsoft.Network/virtualWans/vpnSites[*]",
+    "Microsoft.Network/virtualWans/vpnSites[*].id"
+]
