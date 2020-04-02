@@ -243,7 +243,7 @@ Microsoft.AzureData:
   status: HOLD
   url: Microsoft.AzureData
   architecture review:
-    type: UNKNOWN
+    type: SAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -261,7 +261,7 @@ Microsoft.AzureStack:
   status: HOLD
   url: Microsoft.AzureStack
   architecture review:
-    type: UNKNOWN
+    type: IAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -969,13 +969,14 @@ Microsoft.DataFactory:
     notes: There are no security notes for this service at this time.
 Microsoft.DataLakeAnalytics:
   path: Microsoft.DataLakeAnalytics
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Data Lake Analytics allows you to run big data analysis jobs
+    that scale to massive data sets.
+  status: ASSESS
   url: Microsoft.DataLakeAnalytics
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -986,13 +987,14 @@ Microsoft.DataLakeAnalytics:
     notes: There are no security notes for this service at this time.
 Microsoft.DataLakeStore:
   path: Microsoft.DataLakeStore
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Data Lake Storage Gen2 is a set of capabilities dedicated to
+    big data analytics, built on Azure Blob storage.
+  status: ASSESS
   url: Microsoft.DataLakeStore
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -1003,13 +1005,14 @@ Microsoft.DataLakeStore:
     notes: There are no security notes for this service at this time.
 Microsoft.DataMigration:
   path: Microsoft.DataMigration
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Database Migration Service enables seamless migrations from multiple
+    database sources to Azure Data platforms with minimal downtime.
+  status: ASSESS
   url: Microsoft.DataMigration
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: SAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -1020,11 +1023,12 @@ Microsoft.DataMigration:
     notes: There are no security notes for this service at this time.
 Microsoft.DataShare:
   path: Microsoft.DataShare
-  description: UNKNOWN
+  description: Azure Data Share is a safe and secure service for sharing data with
+    third-party organizations.
   status: HOLD
   url: Microsoft.DataShare
   architecture review:
-    type: UNKNOWN
+    type: PAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -1037,13 +1041,15 @@ Microsoft.DataShare:
     notes: There are no security notes for this service at this time.
 Microsoft.Databricks:
   path: Microsoft.Databricks
-  description: UNKNOWN
-  status: HOLD
+  description: Apache Spark-based analytics platform with one-click setup, streamlined
+    workflows, and an interactive workspace for collaboration between data scientists,
+    engineers, and business analysts.
+  status: ASSESS
   url: Microsoft.Databricks
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -1054,15 +1060,16 @@ Microsoft.Databricks:
     notes: There are no security notes for this service at this time.
 Microsoft.DeploymentManager:
   path: Microsoft.DeploymentManager
-  description: UNKNOWN
-  status: HOLD
+  description: Deployment Manager is a feature of Resource Manager. It expands your
+    capabilities during deployment.
+  status: REJECT
   url: Microsoft.DeploymentManager
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: PAAS
+    status: REVIEWED
+    start: 1/1/2020
+    end: 1/1/2020
+    notes: Deployment to use terraform.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -1071,13 +1078,15 @@ Microsoft.DeploymentManager:
     notes: There are no security notes for this service at this time.
 Microsoft.DesktopVirtualization:
   path: Microsoft.DesktopVirtualization
-  description: UNKNOWN
-  status: HOLD
+  description: Deliver a virtual desktop experience and remote apps to any device.
+    Bring together Microsoft 365 and Azure to provide users with the only multi-session
+    Windows 10 experience
+  status: ASSESS
   url: Microsoft.DesktopVirtualization
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -1088,15 +1097,16 @@ Microsoft.DesktopVirtualization:
     notes: There are no security notes for this service at this time.
 Microsoft.DevOps:
   path: Microsoft.DevOps
-  description: UNKNOWN
-  status: HOLD
+  description: Collaborate on software development through source control, work tracking,
+    and continuous integration and delivery, both on-premises and in the cloud!
+  status: REJECT
   url: Microsoft.DevOps
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: PAAS
+    status: REVIEWED
+    start: 3/1/2020
+    end: 3/1/2020
+    notes: Devops pipelines and source control are handled without proprietary tooling.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -1105,13 +1115,14 @@ Microsoft.DevOps:
     notes: There are no security notes for this service at this time.
 Microsoft.DevSpaces:
   path: Microsoft.DevSpaces
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Dev Spaces is an extension to AKS that allows you to easily run
+    and debug your code in the context of a larger application.
+  status: ASSESS
   url: Microsoft.DevSpaces
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: SAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -1122,15 +1133,16 @@ Microsoft.DevSpaces:
     notes: There are no security notes for this service at this time.
 Microsoft.DevTestLab:
   path: Microsoft.DevTestLab
-  description: UNKNOWN
-  status: HOLD
+  description: Azure DevTest Labs enables developers on teams to efficiently self-manage
+    virtual machines (VMs) and PaaS resources without waiting for approvals.
+  status: REJECT
   url: Microsoft.DevTestLab
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: PAAS
+    status: REVIEWED
+    start: 1/1/2020
+    end: 1/1/2020
+    notes: Taken care of by terraform.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -1139,13 +1151,15 @@ Microsoft.DevTestLab:
     notes: There are no security notes for this service at this time.
 Microsoft.Devices:
   path: Microsoft.Devices
-  description: UNKNOWN
-  status: HOLD
+  description: IoT Hub is a managed service, hosted in the cloud, that acts as a central
+    message hub for bi-directional communication between your IoT application and
+    the devices it manages.
+  status: ASSESS
   url: Microsoft.Devices
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -1156,11 +1170,12 @@ Microsoft.Devices:
     notes: There are no security notes for this service at this time.
 Microsoft.DigitalTwins:
   path: Microsoft.DigitalTwins
-  description: UNKNOWN
+  description: Azure Digital Twins Preview is an Azure IoT service that creates comprehensive
+    models of the physical environment.
   status: HOLD
   url: Microsoft.DigitalTwins
   architecture review:
-    type: UNKNOWN
+    type: IAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -1173,13 +1188,14 @@ Microsoft.DigitalTwins:
     notes: There are no security notes for this service at this time.
 Microsoft.DocumentDB:
   path: Microsoft.DocumentDB
-  description: UNKNOWN
-  status: HOLD
+  description: "Azure Cosmos DB is Microsoft\xE2\u20AC\u2122s globally distributed,\
+    \ multi-model database service for operational and analytics workloads."
+  status: ASSESS
   url: Microsoft.DocumentDB
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -1190,11 +1206,11 @@ Microsoft.DocumentDB:
     notes: There are no security notes for this service at this time.
 Microsoft.DomainRegistration:
   path: Microsoft.DomainRegistration
-  description: UNKNOWN
+  description: Register domain names through Microsoft Azure.
   status: HOLD
   url: Microsoft.DomainRegistration
   architecture review:
-    type: UNKNOWN
+    type: SAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED

@@ -67,6 +67,14 @@ Technologies that are promising and have clear potential value-add for us; techn
 |<sub>[Microsoft.DataBricks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DataBricks)</sub>|<sub>an Apache Spark-based analytics platform with one-click setup, streamlined workflows, and an interactive workspace for collaboration between data scientists, engineers, and business analysts.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.DataCatalog](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DataCatalog)</sub>|<sub>Azure Data Catalog is a fully managed cloud service. It lets users discover the data sources they need and understand the data sources they find.</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.DataFactory](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DataFactory)</sub>|<sub>Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management.</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.DataLakeAnalytics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DataLakeAnalytics)</sub>|<sub>Azure Data Lake Analytics allows you to run big data analysis jobs that scale to massive data sets.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.DataLakeStore](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DataLakeStore)</sub>|<sub>Azure Data Lake Storage Gen2 is a set of capabilities dedicated to big data analytics, built on Azure Blob storage.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.DataMigration](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DataMigration)</sub>|<sub>Azure Database Migration Service enables seamless migrations from multiple database sources to Azure Data platforms with minimal downtime.</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.Databricks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Databricks)</sub>|<sub>Apache Spark-based analytics platform with one-click setup, streamlined workflows, and an interactive workspace for collaboration between data scientists, engineers, and business analysts.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.DesktopVirtualization](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DesktopVirtualization)</sub>|<sub>Deliver a virtual desktop experience and remote apps to any device. Bring together Microsoft 365 and Azure to provide users with the only multi-session Windows 10 experience</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.DevSpaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DevSpaces)</sub>|<sub>Azure Dev Spaces is an extension to AKS that allows you to easily run and debug your code in the context of a larger application.</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.Devices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Devices)</sub>|<sub>IoT Hub is a managed service, hosted in the cloud, that acts as a central message hub for bi-directional communication between your IoT application and the devices it manages.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.DocumentDB](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DocumentDB)</sub>|<sub>Azure Cosmos DB is Microsoftâ€™s globally distributed, multi-model database service for operational and analytics workloads.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 
@@ -80,8 +88,8 @@ Technologies not recommended to be used for new projects. Technologies that we t
 |<sub>Microsoft.AnalysisServices</sub>|<sub>Learn how to set up data modeling with Analysis Services in the cloud. Documentation shows you how to create an enterprise BI solution by using tabular data models.</sub>|<sub>SAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Attestation</sub>|<sub>Azure Attestation Service</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.AzureActiveDirectory</sub>|<sub>Azure Active Directory B2C (Azure AD B2C) is an identity management service that enables custom control of how your customers sign up, sign in, and manage their profiles when using your iOS, Android, .NET, single-page (SPA), and other applications.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.AzureData</sub>|<sub>We don't use the Azure Portal often so we need notification function when available for ESU patches.</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.AzureStack</sub>|<sub>Azure Stack is a hybrid cloud computing software solution developed by Microsoft based on the company's Azure cloud platform.</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.AzureData</sub>|<sub>We don't use the Azure Portal often so we need notification function when available for ESU patches.</sub>|<sub>SAAS</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.AzureStack</sub>|<sub>Azure Stack is a hybrid cloud computing software solution developed by Microsoft based on the company's Azure cloud platform.</sub>|<sub>IAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Blockchain</sub>|<sub>Azure Blockchain Workbench Preview is a collection of Azure services and capabilities designed to help you create and deploy blockchain applications to share business processes and data with other organizations.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.BlockchainTokens</sub>|<sub>Azure Blockchain Tokens makes deploying and managing standard tokens easier than ever.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.BotService</sub>|<sub>Develop intelligent, enterprise-grade bots that let you maintain control of your data. Build any type of bot</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
@@ -91,20 +99,9 @@ Technologies not recommended to be used for new projects. Technologies that we t
 |<sub>Microsoft.CustomProviders</sub>|<sub>Azure Custom Resource Providers is an extensibility platform to Azure. It allows you to define custom APIs that can be used to enrich the default Azure experience.</sub>|<sub>SAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.CustomerLockbox</sub>|<sub>Customer Lockbox for Microsoft Azure provides an interface for customers to review and approve or reject customer data access requests.</sub>|<sub>SAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.DataBoxEdge</sub>|<sub>Azure Stack Edge is an AI-enabled edge computing device with network data transfer capabilities.</sub>|<sub>IAAS</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DataLakeAnalytics</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DataLakeStore</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DataMigration</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DataShare</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Databricks</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DeploymentManager</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DesktopVirtualization</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DevOps</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DevSpaces</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DevTestLab</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Devices</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DigitalTwins</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DocumentDB</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DomainRegistration</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.DataShare</sub>|<sub>Azure Data Share is a safe and secure service for sharing data with third-party organizations.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.DigitalTwins</sub>|<sub>Azure Digital Twins Preview is an Azure IoT service that creates comprehensive models of the physical environment.</sub>|<sub>IAAS</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.DomainRegistration</sub>|<sub>Register domain names through Microsoft Azure.</sub>|<sub>SAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.EnterpriseKnowledgeGraph</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.EventGrid</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.EventHub</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
@@ -213,3 +210,6 @@ Technologies not recommended to be used for any projects. Technologies that have
 |<sub>Microsoft.ClassicNetwork</sub>|<sub>Deprecated version of Azure network</sub>|<sub>IAAS</sub>|<sub>REJECT</sub>|
 |<sub>Microsoft.ClassicStorage</sub>|<sub>Deprecated version of Azure storage</sub>|<sub>IAAS</sub>|<sub>REJECT</sub>|
 |<sub>Microsoft.ClassicSubscription</sub>|<sub>Deprecated version of Azure subscription</sub>|<sub>IAAS</sub>|<sub>REJECT</sub>|
+|<sub>Microsoft.DeploymentManager</sub>|<sub>Deployment Manager is a feature of Resource Manager. It expands your capabilities during deployment.</sub>|<sub>PAAS</sub>|<sub>REJECT</sub>|
+|<sub>Microsoft.DevOps</sub>|<sub>Collaborate on software development through source control, work tracking, and continuous integration and delivery, both on-premises and in the cloud!</sub>|<sub>PAAS</sub>|<sub>REJECT</sub>|
+|<sub>Microsoft.DevTestLab</sub>|<sub>Azure DevTest Labs enables developers on teams to efficiently self-manage virtual machines (VMs) and PaaS resources without waiting for approvals.</sub>|<sub>PAAS</sub>|<sub>REJECT</sub>|
