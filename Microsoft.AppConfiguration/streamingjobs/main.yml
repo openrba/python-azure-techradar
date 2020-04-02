@@ -1,0 +1,68 @@
+functions:
+  path: Microsoft.AppConfiguration/streamingjobs/functions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/streamingjobs/functions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+inputs:
+  path: Microsoft.AppConfiguration/streamingjobs/inputs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/streamingjobs/inputs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+outputs:
+  path: Microsoft.AppConfiguration/streamingjobs/outputs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/streamingjobs/outputs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transformations:
+  path: Microsoft.AppConfiguration/streamingjobs/transformations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/streamingjobs/transformations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

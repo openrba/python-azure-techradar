@@ -1,7 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/Locations/OperationStatuses",
-    "Microsoft.AzureActiveDirectory/Locations/OperationTypes",
-    "Microsoft.AzureActiveDirectory/Locations/availabilityGroupListenerOperationResults",
-    "Microsoft.AzureActiveDirectory/Locations/sqlVirtualMachineGroupOperationResults",
-    "Microsoft.AzureActiveDirectory/Locations/sqlVirtualMachineOperationResults"
-]

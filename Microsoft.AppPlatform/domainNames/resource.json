@@ -1,0 +1,9 @@
+[
+    "Microsoft.AppPlatform/domainNames/capabilities",
+    "Microsoft.AppPlatform/domainNames/internalLoadBalancers",
+    "Microsoft.AppPlatform/domainNames/serviceCertificates",
+    "Microsoft.AppPlatform/domainNames/slots",
+    "Microsoft.AppPlatform/domainNames/slots/roles",
+    "Microsoft.AppPlatform/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.AppPlatform/domainNames/slots/roles/metrics"
+]

@@ -1,0 +1,16 @@
+[
+    "Microsoft.AppPlatform/workspaces/clusters",
+    "Microsoft.AppPlatform/workspaces/computes",
+    "Microsoft.AppPlatform/workspaces/dataSources",
+    "Microsoft.AppPlatform/workspaces/dbWorkspaces",
+    "Microsoft.AppPlatform/workspaces/eventGridFilters",
+    "Microsoft.AppPlatform/workspaces/experiments",
+    "Microsoft.AppPlatform/workspaces/experiments/jobs",
+    "Microsoft.AppPlatform/workspaces/fileservers",
+    "Microsoft.AppPlatform/workspaces/linkedServices",
+    "Microsoft.AppPlatform/workspaces/query",
+    "Microsoft.AppPlatform/workspaces/savedSearches",
+    "Microsoft.AppPlatform/workspaces/scopedPrivateLinkProxies",
+    "Microsoft.AppPlatform/workspaces/storageinsightconfigs",
+    "Microsoft.AppPlatform/workspaces/virtualNetworkPeerings"
+]

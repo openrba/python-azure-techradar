@@ -21,20 +21,20 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[artifactSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/artifactSources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/artifactSources</sub>|<sub>ADOPT</sub>|
-|<sub>[costs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/costs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/costs</sub>|<sub>ADOPT</sub>|
-|<sub>[customImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/customImages)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/customImages</sub>|<sub>ADOPT</sub>|
-|<sub>[environments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/environments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/environments</sub>|<sub>ADOPT</sub>|
-|<sub>[formulas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/formulas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/formulas</sub>|<sub>ADOPT</sub>|
-|<sub>[notificationChannels](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/notificationChannels)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/notificationChannels</sub>|<sub>ADOPT</sub>|
-|<sub>[policySets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/policySets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/policySets</sub>|<sub>ADOPT</sub>|
-|<sub>[schedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/schedules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/schedules</sub>|<sub>ADOPT</sub>|
-|<sub>[serviceRunners](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/serviceRunners)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/serviceRunners</sub>|<sub>ADOPT</sub>|
-|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/users)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/users</sub>|<sub>ADOPT</sub>|
-|<sub>[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/virtualMachines)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/virtualMachines</sub>|<sub>ADOPT</sub>|
-|<sub>[virtualNetworks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/virtualNetworks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/virtualNetworks</sub>|<sub>ADOPT</sub>|
+|<sub>[artifactSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/artifactSources)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[costs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/costs)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[customImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/customImages)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[environments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/environments)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[formulas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/formulas)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[notificationChannels](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/notificationChannels)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[policySets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/policySets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[schedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/schedules)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[serviceRunners](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/serviceRunners)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/users)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/virtualMachines)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[virtualNetworks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/virtualNetworks)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

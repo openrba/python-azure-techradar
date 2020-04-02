@@ -1,0 +1,19 @@
+[
+    "Microsoft.AppConfiguration/managedInstances/administrators",
+    "Microsoft.AppConfiguration/managedInstances/databases",
+    "Microsoft.AppConfiguration/managedInstances/databases/backupLongTermRetentionPolicies",
+    "Microsoft.AppConfiguration/managedInstances/databases/backupShortTermRetentionPolicies",
+    "Microsoft.AppConfiguration/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
+    "Microsoft.AppConfiguration/managedInstances/databases/securityAlertPolicies",
+    "Microsoft.AppConfiguration/managedInstances/databases/vulnerabilityAssessments",
+    "Microsoft.AppConfiguration/managedInstances/databases/vulnerabilityAssessments/rules/baselines",
+    "Microsoft.AppConfiguration/managedInstances/encryptionProtector",
+    "Microsoft.AppConfiguration/managedInstances/keys",
+    "Microsoft.AppConfiguration/managedInstances/metricDefinitions",
+    "Microsoft.AppConfiguration/managedInstances/metrics",
+    "Microsoft.AppConfiguration/managedInstances/recoverableDatabases",
+    "Microsoft.AppConfiguration/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies",
+    "Microsoft.AppConfiguration/managedInstances/securityAlertPolicies",
+    "Microsoft.AppConfiguration/managedInstances/tdeCertificates",
+    "Microsoft.AppConfiguration/managedInstances/vulnerabilityAssessments"
+]

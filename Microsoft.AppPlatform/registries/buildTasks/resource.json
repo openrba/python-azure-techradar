@@ -1,0 +1,5 @@
+[
+    "Microsoft.AppPlatform/registries/buildTasks/listSourceRepositoryProperties",
+    "Microsoft.AppPlatform/registries/buildTasks/steps",
+    "Microsoft.AppPlatform/registries/buildTasks/steps/listBuildArguments"
+]

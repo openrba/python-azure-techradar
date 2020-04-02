@@ -1,0 +1,5 @@
+[
+    "Microsoft.Batch/accounts/sharesubscriptions/consumerSourceDataSets",
+    "Microsoft.Batch/accounts/sharesubscriptions/datasetmappings",
+    "Microsoft.Batch/accounts/sharesubscriptions/triggers"
+]

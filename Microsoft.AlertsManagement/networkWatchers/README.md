@@ -33,12 +33,12 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[connectionMonitors](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/networkWatchers/connectionMonitors)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/networkWatchers/connectionMonitors</sub>|<sub>ASSESS</sub>|
-|<sub>[flowLogs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/networkWatchers/flowLogs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/networkWatchers/flowLogs</sub>|<sub>ASSESS</sub>|
-|<sub>[packetCaptures](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/networkWatchers/packetCaptures)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/networkWatchers/packetCaptures</sub>|<sub>ASSESS</sub>|
-|<sub>[pingMeshes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/networkWatchers/pingMeshes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/networkWatchers/pingMeshes</sub>|<sub>ASSESS</sub>|
+|<sub>[connectionMonitors](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/networkWatchers/connectionMonitors)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[flowLogs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/networkWatchers/flowLogs)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[packetCaptures](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/networkWatchers/packetCaptures)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[pingMeshes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/networkWatchers/pingMeshes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

@@ -27,20 +27,20 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[blobServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/blobServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/storageAccounts/blobServices</sub>|<sub>TRIAL</sub>|
-|<sub>[fileServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/fileServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/storageAccounts/fileServices</sub>|<sub>TRIAL</sub>|
-|<sub>[listAccountSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/listAccountSas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/storageAccounts/listAccountSas</sub>|<sub>TRIAL</sub>|
-|<sub>[listServiceSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/listServiceSas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/storageAccounts/listServiceSas</sub>|<sub>TRIAL</sub>|
-|<sub>[managementPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/managementPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/storageAccounts/managementPolicies</sub>|<sub>TRIAL</sub>|
-|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/storageAccounts/metricDefinitions</sub>|<sub>TRIAL</sub>|
-|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/storageAccounts/metrics</sub>|<sub>TRIAL</sub>|
-|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/storageAccounts/privateEndpointConnections</sub>|<sub>TRIAL</sub>|
-|<sub>[queueServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/queueServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/storageAccounts/queueServices</sub>|<sub>TRIAL</sub>|
-|<sub>[services](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/services)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/storageAccounts/services</sub>|<sub>TRIAL</sub>|
-|<sub>[tableServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/tableServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/storageAccounts/tableServices</sub>|<sub>TRIAL</sub>|
-|<sub>[vmImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/vmImages)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/storageAccounts/vmImages</sub>|<sub>TRIAL</sub>|
+|<sub>[blobServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/blobServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[fileServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/fileServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[listAccountSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/listAccountSas)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[listServiceSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/listServiceSas)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[managementPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/managementPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[queueServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/queueServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[services](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/services)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[tableServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/tableServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[vmImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/storageAccounts/vmImages)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

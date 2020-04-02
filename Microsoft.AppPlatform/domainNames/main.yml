@@ -1,0 +1,68 @@
+capabilities:
+  path: Microsoft.AppPlatform/domainNames/capabilities
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/domainNames/capabilities
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+internalLoadBalancers:
+  path: Microsoft.AppPlatform/domainNames/internalLoadBalancers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/domainNames/internalLoadBalancers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceCertificates:
+  path: Microsoft.AppPlatform/domainNames/serviceCertificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/domainNames/serviceCertificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+slots:
+  path: Microsoft.AppPlatform/domainNames/slots
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/domainNames/slots
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

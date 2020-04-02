@@ -1,0 +1,102 @@
+accessControlRecords:
+  path: Microsoft.Batch/managers/accessControlRecords
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/managers/accessControlRecords
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+bandwidthSettings:
+  path: Microsoft.Batch/managers/bandwidthSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/managers/bandwidthSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+devices:
+  path: Microsoft.Batch/managers/devices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/managers/devices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extendedInformation:
+  path: Microsoft.Batch/managers/extendedInformation
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/managers/extendedInformation
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageAccountCredentials:
+  path: Microsoft.Batch/managers/storageAccountCredentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/managers/storageAccountCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageDomains:
+  path: Microsoft.Batch/managers/storageDomains
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/managers/storageDomains
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

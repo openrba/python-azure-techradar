@@ -1,0 +1,11 @@
+[
+    "Microsoft.AppConfiguration/reservationOrders/availableScopes",
+    "Microsoft.AppConfiguration/reservationOrders/calculateRefund",
+    "Microsoft.AppConfiguration/reservationOrders/merge",
+    "Microsoft.AppConfiguration/reservationOrders/reservations",
+    "Microsoft.AppConfiguration/reservationOrders/reservations/availableScopes",
+    "Microsoft.AppConfiguration/reservationOrders/reservations/revisions",
+    "Microsoft.AppConfiguration/reservationOrders/return",
+    "Microsoft.AppConfiguration/reservationOrders/split",
+    "Microsoft.AppConfiguration/reservationOrders/swap"
+]

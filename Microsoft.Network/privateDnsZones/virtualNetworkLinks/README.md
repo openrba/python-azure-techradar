@@ -27,13 +27,13 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/virtualNetworkLinks/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/virtualNetworkLinks/provisioningState</sub>|<sub>TRIAL</sub>|
-|<sub>[registrationEnabled](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/virtualNetworkLinks/registrationEnabled)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/virtualNetworkLinks/registrationEnabled</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualNetwork](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualNetwork.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork.id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork.id</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualNetworkLinkState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetworkLinkState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetworkLinkState</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/virtualNetworkLinks/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[registrationEnabled](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/virtualNetworkLinks/registrationEnabled)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetwork](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetwork.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork.id)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetworkLinkState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetworkLinkState)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

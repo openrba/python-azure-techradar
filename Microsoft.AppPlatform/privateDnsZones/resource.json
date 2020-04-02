@@ -1,0 +1,12 @@
+[
+    "Microsoft.AppPlatform/privateDnsZones/A",
+    "Microsoft.AppPlatform/privateDnsZones/AAAA",
+    "Microsoft.AppPlatform/privateDnsZones/CNAME",
+    "Microsoft.AppPlatform/privateDnsZones/MX",
+    "Microsoft.AppPlatform/privateDnsZones/PTR",
+    "Microsoft.AppPlatform/privateDnsZones/SOA",
+    "Microsoft.AppPlatform/privateDnsZones/SRV",
+    "Microsoft.AppPlatform/privateDnsZones/TXT",
+    "Microsoft.AppPlatform/privateDnsZones/all",
+    "Microsoft.AppPlatform/privateDnsZones/virtualNetworkLinks"
+]

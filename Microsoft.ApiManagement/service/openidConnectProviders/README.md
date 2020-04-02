@@ -33,13 +33,13 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[clientId](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/openidConnectProviders/clientId)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/openidConnectProviders/clientId</sub>|<sub>ASSESS</sub>|
-|<sub>[clientSecret](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/openidConnectProviders/clientSecret)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/openidConnectProviders/clientSecret</sub>|<sub>ASSESS</sub>|
-|<sub>[description](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/openidConnectProviders/description)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/openidConnectProviders/description</sub>|<sub>ASSESS</sub>|
-|<sub>[displayName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/openidConnectProviders/displayName)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/openidConnectProviders/displayName</sub>|<sub>ASSESS</sub>|
-|<sub>[metadataEndpoint](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/openidConnectProviders/metadataEndpoint)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/openidConnectProviders/metadataEndpoint</sub>|<sub>ASSESS</sub>|
+|<sub>[clientId](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/openidConnectProviders/clientId)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[clientSecret](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/openidConnectProviders/clientSecret)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[description](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/openidConnectProviders/description)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[displayName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/openidConnectProviders/displayName)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[metadataEndpoint](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/openidConnectProviders/metadataEndpoint)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

@@ -27,21 +27,21 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[clusters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/clusters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/clusters</sub>|<sub>TRIAL</sub>|
-|<sub>[computes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/computes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/computes</sub>|<sub>TRIAL</sub>|
-|<sub>[dataSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/dataSources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/dataSources</sub>|<sub>TRIAL</sub>|
-|<sub>[dbWorkspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/dbWorkspaces)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/dbWorkspaces</sub>|<sub>TRIAL</sub>|
-|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/eventGridFilters</sub>|<sub>TRIAL</sub>|
-|<sub>[experiments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/experiments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/experiments</sub>|<sub>TRIAL</sub>|
-|<sub>[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/fileservers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/fileservers</sub>|<sub>TRIAL</sub>|
-|<sub>[linkedServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/linkedServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/linkedServices</sub>|<sub>TRIAL</sub>|
-|<sub>[query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/query)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/query</sub>|<sub>TRIAL</sub>|
-|<sub>[savedSearches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/savedSearches)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/savedSearches</sub>|<sub>TRIAL</sub>|
-|<sub>[scopedPrivateLinkProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/scopedPrivateLinkProxies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/scopedPrivateLinkProxies</sub>|<sub>TRIAL</sub>|
-|<sub>[storageinsightconfigs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/storageinsightconfigs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/storageinsightconfigs</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/virtualNetworkPeerings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/virtualNetworkPeerings</sub>|<sub>TRIAL</sub>|
+|<sub>[clusters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/clusters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[computes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/computes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[dataSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/dataSources)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[dbWorkspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/dbWorkspaces)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[experiments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/experiments)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/fileservers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[linkedServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/linkedServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/query)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[savedSearches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/savedSearches)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[scopedPrivateLinkProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/scopedPrivateLinkProxies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[storageinsightconfigs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/storageinsightconfigs)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/virtualNetworkPeerings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

@@ -21,14 +21,14 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[dataflows](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/factories/dataflows)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/factories/dataflows</sub>|<sub>ADOPT</sub>|
-|<sub>[datasets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/factories/datasets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/factories/datasets</sub>|<sub>ADOPT</sub>|
-|<sub>[integrationRuntimes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/factories/integrationRuntimes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/factories/integrationRuntimes</sub>|<sub>ADOPT</sub>|
-|<sub>[linkedservices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/factories/linkedservices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/factories/linkedservices</sub>|<sub>ADOPT</sub>|
-|<sub>[pipelines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/factories/pipelines)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/factories/pipelines</sub>|<sub>ADOPT</sub>|
-|<sub>[triggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/factories/triggers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/factories/triggers</sub>|<sub>ADOPT</sub>|
+|<sub>[dataflows](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/factories/dataflows)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[datasets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/factories/datasets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[integrationRuntimes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/factories/integrationRuntimes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[linkedservices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/factories/linkedservices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[pipelines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/factories/pipelines)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[triggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/factories/triggers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

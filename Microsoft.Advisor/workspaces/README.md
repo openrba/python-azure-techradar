@@ -33,21 +33,21 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[clusters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/clusters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/clusters</sub>|<sub>ASSESS</sub>|
-|<sub>[computes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/computes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/computes</sub>|<sub>ASSESS</sub>|
-|<sub>[dataSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/dataSources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/dataSources</sub>|<sub>ASSESS</sub>|
-|<sub>[dbWorkspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/dbWorkspaces)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/dbWorkspaces</sub>|<sub>ASSESS</sub>|
-|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/eventGridFilters</sub>|<sub>ASSESS</sub>|
-|<sub>[experiments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/experiments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/experiments</sub>|<sub>ASSESS</sub>|
-|<sub>[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/fileservers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/fileservers</sub>|<sub>ASSESS</sub>|
-|<sub>[linkedServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/linkedServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/linkedServices</sub>|<sub>ASSESS</sub>|
-|<sub>[query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/query)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/query</sub>|<sub>ASSESS</sub>|
-|<sub>[savedSearches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/savedSearches)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/savedSearches</sub>|<sub>ASSESS</sub>|
-|<sub>[scopedPrivateLinkProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/scopedPrivateLinkProxies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/scopedPrivateLinkProxies</sub>|<sub>ASSESS</sub>|
-|<sub>[storageinsightconfigs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/storageinsightconfigs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/storageinsightconfigs</sub>|<sub>ASSESS</sub>|
-|<sub>[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/virtualNetworkPeerings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/workspaces/virtualNetworkPeerings</sub>|<sub>ASSESS</sub>|
+|<sub>[clusters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/clusters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[computes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/computes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[dataSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/dataSources)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[dbWorkspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/dbWorkspaces)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[experiments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/experiments)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/fileservers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[linkedServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/linkedServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/query)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[savedSearches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/savedSearches)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[scopedPrivateLinkProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/scopedPrivateLinkProxies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[storageinsightconfigs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/storageinsightconfigs)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/workspaces/virtualNetworkPeerings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

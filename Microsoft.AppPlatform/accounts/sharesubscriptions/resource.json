@@ -1,0 +1,5 @@
+[
+    "Microsoft.AppPlatform/accounts/sharesubscriptions/consumerSourceDataSets",
+    "Microsoft.AppPlatform/accounts/sharesubscriptions/datasetmappings",
+    "Microsoft.AppPlatform/accounts/sharesubscriptions/triggers"
+]

@@ -1,0 +1,6 @@
+[
+    "Microsoft.AppPlatform/transfers/acceptTransfer",
+    "Microsoft.AppPlatform/transfers/declineTransfer",
+    "Microsoft.AppPlatform/transfers/operationStatus",
+    "Microsoft.AppPlatform/transfers/validateTransfer"
+]

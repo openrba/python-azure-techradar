@@ -27,19 +27,19 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[hostedGateway](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/hostedGateway)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/virtualRouters/hostedGateway</sub>|<sub>TRIAL</sub>|
-|<sub>[hostedGateway.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/hostedGateway.id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/virtualRouters/hostedGateway.id</sub>|<sub>TRIAL</sub>|
-|<sub>[hostedSubnet](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/hostedSubnet)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/virtualRouters/hostedSubnet</sub>|<sub>TRIAL</sub>|
-|<sub>[hostedSubnet.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/hostedSubnet.id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/virtualRouters/hostedSubnet.id</sub>|<sub>TRIAL</sub>|
-|<sub>[peerings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/peerings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/virtualRouters/peerings</sub>|<sub>TRIAL</sub>|
-|<sub>[peerings[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/peerings[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/virtualRouters/peerings[*]</sub>|<sub>TRIAL</sub>|
-|<sub>[peerings[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/peerings[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/virtualRouters/peerings[*].id</sub>|<sub>TRIAL</sub>|
-|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/virtualRouters/provisioningState</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualRouterAsn](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/virtualRouterAsn)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/virtualRouters/virtualRouterAsn</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualRouterIps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/virtualRouterIps)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/virtualRouters/virtualRouterIps</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualRouterIps[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/virtualRouterIps[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/virtualRouters/virtualRouterIps[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[hostedGateway](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/hostedGateway)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[hostedGateway.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/hostedGateway.id)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[hostedSubnet](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/hostedSubnet)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[hostedSubnet.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/hostedSubnet.id)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[peerings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/peerings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[peerings[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/peerings[*])</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[peerings[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/peerings[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualRouterAsn](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/virtualRouterAsn)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualRouterIps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/virtualRouterIps)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualRouterIps[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualRouters/virtualRouterIps[*])</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

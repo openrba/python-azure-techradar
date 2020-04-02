@@ -1,0 +1,7 @@
+[
+    "Microsoft.AppPlatform/storageSyncServices/registeredServers",
+    "Microsoft.AppPlatform/storageSyncServices/syncGroups",
+    "Microsoft.AppPlatform/storageSyncServices/syncGroups/cloudEndpoints",
+    "Microsoft.AppPlatform/storageSyncServices/syncGroups/serverEndpoints",
+    "Microsoft.AppPlatform/storageSyncServices/workflows"
+]

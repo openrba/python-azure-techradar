@@ -33,16 +33,16 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[locations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/locations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/subscriptions/locations</sub>|<sub>ASSESS</sub>|
-|<sub>[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/operationresults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/subscriptions/operationresults</sub>|<sub>ASSESS</sub>|
-|<sub>[providers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/providers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/subscriptions/providers</sub>|<sub>ASSESS</sub>|
-|<sub>[resourceGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/resourceGroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/subscriptions/resourceGroups</sub>|<sub>ASSESS</sub>|
-|<sub>[resourcegroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/resourcegroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/subscriptions/resourcegroups</sub>|<sub>ASSESS</sub>|
-|<sub>[resources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/resources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/subscriptions/resources</sub>|<sub>ASSESS</sub>|
-|<sub>[tagNames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/tagNames)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/subscriptions/tagNames</sub>|<sub>ASSESS</sub>|
-|<sub>[tagnames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/tagnames)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/subscriptions/tagnames</sub>|<sub>ASSESS</sub>|
+|<sub>[locations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/locations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/operationresults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[providers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/providers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[resourceGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/resourceGroups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[resourcegroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/resourcegroups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[resources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/resources)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[tagNames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/tagNames)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[tagnames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/subscriptions/tagnames)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

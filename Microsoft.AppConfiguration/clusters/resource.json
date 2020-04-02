@@ -1,0 +1,13 @@
+[
+    "Microsoft.AppConfiguration/clusters/applicationTypes",
+    "Microsoft.AppConfiguration/clusters/applicationTypes/versions",
+    "Microsoft.AppConfiguration/clusters/applications",
+    "Microsoft.AppConfiguration/clusters/applications/services",
+    "Microsoft.AppConfiguration/clusters/attacheddatabaseconfigurations",
+    "Microsoft.AppConfiguration/clusters/databases",
+    "Microsoft.AppConfiguration/clusters/databases/dataconnections",
+    "Microsoft.AppConfiguration/clusters/databases/eventhubconnections",
+    "Microsoft.AppConfiguration/clusters/databases/principalassignments",
+    "Microsoft.AppConfiguration/clusters/operationresults",
+    "Microsoft.AppConfiguration/clusters/principalassignments"
+]

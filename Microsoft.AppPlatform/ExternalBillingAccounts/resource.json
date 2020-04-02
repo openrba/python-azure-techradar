@@ -1,0 +1,6 @@
+[
+    "Microsoft.AppPlatform/ExternalBillingAccounts/Alerts",
+    "Microsoft.AppPlatform/ExternalBillingAccounts/Dimensions",
+    "Microsoft.AppPlatform/ExternalBillingAccounts/Forecast",
+    "Microsoft.AppPlatform/ExternalBillingAccounts/Query"
+]

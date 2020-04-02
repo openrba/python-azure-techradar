@@ -1,0 +1,170 @@
+A:
+  path: Microsoft.AppPlatform/privateDnsZones/A
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/privateDnsZones/A
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+AAAA:
+  path: Microsoft.AppPlatform/privateDnsZones/AAAA
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/privateDnsZones/AAAA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+CNAME:
+  path: Microsoft.AppPlatform/privateDnsZones/CNAME
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/privateDnsZones/CNAME
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+MX:
+  path: Microsoft.AppPlatform/privateDnsZones/MX
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/privateDnsZones/MX
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+PTR:
+  path: Microsoft.AppPlatform/privateDnsZones/PTR
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/privateDnsZones/PTR
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+SOA:
+  path: Microsoft.AppPlatform/privateDnsZones/SOA
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/privateDnsZones/SOA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+SRV:
+  path: Microsoft.AppPlatform/privateDnsZones/SRV
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/privateDnsZones/SRV
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+TXT:
+  path: Microsoft.AppPlatform/privateDnsZones/TXT
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/privateDnsZones/TXT
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+all:
+  path: Microsoft.AppPlatform/privateDnsZones/all
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/privateDnsZones/all
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkLinks:
+  path: Microsoft.AppPlatform/privateDnsZones/virtualNetworkLinks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/privateDnsZones/virtualNetworkLinks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

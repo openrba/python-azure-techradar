@@ -1,0 +1,221 @@
+config:
+  path: Microsoft.Batch/sites/config
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/config
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+domainownershipidentifiers:
+  path: Microsoft.Batch/sites/domainownershipidentifiers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/domainownershipidentifiers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.Batch/sites/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hostNameBindings:
+  path: Microsoft.Batch/sites/hostNameBindings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/hostNameBindings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnection:
+  path: Microsoft.Batch/sites/hybridconnection
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/hybridconnection
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnectionnamespaces:
+  path: Microsoft.Batch/sites/hybridconnectionnamespaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/hybridconnectionnamespaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkConfig:
+  path: Microsoft.Batch/sites/networkConfig
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/networkConfig
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+premieraddons:
+  path: Microsoft.Batch/sites/premieraddons
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/premieraddons
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateaccess:
+  path: Microsoft.Batch/sites/privateaccess
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/privateaccess
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publiccertificates:
+  path: Microsoft.Batch/sites/publiccertificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/publiccertificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+slots:
+  path: Microsoft.Batch/sites/slots
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/slots
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sourcecontrols:
+  path: Microsoft.Batch/sites/sourcecontrols
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/sourcecontrols
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualnetworkconnections:
+  path: Microsoft.Batch/sites/virtualnetworkconnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/sites/virtualnetworkconnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

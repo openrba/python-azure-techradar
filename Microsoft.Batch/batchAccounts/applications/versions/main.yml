@@ -1,0 +1,85 @@
+format:
+  path: Microsoft.Batch/batchAccounts/applications/versions/format
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/batchAccounts/applications/versions/format
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+lastActivationTime:
+  path: Microsoft.Batch/batchAccounts/applications/versions/lastActivationTime
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/batchAccounts/applications/versions/lastActivationTime
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+state:
+  path: Microsoft.Batch/batchAccounts/applications/versions/state
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/batchAccounts/applications/versions/state
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageUrl:
+  path: Microsoft.Batch/batchAccounts/applications/versions/storageUrl
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/batchAccounts/applications/versions/storageUrl
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageUrlExpiry:
+  path: Microsoft.Batch/batchAccounts/applications/versions/storageUrlExpiry
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/batchAccounts/applications/versions/storageUrlExpiry
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

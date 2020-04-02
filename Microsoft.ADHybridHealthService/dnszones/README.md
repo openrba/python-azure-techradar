@@ -21,20 +21,20 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/A)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/dnszones/A</sub>|<sub>ADOPT</sub>|
-|<sub>[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/AAAA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/dnszones/AAAA</sub>|<sub>ADOPT</sub>|
-|<sub>[CAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/CAA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/dnszones/CAA</sub>|<sub>ADOPT</sub>|
-|<sub>[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/CNAME)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/dnszones/CNAME</sub>|<sub>ADOPT</sub>|
-|<sub>[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/MX)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/dnszones/MX</sub>|<sub>ADOPT</sub>|
-|<sub>[NS](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/NS)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/dnszones/NS</sub>|<sub>ADOPT</sub>|
-|<sub>[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/PTR)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/dnszones/PTR</sub>|<sub>ADOPT</sub>|
-|<sub>[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/SOA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/dnszones/SOA</sub>|<sub>ADOPT</sub>|
-|<sub>[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/SRV)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/dnszones/SRV</sub>|<sub>ADOPT</sub>|
-|<sub>[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/TXT)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/dnszones/TXT</sub>|<sub>ADOPT</sub>|
-|<sub>[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/all)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/dnszones/all</sub>|<sub>ADOPT</sub>|
-|<sub>[recordsets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/recordsets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/dnszones/recordsets</sub>|<sub>ADOPT</sub>|
+|<sub>[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/A)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/AAAA)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[CAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/CAA)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/CNAME)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/MX)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[NS](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/NS)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/PTR)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/SOA)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/SRV)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/TXT)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/all)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[recordsets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/dnszones/recordsets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

@@ -1,0 +1,5 @@
+[
+    "Microsoft.AppConfiguration/clusters/databases/dataconnections",
+    "Microsoft.AppConfiguration/clusters/databases/eventhubconnections",
+    "Microsoft.AppConfiguration/clusters/databases/principalassignments"
+]

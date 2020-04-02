@@ -1,0 +1,5 @@
+[
+    "Microsoft.Batch/registries/buildTasks/listSourceRepositoryProperties",
+    "Microsoft.Batch/registries/buildTasks/steps",
+    "Microsoft.Batch/registries/buildTasks/steps/listBuildArguments"
+]

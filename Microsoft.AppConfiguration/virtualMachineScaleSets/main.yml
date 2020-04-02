@@ -1,0 +1,68 @@
+extensions:
+  path: Microsoft.AppConfiguration/virtualMachineScaleSets/extensions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/virtualMachineScaleSets/extensions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkInterfaces:
+  path: Microsoft.AppConfiguration/virtualMachineScaleSets/networkInterfaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/virtualMachineScaleSets/networkInterfaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publicIPAddresses:
+  path: Microsoft.AppConfiguration/virtualMachineScaleSets/publicIPAddresses
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/virtualMachineScaleSets/publicIPAddresses
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines:
+  path: Microsoft.AppConfiguration/virtualMachineScaleSets/virtualMachines
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/virtualMachineScaleSets/virtualMachines
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

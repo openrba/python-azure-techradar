@@ -1,0 +1,51 @@
+customdomains:
+  path: Microsoft.AppConfiguration/profiles/endpoints/customdomains
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/profiles/endpoints/customdomains
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+origingroups:
+  path: Microsoft.AppConfiguration/profiles/endpoints/origingroups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/profiles/endpoints/origingroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+origins:
+  path: Microsoft.AppConfiguration/profiles/endpoints/origins
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/profiles/endpoints/origins
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,6 @@
+[
+    "Microsoft.AppConfiguration/batchAccounts/applications",
+    "Microsoft.AppConfiguration/batchAccounts/applications/versions",
+    "Microsoft.AppConfiguration/batchAccounts/certificates",
+    "Microsoft.AppConfiguration/batchAccounts/pools"
+]

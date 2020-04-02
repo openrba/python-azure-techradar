@@ -1,0 +1,5 @@
+[
+    "Microsoft.AppConfiguration/privateLinkScopes/privateEndpointConnectionProxies",
+    "Microsoft.AppConfiguration/privateLinkScopes/privateEndpointConnections",
+    "Microsoft.AppConfiguration/privateLinkScopes/scopedResources"
+]

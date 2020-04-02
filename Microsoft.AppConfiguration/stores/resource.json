@@ -1,0 +1,5 @@
+[
+    "Microsoft.AppConfiguration/stores/accessPolicies",
+    "Microsoft.AppConfiguration/stores/services",
+    "Microsoft.AppConfiguration/stores/services/tokens"
+]

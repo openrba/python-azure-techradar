@@ -33,20 +33,20 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[blobServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/blobServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/storageAccounts/blobServices</sub>|<sub>ASSESS</sub>|
-|<sub>[fileServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/fileServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/storageAccounts/fileServices</sub>|<sub>ASSESS</sub>|
-|<sub>[listAccountSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/listAccountSas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/storageAccounts/listAccountSas</sub>|<sub>ASSESS</sub>|
-|<sub>[listServiceSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/listServiceSas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/storageAccounts/listServiceSas</sub>|<sub>ASSESS</sub>|
-|<sub>[managementPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/managementPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/storageAccounts/managementPolicies</sub>|<sub>ASSESS</sub>|
-|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/storageAccounts/metricDefinitions</sub>|<sub>ASSESS</sub>|
-|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/storageAccounts/metrics</sub>|<sub>ASSESS</sub>|
-|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/storageAccounts/privateEndpointConnections</sub>|<sub>ASSESS</sub>|
-|<sub>[queueServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/queueServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/storageAccounts/queueServices</sub>|<sub>ASSESS</sub>|
-|<sub>[services](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/services)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/storageAccounts/services</sub>|<sub>ASSESS</sub>|
-|<sub>[tableServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/tableServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/storageAccounts/tableServices</sub>|<sub>ASSESS</sub>|
-|<sub>[vmImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/vmImages)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/storageAccounts/vmImages</sub>|<sub>ASSESS</sub>|
+|<sub>[blobServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/blobServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[fileServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/fileServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[listAccountSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/listAccountSas)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[listServiceSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/listServiceSas)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[managementPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/managementPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[queueServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/queueServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[services](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/services)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[tableServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/tableServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[vmImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/storageAccounts/vmImages)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

@@ -1,0 +1,85 @@
+OperationStatuses:
+  path: Microsoft.AppPlatform/Locations/OperationStatuses
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/Locations/OperationStatuses
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+OperationTypes:
+  path: Microsoft.AppPlatform/Locations/OperationTypes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/Locations/OperationTypes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilityGroupListenerOperationResults:
+  path: Microsoft.AppPlatform/Locations/availabilityGroupListenerOperationResults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/Locations/availabilityGroupListenerOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlVirtualMachineGroupOperationResults:
+  path: Microsoft.AppPlatform/Locations/sqlVirtualMachineGroupOperationResults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/Locations/sqlVirtualMachineGroupOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlVirtualMachineOperationResults:
+  path: Microsoft.AppPlatform/Locations/sqlVirtualMachineOperationResults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/Locations/sqlVirtualMachineOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

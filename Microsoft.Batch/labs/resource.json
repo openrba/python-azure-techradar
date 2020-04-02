@@ -1,0 +1,20 @@
+[
+    "Microsoft.Batch/labs/artifactSources",
+    "Microsoft.Batch/labs/costs",
+    "Microsoft.Batch/labs/customImages",
+    "Microsoft.Batch/labs/environments",
+    "Microsoft.Batch/labs/formulas",
+    "Microsoft.Batch/labs/notificationChannels",
+    "Microsoft.Batch/labs/policySets/policies",
+    "Microsoft.Batch/labs/schedules",
+    "Microsoft.Batch/labs/serviceRunners",
+    "Microsoft.Batch/labs/users",
+    "Microsoft.Batch/labs/users/disks",
+    "Microsoft.Batch/labs/users/environments",
+    "Microsoft.Batch/labs/users/secrets",
+    "Microsoft.Batch/labs/users/serviceFabrics",
+    "Microsoft.Batch/labs/users/serviceFabrics/schedules",
+    "Microsoft.Batch/labs/virtualMachines",
+    "Microsoft.Batch/labs/virtualMachines/schedules",
+    "Microsoft.Batch/labs/virtualNetworks"
+]

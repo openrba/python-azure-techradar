@@ -1,0 +1,6 @@
+[
+    "Microsoft.AppPlatform/accounts/shares/datasets",
+    "Microsoft.AppPlatform/accounts/shares/invitations",
+    "Microsoft.AppPlatform/accounts/shares/providersharesubscriptions",
+    "Microsoft.AppPlatform/accounts/shares/synchronizationSettings"
+]

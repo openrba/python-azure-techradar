@@ -21,10 +21,10 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[customerSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/registrations/customerSubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/registrations/customerSubscriptions</sub>|<sub>ADOPT</sub>|
-|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/registrations/products)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/registrations/products</sub>|<sub>ADOPT</sub>|
+|<sub>[customerSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/registrations/customerSubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/registrations/products)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

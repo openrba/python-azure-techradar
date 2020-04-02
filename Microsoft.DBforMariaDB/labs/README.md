@@ -33,20 +33,20 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[artifactSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/artifactSources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/labs/artifactSources</sub>|<sub>ASSESS</sub>|
-|<sub>[costs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/costs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/labs/costs</sub>|<sub>ASSESS</sub>|
-|<sub>[customImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/customImages)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/labs/customImages</sub>|<sub>ASSESS</sub>|
-|<sub>[environments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/environments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/labs/environments</sub>|<sub>ASSESS</sub>|
-|<sub>[formulas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/formulas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/labs/formulas</sub>|<sub>ASSESS</sub>|
-|<sub>[notificationChannels](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/notificationChannels)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/labs/notificationChannels</sub>|<sub>ASSESS</sub>|
-|<sub>[policySets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/policySets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/labs/policySets</sub>|<sub>ASSESS</sub>|
-|<sub>[schedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/schedules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/labs/schedules</sub>|<sub>ASSESS</sub>|
-|<sub>[serviceRunners](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/serviceRunners)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/labs/serviceRunners</sub>|<sub>ASSESS</sub>|
-|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/users)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/labs/users</sub>|<sub>ASSESS</sub>|
-|<sub>[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/virtualMachines)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/labs/virtualMachines</sub>|<sub>ASSESS</sub>|
-|<sub>[virtualNetworks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/virtualNetworks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/labs/virtualNetworks</sub>|<sub>ASSESS</sub>|
+|<sub>[artifactSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/artifactSources)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[costs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/costs)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[customImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/customImages)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[environments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/environments)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[formulas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/formulas)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[notificationChannels](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/notificationChannels)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[policySets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/policySets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[schedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/schedules)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[serviceRunners](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/serviceRunners)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/users)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/virtualMachines)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[virtualNetworks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/labs/virtualNetworks)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

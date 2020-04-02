@@ -1,0 +1,19 @@
+[
+    "Microsoft.AppConfiguration/storageAccounts/blobServices",
+    "Microsoft.AppConfiguration/storageAccounts/blobServices/containers/immutabilityPolicies",
+    "Microsoft.AppConfiguration/storageAccounts/fileServices",
+    "Microsoft.AppConfiguration/storageAccounts/fileServices/shares",
+    "Microsoft.AppConfiguration/storageAccounts/listAccountSas",
+    "Microsoft.AppConfiguration/storageAccounts/listServiceSas",
+    "Microsoft.AppConfiguration/storageAccounts/managementPolicies",
+    "Microsoft.AppConfiguration/storageAccounts/metricDefinitions",
+    "Microsoft.AppConfiguration/storageAccounts/metrics",
+    "Microsoft.AppConfiguration/storageAccounts/privateEndpointConnections",
+    "Microsoft.AppConfiguration/storageAccounts/queueServices",
+    "Microsoft.AppConfiguration/storageAccounts/services",
+    "Microsoft.AppConfiguration/storageAccounts/services/diagnosticSettings",
+    "Microsoft.AppConfiguration/storageAccounts/services/metricDefinitions",
+    "Microsoft.AppConfiguration/storageAccounts/services/metrics",
+    "Microsoft.AppConfiguration/storageAccounts/tableServices",
+    "Microsoft.AppConfiguration/storageAccounts/vmImages"
+]

@@ -1,0 +1,442 @@
+GetCredentials:
+  path: Microsoft.AppConfiguration/registries/GetCredentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/GetCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+buildTasks:
+  path: Microsoft.AppConfiguration/registries/buildTasks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/buildTasks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+builds:
+  path: Microsoft.AppConfiguration/registries/builds
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/builds
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.AppConfiguration/registries/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+generateCredentials:
+  path: Microsoft.AppConfiguration/registries/generateCredentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/generateCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+getBuildSourceUploadUrl:
+  path: Microsoft.AppConfiguration/registries/getBuildSourceUploadUrl
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/getBuildSourceUploadUrl
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+importImage:
+  path: Microsoft.AppConfiguration/registries/importImage
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/importImage
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listBuildSourceUploadUrl:
+  path: Microsoft.AppConfiguration/registries/listBuildSourceUploadUrl
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/listBuildSourceUploadUrl
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listCredentials:
+  path: Microsoft.AppConfiguration/registries/listCredentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/listCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listPolicies:
+  path: Microsoft.AppConfiguration/registries/listPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/listPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listUsages:
+  path: Microsoft.AppConfiguration/registries/listUsages
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/listUsages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnectionProxies:
+  path: Microsoft.AppConfiguration/registries/privateEndpointConnectionProxies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/privateEndpointConnectionProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.AppConfiguration/registries/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkResources:
+  path: Microsoft.AppConfiguration/registries/privateLinkResources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/privateLinkResources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+queueBuild:
+  path: Microsoft.AppConfiguration/registries/queueBuild
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/queueBuild
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+regenerateCredential:
+  path: Microsoft.AppConfiguration/registries/regenerateCredential
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/regenerateCredential
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+regenerateCredentials:
+  path: Microsoft.AppConfiguration/registries/regenerateCredentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/regenerateCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+replications:
+  path: Microsoft.AppConfiguration/registries/replications
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/replications
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+runs:
+  path: Microsoft.AppConfiguration/registries/runs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/runs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scheduleRun:
+  path: Microsoft.AppConfiguration/registries/scheduleRun
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/scheduleRun
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scopeMaps:
+  path: Microsoft.AppConfiguration/registries/scopeMaps
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/scopeMaps
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+taskRuns:
+  path: Microsoft.AppConfiguration/registries/taskRuns
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/taskRuns
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tasks:
+  path: Microsoft.AppConfiguration/registries/tasks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/tasks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tokens:
+  path: Microsoft.AppConfiguration/registries/tokens
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/tokens
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+updatePolicies:
+  path: Microsoft.AppConfiguration/registries/updatePolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/updatePolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+webhooks:
+  path: Microsoft.AppConfiguration/registries/webhooks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/registries/webhooks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

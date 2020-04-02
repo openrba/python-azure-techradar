@@ -33,19 +33,19 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[config](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/config)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/sites/slots/config</sub>|<sub>ASSESS</sub>|
-|<sub>[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/domainownershipidentifiers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/sites/slots/domainownershipidentifiers</sub>|<sub>ASSESS</sub>|
-|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/sites/slots/eventGridFilters</sub>|<sub>ASSESS</sub>|
-|<sub>[hostNameBindings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/hostNameBindings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/sites/slots/hostNameBindings</sub>|<sub>ASSESS</sub>|
-|<sub>[hybridconnection](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/hybridconnection)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/sites/slots/hybridconnection</sub>|<sub>ASSESS</sub>|
-|<sub>[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/hybridconnectionnamespaces)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/sites/slots/hybridconnectionnamespaces</sub>|<sub>ASSESS</sub>|
-|<sub>[networkConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/networkConfig)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/sites/slots/networkConfig</sub>|<sub>ASSESS</sub>|
-|<sub>[premieraddons](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/premieraddons)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/sites/slots/premieraddons</sub>|<sub>ASSESS</sub>|
-|<sub>[publiccertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/publiccertificates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/sites/slots/publiccertificates</sub>|<sub>ASSESS</sub>|
-|<sub>[sourcecontrols](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/sourcecontrols)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/sites/slots/sourcecontrols</sub>|<sub>ASSESS</sub>|
-|<sub>[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/virtualnetworkconnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/sites/slots/virtualnetworkconnections</sub>|<sub>ASSESS</sub>|
+|<sub>[config](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/config)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/domainownershipidentifiers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[hostNameBindings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/hostNameBindings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[hybridconnection](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/hybridconnection)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/hybridconnectionnamespaces)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[networkConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/networkConfig)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[premieraddons](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/premieraddons)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[publiccertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/publiccertificates)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[sourcecontrols](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/sourcecontrols)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/sites/slots/virtualnetworkconnections)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

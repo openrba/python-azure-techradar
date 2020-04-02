@@ -27,13 +27,13 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ddosProtectionPlans/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/ddosProtectionPlans/provisioningState</sub>|<sub>TRIAL</sub>|
-|<sub>[resourceGuid](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ddosProtectionPlans/resourceGuid)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/ddosProtectionPlans/resourceGuid</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualNetworks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ddosProtectionPlans/virtualNetworks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/ddosProtectionPlans/virtualNetworks</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualNetworks[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ddosProtectionPlans/virtualNetworks[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualNetworks[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ddosProtectionPlans/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[resourceGuid](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ddosProtectionPlans/resourceGuid)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetworks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ddosProtectionPlans/virtualNetworks)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetworks[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ddosProtectionPlans/virtualNetworks[*])</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetworks[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

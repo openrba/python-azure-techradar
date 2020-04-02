@@ -1,0 +1,7 @@
+[
+    "Microsoft.Batch/batchAccounts/applications/versions/format",
+    "Microsoft.Batch/batchAccounts/applications/versions/lastActivationTime",
+    "Microsoft.Batch/batchAccounts/applications/versions/state",
+    "Microsoft.Batch/batchAccounts/applications/versions/storageUrl",
+    "Microsoft.Batch/batchAccounts/applications/versions/storageUrlExpiry"
+]

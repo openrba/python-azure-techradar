@@ -21,19 +21,19 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[config](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/config)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/sites/slots/config</sub>|<sub>ADOPT</sub>|
-|<sub>[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/domainownershipidentifiers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/sites/slots/domainownershipidentifiers</sub>|<sub>ADOPT</sub>|
-|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/sites/slots/eventGridFilters</sub>|<sub>ADOPT</sub>|
-|<sub>[hostNameBindings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/hostNameBindings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/sites/slots/hostNameBindings</sub>|<sub>ADOPT</sub>|
-|<sub>[hybridconnection](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/hybridconnection)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/sites/slots/hybridconnection</sub>|<sub>ADOPT</sub>|
-|<sub>[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/hybridconnectionnamespaces)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/sites/slots/hybridconnectionnamespaces</sub>|<sub>ADOPT</sub>|
-|<sub>[networkConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/networkConfig)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/sites/slots/networkConfig</sub>|<sub>ADOPT</sub>|
-|<sub>[premieraddons](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/premieraddons)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/sites/slots/premieraddons</sub>|<sub>ADOPT</sub>|
-|<sub>[publiccertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/publiccertificates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/sites/slots/publiccertificates</sub>|<sub>ADOPT</sub>|
-|<sub>[sourcecontrols](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/sourcecontrols)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/sites/slots/sourcecontrols</sub>|<sub>ADOPT</sub>|
-|<sub>[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/virtualnetworkconnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/sites/slots/virtualnetworkconnections</sub>|<sub>ADOPT</sub>|
+|<sub>[config](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/config)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/domainownershipidentifiers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[hostNameBindings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/hostNameBindings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[hybridconnection](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/hybridconnection)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/hybridconnectionnamespaces)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[networkConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/networkConfig)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[premieraddons](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/premieraddons)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[publiccertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/publiccertificates)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[sourcecontrols](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/sourcecontrols)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/sites/slots/virtualnetworkconnections)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

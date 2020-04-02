@@ -21,11 +21,11 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateLinkScopes/privateEndpointConnectionProxies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateLinkScopes/privateEndpointConnectionProxies</sub>|<sub>ADOPT</sub>|
-|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateLinkScopes/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateLinkScopes/privateEndpointConnections</sub>|<sub>ADOPT</sub>|
-|<sub>[scopedResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateLinkScopes/scopedResources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateLinkScopes/scopedResources</sub>|<sub>ADOPT</sub>|
+|<sub>[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateLinkScopes/privateEndpointConnectionProxies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateLinkScopes/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[scopedResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateLinkScopes/scopedResources)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

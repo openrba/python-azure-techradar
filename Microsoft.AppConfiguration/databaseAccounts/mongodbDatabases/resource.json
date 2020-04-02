@@ -1,0 +1,5 @@
+[
+    "Microsoft.AppConfiguration/databaseAccounts/mongodbDatabases/collections",
+    "Microsoft.AppConfiguration/databaseAccounts/mongodbDatabases/collections/throughputSettings",
+    "Microsoft.AppConfiguration/databaseAccounts/mongodbDatabases/throughputSettings"
+]

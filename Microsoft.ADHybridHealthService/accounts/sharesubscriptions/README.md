@@ -21,11 +21,11 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[consumerSourceDataSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/sharesubscriptions/consumerSourceDataSets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/sharesubscriptions/consumerSourceDataSets</sub>|<sub>ADOPT</sub>|
-|<sub>[datasetmappings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/sharesubscriptions/datasetmappings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/sharesubscriptions/datasetmappings</sub>|<sub>ADOPT</sub>|
-|<sub>[triggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/sharesubscriptions/triggers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/sharesubscriptions/triggers</sub>|<sub>ADOPT</sub>|
+|<sub>[consumerSourceDataSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/sharesubscriptions/consumerSourceDataSets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[datasetmappings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/sharesubscriptions/datasetmappings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[triggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/sharesubscriptions/triggers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

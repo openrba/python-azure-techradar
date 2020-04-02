@@ -1,0 +1,221 @@
+config:
+  path: Microsoft.AppConfiguration/sites/config
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/config
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+domainownershipidentifiers:
+  path: Microsoft.AppConfiguration/sites/domainownershipidentifiers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/domainownershipidentifiers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.AppConfiguration/sites/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hostNameBindings:
+  path: Microsoft.AppConfiguration/sites/hostNameBindings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/hostNameBindings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnection:
+  path: Microsoft.AppConfiguration/sites/hybridconnection
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/hybridconnection
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnectionnamespaces:
+  path: Microsoft.AppConfiguration/sites/hybridconnectionnamespaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/hybridconnectionnamespaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkConfig:
+  path: Microsoft.AppConfiguration/sites/networkConfig
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/networkConfig
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+premieraddons:
+  path: Microsoft.AppConfiguration/sites/premieraddons
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/premieraddons
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateaccess:
+  path: Microsoft.AppConfiguration/sites/privateaccess
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/privateaccess
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publiccertificates:
+  path: Microsoft.AppConfiguration/sites/publiccertificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/publiccertificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+slots:
+  path: Microsoft.AppConfiguration/sites/slots
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/slots
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sourcecontrols:
+  path: Microsoft.AppConfiguration/sites/sourcecontrols
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/sourcecontrols
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualnetworkconnections:
+  path: Microsoft.AppConfiguration/sites/virtualnetworkconnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/virtualnetworkconnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -21,18 +21,18 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/A)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateDnsZones/A</sub>|<sub>ADOPT</sub>|
-|<sub>[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/AAAA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateDnsZones/AAAA</sub>|<sub>ADOPT</sub>|
-|<sub>[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/CNAME)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateDnsZones/CNAME</sub>|<sub>ADOPT</sub>|
-|<sub>[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/MX)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateDnsZones/MX</sub>|<sub>ADOPT</sub>|
-|<sub>[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/PTR)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateDnsZones/PTR</sub>|<sub>ADOPT</sub>|
-|<sub>[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/SOA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateDnsZones/SOA</sub>|<sub>ADOPT</sub>|
-|<sub>[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/SRV)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateDnsZones/SRV</sub>|<sub>ADOPT</sub>|
-|<sub>[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/TXT)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateDnsZones/TXT</sub>|<sub>ADOPT</sub>|
-|<sub>[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/all)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateDnsZones/all</sub>|<sub>ADOPT</sub>|
-|<sub>[virtualNetworkLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/virtualNetworkLinks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/privateDnsZones/virtualNetworkLinks</sub>|<sub>ADOPT</sub>|
+|<sub>[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/A)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/AAAA)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/CNAME)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/MX)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/PTR)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/SOA)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/SRV)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/TXT)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/all)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[virtualNetworkLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/privateDnsZones/virtualNetworkLinks)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

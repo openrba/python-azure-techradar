@@ -21,14 +21,14 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[applicationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/clusters/applicationTypes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/clusters/applicationTypes</sub>|<sub>ADOPT</sub>|
-|<sub>[applications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/clusters/applications)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/clusters/applications</sub>|<sub>ADOPT</sub>|
-|<sub>[attacheddatabaseconfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/clusters/attacheddatabaseconfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/clusters/attacheddatabaseconfigurations</sub>|<sub>ADOPT</sub>|
-|<sub>[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/clusters/databases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/clusters/databases</sub>|<sub>ADOPT</sub>|
-|<sub>[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/clusters/operationresults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/clusters/operationresults</sub>|<sub>ADOPT</sub>|
-|<sub>[principalassignments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/clusters/principalassignments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/clusters/principalassignments</sub>|<sub>ADOPT</sub>|
+|<sub>[applicationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/clusters/applicationTypes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[applications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/clusters/applications)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[attacheddatabaseconfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/clusters/attacheddatabaseconfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/clusters/databases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/clusters/operationresults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[principalassignments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/clusters/principalassignments)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

@@ -1,0 +1,4 @@
+[
+    "Microsoft.Batch/configurationStores/eventGridFilters",
+    "Microsoft.Batch/configurationStores/privateEndpointConnections"
+]

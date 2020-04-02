@@ -1,6 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/streamingjobs/functions",
-    "Microsoft.AzureActiveDirectory/streamingjobs/inputs",
-    "Microsoft.AzureActiveDirectory/streamingjobs/outputs",
-    "Microsoft.AzureActiveDirectory/streamingjobs/transformations"
-]

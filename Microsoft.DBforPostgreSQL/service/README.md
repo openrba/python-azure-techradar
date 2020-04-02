@@ -27,27 +27,27 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[apiVersionSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/apiVersionSets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/apiVersionSets</sub>|<sub>TRIAL</sub>|
-|<sub>[apis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/apis)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/apis</sub>|<sub>TRIAL</sub>|
-|<sub>[authorizationServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/authorizationServers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/authorizationServers</sub>|<sub>TRIAL</sub>|
-|<sub>[backends](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/backends)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/backends</sub>|<sub>TRIAL</sub>|
-|<sub>[caches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/caches)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/caches</sub>|<sub>TRIAL</sub>|
-|<sub>[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/diagnostics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/diagnostics</sub>|<sub>TRIAL</sub>|
-|<sub>[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/groups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/groups</sub>|<sub>TRIAL</sub>|
-|<sub>[identityProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/identityProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/identityProviders</sub>|<sub>TRIAL</sub>|
-|<sub>[loggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/loggers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/loggers</sub>|<sub>TRIAL</sub>|
-|<sub>[notifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/notifications)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/notifications</sub>|<sub>TRIAL</sub>|
-|<sub>[openidConnectProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/openidConnectProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/openidConnectProviders</sub>|<sub>TRIAL</sub>|
-|<sub>[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/policies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/policies</sub>|<sub>TRIAL</sub>|
-|<sub>[portalsettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/portalsettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/portalsettings</sub>|<sub>TRIAL</sub>|
-|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/products)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/products</sub>|<sub>TRIAL</sub>|
-|<sub>[properties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/properties)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/properties</sub>|<sub>TRIAL</sub>|
-|<sub>[subscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/subscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/subscriptions</sub>|<sub>TRIAL</sub>|
-|<sub>[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/tags)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/tags</sub>|<sub>TRIAL</sub>|
-|<sub>[templates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/templates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/templates</sub>|<sub>TRIAL</sub>|
-|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/users)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/service/users</sub>|<sub>TRIAL</sub>|
+|<sub>[apiVersionSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/apiVersionSets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[apis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/apis)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[authorizationServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/authorizationServers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[backends](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/backends)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[caches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/caches)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/diagnostics)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/groups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[identityProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/identityProviders)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[loggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/loggers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[notifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/notifications)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[openidConnectProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/openidConnectProviders)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/policies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[portalsettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/portalsettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/products)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[properties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/properties)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[subscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/subscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/tags)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[templates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/templates)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/service/users)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

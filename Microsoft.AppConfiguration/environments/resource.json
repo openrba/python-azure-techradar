@@ -1,0 +1,5 @@
+[
+    "Microsoft.AppConfiguration/environments/accessPolicies",
+    "Microsoft.AppConfiguration/environments/eventsources",
+    "Microsoft.AppConfiguration/environments/referenceDataSets"
+]

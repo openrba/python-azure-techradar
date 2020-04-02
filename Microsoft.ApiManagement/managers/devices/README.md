@@ -33,16 +33,16 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[alertSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/alertSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/devices/alertSettings</sub>|<sub>ASSESS</sub>|
-|<sub>[backupPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/backupPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/devices/backupPolicies</sub>|<sub>ASSESS</sub>|
-|<sub>[backupScheduleGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/backupScheduleGroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/devices/backupScheduleGroups</sub>|<sub>ASSESS</sub>|
-|<sub>[chapSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/chapSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/devices/chapSettings</sub>|<sub>ASSESS</sub>|
-|<sub>[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/fileservers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/devices/fileservers</sub>|<sub>ASSESS</sub>|
-|<sub>[iscsiservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/iscsiservers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/devices/iscsiservers</sub>|<sub>ASSESS</sub>|
-|<sub>[timeSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/timeSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/devices/timeSettings</sub>|<sub>ASSESS</sub>|
-|<sub>[volumeContainers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/volumeContainers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/devices/volumeContainers</sub>|<sub>ASSESS</sub>|
+|<sub>[alertSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/alertSettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[backupPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/backupPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[backupScheduleGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/backupScheduleGroups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[chapSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/chapSettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/fileservers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[iscsiservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/iscsiservers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[timeSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/timeSettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[volumeContainers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices/volumeContainers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

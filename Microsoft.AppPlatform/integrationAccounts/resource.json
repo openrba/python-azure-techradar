@@ -1,0 +1,11 @@
+[
+    "Microsoft.AppPlatform/integrationAccounts/agreements",
+    "Microsoft.AppPlatform/integrationAccounts/assemblies",
+    "Microsoft.AppPlatform/integrationAccounts/batchConfigurations",
+    "Microsoft.AppPlatform/integrationAccounts/certificates",
+    "Microsoft.AppPlatform/integrationAccounts/maps",
+    "Microsoft.AppPlatform/integrationAccounts/partners",
+    "Microsoft.AppPlatform/integrationAccounts/rosettaNetProcessConfigurations",
+    "Microsoft.AppPlatform/integrationAccounts/schemas",
+    "Microsoft.AppPlatform/integrationAccounts/sessions"
+]

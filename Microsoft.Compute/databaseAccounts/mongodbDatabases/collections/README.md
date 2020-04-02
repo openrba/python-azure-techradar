@@ -27,9 +27,9 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[throughputSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/databaseAccounts/mongodbDatabases/collections/throughputSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/databaseAccounts/mongodbDatabases/collections/throughputSettings</sub>|<sub>TRIAL</sub>|
+|<sub>[throughputSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/databaseAccounts/mongodbDatabases/collections/throughputSettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

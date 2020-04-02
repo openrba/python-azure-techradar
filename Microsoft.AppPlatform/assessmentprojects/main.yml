@@ -1,0 +1,51 @@
+groups:
+  path: Microsoft.AppPlatform/assessmentprojects/groups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/assessmentprojects/groups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hypervcollectors:
+  path: Microsoft.AppPlatform/assessmentprojects/hypervcollectors
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/assessmentprojects/hypervcollectors
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vmwarecollectors:
+  path: Microsoft.AppPlatform/assessmentprojects/vmwarecollectors
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/assessmentprojects/vmwarecollectors
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

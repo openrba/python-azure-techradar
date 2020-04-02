@@ -1,0 +1,14 @@
+[
+    "Microsoft.Batch/dnszones/A",
+    "Microsoft.Batch/dnszones/AAAA",
+    "Microsoft.Batch/dnszones/CAA",
+    "Microsoft.Batch/dnszones/CNAME",
+    "Microsoft.Batch/dnszones/MX",
+    "Microsoft.Batch/dnszones/NS",
+    "Microsoft.Batch/dnszones/PTR",
+    "Microsoft.Batch/dnszones/SOA",
+    "Microsoft.Batch/dnszones/SRV",
+    "Microsoft.Batch/dnszones/TXT",
+    "Microsoft.Batch/dnszones/all",
+    "Microsoft.Batch/dnszones/recordsets"
+]

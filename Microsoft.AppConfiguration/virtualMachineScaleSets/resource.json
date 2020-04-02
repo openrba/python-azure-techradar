@@ -1,0 +1,7 @@
+[
+    "Microsoft.AppConfiguration/virtualMachineScaleSets/extensions",
+    "Microsoft.AppConfiguration/virtualMachineScaleSets/networkInterfaces",
+    "Microsoft.AppConfiguration/virtualMachineScaleSets/publicIPAddresses",
+    "Microsoft.AppConfiguration/virtualMachineScaleSets/virtualMachines",
+    "Microsoft.AppConfiguration/virtualMachineScaleSets/virtualMachines/networkInterfaces"
+]

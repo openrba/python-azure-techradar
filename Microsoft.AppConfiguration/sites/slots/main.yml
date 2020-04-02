@@ -1,0 +1,187 @@
+config:
+  path: Microsoft.AppConfiguration/sites/slots/config
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/slots/config
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+domainownershipidentifiers:
+  path: Microsoft.AppConfiguration/sites/slots/domainownershipidentifiers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/slots/domainownershipidentifiers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.AppConfiguration/sites/slots/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/slots/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hostNameBindings:
+  path: Microsoft.AppConfiguration/sites/slots/hostNameBindings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/slots/hostNameBindings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnection:
+  path: Microsoft.AppConfiguration/sites/slots/hybridconnection
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/slots/hybridconnection
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnectionnamespaces:
+  path: Microsoft.AppConfiguration/sites/slots/hybridconnectionnamespaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/slots/hybridconnectionnamespaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkConfig:
+  path: Microsoft.AppConfiguration/sites/slots/networkConfig
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/slots/networkConfig
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+premieraddons:
+  path: Microsoft.AppConfiguration/sites/slots/premieraddons
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/slots/premieraddons
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publiccertificates:
+  path: Microsoft.AppConfiguration/sites/slots/publiccertificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/slots/publiccertificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sourcecontrols:
+  path: Microsoft.AppConfiguration/sites/slots/sourcecontrols
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/slots/sourcecontrols
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualnetworkconnections:
+  path: Microsoft.AppConfiguration/sites/slots/virtualnetworkconnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/sites/slots/virtualnetworkconnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

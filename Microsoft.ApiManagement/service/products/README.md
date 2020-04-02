@@ -33,17 +33,17 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[approvalRequired](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/approvalRequired)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/approvalRequired</sub>|<sub>ASSESS</sub>|
-|<sub>[description](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/description)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/description</sub>|<sub>ASSESS</sub>|
-|<sub>[displayName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/displayName)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/displayName</sub>|<sub>ASSESS</sub>|
-|<sub>[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/policies</sub>|<sub>ASSESS</sub>|
-|<sub>[state](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/state)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/state</sub>|<sub>ASSESS</sub>|
-|<sub>[subscriptionRequired](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/subscriptionRequired)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/subscriptionRequired</sub>|<sub>ASSESS</sub>|
-|<sub>[subscriptionsLimit](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/subscriptionsLimit)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/subscriptionsLimit</sub>|<sub>ASSESS</sub>|
-|<sub>[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/tags)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/tags</sub>|<sub>ASSESS</sub>|
-|<sub>[terms](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/terms)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/terms</sub>|<sub>ASSESS</sub>|
+|<sub>[approvalRequired](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/approvalRequired)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[description](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/description)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[displayName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/displayName)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[state](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/state)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[subscriptionRequired](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/subscriptionRequired)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[subscriptionsLimit](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/subscriptionsLimit)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/tags)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[terms](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/terms)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

@@ -1,5 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/registries/webhooks/getCallbackConfig",
-    "Microsoft.AzureActiveDirectory/registries/webhooks/listEvents",
-    "Microsoft.AzureActiveDirectory/registries/webhooks/ping"
-]

@@ -27,14 +27,14 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[hosts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts</sub>|<sub>TRIAL</sub>|
-|<sub>[hosts[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts[*]</sub>|<sub>TRIAL</sub>|
-|<sub>[hosts[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts[*].id</sub>|<sub>TRIAL</sub>|
-|<sub>[platformFaultDomainCount](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/platformFaultDomainCount)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/platformFaultDomainCount</sub>|<sub>TRIAL</sub>|
-|<sub>[zones](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/zones)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/zones</sub>|<sub>TRIAL</sub>|
-|<sub>[zones[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/zones[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/zones[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[hosts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[hosts[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts[*])</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[hosts[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[platformFaultDomainCount](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/platformFaultDomainCount)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[zones](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/zones)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[zones[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/zones[*])</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

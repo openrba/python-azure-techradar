@@ -27,13 +27,13 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[OperationStatuses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/Locations/OperationStatuses)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/Locations/OperationStatuses</sub>|<sub>TRIAL</sub>|
-|<sub>[OperationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/Locations/OperationTypes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/Locations/OperationTypes</sub>|<sub>TRIAL</sub>|
-|<sub>[availabilityGroupListenerOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/Locations/availabilityGroupListenerOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/Locations/availabilityGroupListenerOperationResults</sub>|<sub>TRIAL</sub>|
-|<sub>[sqlVirtualMachineGroupOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/Locations/sqlVirtualMachineGroupOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/Locations/sqlVirtualMachineGroupOperationResults</sub>|<sub>TRIAL</sub>|
-|<sub>[sqlVirtualMachineOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/Locations/sqlVirtualMachineOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/Locations/sqlVirtualMachineOperationResults</sub>|<sub>TRIAL</sub>|
+|<sub>[OperationStatuses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/Locations/OperationStatuses)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[OperationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/Locations/OperationTypes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[availabilityGroupListenerOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/Locations/availabilityGroupListenerOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[sqlVirtualMachineGroupOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/Locations/sqlVirtualMachineGroupOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[sqlVirtualMachineOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/Locations/sqlVirtualMachineOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

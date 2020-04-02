@@ -27,21 +27,21 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[basePolicy](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/basePolicy)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/basePolicy</sub>|<sub>TRIAL</sub>|
-|<sub>[basePolicy.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/basePolicy.id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/basePolicy.id</sub>|<sub>TRIAL</sub>|
-|<sub>[childPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/childPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/childPolicies</sub>|<sub>TRIAL</sub>|
-|<sub>[childPolicies[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/childPolicies[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/childPolicies[*]</sub>|<sub>TRIAL</sub>|
-|<sub>[childPolicies[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/childPolicies[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/childPolicies[*].id</sub>|<sub>TRIAL</sub>|
-|<sub>[firewalls](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/firewalls)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/firewalls</sub>|<sub>TRIAL</sub>|
-|<sub>[firewalls[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/firewalls[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/firewalls[*]</sub>|<sub>TRIAL</sub>|
-|<sub>[firewalls[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/firewalls[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/firewalls[*].id</sub>|<sub>TRIAL</sub>|
-|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/provisioningState</sub>|<sub>TRIAL</sub>|
-|<sub>[ruleGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/ruleGroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/ruleGroups</sub>|<sub>TRIAL</sub>|
-|<sub>[ruleGroups[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/ruleGroups[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/ruleGroups[*]</sub>|<sub>TRIAL</sub>|
-|<sub>[ruleGroups[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/ruleGroups[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/ruleGroups[*].id</sub>|<sub>TRIAL</sub>|
-|<sub>[threatIntelMode](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/threatIntelMode)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/firewallPolicies/threatIntelMode</sub>|<sub>TRIAL</sub>|
+|<sub>[basePolicy](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/basePolicy)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[basePolicy.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/basePolicy.id)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[childPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/childPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[childPolicies[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/childPolicies[*])</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[childPolicies[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/childPolicies[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[firewalls](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/firewalls)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[firewalls[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/firewalls[*])</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[firewalls[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/firewalls[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[ruleGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/ruleGroups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[ruleGroups[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/ruleGroups[*])</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[ruleGroups[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/ruleGroups[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[threatIntelMode](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/firewallPolicies/threatIntelMode)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

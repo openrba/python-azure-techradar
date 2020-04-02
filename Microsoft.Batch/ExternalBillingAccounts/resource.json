@@ -1,0 +1,6 @@
+[
+    "Microsoft.Batch/ExternalBillingAccounts/Alerts",
+    "Microsoft.Batch/ExternalBillingAccounts/Dimensions",
+    "Microsoft.Batch/ExternalBillingAccounts/Forecast",
+    "Microsoft.Batch/ExternalBillingAccounts/Query"
+]

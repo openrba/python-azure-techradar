@@ -1,6 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/assessmentprojects/groups",
-    "Microsoft.AzureActiveDirectory/assessmentprojects/groups/assessments",
-    "Microsoft.AzureActiveDirectory/assessmentprojects/hypervcollectors",
-    "Microsoft.AzureActiveDirectory/assessmentprojects/vmwarecollectors"
-]

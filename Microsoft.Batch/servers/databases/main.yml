@@ -1,0 +1,425 @@
+VulnerabilityAssessment:
+  path: Microsoft.Batch/servers/databases/VulnerabilityAssessment
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/VulnerabilityAssessment
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+VulnerabilityAssessmentScans:
+  path: Microsoft.Batch/servers/databases/VulnerabilityAssessmentScans
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/VulnerabilityAssessmentScans
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+VulnerabilityAssessmentSettings:
+  path: Microsoft.Batch/servers/databases/VulnerabilityAssessmentSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/VulnerabilityAssessmentSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+advisors:
+  path: Microsoft.Batch/servers/databases/advisors
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/advisors
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+auditRecords:
+  path: Microsoft.Batch/servers/databases/auditRecords
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/auditRecords
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+auditingPolicies:
+  path: Microsoft.Batch/servers/databases/auditingPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/auditingPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+auditingSettings:
+  path: Microsoft.Batch/servers/databases/auditingSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/auditingSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+automaticTuning:
+  path: Microsoft.Batch/servers/databases/automaticTuning
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/automaticTuning
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupLongTermRetentionPolicies:
+  path: Microsoft.Batch/servers/databases/backupLongTermRetentionPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/backupLongTermRetentionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupShortTermRetentionPolicies:
+  path: Microsoft.Batch/servers/databases/backupShortTermRetentionPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/backupShortTermRetentionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionPolicies:
+  path: Microsoft.Batch/servers/databases/connectionPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/connectionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataMaskingPolicies:
+  path: Microsoft.Batch/servers/databases/dataMaskingPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/dataMaskingPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extendedAuditingSettings:
+  path: Microsoft.Batch/servers/databases/extendedAuditingSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/extendedAuditingSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extensions:
+  path: Microsoft.Batch/servers/databases/extensions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/extensions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+geoBackupPolicies:
+  path: Microsoft.Batch/servers/databases/geoBackupPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/geoBackupPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.Batch/servers/databases/metricDefinitions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/metricDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.Batch/servers/databases/metrics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/metrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+recommendedSensitivityLabels:
+  path: Microsoft.Batch/servers/databases/recommendedSensitivityLabels
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/recommendedSensitivityLabels
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.Batch/servers/databases/schemas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/schemas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+securityAlertPolicies:
+  path: Microsoft.Batch/servers/databases/securityAlertPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/securityAlertPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+syncGroups:
+  path: Microsoft.Batch/servers/databases/syncGroups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/syncGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+topQueries:
+  path: Microsoft.Batch/servers/databases/topQueries
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/topQueries
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transparentDataEncryption:
+  path: Microsoft.Batch/servers/databases/transparentDataEncryption
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/transparentDataEncryption
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vulnerabilityAssessments:
+  path: Microsoft.Batch/servers/databases/vulnerabilityAssessments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/vulnerabilityAssessments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+workloadGroups:
+  path: Microsoft.Batch/servers/databases/workloadGroups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/servers/databases/workloadGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

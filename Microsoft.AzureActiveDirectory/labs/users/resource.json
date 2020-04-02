@@ -1,7 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/labs/users/disks",
-    "Microsoft.AzureActiveDirectory/labs/users/environments",
-    "Microsoft.AzureActiveDirectory/labs/users/secrets",
-    "Microsoft.AzureActiveDirectory/labs/users/serviceFabrics",
-    "Microsoft.AzureActiveDirectory/labs/users/serviceFabrics/schedules"
-]

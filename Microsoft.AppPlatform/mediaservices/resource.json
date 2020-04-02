@@ -1,0 +1,17 @@
+[
+    "Microsoft.AppPlatform/mediaservices/accountFilters",
+    "Microsoft.AppPlatform/mediaservices/assets",
+    "Microsoft.AppPlatform/mediaservices/assets/assetFilters",
+    "Microsoft.AppPlatform/mediaservices/contentKeyPolicies",
+    "Microsoft.AppPlatform/mediaservices/eventGridFilters",
+    "Microsoft.AppPlatform/mediaservices/liveEventOperations",
+    "Microsoft.AppPlatform/mediaservices/liveEvents",
+    "Microsoft.AppPlatform/mediaservices/liveEvents/liveOutputs",
+    "Microsoft.AppPlatform/mediaservices/liveOutputOperations",
+    "Microsoft.AppPlatform/mediaservices/streamingEndpointOperations",
+    "Microsoft.AppPlatform/mediaservices/streamingEndpoints",
+    "Microsoft.AppPlatform/mediaservices/streamingLocators",
+    "Microsoft.AppPlatform/mediaservices/streamingPolicies",
+    "Microsoft.AppPlatform/mediaservices/transforms",
+    "Microsoft.AppPlatform/mediaservices/transforms/jobs"
+]

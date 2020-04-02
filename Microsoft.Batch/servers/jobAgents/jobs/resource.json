@@ -1,0 +1,4 @@
+[
+    "Microsoft.Batch/servers/jobAgents/jobs/executions",
+    "Microsoft.Batch/servers/jobAgents/jobs/steps"
+]

@@ -21,18 +21,18 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[computePolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/computePolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/computePolicies</sub>|<sub>ADOPT</sub>|
-|<sub>[dataLakeStoreAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/dataLakeStoreAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/dataLakeStoreAccounts</sub>|<sub>ADOPT</sub>|
-|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/eventGridFilters</sub>|<sub>ADOPT</sub>|
-|<sub>[firewallRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/firewallRules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/firewallRules</sub>|<sub>ADOPT</sub>|
-|<sub>[privateAtlases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/privateAtlases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/privateAtlases</sub>|<sub>ADOPT</sub>|
-|<sub>[shares](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/shares)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/shares</sub>|<sub>ADOPT</sub>|
-|<sub>[sharesubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/sharesubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/sharesubscriptions</sub>|<sub>ADOPT</sub>|
-|<sub>[storageAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/storageAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/storageAccounts</sub>|<sub>ADOPT</sub>|
-|<sub>[trustedIdProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/trustedIdProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/trustedIdProviders</sub>|<sub>ADOPT</sub>|
-|<sub>[virtualNetworkRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/virtualNetworkRules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/virtualNetworkRules</sub>|<sub>ADOPT</sub>|
+|<sub>[computePolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/computePolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[dataLakeStoreAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/dataLakeStoreAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[firewallRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/firewallRules)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[privateAtlases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/privateAtlases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[shares](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/shares)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[sharesubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/sharesubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[storageAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/storageAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[trustedIdProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/trustedIdProviders)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[virtualNetworkRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/virtualNetworkRules)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

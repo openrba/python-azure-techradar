@@ -21,27 +21,27 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[apiVersionSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/apiVersionSets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/apiVersionSets</sub>|<sub>ADOPT</sub>|
-|<sub>[apis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/apis)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/apis</sub>|<sub>ADOPT</sub>|
-|<sub>[authorizationServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/authorizationServers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/authorizationServers</sub>|<sub>ADOPT</sub>|
-|<sub>[backends](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/backends)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/backends</sub>|<sub>ADOPT</sub>|
-|<sub>[caches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/caches)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/caches</sub>|<sub>ADOPT</sub>|
-|<sub>[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/diagnostics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/diagnostics</sub>|<sub>ADOPT</sub>|
-|<sub>[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/groups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/groups</sub>|<sub>ADOPT</sub>|
-|<sub>[identityProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/identityProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/identityProviders</sub>|<sub>ADOPT</sub>|
-|<sub>[loggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/loggers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/loggers</sub>|<sub>ADOPT</sub>|
-|<sub>[notifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/notifications)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/notifications</sub>|<sub>ADOPT</sub>|
-|<sub>[openidConnectProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/openidConnectProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/openidConnectProviders</sub>|<sub>ADOPT</sub>|
-|<sub>[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/policies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/policies</sub>|<sub>ADOPT</sub>|
-|<sub>[portalsettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/portalsettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/portalsettings</sub>|<sub>ADOPT</sub>|
-|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/products)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/products</sub>|<sub>ADOPT</sub>|
-|<sub>[properties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/properties)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/properties</sub>|<sub>ADOPT</sub>|
-|<sub>[subscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/subscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/subscriptions</sub>|<sub>ADOPT</sub>|
-|<sub>[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/tags)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/tags</sub>|<sub>ADOPT</sub>|
-|<sub>[templates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/templates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/templates</sub>|<sub>ADOPT</sub>|
-|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/users)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/service/users</sub>|<sub>ADOPT</sub>|
+|<sub>[apiVersionSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/apiVersionSets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[apis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/apis)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[authorizationServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/authorizationServers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[backends](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/backends)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[caches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/caches)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/diagnostics)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/groups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[identityProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/identityProviders)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[loggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/loggers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[notifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/notifications)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[openidConnectProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/openidConnectProviders)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/policies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[portalsettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/portalsettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/products)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[properties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/properties)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[subscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/subscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/tags)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[templates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/templates)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/service/users)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

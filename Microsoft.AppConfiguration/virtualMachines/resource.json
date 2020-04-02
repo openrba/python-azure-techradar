@@ -1,0 +1,6 @@
+[
+    "Microsoft.AppConfiguration/virtualMachines/diagnosticSettings",
+    "Microsoft.AppConfiguration/virtualMachines/extensions",
+    "Microsoft.AppConfiguration/virtualMachines/metricDefinitions",
+    "Microsoft.AppConfiguration/virtualMachines/metrics"
+]

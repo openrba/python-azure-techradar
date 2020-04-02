@@ -21,15 +21,15 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[availableScopes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/availableScopes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/reservationOrders/availableScopes</sub>|<sub>ADOPT</sub>|
-|<sub>[calculateRefund](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/calculateRefund)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/reservationOrders/calculateRefund</sub>|<sub>ADOPT</sub>|
-|<sub>[merge](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/merge)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/reservationOrders/merge</sub>|<sub>ADOPT</sub>|
-|<sub>[reservations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/reservations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/reservationOrders/reservations</sub>|<sub>ADOPT</sub>|
-|<sub>[return](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/return)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/reservationOrders/return</sub>|<sub>ADOPT</sub>|
-|<sub>[split](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/split)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/reservationOrders/split</sub>|<sub>ADOPT</sub>|
-|<sub>[swap](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/swap)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/reservationOrders/swap</sub>|<sub>ADOPT</sub>|
+|<sub>[availableScopes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/availableScopes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[calculateRefund](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/calculateRefund)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[merge](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/merge)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[reservations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/reservations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[return](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/return)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[split](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/split)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[swap](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/reservationOrders/swap)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

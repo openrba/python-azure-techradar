@@ -1,0 +1,20 @@
+[
+    "Microsoft.AppConfiguration/labs/artifactSources",
+    "Microsoft.AppConfiguration/labs/costs",
+    "Microsoft.AppConfiguration/labs/customImages",
+    "Microsoft.AppConfiguration/labs/environments",
+    "Microsoft.AppConfiguration/labs/formulas",
+    "Microsoft.AppConfiguration/labs/notificationChannels",
+    "Microsoft.AppConfiguration/labs/policySets/policies",
+    "Microsoft.AppConfiguration/labs/schedules",
+    "Microsoft.AppConfiguration/labs/serviceRunners",
+    "Microsoft.AppConfiguration/labs/users",
+    "Microsoft.AppConfiguration/labs/users/disks",
+    "Microsoft.AppConfiguration/labs/users/environments",
+    "Microsoft.AppConfiguration/labs/users/secrets",
+    "Microsoft.AppConfiguration/labs/users/serviceFabrics",
+    "Microsoft.AppConfiguration/labs/users/serviceFabrics/schedules",
+    "Microsoft.AppConfiguration/labs/virtualMachines",
+    "Microsoft.AppConfiguration/labs/virtualMachines/schedules",
+    "Microsoft.AppConfiguration/labs/virtualNetworks"
+]

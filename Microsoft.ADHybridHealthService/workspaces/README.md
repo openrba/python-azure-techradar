@@ -21,21 +21,21 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[clusters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/clusters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/clusters</sub>|<sub>ADOPT</sub>|
-|<sub>[computes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/computes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/computes</sub>|<sub>ADOPT</sub>|
-|<sub>[dataSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/dataSources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/dataSources</sub>|<sub>ADOPT</sub>|
-|<sub>[dbWorkspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/dbWorkspaces)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/dbWorkspaces</sub>|<sub>ADOPT</sub>|
-|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/eventGridFilters</sub>|<sub>ADOPT</sub>|
-|<sub>[experiments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/experiments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/experiments</sub>|<sub>ADOPT</sub>|
-|<sub>[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/fileservers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/fileservers</sub>|<sub>ADOPT</sub>|
-|<sub>[linkedServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/linkedServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/linkedServices</sub>|<sub>ADOPT</sub>|
-|<sub>[query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/query)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/query</sub>|<sub>ADOPT</sub>|
-|<sub>[savedSearches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/savedSearches)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/savedSearches</sub>|<sub>ADOPT</sub>|
-|<sub>[scopedPrivateLinkProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/scopedPrivateLinkProxies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/scopedPrivateLinkProxies</sub>|<sub>ADOPT</sub>|
-|<sub>[storageinsightconfigs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/storageinsightconfigs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/storageinsightconfigs</sub>|<sub>ADOPT</sub>|
-|<sub>[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/virtualNetworkPeerings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/workspaces/virtualNetworkPeerings</sub>|<sub>ADOPT</sub>|
+|<sub>[clusters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/clusters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[computes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/computes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[dataSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/dataSources)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[dbWorkspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/dbWorkspaces)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[experiments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/experiments)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/fileservers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[linkedServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/linkedServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/query)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[savedSearches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/savedSearches)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[scopedPrivateLinkProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/scopedPrivateLinkProxies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[storageinsightconfigs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/storageinsightconfigs)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/workspaces/virtualNetworkPeerings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

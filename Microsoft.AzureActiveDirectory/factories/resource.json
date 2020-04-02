@@ -1,8 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/factories/dataflows",
-    "Microsoft.AzureActiveDirectory/factories/datasets",
-    "Microsoft.AzureActiveDirectory/factories/integrationRuntimes",
-    "Microsoft.AzureActiveDirectory/factories/linkedservices",
-    "Microsoft.AzureActiveDirectory/factories/pipelines",
-    "Microsoft.AzureActiveDirectory/factories/triggers"
-]

@@ -1,6 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/ExternalSubscriptions/Alerts",
-    "Microsoft.AzureActiveDirectory/ExternalSubscriptions/Dimensions",
-    "Microsoft.AzureActiveDirectory/ExternalSubscriptions/Forecast",
-    "Microsoft.AzureActiveDirectory/ExternalSubscriptions/Query"
-]

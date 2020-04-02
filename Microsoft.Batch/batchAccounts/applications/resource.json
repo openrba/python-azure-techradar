@@ -1,0 +1,11 @@
+[
+    "Microsoft.Batch/batchAccounts/applications/allowUpdates",
+    "Microsoft.Batch/batchAccounts/applications/defaultVersion",
+    "Microsoft.Batch/batchAccounts/applications/displayName",
+    "Microsoft.Batch/batchAccounts/applications/versions",
+    "Microsoft.Batch/batchAccounts/applications/versions/format",
+    "Microsoft.Batch/batchAccounts/applications/versions/lastActivationTime",
+    "Microsoft.Batch/batchAccounts/applications/versions/state",
+    "Microsoft.Batch/batchAccounts/applications/versions/storageUrl",
+    "Microsoft.Batch/batchAccounts/applications/versions/storageUrlExpiry"
+]

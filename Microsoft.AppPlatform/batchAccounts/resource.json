@@ -1,0 +1,6 @@
+[
+    "Microsoft.AppPlatform/batchAccounts/applications",
+    "Microsoft.AppPlatform/batchAccounts/applications/versions",
+    "Microsoft.AppPlatform/batchAccounts/certificates",
+    "Microsoft.AppPlatform/batchAccounts/pools"
+]

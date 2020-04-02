@@ -1,0 +1,68 @@
+allowUpdates:
+  path: Microsoft.Batch/batchAccounts/applications/allowUpdates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/batchAccounts/applications/allowUpdates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+defaultVersion:
+  path: Microsoft.Batch/batchAccounts/applications/defaultVersion
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/batchAccounts/applications/defaultVersion
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+displayName:
+  path: Microsoft.Batch/batchAccounts/applications/displayName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/batchAccounts/applications/displayName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+versions:
+  path: Microsoft.Batch/batchAccounts/applications/versions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/batchAccounts/applications/versions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

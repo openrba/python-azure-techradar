@@ -33,17 +33,17 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[email](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/email)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/users/email</sub>|<sub>ASSESS</sub>|
-|<sub>[firstName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/firstName)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/users/firstName</sub>|<sub>ASSESS</sub>|
-|<sub>[identities](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/identities)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/users/identities</sub>|<sub>ASSESS</sub>|
-|<sub>[identities[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/identities[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/users/identities[*]</sub>|<sub>ASSESS</sub>|
-|<sub>[identities[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/identities[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/users/identities[*].id</sub>|<sub>ASSESS</sub>|
-|<sub>[identities[*].provider](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/identities[*].provider)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/users/identities[*].provider</sub>|<sub>ASSESS</sub>|
-|<sub>[lastName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/lastName)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/users/lastName</sub>|<sub>ASSESS</sub>|
-|<sub>[note](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/note)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/users/note</sub>|<sub>ASSESS</sub>|
-|<sub>[state](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/state)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/users/state</sub>|<sub>ASSESS</sub>|
+|<sub>[email](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/email)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[firstName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/firstName)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[identities](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/identities)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[identities[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/identities[*])</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[identities[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/identities[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[identities[*].provider](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/identities[*].provider)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[lastName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/lastName)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[note](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/note)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[state](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/users/state)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

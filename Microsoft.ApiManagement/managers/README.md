@@ -33,14 +33,14 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[accessControlRecords](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/accessControlRecords)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/accessControlRecords</sub>|<sub>ASSESS</sub>|
-|<sub>[bandwidthSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/bandwidthSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/bandwidthSettings</sub>|<sub>ASSESS</sub>|
-|<sub>[devices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/devices</sub>|<sub>ASSESS</sub>|
-|<sub>[extendedInformation](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/extendedInformation)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/extendedInformation</sub>|<sub>ASSESS</sub>|
-|<sub>[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/storageAccountCredentials)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/storageAccountCredentials</sub>|<sub>ASSESS</sub>|
-|<sub>[storageDomains](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/storageDomains)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managers/storageDomains</sub>|<sub>ASSESS</sub>|
+|<sub>[accessControlRecords](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/accessControlRecords)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[bandwidthSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/bandwidthSettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[devices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/devices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[extendedInformation](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/extendedInformation)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/storageAccountCredentials)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[storageDomains](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managers/storageDomains)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

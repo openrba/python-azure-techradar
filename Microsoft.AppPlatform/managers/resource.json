@@ -1,0 +1,19 @@
+[
+    "Microsoft.AppPlatform/managers/accessControlRecords",
+    "Microsoft.AppPlatform/managers/bandwidthSettings",
+    "Microsoft.AppPlatform/managers/devices/alertSettings",
+    "Microsoft.AppPlatform/managers/devices/backupPolicies",
+    "Microsoft.AppPlatform/managers/devices/backupPolicies/schedules",
+    "Microsoft.AppPlatform/managers/devices/backupScheduleGroups",
+    "Microsoft.AppPlatform/managers/devices/chapSettings",
+    "Microsoft.AppPlatform/managers/devices/fileservers",
+    "Microsoft.AppPlatform/managers/devices/fileservers/shares",
+    "Microsoft.AppPlatform/managers/devices/iscsiservers",
+    "Microsoft.AppPlatform/managers/devices/iscsiservers/disks",
+    "Microsoft.AppPlatform/managers/devices/timeSettings",
+    "Microsoft.AppPlatform/managers/devices/volumeContainers",
+    "Microsoft.AppPlatform/managers/devices/volumeContainers/volumes",
+    "Microsoft.AppPlatform/managers/extendedInformation",
+    "Microsoft.AppPlatform/managers/storageAccountCredentials",
+    "Microsoft.AppPlatform/managers/storageDomains"
+]

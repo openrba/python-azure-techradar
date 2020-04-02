@@ -27,18 +27,18 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[bgpSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/bgpSettings</sub>|<sub>TRIAL</sub>|
-|<sub>[bgpSettings.asn](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings.asn)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/bgpSettings.asn</sub>|<sub>TRIAL</sub>|
-|<sub>[bgpSettings.bgpPeeringAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress</sub>|<sub>TRIAL</sub>|
-|<sub>[bgpSettings.peerWeight](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight</sub>|<sub>TRIAL</sub>|
-|<sub>[gatewayIpAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/gatewayIpAddress)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/gatewayIpAddress</sub>|<sub>TRIAL</sub>|
-|<sub>[localNetworkAddressSpace](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/localNetworkAddressSpace</sub>|<sub>TRIAL</sub>|
-|<sub>[localNetworkAddressSpace.addressPrefixes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes</sub>|<sub>TRIAL</sub>|
-|<sub>[localNetworkAddressSpace.addressPrefixes[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*]</sub>|<sub>TRIAL</sub>|
-|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/provisioningState</sub>|<sub>TRIAL</sub>|
-|<sub>[resourceGuid](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/resourceGuid)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/resourceGuid</sub>|<sub>TRIAL</sub>|
+|<sub>[bgpSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[bgpSettings.asn](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings.asn)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[bgpSettings.bgpPeeringAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[bgpSettings.peerWeight](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[gatewayIpAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/gatewayIpAddress)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[localNetworkAddressSpace](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[localNetworkAddressSpace.addressPrefixes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[localNetworkAddressSpace.addressPrefixes[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*])</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[resourceGuid](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/resourceGuid)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

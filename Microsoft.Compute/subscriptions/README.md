@@ -27,16 +27,16 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[locations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/locations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/locations</sub>|<sub>TRIAL</sub>|
-|<sub>[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/operationresults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/operationresults</sub>|<sub>TRIAL</sub>|
-|<sub>[providers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/providers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/providers</sub>|<sub>TRIAL</sub>|
-|<sub>[resourceGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/resourceGroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/resourceGroups</sub>|<sub>TRIAL</sub>|
-|<sub>[resourcegroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/resourcegroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/resourcegroups</sub>|<sub>TRIAL</sub>|
-|<sub>[resources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/resources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/resources</sub>|<sub>TRIAL</sub>|
-|<sub>[tagNames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/tagNames)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/tagNames</sub>|<sub>TRIAL</sub>|
-|<sub>[tagnames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/tagnames)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/tagnames</sub>|<sub>TRIAL</sub>|
+|<sub>[locations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/locations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/operationresults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[providers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/providers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[resourceGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/resourceGroups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[resourcegroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/resourcegroups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[resources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/resources)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[tagNames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/tagNames)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[tagnames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/tagnames)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

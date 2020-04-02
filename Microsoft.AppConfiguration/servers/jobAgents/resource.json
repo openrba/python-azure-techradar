@@ -1,0 +1,5 @@
+[
+    "Microsoft.AppConfiguration/servers/jobAgents/jobs",
+    "Microsoft.AppConfiguration/servers/jobAgents/jobs/executions",
+    "Microsoft.AppConfiguration/servers/jobAgents/jobs/steps"
+]

@@ -1,0 +1,8 @@
+[
+    "Microsoft.AppPlatform/databaseAccounts/sqlDatabases/containers",
+    "Microsoft.AppPlatform/databaseAccounts/sqlDatabases/containers/storedProcedures",
+    "Microsoft.AppPlatform/databaseAccounts/sqlDatabases/containers/throughputSettings",
+    "Microsoft.AppPlatform/databaseAccounts/sqlDatabases/containers/triggers",
+    "Microsoft.AppPlatform/databaseAccounts/sqlDatabases/containers/userDefinedFunctions",
+    "Microsoft.AppPlatform/databaseAccounts/sqlDatabases/throughputSettings"
+]

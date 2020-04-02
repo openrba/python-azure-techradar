@@ -1,0 +1,4 @@
+[
+    "Microsoft.Batch/registries/builds/cancel",
+    "Microsoft.Batch/registries/builds/getLogLink"
+]

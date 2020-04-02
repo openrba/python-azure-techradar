@@ -129,13 +129,14 @@ Microsoft.ApiManagement:
     notes: There are no security notes for this service at this time.
 Microsoft.AppConfiguration:
   path: Microsoft.AppConfiguration
-  description: UNKNOWN
-  status: HOLD
+  description: Azure App Configuration provides a service to centrally manage application
+    settings and feature flags.
+  status: ASSESS
   url: Microsoft.AppConfiguration
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -146,13 +147,14 @@ Microsoft.AppConfiguration:
     notes: There are no security notes for this service at this time.
 Microsoft.AppPlatform:
   path: Microsoft.AppPlatform
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Spring Cloud makes it easy to deploy Spring Boot-based microservice
+    applications to Azure with zero code changes.
+  status: ASSESS
   url: Microsoft.AppPlatform
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -163,7 +165,7 @@ Microsoft.AppPlatform:
     notes: There are no security notes for this service at this time.
 Microsoft.Attestation:
   path: Microsoft.Attestation
-  description: UNKNOWN
+  description: Azure Attestation Service
   status: HOLD
   url: Microsoft.Attestation
   architecture review:
@@ -180,15 +182,16 @@ Microsoft.Attestation:
     notes: There are no security notes for this service at this time.
 Microsoft.Authorization:
   path: Microsoft.Authorization
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Resource Manager is the deployment and management service for
+    Azure.
+  status: REJECT
   url: Microsoft.Authorization
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: PAAS
+    status: REVIEWED
+    start: 1/1/2020
+    end: 1/1/2020
+    notes: This service has been rejected as too proprietary, use Terraform instead.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -197,11 +200,32 @@ Microsoft.Authorization:
     notes: There are no security notes for this service at this time.
 Microsoft.Automation:
   path: Microsoft.Automation
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Automation delivers a cloud-based automation and configuration
+    service that provides consistent management across your Azure and non-Azure environments.
+  status: REJECT
   url: Microsoft.Automation
   architecture review:
-    type: UNKNOWN
+    type: PAAS
+    status: REVIEWED
+    start: 1/1/2020
+    end: NOT ENDED
+    notes: This service has been rejected as too proprietary, use Terraform instead.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.AzureActiveDirectory:
+  path: Microsoft.AzureActiveDirectory
+  description: Azure Active Directory B2C (Azure AD B2C) is an identity management
+    service that enables custom control of how your customers sign up, sign in, and
+    manage their profiles when using your iOS, Android, .NET, single-page (SPA), and
+    other applications.
+  status: HOLD
+  url: Microsoft.AzureActiveDirectory
+  architecture review:
+    type: PAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -212,26 +236,10 @@ Microsoft.Automation:
     start: NOT STARTED
     end: NOT ENDED
     notes: There are no security notes for this service at this time.
-Microsoft.AzureActiveDirectory:
-  path: Microsoft.AzureActiveDirectory
-  description: UNKNOWN
-  status: ADOPT
-  url: Microsoft.AzureActiveDirectory
-  architecture review:
-    type: SAAS
-    status: REVIEWED
-    start: 1/1/2020
-    end: 1/1/2020
-    notes: This service is used in production within RBA.
-  security review:
-    class: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no security notes for this service at this time.
 Microsoft.AzureData:
   path: Microsoft.AzureData
-  description: UNKNOWN
+  description: We don't use the Azure Portal often so we need notification function
+    when available for ESU patches.
   status: HOLD
   url: Microsoft.AzureData
   architecture review:
@@ -248,7 +256,8 @@ Microsoft.AzureData:
     notes: There are no security notes for this service at this time.
 Microsoft.AzureStack:
   path: Microsoft.AzureStack
-  description: UNKNOWN
+  description: Azure Stack is a hybrid cloud computing software solution developed
+    by Microsoft based on the company's Azure cloud platform.
   status: HOLD
   url: Microsoft.AzureStack
   architecture review:
@@ -265,13 +274,15 @@ Microsoft.AzureStack:
     notes: There are no security notes for this service at this time.
 Microsoft.Batch:
   path: Microsoft.Batch
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Batch runs large-scale applications efficiently in the cloud.
+    Schedule compute-intensive tasks and dynamically adjust resources for your solution
+    without managing infrastructure.
+  status: ASSESS
   url: Microsoft.Batch
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:

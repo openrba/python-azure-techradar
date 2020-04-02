@@ -33,27 +33,27 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[apiVersionSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/apiVersionSets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/apiVersionSets</sub>|<sub>ASSESS</sub>|
-|<sub>[apis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/apis)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/apis</sub>|<sub>ASSESS</sub>|
-|<sub>[authorizationServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/authorizationServers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/authorizationServers</sub>|<sub>ASSESS</sub>|
-|<sub>[backends](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/backends)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/backends</sub>|<sub>ASSESS</sub>|
-|<sub>[caches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/caches)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/caches</sub>|<sub>ASSESS</sub>|
-|<sub>[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/diagnostics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/diagnostics</sub>|<sub>ASSESS</sub>|
-|<sub>[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/groups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/groups</sub>|<sub>ASSESS</sub>|
-|<sub>[identityProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/identityProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/identityProviders</sub>|<sub>ASSESS</sub>|
-|<sub>[loggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/loggers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/loggers</sub>|<sub>ASSESS</sub>|
-|<sub>[notifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/notifications)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/notifications</sub>|<sub>ASSESS</sub>|
-|<sub>[openidConnectProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/openidConnectProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/openidConnectProviders</sub>|<sub>ASSESS</sub>|
-|<sub>[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/policies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/policies</sub>|<sub>ASSESS</sub>|
-|<sub>[portalsettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/portalsettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/portalsettings</sub>|<sub>ASSESS</sub>|
-|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/products)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/products</sub>|<sub>ASSESS</sub>|
-|<sub>[properties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/properties)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/properties</sub>|<sub>ASSESS</sub>|
-|<sub>[subscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/subscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/subscriptions</sub>|<sub>ASSESS</sub>|
-|<sub>[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/tags)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/tags</sub>|<sub>ASSESS</sub>|
-|<sub>[templates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/templates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/templates</sub>|<sub>ASSESS</sub>|
-|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/users)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/service/users</sub>|<sub>ASSESS</sub>|
+|<sub>[apiVersionSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/apiVersionSets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[apis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/apis)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[authorizationServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/authorizationServers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[backends](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/backends)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[caches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/caches)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/diagnostics)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/groups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[identityProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/identityProviders)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[loggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/loggers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[notifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/notifications)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[openidConnectProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/openidConnectProviders)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/policies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[portalsettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/portalsettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/products)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[properties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/properties)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[subscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/subscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/tags)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[templates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/templates)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/service/users)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

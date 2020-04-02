@@ -1,0 +1,102 @@
+cassandraKeyspaces:
+  path: Microsoft.Batch/databaseAccounts/cassandraKeyspaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/databaseAccounts/cassandraKeyspaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+gremlinDatabases:
+  path: Microsoft.Batch/databaseAccounts/gremlinDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/databaseAccounts/gremlinDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+mongodbDatabases:
+  path: Microsoft.Batch/databaseAccounts/mongodbDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/databaseAccounts/mongodbDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.Batch/databaseAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/databaseAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlDatabases:
+  path: Microsoft.Batch/databaseAccounts/sqlDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/databaseAccounts/sqlDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tables:
+  path: Microsoft.Batch/databaseAccounts/tables
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/databaseAccounts/tables
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

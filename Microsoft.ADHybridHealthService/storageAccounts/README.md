@@ -21,20 +21,20 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[blobServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/blobServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/storageAccounts/blobServices</sub>|<sub>ADOPT</sub>|
-|<sub>[fileServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/fileServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/storageAccounts/fileServices</sub>|<sub>ADOPT</sub>|
-|<sub>[listAccountSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/listAccountSas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/storageAccounts/listAccountSas</sub>|<sub>ADOPT</sub>|
-|<sub>[listServiceSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/listServiceSas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/storageAccounts/listServiceSas</sub>|<sub>ADOPT</sub>|
-|<sub>[managementPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/managementPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/storageAccounts/managementPolicies</sub>|<sub>ADOPT</sub>|
-|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/storageAccounts/metricDefinitions</sub>|<sub>ADOPT</sub>|
-|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/storageAccounts/metrics</sub>|<sub>ADOPT</sub>|
-|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/storageAccounts/privateEndpointConnections</sub>|<sub>ADOPT</sub>|
-|<sub>[queueServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/queueServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/storageAccounts/queueServices</sub>|<sub>ADOPT</sub>|
-|<sub>[services](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/services)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/storageAccounts/services</sub>|<sub>ADOPT</sub>|
-|<sub>[tableServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/tableServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/storageAccounts/tableServices</sub>|<sub>ADOPT</sub>|
-|<sub>[vmImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/vmImages)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/storageAccounts/vmImages</sub>|<sub>ADOPT</sub>|
+|<sub>[blobServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/blobServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[fileServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/fileServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[listAccountSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/listAccountSas)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[listServiceSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/listServiceSas)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[managementPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/managementPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[queueServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/queueServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[services](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/services)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[tableServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/tableServices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[vmImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/storageAccounts/vmImages)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

@@ -1,0 +1,4 @@
+[
+    "Microsoft.AppConfiguration/hostingEnvironments/multiRolePools",
+    "Microsoft.AppConfiguration/hostingEnvironments/workerPools"
+]

@@ -1,0 +1,14 @@
+[
+    "Microsoft.AppConfiguration/dnszones/A",
+    "Microsoft.AppConfiguration/dnszones/AAAA",
+    "Microsoft.AppConfiguration/dnszones/CAA",
+    "Microsoft.AppConfiguration/dnszones/CNAME",
+    "Microsoft.AppConfiguration/dnszones/MX",
+    "Microsoft.AppConfiguration/dnszones/NS",
+    "Microsoft.AppConfiguration/dnszones/PTR",
+    "Microsoft.AppConfiguration/dnszones/SOA",
+    "Microsoft.AppConfiguration/dnszones/SRV",
+    "Microsoft.AppConfiguration/dnszones/TXT",
+    "Microsoft.AppConfiguration/dnszones/all",
+    "Microsoft.AppConfiguration/dnszones/recordsets"
+]

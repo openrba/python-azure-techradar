@@ -1,0 +1,5 @@
+[
+    "Microsoft.AppConfiguration/storageAccounts/services/diagnosticSettings",
+    "Microsoft.AppConfiguration/storageAccounts/services/metricDefinitions",
+    "Microsoft.AppConfiguration/storageAccounts/services/metrics"
+]

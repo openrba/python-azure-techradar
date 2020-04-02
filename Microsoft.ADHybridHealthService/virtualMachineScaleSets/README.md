@@ -21,12 +21,12 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[extensions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/virtualMachineScaleSets/extensions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/virtualMachineScaleSets/extensions</sub>|<sub>ADOPT</sub>|
-|<sub>[networkInterfaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/virtualMachineScaleSets/networkInterfaces)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/virtualMachineScaleSets/networkInterfaces</sub>|<sub>ADOPT</sub>|
-|<sub>[publicIPAddresses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/virtualMachineScaleSets/publicIPAddresses)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/virtualMachineScaleSets/publicIPAddresses</sub>|<sub>ADOPT</sub>|
-|<sub>[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/virtualMachineScaleSets/virtualMachines)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/virtualMachineScaleSets/virtualMachines</sub>|<sub>ADOPT</sub>|
+|<sub>[extensions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/virtualMachineScaleSets/extensions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[networkInterfaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/virtualMachineScaleSets/networkInterfaces)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[publicIPAddresses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/virtualMachineScaleSets/publicIPAddresses)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/virtualMachineScaleSets/virtualMachines)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

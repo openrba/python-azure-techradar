@@ -27,14 +27,14 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[accessControlRecords](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/accessControlRecords)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managers/accessControlRecords</sub>|<sub>TRIAL</sub>|
-|<sub>[bandwidthSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/bandwidthSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managers/bandwidthSettings</sub>|<sub>TRIAL</sub>|
-|<sub>[devices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/devices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managers/devices</sub>|<sub>TRIAL</sub>|
-|<sub>[extendedInformation](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/extendedInformation)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managers/extendedInformation</sub>|<sub>TRIAL</sub>|
-|<sub>[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/storageAccountCredentials)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managers/storageAccountCredentials</sub>|<sub>TRIAL</sub>|
-|<sub>[storageDomains](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/storageDomains)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managers/storageDomains</sub>|<sub>TRIAL</sub>|
+|<sub>[accessControlRecords](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/accessControlRecords)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[bandwidthSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/bandwidthSettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[devices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/devices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[extendedInformation](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/extendedInformation)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/storageAccountCredentials)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[storageDomains](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/storageDomains)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

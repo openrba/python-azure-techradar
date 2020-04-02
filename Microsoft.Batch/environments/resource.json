@@ -1,0 +1,5 @@
+[
+    "Microsoft.Batch/environments/accessPolicies",
+    "Microsoft.Batch/environments/eventsources",
+    "Microsoft.Batch/environments/referenceDataSets"
+]

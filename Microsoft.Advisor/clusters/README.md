@@ -33,14 +33,14 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[applicationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/clusters/applicationTypes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/clusters/applicationTypes</sub>|<sub>ASSESS</sub>|
-|<sub>[applications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/clusters/applications)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/clusters/applications</sub>|<sub>ASSESS</sub>|
-|<sub>[attacheddatabaseconfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/clusters/attacheddatabaseconfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/clusters/attacheddatabaseconfigurations</sub>|<sub>ASSESS</sub>|
-|<sub>[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/clusters/databases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/clusters/databases</sub>|<sub>ASSESS</sub>|
-|<sub>[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/clusters/operationresults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/clusters/operationresults</sub>|<sub>ASSESS</sub>|
-|<sub>[principalassignments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/clusters/principalassignments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/clusters/principalassignments</sub>|<sub>ASSESS</sub>|
+|<sub>[applicationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/clusters/applicationTypes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[applications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/clusters/applications)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[attacheddatabaseconfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/clusters/attacheddatabaseconfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/clusters/databases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/clusters/operationresults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[principalassignments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/clusters/principalassignments)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

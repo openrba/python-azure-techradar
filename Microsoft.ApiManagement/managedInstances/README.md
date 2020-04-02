@@ -33,19 +33,19 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[administrators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/administrators)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managedInstances/administrators</sub>|<sub>ASSESS</sub>|
-|<sub>[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/databases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managedInstances/databases</sub>|<sub>ASSESS</sub>|
-|<sub>[encryptionProtector](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/encryptionProtector)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managedInstances/encryptionProtector</sub>|<sub>ASSESS</sub>|
-|<sub>[keys](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/keys)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managedInstances/keys</sub>|<sub>ASSESS</sub>|
-|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managedInstances/metricDefinitions</sub>|<sub>ASSESS</sub>|
-|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managedInstances/metrics</sub>|<sub>ASSESS</sub>|
-|<sub>[recoverableDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/recoverableDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managedInstances/recoverableDatabases</sub>|<sub>ASSESS</sub>|
-|<sub>[restorableDroppedDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/restorableDroppedDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managedInstances/restorableDroppedDatabases</sub>|<sub>ASSESS</sub>|
-|<sub>[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/securityAlertPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managedInstances/securityAlertPolicies</sub>|<sub>ASSESS</sub>|
-|<sub>[tdeCertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/tdeCertificates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managedInstances/tdeCertificates</sub>|<sub>ASSESS</sub>|
-|<sub>[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/vulnerabilityAssessments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/managedInstances/vulnerabilityAssessments</sub>|<sub>ASSESS</sub>|
+|<sub>[administrators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/administrators)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/databases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[encryptionProtector](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/encryptionProtector)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[keys](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/keys)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[recoverableDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/recoverableDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[restorableDroppedDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/restorableDroppedDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/securityAlertPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[tdeCertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/tdeCertificates)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/managedInstances/vulnerabilityAssessments)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

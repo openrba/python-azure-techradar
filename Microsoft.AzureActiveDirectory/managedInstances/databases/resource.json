@@ -1,8 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/managedInstances/databases/backupLongTermRetentionPolicies",
-    "Microsoft.AzureActiveDirectory/managedInstances/databases/backupShortTermRetentionPolicies",
-    "Microsoft.AzureActiveDirectory/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
-    "Microsoft.AzureActiveDirectory/managedInstances/databases/securityAlertPolicies",
-    "Microsoft.AzureActiveDirectory/managedInstances/databases/vulnerabilityAssessments",
-    "Microsoft.AzureActiveDirectory/managedInstances/databases/vulnerabilityAssessments/rules/baselines"
-]

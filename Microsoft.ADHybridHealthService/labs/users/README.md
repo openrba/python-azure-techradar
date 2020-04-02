@@ -21,12 +21,12 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[disks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/users/disks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/users/disks</sub>|<sub>ADOPT</sub>|
-|<sub>[environments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/users/environments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/users/environments</sub>|<sub>ADOPT</sub>|
-|<sub>[secrets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/users/secrets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/users/secrets</sub>|<sub>ADOPT</sub>|
-|<sub>[serviceFabrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/users/serviceFabrics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/labs/users/serviceFabrics</sub>|<sub>ADOPT</sub>|
+|<sub>[disks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/users/disks)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[environments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/users/environments)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[secrets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/users/secrets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[serviceFabrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/labs/users/serviceFabrics)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

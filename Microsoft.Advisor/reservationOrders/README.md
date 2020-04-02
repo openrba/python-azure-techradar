@@ -33,15 +33,15 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[availableScopes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/availableScopes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/reservationOrders/availableScopes</sub>|<sub>ASSESS</sub>|
-|<sub>[calculateRefund](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/calculateRefund)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/reservationOrders/calculateRefund</sub>|<sub>ASSESS</sub>|
-|<sub>[merge](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/merge)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/reservationOrders/merge</sub>|<sub>ASSESS</sub>|
-|<sub>[reservations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/reservations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/reservationOrders/reservations</sub>|<sub>ASSESS</sub>|
-|<sub>[return](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/return)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/reservationOrders/return</sub>|<sub>ASSESS</sub>|
-|<sub>[split](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/split)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/reservationOrders/split</sub>|<sub>ASSESS</sub>|
-|<sub>[swap](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/swap)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor/reservationOrders/swap</sub>|<sub>ASSESS</sub>|
+|<sub>[availableScopes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/availableScopes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[calculateRefund](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/calculateRefund)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[merge](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/merge)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[reservations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/reservations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[return](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/return)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[split](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/split)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[swap](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor/reservationOrders/swap)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

@@ -1,0 +1,6 @@
+[
+    "Microsoft.Batch/labAccounts/galleryImages",
+    "Microsoft.Batch/labAccounts/labs",
+    "Microsoft.Batch/labAccounts/labs/environmentSettings",
+    "Microsoft.Batch/labAccounts/labs/users"
+]

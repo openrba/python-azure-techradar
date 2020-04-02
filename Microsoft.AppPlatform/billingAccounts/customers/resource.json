@@ -1,0 +1,9 @@
+[
+    "Microsoft.AppPlatform/billingAccounts/customers/billingPermissions",
+    "Microsoft.AppPlatform/billingAccounts/customers/billingSubscriptions",
+    "Microsoft.AppPlatform/billingAccounts/customers/initiateTransfer",
+    "Microsoft.AppPlatform/billingAccounts/customers/policies",
+    "Microsoft.AppPlatform/billingAccounts/customers/products",
+    "Microsoft.AppPlatform/billingAccounts/customers/transactions",
+    "Microsoft.AppPlatform/billingAccounts/customers/transfers"
+]

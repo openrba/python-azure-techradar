@@ -1,6 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/ExternalBillingAccounts/Alerts",
-    "Microsoft.AzureActiveDirectory/ExternalBillingAccounts/Dimensions",
-    "Microsoft.AzureActiveDirectory/ExternalBillingAccounts/Forecast",
-    "Microsoft.AzureActiveDirectory/ExternalBillingAccounts/Query"
-]

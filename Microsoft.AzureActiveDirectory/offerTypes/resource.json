@@ -1,8 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/offerTypes/publishers",
-    "Microsoft.AzureActiveDirectory/offerTypes/publishers/offers",
-    "Microsoft.AzureActiveDirectory/offerTypes/publishers/offers/plans",
-    "Microsoft.AzureActiveDirectory/offerTypes/publishers/offers/plans/agreements",
-    "Microsoft.AzureActiveDirectory/offerTypes/publishers/offers/plans/configs",
-    "Microsoft.AzureActiveDirectory/offerTypes/publishers/offers/plans/configs/importImage"
-]

@@ -1,7 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/services/problemclassifications",
-    "Microsoft.AzureActiveDirectory/services/projects",
-    "Microsoft.AzureActiveDirectory/services/projects/files",
-    "Microsoft.AzureActiveDirectory/services/projects/tasks",
-    "Microsoft.AzureActiveDirectory/services/serviceTasks"
-]

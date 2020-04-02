@@ -1,0 +1,15 @@
+[
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/billingSubscriptionMoveOperations",
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/billingSubscriptions",
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/billingSubscriptions/transfer",
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/elevate",
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/initiateTransfer",
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/patchOperations",
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/productMoveOperations",
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/productTransfersResults",
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/products",
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/products/transfer",
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/products/updateAutoRenew",
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/transactions",
+    "Microsoft.AppConfiguration/billingAccounts/invoiceSections/transfers"
+]

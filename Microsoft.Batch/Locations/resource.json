@@ -1,0 +1,7 @@
+[
+    "Microsoft.Batch/Locations/OperationStatuses",
+    "Microsoft.Batch/Locations/OperationTypes",
+    "Microsoft.Batch/Locations/availabilityGroupListenerOperationResults",
+    "Microsoft.Batch/Locations/sqlVirtualMachineGroupOperationResults",
+    "Microsoft.Batch/Locations/sqlVirtualMachineOperationResults"
+]

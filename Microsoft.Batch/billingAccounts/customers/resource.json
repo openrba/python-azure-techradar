@@ -1,0 +1,9 @@
+[
+    "Microsoft.Batch/billingAccounts/customers/billingPermissions",
+    "Microsoft.Batch/billingAccounts/customers/billingSubscriptions",
+    "Microsoft.Batch/billingAccounts/customers/initiateTransfer",
+    "Microsoft.Batch/billingAccounts/customers/policies",
+    "Microsoft.Batch/billingAccounts/customers/products",
+    "Microsoft.Batch/billingAccounts/customers/transactions",
+    "Microsoft.Batch/billingAccounts/customers/transfers"
+]

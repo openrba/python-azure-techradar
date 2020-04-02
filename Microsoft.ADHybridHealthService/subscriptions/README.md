@@ -21,16 +21,16 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[locations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/locations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/subscriptions/locations</sub>|<sub>ADOPT</sub>|
-|<sub>[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/operationresults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/subscriptions/operationresults</sub>|<sub>ADOPT</sub>|
-|<sub>[providers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/providers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/subscriptions/providers</sub>|<sub>ADOPT</sub>|
-|<sub>[resourceGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/resourceGroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/subscriptions/resourceGroups</sub>|<sub>ADOPT</sub>|
-|<sub>[resourcegroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/resourcegroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/subscriptions/resourcegroups</sub>|<sub>ADOPT</sub>|
-|<sub>[resources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/resources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/subscriptions/resources</sub>|<sub>ADOPT</sub>|
-|<sub>[tagNames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/tagNames)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/subscriptions/tagNames</sub>|<sub>ADOPT</sub>|
-|<sub>[tagnames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/tagnames)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/subscriptions/tagnames</sub>|<sub>ADOPT</sub>|
+|<sub>[locations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/locations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/operationresults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[providers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/providers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[resourceGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/resourceGroups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[resourcegroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/resourcegroups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[resources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/resources)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[tagNames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/tagNames)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[tagnames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/subscriptions/tagnames)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

@@ -33,10 +33,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[backupProtectionIntent](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/Vaults/backupFabrics/backupProtectionIntent)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/Vaults/backupFabrics/backupProtectionIntent</sub>|<sub>ASSESS</sub>|
-|<sub>[protectionContainers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/Vaults/backupFabrics/protectionContainers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/Vaults/backupFabrics/protectionContainers</sub>|<sub>ASSESS</sub>|
+|<sub>[backupProtectionIntent](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/Vaults/backupFabrics/backupProtectionIntent)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[protectionContainers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/Vaults/backupFabrics/protectionContainers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

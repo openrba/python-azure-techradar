@@ -1,0 +1,7 @@
+[
+    "Microsoft.AppPlatform/services/problemclassifications",
+    "Microsoft.AppPlatform/services/projects",
+    "Microsoft.AppPlatform/services/projects/files",
+    "Microsoft.AppPlatform/services/projects/tasks",
+    "Microsoft.AppPlatform/services/serviceTasks"
+]

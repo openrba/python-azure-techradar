@@ -1,0 +1,5 @@
+[
+    "Microsoft.Batch/databaseAccounts/mongodbDatabases/collections",
+    "Microsoft.Batch/databaseAccounts/mongodbDatabases/collections/throughputSettings",
+    "Microsoft.Batch/databaseAccounts/mongodbDatabases/throughputSettings"
+]

@@ -27,18 +27,18 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/A)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/privateDnsZones/A</sub>|<sub>TRIAL</sub>|
-|<sub>[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/AAAA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/privateDnsZones/AAAA</sub>|<sub>TRIAL</sub>|
-|<sub>[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/CNAME)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/privateDnsZones/CNAME</sub>|<sub>TRIAL</sub>|
-|<sub>[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/MX)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/privateDnsZones/MX</sub>|<sub>TRIAL</sub>|
-|<sub>[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/PTR)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/privateDnsZones/PTR</sub>|<sub>TRIAL</sub>|
-|<sub>[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/SOA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/privateDnsZones/SOA</sub>|<sub>TRIAL</sub>|
-|<sub>[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/SRV)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/privateDnsZones/SRV</sub>|<sub>TRIAL</sub>|
-|<sub>[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/TXT)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/privateDnsZones/TXT</sub>|<sub>TRIAL</sub>|
-|<sub>[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/all)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/privateDnsZones/all</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualNetworkLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/virtualNetworkLinks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/privateDnsZones/virtualNetworkLinks</sub>|<sub>TRIAL</sub>|
+|<sub>[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/A)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/AAAA)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/CNAME)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/MX)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/PTR)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/SOA)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/SRV)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/TXT)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/all)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetworkLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/privateDnsZones/virtualNetworkLinks)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

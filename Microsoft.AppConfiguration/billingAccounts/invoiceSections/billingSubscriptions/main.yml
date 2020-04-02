@@ -1,0 +1,17 @@
+transfer:
+  path: Microsoft.AppConfiguration/billingAccounts/invoiceSections/billingSubscriptions/transfer
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/invoiceSections/billingSubscriptions/transfer
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

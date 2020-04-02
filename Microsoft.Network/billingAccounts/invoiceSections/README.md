@@ -27,18 +27,18 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[billingSubscriptionMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptionMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptionMoveOperations</sub>|<sub>TRIAL</sub>|
-|<sub>[billingSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptions</sub>|<sub>TRIAL</sub>|
-|<sub>[elevate](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/elevate)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/billingAccounts/invoiceSections/elevate</sub>|<sub>TRIAL</sub>|
-|<sub>[initiateTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/initiateTransfer)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/billingAccounts/invoiceSections/initiateTransfer</sub>|<sub>TRIAL</sub>|
-|<sub>[patchOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/patchOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/billingAccounts/invoiceSections/patchOperations</sub>|<sub>TRIAL</sub>|
-|<sub>[productMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/productMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/billingAccounts/invoiceSections/productMoveOperations</sub>|<sub>TRIAL</sub>|
-|<sub>[productTransfersResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/productTransfersResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/billingAccounts/invoiceSections/productTransfersResults</sub>|<sub>TRIAL</sub>|
-|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/products)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/billingAccounts/invoiceSections/products</sub>|<sub>TRIAL</sub>|
-|<sub>[transactions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/transactions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/billingAccounts/invoiceSections/transactions</sub>|<sub>TRIAL</sub>|
-|<sub>[transfers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/transfers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/billingAccounts/invoiceSections/transfers</sub>|<sub>TRIAL</sub>|
+|<sub>[billingSubscriptionMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptionMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[billingSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[elevate](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/elevate)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[initiateTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/initiateTransfer)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[patchOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/patchOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[productMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/productMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[productTransfersResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/productTransfersResults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/products)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[transactions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/transactions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[transfers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/billingAccounts/invoiceSections/transfers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

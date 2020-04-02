@@ -1,0 +1,19 @@
+[
+    "Microsoft.Batch/managers/accessControlRecords",
+    "Microsoft.Batch/managers/bandwidthSettings",
+    "Microsoft.Batch/managers/devices/alertSettings",
+    "Microsoft.Batch/managers/devices/backupPolicies",
+    "Microsoft.Batch/managers/devices/backupPolicies/schedules",
+    "Microsoft.Batch/managers/devices/backupScheduleGroups",
+    "Microsoft.Batch/managers/devices/chapSettings",
+    "Microsoft.Batch/managers/devices/fileservers",
+    "Microsoft.Batch/managers/devices/fileservers/shares",
+    "Microsoft.Batch/managers/devices/iscsiservers",
+    "Microsoft.Batch/managers/devices/iscsiservers/disks",
+    "Microsoft.Batch/managers/devices/timeSettings",
+    "Microsoft.Batch/managers/devices/volumeContainers",
+    "Microsoft.Batch/managers/devices/volumeContainers/volumes",
+    "Microsoft.Batch/managers/extendedInformation",
+    "Microsoft.Batch/managers/storageAccountCredentials",
+    "Microsoft.Batch/managers/storageDomains"
+]

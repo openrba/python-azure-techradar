@@ -1,0 +1,5 @@
+[
+    "Microsoft.AppPlatform/databaseAccounts/gremlinDatabases/graphs",
+    "Microsoft.AppPlatform/databaseAccounts/gremlinDatabases/graphs/throughputSettings",
+    "Microsoft.AppPlatform/databaseAccounts/gremlinDatabases/throughputSettings"
+]

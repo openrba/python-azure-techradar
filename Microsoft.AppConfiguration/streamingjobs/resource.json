@@ -1,0 +1,6 @@
+[
+    "Microsoft.AppConfiguration/streamingjobs/functions",
+    "Microsoft.AppConfiguration/streamingjobs/inputs",
+    "Microsoft.AppConfiguration/streamingjobs/outputs",
+    "Microsoft.AppConfiguration/streamingjobs/transformations"
+]

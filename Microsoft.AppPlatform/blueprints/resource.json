@@ -1,0 +1,5 @@
+[
+    "Microsoft.AppPlatform/blueprints/artifacts",
+    "Microsoft.AppPlatform/blueprints/versions",
+    "Microsoft.AppPlatform/blueprints/versions/artifacts"
+]

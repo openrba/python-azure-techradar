@@ -1,0 +1,6 @@
+[
+    "Microsoft.AppPlatform/assessmentprojects/groups",
+    "Microsoft.AppPlatform/assessmentprojects/groups/assessments",
+    "Microsoft.AppPlatform/assessmentprojects/hypervcollectors",
+    "Microsoft.AppPlatform/assessmentprojects/vmwarecollectors"
+]

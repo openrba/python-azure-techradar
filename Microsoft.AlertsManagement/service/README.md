@@ -33,27 +33,27 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[apiVersionSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/apiVersionSets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/apiVersionSets</sub>|<sub>ASSESS</sub>|
-|<sub>[apis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/apis)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/apis</sub>|<sub>ASSESS</sub>|
-|<sub>[authorizationServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/authorizationServers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/authorizationServers</sub>|<sub>ASSESS</sub>|
-|<sub>[backends](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/backends)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/backends</sub>|<sub>ASSESS</sub>|
-|<sub>[caches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/caches)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/caches</sub>|<sub>ASSESS</sub>|
-|<sub>[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/diagnostics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/diagnostics</sub>|<sub>ASSESS</sub>|
-|<sub>[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/groups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/groups</sub>|<sub>ASSESS</sub>|
-|<sub>[identityProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/identityProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/identityProviders</sub>|<sub>ASSESS</sub>|
-|<sub>[loggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/loggers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/loggers</sub>|<sub>ASSESS</sub>|
-|<sub>[notifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/notifications)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/notifications</sub>|<sub>ASSESS</sub>|
-|<sub>[openidConnectProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/openidConnectProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/openidConnectProviders</sub>|<sub>ASSESS</sub>|
-|<sub>[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/policies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/policies</sub>|<sub>ASSESS</sub>|
-|<sub>[portalsettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/portalsettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/portalsettings</sub>|<sub>ASSESS</sub>|
-|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/products)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/products</sub>|<sub>ASSESS</sub>|
-|<sub>[properties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/properties)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/properties</sub>|<sub>ASSESS</sub>|
-|<sub>[subscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/subscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/subscriptions</sub>|<sub>ASSESS</sub>|
-|<sub>[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/tags)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/tags</sub>|<sub>ASSESS</sub>|
-|<sub>[templates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/templates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/templates</sub>|<sub>ASSESS</sub>|
-|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/users)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/service/users</sub>|<sub>ASSESS</sub>|
+|<sub>[apiVersionSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/apiVersionSets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[apis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/apis)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[authorizationServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/authorizationServers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[backends](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/backends)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[caches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/caches)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/diagnostics)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/groups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[identityProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/identityProviders)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[loggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/loggers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[notifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/notifications)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[openidConnectProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/openidConnectProviders)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/policies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[portalsettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/portalsettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/products)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[properties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/properties)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[subscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/subscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/tags)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[templates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/templates)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/service/users)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

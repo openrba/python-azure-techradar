@@ -1,5 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/databaseAccounts/mongodbDatabases/collections",
-    "Microsoft.AzureActiveDirectory/databaseAccounts/mongodbDatabases/collections/throughputSettings",
-    "Microsoft.AzureActiveDirectory/databaseAccounts/mongodbDatabases/throughputSettings"
-]

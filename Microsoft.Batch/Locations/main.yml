@@ -1,0 +1,85 @@
+OperationStatuses:
+  path: Microsoft.Batch/Locations/OperationStatuses
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/Locations/OperationStatuses
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+OperationTypes:
+  path: Microsoft.Batch/Locations/OperationTypes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/Locations/OperationTypes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilityGroupListenerOperationResults:
+  path: Microsoft.Batch/Locations/availabilityGroupListenerOperationResults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/Locations/availabilityGroupListenerOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlVirtualMachineGroupOperationResults:
+  path: Microsoft.Batch/Locations/sqlVirtualMachineGroupOperationResults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/Locations/sqlVirtualMachineGroupOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlVirtualMachineOperationResults:
+  path: Microsoft.Batch/Locations/sqlVirtualMachineOperationResults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/Locations/sqlVirtualMachineOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

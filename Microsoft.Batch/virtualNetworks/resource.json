@@ -1,0 +1,5 @@
+[
+    "Microsoft.Batch/virtualNetworks/remoteVirtualNetworkPeeringProxies",
+    "Microsoft.Batch/virtualNetworks/subnets",
+    "Microsoft.Batch/virtualNetworks/virtualNetworkPeerings"
+]

@@ -21,12 +21,12 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[capabilities](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/domainNames/capabilities)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/domainNames/capabilities</sub>|<sub>ADOPT</sub>|
-|<sub>[internalLoadBalancers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/domainNames/internalLoadBalancers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/domainNames/internalLoadBalancers</sub>|<sub>ADOPT</sub>|
-|<sub>[serviceCertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/domainNames/serviceCertificates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/domainNames/serviceCertificates</sub>|<sub>ADOPT</sub>|
-|<sub>[slots](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/domainNames/slots)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/domainNames/slots</sub>|<sub>ADOPT</sub>|
+|<sub>[capabilities](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/domainNames/capabilities)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[internalLoadBalancers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/domainNames/internalLoadBalancers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[serviceCertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/domainNames/serviceCertificates)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[slots](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/domainNames/slots)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

@@ -1,0 +1,9 @@
+[
+    "Microsoft.Batch/domainNames/capabilities",
+    "Microsoft.Batch/domainNames/internalLoadBalancers",
+    "Microsoft.Batch/domainNames/serviceCertificates",
+    "Microsoft.Batch/domainNames/slots",
+    "Microsoft.Batch/domainNames/slots/roles",
+    "Microsoft.Batch/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.Batch/domainNames/slots/roles/metrics"
+]

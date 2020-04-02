@@ -1,0 +1,4 @@
+[
+    "Microsoft.AppConfiguration/dataFactories/diagnosticSettings",
+    "Microsoft.AppConfiguration/dataFactories/metricDefinitions"
+]

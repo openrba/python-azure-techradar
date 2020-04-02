@@ -33,21 +33,21 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[config](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/config)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/config</sub>|<sub>ASSESS</sub>|
-|<sub>[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/domainownershipidentifiers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/domainownershipidentifiers</sub>|<sub>ASSESS</sub>|
-|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/eventGridFilters</sub>|<sub>ASSESS</sub>|
-|<sub>[hostNameBindings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/hostNameBindings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/hostNameBindings</sub>|<sub>ASSESS</sub>|
-|<sub>[hybridconnection](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/hybridconnection)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/hybridconnection</sub>|<sub>ASSESS</sub>|
-|<sub>[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/hybridconnectionnamespaces)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/hybridconnectionnamespaces</sub>|<sub>ASSESS</sub>|
-|<sub>[networkConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/networkConfig)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/networkConfig</sub>|<sub>ASSESS</sub>|
-|<sub>[premieraddons](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/premieraddons)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/premieraddons</sub>|<sub>ASSESS</sub>|
-|<sub>[privateaccess](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/privateaccess)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/privateaccess</sub>|<sub>ASSESS</sub>|
-|<sub>[publiccertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/publiccertificates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/publiccertificates</sub>|<sub>ASSESS</sub>|
-|<sub>[slots](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/slots)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/slots</sub>|<sub>ASSESS</sub>|
-|<sub>[sourcecontrols](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/sourcecontrols)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/sourcecontrols</sub>|<sub>ASSESS</sub>|
-|<sub>[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/virtualnetworkconnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB/sites/virtualnetworkconnections</sub>|<sub>ASSESS</sub>|
+|<sub>[config](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/config)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/domainownershipidentifiers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[hostNameBindings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/hostNameBindings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[hybridconnection](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/hybridconnection)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/hybridconnectionnamespaces)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[networkConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/networkConfig)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[premieraddons](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/premieraddons)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[privateaccess](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/privateaccess)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[publiccertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/publiccertificates)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[slots](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/slots)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[sourcecontrols](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/sourcecontrols)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB/sites/virtualnetworkconnections)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

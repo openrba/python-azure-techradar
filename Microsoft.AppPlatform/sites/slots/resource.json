@@ -1,0 +1,14 @@
+[
+    "Microsoft.AppPlatform/sites/slots/config",
+    "Microsoft.AppPlatform/sites/slots/domainownershipidentifiers",
+    "Microsoft.AppPlatform/sites/slots/eventGridFilters",
+    "Microsoft.AppPlatform/sites/slots/hostNameBindings",
+    "Microsoft.AppPlatform/sites/slots/hybridconnection",
+    "Microsoft.AppPlatform/sites/slots/hybridconnectionnamespaces/relays",
+    "Microsoft.AppPlatform/sites/slots/networkConfig",
+    "Microsoft.AppPlatform/sites/slots/premieraddons",
+    "Microsoft.AppPlatform/sites/slots/publiccertificates",
+    "Microsoft.AppPlatform/sites/slots/sourcecontrols",
+    "Microsoft.AppPlatform/sites/slots/virtualnetworkconnections",
+    "Microsoft.AppPlatform/sites/slots/virtualnetworkconnections/gateways"
+]

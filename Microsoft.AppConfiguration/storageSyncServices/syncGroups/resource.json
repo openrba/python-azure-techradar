@@ -1,0 +1,4 @@
+[
+    "Microsoft.AppConfiguration/storageSyncServices/syncGroups/cloudEndpoints",
+    "Microsoft.AppConfiguration/storageSyncServices/syncGroups/serverEndpoints"
+]

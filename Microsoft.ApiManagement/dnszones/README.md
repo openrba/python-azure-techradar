@@ -33,20 +33,20 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/A)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/dnszones/A</sub>|<sub>ASSESS</sub>|
-|<sub>[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/AAAA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/dnszones/AAAA</sub>|<sub>ASSESS</sub>|
-|<sub>[CAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/CAA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/dnszones/CAA</sub>|<sub>ASSESS</sub>|
-|<sub>[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/CNAME)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/dnszones/CNAME</sub>|<sub>ASSESS</sub>|
-|<sub>[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/MX)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/dnszones/MX</sub>|<sub>ASSESS</sub>|
-|<sub>[NS](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/NS)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/dnszones/NS</sub>|<sub>ASSESS</sub>|
-|<sub>[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/PTR)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/dnszones/PTR</sub>|<sub>ASSESS</sub>|
-|<sub>[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/SOA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/dnszones/SOA</sub>|<sub>ASSESS</sub>|
-|<sub>[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/SRV)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/dnszones/SRV</sub>|<sub>ASSESS</sub>|
-|<sub>[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/TXT)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/dnszones/TXT</sub>|<sub>ASSESS</sub>|
-|<sub>[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/all)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/dnszones/all</sub>|<sub>ASSESS</sub>|
-|<sub>[recordsets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/recordsets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/dnszones/recordsets</sub>|<sub>ASSESS</sub>|
+|<sub>[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/A)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/AAAA)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[CAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/CAA)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/CNAME)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/MX)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[NS](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/NS)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/PTR)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/SOA)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/SRV)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/TXT)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/all)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[recordsets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/dnszones/recordsets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

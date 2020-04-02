@@ -21,14 +21,14 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[accessControlRecords](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/accessControlRecords)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/accessControlRecords</sub>|<sub>ADOPT</sub>|
-|<sub>[bandwidthSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/bandwidthSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/bandwidthSettings</sub>|<sub>ADOPT</sub>|
-|<sub>[devices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/devices</sub>|<sub>ADOPT</sub>|
-|<sub>[extendedInformation](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/extendedInformation)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/extendedInformation</sub>|<sub>ADOPT</sub>|
-|<sub>[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/storageAccountCredentials)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/storageAccountCredentials</sub>|<sub>ADOPT</sub>|
-|<sub>[storageDomains](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/storageDomains)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/storageDomains</sub>|<sub>ADOPT</sub>|
+|<sub>[accessControlRecords](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/accessControlRecords)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[bandwidthSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/bandwidthSettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[devices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[extendedInformation](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/extendedInformation)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/storageAccountCredentials)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[storageDomains](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/storageDomains)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

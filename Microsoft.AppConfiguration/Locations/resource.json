@@ -1,0 +1,7 @@
+[
+    "Microsoft.AppConfiguration/Locations/OperationStatuses",
+    "Microsoft.AppConfiguration/Locations/OperationTypes",
+    "Microsoft.AppConfiguration/Locations/availabilityGroupListenerOperationResults",
+    "Microsoft.AppConfiguration/Locations/sqlVirtualMachineGroupOperationResults",
+    "Microsoft.AppConfiguration/Locations/sqlVirtualMachineOperationResults"
+]

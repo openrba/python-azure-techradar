@@ -1,0 +1,51 @@
+format:
+  path: Microsoft.Batch/batchAccounts/certificates/format
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/batchAccounts/certificates/format
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+thumbprint:
+  path: Microsoft.Batch/batchAccounts/certificates/thumbprint
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/batchAccounts/certificates/thumbprint
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+thumbprintAlgorithm:
+  path: Microsoft.Batch/batchAccounts/certificates/thumbprintAlgorithm
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/batchAccounts/certificates/thumbprintAlgorithm
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

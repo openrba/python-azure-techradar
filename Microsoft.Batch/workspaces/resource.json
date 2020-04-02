@@ -1,0 +1,16 @@
+[
+    "Microsoft.Batch/workspaces/clusters",
+    "Microsoft.Batch/workspaces/computes",
+    "Microsoft.Batch/workspaces/dataSources",
+    "Microsoft.Batch/workspaces/dbWorkspaces",
+    "Microsoft.Batch/workspaces/eventGridFilters",
+    "Microsoft.Batch/workspaces/experiments",
+    "Microsoft.Batch/workspaces/experiments/jobs",
+    "Microsoft.Batch/workspaces/fileservers",
+    "Microsoft.Batch/workspaces/linkedServices",
+    "Microsoft.Batch/workspaces/query",
+    "Microsoft.Batch/workspaces/savedSearches",
+    "Microsoft.Batch/workspaces/scopedPrivateLinkProxies",
+    "Microsoft.Batch/workspaces/storageinsightconfigs",
+    "Microsoft.Batch/workspaces/virtualNetworkPeerings"
+]

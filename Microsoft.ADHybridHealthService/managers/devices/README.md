@@ -21,16 +21,16 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[alertSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/alertSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/devices/alertSettings</sub>|<sub>ADOPT</sub>|
-|<sub>[backupPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/backupPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/devices/backupPolicies</sub>|<sub>ADOPT</sub>|
-|<sub>[backupScheduleGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/backupScheduleGroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/devices/backupScheduleGroups</sub>|<sub>ADOPT</sub>|
-|<sub>[chapSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/chapSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/devices/chapSettings</sub>|<sub>ADOPT</sub>|
-|<sub>[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/fileservers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/devices/fileservers</sub>|<sub>ADOPT</sub>|
-|<sub>[iscsiservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/iscsiservers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/devices/iscsiservers</sub>|<sub>ADOPT</sub>|
-|<sub>[timeSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/timeSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/devices/timeSettings</sub>|<sub>ADOPT</sub>|
-|<sub>[volumeContainers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/volumeContainers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managers/devices/volumeContainers</sub>|<sub>ADOPT</sub>|
+|<sub>[alertSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/alertSettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[backupPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/backupPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[backupScheduleGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/backupScheduleGroups)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[chapSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/chapSettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/fileservers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[iscsiservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/iscsiservers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[timeSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/timeSettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[volumeContainers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managers/devices/volumeContainers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

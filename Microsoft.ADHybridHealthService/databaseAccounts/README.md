@@ -21,14 +21,14 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[cassandraKeyspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/databaseAccounts/cassandraKeyspaces)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/databaseAccounts/cassandraKeyspaces</sub>|<sub>ADOPT</sub>|
-|<sub>[gremlinDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/databaseAccounts/gremlinDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/databaseAccounts/gremlinDatabases</sub>|<sub>ADOPT</sub>|
-|<sub>[mongodbDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/databaseAccounts/mongodbDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/databaseAccounts/mongodbDatabases</sub>|<sub>ADOPT</sub>|
-|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/databaseAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/databaseAccounts/privateEndpointConnections</sub>|<sub>ADOPT</sub>|
-|<sub>[sqlDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/databaseAccounts/sqlDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/databaseAccounts/sqlDatabases</sub>|<sub>ADOPT</sub>|
-|<sub>[tables](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/databaseAccounts/tables)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/databaseAccounts/tables</sub>|<sub>ADOPT</sub>|
+|<sub>[cassandraKeyspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/databaseAccounts/cassandraKeyspaces)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[gremlinDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/databaseAccounts/gremlinDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[mongodbDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/databaseAccounts/mongodbDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/databaseAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[sqlDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/databaseAccounts/sqlDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[tables](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/databaseAccounts/tables)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

@@ -33,13 +33,13 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[OperationStatuses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/Locations/OperationStatuses)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/Locations/OperationStatuses</sub>|<sub>ASSESS</sub>|
-|<sub>[OperationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/Locations/OperationTypes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/Locations/OperationTypes</sub>|<sub>ASSESS</sub>|
-|<sub>[availabilityGroupListenerOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/Locations/availabilityGroupListenerOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/Locations/availabilityGroupListenerOperationResults</sub>|<sub>ASSESS</sub>|
-|<sub>[sqlVirtualMachineGroupOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/Locations/sqlVirtualMachineGroupOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/Locations/sqlVirtualMachineGroupOperationResults</sub>|<sub>ASSESS</sub>|
-|<sub>[sqlVirtualMachineOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/Locations/sqlVirtualMachineOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/Locations/sqlVirtualMachineOperationResults</sub>|<sub>ASSESS</sub>|
+|<sub>[OperationStatuses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/Locations/OperationStatuses)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[OperationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/Locations/OperationTypes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[availabilityGroupListenerOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/Locations/availabilityGroupListenerOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[sqlVirtualMachineGroupOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/Locations/sqlVirtualMachineGroupOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[sqlVirtualMachineOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/Locations/sqlVirtualMachineOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

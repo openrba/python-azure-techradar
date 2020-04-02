@@ -21,19 +21,19 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[administrators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/administrators)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managedInstances/administrators</sub>|<sub>ADOPT</sub>|
-|<sub>[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/databases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managedInstances/databases</sub>|<sub>ADOPT</sub>|
-|<sub>[encryptionProtector](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/encryptionProtector)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managedInstances/encryptionProtector</sub>|<sub>ADOPT</sub>|
-|<sub>[keys](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/keys)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managedInstances/keys</sub>|<sub>ADOPT</sub>|
-|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managedInstances/metricDefinitions</sub>|<sub>ADOPT</sub>|
-|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managedInstances/metrics</sub>|<sub>ADOPT</sub>|
-|<sub>[recoverableDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/recoverableDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managedInstances/recoverableDatabases</sub>|<sub>ADOPT</sub>|
-|<sub>[restorableDroppedDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/restorableDroppedDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managedInstances/restorableDroppedDatabases</sub>|<sub>ADOPT</sub>|
-|<sub>[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/securityAlertPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managedInstances/securityAlertPolicies</sub>|<sub>ADOPT</sub>|
-|<sub>[tdeCertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/tdeCertificates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managedInstances/tdeCertificates</sub>|<sub>ADOPT</sub>|
-|<sub>[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/vulnerabilityAssessments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/managedInstances/vulnerabilityAssessments</sub>|<sub>ADOPT</sub>|
+|<sub>[administrators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/administrators)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/databases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[encryptionProtector](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/encryptionProtector)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[keys](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/keys)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[recoverableDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/recoverableDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[restorableDroppedDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/restorableDroppedDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/securityAlertPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[tdeCertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/tdeCertificates)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/managedInstances/vulnerabilityAssessments)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

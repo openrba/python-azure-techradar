@@ -1,0 +1,6 @@
+[
+    "Microsoft.Batch/accounts/shares/datasets",
+    "Microsoft.Batch/accounts/shares/invitations",
+    "Microsoft.Batch/accounts/shares/providersharesubscriptions",
+    "Microsoft.Batch/accounts/shares/synchronizationSettings"
+]

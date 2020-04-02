@@ -1,0 +1,9 @@
+[
+    "Microsoft.AppConfiguration/domainNames/capabilities",
+    "Microsoft.AppConfiguration/domainNames/internalLoadBalancers",
+    "Microsoft.AppConfiguration/domainNames/serviceCertificates",
+    "Microsoft.AppConfiguration/domainNames/slots",
+    "Microsoft.AppConfiguration/domainNames/slots/roles",
+    "Microsoft.AppConfiguration/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.AppConfiguration/domainNames/slots/roles/metrics"
+]

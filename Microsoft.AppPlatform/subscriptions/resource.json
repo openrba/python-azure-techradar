@@ -1,0 +1,10 @@
+[
+    "Microsoft.AppPlatform/subscriptions/locations",
+    "Microsoft.AppPlatform/subscriptions/operationresults",
+    "Microsoft.AppPlatform/subscriptions/providers",
+    "Microsoft.AppPlatform/subscriptions/resourceGroups",
+    "Microsoft.AppPlatform/subscriptions/resourcegroups/resources",
+    "Microsoft.AppPlatform/subscriptions/resources",
+    "Microsoft.AppPlatform/subscriptions/tagNames/tagValues",
+    "Microsoft.AppPlatform/subscriptions/tagnames"
+]

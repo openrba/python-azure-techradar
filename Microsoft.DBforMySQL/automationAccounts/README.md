@@ -33,28 +33,28 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[certificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/certificates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/certificates</sub>|<sub>ASSESS</sub>|
-|<sub>[compilationjobs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/compilationjobs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/compilationjobs</sub>|<sub>ASSESS</sub>|
-|<sub>[configurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/configurations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/configurations</sub>|<sub>ASSESS</sub>|
-|<sub>[connectionTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/connectionTypes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/connectionTypes</sub>|<sub>ASSESS</sub>|
-|<sub>[connections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/connections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/connections</sub>|<sub>ASSESS</sub>|
-|<sub>[credentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/credentials)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/credentials</sub>|<sub>ASSESS</sub>|
-|<sub>[jobSchedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/jobSchedules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/jobSchedules</sub>|<sub>ASSESS</sub>|
-|<sub>[jobs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/jobs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/jobs</sub>|<sub>ASSESS</sub>|
-|<sub>[modules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/modules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/modules</sub>|<sub>ASSESS</sub>|
-|<sub>[nodeConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/nodeConfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/nodeConfigurations</sub>|<sub>ASSESS</sub>|
-|<sub>[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/privateEndpointConnectionProxies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/privateEndpointConnectionProxies</sub>|<sub>ASSESS</sub>|
-|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/privateEndpointConnections</sub>|<sub>ASSESS</sub>|
-|<sub>[privateLinkResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/privateLinkResources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/privateLinkResources</sub>|<sub>ASSESS</sub>|
-|<sub>[python2Packages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/python2Packages)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/python2Packages</sub>|<sub>ASSESS</sub>|
-|<sub>[runbooks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/runbooks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/runbooks</sub>|<sub>ASSESS</sub>|
-|<sub>[schedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/schedules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/schedules</sub>|<sub>ASSESS</sub>|
-|<sub>[softwareUpdateConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/softwareUpdateConfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/softwareUpdateConfigurations</sub>|<sub>ASSESS</sub>|
-|<sub>[variables](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/variables)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/variables</sub>|<sub>ASSESS</sub>|
-|<sub>[watchers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/watchers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/watchers</sub>|<sub>ASSESS</sub>|
-|<sub>[webhooks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/webhooks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/automationAccounts/webhooks</sub>|<sub>ASSESS</sub>|
+|<sub>[certificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/certificates)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[compilationjobs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/compilationjobs)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[configurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/configurations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[connectionTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/connectionTypes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[connections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/connections)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[credentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/credentials)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[jobSchedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/jobSchedules)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[jobs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/jobs)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[modules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/modules)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[nodeConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/nodeConfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/privateEndpointConnectionProxies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[privateLinkResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/privateLinkResources)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[python2Packages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/python2Packages)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[runbooks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/runbooks)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[schedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/schedules)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[softwareUpdateConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/softwareUpdateConfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[variables](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/variables)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[watchers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/watchers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[webhooks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/automationAccounts/webhooks)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

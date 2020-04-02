@@ -1,0 +1,34 @@
+transfer:
+  path: Microsoft.Batch/billingAccounts/invoiceSections/products/transfer
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/billingAccounts/invoiceSections/products/transfer
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+updateAutoRenew:
+  path: Microsoft.Batch/billingAccounts/invoiceSections/products/updateAutoRenew
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/billingAccounts/invoiceSections/products/updateAutoRenew
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

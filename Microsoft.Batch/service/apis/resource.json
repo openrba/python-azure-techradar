@@ -1,0 +1,14 @@
+[
+    "Microsoft.Batch/service/apis/diagnostics",
+    "Microsoft.Batch/service/apis/issues",
+    "Microsoft.Batch/service/apis/issues/attachments",
+    "Microsoft.Batch/service/apis/issues/comments",
+    "Microsoft.Batch/service/apis/operations",
+    "Microsoft.Batch/service/apis/operations/policies",
+    "Microsoft.Batch/service/apis/operations/tags",
+    "Microsoft.Batch/service/apis/policies",
+    "Microsoft.Batch/service/apis/releases",
+    "Microsoft.Batch/service/apis/schemas",
+    "Microsoft.Batch/service/apis/tagDescriptions",
+    "Microsoft.Batch/service/apis/tags"
+]

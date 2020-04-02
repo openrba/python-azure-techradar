@@ -21,12 +21,12 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[datasets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/shares/datasets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/shares/datasets</sub>|<sub>ADOPT</sub>|
-|<sub>[invitations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/shares/invitations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/shares/invitations</sub>|<sub>ADOPT</sub>|
-|<sub>[providersharesubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/shares/providersharesubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/shares/providersharesubscriptions</sub>|<sub>ADOPT</sub>|
-|<sub>[synchronizationSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/shares/synchronizationSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/accounts/shares/synchronizationSettings</sub>|<sub>ADOPT</sub>|
+|<sub>[datasets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/shares/datasets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[invitations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/shares/invitations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[providersharesubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/shares/providersharesubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[synchronizationSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/accounts/shares/synchronizationSettings)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

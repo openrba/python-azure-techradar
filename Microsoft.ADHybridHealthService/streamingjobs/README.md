@@ -21,12 +21,12 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[functions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/streamingjobs/functions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/streamingjobs/functions</sub>|<sub>ADOPT</sub>|
-|<sub>[inputs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/streamingjobs/inputs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/streamingjobs/inputs</sub>|<sub>ADOPT</sub>|
-|<sub>[outputs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/streamingjobs/outputs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/streamingjobs/outputs</sub>|<sub>ADOPT</sub>|
-|<sub>[transformations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/streamingjobs/transformations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/streamingjobs/transformations</sub>|<sub>ADOPT</sub>|
+|<sub>[functions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/streamingjobs/functions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[inputs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/streamingjobs/inputs)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[outputs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/streamingjobs/outputs)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[transformations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/streamingjobs/transformations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

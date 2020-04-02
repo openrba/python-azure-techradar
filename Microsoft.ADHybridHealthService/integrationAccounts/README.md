@@ -21,17 +21,17 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[agreements](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/agreements)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/integrationAccounts/agreements</sub>|<sub>ADOPT</sub>|
-|<sub>[assemblies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/assemblies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/integrationAccounts/assemblies</sub>|<sub>ADOPT</sub>|
-|<sub>[batchConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/batchConfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/integrationAccounts/batchConfigurations</sub>|<sub>ADOPT</sub>|
-|<sub>[certificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/certificates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/integrationAccounts/certificates</sub>|<sub>ADOPT</sub>|
-|<sub>[maps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/maps)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/integrationAccounts/maps</sub>|<sub>ADOPT</sub>|
-|<sub>[partners](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/partners)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/integrationAccounts/partners</sub>|<sub>ADOPT</sub>|
-|<sub>[rosettaNetProcessConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/rosettaNetProcessConfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/integrationAccounts/rosettaNetProcessConfigurations</sub>|<sub>ADOPT</sub>|
-|<sub>[schemas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/schemas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/integrationAccounts/schemas</sub>|<sub>ADOPT</sub>|
-|<sub>[sessions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/sessions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/integrationAccounts/sessions</sub>|<sub>ADOPT</sub>|
+|<sub>[agreements](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/agreements)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[assemblies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/assemblies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[batchConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/batchConfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[certificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/certificates)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[maps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/maps)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[partners](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/partners)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[rosettaNetProcessConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/rosettaNetProcessConfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[schemas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/schemas)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[sessions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/integrationAccounts/sessions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

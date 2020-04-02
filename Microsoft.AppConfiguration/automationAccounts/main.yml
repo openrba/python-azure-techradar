@@ -1,0 +1,340 @@
+certificates:
+  path: Microsoft.AppConfiguration/automationAccounts/certificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/certificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+compilationjobs:
+  path: Microsoft.AppConfiguration/automationAccounts/compilationjobs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/compilationjobs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+configurations:
+  path: Microsoft.AppConfiguration/automationAccounts/configurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/configurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionTypes:
+  path: Microsoft.AppConfiguration/automationAccounts/connectionTypes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/connectionTypes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections:
+  path: Microsoft.AppConfiguration/automationAccounts/connections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/connections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+credentials:
+  path: Microsoft.AppConfiguration/automationAccounts/credentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/credentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+jobSchedules:
+  path: Microsoft.AppConfiguration/automationAccounts/jobSchedules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/jobSchedules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+jobs:
+  path: Microsoft.AppConfiguration/automationAccounts/jobs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/jobs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+modules:
+  path: Microsoft.AppConfiguration/automationAccounts/modules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/modules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+nodeConfigurations:
+  path: Microsoft.AppConfiguration/automationAccounts/nodeConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/nodeConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnectionProxies:
+  path: Microsoft.AppConfiguration/automationAccounts/privateEndpointConnectionProxies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/privateEndpointConnectionProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.AppConfiguration/automationAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkResources:
+  path: Microsoft.AppConfiguration/automationAccounts/privateLinkResources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/privateLinkResources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+python2Packages:
+  path: Microsoft.AppConfiguration/automationAccounts/python2Packages
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/python2Packages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+runbooks:
+  path: Microsoft.AppConfiguration/automationAccounts/runbooks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/runbooks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schedules:
+  path: Microsoft.AppConfiguration/automationAccounts/schedules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/schedules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+softwareUpdateConfigurations:
+  path: Microsoft.AppConfiguration/automationAccounts/softwareUpdateConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/softwareUpdateConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+variables:
+  path: Microsoft.AppConfiguration/automationAccounts/variables
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/variables
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+watchers:
+  path: Microsoft.AppConfiguration/automationAccounts/watchers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/watchers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+webhooks:
+  path: Microsoft.AppConfiguration/automationAccounts/webhooks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/automationAccounts/webhooks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

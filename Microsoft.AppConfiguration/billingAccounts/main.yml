@@ -1,0 +1,357 @@
+BillingProfiles:
+  path: Microsoft.AppConfiguration/billingAccounts/BillingProfiles
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/BillingProfiles
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+agreements:
+  path: Microsoft.AppConfiguration/billingAccounts/agreements
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/agreements
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingPermissions:
+  path: Microsoft.AppConfiguration/billingAccounts/billingPermissions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/billingPermissions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingProfiles:
+  path: Microsoft.AppConfiguration/billingAccounts/billingProfiles
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/billingProfiles
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingRoleAssignments:
+  path: Microsoft.AppConfiguration/billingAccounts/billingRoleAssignments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/billingRoleAssignments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingRoleDefinitions:
+  path: Microsoft.AppConfiguration/billingAccounts/billingRoleDefinitions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/billingRoleDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingSubscriptions:
+  path: Microsoft.AppConfiguration/billingAccounts/billingSubscriptions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/billingSubscriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+createBillingRoleAssignment:
+  path: Microsoft.AppConfiguration/billingAccounts/createBillingRoleAssignment
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/createBillingRoleAssignment
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+createInvoiceSectionOperations:
+  path: Microsoft.AppConfiguration/billingAccounts/createInvoiceSectionOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/createInvoiceSectionOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customers:
+  path: Microsoft.AppConfiguration/billingAccounts/customers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/customers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+departments:
+  path: Microsoft.AppConfiguration/billingAccounts/departments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/departments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enrollmentAccounts:
+  path: Microsoft.AppConfiguration/billingAccounts/enrollmentAccounts
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/enrollmentAccounts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+invoiceSections:
+  path: Microsoft.AppConfiguration/billingAccounts/invoiceSections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/invoiceSections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+invoices:
+  path: Microsoft.AppConfiguration/billingAccounts/invoices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/invoices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+lineOfCredit:
+  path: Microsoft.AppConfiguration/billingAccounts/lineOfCredit
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/lineOfCredit
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listInvoiceSectionsWithCreateSubscriptionPermission:
+  path: Microsoft.AppConfiguration/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operationResults:
+  path: Microsoft.AppConfiguration/billingAccounts/operationResults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/operationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+patchOperations:
+  path: Microsoft.AppConfiguration/billingAccounts/patchOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/patchOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+paymentMethods:
+  path: Microsoft.AppConfiguration/billingAccounts/paymentMethods
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/paymentMethods
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+products:
+  path: Microsoft.AppConfiguration/billingAccounts/products
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/products
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transactions:
+  path: Microsoft.AppConfiguration/billingAccounts/transactions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppConfiguration/billingAccounts/transactions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

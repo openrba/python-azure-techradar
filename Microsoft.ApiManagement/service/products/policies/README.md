@@ -33,15 +33,15 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[contentFormat](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/contentFormat)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/policies/contentFormat</sub>|<sub>ASSESS</sub>|
-|<sub>[format](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/format)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/policies/format</sub>|<sub>ASSESS</sub>|
-|<sub>[policy.contentFormat](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/policy.contentFormat)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/policies/policy.contentFormat</sub>|<sub>ASSESS</sub>|
-|<sub>[policy.format](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/policy.format)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/policies/policy.format</sub>|<sub>ASSESS</sub>|
-|<sub>[policy.policyContent](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/policy.policyContent)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/policies/policy.policyContent</sub>|<sub>ASSESS</sub>|
-|<sub>[policy.value](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/policy.value)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/policies/policy.value</sub>|<sub>ASSESS</sub>|
-|<sub>[policyContent](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/policyContent)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/service/products/policies/policyContent</sub>|<sub>ASSESS</sub>|
+|<sub>[contentFormat](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/contentFormat)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[format](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/format)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[policy.contentFormat](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/policy.contentFormat)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[policy.format](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/policy.format)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[policy.policyContent](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/policy.policyContent)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[policy.value](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/policy.value)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[policyContent](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/service/products/policies/policyContent)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

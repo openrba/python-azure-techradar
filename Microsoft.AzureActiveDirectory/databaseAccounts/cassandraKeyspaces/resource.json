@@ -1,5 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/databaseAccounts/cassandraKeyspaces/tables",
-    "Microsoft.AzureActiveDirectory/databaseAccounts/cassandraKeyspaces/tables/throughputSettings",
-    "Microsoft.AzureActiveDirectory/databaseAccounts/cassandraKeyspaces/throughputSettings"
-]

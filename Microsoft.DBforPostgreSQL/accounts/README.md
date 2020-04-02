@@ -27,18 +27,18 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[computePolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/computePolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/accounts/computePolicies</sub>|<sub>TRIAL</sub>|
-|<sub>[dataLakeStoreAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/dataLakeStoreAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/accounts/dataLakeStoreAccounts</sub>|<sub>TRIAL</sub>|
-|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/accounts/eventGridFilters</sub>|<sub>TRIAL</sub>|
-|<sub>[firewallRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/firewallRules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/accounts/firewallRules</sub>|<sub>TRIAL</sub>|
-|<sub>[privateAtlases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/privateAtlases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/accounts/privateAtlases</sub>|<sub>TRIAL</sub>|
-|<sub>[shares](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/shares)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/accounts/shares</sub>|<sub>TRIAL</sub>|
-|<sub>[sharesubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/sharesubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/accounts/sharesubscriptions</sub>|<sub>TRIAL</sub>|
-|<sub>[storageAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/storageAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/accounts/storageAccounts</sub>|<sub>TRIAL</sub>|
-|<sub>[trustedIdProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/trustedIdProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/accounts/trustedIdProviders</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualNetworkRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/virtualNetworkRules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL/accounts/virtualNetworkRules</sub>|<sub>TRIAL</sub>|
+|<sub>[computePolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/computePolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[dataLakeStoreAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/dataLakeStoreAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[firewallRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/firewallRules)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[privateAtlases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/privateAtlases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[shares](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/shares)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[sharesubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/sharesubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[storageAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/storageAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[trustedIdProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/trustedIdProviders)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetworkRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL/accounts/virtualNetworkRules)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

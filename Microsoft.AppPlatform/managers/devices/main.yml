@@ -1,0 +1,136 @@
+alertSettings:
+  path: Microsoft.AppPlatform/managers/devices/alertSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/managers/devices/alertSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupPolicies:
+  path: Microsoft.AppPlatform/managers/devices/backupPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/managers/devices/backupPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupScheduleGroups:
+  path: Microsoft.AppPlatform/managers/devices/backupScheduleGroups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/managers/devices/backupScheduleGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+chapSettings:
+  path: Microsoft.AppPlatform/managers/devices/chapSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/managers/devices/chapSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileservers:
+  path: Microsoft.AppPlatform/managers/devices/fileservers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/managers/devices/fileservers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+iscsiservers:
+  path: Microsoft.AppPlatform/managers/devices/iscsiservers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/managers/devices/iscsiservers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+timeSettings:
+  path: Microsoft.AppPlatform/managers/devices/timeSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/managers/devices/timeSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+volumeContainers:
+  path: Microsoft.AppPlatform/managers/devices/volumeContainers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/managers/devices/volumeContainers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

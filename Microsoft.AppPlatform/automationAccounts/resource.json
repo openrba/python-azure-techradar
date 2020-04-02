@@ -1,0 +1,22 @@
+[
+    "Microsoft.AppPlatform/automationAccounts/certificates",
+    "Microsoft.AppPlatform/automationAccounts/compilationjobs",
+    "Microsoft.AppPlatform/automationAccounts/configurations",
+    "Microsoft.AppPlatform/automationAccounts/connectionTypes",
+    "Microsoft.AppPlatform/automationAccounts/connections",
+    "Microsoft.AppPlatform/automationAccounts/credentials",
+    "Microsoft.AppPlatform/automationAccounts/jobSchedules",
+    "Microsoft.AppPlatform/automationAccounts/jobs",
+    "Microsoft.AppPlatform/automationAccounts/modules",
+    "Microsoft.AppPlatform/automationAccounts/nodeConfigurations",
+    "Microsoft.AppPlatform/automationAccounts/privateEndpointConnectionProxies",
+    "Microsoft.AppPlatform/automationAccounts/privateEndpointConnections",
+    "Microsoft.AppPlatform/automationAccounts/privateLinkResources",
+    "Microsoft.AppPlatform/automationAccounts/python2Packages",
+    "Microsoft.AppPlatform/automationAccounts/runbooks",
+    "Microsoft.AppPlatform/automationAccounts/schedules",
+    "Microsoft.AppPlatform/automationAccounts/softwareUpdateConfigurations",
+    "Microsoft.AppPlatform/automationAccounts/variables",
+    "Microsoft.AppPlatform/automationAccounts/watchers",
+    "Microsoft.AppPlatform/automationAccounts/webhooks"
+]

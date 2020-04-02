@@ -179,7 +179,7 @@ def makeMarkdown(data,path):
     adopt_tbl = [
         "<sub>Resource</sub>",
         "<sub>Description</sub>",
-        "<sub>Path</sub>",
+        "<sub>Type</sub>",
         "<sub>Status</sub>"
     ]
     adopt_cnt = len(adopt_list) + 1
@@ -188,13 +188,14 @@ def makeMarkdown(data,path):
         resourceName    = key
         resourceDesc    = data[key].get("description","")
         resourcePath    = data[key].get("path","")
+        resourceType    = data[key].get("architecture review","").get("type","")
         resourceUrl     = data[key].get("url","")
         resourceStatus    = data[key].get("status","")
         resourceName    = "["+resourceName+"]("+base_url+'/'+resourceUrl+")"
         adopt_tbl.extend([
             '<sub>' + resourceName + '</sub>',
             '<sub>' + resourceDesc + '</sub>',
-            '<sub>' + resourcePath + '</sub>',
+            '<sub>' + resourceType + '</sub>',
             '<sub>' + resourceStatus + '</sub>'
         ])
     
@@ -203,7 +204,7 @@ def makeMarkdown(data,path):
         mdf.new_line("There are currently no resources at this ring level.",bold_italics_code='bi', color='red')
     else:
         mdf.new_line("")
-        mdf.new_table(columns=4,rows=adopt_cnt,text=adopt_tbl,text_align='center')
+        mdf.new_table(columns=4,rows=adopt_cnt,text=adopt_tbl)
 
     # Handle the Trial Section
     mdf.new_header(level=3, title='Trial')
@@ -218,7 +219,7 @@ def makeMarkdown(data,path):
     trial_tbl = [
         "<sub>Resource</sub>",
         "<sub>Description</sub>",
-        "<sub>Path</sub>",
+        "<sub>Type</sub>",
         "<sub>Status</sub>"
     ]
     trial_cnt = len(trial_list) + 1
@@ -226,13 +227,14 @@ def makeMarkdown(data,path):
         resourceName    = key
         resourceDesc    = data[key].get("description","")
         resourcePath    = data[key].get("path","")
+        resourceType    = data[key].get("architecture review","").get("type","")
         resourceUrl     = data[key].get("url","")
         resourceStatus    = data[key].get("status","")
         resourceName    = "["+resourceName+"]("+base_url+'/'+resourceUrl+")"
         trial_tbl.extend([
             '<sub>' + resourceName + '</sub>',
             '<sub>' + resourceDesc + '</sub>',
-            '<sub>' + resourcePath + '</sub>',
+            '<sub>' + resourceType + '</sub>',
             '<sub>' + resourceStatus + '</sub>'
         ])
     
@@ -241,7 +243,7 @@ def makeMarkdown(data,path):
         mdf.new_line("There are currently no resources at this ring level.",bold_italics_code='bi', color='red')
     else:
         mdf.new_line("")
-        mdf.new_table(columns=4,rows=trial_cnt,text=trial_tbl,text_align='center') 
+        mdf.new_table(columns=4,rows=trial_cnt,text=trial_tbl) 
 
     # Handle the Assess Section
     mdf.new_header(level=3, title='Assess')
@@ -258,7 +260,7 @@ def makeMarkdown(data,path):
     assess_tbl = [
         "<sub>Resource</sub>",
         "<sub>Description</sub>",
-        "<sub>Path</sub>",
+        "<sub>Type</sub>",
         "<sub>Status</sub>"
     ]
     assess_cnt = len(assess_list) + 1
@@ -266,13 +268,14 @@ def makeMarkdown(data,path):
         resourceName    = key
         resourceDesc    = data[key].get("description","")
         resourcePath    = data[key].get("path","")
+        resourceType    = data[key].get("architecture review","").get("type","")
         resourceUrl     = data[key].get("url","")
         resourceStatus    = data[key].get("status","")
         resourceName    = "["+resourceName+"]("+base_url+'/'+resourceUrl+")"
         assess_tbl.extend([
             '<sub>' + resourceName + '</sub>',
             '<sub>' + resourceDesc + '</sub>',
-            '<sub>' + resourcePath + '</sub>',
+            '<sub>' + resourceType + '</sub>',
             '<sub>' + resourceStatus + '</sub>'
         ])
     
@@ -281,7 +284,7 @@ def makeMarkdown(data,path):
         mdf.new_line("There are currently no resources at this ring level.",bold_italics_code='bi', color='red')
     else:
         mdf.new_line("")
-        mdf.new_table(columns=4,rows=assess_cnt,text=assess_tbl,text_align='center') 
+        mdf.new_table(columns=4,rows=assess_cnt,text=assess_tbl) 
 
     # Handle the Hold Section
     mdf.new_header(level=3, title='Hold')
@@ -296,7 +299,7 @@ def makeMarkdown(data,path):
     hold_tbl = [
         "<sub>Resource</sub>",
         "<sub>Description</sub>",
-        "<sub>Path</sub>",
+        "<sub>Type</sub>",
         "<sub>Status</sub>"
     ]
 
@@ -305,13 +308,14 @@ def makeMarkdown(data,path):
         resourceName    = key
         resourceDesc    = data[key].get("description","")
         resourcePath    = data[key].get("path","")
+        resourceType    = data[key].get("architecture review","").get("type","")
         resourceUrl     = data[key].get("url","")
         resourceStatus    = data[key].get("status","")
         #resourceName    = "["+resourceName+"]("+resourceUrl+")"
         hold_tbl.extend([
             '<sub>' + resourceName + '</sub>',
             '<sub>' + resourceDesc + '</sub>',
-            '<sub>' + resourcePath + '</sub>',
+            '<sub>' + resourceType + '</sub>',
             '<sub>' + resourceStatus + '</sub>'
         ])
     
@@ -320,7 +324,7 @@ def makeMarkdown(data,path):
         mdf.new_line("There are currently no resources at this ring level.",bold_italics_code='bi', color='red')
     else:
         mdf.new_line("")
-        mdf.new_table(columns=4,rows=hold_cnt,text=hold_tbl,text_align='center')    
+        mdf.new_table(columns=4,rows=hold_cnt,text=hold_tbl)    
 
 
     # Handle the Reject Section
@@ -335,7 +339,7 @@ def makeMarkdown(data,path):
     reject_tbl = [
         "<sub>Resource</sub>",
         "<sub>Description</sub>",
-        "<sub>Path</sub>",
+        "<sub>Type</sub>",
         "<sub>Status</sub>"
     ]
     reject_cnt = len(reject_list) + 1
@@ -343,13 +347,14 @@ def makeMarkdown(data,path):
         resourceName    = key
         resourceDesc    = data[key].get("description","")
         resourcePath    = data[key].get("path","")
+        resourceType    = data[key].get("architecture review","").get("type","")
         resourceUrl     = data[key].get("url","")
         resourceStatus    = data[key].get("status","")
         #resourceName    = "["+resourceName+"]("+resourceUrl+")"
         reject_tbl.extend([
             '<sub>' + resourceName + '</sub>',
             '<sub>' + resourceDesc + '</sub>',
-            '<sub>' + resourcePath + '</sub>',
+            '<sub>' + resourceType + '</sub>',
             '<sub>' + resourceStatus + '</sub>'
         ])
     
@@ -358,7 +363,7 @@ def makeMarkdown(data,path):
         mdf.new_line("There are currently no resources at this ring level.",bold_italics_code='bi', color='red')
     else:
         mdf.new_line("")
-        mdf.new_table(columns=4,rows=reject_cnt,text=reject_tbl,text_align='center') 
+        mdf.new_table(columns=4,rows=reject_cnt,text=reject_tbl) 
 
     mdf.create_md_file()
 

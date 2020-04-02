@@ -33,18 +33,18 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[billingSubscriptionMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/billingSubscriptionMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/billingAccounts/invoiceSections/billingSubscriptionMoveOperations</sub>|<sub>ASSESS</sub>|
-|<sub>[billingSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/billingSubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/billingAccounts/invoiceSections/billingSubscriptions</sub>|<sub>ASSESS</sub>|
-|<sub>[elevate](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/elevate)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/billingAccounts/invoiceSections/elevate</sub>|<sub>ASSESS</sub>|
-|<sub>[initiateTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/initiateTransfer)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/billingAccounts/invoiceSections/initiateTransfer</sub>|<sub>ASSESS</sub>|
-|<sub>[patchOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/patchOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/billingAccounts/invoiceSections/patchOperations</sub>|<sub>ASSESS</sub>|
-|<sub>[productMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/productMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/billingAccounts/invoiceSections/productMoveOperations</sub>|<sub>ASSESS</sub>|
-|<sub>[productTransfersResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/productTransfersResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/billingAccounts/invoiceSections/productTransfersResults</sub>|<sub>ASSESS</sub>|
-|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/products)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/billingAccounts/invoiceSections/products</sub>|<sub>ASSESS</sub>|
-|<sub>[transactions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/transactions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/billingAccounts/invoiceSections/transactions</sub>|<sub>ASSESS</sub>|
-|<sub>[transfers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/transfers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL/billingAccounts/invoiceSections/transfers</sub>|<sub>ASSESS</sub>|
+|<sub>[billingSubscriptionMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/billingSubscriptionMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[billingSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/billingSubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[elevate](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/elevate)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[initiateTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/initiateTransfer)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[patchOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/patchOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[productMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/productMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[productTransfersResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/productTransfersResults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/products)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[transactions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/transactions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[transfers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL/billingAccounts/invoiceSections/transfers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

@@ -21,12 +21,12 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[connectionMonitors](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/networkWatchers/connectionMonitors)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/networkWatchers/connectionMonitors</sub>|<sub>ADOPT</sub>|
-|<sub>[flowLogs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/networkWatchers/flowLogs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/networkWatchers/flowLogs</sub>|<sub>ADOPT</sub>|
-|<sub>[packetCaptures](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/networkWatchers/packetCaptures)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/networkWatchers/packetCaptures</sub>|<sub>ADOPT</sub>|
-|<sub>[pingMeshes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/networkWatchers/pingMeshes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/networkWatchers/pingMeshes</sub>|<sub>ADOPT</sub>|
+|<sub>[connectionMonitors](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/networkWatchers/connectionMonitors)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[flowLogs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/networkWatchers/flowLogs)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[packetCaptures](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/networkWatchers/packetCaptures)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[pingMeshes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/networkWatchers/pingMeshes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

@@ -1,0 +1,7 @@
+[
+    "Microsoft.AppPlatform/labs/users/disks",
+    "Microsoft.AppPlatform/labs/users/environments",
+    "Microsoft.AppPlatform/labs/users/secrets",
+    "Microsoft.AppPlatform/labs/users/serviceFabrics",
+    "Microsoft.AppPlatform/labs/users/serviceFabrics/schedules"
+]

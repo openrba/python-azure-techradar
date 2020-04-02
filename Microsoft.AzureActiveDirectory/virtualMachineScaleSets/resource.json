@@ -1,7 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/virtualMachineScaleSets/extensions",
-    "Microsoft.AzureActiveDirectory/virtualMachineScaleSets/networkInterfaces",
-    "Microsoft.AzureActiveDirectory/virtualMachineScaleSets/publicIPAddresses",
-    "Microsoft.AzureActiveDirectory/virtualMachineScaleSets/virtualMachines",
-    "Microsoft.AzureActiveDirectory/virtualMachineScaleSets/virtualMachines/networkInterfaces"
-]

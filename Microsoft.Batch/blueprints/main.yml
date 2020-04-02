@@ -1,0 +1,34 @@
+artifacts:
+  path: Microsoft.Batch/blueprints/artifacts
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/blueprints/artifacts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+versions:
+  path: Microsoft.Batch/blueprints/versions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Batch/blueprints/versions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,5 @@
+[
+    "Microsoft.Batch/clusters/databases/dataconnections",
+    "Microsoft.Batch/clusters/databases/eventhubconnections",
+    "Microsoft.Batch/clusters/databases/principalassignments"
+]

@@ -1,4 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/accounts/storageAccounts/containers",
-    "Microsoft.AzureActiveDirectory/accounts/storageAccounts/containers/listSasTokens"
-]

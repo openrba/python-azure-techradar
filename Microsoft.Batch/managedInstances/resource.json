@@ -1,0 +1,19 @@
+[
+    "Microsoft.Batch/managedInstances/administrators",
+    "Microsoft.Batch/managedInstances/databases",
+    "Microsoft.Batch/managedInstances/databases/backupLongTermRetentionPolicies",
+    "Microsoft.Batch/managedInstances/databases/backupShortTermRetentionPolicies",
+    "Microsoft.Batch/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
+    "Microsoft.Batch/managedInstances/databases/securityAlertPolicies",
+    "Microsoft.Batch/managedInstances/databases/vulnerabilityAssessments",
+    "Microsoft.Batch/managedInstances/databases/vulnerabilityAssessments/rules/baselines",
+    "Microsoft.Batch/managedInstances/encryptionProtector",
+    "Microsoft.Batch/managedInstances/keys",
+    "Microsoft.Batch/managedInstances/metricDefinitions",
+    "Microsoft.Batch/managedInstances/metrics",
+    "Microsoft.Batch/managedInstances/recoverableDatabases",
+    "Microsoft.Batch/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies",
+    "Microsoft.Batch/managedInstances/securityAlertPolicies",
+    "Microsoft.Batch/managedInstances/tdeCertificates",
+    "Microsoft.Batch/managedInstances/vulnerabilityAssessments"
+]

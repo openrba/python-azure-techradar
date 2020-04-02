@@ -21,20 +21,20 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[accountFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/accountFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/mediaservices/accountFilters</sub>|<sub>ADOPT</sub>|
-|<sub>[assets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/assets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/mediaservices/assets</sub>|<sub>ADOPT</sub>|
-|<sub>[contentKeyPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/contentKeyPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/mediaservices/contentKeyPolicies</sub>|<sub>ADOPT</sub>|
-|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/mediaservices/eventGridFilters</sub>|<sub>ADOPT</sub>|
-|<sub>[liveEventOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/liveEventOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/mediaservices/liveEventOperations</sub>|<sub>ADOPT</sub>|
-|<sub>[liveEvents](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/liveEvents)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/mediaservices/liveEvents</sub>|<sub>ADOPT</sub>|
-|<sub>[liveOutputOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/liveOutputOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/mediaservices/liveOutputOperations</sub>|<sub>ADOPT</sub>|
-|<sub>[streamingEndpointOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/streamingEndpointOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/mediaservices/streamingEndpointOperations</sub>|<sub>ADOPT</sub>|
-|<sub>[streamingEndpoints](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/streamingEndpoints)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/mediaservices/streamingEndpoints</sub>|<sub>ADOPT</sub>|
-|<sub>[streamingLocators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/streamingLocators)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/mediaservices/streamingLocators</sub>|<sub>ADOPT</sub>|
-|<sub>[streamingPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/streamingPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/mediaservices/streamingPolicies</sub>|<sub>ADOPT</sub>|
-|<sub>[transforms](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/transforms)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/mediaservices/transforms</sub>|<sub>ADOPT</sub>|
+|<sub>[accountFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/accountFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[assets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/assets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[contentKeyPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/contentKeyPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[liveEventOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/liveEventOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[liveEvents](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/liveEvents)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[liveOutputOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/liveOutputOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[streamingEndpointOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/streamingEndpointOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[streamingEndpoints](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/streamingEndpoints)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[streamingLocators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/streamingLocators)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[streamingPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/streamingPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[transforms](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/mediaservices/transforms)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

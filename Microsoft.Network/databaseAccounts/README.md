@@ -27,14 +27,14 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[cassandraKeyspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/cassandraKeyspaces)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/databaseAccounts/cassandraKeyspaces</sub>|<sub>TRIAL</sub>|
-|<sub>[gremlinDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/gremlinDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/databaseAccounts/gremlinDatabases</sub>|<sub>TRIAL</sub>|
-|<sub>[mongodbDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/mongodbDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/databaseAccounts/mongodbDatabases</sub>|<sub>TRIAL</sub>|
-|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/databaseAccounts/privateEndpointConnections</sub>|<sub>TRIAL</sub>|
-|<sub>[sqlDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/sqlDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/databaseAccounts/sqlDatabases</sub>|<sub>TRIAL</sub>|
-|<sub>[tables](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/tables)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/databaseAccounts/tables</sub>|<sub>TRIAL</sub>|
+|<sub>[cassandraKeyspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/cassandraKeyspaces)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[gremlinDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/gremlinDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[mongodbDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/mongodbDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[sqlDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/sqlDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[tables](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/tables)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

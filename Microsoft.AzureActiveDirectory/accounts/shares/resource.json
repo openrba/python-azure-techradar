@@ -1,6 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/accounts/shares/datasets",
-    "Microsoft.AzureActiveDirectory/accounts/shares/invitations",
-    "Microsoft.AzureActiveDirectory/accounts/shares/providersharesubscriptions",
-    "Microsoft.AzureActiveDirectory/accounts/shares/synchronizationSettings"
-]

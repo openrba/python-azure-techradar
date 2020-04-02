@@ -1,0 +1,9 @@
+[
+    "Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateEndpoint",
+    "Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateEndpoint.id",
+    "Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateLinkServiceConnectionState",
+    "Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired",
+    "Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateLinkServiceConnectionState.description",
+    "Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateLinkServiceConnectionState.status",
+    "Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/provisioningState"
+]

@@ -1,0 +1,11 @@
+[
+    "Microsoft.Batch/reservationOrders/availableScopes",
+    "Microsoft.Batch/reservationOrders/calculateRefund",
+    "Microsoft.Batch/reservationOrders/merge",
+    "Microsoft.Batch/reservationOrders/reservations",
+    "Microsoft.Batch/reservationOrders/reservations/availableScopes",
+    "Microsoft.Batch/reservationOrders/reservations/revisions",
+    "Microsoft.Batch/reservationOrders/return",
+    "Microsoft.Batch/reservationOrders/split",
+    "Microsoft.Batch/reservationOrders/swap"
+]

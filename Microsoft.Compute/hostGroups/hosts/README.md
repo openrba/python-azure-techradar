@@ -27,21 +27,21 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[autoReplaceOnFailure](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/autoReplaceOnFailure)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/autoReplaceOnFailure</sub>|<sub>TRIAL</sub>|
-|<sub>[hostId](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/hostId)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/hostId</sub>|<sub>TRIAL</sub>|
-|<sub>[licenseType](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/licenseType)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/licenseType</sub>|<sub>TRIAL</sub>|
-|<sub>[platformFaultDomain](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/platformFaultDomain)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/platformFaultDomain</sub>|<sub>TRIAL</sub>|
-|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/provisioningState</sub>|<sub>TRIAL</sub>|
-|<sub>[provisioningTime](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/provisioningTime)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/provisioningTime</sub>|<sub>TRIAL</sub>|
-|<sub>[sku](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/sku)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/sku</sub>|<sub>TRIAL</sub>|
-|<sub>[sku.capacity](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/sku.capacity)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/sku.capacity</sub>|<sub>TRIAL</sub>|
-|<sub>[sku.name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/sku.name)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/sku.name</sub>|<sub>TRIAL</sub>|
-|<sub>[sku.tier](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/sku.tier)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/sku.tier</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/virtualMachines)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/virtualMachines</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualMachines[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/virtualMachines[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/virtualMachines[*]</sub>|<sub>TRIAL</sub>|
-|<sub>[virtualMachines[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/virtualMachines[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/hostGroups/hosts/virtualMachines[*].id</sub>|<sub>TRIAL</sub>|
+|<sub>[autoReplaceOnFailure](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/autoReplaceOnFailure)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[hostId](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/hostId)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[licenseType](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/licenseType)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[platformFaultDomain](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/platformFaultDomain)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningTime](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/provisioningTime)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[sku](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/sku)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[sku.capacity](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/sku.capacity)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[sku.name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/sku.name)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[sku.tier](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/sku.tier)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/virtualMachines)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualMachines[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/virtualMachines[*])</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualMachines[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/hostGroups/hosts/virtualMachines[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 

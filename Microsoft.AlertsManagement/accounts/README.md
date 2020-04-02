@@ -33,18 +33,18 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[computePolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/computePolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/accounts/computePolicies</sub>|<sub>ASSESS</sub>|
-|<sub>[dataLakeStoreAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/dataLakeStoreAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/accounts/dataLakeStoreAccounts</sub>|<sub>ASSESS</sub>|
-|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/accounts/eventGridFilters</sub>|<sub>ASSESS</sub>|
-|<sub>[firewallRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/firewallRules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/accounts/firewallRules</sub>|<sub>ASSESS</sub>|
-|<sub>[privateAtlases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/privateAtlases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/accounts/privateAtlases</sub>|<sub>ASSESS</sub>|
-|<sub>[shares](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/shares)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/accounts/shares</sub>|<sub>ASSESS</sub>|
-|<sub>[sharesubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/sharesubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/accounts/sharesubscriptions</sub>|<sub>ASSESS</sub>|
-|<sub>[storageAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/storageAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/accounts/storageAccounts</sub>|<sub>ASSESS</sub>|
-|<sub>[trustedIdProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/trustedIdProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/accounts/trustedIdProviders</sub>|<sub>ASSESS</sub>|
-|<sub>[virtualNetworkRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/virtualNetworkRules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement/accounts/virtualNetworkRules</sub>|<sub>ASSESS</sub>|
+|<sub>[computePolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/computePolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[dataLakeStoreAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/dataLakeStoreAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[firewallRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/firewallRules)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[privateAtlases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/privateAtlases)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[shares](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/shares)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[sharesubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/sharesubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[storageAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/storageAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[trustedIdProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/trustedIdProviders)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[virtualNetworkRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement/accounts/virtualNetworkRules)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

@@ -1,0 +1,425 @@
+VulnerabilityAssessment:
+  path: Microsoft.AppPlatform/servers/databases/VulnerabilityAssessment
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/VulnerabilityAssessment
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+VulnerabilityAssessmentScans:
+  path: Microsoft.AppPlatform/servers/databases/VulnerabilityAssessmentScans
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/VulnerabilityAssessmentScans
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+VulnerabilityAssessmentSettings:
+  path: Microsoft.AppPlatform/servers/databases/VulnerabilityAssessmentSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/VulnerabilityAssessmentSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+advisors:
+  path: Microsoft.AppPlatform/servers/databases/advisors
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/advisors
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+auditRecords:
+  path: Microsoft.AppPlatform/servers/databases/auditRecords
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/auditRecords
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+auditingPolicies:
+  path: Microsoft.AppPlatform/servers/databases/auditingPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/auditingPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+auditingSettings:
+  path: Microsoft.AppPlatform/servers/databases/auditingSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/auditingSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+automaticTuning:
+  path: Microsoft.AppPlatform/servers/databases/automaticTuning
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/automaticTuning
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupLongTermRetentionPolicies:
+  path: Microsoft.AppPlatform/servers/databases/backupLongTermRetentionPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/backupLongTermRetentionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupShortTermRetentionPolicies:
+  path: Microsoft.AppPlatform/servers/databases/backupShortTermRetentionPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/backupShortTermRetentionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionPolicies:
+  path: Microsoft.AppPlatform/servers/databases/connectionPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/connectionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataMaskingPolicies:
+  path: Microsoft.AppPlatform/servers/databases/dataMaskingPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/dataMaskingPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extendedAuditingSettings:
+  path: Microsoft.AppPlatform/servers/databases/extendedAuditingSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/extendedAuditingSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extensions:
+  path: Microsoft.AppPlatform/servers/databases/extensions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/extensions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+geoBackupPolicies:
+  path: Microsoft.AppPlatform/servers/databases/geoBackupPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/geoBackupPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.AppPlatform/servers/databases/metricDefinitions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/metricDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.AppPlatform/servers/databases/metrics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/metrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+recommendedSensitivityLabels:
+  path: Microsoft.AppPlatform/servers/databases/recommendedSensitivityLabels
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/recommendedSensitivityLabels
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.AppPlatform/servers/databases/schemas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/schemas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+securityAlertPolicies:
+  path: Microsoft.AppPlatform/servers/databases/securityAlertPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/securityAlertPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+syncGroups:
+  path: Microsoft.AppPlatform/servers/databases/syncGroups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/syncGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+topQueries:
+  path: Microsoft.AppPlatform/servers/databases/topQueries
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/topQueries
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transparentDataEncryption:
+  path: Microsoft.AppPlatform/servers/databases/transparentDataEncryption
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/transparentDataEncryption
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vulnerabilityAssessments:
+  path: Microsoft.AppPlatform/servers/databases/vulnerabilityAssessments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/vulnerabilityAssessments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+workloadGroups:
+  path: Microsoft.AppPlatform/servers/databases/workloadGroups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AppPlatform/servers/databases/workloadGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

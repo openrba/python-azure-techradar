@@ -33,20 +33,20 @@ Technologies that we have seen work with success in projects to solve real probl
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[accountFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/accountFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/mediaservices/accountFilters</sub>|<sub>ASSESS</sub>|
-|<sub>[assets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/assets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/mediaservices/assets</sub>|<sub>ASSESS</sub>|
-|<sub>[contentKeyPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/contentKeyPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/mediaservices/contentKeyPolicies</sub>|<sub>ASSESS</sub>|
-|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/mediaservices/eventGridFilters</sub>|<sub>ASSESS</sub>|
-|<sub>[liveEventOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/liveEventOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/mediaservices/liveEventOperations</sub>|<sub>ASSESS</sub>|
-|<sub>[liveEvents](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/liveEvents)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/mediaservices/liveEvents</sub>|<sub>ASSESS</sub>|
-|<sub>[liveOutputOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/liveOutputOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/mediaservices/liveOutputOperations</sub>|<sub>ASSESS</sub>|
-|<sub>[streamingEndpointOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/streamingEndpointOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/mediaservices/streamingEndpointOperations</sub>|<sub>ASSESS</sub>|
-|<sub>[streamingEndpoints](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/streamingEndpoints)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/mediaservices/streamingEndpoints</sub>|<sub>ASSESS</sub>|
-|<sub>[streamingLocators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/streamingLocators)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/mediaservices/streamingLocators</sub>|<sub>ASSESS</sub>|
-|<sub>[streamingPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/streamingPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/mediaservices/streamingPolicies</sub>|<sub>ASSESS</sub>|
-|<sub>[transforms](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/transforms)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement/mediaservices/transforms</sub>|<sub>ASSESS</sub>|
+|<sub>[accountFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/accountFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[assets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/assets)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[contentKeyPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/contentKeyPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[liveEventOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/liveEventOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[liveEvents](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/liveEvents)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[liveOutputOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/liveOutputOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[streamingEndpointOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/streamingEndpointOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[streamingEndpoints](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/streamingEndpoints)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[streamingLocators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/streamingLocators)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[streamingPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/streamingPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[transforms](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement/mediaservices/transforms)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 

@@ -21,13 +21,13 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[OperationStatuses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/Locations/OperationStatuses)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/Locations/OperationStatuses</sub>|<sub>ADOPT</sub>|
-|<sub>[OperationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/Locations/OperationTypes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/Locations/OperationTypes</sub>|<sub>ADOPT</sub>|
-|<sub>[availabilityGroupListenerOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/Locations/availabilityGroupListenerOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/Locations/availabilityGroupListenerOperationResults</sub>|<sub>ADOPT</sub>|
-|<sub>[sqlVirtualMachineGroupOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/Locations/sqlVirtualMachineGroupOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/Locations/sqlVirtualMachineGroupOperationResults</sub>|<sub>ADOPT</sub>|
-|<sub>[sqlVirtualMachineOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/Locations/sqlVirtualMachineOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/Locations/sqlVirtualMachineOperationResults</sub>|<sub>ADOPT</sub>|
+|<sub>[OperationStatuses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/Locations/OperationStatuses)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[OperationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/Locations/OperationTypes)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[availabilityGroupListenerOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/Locations/availabilityGroupListenerOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[sqlVirtualMachineGroupOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/Locations/sqlVirtualMachineGroupOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[sqlVirtualMachineOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/Locations/sqlVirtualMachineOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

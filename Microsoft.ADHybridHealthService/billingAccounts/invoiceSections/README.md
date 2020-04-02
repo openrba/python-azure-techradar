@@ -21,18 +21,18 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[billingSubscriptionMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/billingSubscriptionMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/billingSubscriptionMoveOperations</sub>|<sub>ADOPT</sub>|
-|<sub>[billingSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/billingSubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/billingSubscriptions</sub>|<sub>ADOPT</sub>|
-|<sub>[elevate](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/elevate)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/elevate</sub>|<sub>ADOPT</sub>|
-|<sub>[initiateTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/initiateTransfer)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/initiateTransfer</sub>|<sub>ADOPT</sub>|
-|<sub>[patchOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/patchOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/patchOperations</sub>|<sub>ADOPT</sub>|
-|<sub>[productMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/productMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/productMoveOperations</sub>|<sub>ADOPT</sub>|
-|<sub>[productTransfersResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/productTransfersResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/productTransfersResults</sub>|<sub>ADOPT</sub>|
-|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/products)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/products</sub>|<sub>ADOPT</sub>|
-|<sub>[transactions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/transactions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/transactions</sub>|<sub>ADOPT</sub>|
-|<sub>[transfers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/transfers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/transfers</sub>|<sub>ADOPT</sub>|
+|<sub>[billingSubscriptionMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/billingSubscriptionMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[billingSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/billingSubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[elevate](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/elevate)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[initiateTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/initiateTransfer)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[patchOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/patchOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[productMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/productMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[productTransfersResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/productTransfersResults)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/products)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[transactions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/transactions)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[transfers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/transfers)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 

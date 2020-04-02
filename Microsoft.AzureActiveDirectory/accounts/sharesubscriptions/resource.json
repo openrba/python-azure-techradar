@@ -1,5 +1,0 @@
-[
-    "Microsoft.AzureActiveDirectory/accounts/sharesubscriptions/consumerSourceDataSets",
-    "Microsoft.AzureActiveDirectory/accounts/sharesubscriptions/datasetmappings",
-    "Microsoft.AzureActiveDirectory/accounts/sharesubscriptions/triggers"
-]

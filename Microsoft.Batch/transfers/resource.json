@@ -1,0 +1,6 @@
+[
+    "Microsoft.Batch/transfers/acceptTransfer",
+    "Microsoft.Batch/transfers/declineTransfer",
+    "Microsoft.Batch/transfers/operationStatus",
+    "Microsoft.Batch/transfers/validateTransfer"
+]

@@ -21,11 +21,11 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
 
-|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[problemclassifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/services/problemclassifications)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/services/problemclassifications</sub>|<sub>ADOPT</sub>|
-|<sub>[projects](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/services/projects)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/services/projects</sub>|<sub>ADOPT</sub>|
-|<sub>[serviceTasks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/services/serviceTasks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService/services/serviceTasks</sub>|<sub>ADOPT</sub>|
+|<sub>[problemclassifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/services/problemclassifications)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[projects](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/services/projects)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
+|<sub>[serviceTasks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService/services/serviceTasks)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ADOPT</sub>|
 
 ### Trial
 
