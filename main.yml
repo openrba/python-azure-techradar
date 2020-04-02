@@ -7,7 +7,7 @@ Microsoft.AAD:
   status: HOLD
   url: Microsoft.AAD
   architecture review:
-    type: UNKNOWN
+    type: PAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -97,7 +97,7 @@ Microsoft.AnalysisServices:
   status: HOLD
   url: Microsoft.AnalysisServices
   architecture review:
-    type: UNKNOWN
+    type: SAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -388,13 +388,14 @@ Microsoft.BlockchainTokens:
     notes: There are no security notes for this service at this time.
 Microsoft.Blueprint:
   path: Microsoft.Blueprint
-  description: UNKNOWN
-  status: HOLD
+  description: Blueprints are a declarative way to orchestrate the deployment of various
+    resource templates and other artifacts.
+  status: ASSESS
   url: Microsoft.Blueprint
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -405,11 +406,12 @@ Microsoft.Blueprint:
     notes: There are no security notes for this service at this time.
 Microsoft.BotService:
   path: Microsoft.BotService
-  description: UNKNOWN
+  description: Develop intelligent, enterprise-grade bots that let you maintain control
+    of your data. Build any type of bot
   status: HOLD
   url: Microsoft.BotService
   architecture review:
-    type: UNKNOWN
+    type: PAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -422,15 +424,15 @@ Microsoft.BotService:
     notes: There are no security notes for this service at this time.
 Microsoft.CDN:
   path: Microsoft.CDN
-  description: UNKNOWN
-  status: HOLD
+  description: Secure and reliable global content delivery and acceleration
+  status: REJECT
   url: Microsoft.CDN
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: PAAS
+    status: REVIEWED
+    start: 3/1/2020
+    end: 3/1/2020
+    notes: This is an unused duplicate of Microsoft.Cdn.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -439,13 +441,14 @@ Microsoft.CDN:
     notes: There are no security notes for this service at this time.
 Microsoft.Cache:
   path: Microsoft.Cache
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Cache for Redis provides an in-memory data store based on the
+    open-source software Redis.
+  status: ASSESS
   url: Microsoft.Cache
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -456,11 +459,11 @@ Microsoft.Cache:
     notes: There are no security notes for this service at this time.
 Microsoft.Capacity:
   path: Microsoft.Capacity
-  description: UNKNOWN
+  description: Reserve capacity on Azure regions.
   status: HOLD
   url: Microsoft.Capacity
   architecture review:
-    type: UNKNOWN
+    type: SAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -473,13 +476,13 @@ Microsoft.Capacity:
     notes: There are no security notes for this service at this time.
 Microsoft.Cdn:
   path: Microsoft.Cdn
-  description: UNKNOWN
-  status: HOLD
+  description: Secure and reliable global content delivery and acceleration
+  status: ASSESS
   url: Microsoft.Cdn
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -490,13 +493,14 @@ Microsoft.Cdn:
     notes: There are no security notes for this service at this time.
 Microsoft.CertificateRegistration:
   path: Microsoft.CertificateRegistration
-  description: UNKNOWN
-  status: HOLD
+  description: Azure App Service customers can now purchase, configure, and manage
+    SSL certificates right from the Azure portal
+  status: ASSESS
   url: Microsoft.CertificateRegistration
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: SAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
