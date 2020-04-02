@@ -1,0 +1,5 @@
+[
+    "Microsoft.ADHybridHealthService/storageAccounts/services/diagnosticSettings",
+    "Microsoft.ADHybridHealthService/storageAccounts/services/metricDefinitions",
+    "Microsoft.ADHybridHealthService/storageAccounts/services/metrics"
+]

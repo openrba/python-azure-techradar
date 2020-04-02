@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMariaDB/databaseAccounts/gremlinDatabases/graphs",
+    "Microsoft.DBforMariaDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings",
+    "Microsoft.DBforMariaDB/databaseAccounts/gremlinDatabases/throughputSettings"
+]

@@ -1,0 +1,4 @@
+[
+    "Microsoft.Advisor/registries/builds/cancel",
+    "Microsoft.Advisor/registries/builds/getLogLink"
+]

@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMySQL/accounts/storageAccounts/containers",
+    "Microsoft.DBforMySQL/accounts/storageAccounts/containers/listSasTokens"
+]

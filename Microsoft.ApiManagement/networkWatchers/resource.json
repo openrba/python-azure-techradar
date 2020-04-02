@@ -1,0 +1,6 @@
+[
+    "Microsoft.ApiManagement/networkWatchers/connectionMonitors",
+    "Microsoft.ApiManagement/networkWatchers/flowLogs",
+    "Microsoft.ApiManagement/networkWatchers/packetCaptures",
+    "Microsoft.ApiManagement/networkWatchers/pingMeshes"
+]

@@ -1,0 +1,204 @@
+blobServices:
+  path: Microsoft.AlertsManagement/storageAccounts/blobServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/storageAccounts/blobServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileServices:
+  path: Microsoft.AlertsManagement/storageAccounts/fileServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/storageAccounts/fileServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listAccountSas:
+  path: Microsoft.AlertsManagement/storageAccounts/listAccountSas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/storageAccounts/listAccountSas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listServiceSas:
+  path: Microsoft.AlertsManagement/storageAccounts/listServiceSas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/storageAccounts/listServiceSas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementPolicies:
+  path: Microsoft.AlertsManagement/storageAccounts/managementPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/storageAccounts/managementPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.AlertsManagement/storageAccounts/metricDefinitions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/storageAccounts/metricDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.AlertsManagement/storageAccounts/metrics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/storageAccounts/metrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.AlertsManagement/storageAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/storageAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+queueServices:
+  path: Microsoft.AlertsManagement/storageAccounts/queueServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/storageAccounts/queueServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+services:
+  path: Microsoft.AlertsManagement/storageAccounts/services
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/storageAccounts/services
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tableServices:
+  path: Microsoft.AlertsManagement/storageAccounts/tableServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/storageAccounts/tableServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vmImages:
+  path: Microsoft.AlertsManagement/storageAccounts/vmImages
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/storageAccounts/vmImages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

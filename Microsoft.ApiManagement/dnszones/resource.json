@@ -1,0 +1,14 @@
+[
+    "Microsoft.ApiManagement/dnszones/A",
+    "Microsoft.ApiManagement/dnszones/AAAA",
+    "Microsoft.ApiManagement/dnszones/CAA",
+    "Microsoft.ApiManagement/dnszones/CNAME",
+    "Microsoft.ApiManagement/dnszones/MX",
+    "Microsoft.ApiManagement/dnszones/NS",
+    "Microsoft.ApiManagement/dnszones/PTR",
+    "Microsoft.ApiManagement/dnszones/SOA",
+    "Microsoft.ApiManagement/dnszones/SRV",
+    "Microsoft.ApiManagement/dnszones/TXT",
+    "Microsoft.ApiManagement/dnszones/all",
+    "Microsoft.ApiManagement/dnszones/recordsets"
+]

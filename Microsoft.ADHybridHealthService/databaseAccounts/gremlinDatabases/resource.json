@@ -1,0 +1,5 @@
+[
+    "Microsoft.ADHybridHealthService/databaseAccounts/gremlinDatabases/graphs",
+    "Microsoft.ADHybridHealthService/databaseAccounts/gremlinDatabases/graphs/throughputSettings",
+    "Microsoft.ADHybridHealthService/databaseAccounts/gremlinDatabases/throughputSettings"
+]

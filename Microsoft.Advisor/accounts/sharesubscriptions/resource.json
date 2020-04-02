@@ -1,0 +1,5 @@
+[
+    "Microsoft.Advisor/accounts/sharesubscriptions/consumerSourceDataSets",
+    "Microsoft.Advisor/accounts/sharesubscriptions/datasetmappings",
+    "Microsoft.Advisor/accounts/sharesubscriptions/triggers"
+]

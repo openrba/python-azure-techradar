@@ -1,0 +1,11 @@
+[
+    "Microsoft.DBforMariaDB/reservationOrders/availableScopes",
+    "Microsoft.DBforMariaDB/reservationOrders/calculateRefund",
+    "Microsoft.DBforMariaDB/reservationOrders/merge",
+    "Microsoft.DBforMariaDB/reservationOrders/reservations",
+    "Microsoft.DBforMariaDB/reservationOrders/reservations/availableScopes",
+    "Microsoft.DBforMariaDB/reservationOrders/reservations/revisions",
+    "Microsoft.DBforMariaDB/reservationOrders/return",
+    "Microsoft.DBforMariaDB/reservationOrders/split",
+    "Microsoft.DBforMariaDB/reservationOrders/swap"
+]

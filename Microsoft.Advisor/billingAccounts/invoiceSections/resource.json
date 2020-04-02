@@ -1,0 +1,15 @@
+[
+    "Microsoft.Advisor/billingAccounts/invoiceSections/billingSubscriptionMoveOperations",
+    "Microsoft.Advisor/billingAccounts/invoiceSections/billingSubscriptions",
+    "Microsoft.Advisor/billingAccounts/invoiceSections/billingSubscriptions/transfer",
+    "Microsoft.Advisor/billingAccounts/invoiceSections/elevate",
+    "Microsoft.Advisor/billingAccounts/invoiceSections/initiateTransfer",
+    "Microsoft.Advisor/billingAccounts/invoiceSections/patchOperations",
+    "Microsoft.Advisor/billingAccounts/invoiceSections/productMoveOperations",
+    "Microsoft.Advisor/billingAccounts/invoiceSections/productTransfersResults",
+    "Microsoft.Advisor/billingAccounts/invoiceSections/products",
+    "Microsoft.Advisor/billingAccounts/invoiceSections/products/transfer",
+    "Microsoft.Advisor/billingAccounts/invoiceSections/products/updateAutoRenew",
+    "Microsoft.Advisor/billingAccounts/invoiceSections/transactions",
+    "Microsoft.Advisor/billingAccounts/invoiceSections/transfers"
+]

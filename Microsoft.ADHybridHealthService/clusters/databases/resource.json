@@ -1,0 +1,5 @@
+[
+    "Microsoft.ADHybridHealthService/clusters/databases/dataconnections",
+    "Microsoft.ADHybridHealthService/clusters/databases/eventhubconnections",
+    "Microsoft.ADHybridHealthService/clusters/databases/principalassignments"
+]

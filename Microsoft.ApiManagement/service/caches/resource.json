@@ -1,0 +1,5 @@
+[
+    "Microsoft.ApiManagement/service/caches/connectionString",
+    "Microsoft.ApiManagement/service/caches/description",
+    "Microsoft.ApiManagement/service/caches/resourceId"
+]

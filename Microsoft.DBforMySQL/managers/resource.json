@@ -1,0 +1,19 @@
+[
+    "Microsoft.DBforMySQL/managers/accessControlRecords",
+    "Microsoft.DBforMySQL/managers/bandwidthSettings",
+    "Microsoft.DBforMySQL/managers/devices/alertSettings",
+    "Microsoft.DBforMySQL/managers/devices/backupPolicies",
+    "Microsoft.DBforMySQL/managers/devices/backupPolicies/schedules",
+    "Microsoft.DBforMySQL/managers/devices/backupScheduleGroups",
+    "Microsoft.DBforMySQL/managers/devices/chapSettings",
+    "Microsoft.DBforMySQL/managers/devices/fileservers",
+    "Microsoft.DBforMySQL/managers/devices/fileservers/shares",
+    "Microsoft.DBforMySQL/managers/devices/iscsiservers",
+    "Microsoft.DBforMySQL/managers/devices/iscsiservers/disks",
+    "Microsoft.DBforMySQL/managers/devices/timeSettings",
+    "Microsoft.DBforMySQL/managers/devices/volumeContainers",
+    "Microsoft.DBforMySQL/managers/devices/volumeContainers/volumes",
+    "Microsoft.DBforMySQL/managers/extendedInformation",
+    "Microsoft.DBforMySQL/managers/storageAccountCredentials",
+    "Microsoft.DBforMySQL/managers/storageDomains"
+]

@@ -1,0 +1,204 @@
+accountFilters:
+  path: Microsoft.DBforMariaDB/mediaservices/accountFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/mediaservices/accountFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+assets:
+  path: Microsoft.DBforMariaDB/mediaservices/assets
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/mediaservices/assets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+contentKeyPolicies:
+  path: Microsoft.DBforMariaDB/mediaservices/contentKeyPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/mediaservices/contentKeyPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.DBforMariaDB/mediaservices/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/mediaservices/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveEventOperations:
+  path: Microsoft.DBforMariaDB/mediaservices/liveEventOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/mediaservices/liveEventOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveEvents:
+  path: Microsoft.DBforMariaDB/mediaservices/liveEvents
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/mediaservices/liveEvents
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveOutputOperations:
+  path: Microsoft.DBforMariaDB/mediaservices/liveOutputOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/mediaservices/liveOutputOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingEndpointOperations:
+  path: Microsoft.DBforMariaDB/mediaservices/streamingEndpointOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/mediaservices/streamingEndpointOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingEndpoints:
+  path: Microsoft.DBforMariaDB/mediaservices/streamingEndpoints
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/mediaservices/streamingEndpoints
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingLocators:
+  path: Microsoft.DBforMariaDB/mediaservices/streamingLocators
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/mediaservices/streamingLocators
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingPolicies:
+  path: Microsoft.DBforMariaDB/mediaservices/streamingPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/mediaservices/streamingPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transforms:
+  path: Microsoft.DBforMariaDB/mediaservices/transforms
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/mediaservices/transforms
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

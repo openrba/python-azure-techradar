@@ -1,0 +1,10 @@
+[
+    "Microsoft.Advisor/subscriptions/locations",
+    "Microsoft.Advisor/subscriptions/operationresults",
+    "Microsoft.Advisor/subscriptions/providers",
+    "Microsoft.Advisor/subscriptions/resourceGroups",
+    "Microsoft.Advisor/subscriptions/resourcegroups/resources",
+    "Microsoft.Advisor/subscriptions/resources",
+    "Microsoft.Advisor/subscriptions/tagNames/tagValues",
+    "Microsoft.Advisor/subscriptions/tagnames"
+]

@@ -1,0 +1,5 @@
+[
+    "Microsoft.ApiManagement/service/apis/issues/comments/createdDate",
+    "Microsoft.ApiManagement/service/apis/issues/comments/text",
+    "Microsoft.ApiManagement/service/apis/issues/comments/userId"
+]

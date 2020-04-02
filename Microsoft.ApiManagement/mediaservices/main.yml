@@ -1,0 +1,204 @@
+accountFilters:
+  path: Microsoft.ApiManagement/mediaservices/accountFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/mediaservices/accountFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+assets:
+  path: Microsoft.ApiManagement/mediaservices/assets
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/mediaservices/assets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+contentKeyPolicies:
+  path: Microsoft.ApiManagement/mediaservices/contentKeyPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/mediaservices/contentKeyPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.ApiManagement/mediaservices/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/mediaservices/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveEventOperations:
+  path: Microsoft.ApiManagement/mediaservices/liveEventOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/mediaservices/liveEventOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveEvents:
+  path: Microsoft.ApiManagement/mediaservices/liveEvents
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/mediaservices/liveEvents
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveOutputOperations:
+  path: Microsoft.ApiManagement/mediaservices/liveOutputOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/mediaservices/liveOutputOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingEndpointOperations:
+  path: Microsoft.ApiManagement/mediaservices/streamingEndpointOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/mediaservices/streamingEndpointOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingEndpoints:
+  path: Microsoft.ApiManagement/mediaservices/streamingEndpoints
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/mediaservices/streamingEndpoints
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingLocators:
+  path: Microsoft.ApiManagement/mediaservices/streamingLocators
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/mediaservices/streamingLocators
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingPolicies:
+  path: Microsoft.ApiManagement/mediaservices/streamingPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/mediaservices/streamingPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transforms:
+  path: Microsoft.ApiManagement/mediaservices/transforms
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/mediaservices/transforms
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

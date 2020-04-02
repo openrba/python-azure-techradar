@@ -1,0 +1,221 @@
+clusters:
+  path: Microsoft.Advisor/workspaces/clusters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/clusters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+computes:
+  path: Microsoft.Advisor/workspaces/computes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/computes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataSources:
+  path: Microsoft.Advisor/workspaces/dataSources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/dataSources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dbWorkspaces:
+  path: Microsoft.Advisor/workspaces/dbWorkspaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/dbWorkspaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.Advisor/workspaces/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+experiments:
+  path: Microsoft.Advisor/workspaces/experiments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/experiments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileservers:
+  path: Microsoft.Advisor/workspaces/fileservers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/fileservers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+linkedServices:
+  path: Microsoft.Advisor/workspaces/linkedServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/linkedServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+query:
+  path: Microsoft.Advisor/workspaces/query
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/query
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+savedSearches:
+  path: Microsoft.Advisor/workspaces/savedSearches
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/savedSearches
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scopedPrivateLinkProxies:
+  path: Microsoft.Advisor/workspaces/scopedPrivateLinkProxies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/scopedPrivateLinkProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageinsightconfigs:
+  path: Microsoft.Advisor/workspaces/storageinsightconfigs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/storageinsightconfigs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkPeerings:
+  path: Microsoft.Advisor/workspaces/virtualNetworkPeerings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/workspaces/virtualNetworkPeerings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

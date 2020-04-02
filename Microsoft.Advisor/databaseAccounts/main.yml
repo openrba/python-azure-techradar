@@ -1,0 +1,102 @@
+cassandraKeyspaces:
+  path: Microsoft.Advisor/databaseAccounts/cassandraKeyspaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/databaseAccounts/cassandraKeyspaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+gremlinDatabases:
+  path: Microsoft.Advisor/databaseAccounts/gremlinDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/databaseAccounts/gremlinDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+mongodbDatabases:
+  path: Microsoft.Advisor/databaseAccounts/mongodbDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/databaseAccounts/mongodbDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.Advisor/databaseAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/databaseAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlDatabases:
+  path: Microsoft.Advisor/databaseAccounts/sqlDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/databaseAccounts/sqlDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tables:
+  path: Microsoft.Advisor/databaseAccounts/tables
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/databaseAccounts/tables
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

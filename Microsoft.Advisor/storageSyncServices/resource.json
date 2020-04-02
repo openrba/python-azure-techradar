@@ -1,0 +1,7 @@
+[
+    "Microsoft.Advisor/storageSyncServices/registeredServers",
+    "Microsoft.Advisor/storageSyncServices/syncGroups",
+    "Microsoft.Advisor/storageSyncServices/syncGroups/cloudEndpoints",
+    "Microsoft.Advisor/storageSyncServices/syncGroups/serverEndpoints",
+    "Microsoft.Advisor/storageSyncServices/workflows"
+]

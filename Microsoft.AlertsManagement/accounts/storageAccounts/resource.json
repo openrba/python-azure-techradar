@@ -1,0 +1,4 @@
+[
+    "Microsoft.AlertsManagement/accounts/storageAccounts/containers",
+    "Microsoft.AlertsManagement/accounts/storageAccounts/containers/listSasTokens"
+]

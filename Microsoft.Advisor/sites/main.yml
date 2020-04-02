@@ -1,0 +1,221 @@
+config:
+  path: Microsoft.Advisor/sites/config
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/config
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+domainownershipidentifiers:
+  path: Microsoft.Advisor/sites/domainownershipidentifiers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/domainownershipidentifiers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.Advisor/sites/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hostNameBindings:
+  path: Microsoft.Advisor/sites/hostNameBindings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/hostNameBindings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnection:
+  path: Microsoft.Advisor/sites/hybridconnection
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/hybridconnection
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnectionnamespaces:
+  path: Microsoft.Advisor/sites/hybridconnectionnamespaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/hybridconnectionnamespaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkConfig:
+  path: Microsoft.Advisor/sites/networkConfig
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/networkConfig
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+premieraddons:
+  path: Microsoft.Advisor/sites/premieraddons
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/premieraddons
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateaccess:
+  path: Microsoft.Advisor/sites/privateaccess
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/privateaccess
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publiccertificates:
+  path: Microsoft.Advisor/sites/publiccertificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/publiccertificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+slots:
+  path: Microsoft.Advisor/sites/slots
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/slots
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sourcecontrols:
+  path: Microsoft.Advisor/sites/sourcecontrols
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/sourcecontrols
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualnetworkconnections:
+  path: Microsoft.Advisor/sites/virtualnetworkconnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/sites/virtualnetworkconnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,6 @@
+[
+    "Microsoft.Advisor/batchAccounts/applications",
+    "Microsoft.Advisor/batchAccounts/applications/versions",
+    "Microsoft.Advisor/batchAccounts/certificates",
+    "Microsoft.Advisor/batchAccounts/pools"
+]

@@ -1,0 +1,51 @@
+connectionString:
+  path: Microsoft.ApiManagement/service/caches/connectionString
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/caches/connectionString
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+description:
+  path: Microsoft.ApiManagement/service/caches/description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/caches/description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resourceId:
+  path: Microsoft.ApiManagement/service/caches/resourceId
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/caches/resourceId
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

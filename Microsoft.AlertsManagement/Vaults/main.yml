@@ -1,0 +1,68 @@
+backupFabrics:
+  path: Microsoft.AlertsManagement/Vaults/backupFabrics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/Vaults/backupFabrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupPolicies:
+  path: Microsoft.AlertsManagement/Vaults/backupPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/Vaults/backupPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupstorageconfig:
+  path: Microsoft.AlertsManagement/Vaults/backupstorageconfig
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/Vaults/backupstorageconfig
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extendedInformation:
+  path: Microsoft.AlertsManagement/Vaults/extendedInformation
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/Vaults/extendedInformation
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMySQL/serviceTopologies/services",
+    "Microsoft.DBforMySQL/serviceTopologies/services/serviceUnits"
+]

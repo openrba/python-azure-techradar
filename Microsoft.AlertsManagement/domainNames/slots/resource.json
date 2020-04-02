@@ -1,0 +1,5 @@
+[
+    "Microsoft.AlertsManagement/domainNames/slots/roles",
+    "Microsoft.AlertsManagement/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.AlertsManagement/domainNames/slots/roles/metrics"
+]

@@ -1,0 +1,5 @@
+[
+    "Microsoft.Advisor/environments/accessPolicies",
+    "Microsoft.Advisor/environments/eventsources",
+    "Microsoft.Advisor/environments/referenceDataSets"
+]

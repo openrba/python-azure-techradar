@@ -1,0 +1,4 @@
+[
+    "Microsoft.ApiManagement/hostingEnvironments/multiRolePools",
+    "Microsoft.ApiManagement/hostingEnvironments/workerPools"
+]

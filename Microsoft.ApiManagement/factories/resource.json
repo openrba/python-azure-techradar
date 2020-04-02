@@ -1,0 +1,8 @@
+[
+    "Microsoft.ApiManagement/factories/dataflows",
+    "Microsoft.ApiManagement/factories/datasets",
+    "Microsoft.ApiManagement/factories/integrationRuntimes",
+    "Microsoft.ApiManagement/factories/linkedservices",
+    "Microsoft.ApiManagement/factories/pipelines",
+    "Microsoft.ApiManagement/factories/triggers"
+]

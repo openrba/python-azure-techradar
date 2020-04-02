@@ -1,0 +1,5 @@
+[
+    "Microsoft.ADHybridHealthService/stores/accessPolicies",
+    "Microsoft.ADHybridHealthService/stores/services",
+    "Microsoft.ADHybridHealthService/stores/services/tokens"
+]

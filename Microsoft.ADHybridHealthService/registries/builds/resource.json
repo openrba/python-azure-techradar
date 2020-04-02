@@ -1,0 +1,4 @@
+[
+    "Microsoft.ADHybridHealthService/registries/builds/cancel",
+    "Microsoft.ADHybridHealthService/registries/builds/getLogLink"
+]

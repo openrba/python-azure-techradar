@@ -1,0 +1,221 @@
+clusters:
+  path: Microsoft.DBforMariaDB/workspaces/clusters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/clusters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+computes:
+  path: Microsoft.DBforMariaDB/workspaces/computes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/computes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataSources:
+  path: Microsoft.DBforMariaDB/workspaces/dataSources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/dataSources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dbWorkspaces:
+  path: Microsoft.DBforMariaDB/workspaces/dbWorkspaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/dbWorkspaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.DBforMariaDB/workspaces/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+experiments:
+  path: Microsoft.DBforMariaDB/workspaces/experiments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/experiments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileservers:
+  path: Microsoft.DBforMariaDB/workspaces/fileservers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/fileservers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+linkedServices:
+  path: Microsoft.DBforMariaDB/workspaces/linkedServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/linkedServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+query:
+  path: Microsoft.DBforMariaDB/workspaces/query
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/query
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+savedSearches:
+  path: Microsoft.DBforMariaDB/workspaces/savedSearches
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/savedSearches
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scopedPrivateLinkProxies:
+  path: Microsoft.DBforMariaDB/workspaces/scopedPrivateLinkProxies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/scopedPrivateLinkProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageinsightconfigs:
+  path: Microsoft.DBforMariaDB/workspaces/storageinsightconfigs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/storageinsightconfigs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkPeerings:
+  path: Microsoft.DBforMariaDB/workspaces/virtualNetworkPeerings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/workspaces/virtualNetworkPeerings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMariaDB/domainNames/slots/roles",
+    "Microsoft.DBforMariaDB/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.DBforMariaDB/domainNames/slots/roles/metrics"
+]

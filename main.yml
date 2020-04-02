@@ -1,6 +1,9 @@
 Microsoft.AAD:
   path: Microsoft.AAD
-  description: UNKNOWN
+  description: Azure Active Directory Domain Services (Azure AD DS) provides managed
+    domain services such as domain join, group policy, lightweight directory access
+    protocol (LDAP), and Kerberos / NTLM authentication that is fully compatible with
+    Windows Server Active Directory.
   status: HOLD
   url: Microsoft.AAD
   architecture review:
@@ -17,15 +20,16 @@ Microsoft.AAD:
     notes: There are no security notes for this service at this time.
 Microsoft.ADHybridHealthService:
   path: Microsoft.ADHybridHealthService
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Active Directory (Azure AD) is a multi-tenant, cloud-based identity
+    and access management service.
+  status: ADOPT
   url: Microsoft.ADHybridHealthService
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: SAAS
+    status: REVIEWED
+    start: 1/1/2020
+    end: 1/1/2020
+    notes: This service is used in production for RBA.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -51,13 +55,14 @@ Microsoft.Addons:
     notes: There are no security notes for this service at this time.
 Microsoft.Advisor:
   path: Microsoft.Advisor
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Advisor scans your Azure configuration and recommends changes
+    to optimize deployments, increase security, and save you money.
+  status: ASSESS
   url: Microsoft.Advisor
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: SAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -68,13 +73,14 @@ Microsoft.Advisor:
     notes: There are no security notes for this service at this time.
 Microsoft.AlertsManagement:
   path: Microsoft.AlertsManagement
-  description: UNKNOWN
-  status: HOLD
+  description: Monitoring Azure and on-premises services. Aggregate and analyze metrics,
+    logs, and traces. Fire alerts and send notifications or call automated solutions.
+  status: ASSESS
   url: Microsoft.AlertsManagement
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -85,7 +91,9 @@ Microsoft.AlertsManagement:
     notes: There are no security notes for this service at this time.
 Microsoft.AnalysisServices:
   path: Microsoft.AnalysisServices
-  description: UNKNOWN
+  description: Learn how to set up data modeling with Analysis Services in the cloud.
+    Documentation shows you how to create an enterprise BI solution by using tabular
+    data models.
   status: HOLD
   url: Microsoft.AnalysisServices
   architecture review:
@@ -102,13 +110,15 @@ Microsoft.AnalysisServices:
     notes: There are no security notes for this service at this time.
 Microsoft.ApiManagement:
   path: Microsoft.ApiManagement
-  description: UNKNOWN
-  status: HOLD
+  description: Learn how to use API Management to publish APIs to external, partner,
+    and employee developers securely and at scale. Shows you how to create and manage
+    modern API gateways for existing back-end services hosted anywhere.
+  status: ASSESS
   url: Microsoft.ApiManagement
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -493,7 +503,7 @@ Microsoft.ChangeAnalysis:
     notes: There are no security notes for this service at this time.
 Microsoft.ClassicCompute:
   path: Microsoft.ClassicCompute
-  description: UNKNOWN
+  description: Deprecated version of Azure compute
   status: REJECT
   url: Microsoft.ClassicCompute
   architecture review:
@@ -510,7 +520,7 @@ Microsoft.ClassicCompute:
     notes: There are no security notes for this service at this time.
 Microsoft.ClassicInfrastructureMigrate:
   path: Microsoft.ClassicInfrastructureMigrate
-  description: UNKNOWN
+  description: Deprecated version of Azure migrate
   status: REJECT
   url: Microsoft.ClassicInfrastructureMigrate
   architecture review:
@@ -527,7 +537,7 @@ Microsoft.ClassicInfrastructureMigrate:
     notes: There are no security notes for this service at this time.
 Microsoft.ClassicNetwork:
   path: Microsoft.ClassicNetwork
-  description: UNKNOWN
+  description: Deprecated version of Azure network
   status: REJECT
   url: Microsoft.ClassicNetwork
   architecture review:
@@ -544,7 +554,7 @@ Microsoft.ClassicNetwork:
     notes: There are no security notes for this service at this time.
 Microsoft.ClassicStorage:
   path: Microsoft.ClassicStorage
-  description: UNKNOWN
+  description: Deprecated version of Azure storage
   status: REJECT
   url: Microsoft.ClassicStorage
   architecture review:
@@ -561,7 +571,7 @@ Microsoft.ClassicStorage:
     notes: There are no security notes for this service at this time.
 Microsoft.ClassicSubscription:
   path: Microsoft.ClassicSubscription
-  description: UNKNOWN
+  description: Deprecated version of Azure subscription
   status: REJECT
   url: Microsoft.ClassicSubscription
   architecture review:
@@ -765,13 +775,14 @@ Microsoft.CustomerLockbox:
     notes: There are no security notes for this service at this time.
 Microsoft.DBforMariaDB:
   path: Microsoft.DBforMariaDB
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Database for MariaDB provides fully managed, enterprise-ready
+    community MariaDB database as a service.
+  status: ASSESS
   url: Microsoft.DBforMariaDB
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: REVIEWED
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -782,13 +793,14 @@ Microsoft.DBforMariaDB:
     notes: There are no security notes for this service at this time.
 Microsoft.DBforMySQL:
   path: Microsoft.DBforMySQL
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Database for MySQL provides fully managed, enterprise-ready community
+    MySQL database as a service.
+  status: ASSESS
   url: Microsoft.DBforMySQL
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: REVIEWED
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -799,7 +811,8 @@ Microsoft.DBforMySQL:
     notes: There are no security notes for this service at this time.
 Microsoft.DBforPostgreSQL:
   path: Microsoft.DBforPostgreSQL
-  description: UNKNOWN
+  description: Azure Database for PostgreSQL is a relational database service based
+    on the open-source Postgres database engine.
   status: TRIAL
   url: Microsoft.DBforPostgreSQL
   architecture review:

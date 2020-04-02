@@ -1,0 +1,102 @@
+applicationTypes:
+  path: Microsoft.Advisor/clusters/applicationTypes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/clusters/applicationTypes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applications:
+  path: Microsoft.Advisor/clusters/applications
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/clusters/applications
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+attacheddatabaseconfigurations:
+  path: Microsoft.Advisor/clusters/attacheddatabaseconfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/clusters/attacheddatabaseconfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+databases:
+  path: Microsoft.Advisor/clusters/databases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/clusters/databases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operationresults:
+  path: Microsoft.Advisor/clusters/operationresults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/clusters/operationresults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+principalassignments:
+  path: Microsoft.Advisor/clusters/principalassignments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/clusters/principalassignments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

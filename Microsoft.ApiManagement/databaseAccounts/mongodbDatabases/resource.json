@@ -1,0 +1,5 @@
+[
+    "Microsoft.ApiManagement/databaseAccounts/mongodbDatabases/collections",
+    "Microsoft.ApiManagement/databaseAccounts/mongodbDatabases/collections/throughputSettings",
+    "Microsoft.ApiManagement/databaseAccounts/mongodbDatabases/throughputSettings"
+]

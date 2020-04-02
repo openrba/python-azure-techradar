@@ -1,0 +1,51 @@
+groups:
+  path: Microsoft.ApiManagement/assessmentprojects/groups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/assessmentprojects/groups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hypervcollectors:
+  path: Microsoft.ApiManagement/assessmentprojects/hypervcollectors
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/assessmentprojects/hypervcollectors
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vmwarecollectors:
+  path: Microsoft.ApiManagement/assessmentprojects/vmwarecollectors
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/assessmentprojects/vmwarecollectors
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

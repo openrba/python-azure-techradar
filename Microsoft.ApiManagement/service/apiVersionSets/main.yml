@@ -1,0 +1,85 @@
+description:
+  path: Microsoft.ApiManagement/service/apiVersionSets/description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apiVersionSets/description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+displayName:
+  path: Microsoft.ApiManagement/service/apiVersionSets/displayName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apiVersionSets/displayName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+versionHeaderName:
+  path: Microsoft.ApiManagement/service/apiVersionSets/versionHeaderName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apiVersionSets/versionHeaderName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+versionQueryName:
+  path: Microsoft.ApiManagement/service/apiVersionSets/versionQueryName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apiVersionSets/versionQueryName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+versioningScheme:
+  path: Microsoft.ApiManagement/service/apiVersionSets/versioningScheme
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apiVersionSets/versioningScheme
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

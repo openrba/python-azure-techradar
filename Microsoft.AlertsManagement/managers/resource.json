@@ -1,0 +1,19 @@
+[
+    "Microsoft.AlertsManagement/managers/accessControlRecords",
+    "Microsoft.AlertsManagement/managers/bandwidthSettings",
+    "Microsoft.AlertsManagement/managers/devices/alertSettings",
+    "Microsoft.AlertsManagement/managers/devices/backupPolicies",
+    "Microsoft.AlertsManagement/managers/devices/backupPolicies/schedules",
+    "Microsoft.AlertsManagement/managers/devices/backupScheduleGroups",
+    "Microsoft.AlertsManagement/managers/devices/chapSettings",
+    "Microsoft.AlertsManagement/managers/devices/fileservers",
+    "Microsoft.AlertsManagement/managers/devices/fileservers/shares",
+    "Microsoft.AlertsManagement/managers/devices/iscsiservers",
+    "Microsoft.AlertsManagement/managers/devices/iscsiservers/disks",
+    "Microsoft.AlertsManagement/managers/devices/timeSettings",
+    "Microsoft.AlertsManagement/managers/devices/volumeContainers",
+    "Microsoft.AlertsManagement/managers/devices/volumeContainers/volumes",
+    "Microsoft.AlertsManagement/managers/extendedInformation",
+    "Microsoft.AlertsManagement/managers/storageAccountCredentials",
+    "Microsoft.AlertsManagement/managers/storageDomains"
+]

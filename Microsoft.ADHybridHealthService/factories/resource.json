@@ -1,0 +1,8 @@
+[
+    "Microsoft.ADHybridHealthService/factories/dataflows",
+    "Microsoft.ADHybridHealthService/factories/datasets",
+    "Microsoft.ADHybridHealthService/factories/integrationRuntimes",
+    "Microsoft.ADHybridHealthService/factories/linkedservices",
+    "Microsoft.ADHybridHealthService/factories/pipelines",
+    "Microsoft.ADHybridHealthService/factories/triggers"
+]

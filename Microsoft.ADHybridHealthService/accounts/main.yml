@@ -1,0 +1,170 @@
+computePolicies:
+  path: Microsoft.ADHybridHealthService/accounts/computePolicies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/accounts/computePolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataLakeStoreAccounts:
+  path: Microsoft.ADHybridHealthService/accounts/dataLakeStoreAccounts
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/accounts/dataLakeStoreAccounts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.ADHybridHealthService/accounts/eventGridFilters
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/accounts/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+firewallRules:
+  path: Microsoft.ADHybridHealthService/accounts/firewallRules
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/accounts/firewallRules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateAtlases:
+  path: Microsoft.ADHybridHealthService/accounts/privateAtlases
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/accounts/privateAtlases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+shares:
+  path: Microsoft.ADHybridHealthService/accounts/shares
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/accounts/shares
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sharesubscriptions:
+  path: Microsoft.ADHybridHealthService/accounts/sharesubscriptions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/accounts/sharesubscriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageAccounts:
+  path: Microsoft.ADHybridHealthService/accounts/storageAccounts
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/accounts/storageAccounts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+trustedIdProviders:
+  path: Microsoft.ADHybridHealthService/accounts/trustedIdProviders
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/accounts/trustedIdProviders
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkRules:
+  path: Microsoft.ADHybridHealthService/accounts/virtualNetworkRules
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/accounts/virtualNetworkRules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

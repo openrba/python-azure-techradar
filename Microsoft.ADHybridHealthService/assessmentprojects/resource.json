@@ -1,0 +1,6 @@
+[
+    "Microsoft.ADHybridHealthService/assessmentprojects/groups",
+    "Microsoft.ADHybridHealthService/assessmentprojects/groups/assessments",
+    "Microsoft.ADHybridHealthService/assessmentprojects/hypervcollectors",
+    "Microsoft.ADHybridHealthService/assessmentprojects/vmwarecollectors"
+]

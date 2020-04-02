@@ -1,0 +1,16 @@
+[
+    "Microsoft.Advisor/workspaces/clusters",
+    "Microsoft.Advisor/workspaces/computes",
+    "Microsoft.Advisor/workspaces/dataSources",
+    "Microsoft.Advisor/workspaces/dbWorkspaces",
+    "Microsoft.Advisor/workspaces/eventGridFilters",
+    "Microsoft.Advisor/workspaces/experiments",
+    "Microsoft.Advisor/workspaces/experiments/jobs",
+    "Microsoft.Advisor/workspaces/fileservers",
+    "Microsoft.Advisor/workspaces/linkedServices",
+    "Microsoft.Advisor/workspaces/query",
+    "Microsoft.Advisor/workspaces/savedSearches",
+    "Microsoft.Advisor/workspaces/scopedPrivateLinkProxies",
+    "Microsoft.Advisor/workspaces/storageinsightconfigs",
+    "Microsoft.Advisor/workspaces/virtualNetworkPeerings"
+]

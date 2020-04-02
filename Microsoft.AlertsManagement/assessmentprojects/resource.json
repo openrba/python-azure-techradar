@@ -1,0 +1,6 @@
+[
+    "Microsoft.AlertsManagement/assessmentprojects/groups",
+    "Microsoft.AlertsManagement/assessmentprojects/groups/assessments",
+    "Microsoft.AlertsManagement/assessmentprojects/hypervcollectors",
+    "Microsoft.AlertsManagement/assessmentprojects/vmwarecollectors"
+]

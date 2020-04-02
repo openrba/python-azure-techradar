@@ -1,0 +1,7 @@
+[
+    "Microsoft.DBforMariaDB/offerTypes/publishers/offers",
+    "Microsoft.DBforMariaDB/offerTypes/publishers/offers/plans",
+    "Microsoft.DBforMariaDB/offerTypes/publishers/offers/plans/agreements",
+    "Microsoft.DBforMariaDB/offerTypes/publishers/offers/plans/configs",
+    "Microsoft.DBforMariaDB/offerTypes/publishers/offers/plans/configs/importImage"
+]

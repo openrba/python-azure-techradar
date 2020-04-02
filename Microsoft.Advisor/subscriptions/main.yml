@@ -1,0 +1,136 @@
+locations:
+  path: Microsoft.Advisor/subscriptions/locations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/subscriptions/locations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operationresults:
+  path: Microsoft.Advisor/subscriptions/operationresults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/subscriptions/operationresults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+providers:
+  path: Microsoft.Advisor/subscriptions/providers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/subscriptions/providers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resourceGroups:
+  path: Microsoft.Advisor/subscriptions/resourceGroups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/subscriptions/resourceGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resourcegroups:
+  path: Microsoft.Advisor/subscriptions/resourcegroups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/subscriptions/resourcegroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resources:
+  path: Microsoft.Advisor/subscriptions/resources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/subscriptions/resources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tagNames:
+  path: Microsoft.Advisor/subscriptions/tagNames
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/subscriptions/tagNames
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tagnames:
+  path: Microsoft.Advisor/subscriptions/tagnames
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/subscriptions/tagnames
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

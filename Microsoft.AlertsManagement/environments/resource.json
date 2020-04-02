@@ -1,0 +1,5 @@
+[
+    "Microsoft.AlertsManagement/environments/accessPolicies",
+    "Microsoft.AlertsManagement/environments/eventsources",
+    "Microsoft.AlertsManagement/environments/referenceDataSets"
+]

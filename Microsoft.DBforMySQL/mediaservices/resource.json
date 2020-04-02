@@ -1,0 +1,17 @@
+[
+    "Microsoft.DBforMySQL/mediaservices/accountFilters",
+    "Microsoft.DBforMySQL/mediaservices/assets",
+    "Microsoft.DBforMySQL/mediaservices/assets/assetFilters",
+    "Microsoft.DBforMySQL/mediaservices/contentKeyPolicies",
+    "Microsoft.DBforMySQL/mediaservices/eventGridFilters",
+    "Microsoft.DBforMySQL/mediaservices/liveEventOperations",
+    "Microsoft.DBforMySQL/mediaservices/liveEvents",
+    "Microsoft.DBforMySQL/mediaservices/liveEvents/liveOutputs",
+    "Microsoft.DBforMySQL/mediaservices/liveOutputOperations",
+    "Microsoft.DBforMySQL/mediaservices/streamingEndpointOperations",
+    "Microsoft.DBforMySQL/mediaservices/streamingEndpoints",
+    "Microsoft.DBforMySQL/mediaservices/streamingLocators",
+    "Microsoft.DBforMySQL/mediaservices/streamingPolicies",
+    "Microsoft.DBforMySQL/mediaservices/transforms",
+    "Microsoft.DBforMySQL/mediaservices/transforms/jobs"
+]

@@ -1,0 +1,8 @@
+[
+    "Microsoft.Advisor/factories/dataflows",
+    "Microsoft.Advisor/factories/datasets",
+    "Microsoft.Advisor/factories/integrationRuntimes",
+    "Microsoft.Advisor/factories/linkedservices",
+    "Microsoft.Advisor/factories/pipelines",
+    "Microsoft.Advisor/factories/triggers"
+]

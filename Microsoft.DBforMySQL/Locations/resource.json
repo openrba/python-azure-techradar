@@ -1,0 +1,7 @@
+[
+    "Microsoft.DBforMySQL/Locations/OperationStatuses",
+    "Microsoft.DBforMySQL/Locations/OperationTypes",
+    "Microsoft.DBforMySQL/Locations/availabilityGroupListenerOperationResults",
+    "Microsoft.DBforMySQL/Locations/sqlVirtualMachineGroupOperationResults",
+    "Microsoft.DBforMySQL/Locations/sqlVirtualMachineOperationResults"
+]

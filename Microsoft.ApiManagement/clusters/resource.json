@@ -1,0 +1,13 @@
+[
+    "Microsoft.ApiManagement/clusters/applicationTypes",
+    "Microsoft.ApiManagement/clusters/applicationTypes/versions",
+    "Microsoft.ApiManagement/clusters/applications",
+    "Microsoft.ApiManagement/clusters/applications/services",
+    "Microsoft.ApiManagement/clusters/attacheddatabaseconfigurations",
+    "Microsoft.ApiManagement/clusters/databases",
+    "Microsoft.ApiManagement/clusters/databases/dataconnections",
+    "Microsoft.ApiManagement/clusters/databases/eventhubconnections",
+    "Microsoft.ApiManagement/clusters/databases/principalassignments",
+    "Microsoft.ApiManagement/clusters/operationresults",
+    "Microsoft.ApiManagement/clusters/principalassignments"
+]

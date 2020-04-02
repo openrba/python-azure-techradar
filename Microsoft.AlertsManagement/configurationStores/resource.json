@@ -1,0 +1,4 @@
+[
+    "Microsoft.AlertsManagement/configurationStores/eventGridFilters",
+    "Microsoft.AlertsManagement/configurationStores/privateEndpointConnections"
+]

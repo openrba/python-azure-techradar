@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMariaDB/profiles/endpoints/customdomains",
+    "Microsoft.DBforMariaDB/profiles/endpoints/origingroups",
+    "Microsoft.DBforMariaDB/profiles/endpoints/origins"
+]

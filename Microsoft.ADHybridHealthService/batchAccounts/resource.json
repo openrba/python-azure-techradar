@@ -1,0 +1,6 @@
+[
+    "Microsoft.ADHybridHealthService/batchAccounts/applications",
+    "Microsoft.ADHybridHealthService/batchAccounts/applications/versions",
+    "Microsoft.ADHybridHealthService/batchAccounts/certificates",
+    "Microsoft.ADHybridHealthService/batchAccounts/pools"
+]

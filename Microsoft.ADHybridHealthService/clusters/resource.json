@@ -1,0 +1,13 @@
+[
+    "Microsoft.ADHybridHealthService/clusters/applicationTypes",
+    "Microsoft.ADHybridHealthService/clusters/applicationTypes/versions",
+    "Microsoft.ADHybridHealthService/clusters/applications",
+    "Microsoft.ADHybridHealthService/clusters/applications/services",
+    "Microsoft.ADHybridHealthService/clusters/attacheddatabaseconfigurations",
+    "Microsoft.ADHybridHealthService/clusters/databases",
+    "Microsoft.ADHybridHealthService/clusters/databases/dataconnections",
+    "Microsoft.ADHybridHealthService/clusters/databases/eventhubconnections",
+    "Microsoft.ADHybridHealthService/clusters/databases/principalassignments",
+    "Microsoft.ADHybridHealthService/clusters/operationresults",
+    "Microsoft.ADHybridHealthService/clusters/principalassignments"
+]

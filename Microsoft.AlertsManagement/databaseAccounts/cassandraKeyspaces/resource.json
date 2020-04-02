@@ -1,0 +1,5 @@
+[
+    "Microsoft.AlertsManagement/databaseAccounts/cassandraKeyspaces/tables",
+    "Microsoft.AlertsManagement/databaseAccounts/cassandraKeyspaces/tables/throughputSettings",
+    "Microsoft.AlertsManagement/databaseAccounts/cassandraKeyspaces/throughputSettings"
+]

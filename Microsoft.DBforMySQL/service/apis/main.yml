@@ -1,0 +1,136 @@
+diagnostics:
+  path: Microsoft.DBforMySQL/service/apis/diagnostics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/service/apis/diagnostics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+issues:
+  path: Microsoft.DBforMySQL/service/apis/issues
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/service/apis/issues
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operations:
+  path: Microsoft.DBforMySQL/service/apis/operations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/service/apis/operations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policies:
+  path: Microsoft.DBforMySQL/service/apis/policies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/service/apis/policies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+releases:
+  path: Microsoft.DBforMySQL/service/apis/releases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/service/apis/releases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.DBforMySQL/service/apis/schemas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/service/apis/schemas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tagDescriptions:
+  path: Microsoft.DBforMySQL/service/apis/tagDescriptions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/service/apis/tagDescriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tags:
+  path: Microsoft.DBforMySQL/service/apis/tags
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/service/apis/tags
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

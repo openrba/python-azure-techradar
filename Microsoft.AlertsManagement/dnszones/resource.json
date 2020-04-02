@@ -1,0 +1,14 @@
+[
+    "Microsoft.AlertsManagement/dnszones/A",
+    "Microsoft.AlertsManagement/dnszones/AAAA",
+    "Microsoft.AlertsManagement/dnszones/CAA",
+    "Microsoft.AlertsManagement/dnszones/CNAME",
+    "Microsoft.AlertsManagement/dnszones/MX",
+    "Microsoft.AlertsManagement/dnszones/NS",
+    "Microsoft.AlertsManagement/dnszones/PTR",
+    "Microsoft.AlertsManagement/dnszones/SOA",
+    "Microsoft.AlertsManagement/dnszones/SRV",
+    "Microsoft.AlertsManagement/dnszones/TXT",
+    "Microsoft.AlertsManagement/dnszones/all",
+    "Microsoft.AlertsManagement/dnszones/recordsets"
+]

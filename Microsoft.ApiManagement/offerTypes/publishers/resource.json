@@ -1,0 +1,7 @@
+[
+    "Microsoft.ApiManagement/offerTypes/publishers/offers",
+    "Microsoft.ApiManagement/offerTypes/publishers/offers/plans",
+    "Microsoft.ApiManagement/offerTypes/publishers/offers/plans/agreements",
+    "Microsoft.ApiManagement/offerTypes/publishers/offers/plans/configs",
+    "Microsoft.ApiManagement/offerTypes/publishers/offers/plans/configs/importImage"
+]

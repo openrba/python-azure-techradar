@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMariaDB/registries/runs/cancel",
+    "Microsoft.DBforMariaDB/registries/runs/listLogSasUrl"
+]

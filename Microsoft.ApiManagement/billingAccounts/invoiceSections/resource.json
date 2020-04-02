@@ -1,0 +1,15 @@
+[
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/billingSubscriptionMoveOperations",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/billingSubscriptions",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/billingSubscriptions/transfer",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/elevate",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/initiateTransfer",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/patchOperations",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/productMoveOperations",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/productTransfersResults",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/products",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/products/transfer",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/products/updateAutoRenew",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/transactions",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/transfers"
+]

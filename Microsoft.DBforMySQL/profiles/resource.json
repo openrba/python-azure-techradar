@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMySQL/profiles/endpoints",
+    "Microsoft.DBforMySQL/profiles/endpoints/customdomains",
+    "Microsoft.DBforMySQL/profiles/endpoints/origingroups",
+    "Microsoft.DBforMySQL/profiles/endpoints/origins"
+]

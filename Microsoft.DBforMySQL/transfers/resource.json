@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMySQL/transfers/acceptTransfer",
+    "Microsoft.DBforMySQL/transfers/declineTransfer",
+    "Microsoft.DBforMySQL/transfers/operationStatus",
+    "Microsoft.DBforMySQL/transfers/validateTransfer"
+]

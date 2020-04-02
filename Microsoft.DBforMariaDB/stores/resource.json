@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMariaDB/stores/accessPolicies",
+    "Microsoft.DBforMariaDB/stores/services",
+    "Microsoft.DBforMariaDB/stores/services/tokens"
+]

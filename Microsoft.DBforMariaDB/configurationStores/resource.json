@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMariaDB/configurationStores/eventGridFilters",
+    "Microsoft.DBforMariaDB/configurationStores/privateEndpointConnections"
+]

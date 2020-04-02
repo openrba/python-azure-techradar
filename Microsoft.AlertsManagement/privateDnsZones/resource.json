@@ -1,0 +1,12 @@
+[
+    "Microsoft.AlertsManagement/privateDnsZones/A",
+    "Microsoft.AlertsManagement/privateDnsZones/AAAA",
+    "Microsoft.AlertsManagement/privateDnsZones/CNAME",
+    "Microsoft.AlertsManagement/privateDnsZones/MX",
+    "Microsoft.AlertsManagement/privateDnsZones/PTR",
+    "Microsoft.AlertsManagement/privateDnsZones/SOA",
+    "Microsoft.AlertsManagement/privateDnsZones/SRV",
+    "Microsoft.AlertsManagement/privateDnsZones/TXT",
+    "Microsoft.AlertsManagement/privateDnsZones/all",
+    "Microsoft.AlertsManagement/privateDnsZones/virtualNetworkLinks"
+]

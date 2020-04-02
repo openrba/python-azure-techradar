@@ -1,0 +1,8 @@
+[
+    "Microsoft.AlertsManagement/managedInstances/databases/backupLongTermRetentionPolicies",
+    "Microsoft.AlertsManagement/managedInstances/databases/backupShortTermRetentionPolicies",
+    "Microsoft.AlertsManagement/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
+    "Microsoft.AlertsManagement/managedInstances/databases/securityAlertPolicies",
+    "Microsoft.AlertsManagement/managedInstances/databases/vulnerabilityAssessments",
+    "Microsoft.AlertsManagement/managedInstances/databases/vulnerabilityAssessments/rules/baselines"
+]

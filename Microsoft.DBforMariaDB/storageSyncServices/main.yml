@@ -1,0 +1,51 @@
+registeredServers:
+  path: Microsoft.DBforMariaDB/storageSyncServices/registeredServers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/storageSyncServices/registeredServers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+syncGroups:
+  path: Microsoft.DBforMariaDB/storageSyncServices/syncGroups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/storageSyncServices/syncGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+workflows:
+  path: Microsoft.DBforMariaDB/storageSyncServices/workflows
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/storageSyncServices/workflows
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

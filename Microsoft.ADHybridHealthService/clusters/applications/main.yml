@@ -1,0 +1,17 @@
+services:
+  path: Microsoft.ADHybridHealthService/clusters/applications/services
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/clusters/applications/services
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

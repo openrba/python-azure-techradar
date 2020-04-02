@@ -1,0 +1,8 @@
+[
+    "Microsoft.DBforMySQL/Vaults/backupFabrics/backupProtectionIntent",
+    "Microsoft.DBforMySQL/Vaults/backupFabrics/protectionContainers",
+    "Microsoft.DBforMySQL/Vaults/backupFabrics/protectionContainers/protectedItems",
+    "Microsoft.DBforMySQL/Vaults/backupPolicies",
+    "Microsoft.DBforMySQL/Vaults/backupstorageconfig",
+    "Microsoft.DBforMySQL/Vaults/extendedInformation"
+]

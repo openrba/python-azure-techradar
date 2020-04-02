@@ -1,0 +1,51 @@
+description:
+  path: Microsoft.ApiManagement/service/apis/tagDescriptions/description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/tagDescriptions/description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+externalDocsDescription:
+  path: Microsoft.ApiManagement/service/apis/tagDescriptions/externalDocsDescription
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/tagDescriptions/externalDocsDescription
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+externalDocsUrl:
+  path: Microsoft.ApiManagement/service/apis/tagDescriptions/externalDocsUrl
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/tagDescriptions/externalDocsUrl
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

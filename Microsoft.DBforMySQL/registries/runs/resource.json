@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMySQL/registries/runs/cancel",
+    "Microsoft.DBforMySQL/registries/runs/listLogSasUrl"
+]

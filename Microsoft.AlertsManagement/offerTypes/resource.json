@@ -1,0 +1,8 @@
+[
+    "Microsoft.AlertsManagement/offerTypes/publishers",
+    "Microsoft.AlertsManagement/offerTypes/publishers/offers",
+    "Microsoft.AlertsManagement/offerTypes/publishers/offers/plans",
+    "Microsoft.AlertsManagement/offerTypes/publishers/offers/plans/agreements",
+    "Microsoft.AlertsManagement/offerTypes/publishers/offers/plans/configs",
+    "Microsoft.AlertsManagement/offerTypes/publishers/offers/plans/configs/importImage"
+]

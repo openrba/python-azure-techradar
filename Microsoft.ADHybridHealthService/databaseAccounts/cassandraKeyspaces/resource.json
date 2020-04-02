@@ -1,0 +1,5 @@
+[
+    "Microsoft.ADHybridHealthService/databaseAccounts/cassandraKeyspaces/tables",
+    "Microsoft.ADHybridHealthService/databaseAccounts/cassandraKeyspaces/tables/throughputSettings",
+    "Microsoft.ADHybridHealthService/databaseAccounts/cassandraKeyspaces/throughputSettings"
+]

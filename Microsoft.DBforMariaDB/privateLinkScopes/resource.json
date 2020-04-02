@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMariaDB/privateLinkScopes/privateEndpointConnectionProxies",
+    "Microsoft.DBforMariaDB/privateLinkScopes/privateEndpointConnections",
+    "Microsoft.DBforMariaDB/privateLinkScopes/scopedResources"
+]

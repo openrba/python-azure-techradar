@@ -1,0 +1,22 @@
+[
+    "Microsoft.Advisor/automationAccounts/certificates",
+    "Microsoft.Advisor/automationAccounts/compilationjobs",
+    "Microsoft.Advisor/automationAccounts/configurations",
+    "Microsoft.Advisor/automationAccounts/connectionTypes",
+    "Microsoft.Advisor/automationAccounts/connections",
+    "Microsoft.Advisor/automationAccounts/credentials",
+    "Microsoft.Advisor/automationAccounts/jobSchedules",
+    "Microsoft.Advisor/automationAccounts/jobs",
+    "Microsoft.Advisor/automationAccounts/modules",
+    "Microsoft.Advisor/automationAccounts/nodeConfigurations",
+    "Microsoft.Advisor/automationAccounts/privateEndpointConnectionProxies",
+    "Microsoft.Advisor/automationAccounts/privateEndpointConnections",
+    "Microsoft.Advisor/automationAccounts/privateLinkResources",
+    "Microsoft.Advisor/automationAccounts/python2Packages",
+    "Microsoft.Advisor/automationAccounts/runbooks",
+    "Microsoft.Advisor/automationAccounts/schedules",
+    "Microsoft.Advisor/automationAccounts/softwareUpdateConfigurations",
+    "Microsoft.Advisor/automationAccounts/variables",
+    "Microsoft.Advisor/automationAccounts/watchers",
+    "Microsoft.Advisor/automationAccounts/webhooks"
+]

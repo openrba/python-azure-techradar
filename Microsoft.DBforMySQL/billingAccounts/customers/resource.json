@@ -1,0 +1,9 @@
+[
+    "Microsoft.DBforMySQL/billingAccounts/customers/billingPermissions",
+    "Microsoft.DBforMySQL/billingAccounts/customers/billingSubscriptions",
+    "Microsoft.DBforMySQL/billingAccounts/customers/initiateTransfer",
+    "Microsoft.DBforMySQL/billingAccounts/customers/policies",
+    "Microsoft.DBforMySQL/billingAccounts/customers/products",
+    "Microsoft.DBforMySQL/billingAccounts/customers/transactions",
+    "Microsoft.DBforMySQL/billingAccounts/customers/transfers"
+]

@@ -1,0 +1,68 @@
+Alerts:
+  path: Microsoft.DBforMySQL/ExternalSubscriptions/Alerts
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/ExternalSubscriptions/Alerts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Dimensions:
+  path: Microsoft.DBforMySQL/ExternalSubscriptions/Dimensions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/ExternalSubscriptions/Dimensions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Forecast:
+  path: Microsoft.DBforMySQL/ExternalSubscriptions/Forecast
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/ExternalSubscriptions/Forecast
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Query:
+  path: Microsoft.DBforMySQL/ExternalSubscriptions/Query
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/ExternalSubscriptions/Query
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

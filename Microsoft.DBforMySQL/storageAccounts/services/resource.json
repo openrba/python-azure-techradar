@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMySQL/storageAccounts/services/diagnosticSettings",
+    "Microsoft.DBforMySQL/storageAccounts/services/metricDefinitions",
+    "Microsoft.DBforMySQL/storageAccounts/services/metrics"
+]

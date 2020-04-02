@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMariaDB/networkWatchers/connectionMonitors",
+    "Microsoft.DBforMariaDB/networkWatchers/flowLogs",
+    "Microsoft.DBforMariaDB/networkWatchers/packetCaptures",
+    "Microsoft.DBforMariaDB/networkWatchers/pingMeshes"
+]

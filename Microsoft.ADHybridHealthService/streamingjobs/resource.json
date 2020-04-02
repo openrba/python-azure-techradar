@@ -1,0 +1,6 @@
+[
+    "Microsoft.ADHybridHealthService/streamingjobs/functions",
+    "Microsoft.ADHybridHealthService/streamingjobs/inputs",
+    "Microsoft.ADHybridHealthService/streamingjobs/outputs",
+    "Microsoft.ADHybridHealthService/streamingjobs/transformations"
+]

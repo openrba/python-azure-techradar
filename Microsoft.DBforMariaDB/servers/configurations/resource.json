@@ -1,0 +1,8 @@
+[
+    "Microsoft.DBforMariaDB/servers/configurations/allowedValues",
+    "Microsoft.DBforMariaDB/servers/configurations/dataType",
+    "Microsoft.DBforMariaDB/servers/configurations/defaultValue",
+    "Microsoft.DBforMariaDB/servers/configurations/description",
+    "Microsoft.DBforMariaDB/servers/configurations/source",
+    "Microsoft.DBforMariaDB/servers/configurations/value"
+]

@@ -1,0 +1,119 @@
+contentFormat:
+  path: Microsoft.ApiManagement/service/apis/operations/policies/contentFormat
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/policies/contentFormat
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+format:
+  path: Microsoft.ApiManagement/service/apis/operations/policies/format
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/policies/format
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policy.contentFormat:
+  path: Microsoft.ApiManagement/service/apis/operations/policies/policy.contentFormat
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/policies/policy.contentFormat
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policy.format:
+  path: Microsoft.ApiManagement/service/apis/operations/policies/policy.format
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/policies/policy.format
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policy.policyContent:
+  path: Microsoft.ApiManagement/service/apis/operations/policies/policy.policyContent
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/policies/policy.policyContent
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policy.value:
+  path: Microsoft.ApiManagement/service/apis/operations/policies/policy.value
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/policies/policy.value
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policyContent:
+  path: Microsoft.ApiManagement/service/apis/operations/policies/policyContent
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/policies/policyContent
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

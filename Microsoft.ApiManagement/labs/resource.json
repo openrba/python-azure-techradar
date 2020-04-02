@@ -1,0 +1,20 @@
+[
+    "Microsoft.ApiManagement/labs/artifactSources",
+    "Microsoft.ApiManagement/labs/costs",
+    "Microsoft.ApiManagement/labs/customImages",
+    "Microsoft.ApiManagement/labs/environments",
+    "Microsoft.ApiManagement/labs/formulas",
+    "Microsoft.ApiManagement/labs/notificationChannels",
+    "Microsoft.ApiManagement/labs/policySets/policies",
+    "Microsoft.ApiManagement/labs/schedules",
+    "Microsoft.ApiManagement/labs/serviceRunners",
+    "Microsoft.ApiManagement/labs/users",
+    "Microsoft.ApiManagement/labs/users/disks",
+    "Microsoft.ApiManagement/labs/users/environments",
+    "Microsoft.ApiManagement/labs/users/secrets",
+    "Microsoft.ApiManagement/labs/users/serviceFabrics",
+    "Microsoft.ApiManagement/labs/users/serviceFabrics/schedules",
+    "Microsoft.ApiManagement/labs/virtualMachines",
+    "Microsoft.ApiManagement/labs/virtualMachines/schedules",
+    "Microsoft.ApiManagement/labs/virtualNetworks"
+]

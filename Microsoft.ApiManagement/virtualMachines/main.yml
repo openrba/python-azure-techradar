@@ -1,0 +1,68 @@
+diagnosticSettings:
+  path: Microsoft.ApiManagement/virtualMachines/diagnosticSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/virtualMachines/diagnosticSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extensions:
+  path: Microsoft.ApiManagement/virtualMachines/extensions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/virtualMachines/extensions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.ApiManagement/virtualMachines/metricDefinitions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/virtualMachines/metricDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.ApiManagement/virtualMachines/metrics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/virtualMachines/metrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

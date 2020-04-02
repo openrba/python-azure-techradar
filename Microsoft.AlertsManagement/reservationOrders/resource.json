@@ -1,0 +1,11 @@
+[
+    "Microsoft.AlertsManagement/reservationOrders/availableScopes",
+    "Microsoft.AlertsManagement/reservationOrders/calculateRefund",
+    "Microsoft.AlertsManagement/reservationOrders/merge",
+    "Microsoft.AlertsManagement/reservationOrders/reservations",
+    "Microsoft.AlertsManagement/reservationOrders/reservations/availableScopes",
+    "Microsoft.AlertsManagement/reservationOrders/reservations/revisions",
+    "Microsoft.AlertsManagement/reservationOrders/return",
+    "Microsoft.AlertsManagement/reservationOrders/split",
+    "Microsoft.AlertsManagement/reservationOrders/swap"
+]

@@ -1,0 +1,374 @@
+delegation.subscriptions:
+  path: Microsoft.ApiManagement/service/portalsettings/delegation.subscriptions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/delegation.subscriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+delegation.subscriptions.enabled:
+  path: Microsoft.ApiManagement/service/portalsettings/delegation.subscriptions.enabled
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/delegation.subscriptions.enabled
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+delegation.url:
+  path: Microsoft.ApiManagement/service/portalsettings/delegation.url
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/delegation.url
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+delegation.userRegistration:
+  path: Microsoft.ApiManagement/service/portalsettings/delegation.userRegistration
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/delegation.userRegistration
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+delegation.userRegistration.enabled:
+  path: Microsoft.ApiManagement/service/portalsettings/delegation.userRegistration.enabled
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/delegation.userRegistration.enabled
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+delegation.validationKey:
+  path: Microsoft.ApiManagement/service/portalsettings/delegation.validationKey
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/delegation.validationKey
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enabled:
+  path: Microsoft.ApiManagement/service/portalsettings/enabled
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/enabled
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+signin.enabled:
+  path: Microsoft.ApiManagement/service/portalsettings/signin.enabled
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/signin.enabled
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+signup.termsOfService:
+  path: Microsoft.ApiManagement/service/portalsettings/signup.termsOfService
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/signup.termsOfService
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+signup.termsOfService.consentRequired:
+  path: Microsoft.ApiManagement/service/portalsettings/signup.termsOfService.consentRequired
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/signup.termsOfService.consentRequired
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+signup.termsOfService.enabled:
+  path: Microsoft.ApiManagement/service/portalsettings/signup.termsOfService.enabled
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/signup.termsOfService.enabled
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+signup.termsOfService.text:
+  path: Microsoft.ApiManagement/service/portalsettings/signup.termsOfService.text
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/signup.termsOfService.text
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subscriptions:
+  path: Microsoft.ApiManagement/service/portalsettings/subscriptions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/subscriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subscriptions.enabled:
+  path: Microsoft.ApiManagement/service/portalsettings/subscriptions.enabled
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/subscriptions.enabled
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+termsOfService:
+  path: Microsoft.ApiManagement/service/portalsettings/termsOfService
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/termsOfService
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+termsOfService.consentRequired:
+  path: Microsoft.ApiManagement/service/portalsettings/termsOfService.consentRequired
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/termsOfService.consentRequired
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+termsOfService.enabled:
+  path: Microsoft.ApiManagement/service/portalsettings/termsOfService.enabled
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/termsOfService.enabled
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+termsOfService.text:
+  path: Microsoft.ApiManagement/service/portalsettings/termsOfService.text
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/termsOfService.text
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+url:
+  path: Microsoft.ApiManagement/service/portalsettings/url
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/url
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+userRegistration:
+  path: Microsoft.ApiManagement/service/portalsettings/userRegistration
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/userRegistration
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+userRegistration.enabled:
+  path: Microsoft.ApiManagement/service/portalsettings/userRegistration.enabled
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/userRegistration.enabled
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+validationKey:
+  path: Microsoft.ApiManagement/service/portalsettings/validationKey
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/portalsettings/validationKey
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

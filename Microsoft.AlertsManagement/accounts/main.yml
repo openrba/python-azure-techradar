@@ -1,0 +1,170 @@
+computePolicies:
+  path: Microsoft.AlertsManagement/accounts/computePolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/accounts/computePolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataLakeStoreAccounts:
+  path: Microsoft.AlertsManagement/accounts/dataLakeStoreAccounts
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/accounts/dataLakeStoreAccounts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.AlertsManagement/accounts/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/accounts/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+firewallRules:
+  path: Microsoft.AlertsManagement/accounts/firewallRules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/accounts/firewallRules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateAtlases:
+  path: Microsoft.AlertsManagement/accounts/privateAtlases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/accounts/privateAtlases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+shares:
+  path: Microsoft.AlertsManagement/accounts/shares
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/accounts/shares
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sharesubscriptions:
+  path: Microsoft.AlertsManagement/accounts/sharesubscriptions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/accounts/sharesubscriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageAccounts:
+  path: Microsoft.AlertsManagement/accounts/storageAccounts
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/accounts/storageAccounts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+trustedIdProviders:
+  path: Microsoft.AlertsManagement/accounts/trustedIdProviders
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/accounts/trustedIdProviders
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkRules:
+  path: Microsoft.AlertsManagement/accounts/virtualNetworkRules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/accounts/virtualNetworkRules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

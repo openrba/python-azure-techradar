@@ -1,0 +1,7 @@
+[
+    "Microsoft.ApiManagement/Locations/OperationStatuses",
+    "Microsoft.ApiManagement/Locations/OperationTypes",
+    "Microsoft.ApiManagement/Locations/availabilityGroupListenerOperationResults",
+    "Microsoft.ApiManagement/Locations/sqlVirtualMachineGroupOperationResults",
+    "Microsoft.ApiManagement/Locations/sqlVirtualMachineOperationResults"
+]

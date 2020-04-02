@@ -1,0 +1,4 @@
+[
+    "Microsoft.Advisor/dataFactories/diagnosticSettings",
+    "Microsoft.Advisor/dataFactories/metricDefinitions"
+]

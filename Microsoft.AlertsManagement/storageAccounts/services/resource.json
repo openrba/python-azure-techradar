@@ -1,0 +1,5 @@
+[
+    "Microsoft.AlertsManagement/storageAccounts/services/diagnosticSettings",
+    "Microsoft.AlertsManagement/storageAccounts/services/metricDefinitions",
+    "Microsoft.AlertsManagement/storageAccounts/services/metrics"
+]

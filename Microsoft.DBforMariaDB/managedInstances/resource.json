@@ -1,0 +1,19 @@
+[
+    "Microsoft.DBforMariaDB/managedInstances/administrators",
+    "Microsoft.DBforMariaDB/managedInstances/databases",
+    "Microsoft.DBforMariaDB/managedInstances/databases/backupLongTermRetentionPolicies",
+    "Microsoft.DBforMariaDB/managedInstances/databases/backupShortTermRetentionPolicies",
+    "Microsoft.DBforMariaDB/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
+    "Microsoft.DBforMariaDB/managedInstances/databases/securityAlertPolicies",
+    "Microsoft.DBforMariaDB/managedInstances/databases/vulnerabilityAssessments",
+    "Microsoft.DBforMariaDB/managedInstances/databases/vulnerabilityAssessments/rules/baselines",
+    "Microsoft.DBforMariaDB/managedInstances/encryptionProtector",
+    "Microsoft.DBforMariaDB/managedInstances/keys",
+    "Microsoft.DBforMariaDB/managedInstances/metricDefinitions",
+    "Microsoft.DBforMariaDB/managedInstances/metrics",
+    "Microsoft.DBforMariaDB/managedInstances/recoverableDatabases",
+    "Microsoft.DBforMariaDB/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies",
+    "Microsoft.DBforMariaDB/managedInstances/securityAlertPolicies",
+    "Microsoft.DBforMariaDB/managedInstances/tdeCertificates",
+    "Microsoft.DBforMariaDB/managedInstances/vulnerabilityAssessments"
+]

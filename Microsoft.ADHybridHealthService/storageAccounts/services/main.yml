@@ -1,0 +1,51 @@
+diagnosticSettings:
+  path: Microsoft.ADHybridHealthService/storageAccounts/services/diagnosticSettings
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/storageAccounts/services/diagnosticSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.ADHybridHealthService/storageAccounts/services/metricDefinitions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/storageAccounts/services/metricDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.ADHybridHealthService/storageAccounts/services/metrics
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/storageAccounts/services/metrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

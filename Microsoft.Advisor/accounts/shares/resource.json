@@ -1,0 +1,6 @@
+[
+    "Microsoft.Advisor/accounts/shares/datasets",
+    "Microsoft.Advisor/accounts/shares/invitations",
+    "Microsoft.Advisor/accounts/shares/providersharesubscriptions",
+    "Microsoft.Advisor/accounts/shares/synchronizationSettings"
+]

@@ -1,0 +1,14 @@
+[
+    "Microsoft.Advisor/sites/slots/config",
+    "Microsoft.Advisor/sites/slots/domainownershipidentifiers",
+    "Microsoft.Advisor/sites/slots/eventGridFilters",
+    "Microsoft.Advisor/sites/slots/hostNameBindings",
+    "Microsoft.Advisor/sites/slots/hybridconnection",
+    "Microsoft.Advisor/sites/slots/hybridconnectionnamespaces/relays",
+    "Microsoft.Advisor/sites/slots/networkConfig",
+    "Microsoft.Advisor/sites/slots/premieraddons",
+    "Microsoft.Advisor/sites/slots/publiccertificates",
+    "Microsoft.Advisor/sites/slots/sourcecontrols",
+    "Microsoft.Advisor/sites/slots/virtualnetworkconnections",
+    "Microsoft.Advisor/sites/slots/virtualnetworkconnections/gateways"
+]

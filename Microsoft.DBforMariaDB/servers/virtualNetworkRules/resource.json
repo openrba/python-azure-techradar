@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMariaDB/servers/virtualNetworkRules/ignoreMissingVnetServiceEndpoint",
+    "Microsoft.DBforMariaDB/servers/virtualNetworkRules/state",
+    "Microsoft.DBforMariaDB/servers/virtualNetworkRules/virtualNetworkSubnetId"
+]

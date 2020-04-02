@@ -1,0 +1,1241 @@
+description:
+  path: Microsoft.ApiManagement/service/apis/operations/description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+displayName:
+  path: Microsoft.ApiManagement/service/apis/operations/displayName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/displayName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+method:
+  path: Microsoft.ApiManagement/service/apis/operations/method
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/method
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+method.externalDocs:
+  path: Microsoft.ApiManagement/service/apis/operations/method.externalDocs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/method.externalDocs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policies:
+  path: Microsoft.ApiManagement/service/apis/operations/policies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/policies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request:
+  path: Microsoft.ApiManagement/service/apis/operations/request
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.description:
+  path: Microsoft.ApiManagement/service/apis/operations/request.description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.headers:
+  path: Microsoft.ApiManagement/service/apis/operations/request.headers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.headers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.headers[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/request.headers[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.headers[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.headers[*].defaultValue:
+  path: Microsoft.ApiManagement/service/apis/operations/request.headers[*].defaultValue
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.headers[*].defaultValue
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.headers[*].description:
+  path: Microsoft.ApiManagement/service/apis/operations/request.headers[*].description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.headers[*].description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.headers[*].name:
+  path: Microsoft.ApiManagement/service/apis/operations/request.headers[*].name
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.headers[*].name
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.headers[*].type:
+  path: Microsoft.ApiManagement/service/apis/operations/request.headers[*].type
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.headers[*].type
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.headers[*].values:
+  path: Microsoft.ApiManagement/service/apis/operations/request.headers[*].values
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.headers[*].values
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.headers[*].values[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/request.headers[*].values[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.headers[*].values[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.queryParameters:
+  path: Microsoft.ApiManagement/service/apis/operations/request.queryParameters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.queryParameters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.queryParameters[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.queryParameters[*].defaultValue:
+  path: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].defaultValue
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].defaultValue
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.queryParameters[*].description:
+  path: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.queryParameters[*].name:
+  path: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].name
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].name
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.queryParameters[*].type:
+  path: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].type
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].type
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.queryParameters[*].values:
+  path: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].values
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].values
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.queryParameters[*].values[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].values[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.queryParameters[*].values[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*].contentType:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*].contentType
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*].contentType
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*].formParameters:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*].formParameters[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*].formParameters[*].defaultValue:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].defaultValue
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].defaultValue
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*].formParameters[*].description:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*].formParameters[*].name:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].name
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].name
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*].formParameters[*].type:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].type
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].type
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*].formParameters[*].values:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].values
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].values
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*].formParameters[*].values[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].values[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*].formParameters[*].values[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*].sample:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*].sample
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*].sample
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*].schemaId:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*].schemaId
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*].schemaId
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+request.representations[*].typeName:
+  path: Microsoft.ApiManagement/service/apis/operations/request.representations[*].typeName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/request.representations[*].typeName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses:
+  path: Microsoft.ApiManagement/service/apis/operations/responses
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].description:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].headers:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].headers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].headers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].headers[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].headers[*].defaultValue:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].defaultValue
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].defaultValue
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].headers[*].description:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].headers[*].name:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].name
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].name
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].headers[*].type:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].type
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].type
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].headers[*].values:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].values
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].values
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].headers[*].values[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].values[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].values[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*].contentType:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].contentType
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].contentType
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*].formParameters:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*].formParameters[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*].formParameters[*].defaultValue:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].defaultValue
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].defaultValue
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*].formParameters[*].description:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*].formParameters[*].name:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].name
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].name
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*].formParameters[*].type:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].type
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].type
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*].formParameters[*].values:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].values
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].values
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*].formParameters[*].values[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].values[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].formParameters[*].values[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*].sample:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].sample
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].sample
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*].schemaId:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].schemaId
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].schemaId
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].representations[*].typeName:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].typeName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].typeName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+responses[*].statusCode:
+  path: Microsoft.ApiManagement/service/apis/operations/responses[*].statusCode
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/responses[*].statusCode
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tags:
+  path: Microsoft.ApiManagement/service/apis/operations/tags
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/tags
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+templateParameters:
+  path: Microsoft.ApiManagement/service/apis/operations/templateParameters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/templateParameters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+templateParameters[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/templateParameters[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/templateParameters[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+templateParameters[*].defaultValue:
+  path: Microsoft.ApiManagement/service/apis/operations/templateParameters[*].defaultValue
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/templateParameters[*].defaultValue
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+templateParameters[*].description:
+  path: Microsoft.ApiManagement/service/apis/operations/templateParameters[*].description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/templateParameters[*].description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+templateParameters[*].name:
+  path: Microsoft.ApiManagement/service/apis/operations/templateParameters[*].name
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/templateParameters[*].name
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+templateParameters[*].type:
+  path: Microsoft.ApiManagement/service/apis/operations/templateParameters[*].type
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/templateParameters[*].type
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+templateParameters[*].values:
+  path: Microsoft.ApiManagement/service/apis/operations/templateParameters[*].values
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/templateParameters[*].values
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+templateParameters[*].values[*]:
+  path: Microsoft.ApiManagement/service/apis/operations/templateParameters[*].values[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/templateParameters[*].values[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+urlTemplate:
+  path: Microsoft.ApiManagement/service/apis/operations/urlTemplate
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations/urlTemplate
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

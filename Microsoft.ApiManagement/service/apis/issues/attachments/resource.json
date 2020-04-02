@@ -1,0 +1,5 @@
+[
+    "Microsoft.ApiManagement/service/apis/issues/attachments/content",
+    "Microsoft.ApiManagement/service/apis/issues/attachments/contentFormat",
+    "Microsoft.ApiManagement/service/apis/issues/attachments/title"
+]

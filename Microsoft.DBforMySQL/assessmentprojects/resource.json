@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMySQL/assessmentprojects/groups",
+    "Microsoft.DBforMySQL/assessmentprojects/groups/assessments",
+    "Microsoft.DBforMySQL/assessmentprojects/hypervcollectors",
+    "Microsoft.DBforMySQL/assessmentprojects/vmwarecollectors"
+]

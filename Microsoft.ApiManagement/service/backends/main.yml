@@ -1,0 +1,595 @@
+credentials:
+  path: Microsoft.ApiManagement/service/backends/credentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/credentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+credentials.authorization:
+  path: Microsoft.ApiManagement/service/backends/credentials.authorization
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/credentials.authorization
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+credentials.authorization.parameter:
+  path: Microsoft.ApiManagement/service/backends/credentials.authorization.parameter
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/credentials.authorization.parameter
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+credentials.authorization.scheme:
+  path: Microsoft.ApiManagement/service/backends/credentials.authorization.scheme
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/credentials.authorization.scheme
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+credentials.certificate:
+  path: Microsoft.ApiManagement/service/backends/credentials.certificate
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/credentials.certificate
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+credentials.certificate[*]:
+  path: Microsoft.ApiManagement/service/backends/credentials.certificate[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/credentials.certificate[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+credentials.header:
+  path: Microsoft.ApiManagement/service/backends/credentials.header
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/credentials.header
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+credentials.query:
+  path: Microsoft.ApiManagement/service/backends/credentials.query
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/credentials.query
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+description:
+  path: Microsoft.ApiManagement/service/backends/description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+protocol:
+  path: Microsoft.ApiManagement/service/backends/protocol
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/protocol
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+proxy:
+  path: Microsoft.ApiManagement/service/backends/proxy
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/proxy
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+proxy.externalDocs:
+  path: Microsoft.ApiManagement/service/backends/proxy.externalDocs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/proxy.externalDocs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+proxy.password:
+  path: Microsoft.ApiManagement/service/backends/proxy.password
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/proxy.password
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+proxy.url:
+  path: Microsoft.ApiManagement/service/backends/proxy.url
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/proxy.url
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+proxy.username:
+  path: Microsoft.ApiManagement/service/backends/proxy.username
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/proxy.username
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+resourceId:
+  path: Microsoft.ApiManagement/service/backends/resourceId
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/resourceId
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabricCluster:
+  path: Microsoft.ApiManagement/service/backends/serviceFabricCluster
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/serviceFabricCluster
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabricCluster.clientCertificatethumbprint:
+  path: Microsoft.ApiManagement/service/backends/serviceFabricCluster.clientCertificatethumbprint
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/serviceFabricCluster.clientCertificatethumbprint
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabricCluster.managementEndpoints:
+  path: Microsoft.ApiManagement/service/backends/serviceFabricCluster.managementEndpoints
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/serviceFabricCluster.managementEndpoints
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabricCluster.managementEndpoints[*]:
+  path: Microsoft.ApiManagement/service/backends/serviceFabricCluster.managementEndpoints[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/serviceFabricCluster.managementEndpoints[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabricCluster.maxPartitionResolutionRetries:
+  path: Microsoft.ApiManagement/service/backends/serviceFabricCluster.maxPartitionResolutionRetries
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/serviceFabricCluster.maxPartitionResolutionRetries
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabricCluster.serverCertificateThumbprints:
+  path: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverCertificateThumbprints
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverCertificateThumbprints
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabricCluster.serverCertificateThumbprints[*]:
+  path: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverCertificateThumbprints[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverCertificateThumbprints[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabricCluster.serverX509Names:
+  path: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabricCluster.serverX509Names[*]:
+  path: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabricCluster.serverX509Names[*].externalDocs:
+  path: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names[*].externalDocs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names[*].externalDocs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabricCluster.serverX509Names[*].issuerCertificateThumbprint:
+  path: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names[*].issuerCertificateThumbprint
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names[*].issuerCertificateThumbprint
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabricCluster.serverX509Names[*].name:
+  path: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names[*].name
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/serviceFabricCluster.serverX509Names[*].name
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+skipCertificateChainValidation:
+  path: Microsoft.ApiManagement/service/backends/skipCertificateChainValidation
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/skipCertificateChainValidation
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+skipCertificateNameValidation:
+  path: Microsoft.ApiManagement/service/backends/skipCertificateNameValidation
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/skipCertificateNameValidation
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+title:
+  path: Microsoft.ApiManagement/service/backends/title
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/title
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tls:
+  path: Microsoft.ApiManagement/service/backends/tls
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/tls
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tls.validateCertificateChain:
+  path: Microsoft.ApiManagement/service/backends/tls.validateCertificateChain
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/tls.validateCertificateChain
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tls.validateCertificateName:
+  path: Microsoft.ApiManagement/service/backends/tls.validateCertificateName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/tls.validateCertificateName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+url:
+  path: Microsoft.ApiManagement/service/backends/url
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/backends/url
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

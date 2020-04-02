@@ -1,0 +1,782 @@
+apiRevision:
+  path: Microsoft.ApiManagement/service/apis/apiRevision
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiRevision
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiRevisionDescription:
+  path: Microsoft.ApiManagement/service/apis/apiRevisionDescription
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiRevisionDescription
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiVersion:
+  path: Microsoft.ApiManagement/service/apis/apiVersion
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiVersion
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiVersionDescription:
+  path: Microsoft.ApiManagement/service/apis/apiVersionDescription
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiVersionDescription
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiVersionSet:
+  path: Microsoft.ApiManagement/service/apis/apiVersionSet
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiVersionSet
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiVersionSet.description:
+  path: Microsoft.ApiManagement/service/apis/apiVersionSet.description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiVersionSet.description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiVersionSet.displayName:
+  path: Microsoft.ApiManagement/service/apis/apiVersionSet.displayName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiVersionSet.displayName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiVersionSet.id:
+  path: Microsoft.ApiManagement/service/apis/apiVersionSet.id
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiVersionSet.id
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiVersionSet.name:
+  path: Microsoft.ApiManagement/service/apis/apiVersionSet.name
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiVersionSet.name
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiVersionSet.type:
+  path: Microsoft.ApiManagement/service/apis/apiVersionSet.type
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiVersionSet.type
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiVersionSet.versionHeaderName:
+  path: Microsoft.ApiManagement/service/apis/apiVersionSet.versionHeaderName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiVersionSet.versionHeaderName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiVersionSet.versionQueryName:
+  path: Microsoft.ApiManagement/service/apis/apiVersionSet.versionQueryName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiVersionSet.versionQueryName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiVersionSet.versioningScheme:
+  path: Microsoft.ApiManagement/service/apis/apiVersionSet.versioningScheme
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiVersionSet.versioningScheme
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apiVersionSetId:
+  path: Microsoft.ApiManagement/service/apis/apiVersionSetId
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/apiVersionSetId
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+authenticationSettings:
+  path: Microsoft.ApiManagement/service/apis/authenticationSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/authenticationSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+authenticationSettings.oAuth2:
+  path: Microsoft.ApiManagement/service/apis/authenticationSettings.oAuth2
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/authenticationSettings.oAuth2
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+authenticationSettings.oAuth2.authorizationServerId:
+  path: Microsoft.ApiManagement/service/apis/authenticationSettings.oAuth2.authorizationServerId
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/authenticationSettings.oAuth2.authorizationServerId
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+authenticationSettings.oAuth2.scope:
+  path: Microsoft.ApiManagement/service/apis/authenticationSettings.oAuth2.scope
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/authenticationSettings.oAuth2.scope
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+authenticationSettings.openid:
+  path: Microsoft.ApiManagement/service/apis/authenticationSettings.openid
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/authenticationSettings.openid
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+authenticationSettings.openid.bearerTokenSendingMethods:
+  path: Microsoft.ApiManagement/service/apis/authenticationSettings.openid.bearerTokenSendingMethods
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/authenticationSettings.openid.bearerTokenSendingMethods
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+authenticationSettings.openid.bearerTokenSendingMethods[*]:
+  path: Microsoft.ApiManagement/service/apis/authenticationSettings.openid.bearerTokenSendingMethods[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/authenticationSettings.openid.bearerTokenSendingMethods[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+authenticationSettings.openid.openidProviderId:
+  path: Microsoft.ApiManagement/service/apis/authenticationSettings.openid.openidProviderId
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/authenticationSettings.openid.openidProviderId
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+authenticationSettings.subscriptionKeyRequired:
+  path: Microsoft.ApiManagement/service/apis/authenticationSettings.subscriptionKeyRequired
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/authenticationSettings.subscriptionKeyRequired
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+description:
+  path: Microsoft.ApiManagement/service/apis/description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+diagnostics:
+  path: Microsoft.ApiManagement/service/apis/diagnostics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/diagnostics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+displayName:
+  path: Microsoft.ApiManagement/service/apis/displayName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/displayName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+isCurrent:
+  path: Microsoft.ApiManagement/service/apis/isCurrent
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/isCurrent
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+isOnline:
+  path: Microsoft.ApiManagement/service/apis/isOnline
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/isOnline
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+issues:
+  path: Microsoft.ApiManagement/service/apis/issues
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/issues
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operations:
+  path: Microsoft.ApiManagement/service/apis/operations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/operations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+path:
+  path: Microsoft.ApiManagement/service/apis/path
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/path
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policies:
+  path: Microsoft.ApiManagement/service/apis/policies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/policies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+protocols:
+  path: Microsoft.ApiManagement/service/apis/protocols
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/protocols
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+protocols[*]:
+  path: Microsoft.ApiManagement/service/apis/protocols[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/protocols[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+releases:
+  path: Microsoft.ApiManagement/service/apis/releases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/releases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.ApiManagement/service/apis/schemas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/schemas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceUrl:
+  path: Microsoft.ApiManagement/service/apis/serviceUrl
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/serviceUrl
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sourceApiId:
+  path: Microsoft.ApiManagement/service/apis/sourceApiId
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/sourceApiId
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subscriptionKeyParameterNames:
+  path: Microsoft.ApiManagement/service/apis/subscriptionKeyParameterNames
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/subscriptionKeyParameterNames
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subscriptionKeyParameterNames.example:
+  path: Microsoft.ApiManagement/service/apis/subscriptionKeyParameterNames.example
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/subscriptionKeyParameterNames.example
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subscriptionKeyParameterNames.header:
+  path: Microsoft.ApiManagement/service/apis/subscriptionKeyParameterNames.header
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/subscriptionKeyParameterNames.header
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subscriptionKeyParameterNames.query:
+  path: Microsoft.ApiManagement/service/apis/subscriptionKeyParameterNames.query
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/subscriptionKeyParameterNames.query
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subscriptionRequired:
+  path: Microsoft.ApiManagement/service/apis/subscriptionRequired
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/subscriptionRequired
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tagDescriptions:
+  path: Microsoft.ApiManagement/service/apis/tagDescriptions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/tagDescriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tags:
+  path: Microsoft.ApiManagement/service/apis/tags
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/tags
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+type:
+  path: Microsoft.ApiManagement/service/apis/type
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/type
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

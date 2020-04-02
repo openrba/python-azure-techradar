@@ -1,0 +1,170 @@
+billingSubscriptionMoveOperations:
+  path: Microsoft.Advisor/billingAccounts/invoiceSections/billingSubscriptionMoveOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/billingAccounts/invoiceSections/billingSubscriptionMoveOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingSubscriptions:
+  path: Microsoft.Advisor/billingAccounts/invoiceSections/billingSubscriptions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/billingAccounts/invoiceSections/billingSubscriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+elevate:
+  path: Microsoft.Advisor/billingAccounts/invoiceSections/elevate
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/billingAccounts/invoiceSections/elevate
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+initiateTransfer:
+  path: Microsoft.Advisor/billingAccounts/invoiceSections/initiateTransfer
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/billingAccounts/invoiceSections/initiateTransfer
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+patchOperations:
+  path: Microsoft.Advisor/billingAccounts/invoiceSections/patchOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/billingAccounts/invoiceSections/patchOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+productMoveOperations:
+  path: Microsoft.Advisor/billingAccounts/invoiceSections/productMoveOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/billingAccounts/invoiceSections/productMoveOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+productTransfersResults:
+  path: Microsoft.Advisor/billingAccounts/invoiceSections/productTransfersResults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/billingAccounts/invoiceSections/productTransfersResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+products:
+  path: Microsoft.Advisor/billingAccounts/invoiceSections/products
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/billingAccounts/invoiceSections/products
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transactions:
+  path: Microsoft.Advisor/billingAccounts/invoiceSections/transactions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/billingAccounts/invoiceSections/transactions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transfers:
+  path: Microsoft.Advisor/billingAccounts/invoiceSections/transfers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/billingAccounts/invoiceSections/transfers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

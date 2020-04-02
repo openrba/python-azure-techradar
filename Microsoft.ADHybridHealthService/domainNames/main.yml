@@ -1,0 +1,68 @@
+capabilities:
+  path: Microsoft.ADHybridHealthService/domainNames/capabilities
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/domainNames/capabilities
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+internalLoadBalancers:
+  path: Microsoft.ADHybridHealthService/domainNames/internalLoadBalancers
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/domainNames/internalLoadBalancers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceCertificates:
+  path: Microsoft.ADHybridHealthService/domainNames/serviceCertificates
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/domainNames/serviceCertificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+slots:
+  path: Microsoft.ADHybridHealthService/domainNames/slots
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/domainNames/slots
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMySQL/accounts/sharesubscriptions/consumerSourceDataSets",
+    "Microsoft.DBforMySQL/accounts/sharesubscriptions/datasetmappings",
+    "Microsoft.DBforMySQL/accounts/sharesubscriptions/triggers"
+]

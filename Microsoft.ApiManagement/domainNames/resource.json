@@ -1,0 +1,9 @@
+[
+    "Microsoft.ApiManagement/domainNames/capabilities",
+    "Microsoft.ApiManagement/domainNames/internalLoadBalancers",
+    "Microsoft.ApiManagement/domainNames/serviceCertificates",
+    "Microsoft.ApiManagement/domainNames/slots",
+    "Microsoft.ApiManagement/domainNames/slots/roles",
+    "Microsoft.ApiManagement/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.ApiManagement/domainNames/slots/roles/metrics"
+]

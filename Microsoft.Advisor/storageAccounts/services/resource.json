@@ -1,0 +1,5 @@
+[
+    "Microsoft.Advisor/storageAccounts/services/diagnosticSettings",
+    "Microsoft.Advisor/storageAccounts/services/metricDefinitions",
+    "Microsoft.Advisor/storageAccounts/services/metrics"
+]

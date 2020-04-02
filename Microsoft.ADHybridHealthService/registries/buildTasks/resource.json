@@ -1,0 +1,5 @@
+[
+    "Microsoft.ADHybridHealthService/registries/buildTasks/listSourceRepositoryProperties",
+    "Microsoft.ADHybridHealthService/registries/buildTasks/steps",
+    "Microsoft.ADHybridHealthService/registries/buildTasks/steps/listBuildArguments"
+]

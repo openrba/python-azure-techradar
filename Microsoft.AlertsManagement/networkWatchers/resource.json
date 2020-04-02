@@ -1,0 +1,6 @@
+[
+    "Microsoft.AlertsManagement/networkWatchers/connectionMonitors",
+    "Microsoft.AlertsManagement/networkWatchers/flowLogs",
+    "Microsoft.AlertsManagement/networkWatchers/packetCaptures",
+    "Microsoft.AlertsManagement/networkWatchers/pingMeshes"
+]

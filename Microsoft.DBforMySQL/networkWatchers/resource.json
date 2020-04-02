@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMySQL/networkWatchers/connectionMonitors",
+    "Microsoft.DBforMySQL/networkWatchers/flowLogs",
+    "Microsoft.DBforMySQL/networkWatchers/packetCaptures",
+    "Microsoft.DBforMySQL/networkWatchers/pingMeshes"
+]

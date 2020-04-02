@@ -1,0 +1,5 @@
+[
+    "Microsoft.AlertsManagement/databaseAccounts/mongodbDatabases/collections",
+    "Microsoft.AlertsManagement/databaseAccounts/mongodbDatabases/collections/throughputSettings",
+    "Microsoft.AlertsManagement/databaseAccounts/mongodbDatabases/throughputSettings"
+]

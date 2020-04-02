@@ -1,0 +1,9 @@
+[
+    "Microsoft.DBforMariaDB/billingAccounts/customers/billingPermissions",
+    "Microsoft.DBforMariaDB/billingAccounts/customers/billingSubscriptions",
+    "Microsoft.DBforMariaDB/billingAccounts/customers/initiateTransfer",
+    "Microsoft.DBforMariaDB/billingAccounts/customers/policies",
+    "Microsoft.DBforMariaDB/billingAccounts/customers/products",
+    "Microsoft.DBforMariaDB/billingAccounts/customers/transactions",
+    "Microsoft.DBforMariaDB/billingAccounts/customers/transfers"
+]

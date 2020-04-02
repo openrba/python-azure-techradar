@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMariaDB/databaseAccounts/sqlDatabases/containers/storedProcedures",
+    "Microsoft.DBforMariaDB/databaseAccounts/sqlDatabases/containers/throughputSettings",
+    "Microsoft.DBforMariaDB/databaseAccounts/sqlDatabases/containers/triggers",
+    "Microsoft.DBforMariaDB/databaseAccounts/sqlDatabases/containers/userDefinedFunctions"
+]

@@ -1,0 +1,5 @@
+[
+    "Microsoft.ADHybridHealthService/blueprints/artifacts",
+    "Microsoft.ADHybridHealthService/blueprints/versions",
+    "Microsoft.ADHybridHealthService/blueprints/versions/artifacts"
+]

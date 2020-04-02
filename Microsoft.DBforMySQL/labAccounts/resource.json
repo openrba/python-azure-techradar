@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMySQL/labAccounts/galleryImages",
+    "Microsoft.DBforMySQL/labAccounts/labs",
+    "Microsoft.DBforMySQL/labAccounts/labs/environmentSettings",
+    "Microsoft.DBforMySQL/labAccounts/labs/users"
+]

@@ -1,0 +1,51 @@
+contentType:
+  path: Microsoft.ApiManagement/service/apis/schemas/contentType
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/schemas/contentType
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+document:
+  path: Microsoft.ApiManagement/service/apis/schemas/document
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/schemas/document
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+document.value:
+  path: Microsoft.ApiManagement/service/apis/schemas/document.value
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/apis/schemas/document.value
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

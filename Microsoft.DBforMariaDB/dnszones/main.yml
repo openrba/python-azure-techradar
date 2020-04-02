@@ -1,0 +1,204 @@
+A:
+  path: Microsoft.DBforMariaDB/dnszones/A
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/dnszones/A
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+AAAA:
+  path: Microsoft.DBforMariaDB/dnszones/AAAA
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/dnszones/AAAA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+CAA:
+  path: Microsoft.DBforMariaDB/dnszones/CAA
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/dnszones/CAA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+CNAME:
+  path: Microsoft.DBforMariaDB/dnszones/CNAME
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/dnszones/CNAME
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+MX:
+  path: Microsoft.DBforMariaDB/dnszones/MX
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/dnszones/MX
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+NS:
+  path: Microsoft.DBforMariaDB/dnszones/NS
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/dnszones/NS
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+PTR:
+  path: Microsoft.DBforMariaDB/dnszones/PTR
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/dnszones/PTR
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+SOA:
+  path: Microsoft.DBforMariaDB/dnszones/SOA
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/dnszones/SOA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+SRV:
+  path: Microsoft.DBforMariaDB/dnszones/SRV
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/dnszones/SRV
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+TXT:
+  path: Microsoft.DBforMariaDB/dnszones/TXT
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/dnszones/TXT
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+all:
+  path: Microsoft.DBforMariaDB/dnszones/all
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/dnszones/all
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+recordsets:
+  path: Microsoft.DBforMariaDB/dnszones/recordsets
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/dnszones/recordsets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,14 @@
+[
+    "Microsoft.AlertsManagement/sites/slots/config",
+    "Microsoft.AlertsManagement/sites/slots/domainownershipidentifiers",
+    "Microsoft.AlertsManagement/sites/slots/eventGridFilters",
+    "Microsoft.AlertsManagement/sites/slots/hostNameBindings",
+    "Microsoft.AlertsManagement/sites/slots/hybridconnection",
+    "Microsoft.AlertsManagement/sites/slots/hybridconnectionnamespaces/relays",
+    "Microsoft.AlertsManagement/sites/slots/networkConfig",
+    "Microsoft.AlertsManagement/sites/slots/premieraddons",
+    "Microsoft.AlertsManagement/sites/slots/publiccertificates",
+    "Microsoft.AlertsManagement/sites/slots/sourcecontrols",
+    "Microsoft.AlertsManagement/sites/slots/virtualnetworkconnections",
+    "Microsoft.AlertsManagement/sites/slots/virtualnetworkconnections/gateways"
+]

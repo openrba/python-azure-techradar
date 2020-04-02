@@ -1,0 +1,5 @@
+[
+    "Microsoft.Advisor/clusters/databases/dataconnections",
+    "Microsoft.Advisor/clusters/databases/eventhubconnections",
+    "Microsoft.Advisor/clusters/databases/principalassignments"
+]

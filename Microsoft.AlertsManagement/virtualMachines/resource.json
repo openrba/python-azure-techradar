@@ -1,0 +1,6 @@
+[
+    "Microsoft.AlertsManagement/virtualMachines/diagnosticSettings",
+    "Microsoft.AlertsManagement/virtualMachines/extensions",
+    "Microsoft.AlertsManagement/virtualMachines/metricDefinitions",
+    "Microsoft.AlertsManagement/virtualMachines/metrics"
+]

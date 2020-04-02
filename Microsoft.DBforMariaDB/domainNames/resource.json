@@ -1,0 +1,9 @@
+[
+    "Microsoft.DBforMariaDB/domainNames/capabilities",
+    "Microsoft.DBforMariaDB/domainNames/internalLoadBalancers",
+    "Microsoft.DBforMariaDB/domainNames/serviceCertificates",
+    "Microsoft.DBforMariaDB/domainNames/slots",
+    "Microsoft.DBforMariaDB/domainNames/slots/roles",
+    "Microsoft.DBforMariaDB/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.DBforMariaDB/domainNames/slots/roles/metrics"
+]

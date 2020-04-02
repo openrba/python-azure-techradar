@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMariaDB/iotSecuritySolutions/analyticsModels/aggregatedAlerts",
+    "Microsoft.DBforMariaDB/iotSecuritySolutions/analyticsModels/aggregatedRecommendations"
+]

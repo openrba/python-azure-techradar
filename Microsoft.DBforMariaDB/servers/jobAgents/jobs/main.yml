@@ -1,0 +1,34 @@
+executions:
+  path: Microsoft.DBforMariaDB/servers/jobAgents/jobs/executions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/servers/jobAgents/jobs/executions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+steps:
+  path: Microsoft.DBforMariaDB/servers/jobAgents/jobs/steps
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/servers/jobAgents/jobs/steps
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

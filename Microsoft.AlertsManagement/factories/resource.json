@@ -1,0 +1,8 @@
+[
+    "Microsoft.AlertsManagement/factories/dataflows",
+    "Microsoft.AlertsManagement/factories/datasets",
+    "Microsoft.AlertsManagement/factories/integrationRuntimes",
+    "Microsoft.AlertsManagement/factories/linkedservices",
+    "Microsoft.AlertsManagement/factories/pipelines",
+    "Microsoft.AlertsManagement/factories/triggers"
+]

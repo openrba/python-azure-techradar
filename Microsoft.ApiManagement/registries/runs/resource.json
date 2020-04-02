@@ -1,0 +1,4 @@
+[
+    "Microsoft.ApiManagement/registries/runs/cancel",
+    "Microsoft.ApiManagement/registries/runs/listLogSasUrl"
+]

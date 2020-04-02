@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMySQL/accounts/shares/datasets",
+    "Microsoft.DBforMySQL/accounts/shares/invitations",
+    "Microsoft.DBforMySQL/accounts/shares/providersharesubscriptions",
+    "Microsoft.DBforMySQL/accounts/shares/synchronizationSettings"
+]

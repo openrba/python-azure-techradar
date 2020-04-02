@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMariaDB/registries/webhooks/getCallbackConfig",
+    "Microsoft.DBforMariaDB/registries/webhooks/listEvents",
+    "Microsoft.DBforMariaDB/registries/webhooks/ping"
+]

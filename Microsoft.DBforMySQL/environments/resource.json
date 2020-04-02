@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMySQL/environments/accessPolicies",
+    "Microsoft.DBforMySQL/environments/eventsources",
+    "Microsoft.DBforMySQL/environments/referenceDataSets"
+]

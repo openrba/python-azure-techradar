@@ -1,0 +1,5 @@
+[
+    "Microsoft.Advisor/databaseAccounts/mongodbDatabases/collections",
+    "Microsoft.Advisor/databaseAccounts/mongodbDatabases/collections/throughputSettings",
+    "Microsoft.Advisor/databaseAccounts/mongodbDatabases/throughputSettings"
+]

@@ -1,0 +1,4 @@
+[
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/products/transfer",
+    "Microsoft.ApiManagement/billingAccounts/invoiceSections/products/updateAutoRenew"
+]

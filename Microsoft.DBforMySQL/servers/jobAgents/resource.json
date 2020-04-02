@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMySQL/servers/jobAgents/jobs",
+    "Microsoft.DBforMySQL/servers/jobAgents/jobs/executions",
+    "Microsoft.DBforMySQL/servers/jobAgents/jobs/steps"
+]

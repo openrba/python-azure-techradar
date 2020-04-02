@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMariaDB/registries/buildTasks/listSourceRepositoryProperties",
+    "Microsoft.DBforMariaDB/registries/buildTasks/steps",
+    "Microsoft.DBforMariaDB/registries/buildTasks/steps/listBuildArguments"
+]

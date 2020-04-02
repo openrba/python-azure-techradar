@@ -1,0 +1,4 @@
+[
+    "Microsoft.Advisor/hostingEnvironments/multiRolePools",
+    "Microsoft.Advisor/hostingEnvironments/workerPools"
+]

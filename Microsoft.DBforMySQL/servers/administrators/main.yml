@@ -1,0 +1,68 @@
+activeDirectory.administratorType:
+  path: Microsoft.DBforMySQL/servers/administrators/activeDirectory.administratorType
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/servers/administrators/activeDirectory.administratorType
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+activeDirectory.login:
+  path: Microsoft.DBforMySQL/servers/administrators/activeDirectory.login
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/servers/administrators/activeDirectory.login
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+activeDirectory.sid:
+  path: Microsoft.DBforMySQL/servers/administrators/activeDirectory.sid
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/servers/administrators/activeDirectory.sid
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+activeDirectory.tenantId:
+  path: Microsoft.DBforMySQL/servers/administrators/activeDirectory.tenantId
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/servers/administrators/activeDirectory.tenantId
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,68 @@
+backupFabrics:
+  path: Microsoft.DBforMySQL/Vaults/backupFabrics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/Vaults/backupFabrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupPolicies:
+  path: Microsoft.DBforMySQL/Vaults/backupPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/Vaults/backupPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupstorageconfig:
+  path: Microsoft.DBforMySQL/Vaults/backupstorageconfig
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/Vaults/backupstorageconfig
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extendedInformation:
+  path: Microsoft.DBforMySQL/Vaults/extendedInformation
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/Vaults/extendedInformation
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

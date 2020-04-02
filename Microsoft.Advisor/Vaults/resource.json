@@ -1,0 +1,8 @@
+[
+    "Microsoft.Advisor/Vaults/backupFabrics/backupProtectionIntent",
+    "Microsoft.Advisor/Vaults/backupFabrics/protectionContainers",
+    "Microsoft.Advisor/Vaults/backupFabrics/protectionContainers/protectedItems",
+    "Microsoft.Advisor/Vaults/backupPolicies",
+    "Microsoft.Advisor/Vaults/backupstorageconfig",
+    "Microsoft.Advisor/Vaults/extendedInformation"
+]

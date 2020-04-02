@@ -1,0 +1,20 @@
+[
+    "Microsoft.ApiManagement/service/loggers/credentials",
+    "Microsoft.ApiManagement/service/loggers/credentials.example",
+    "Microsoft.ApiManagement/service/loggers/description",
+    "Microsoft.ApiManagement/service/loggers/isBuffered",
+    "Microsoft.ApiManagement/service/loggers/loggerType",
+    "Microsoft.ApiManagement/service/loggers/resourceId",
+    "Microsoft.ApiManagement/service/loggers/sampling",
+    "Microsoft.ApiManagement/service/loggers/sampling.evaluationInterval",
+    "Microsoft.ApiManagement/service/loggers/sampling.example",
+    "Microsoft.ApiManagement/service/loggers/sampling.initialPercentage",
+    "Microsoft.ApiManagement/service/loggers/sampling.maxPercentage",
+    "Microsoft.ApiManagement/service/loggers/sampling.maxTelemetryItemsPerSecond",
+    "Microsoft.ApiManagement/service/loggers/sampling.minPercentage",
+    "Microsoft.ApiManagement/service/loggers/sampling.movingAverageRatio",
+    "Microsoft.ApiManagement/service/loggers/sampling.percentage",
+    "Microsoft.ApiManagement/service/loggers/sampling.percentageDecreaseTimeout",
+    "Microsoft.ApiManagement/service/loggers/sampling.percentageIncreaseTimeout",
+    "Microsoft.ApiManagement/service/loggers/sampling.samplingType"
+]

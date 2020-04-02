@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMySQL/databaseAccounts/cassandraKeyspaces/tables",
+    "Microsoft.DBforMySQL/databaseAccounts/cassandraKeyspaces/tables/throughputSettings",
+    "Microsoft.DBforMySQL/databaseAccounts/cassandraKeyspaces/throughputSettings"
+]

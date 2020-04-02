@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMariaDB/storageAccounts/services/diagnosticSettings",
+    "Microsoft.DBforMariaDB/storageAccounts/services/metricDefinitions",
+    "Microsoft.DBforMariaDB/storageAccounts/services/metrics"
+]

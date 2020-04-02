@@ -1,0 +1,357 @@
+BillingProfiles:
+  path: Microsoft.ADHybridHealthService/billingAccounts/BillingProfiles
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/BillingProfiles
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+agreements:
+  path: Microsoft.ADHybridHealthService/billingAccounts/agreements
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/agreements
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingPermissions:
+  path: Microsoft.ADHybridHealthService/billingAccounts/billingPermissions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/billingPermissions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingProfiles:
+  path: Microsoft.ADHybridHealthService/billingAccounts/billingProfiles
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/billingProfiles
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingRoleAssignments:
+  path: Microsoft.ADHybridHealthService/billingAccounts/billingRoleAssignments
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/billingRoleAssignments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingRoleDefinitions:
+  path: Microsoft.ADHybridHealthService/billingAccounts/billingRoleDefinitions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/billingRoleDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingSubscriptions:
+  path: Microsoft.ADHybridHealthService/billingAccounts/billingSubscriptions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/billingSubscriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+createBillingRoleAssignment:
+  path: Microsoft.ADHybridHealthService/billingAccounts/createBillingRoleAssignment
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/createBillingRoleAssignment
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+createInvoiceSectionOperations:
+  path: Microsoft.ADHybridHealthService/billingAccounts/createInvoiceSectionOperations
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/createInvoiceSectionOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customers:
+  path: Microsoft.ADHybridHealthService/billingAccounts/customers
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/customers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+departments:
+  path: Microsoft.ADHybridHealthService/billingAccounts/departments
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/departments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enrollmentAccounts:
+  path: Microsoft.ADHybridHealthService/billingAccounts/enrollmentAccounts
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/enrollmentAccounts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+invoiceSections:
+  path: Microsoft.ADHybridHealthService/billingAccounts/invoiceSections
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/invoiceSections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+invoices:
+  path: Microsoft.ADHybridHealthService/billingAccounts/invoices
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/invoices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+lineOfCredit:
+  path: Microsoft.ADHybridHealthService/billingAccounts/lineOfCredit
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/lineOfCredit
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listInvoiceSectionsWithCreateSubscriptionPermission:
+  path: Microsoft.ADHybridHealthService/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operationResults:
+  path: Microsoft.ADHybridHealthService/billingAccounts/operationResults
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/operationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+patchOperations:
+  path: Microsoft.ADHybridHealthService/billingAccounts/patchOperations
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/patchOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+paymentMethods:
+  path: Microsoft.ADHybridHealthService/billingAccounts/paymentMethods
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/paymentMethods
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+products:
+  path: Microsoft.ADHybridHealthService/billingAccounts/products
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/products
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transactions:
+  path: Microsoft.ADHybridHealthService/billingAccounts/transactions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/billingAccounts/transactions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

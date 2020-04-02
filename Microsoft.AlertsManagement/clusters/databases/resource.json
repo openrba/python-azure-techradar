@@ -1,0 +1,5 @@
+[
+    "Microsoft.AlertsManagement/clusters/databases/dataconnections",
+    "Microsoft.AlertsManagement/clusters/databases/eventhubconnections",
+    "Microsoft.AlertsManagement/clusters/databases/principalassignments"
+]

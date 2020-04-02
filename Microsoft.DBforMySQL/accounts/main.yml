@@ -1,0 +1,170 @@
+computePolicies:
+  path: Microsoft.DBforMySQL/accounts/computePolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/accounts/computePolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataLakeStoreAccounts:
+  path: Microsoft.DBforMySQL/accounts/dataLakeStoreAccounts
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/accounts/dataLakeStoreAccounts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.DBforMySQL/accounts/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/accounts/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+firewallRules:
+  path: Microsoft.DBforMySQL/accounts/firewallRules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/accounts/firewallRules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateAtlases:
+  path: Microsoft.DBforMySQL/accounts/privateAtlases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/accounts/privateAtlases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+shares:
+  path: Microsoft.DBforMySQL/accounts/shares
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/accounts/shares
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sharesubscriptions:
+  path: Microsoft.DBforMySQL/accounts/sharesubscriptions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/accounts/sharesubscriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageAccounts:
+  path: Microsoft.DBforMySQL/accounts/storageAccounts
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/accounts/storageAccounts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+trustedIdProviders:
+  path: Microsoft.DBforMySQL/accounts/trustedIdProviders
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/accounts/trustedIdProviders
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkRules:
+  path: Microsoft.DBforMySQL/accounts/virtualNetworkRules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/accounts/virtualNetworkRules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

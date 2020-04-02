@@ -1,0 +1,5 @@
+[
+    "Microsoft.ADHybridHealthService/registries/webhooks/getCallbackConfig",
+    "Microsoft.ADHybridHealthService/registries/webhooks/listEvents",
+    "Microsoft.ADHybridHealthService/registries/webhooks/ping"
+]

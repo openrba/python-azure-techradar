@@ -1,0 +1,12 @@
+[
+    "Microsoft.DBforMySQL/privateDnsZones/A",
+    "Microsoft.DBforMySQL/privateDnsZones/AAAA",
+    "Microsoft.DBforMySQL/privateDnsZones/CNAME",
+    "Microsoft.DBforMySQL/privateDnsZones/MX",
+    "Microsoft.DBforMySQL/privateDnsZones/PTR",
+    "Microsoft.DBforMySQL/privateDnsZones/SOA",
+    "Microsoft.DBforMySQL/privateDnsZones/SRV",
+    "Microsoft.DBforMySQL/privateDnsZones/TXT",
+    "Microsoft.DBforMySQL/privateDnsZones/all",
+    "Microsoft.DBforMySQL/privateDnsZones/virtualNetworkLinks"
+]

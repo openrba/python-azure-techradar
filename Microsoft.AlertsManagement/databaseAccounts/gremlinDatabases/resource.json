@@ -1,0 +1,5 @@
+[
+    "Microsoft.AlertsManagement/databaseAccounts/gremlinDatabases/graphs",
+    "Microsoft.AlertsManagement/databaseAccounts/gremlinDatabases/graphs/throughputSettings",
+    "Microsoft.AlertsManagement/databaseAccounts/gremlinDatabases/throughputSettings"
+]

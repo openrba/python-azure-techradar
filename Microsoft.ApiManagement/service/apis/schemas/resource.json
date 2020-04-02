@@ -1,0 +1,5 @@
+[
+    "Microsoft.ApiManagement/service/apis/schemas/contentType",
+    "Microsoft.ApiManagement/service/apis/schemas/document",
+    "Microsoft.ApiManagement/service/apis/schemas/document.value"
+]

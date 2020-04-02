@@ -1,0 +1,8 @@
+[
+    "Microsoft.ADHybridHealthService/offerTypes/publishers",
+    "Microsoft.ADHybridHealthService/offerTypes/publishers/offers",
+    "Microsoft.ADHybridHealthService/offerTypes/publishers/offers/plans",
+    "Microsoft.ADHybridHealthService/offerTypes/publishers/offers/plans/agreements",
+    "Microsoft.ADHybridHealthService/offerTypes/publishers/offers/plans/configs",
+    "Microsoft.ADHybridHealthService/offerTypes/publishers/offers/plans/configs/importImage"
+]

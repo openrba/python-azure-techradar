@@ -1,0 +1,6 @@
+[
+    "Microsoft.ADHybridHealthService/networkWatchers/connectionMonitors",
+    "Microsoft.ADHybridHealthService/networkWatchers/flowLogs",
+    "Microsoft.ADHybridHealthService/networkWatchers/packetCaptures",
+    "Microsoft.ADHybridHealthService/networkWatchers/pingMeshes"
+]

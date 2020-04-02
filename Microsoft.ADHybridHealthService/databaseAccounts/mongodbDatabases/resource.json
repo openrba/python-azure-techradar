@@ -1,0 +1,5 @@
+[
+    "Microsoft.ADHybridHealthService/databaseAccounts/mongodbDatabases/collections",
+    "Microsoft.ADHybridHealthService/databaseAccounts/mongodbDatabases/collections/throughputSettings",
+    "Microsoft.ADHybridHealthService/databaseAccounts/mongodbDatabases/throughputSettings"
+]

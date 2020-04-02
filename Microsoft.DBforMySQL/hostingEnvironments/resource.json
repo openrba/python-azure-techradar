@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMySQL/hostingEnvironments/multiRolePools",
+    "Microsoft.DBforMySQL/hostingEnvironments/workerPools"
+]

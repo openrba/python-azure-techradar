@@ -1,0 +1,5 @@
+[
+    "Microsoft.ADHybridHealthService/iotSecuritySolutions/analyticsModels",
+    "Microsoft.ADHybridHealthService/iotSecuritySolutions/analyticsModels/aggregatedAlerts",
+    "Microsoft.ADHybridHealthService/iotSecuritySolutions/analyticsModels/aggregatedRecommendations"
+]

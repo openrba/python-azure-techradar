@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMySQL/registries/builds/cancel",
+    "Microsoft.DBforMySQL/registries/builds/getLogLink"
+]

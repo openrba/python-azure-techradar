@@ -1,0 +1,340 @@
+certificates:
+  path: Microsoft.DBforMariaDB/automationAccounts/certificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/certificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+compilationjobs:
+  path: Microsoft.DBforMariaDB/automationAccounts/compilationjobs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/compilationjobs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+configurations:
+  path: Microsoft.DBforMariaDB/automationAccounts/configurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/configurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionTypes:
+  path: Microsoft.DBforMariaDB/automationAccounts/connectionTypes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/connectionTypes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections:
+  path: Microsoft.DBforMariaDB/automationAccounts/connections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/connections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+credentials:
+  path: Microsoft.DBforMariaDB/automationAccounts/credentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/credentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+jobSchedules:
+  path: Microsoft.DBforMariaDB/automationAccounts/jobSchedules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/jobSchedules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+jobs:
+  path: Microsoft.DBforMariaDB/automationAccounts/jobs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/jobs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+modules:
+  path: Microsoft.DBforMariaDB/automationAccounts/modules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/modules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+nodeConfigurations:
+  path: Microsoft.DBforMariaDB/automationAccounts/nodeConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/nodeConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnectionProxies:
+  path: Microsoft.DBforMariaDB/automationAccounts/privateEndpointConnectionProxies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/privateEndpointConnectionProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.DBforMariaDB/automationAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkResources:
+  path: Microsoft.DBforMariaDB/automationAccounts/privateLinkResources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/privateLinkResources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+python2Packages:
+  path: Microsoft.DBforMariaDB/automationAccounts/python2Packages
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/python2Packages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+runbooks:
+  path: Microsoft.DBforMariaDB/automationAccounts/runbooks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/runbooks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schedules:
+  path: Microsoft.DBforMariaDB/automationAccounts/schedules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/schedules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+softwareUpdateConfigurations:
+  path: Microsoft.DBforMariaDB/automationAccounts/softwareUpdateConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/softwareUpdateConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+variables:
+  path: Microsoft.DBforMariaDB/automationAccounts/variables
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/variables
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+watchers:
+  path: Microsoft.DBforMariaDB/automationAccounts/watchers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/watchers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+webhooks:
+  path: Microsoft.DBforMariaDB/automationAccounts/webhooks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/automationAccounts/webhooks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

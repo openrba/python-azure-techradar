@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMySQL/batchAccounts/applications",
+    "Microsoft.DBforMySQL/batchAccounts/applications/versions",
+    "Microsoft.DBforMySQL/batchAccounts/certificates",
+    "Microsoft.DBforMySQL/batchAccounts/pools"
+]

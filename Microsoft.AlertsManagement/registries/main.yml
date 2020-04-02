@@ -1,0 +1,442 @@
+GetCredentials:
+  path: Microsoft.AlertsManagement/registries/GetCredentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/GetCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+buildTasks:
+  path: Microsoft.AlertsManagement/registries/buildTasks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/buildTasks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+builds:
+  path: Microsoft.AlertsManagement/registries/builds
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/builds
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.AlertsManagement/registries/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+generateCredentials:
+  path: Microsoft.AlertsManagement/registries/generateCredentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/generateCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+getBuildSourceUploadUrl:
+  path: Microsoft.AlertsManagement/registries/getBuildSourceUploadUrl
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/getBuildSourceUploadUrl
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+importImage:
+  path: Microsoft.AlertsManagement/registries/importImage
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/importImage
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listBuildSourceUploadUrl:
+  path: Microsoft.AlertsManagement/registries/listBuildSourceUploadUrl
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/listBuildSourceUploadUrl
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listCredentials:
+  path: Microsoft.AlertsManagement/registries/listCredentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/listCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listPolicies:
+  path: Microsoft.AlertsManagement/registries/listPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/listPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listUsages:
+  path: Microsoft.AlertsManagement/registries/listUsages
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/listUsages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnectionProxies:
+  path: Microsoft.AlertsManagement/registries/privateEndpointConnectionProxies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/privateEndpointConnectionProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.AlertsManagement/registries/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkResources:
+  path: Microsoft.AlertsManagement/registries/privateLinkResources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/privateLinkResources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+queueBuild:
+  path: Microsoft.AlertsManagement/registries/queueBuild
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/queueBuild
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+regenerateCredential:
+  path: Microsoft.AlertsManagement/registries/regenerateCredential
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/regenerateCredential
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+regenerateCredentials:
+  path: Microsoft.AlertsManagement/registries/regenerateCredentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/regenerateCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+replications:
+  path: Microsoft.AlertsManagement/registries/replications
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/replications
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+runs:
+  path: Microsoft.AlertsManagement/registries/runs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/runs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scheduleRun:
+  path: Microsoft.AlertsManagement/registries/scheduleRun
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/scheduleRun
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scopeMaps:
+  path: Microsoft.AlertsManagement/registries/scopeMaps
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/scopeMaps
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+taskRuns:
+  path: Microsoft.AlertsManagement/registries/taskRuns
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/taskRuns
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tasks:
+  path: Microsoft.AlertsManagement/registries/tasks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/tasks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tokens:
+  path: Microsoft.AlertsManagement/registries/tokens
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/tokens
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+updatePolicies:
+  path: Microsoft.AlertsManagement/registries/updatePolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/updatePolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+webhooks:
+  path: Microsoft.AlertsManagement/registries/webhooks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/registries/webhooks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

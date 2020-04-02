@@ -1,0 +1,4 @@
+[
+    "Microsoft.AlertsManagement/servers/jobAgents/jobs/executions",
+    "Microsoft.AlertsManagement/servers/jobAgents/jobs/steps"
+]

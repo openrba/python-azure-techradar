@@ -1,0 +1,20 @@
+[
+    "Microsoft.Advisor/labs/artifactSources",
+    "Microsoft.Advisor/labs/costs",
+    "Microsoft.Advisor/labs/customImages",
+    "Microsoft.Advisor/labs/environments",
+    "Microsoft.Advisor/labs/formulas",
+    "Microsoft.Advisor/labs/notificationChannels",
+    "Microsoft.Advisor/labs/policySets/policies",
+    "Microsoft.Advisor/labs/schedules",
+    "Microsoft.Advisor/labs/serviceRunners",
+    "Microsoft.Advisor/labs/users",
+    "Microsoft.Advisor/labs/users/disks",
+    "Microsoft.Advisor/labs/users/environments",
+    "Microsoft.Advisor/labs/users/secrets",
+    "Microsoft.Advisor/labs/users/serviceFabrics",
+    "Microsoft.Advisor/labs/users/serviceFabrics/schedules",
+    "Microsoft.Advisor/labs/virtualMachines",
+    "Microsoft.Advisor/labs/virtualMachines/schedules",
+    "Microsoft.Advisor/labs/virtualNetworks"
+]

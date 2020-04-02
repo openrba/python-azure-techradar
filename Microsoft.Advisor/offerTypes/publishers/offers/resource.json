@@ -1,0 +1,6 @@
+[
+    "Microsoft.Advisor/offerTypes/publishers/offers/plans",
+    "Microsoft.Advisor/offerTypes/publishers/offers/plans/agreements",
+    "Microsoft.Advisor/offerTypes/publishers/offers/plans/configs",
+    "Microsoft.Advisor/offerTypes/publishers/offers/plans/configs/importImage"
+]

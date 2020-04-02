@@ -1,0 +1,21 @@
+[
+    "Microsoft.ADHybridHealthService/accounts/computePolicies",
+    "Microsoft.ADHybridHealthService/accounts/dataLakeStoreAccounts",
+    "Microsoft.ADHybridHealthService/accounts/eventGridFilters",
+    "Microsoft.ADHybridHealthService/accounts/firewallRules",
+    "Microsoft.ADHybridHealthService/accounts/privateAtlases",
+    "Microsoft.ADHybridHealthService/accounts/shares",
+    "Microsoft.ADHybridHealthService/accounts/shares/datasets",
+    "Microsoft.ADHybridHealthService/accounts/shares/invitations",
+    "Microsoft.ADHybridHealthService/accounts/shares/providersharesubscriptions",
+    "Microsoft.ADHybridHealthService/accounts/shares/synchronizationSettings",
+    "Microsoft.ADHybridHealthService/accounts/sharesubscriptions",
+    "Microsoft.ADHybridHealthService/accounts/sharesubscriptions/consumerSourceDataSets",
+    "Microsoft.ADHybridHealthService/accounts/sharesubscriptions/datasetmappings",
+    "Microsoft.ADHybridHealthService/accounts/sharesubscriptions/triggers",
+    "Microsoft.ADHybridHealthService/accounts/storageAccounts",
+    "Microsoft.ADHybridHealthService/accounts/storageAccounts/containers",
+    "Microsoft.ADHybridHealthService/accounts/storageAccounts/containers/listSasTokens",
+    "Microsoft.ADHybridHealthService/accounts/trustedIdProviders",
+    "Microsoft.ADHybridHealthService/accounts/virtualNetworkRules"
+]

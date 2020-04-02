@@ -1,0 +1,11 @@
+[
+    "Microsoft.ApiManagement/reservationOrders/availableScopes",
+    "Microsoft.ApiManagement/reservationOrders/calculateRefund",
+    "Microsoft.ApiManagement/reservationOrders/merge",
+    "Microsoft.ApiManagement/reservationOrders/reservations",
+    "Microsoft.ApiManagement/reservationOrders/reservations/availableScopes",
+    "Microsoft.ApiManagement/reservationOrders/reservations/revisions",
+    "Microsoft.ApiManagement/reservationOrders/return",
+    "Microsoft.ApiManagement/reservationOrders/split",
+    "Microsoft.ApiManagement/reservationOrders/swap"
+]

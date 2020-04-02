@@ -1,0 +1,153 @@
+agreements:
+  path: Microsoft.DBforMariaDB/integrationAccounts/agreements
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/integrationAccounts/agreements
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+assemblies:
+  path: Microsoft.DBforMariaDB/integrationAccounts/assemblies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/integrationAccounts/assemblies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+batchConfigurations:
+  path: Microsoft.DBforMariaDB/integrationAccounts/batchConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/integrationAccounts/batchConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+certificates:
+  path: Microsoft.DBforMariaDB/integrationAccounts/certificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/integrationAccounts/certificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+maps:
+  path: Microsoft.DBforMariaDB/integrationAccounts/maps
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/integrationAccounts/maps
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+partners:
+  path: Microsoft.DBforMariaDB/integrationAccounts/partners
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/integrationAccounts/partners
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+rosettaNetProcessConfigurations:
+  path: Microsoft.DBforMariaDB/integrationAccounts/rosettaNetProcessConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/integrationAccounts/rosettaNetProcessConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.DBforMariaDB/integrationAccounts/schemas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/integrationAccounts/schemas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sessions:
+  path: Microsoft.DBforMariaDB/integrationAccounts/sessions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/integrationAccounts/sessions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

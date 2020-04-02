@@ -1,0 +1,19 @@
+[
+    "Microsoft.DBforMariaDB/storageAccounts/blobServices",
+    "Microsoft.DBforMariaDB/storageAccounts/blobServices/containers/immutabilityPolicies",
+    "Microsoft.DBforMariaDB/storageAccounts/fileServices",
+    "Microsoft.DBforMariaDB/storageAccounts/fileServices/shares",
+    "Microsoft.DBforMariaDB/storageAccounts/listAccountSas",
+    "Microsoft.DBforMariaDB/storageAccounts/listServiceSas",
+    "Microsoft.DBforMariaDB/storageAccounts/managementPolicies",
+    "Microsoft.DBforMariaDB/storageAccounts/metricDefinitions",
+    "Microsoft.DBforMariaDB/storageAccounts/metrics",
+    "Microsoft.DBforMariaDB/storageAccounts/privateEndpointConnections",
+    "Microsoft.DBforMariaDB/storageAccounts/queueServices",
+    "Microsoft.DBforMariaDB/storageAccounts/services",
+    "Microsoft.DBforMariaDB/storageAccounts/services/diagnosticSettings",
+    "Microsoft.DBforMariaDB/storageAccounts/services/metricDefinitions",
+    "Microsoft.DBforMariaDB/storageAccounts/services/metrics",
+    "Microsoft.DBforMariaDB/storageAccounts/tableServices",
+    "Microsoft.DBforMariaDB/storageAccounts/vmImages"
+]

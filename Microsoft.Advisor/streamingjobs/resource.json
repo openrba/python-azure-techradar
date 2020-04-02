@@ -1,0 +1,6 @@
+[
+    "Microsoft.Advisor/streamingjobs/functions",
+    "Microsoft.Advisor/streamingjobs/inputs",
+    "Microsoft.Advisor/streamingjobs/outputs",
+    "Microsoft.Advisor/streamingjobs/transformations"
+]

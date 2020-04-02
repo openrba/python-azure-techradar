@@ -1,0 +1,11 @@
+[
+    "Microsoft.ADHybridHealthService/reservationOrders/availableScopes",
+    "Microsoft.ADHybridHealthService/reservationOrders/calculateRefund",
+    "Microsoft.ADHybridHealthService/reservationOrders/merge",
+    "Microsoft.ADHybridHealthService/reservationOrders/reservations",
+    "Microsoft.ADHybridHealthService/reservationOrders/reservations/availableScopes",
+    "Microsoft.ADHybridHealthService/reservationOrders/reservations/revisions",
+    "Microsoft.ADHybridHealthService/reservationOrders/return",
+    "Microsoft.ADHybridHealthService/reservationOrders/split",
+    "Microsoft.ADHybridHealthService/reservationOrders/swap"
+]

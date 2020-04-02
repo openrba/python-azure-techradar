@@ -1,0 +1,187 @@
+administrators:
+  path: Microsoft.AlertsManagement/managedInstances/administrators
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/managedInstances/administrators
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+databases:
+  path: Microsoft.AlertsManagement/managedInstances/databases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/managedInstances/databases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionProtector:
+  path: Microsoft.AlertsManagement/managedInstances/encryptionProtector
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/managedInstances/encryptionProtector
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+keys:
+  path: Microsoft.AlertsManagement/managedInstances/keys
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/managedInstances/keys
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.AlertsManagement/managedInstances/metricDefinitions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/managedInstances/metricDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.AlertsManagement/managedInstances/metrics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/managedInstances/metrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+recoverableDatabases:
+  path: Microsoft.AlertsManagement/managedInstances/recoverableDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/managedInstances/recoverableDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+restorableDroppedDatabases:
+  path: Microsoft.AlertsManagement/managedInstances/restorableDroppedDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/managedInstances/restorableDroppedDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+securityAlertPolicies:
+  path: Microsoft.AlertsManagement/managedInstances/securityAlertPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/managedInstances/securityAlertPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tdeCertificates:
+  path: Microsoft.AlertsManagement/managedInstances/tdeCertificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/managedInstances/tdeCertificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vulnerabilityAssessments:
+  path: Microsoft.AlertsManagement/managedInstances/vulnerabilityAssessments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/managedInstances/vulnerabilityAssessments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

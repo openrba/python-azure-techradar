@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMariaDB/accounts/sharesubscriptions/consumerSourceDataSets",
+    "Microsoft.DBforMariaDB/accounts/sharesubscriptions/datasetmappings",
+    "Microsoft.DBforMariaDB/accounts/sharesubscriptions/triggers"
+]

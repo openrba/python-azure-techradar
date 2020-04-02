@@ -1,0 +1,340 @@
+certificates:
+  path: Microsoft.ApiManagement/automationAccounts/certificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/certificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+compilationjobs:
+  path: Microsoft.ApiManagement/automationAccounts/compilationjobs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/compilationjobs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+configurations:
+  path: Microsoft.ApiManagement/automationAccounts/configurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/configurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionTypes:
+  path: Microsoft.ApiManagement/automationAccounts/connectionTypes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/connectionTypes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections:
+  path: Microsoft.ApiManagement/automationAccounts/connections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/connections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+credentials:
+  path: Microsoft.ApiManagement/automationAccounts/credentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/credentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+jobSchedules:
+  path: Microsoft.ApiManagement/automationAccounts/jobSchedules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/jobSchedules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+jobs:
+  path: Microsoft.ApiManagement/automationAccounts/jobs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/jobs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+modules:
+  path: Microsoft.ApiManagement/automationAccounts/modules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/modules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+nodeConfigurations:
+  path: Microsoft.ApiManagement/automationAccounts/nodeConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/nodeConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnectionProxies:
+  path: Microsoft.ApiManagement/automationAccounts/privateEndpointConnectionProxies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/privateEndpointConnectionProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.ApiManagement/automationAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkResources:
+  path: Microsoft.ApiManagement/automationAccounts/privateLinkResources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/privateLinkResources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+python2Packages:
+  path: Microsoft.ApiManagement/automationAccounts/python2Packages
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/python2Packages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+runbooks:
+  path: Microsoft.ApiManagement/automationAccounts/runbooks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/runbooks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schedules:
+  path: Microsoft.ApiManagement/automationAccounts/schedules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/schedules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+softwareUpdateConfigurations:
+  path: Microsoft.ApiManagement/automationAccounts/softwareUpdateConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/softwareUpdateConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+variables:
+  path: Microsoft.ApiManagement/automationAccounts/variables
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/variables
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+watchers:
+  path: Microsoft.ApiManagement/automationAccounts/watchers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/watchers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+webhooks:
+  path: Microsoft.ApiManagement/automationAccounts/webhooks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/automationAccounts/webhooks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

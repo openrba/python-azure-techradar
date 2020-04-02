@@ -1,0 +1,4 @@
+[
+    "Microsoft.ADHybridHealthService/registries/runs/cancel",
+    "Microsoft.ADHybridHealthService/registries/runs/listLogSasUrl"
+]

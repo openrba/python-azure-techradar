@@ -1,0 +1,5 @@
+[
+    "Microsoft.Advisor/registries/webhooks/getCallbackConfig",
+    "Microsoft.Advisor/registries/webhooks/listEvents",
+    "Microsoft.Advisor/registries/webhooks/ping"
+]

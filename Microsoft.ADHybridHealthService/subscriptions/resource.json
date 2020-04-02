@@ -1,0 +1,10 @@
+[
+    "Microsoft.ADHybridHealthService/subscriptions/locations",
+    "Microsoft.ADHybridHealthService/subscriptions/operationresults",
+    "Microsoft.ADHybridHealthService/subscriptions/providers",
+    "Microsoft.ADHybridHealthService/subscriptions/resourceGroups",
+    "Microsoft.ADHybridHealthService/subscriptions/resourcegroups/resources",
+    "Microsoft.ADHybridHealthService/subscriptions/resources",
+    "Microsoft.ADHybridHealthService/subscriptions/tagNames/tagValues",
+    "Microsoft.ADHybridHealthService/subscriptions/tagnames"
+]

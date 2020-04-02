@@ -23,6 +23,7 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 |<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
+|<sub>[Microsoft.ADHybridHealthService](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ADHybridHealthService)</sub>|<sub>Azure Active Directory (Azure AD) is a multi-tenant, cloud-based identity and access management service.</sub>|<sub>Microsoft.ADHybridHealthService</sub>|<sub>ADOPT</sub>|
 |<sub>[Microsoft.AzureActiveDirectory](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AzureActiveDirectory)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AzureActiveDirectory</sub>|<sub>ADOPT</sub>|
 
 ### Trial
@@ -33,15 +34,22 @@ Technologies that we have seen work with success in projects to solve real probl
 |<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
 |<sub>[Microsoft.Compute](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute</sub>|<sub>TRIAL</sub>|
-|<sub>[Microsoft.DBforPostgreSQL](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforPostgreSQL</sub>|<sub>TRIAL</sub>|
+|<sub>[Microsoft.DBforPostgreSQL](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL)</sub>|<sub>Azure Database for PostgreSQL is a relational database service based on the open-source Postgres database engine.</sub>|<sub>Microsoft.DBforPostgreSQL</sub>|<sub>TRIAL</sub>|
 |<sub>[Microsoft.Network](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
-  
-***<font color="red"> There are currently no resources at this ring level. </font>***
+
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
+| :---: | :---: | :---: | :---: |
+|<sub>[Microsoft.Advisor](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Advisor)</sub>|<sub>Azure Advisor scans your Azure configuration and recommends changes to optimize deployments, increase security, and save you money.</sub>|<sub>Microsoft.Advisor</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.AlertsManagement](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AlertsManagement)</sub>|<sub>Monitoring Azure and on-premises services. Aggregate and analyze metrics, logs, and traces. Fire alerts and send notifications or call automated solutions.</sub>|<sub>Microsoft.AlertsManagement</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.ApiManagement](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ApiManagement)</sub>|<sub>Learn how to use API Management to publish APIs to external, partner, and employee developers securely and at scale. Shows you how to create and manage modern API gateways for existing back-end services hosted anywhere.</sub>|<sub>Microsoft.ApiManagement</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.DBforMariaDB](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB)</sub>|<sub>Azure Database for MariaDB provides fully managed, enterprise-ready community MariaDB database as a service.</sub>|<sub>Microsoft.DBforMariaDB</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.DBforMySQL](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL)</sub>|<sub>Azure Database for MySQL provides fully managed, enterprise-ready community MySQL database as a service.</sub>|<sub>Microsoft.DBforMySQL</sub>|<sub>ASSESS</sub>|
+
 ### Hold
 
 
@@ -49,13 +57,9 @@ Technologies not recommended to be used for new projects. Technologies that we t
 
 |<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>Microsoft.AAD</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AAD</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.ADHybridHealthService</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ADHybridHealthService</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.AAD</sub>|<sub>Azure Active Directory Domain Services (Azure AD DS) provides managed domain services such as domain join, group policy, lightweight directory access protocol (LDAP), and Kerberos / NTLM authentication that is fully compatible with Windows Server Active Directory.</sub>|<sub>Microsoft.AAD</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Addons</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Addons</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Advisor</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Advisor</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.AlertsManagement</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AlertsManagement</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.AnalysisServices</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AnalysisServices</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.ApiManagement</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ApiManagement</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.AnalysisServices</sub>|<sub>Learn how to set up data modeling with Analysis Services in the cloud. Documentation shows you how to create an enterprise BI solution by using tabular data models.</sub>|<sub>Microsoft.AnalysisServices</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.AppConfiguration</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AppConfiguration</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.AppPlatform</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.AppPlatform</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Attestation</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Attestation</sub>|<sub>HOLD</sub>|
@@ -87,8 +91,6 @@ Technologies not recommended to be used for new projects. Technologies that we t
 |<sub>Microsoft.CostManagementExports</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.CostManagementExports</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.CustomProviders</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.CustomProviders</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.CustomerLockbox</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.CustomerLockbox</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DBforMariaDB</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMariaDB</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DBforMySQL</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DBforMySQL</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.DataBox</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DataBox</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.DataBoxEdge</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DataBoxEdge</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.DataBricks</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.DataBricks</sub>|<sub>HOLD</sub>|
@@ -207,8 +209,8 @@ Technologies not recommended to be used for any projects. Technologies that have
 
 |<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>Microsoft.ClassicCompute</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ClassicCompute</sub>|<sub>REJECT</sub>|
-|<sub>Microsoft.ClassicInfrastructureMigrate</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ClassicInfrastructureMigrate</sub>|<sub>REJECT</sub>|
-|<sub>Microsoft.ClassicNetwork</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ClassicNetwork</sub>|<sub>REJECT</sub>|
-|<sub>Microsoft.ClassicStorage</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ClassicStorage</sub>|<sub>REJECT</sub>|
-|<sub>Microsoft.ClassicSubscription</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.ClassicSubscription</sub>|<sub>REJECT</sub>|
+|<sub>Microsoft.ClassicCompute</sub>|<sub>Deprecated version of Azure compute</sub>|<sub>Microsoft.ClassicCompute</sub>|<sub>REJECT</sub>|
+|<sub>Microsoft.ClassicInfrastructureMigrate</sub>|<sub>Deprecated version of Azure migrate</sub>|<sub>Microsoft.ClassicInfrastructureMigrate</sub>|<sub>REJECT</sub>|
+|<sub>Microsoft.ClassicNetwork</sub>|<sub>Deprecated version of Azure network</sub>|<sub>Microsoft.ClassicNetwork</sub>|<sub>REJECT</sub>|
+|<sub>Microsoft.ClassicStorage</sub>|<sub>Deprecated version of Azure storage</sub>|<sub>Microsoft.ClassicStorage</sub>|<sub>REJECT</sub>|
+|<sub>Microsoft.ClassicSubscription</sub>|<sub>Deprecated version of Azure subscription</sub>|<sub>Microsoft.ClassicSubscription</sub>|<sub>REJECT</sub>|

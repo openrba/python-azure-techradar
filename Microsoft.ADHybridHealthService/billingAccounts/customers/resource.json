@@ -1,0 +1,9 @@
+[
+    "Microsoft.ADHybridHealthService/billingAccounts/customers/billingPermissions",
+    "Microsoft.ADHybridHealthService/billingAccounts/customers/billingSubscriptions",
+    "Microsoft.ADHybridHealthService/billingAccounts/customers/initiateTransfer",
+    "Microsoft.ADHybridHealthService/billingAccounts/customers/policies",
+    "Microsoft.ADHybridHealthService/billingAccounts/customers/products",
+    "Microsoft.ADHybridHealthService/billingAccounts/customers/transactions",
+    "Microsoft.ADHybridHealthService/billingAccounts/customers/transfers"
+]

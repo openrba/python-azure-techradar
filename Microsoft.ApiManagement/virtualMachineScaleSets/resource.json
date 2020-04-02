@@ -1,0 +1,7 @@
+[
+    "Microsoft.ApiManagement/virtualMachineScaleSets/extensions",
+    "Microsoft.ApiManagement/virtualMachineScaleSets/networkInterfaces",
+    "Microsoft.ApiManagement/virtualMachineScaleSets/publicIPAddresses",
+    "Microsoft.ApiManagement/virtualMachineScaleSets/virtualMachines",
+    "Microsoft.ApiManagement/virtualMachineScaleSets/virtualMachines/networkInterfaces"
+]

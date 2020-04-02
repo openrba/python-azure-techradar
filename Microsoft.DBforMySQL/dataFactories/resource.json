@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMySQL/dataFactories/diagnosticSettings",
+    "Microsoft.DBforMySQL/dataFactories/metricDefinitions"
+]

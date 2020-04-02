@@ -1,0 +1,5 @@
+[
+    "Microsoft.ADHybridHealthService/domainNames/slots/roles",
+    "Microsoft.ADHybridHealthService/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.ADHybridHealthService/domainNames/slots/roles/metrics"
+]

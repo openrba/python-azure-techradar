@@ -1,0 +1,11 @@
+[
+    "Microsoft.ApiManagement/service/subscriptions/allowTracing",
+    "Microsoft.ApiManagement/service/subscriptions/displayName",
+    "Microsoft.ApiManagement/service/subscriptions/ownerId",
+    "Microsoft.ApiManagement/service/subscriptions/primaryKey",
+    "Microsoft.ApiManagement/service/subscriptions/productId",
+    "Microsoft.ApiManagement/service/subscriptions/scope",
+    "Microsoft.ApiManagement/service/subscriptions/secondaryKey",
+    "Microsoft.ApiManagement/service/subscriptions/state",
+    "Microsoft.ApiManagement/service/subscriptions/userId"
+]

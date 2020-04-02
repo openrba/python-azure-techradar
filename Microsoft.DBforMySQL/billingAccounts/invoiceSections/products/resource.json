@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMySQL/billingAccounts/invoiceSections/products/transfer",
+    "Microsoft.DBforMySQL/billingAccounts/invoiceSections/products/updateAutoRenew"
+]

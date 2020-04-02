@@ -1,0 +1,68 @@
+functions:
+  path: Microsoft.ADHybridHealthService/streamingjobs/functions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/streamingjobs/functions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+inputs:
+  path: Microsoft.ADHybridHealthService/streamingjobs/inputs
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/streamingjobs/inputs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+outputs:
+  path: Microsoft.ADHybridHealthService/streamingjobs/outputs
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/streamingjobs/outputs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transformations:
+  path: Microsoft.ADHybridHealthService/streamingjobs/transformations
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/streamingjobs/transformations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

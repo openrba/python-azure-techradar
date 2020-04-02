@@ -1,0 +1,221 @@
+clusters:
+  path: Microsoft.ApiManagement/workspaces/clusters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/clusters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+computes:
+  path: Microsoft.ApiManagement/workspaces/computes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/computes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataSources:
+  path: Microsoft.ApiManagement/workspaces/dataSources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/dataSources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dbWorkspaces:
+  path: Microsoft.ApiManagement/workspaces/dbWorkspaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/dbWorkspaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.ApiManagement/workspaces/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+experiments:
+  path: Microsoft.ApiManagement/workspaces/experiments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/experiments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileservers:
+  path: Microsoft.ApiManagement/workspaces/fileservers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/fileservers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+linkedServices:
+  path: Microsoft.ApiManagement/workspaces/linkedServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/linkedServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+query:
+  path: Microsoft.ApiManagement/workspaces/query
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/query
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+savedSearches:
+  path: Microsoft.ApiManagement/workspaces/savedSearches
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/savedSearches
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scopedPrivateLinkProxies:
+  path: Microsoft.ApiManagement/workspaces/scopedPrivateLinkProxies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/scopedPrivateLinkProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageinsightconfigs:
+  path: Microsoft.ApiManagement/workspaces/storageinsightconfigs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/storageinsightconfigs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkPeerings:
+  path: Microsoft.ApiManagement/workspaces/virtualNetworkPeerings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/workspaces/virtualNetworkPeerings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

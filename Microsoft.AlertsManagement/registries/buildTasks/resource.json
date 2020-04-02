@@ -1,0 +1,5 @@
+[
+    "Microsoft.AlertsManagement/registries/buildTasks/listSourceRepositoryProperties",
+    "Microsoft.AlertsManagement/registries/buildTasks/steps",
+    "Microsoft.AlertsManagement/registries/buildTasks/steps/listBuildArguments"
+]

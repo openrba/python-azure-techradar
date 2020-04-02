@@ -1,0 +1,221 @@
+clusters:
+  path: Microsoft.AlertsManagement/workspaces/clusters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/clusters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+computes:
+  path: Microsoft.AlertsManagement/workspaces/computes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/computes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataSources:
+  path: Microsoft.AlertsManagement/workspaces/dataSources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/dataSources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dbWorkspaces:
+  path: Microsoft.AlertsManagement/workspaces/dbWorkspaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/dbWorkspaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.AlertsManagement/workspaces/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+experiments:
+  path: Microsoft.AlertsManagement/workspaces/experiments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/experiments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileservers:
+  path: Microsoft.AlertsManagement/workspaces/fileservers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/fileservers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+linkedServices:
+  path: Microsoft.AlertsManagement/workspaces/linkedServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/linkedServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+query:
+  path: Microsoft.AlertsManagement/workspaces/query
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/query
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+savedSearches:
+  path: Microsoft.AlertsManagement/workspaces/savedSearches
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/savedSearches
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scopedPrivateLinkProxies:
+  path: Microsoft.AlertsManagement/workspaces/scopedPrivateLinkProxies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/scopedPrivateLinkProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageinsightconfigs:
+  path: Microsoft.AlertsManagement/workspaces/storageinsightconfigs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/storageinsightconfigs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkPeerings:
+  path: Microsoft.AlertsManagement/workspaces/virtualNetworkPeerings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/workspaces/virtualNetworkPeerings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

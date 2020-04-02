@@ -1,0 +1,4 @@
+[
+    "Microsoft.AlertsManagement/dataFactories/diagnosticSettings",
+    "Microsoft.AlertsManagement/dataFactories/metricDefinitions"
+]

@@ -1,0 +1,119 @@
+privateEndpoint:
+  path: Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateEndpoint
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateEndpoint
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpoint.id:
+  path: Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateEndpoint.id
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateEndpoint.id
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkServiceConnectionState:
+  path: Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkServiceConnectionState.actionsRequired:
+  path: Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkServiceConnectionState.description:
+  path: Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.description
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.description
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkServiceConnectionState.status:
+  path: Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.status
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.status
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+provisioningState:
+  path: Microsoft.DBforMariaDB/servers/privateEndpointConnections/provisioningState
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/servers/privateEndpointConnections/provisioningState
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

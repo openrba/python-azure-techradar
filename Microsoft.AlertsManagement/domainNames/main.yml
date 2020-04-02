@@ -1,0 +1,68 @@
+capabilities:
+  path: Microsoft.AlertsManagement/domainNames/capabilities
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/domainNames/capabilities
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+internalLoadBalancers:
+  path: Microsoft.AlertsManagement/domainNames/internalLoadBalancers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/domainNames/internalLoadBalancers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceCertificates:
+  path: Microsoft.AlertsManagement/domainNames/serviceCertificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/domainNames/serviceCertificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+slots:
+  path: Microsoft.AlertsManagement/domainNames/slots
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/domainNames/slots
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,7 @@
+[
+    "Microsoft.ApiManagement/service/properties/displayName",
+    "Microsoft.ApiManagement/service/properties/secret",
+    "Microsoft.ApiManagement/service/properties/tags",
+    "Microsoft.ApiManagement/service/properties/tags[*]",
+    "Microsoft.ApiManagement/service/properties/value"
+]

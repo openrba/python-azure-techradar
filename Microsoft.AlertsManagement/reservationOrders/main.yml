@@ -1,0 +1,119 @@
+availableScopes:
+  path: Microsoft.AlertsManagement/reservationOrders/availableScopes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/reservationOrders/availableScopes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+calculateRefund:
+  path: Microsoft.AlertsManagement/reservationOrders/calculateRefund
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/reservationOrders/calculateRefund
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+merge:
+  path: Microsoft.AlertsManagement/reservationOrders/merge
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/reservationOrders/merge
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+reservations:
+  path: Microsoft.AlertsManagement/reservationOrders/reservations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/reservationOrders/reservations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+return:
+  path: Microsoft.AlertsManagement/reservationOrders/return
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/reservationOrders/return
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+split:
+  path: Microsoft.AlertsManagement/reservationOrders/split
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/reservationOrders/split
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+swap:
+  path: Microsoft.AlertsManagement/reservationOrders/swap
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/reservationOrders/swap
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

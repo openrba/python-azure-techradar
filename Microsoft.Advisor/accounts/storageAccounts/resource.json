@@ -1,0 +1,4 @@
+[
+    "Microsoft.Advisor/accounts/storageAccounts/containers",
+    "Microsoft.Advisor/accounts/storageAccounts/containers/listSasTokens"
+]

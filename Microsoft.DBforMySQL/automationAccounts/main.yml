@@ -1,0 +1,340 @@
+certificates:
+  path: Microsoft.DBforMySQL/automationAccounts/certificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/certificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+compilationjobs:
+  path: Microsoft.DBforMySQL/automationAccounts/compilationjobs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/compilationjobs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+configurations:
+  path: Microsoft.DBforMySQL/automationAccounts/configurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/configurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionTypes:
+  path: Microsoft.DBforMySQL/automationAccounts/connectionTypes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/connectionTypes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connections:
+  path: Microsoft.DBforMySQL/automationAccounts/connections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/connections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+credentials:
+  path: Microsoft.DBforMySQL/automationAccounts/credentials
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/credentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+jobSchedules:
+  path: Microsoft.DBforMySQL/automationAccounts/jobSchedules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/jobSchedules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+jobs:
+  path: Microsoft.DBforMySQL/automationAccounts/jobs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/jobs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+modules:
+  path: Microsoft.DBforMySQL/automationAccounts/modules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/modules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+nodeConfigurations:
+  path: Microsoft.DBforMySQL/automationAccounts/nodeConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/nodeConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnectionProxies:
+  path: Microsoft.DBforMySQL/automationAccounts/privateEndpointConnectionProxies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/privateEndpointConnectionProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.DBforMySQL/automationAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkResources:
+  path: Microsoft.DBforMySQL/automationAccounts/privateLinkResources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/privateLinkResources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+python2Packages:
+  path: Microsoft.DBforMySQL/automationAccounts/python2Packages
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/python2Packages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+runbooks:
+  path: Microsoft.DBforMySQL/automationAccounts/runbooks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/runbooks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schedules:
+  path: Microsoft.DBforMySQL/automationAccounts/schedules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/schedules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+softwareUpdateConfigurations:
+  path: Microsoft.DBforMySQL/automationAccounts/softwareUpdateConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/softwareUpdateConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+variables:
+  path: Microsoft.DBforMySQL/automationAccounts/variables
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/variables
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+watchers:
+  path: Microsoft.DBforMySQL/automationAccounts/watchers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/watchers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+webhooks:
+  path: Microsoft.DBforMySQL/automationAccounts/webhooks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/automationAccounts/webhooks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

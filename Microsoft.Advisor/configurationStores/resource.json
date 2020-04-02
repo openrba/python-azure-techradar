@@ -1,0 +1,4 @@
+[
+    "Microsoft.Advisor/configurationStores/eventGridFilters",
+    "Microsoft.Advisor/configurationStores/privateEndpointConnections"
+]

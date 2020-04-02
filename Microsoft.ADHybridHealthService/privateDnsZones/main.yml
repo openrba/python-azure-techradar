@@ -1,0 +1,170 @@
+A:
+  path: Microsoft.ADHybridHealthService/privateDnsZones/A
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/privateDnsZones/A
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+AAAA:
+  path: Microsoft.ADHybridHealthService/privateDnsZones/AAAA
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/privateDnsZones/AAAA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+CNAME:
+  path: Microsoft.ADHybridHealthService/privateDnsZones/CNAME
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/privateDnsZones/CNAME
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+MX:
+  path: Microsoft.ADHybridHealthService/privateDnsZones/MX
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/privateDnsZones/MX
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+PTR:
+  path: Microsoft.ADHybridHealthService/privateDnsZones/PTR
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/privateDnsZones/PTR
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+SOA:
+  path: Microsoft.ADHybridHealthService/privateDnsZones/SOA
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/privateDnsZones/SOA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+SRV:
+  path: Microsoft.ADHybridHealthService/privateDnsZones/SRV
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/privateDnsZones/SRV
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+TXT:
+  path: Microsoft.ADHybridHealthService/privateDnsZones/TXT
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/privateDnsZones/TXT
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+all:
+  path: Microsoft.ADHybridHealthService/privateDnsZones/all
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/privateDnsZones/all
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkLinks:
+  path: Microsoft.ADHybridHealthService/privateDnsZones/virtualNetworkLinks
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/privateDnsZones/virtualNetworkLinks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

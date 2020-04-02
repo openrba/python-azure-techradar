@@ -1,0 +1,51 @@
+problemclassifications:
+  path: Microsoft.Advisor/services/problemclassifications
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/services/problemclassifications
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+projects:
+  path: Microsoft.Advisor/services/projects
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/services/projects
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceTasks:
+  path: Microsoft.Advisor/services/serviceTasks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/services/serviceTasks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,204 @@
+artifactSources:
+  path: Microsoft.ADHybridHealthService/labs/artifactSources
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/labs/artifactSources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+costs:
+  path: Microsoft.ADHybridHealthService/labs/costs
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/labs/costs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customImages:
+  path: Microsoft.ADHybridHealthService/labs/customImages
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/labs/customImages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+environments:
+  path: Microsoft.ADHybridHealthService/labs/environments
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/labs/environments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+formulas:
+  path: Microsoft.ADHybridHealthService/labs/formulas
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/labs/formulas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+notificationChannels:
+  path: Microsoft.ADHybridHealthService/labs/notificationChannels
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/labs/notificationChannels
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policySets:
+  path: Microsoft.ADHybridHealthService/labs/policySets
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/labs/policySets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schedules:
+  path: Microsoft.ADHybridHealthService/labs/schedules
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/labs/schedules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceRunners:
+  path: Microsoft.ADHybridHealthService/labs/serviceRunners
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/labs/serviceRunners
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+users:
+  path: Microsoft.ADHybridHealthService/labs/users
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/labs/users
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines:
+  path: Microsoft.ADHybridHealthService/labs/virtualMachines
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/labs/virtualMachines
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworks:
+  path: Microsoft.ADHybridHealthService/labs/virtualNetworks
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/labs/virtualNetworks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

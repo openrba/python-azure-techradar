@@ -1,0 +1,5 @@
+[
+    "Microsoft.ApiManagement/blueprints/artifacts",
+    "Microsoft.ApiManagement/blueprints/versions",
+    "Microsoft.ApiManagement/blueprints/versions/artifacts"
+]

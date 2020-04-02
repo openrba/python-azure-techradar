@@ -1,0 +1,221 @@
+clusters:
+  path: Microsoft.ADHybridHealthService/workspaces/clusters
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/clusters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+computes:
+  path: Microsoft.ADHybridHealthService/workspaces/computes
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/computes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataSources:
+  path: Microsoft.ADHybridHealthService/workspaces/dataSources
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/dataSources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dbWorkspaces:
+  path: Microsoft.ADHybridHealthService/workspaces/dbWorkspaces
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/dbWorkspaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.ADHybridHealthService/workspaces/eventGridFilters
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+experiments:
+  path: Microsoft.ADHybridHealthService/workspaces/experiments
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/experiments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileservers:
+  path: Microsoft.ADHybridHealthService/workspaces/fileservers
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/fileservers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+linkedServices:
+  path: Microsoft.ADHybridHealthService/workspaces/linkedServices
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/linkedServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+query:
+  path: Microsoft.ADHybridHealthService/workspaces/query
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/query
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+savedSearches:
+  path: Microsoft.ADHybridHealthService/workspaces/savedSearches
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/savedSearches
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scopedPrivateLinkProxies:
+  path: Microsoft.ADHybridHealthService/workspaces/scopedPrivateLinkProxies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/scopedPrivateLinkProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageinsightconfigs:
+  path: Microsoft.ADHybridHealthService/workspaces/storageinsightconfigs
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/storageinsightconfigs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworkPeerings:
+  path: Microsoft.ADHybridHealthService/workspaces/virtualNetworkPeerings
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/workspaces/virtualNetworkPeerings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

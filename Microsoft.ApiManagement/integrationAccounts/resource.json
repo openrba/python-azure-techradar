@@ -1,0 +1,11 @@
+[
+    "Microsoft.ApiManagement/integrationAccounts/agreements",
+    "Microsoft.ApiManagement/integrationAccounts/assemblies",
+    "Microsoft.ApiManagement/integrationAccounts/batchConfigurations",
+    "Microsoft.ApiManagement/integrationAccounts/certificates",
+    "Microsoft.ApiManagement/integrationAccounts/maps",
+    "Microsoft.ApiManagement/integrationAccounts/partners",
+    "Microsoft.ApiManagement/integrationAccounts/rosettaNetProcessConfigurations",
+    "Microsoft.ApiManagement/integrationAccounts/schemas",
+    "Microsoft.ApiManagement/integrationAccounts/sessions"
+]

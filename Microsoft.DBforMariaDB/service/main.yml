@@ -1,0 +1,323 @@
+apiVersionSets:
+  path: Microsoft.DBforMariaDB/service/apiVersionSets
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/apiVersionSets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+apis:
+  path: Microsoft.DBforMariaDB/service/apis
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/apis
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+authorizationServers:
+  path: Microsoft.DBforMariaDB/service/authorizationServers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/authorizationServers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backends:
+  path: Microsoft.DBforMariaDB/service/backends
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/backends
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+caches:
+  path: Microsoft.DBforMariaDB/service/caches
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/caches
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+diagnostics:
+  path: Microsoft.DBforMariaDB/service/diagnostics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/diagnostics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+groups:
+  path: Microsoft.DBforMariaDB/service/groups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/groups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+identityProviders:
+  path: Microsoft.DBforMariaDB/service/identityProviders
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/identityProviders
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+loggers:
+  path: Microsoft.DBforMariaDB/service/loggers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/loggers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+notifications:
+  path: Microsoft.DBforMariaDB/service/notifications
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/notifications
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+openidConnectProviders:
+  path: Microsoft.DBforMariaDB/service/openidConnectProviders
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/openidConnectProviders
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policies:
+  path: Microsoft.DBforMariaDB/service/policies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/policies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+portalsettings:
+  path: Microsoft.DBforMariaDB/service/portalsettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/portalsettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+products:
+  path: Microsoft.DBforMariaDB/service/products
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/products
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+properties:
+  path: Microsoft.DBforMariaDB/service/properties
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/properties
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+subscriptions:
+  path: Microsoft.DBforMariaDB/service/subscriptions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/subscriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tags:
+  path: Microsoft.DBforMariaDB/service/tags
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/tags
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+templates:
+  path: Microsoft.DBforMariaDB/service/templates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/templates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+users:
+  path: Microsoft.DBforMariaDB/service/users
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/users
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,51 @@
+problemclassifications:
+  path: Microsoft.ApiManagement/services/problemclassifications
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/services/problemclassifications
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+projects:
+  path: Microsoft.ApiManagement/services/projects
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/services/projects
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceTasks:
+  path: Microsoft.ApiManagement/services/serviceTasks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/services/serviceTasks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

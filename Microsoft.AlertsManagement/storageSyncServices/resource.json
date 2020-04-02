@@ -1,0 +1,7 @@
+[
+    "Microsoft.AlertsManagement/storageSyncServices/registeredServers",
+    "Microsoft.AlertsManagement/storageSyncServices/syncGroups",
+    "Microsoft.AlertsManagement/storageSyncServices/syncGroups/cloudEndpoints",
+    "Microsoft.AlertsManagement/storageSyncServices/syncGroups/serverEndpoints",
+    "Microsoft.AlertsManagement/storageSyncServices/workflows"
+]

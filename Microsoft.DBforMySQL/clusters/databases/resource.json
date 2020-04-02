@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMySQL/clusters/databases/dataconnections",
+    "Microsoft.DBforMySQL/clusters/databases/eventhubconnections",
+    "Microsoft.DBforMySQL/clusters/databases/principalassignments"
+]

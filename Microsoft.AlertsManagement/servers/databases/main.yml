@@ -1,0 +1,425 @@
+VulnerabilityAssessment:
+  path: Microsoft.AlertsManagement/servers/databases/VulnerabilityAssessment
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/VulnerabilityAssessment
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+VulnerabilityAssessmentScans:
+  path: Microsoft.AlertsManagement/servers/databases/VulnerabilityAssessmentScans
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/VulnerabilityAssessmentScans
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+VulnerabilityAssessmentSettings:
+  path: Microsoft.AlertsManagement/servers/databases/VulnerabilityAssessmentSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/VulnerabilityAssessmentSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+advisors:
+  path: Microsoft.AlertsManagement/servers/databases/advisors
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/advisors
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+auditRecords:
+  path: Microsoft.AlertsManagement/servers/databases/auditRecords
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/auditRecords
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+auditingPolicies:
+  path: Microsoft.AlertsManagement/servers/databases/auditingPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/auditingPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+auditingSettings:
+  path: Microsoft.AlertsManagement/servers/databases/auditingSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/auditingSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+automaticTuning:
+  path: Microsoft.AlertsManagement/servers/databases/automaticTuning
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/automaticTuning
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupLongTermRetentionPolicies:
+  path: Microsoft.AlertsManagement/servers/databases/backupLongTermRetentionPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/backupLongTermRetentionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupShortTermRetentionPolicies:
+  path: Microsoft.AlertsManagement/servers/databases/backupShortTermRetentionPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/backupShortTermRetentionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionPolicies:
+  path: Microsoft.AlertsManagement/servers/databases/connectionPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/connectionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataMaskingPolicies:
+  path: Microsoft.AlertsManagement/servers/databases/dataMaskingPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/dataMaskingPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extendedAuditingSettings:
+  path: Microsoft.AlertsManagement/servers/databases/extendedAuditingSettings
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/extendedAuditingSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extensions:
+  path: Microsoft.AlertsManagement/servers/databases/extensions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/extensions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+geoBackupPolicies:
+  path: Microsoft.AlertsManagement/servers/databases/geoBackupPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/geoBackupPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.AlertsManagement/servers/databases/metricDefinitions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/metricDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.AlertsManagement/servers/databases/metrics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/metrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+recommendedSensitivityLabels:
+  path: Microsoft.AlertsManagement/servers/databases/recommendedSensitivityLabels
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/recommendedSensitivityLabels
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.AlertsManagement/servers/databases/schemas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/schemas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+securityAlertPolicies:
+  path: Microsoft.AlertsManagement/servers/databases/securityAlertPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/securityAlertPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+syncGroups:
+  path: Microsoft.AlertsManagement/servers/databases/syncGroups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/syncGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+topQueries:
+  path: Microsoft.AlertsManagement/servers/databases/topQueries
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/topQueries
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transparentDataEncryption:
+  path: Microsoft.AlertsManagement/servers/databases/transparentDataEncryption
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/transparentDataEncryption
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vulnerabilityAssessments:
+  path: Microsoft.AlertsManagement/servers/databases/vulnerabilityAssessments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/vulnerabilityAssessments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+workloadGroups:
+  path: Microsoft.AlertsManagement/servers/databases/workloadGroups
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/servers/databases/workloadGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

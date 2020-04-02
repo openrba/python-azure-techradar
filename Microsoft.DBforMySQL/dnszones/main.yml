@@ -1,0 +1,204 @@
+A:
+  path: Microsoft.DBforMySQL/dnszones/A
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/dnszones/A
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+AAAA:
+  path: Microsoft.DBforMySQL/dnszones/AAAA
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/dnszones/AAAA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+CAA:
+  path: Microsoft.DBforMySQL/dnszones/CAA
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/dnszones/CAA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+CNAME:
+  path: Microsoft.DBforMySQL/dnszones/CNAME
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/dnszones/CNAME
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+MX:
+  path: Microsoft.DBforMySQL/dnszones/MX
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/dnszones/MX
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+NS:
+  path: Microsoft.DBforMySQL/dnszones/NS
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/dnszones/NS
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+PTR:
+  path: Microsoft.DBforMySQL/dnszones/PTR
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/dnszones/PTR
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+SOA:
+  path: Microsoft.DBforMySQL/dnszones/SOA
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/dnszones/SOA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+SRV:
+  path: Microsoft.DBforMySQL/dnszones/SRV
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/dnszones/SRV
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+TXT:
+  path: Microsoft.DBforMySQL/dnszones/TXT
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/dnszones/TXT
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+all:
+  path: Microsoft.DBforMySQL/dnszones/all
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/dnszones/all
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+recordsets:
+  path: Microsoft.DBforMySQL/dnszones/recordsets
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/dnszones/recordsets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

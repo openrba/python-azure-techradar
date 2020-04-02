@@ -1,0 +1,68 @@
+acceptTransfer:
+  path: Microsoft.DBforMariaDB/transfers/acceptTransfer
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/transfers/acceptTransfer
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+declineTransfer:
+  path: Microsoft.DBforMariaDB/transfers/declineTransfer
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/transfers/declineTransfer
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operationStatus:
+  path: Microsoft.DBforMariaDB/transfers/operationStatus
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/transfers/operationStatus
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+validateTransfer:
+  path: Microsoft.DBforMariaDB/transfers/validateTransfer
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/transfers/validateTransfer
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

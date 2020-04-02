@@ -1,0 +1,204 @@
+A:
+  path: Microsoft.AlertsManagement/dnszones/A
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/dnszones/A
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+AAAA:
+  path: Microsoft.AlertsManagement/dnszones/AAAA
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/dnszones/AAAA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+CAA:
+  path: Microsoft.AlertsManagement/dnszones/CAA
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/dnszones/CAA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+CNAME:
+  path: Microsoft.AlertsManagement/dnszones/CNAME
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/dnszones/CNAME
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+MX:
+  path: Microsoft.AlertsManagement/dnszones/MX
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/dnszones/MX
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+NS:
+  path: Microsoft.AlertsManagement/dnszones/NS
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/dnszones/NS
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+PTR:
+  path: Microsoft.AlertsManagement/dnszones/PTR
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/dnszones/PTR
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+SOA:
+  path: Microsoft.AlertsManagement/dnszones/SOA
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/dnszones/SOA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+SRV:
+  path: Microsoft.AlertsManagement/dnszones/SRV
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/dnszones/SRV
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+TXT:
+  path: Microsoft.AlertsManagement/dnszones/TXT
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/dnszones/TXT
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+all:
+  path: Microsoft.AlertsManagement/dnszones/all
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/dnszones/all
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+recordsets:
+  path: Microsoft.AlertsManagement/dnszones/recordsets
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/dnszones/recordsets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

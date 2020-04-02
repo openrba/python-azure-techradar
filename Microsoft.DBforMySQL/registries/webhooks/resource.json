@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMySQL/registries/webhooks/getCallbackConfig",
+    "Microsoft.DBforMySQL/registries/webhooks/listEvents",
+    "Microsoft.DBforMySQL/registries/webhooks/ping"
+]

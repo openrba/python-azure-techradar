@@ -1,0 +1,7 @@
+[
+    "Microsoft.ADHybridHealthService/services/problemclassifications",
+    "Microsoft.ADHybridHealthService/services/projects",
+    "Microsoft.ADHybridHealthService/services/projects/files",
+    "Microsoft.ADHybridHealthService/services/projects/tasks",
+    "Microsoft.ADHybridHealthService/services/serviceTasks"
+]

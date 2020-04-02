@@ -1,0 +1,68 @@
+functions:
+  path: Microsoft.ApiManagement/streamingjobs/functions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/streamingjobs/functions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+inputs:
+  path: Microsoft.ApiManagement/streamingjobs/inputs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/streamingjobs/inputs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+outputs:
+  path: Microsoft.ApiManagement/streamingjobs/outputs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/streamingjobs/outputs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transformations:
+  path: Microsoft.ApiManagement/streamingjobs/transformations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/streamingjobs/transformations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

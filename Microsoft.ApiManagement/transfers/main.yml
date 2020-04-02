@@ -1,0 +1,68 @@
+acceptTransfer:
+  path: Microsoft.ApiManagement/transfers/acceptTransfer
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/transfers/acceptTransfer
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+declineTransfer:
+  path: Microsoft.ApiManagement/transfers/declineTransfer
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/transfers/declineTransfer
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operationStatus:
+  path: Microsoft.ApiManagement/transfers/operationStatus
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/transfers/operationStatus
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+validateTransfer:
+  path: Microsoft.ApiManagement/transfers/validateTransfer
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/transfers/validateTransfer
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

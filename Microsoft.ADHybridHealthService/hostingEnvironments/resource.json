@@ -1,0 +1,4 @@
+[
+    "Microsoft.ADHybridHealthService/hostingEnvironments/multiRolePools",
+    "Microsoft.ADHybridHealthService/hostingEnvironments/workerPools"
+]

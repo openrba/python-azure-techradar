@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMySQL/privateLinkScopes/privateEndpointConnectionProxies",
+    "Microsoft.DBforMySQL/privateLinkScopes/privateEndpointConnections",
+    "Microsoft.DBforMySQL/privateLinkScopes/scopedResources"
+]

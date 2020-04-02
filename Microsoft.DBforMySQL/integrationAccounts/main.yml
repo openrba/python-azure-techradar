@@ -1,0 +1,153 @@
+agreements:
+  path: Microsoft.DBforMySQL/integrationAccounts/agreements
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/integrationAccounts/agreements
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+assemblies:
+  path: Microsoft.DBforMySQL/integrationAccounts/assemblies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/integrationAccounts/assemblies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+batchConfigurations:
+  path: Microsoft.DBforMySQL/integrationAccounts/batchConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/integrationAccounts/batchConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+certificates:
+  path: Microsoft.DBforMySQL/integrationAccounts/certificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/integrationAccounts/certificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+maps:
+  path: Microsoft.DBforMySQL/integrationAccounts/maps
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/integrationAccounts/maps
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+partners:
+  path: Microsoft.DBforMySQL/integrationAccounts/partners
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/integrationAccounts/partners
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+rosettaNetProcessConfigurations:
+  path: Microsoft.DBforMySQL/integrationAccounts/rosettaNetProcessConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/integrationAccounts/rosettaNetProcessConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.DBforMySQL/integrationAccounts/schemas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/integrationAccounts/schemas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sessions:
+  path: Microsoft.DBforMySQL/integrationAccounts/sessions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/integrationAccounts/sessions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

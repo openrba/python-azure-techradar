@@ -1,0 +1,22 @@
+[
+    "Microsoft.ApiManagement/automationAccounts/certificates",
+    "Microsoft.ApiManagement/automationAccounts/compilationjobs",
+    "Microsoft.ApiManagement/automationAccounts/configurations",
+    "Microsoft.ApiManagement/automationAccounts/connectionTypes",
+    "Microsoft.ApiManagement/automationAccounts/connections",
+    "Microsoft.ApiManagement/automationAccounts/credentials",
+    "Microsoft.ApiManagement/automationAccounts/jobSchedules",
+    "Microsoft.ApiManagement/automationAccounts/jobs",
+    "Microsoft.ApiManagement/automationAccounts/modules",
+    "Microsoft.ApiManagement/automationAccounts/nodeConfigurations",
+    "Microsoft.ApiManagement/automationAccounts/privateEndpointConnectionProxies",
+    "Microsoft.ApiManagement/automationAccounts/privateEndpointConnections",
+    "Microsoft.ApiManagement/automationAccounts/privateLinkResources",
+    "Microsoft.ApiManagement/automationAccounts/python2Packages",
+    "Microsoft.ApiManagement/automationAccounts/runbooks",
+    "Microsoft.ApiManagement/automationAccounts/schedules",
+    "Microsoft.ApiManagement/automationAccounts/softwareUpdateConfigurations",
+    "Microsoft.ApiManagement/automationAccounts/variables",
+    "Microsoft.ApiManagement/automationAccounts/watchers",
+    "Microsoft.ApiManagement/automationAccounts/webhooks"
+]

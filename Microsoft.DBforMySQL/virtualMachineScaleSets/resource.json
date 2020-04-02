@@ -1,0 +1,7 @@
+[
+    "Microsoft.DBforMySQL/virtualMachineScaleSets/extensions",
+    "Microsoft.DBforMySQL/virtualMachineScaleSets/networkInterfaces",
+    "Microsoft.DBforMySQL/virtualMachineScaleSets/publicIPAddresses",
+    "Microsoft.DBforMySQL/virtualMachineScaleSets/virtualMachines",
+    "Microsoft.DBforMySQL/virtualMachineScaleSets/virtualMachines/networkInterfaces"
+]

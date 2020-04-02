@@ -1,0 +1,85 @@
+backupLongTermRetentionPolicies:
+  path: Microsoft.Advisor/managedInstances/databases/backupLongTermRetentionPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/managedInstances/databases/backupLongTermRetentionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupShortTermRetentionPolicies:
+  path: Microsoft.Advisor/managedInstances/databases/backupShortTermRetentionPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/managedInstances/databases/backupShortTermRetentionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.Advisor/managedInstances/databases/schemas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/managedInstances/databases/schemas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+securityAlertPolicies:
+  path: Microsoft.Advisor/managedInstances/databases/securityAlertPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/managedInstances/databases/securityAlertPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vulnerabilityAssessments:
+  path: Microsoft.Advisor/managedInstances/databases/vulnerabilityAssessments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/managedInstances/databases/vulnerabilityAssessments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

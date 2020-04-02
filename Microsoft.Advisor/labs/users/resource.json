@@ -1,0 +1,7 @@
+[
+    "Microsoft.Advisor/labs/users/disks",
+    "Microsoft.Advisor/labs/users/environments",
+    "Microsoft.Advisor/labs/users/secrets",
+    "Microsoft.Advisor/labs/users/serviceFabrics",
+    "Microsoft.Advisor/labs/users/serviceFabrics/schedules"
+]

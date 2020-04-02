@@ -1,0 +1,13 @@
+[
+    "Microsoft.DBforMariaDB/clusters/applicationTypes",
+    "Microsoft.DBforMariaDB/clusters/applicationTypes/versions",
+    "Microsoft.DBforMariaDB/clusters/applications",
+    "Microsoft.DBforMariaDB/clusters/applications/services",
+    "Microsoft.DBforMariaDB/clusters/attacheddatabaseconfigurations",
+    "Microsoft.DBforMariaDB/clusters/databases",
+    "Microsoft.DBforMariaDB/clusters/databases/dataconnections",
+    "Microsoft.DBforMariaDB/clusters/databases/eventhubconnections",
+    "Microsoft.DBforMariaDB/clusters/databases/principalassignments",
+    "Microsoft.DBforMariaDB/clusters/operationresults",
+    "Microsoft.DBforMariaDB/clusters/principalassignments"
+]

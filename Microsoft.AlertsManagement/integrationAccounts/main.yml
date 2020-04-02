@@ -1,0 +1,153 @@
+agreements:
+  path: Microsoft.AlertsManagement/integrationAccounts/agreements
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/integrationAccounts/agreements
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+assemblies:
+  path: Microsoft.AlertsManagement/integrationAccounts/assemblies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/integrationAccounts/assemblies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+batchConfigurations:
+  path: Microsoft.AlertsManagement/integrationAccounts/batchConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/integrationAccounts/batchConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+certificates:
+  path: Microsoft.AlertsManagement/integrationAccounts/certificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/integrationAccounts/certificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+maps:
+  path: Microsoft.AlertsManagement/integrationAccounts/maps
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/integrationAccounts/maps
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+partners:
+  path: Microsoft.AlertsManagement/integrationAccounts/partners
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/integrationAccounts/partners
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+rosettaNetProcessConfigurations:
+  path: Microsoft.AlertsManagement/integrationAccounts/rosettaNetProcessConfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/integrationAccounts/rosettaNetProcessConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.AlertsManagement/integrationAccounts/schemas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/integrationAccounts/schemas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sessions:
+  path: Microsoft.AlertsManagement/integrationAccounts/sessions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/integrationAccounts/sessions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

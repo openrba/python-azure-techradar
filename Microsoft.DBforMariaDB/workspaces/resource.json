@@ -1,0 +1,16 @@
+[
+    "Microsoft.DBforMariaDB/workspaces/clusters",
+    "Microsoft.DBforMariaDB/workspaces/computes",
+    "Microsoft.DBforMariaDB/workspaces/dataSources",
+    "Microsoft.DBforMariaDB/workspaces/dbWorkspaces",
+    "Microsoft.DBforMariaDB/workspaces/eventGridFilters",
+    "Microsoft.DBforMariaDB/workspaces/experiments",
+    "Microsoft.DBforMariaDB/workspaces/experiments/jobs",
+    "Microsoft.DBforMariaDB/workspaces/fileservers",
+    "Microsoft.DBforMariaDB/workspaces/linkedServices",
+    "Microsoft.DBforMariaDB/workspaces/query",
+    "Microsoft.DBforMariaDB/workspaces/savedSearches",
+    "Microsoft.DBforMariaDB/workspaces/scopedPrivateLinkProxies",
+    "Microsoft.DBforMariaDB/workspaces/storageinsightconfigs",
+    "Microsoft.DBforMariaDB/workspaces/virtualNetworkPeerings"
+]

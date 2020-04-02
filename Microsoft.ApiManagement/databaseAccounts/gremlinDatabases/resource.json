@@ -1,0 +1,5 @@
+[
+    "Microsoft.ApiManagement/databaseAccounts/gremlinDatabases/graphs",
+    "Microsoft.ApiManagement/databaseAccounts/gremlinDatabases/graphs/throughputSettings",
+    "Microsoft.ApiManagement/databaseAccounts/gremlinDatabases/throughputSettings"
+]

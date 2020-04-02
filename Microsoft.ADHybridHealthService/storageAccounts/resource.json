@@ -1,0 +1,19 @@
+[
+    "Microsoft.ADHybridHealthService/storageAccounts/blobServices",
+    "Microsoft.ADHybridHealthService/storageAccounts/blobServices/containers/immutabilityPolicies",
+    "Microsoft.ADHybridHealthService/storageAccounts/fileServices",
+    "Microsoft.ADHybridHealthService/storageAccounts/fileServices/shares",
+    "Microsoft.ADHybridHealthService/storageAccounts/listAccountSas",
+    "Microsoft.ADHybridHealthService/storageAccounts/listServiceSas",
+    "Microsoft.ADHybridHealthService/storageAccounts/managementPolicies",
+    "Microsoft.ADHybridHealthService/storageAccounts/metricDefinitions",
+    "Microsoft.ADHybridHealthService/storageAccounts/metrics",
+    "Microsoft.ADHybridHealthService/storageAccounts/privateEndpointConnections",
+    "Microsoft.ADHybridHealthService/storageAccounts/queueServices",
+    "Microsoft.ADHybridHealthService/storageAccounts/services",
+    "Microsoft.ADHybridHealthService/storageAccounts/services/diagnosticSettings",
+    "Microsoft.ADHybridHealthService/storageAccounts/services/metricDefinitions",
+    "Microsoft.ADHybridHealthService/storageAccounts/services/metrics",
+    "Microsoft.ADHybridHealthService/storageAccounts/tableServices",
+    "Microsoft.ADHybridHealthService/storageAccounts/vmImages"
+]

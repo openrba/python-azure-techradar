@@ -1,0 +1,153 @@
+agreements:
+  path: Microsoft.ADHybridHealthService/integrationAccounts/agreements
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/integrationAccounts/agreements
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+assemblies:
+  path: Microsoft.ADHybridHealthService/integrationAccounts/assemblies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/integrationAccounts/assemblies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+batchConfigurations:
+  path: Microsoft.ADHybridHealthService/integrationAccounts/batchConfigurations
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/integrationAccounts/batchConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+certificates:
+  path: Microsoft.ADHybridHealthService/integrationAccounts/certificates
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/integrationAccounts/certificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+maps:
+  path: Microsoft.ADHybridHealthService/integrationAccounts/maps
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/integrationAccounts/maps
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+partners:
+  path: Microsoft.ADHybridHealthService/integrationAccounts/partners
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/integrationAccounts/partners
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+rosettaNetProcessConfigurations:
+  path: Microsoft.ADHybridHealthService/integrationAccounts/rosettaNetProcessConfigurations
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/integrationAccounts/rosettaNetProcessConfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.ADHybridHealthService/integrationAccounts/schemas
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/integrationAccounts/schemas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sessions:
+  path: Microsoft.ADHybridHealthService/integrationAccounts/sessions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/integrationAccounts/sessions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

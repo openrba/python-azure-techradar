@@ -1,0 +1,5 @@
+[
+    "Microsoft.AlertsManagement/privateLinkScopes/privateEndpointConnectionProxies",
+    "Microsoft.AlertsManagement/privateLinkScopes/privateEndpointConnections",
+    "Microsoft.AlertsManagement/privateLinkScopes/scopedResources"
+]

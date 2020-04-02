@@ -1,0 +1,102 @@
+cassandraKeyspaces:
+  path: Microsoft.DBforMariaDB/databaseAccounts/cassandraKeyspaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/databaseAccounts/cassandraKeyspaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+gremlinDatabases:
+  path: Microsoft.DBforMariaDB/databaseAccounts/gremlinDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/databaseAccounts/gremlinDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+mongodbDatabases:
+  path: Microsoft.DBforMariaDB/databaseAccounts/mongodbDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/databaseAccounts/mongodbDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.DBforMariaDB/databaseAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/databaseAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlDatabases:
+  path: Microsoft.DBforMariaDB/databaseAccounts/sqlDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/databaseAccounts/sqlDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tables:
+  path: Microsoft.DBforMariaDB/databaseAccounts/tables
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/databaseAccounts/tables
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

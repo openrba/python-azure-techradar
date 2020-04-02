@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMariaDB/servers/firewallRules/endIpAddress",
+    "Microsoft.DBforMariaDB/servers/firewallRules/startIpAddress"
+]

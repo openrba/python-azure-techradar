@@ -1,0 +1,20 @@
+[
+    "Microsoft.DBforMySQL/labs/artifactSources",
+    "Microsoft.DBforMySQL/labs/costs",
+    "Microsoft.DBforMySQL/labs/customImages",
+    "Microsoft.DBforMySQL/labs/environments",
+    "Microsoft.DBforMySQL/labs/formulas",
+    "Microsoft.DBforMySQL/labs/notificationChannels",
+    "Microsoft.DBforMySQL/labs/policySets/policies",
+    "Microsoft.DBforMySQL/labs/schedules",
+    "Microsoft.DBforMySQL/labs/serviceRunners",
+    "Microsoft.DBforMySQL/labs/users",
+    "Microsoft.DBforMySQL/labs/users/disks",
+    "Microsoft.DBforMySQL/labs/users/environments",
+    "Microsoft.DBforMySQL/labs/users/secrets",
+    "Microsoft.DBforMySQL/labs/users/serviceFabrics",
+    "Microsoft.DBforMySQL/labs/users/serviceFabrics/schedules",
+    "Microsoft.DBforMySQL/labs/virtualMachines",
+    "Microsoft.DBforMySQL/labs/virtualMachines/schedules",
+    "Microsoft.DBforMySQL/labs/virtualNetworks"
+]

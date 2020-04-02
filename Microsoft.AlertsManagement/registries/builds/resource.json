@@ -1,0 +1,4 @@
+[
+    "Microsoft.AlertsManagement/registries/builds/cancel",
+    "Microsoft.AlertsManagement/registries/builds/getLogLink"
+]

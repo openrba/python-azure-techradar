@@ -1,0 +1,6 @@
+[
+    "Microsoft.ApiManagement/batchAccounts/applications",
+    "Microsoft.ApiManagement/batchAccounts/applications/versions",
+    "Microsoft.ApiManagement/batchAccounts/certificates",
+    "Microsoft.ApiManagement/batchAccounts/pools"
+]

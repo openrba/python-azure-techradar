@@ -1,0 +1,5 @@
+[
+    "Microsoft.Advisor/privateLinkScopes/privateEndpointConnectionProxies",
+    "Microsoft.Advisor/privateLinkScopes/privateEndpointConnections",
+    "Microsoft.Advisor/privateLinkScopes/scopedResources"
+]

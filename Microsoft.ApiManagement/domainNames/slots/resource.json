@@ -1,0 +1,5 @@
+[
+    "Microsoft.ApiManagement/domainNames/slots/roles",
+    "Microsoft.ApiManagement/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.ApiManagement/domainNames/slots/roles/metrics"
+]

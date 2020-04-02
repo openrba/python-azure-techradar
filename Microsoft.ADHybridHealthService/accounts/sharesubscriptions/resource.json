@@ -1,0 +1,5 @@
+[
+    "Microsoft.ADHybridHealthService/accounts/sharesubscriptions/consumerSourceDataSets",
+    "Microsoft.ADHybridHealthService/accounts/sharesubscriptions/datasetmappings",
+    "Microsoft.ADHybridHealthService/accounts/sharesubscriptions/triggers"
+]

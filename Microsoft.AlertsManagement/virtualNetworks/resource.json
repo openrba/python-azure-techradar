@@ -1,0 +1,5 @@
+[
+    "Microsoft.AlertsManagement/virtualNetworks/remoteVirtualNetworkPeeringProxies",
+    "Microsoft.AlertsManagement/virtualNetworks/subnets",
+    "Microsoft.AlertsManagement/virtualNetworks/virtualNetworkPeerings"
+]

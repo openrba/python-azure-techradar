@@ -1,0 +1,14 @@
+[
+    "Microsoft.DBforMariaDB/service/apis/diagnostics",
+    "Microsoft.DBforMariaDB/service/apis/issues",
+    "Microsoft.DBforMariaDB/service/apis/issues/attachments",
+    "Microsoft.DBforMariaDB/service/apis/issues/comments",
+    "Microsoft.DBforMariaDB/service/apis/operations",
+    "Microsoft.DBforMariaDB/service/apis/operations/policies",
+    "Microsoft.DBforMariaDB/service/apis/operations/tags",
+    "Microsoft.DBforMariaDB/service/apis/policies",
+    "Microsoft.DBforMariaDB/service/apis/releases",
+    "Microsoft.DBforMariaDB/service/apis/schemas",
+    "Microsoft.DBforMariaDB/service/apis/tagDescriptions",
+    "Microsoft.DBforMariaDB/service/apis/tags"
+]

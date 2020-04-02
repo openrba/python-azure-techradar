@@ -1,0 +1,204 @@
+accountFilters:
+  path: Microsoft.DBforMySQL/mediaservices/accountFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/mediaservices/accountFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+assets:
+  path: Microsoft.DBforMySQL/mediaservices/assets
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/mediaservices/assets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+contentKeyPolicies:
+  path: Microsoft.DBforMySQL/mediaservices/contentKeyPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/mediaservices/contentKeyPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.DBforMySQL/mediaservices/eventGridFilters
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/mediaservices/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveEventOperations:
+  path: Microsoft.DBforMySQL/mediaservices/liveEventOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/mediaservices/liveEventOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveEvents:
+  path: Microsoft.DBforMySQL/mediaservices/liveEvents
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/mediaservices/liveEvents
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveOutputOperations:
+  path: Microsoft.DBforMySQL/mediaservices/liveOutputOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/mediaservices/liveOutputOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingEndpointOperations:
+  path: Microsoft.DBforMySQL/mediaservices/streamingEndpointOperations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/mediaservices/streamingEndpointOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingEndpoints:
+  path: Microsoft.DBforMySQL/mediaservices/streamingEndpoints
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/mediaservices/streamingEndpoints
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingLocators:
+  path: Microsoft.DBforMySQL/mediaservices/streamingLocators
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/mediaservices/streamingLocators
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingPolicies:
+  path: Microsoft.DBforMySQL/mediaservices/streamingPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/mediaservices/streamingPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transforms:
+  path: Microsoft.DBforMySQL/mediaservices/transforms
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/mediaservices/transforms
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

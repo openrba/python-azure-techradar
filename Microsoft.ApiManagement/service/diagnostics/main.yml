@@ -1,0 +1,493 @@
+alwaysLog:
+  path: Microsoft.ApiManagement/service/diagnostics/alwaysLog
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/alwaysLog
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backend:
+  path: Microsoft.ApiManagement/service/diagnostics/backend
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/backend
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backend.request:
+  path: Microsoft.ApiManagement/service/diagnostics/backend.request
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/backend.request
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backend.request.body:
+  path: Microsoft.ApiManagement/service/diagnostics/backend.request.body
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/backend.request.body
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backend.request.body.bytes:
+  path: Microsoft.ApiManagement/service/diagnostics/backend.request.body.bytes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/backend.request.body.bytes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backend.request.headers:
+  path: Microsoft.ApiManagement/service/diagnostics/backend.request.headers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/backend.request.headers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backend.request.headers[*]:
+  path: Microsoft.ApiManagement/service/diagnostics/backend.request.headers[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/backend.request.headers[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backend.response:
+  path: Microsoft.ApiManagement/service/diagnostics/backend.response
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/backend.response
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backend.response.body:
+  path: Microsoft.ApiManagement/service/diagnostics/backend.response.body
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/backend.response.body
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backend.response.body.bytes:
+  path: Microsoft.ApiManagement/service/diagnostics/backend.response.body.bytes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/backend.response.body.bytes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backend.response.headers:
+  path: Microsoft.ApiManagement/service/diagnostics/backend.response.headers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/backend.response.headers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backend.response.headers[*]:
+  path: Microsoft.ApiManagement/service/diagnostics/backend.response.headers[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/backend.response.headers[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enableHttpCorrelationHeaders:
+  path: Microsoft.ApiManagement/service/diagnostics/enableHttpCorrelationHeaders
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/enableHttpCorrelationHeaders
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enabled:
+  path: Microsoft.ApiManagement/service/diagnostics/enabled
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/enabled
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontend:
+  path: Microsoft.ApiManagement/service/diagnostics/frontend
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/frontend
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontend.request:
+  path: Microsoft.ApiManagement/service/diagnostics/frontend.request
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/frontend.request
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontend.request.body:
+  path: Microsoft.ApiManagement/service/diagnostics/frontend.request.body
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/frontend.request.body
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontend.request.body.bytes:
+  path: Microsoft.ApiManagement/service/diagnostics/frontend.request.body.bytes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/frontend.request.body.bytes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontend.request.headers:
+  path: Microsoft.ApiManagement/service/diagnostics/frontend.request.headers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/frontend.request.headers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontend.request.headers[*]:
+  path: Microsoft.ApiManagement/service/diagnostics/frontend.request.headers[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/frontend.request.headers[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontend.response:
+  path: Microsoft.ApiManagement/service/diagnostics/frontend.response
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/frontend.response
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontend.response.body:
+  path: Microsoft.ApiManagement/service/diagnostics/frontend.response.body
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/frontend.response.body
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontend.response.body.bytes:
+  path: Microsoft.ApiManagement/service/diagnostics/frontend.response.body.bytes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/frontend.response.body.bytes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontend.response.headers:
+  path: Microsoft.ApiManagement/service/diagnostics/frontend.response.headers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/frontend.response.headers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+frontend.response.headers[*]:
+  path: Microsoft.ApiManagement/service/diagnostics/frontend.response.headers[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/frontend.response.headers[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+loggerId:
+  path: Microsoft.ApiManagement/service/diagnostics/loggerId
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/loggerId
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sampling:
+  path: Microsoft.ApiManagement/service/diagnostics/sampling
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/sampling
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sampling.percentage:
+  path: Microsoft.ApiManagement/service/diagnostics/sampling.percentage
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/sampling.percentage
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sampling.samplingType:
+  path: Microsoft.ApiManagement/service/diagnostics/sampling.samplingType
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/diagnostics/sampling.samplingType
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

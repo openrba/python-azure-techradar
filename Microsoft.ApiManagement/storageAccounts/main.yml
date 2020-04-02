@@ -1,0 +1,204 @@
+blobServices:
+  path: Microsoft.ApiManagement/storageAccounts/blobServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/storageAccounts/blobServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileServices:
+  path: Microsoft.ApiManagement/storageAccounts/fileServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/storageAccounts/fileServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listAccountSas:
+  path: Microsoft.ApiManagement/storageAccounts/listAccountSas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/storageAccounts/listAccountSas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listServiceSas:
+  path: Microsoft.ApiManagement/storageAccounts/listServiceSas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/storageAccounts/listServiceSas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementPolicies:
+  path: Microsoft.ApiManagement/storageAccounts/managementPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/storageAccounts/managementPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.ApiManagement/storageAccounts/metricDefinitions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/storageAccounts/metricDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.ApiManagement/storageAccounts/metrics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/storageAccounts/metrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.ApiManagement/storageAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/storageAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+queueServices:
+  path: Microsoft.ApiManagement/storageAccounts/queueServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/storageAccounts/queueServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+services:
+  path: Microsoft.ApiManagement/storageAccounts/services
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/storageAccounts/services
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tableServices:
+  path: Microsoft.ApiManagement/storageAccounts/tableServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/storageAccounts/tableServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vmImages:
+  path: Microsoft.ApiManagement/storageAccounts/vmImages
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/storageAccounts/vmImages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

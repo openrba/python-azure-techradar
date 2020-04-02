@@ -1,0 +1,7 @@
+[
+    "Microsoft.DBforMariaDB/Locations/OperationStatuses",
+    "Microsoft.DBforMariaDB/Locations/OperationTypes",
+    "Microsoft.DBforMariaDB/Locations/availabilityGroupListenerOperationResults",
+    "Microsoft.DBforMariaDB/Locations/sqlVirtualMachineGroupOperationResults",
+    "Microsoft.DBforMariaDB/Locations/sqlVirtualMachineOperationResults"
+]

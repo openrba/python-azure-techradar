@@ -1,0 +1,4 @@
+[
+    "Microsoft.ADHybridHealthService/configurationStores/eventGridFilters",
+    "Microsoft.ADHybridHealthService/configurationStores/privateEndpointConnections"
+]

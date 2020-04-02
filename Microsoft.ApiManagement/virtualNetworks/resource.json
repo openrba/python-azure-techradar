@@ -1,0 +1,5 @@
+[
+    "Microsoft.ApiManagement/virtualNetworks/remoteVirtualNetworkPeeringProxies",
+    "Microsoft.ApiManagement/virtualNetworks/subnets",
+    "Microsoft.ApiManagement/virtualNetworks/virtualNetworkPeerings"
+]

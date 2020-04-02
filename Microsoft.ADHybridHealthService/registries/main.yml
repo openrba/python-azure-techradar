@@ -1,0 +1,442 @@
+GetCredentials:
+  path: Microsoft.ADHybridHealthService/registries/GetCredentials
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/GetCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+buildTasks:
+  path: Microsoft.ADHybridHealthService/registries/buildTasks
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/buildTasks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+builds:
+  path: Microsoft.ADHybridHealthService/registries/builds
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/builds
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.ADHybridHealthService/registries/eventGridFilters
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+generateCredentials:
+  path: Microsoft.ADHybridHealthService/registries/generateCredentials
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/generateCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+getBuildSourceUploadUrl:
+  path: Microsoft.ADHybridHealthService/registries/getBuildSourceUploadUrl
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/getBuildSourceUploadUrl
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+importImage:
+  path: Microsoft.ADHybridHealthService/registries/importImage
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/importImage
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listBuildSourceUploadUrl:
+  path: Microsoft.ADHybridHealthService/registries/listBuildSourceUploadUrl
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/listBuildSourceUploadUrl
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listCredentials:
+  path: Microsoft.ADHybridHealthService/registries/listCredentials
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/listCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listPolicies:
+  path: Microsoft.ADHybridHealthService/registries/listPolicies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/listPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listUsages:
+  path: Microsoft.ADHybridHealthService/registries/listUsages
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/listUsages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnectionProxies:
+  path: Microsoft.ADHybridHealthService/registries/privateEndpointConnectionProxies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/privateEndpointConnectionProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.ADHybridHealthService/registries/privateEndpointConnections
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateLinkResources:
+  path: Microsoft.ADHybridHealthService/registries/privateLinkResources
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/privateLinkResources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+queueBuild:
+  path: Microsoft.ADHybridHealthService/registries/queueBuild
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/queueBuild
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+regenerateCredential:
+  path: Microsoft.ADHybridHealthService/registries/regenerateCredential
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/regenerateCredential
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+regenerateCredentials:
+  path: Microsoft.ADHybridHealthService/registries/regenerateCredentials
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/regenerateCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+replications:
+  path: Microsoft.ADHybridHealthService/registries/replications
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/replications
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+runs:
+  path: Microsoft.ADHybridHealthService/registries/runs
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/runs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scheduleRun:
+  path: Microsoft.ADHybridHealthService/registries/scheduleRun
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/scheduleRun
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scopeMaps:
+  path: Microsoft.ADHybridHealthService/registries/scopeMaps
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/scopeMaps
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+taskRuns:
+  path: Microsoft.ADHybridHealthService/registries/taskRuns
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/taskRuns
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tasks:
+  path: Microsoft.ADHybridHealthService/registries/tasks
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/tasks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tokens:
+  path: Microsoft.ADHybridHealthService/registries/tokens
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/tokens
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+updatePolicies:
+  path: Microsoft.ADHybridHealthService/registries/updatePolicies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/updatePolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+webhooks:
+  path: Microsoft.ADHybridHealthService/registries/webhooks
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/registries/webhooks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

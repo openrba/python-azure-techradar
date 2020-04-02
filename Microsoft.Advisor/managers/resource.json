@@ -1,0 +1,19 @@
+[
+    "Microsoft.Advisor/managers/accessControlRecords",
+    "Microsoft.Advisor/managers/bandwidthSettings",
+    "Microsoft.Advisor/managers/devices/alertSettings",
+    "Microsoft.Advisor/managers/devices/backupPolicies",
+    "Microsoft.Advisor/managers/devices/backupPolicies/schedules",
+    "Microsoft.Advisor/managers/devices/backupScheduleGroups",
+    "Microsoft.Advisor/managers/devices/chapSettings",
+    "Microsoft.Advisor/managers/devices/fileservers",
+    "Microsoft.Advisor/managers/devices/fileservers/shares",
+    "Microsoft.Advisor/managers/devices/iscsiservers",
+    "Microsoft.Advisor/managers/devices/iscsiservers/disks",
+    "Microsoft.Advisor/managers/devices/timeSettings",
+    "Microsoft.Advisor/managers/devices/volumeContainers",
+    "Microsoft.Advisor/managers/devices/volumeContainers/volumes",
+    "Microsoft.Advisor/managers/extendedInformation",
+    "Microsoft.Advisor/managers/storageAccountCredentials",
+    "Microsoft.Advisor/managers/storageDomains"
+]

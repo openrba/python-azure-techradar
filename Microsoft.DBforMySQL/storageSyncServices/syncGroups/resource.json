@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMySQL/storageSyncServices/syncGroups/cloudEndpoints",
+    "Microsoft.DBforMySQL/storageSyncServices/syncGroups/serverEndpoints"
+]

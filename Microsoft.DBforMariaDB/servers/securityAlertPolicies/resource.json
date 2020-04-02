@@ -1,0 +1,20 @@
+[
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.disabledAlerts",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.disabledAlerts[*]",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.emailAccountAdmins",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.emailAddresses",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.emailAddresses[*]",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.retentionDays",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.state",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.storageAccountAccessKey",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.storageEndpoint",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/disabledAlerts",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/disabledAlerts[*]",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/emailAccountAdmins",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/emailAddresses",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/emailAddresses[*]",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/retentionDays",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/state",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/storageAccountAccessKey",
+    "Microsoft.DBforMariaDB/servers/securityAlertPolicies/storageEndpoint"
+]

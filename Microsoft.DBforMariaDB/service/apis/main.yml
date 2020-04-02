@@ -1,0 +1,136 @@
+diagnostics:
+  path: Microsoft.DBforMariaDB/service/apis/diagnostics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/apis/diagnostics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+issues:
+  path: Microsoft.DBforMariaDB/service/apis/issues
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/apis/issues
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operations:
+  path: Microsoft.DBforMariaDB/service/apis/operations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/apis/operations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policies:
+  path: Microsoft.DBforMariaDB/service/apis/policies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/apis/policies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+releases:
+  path: Microsoft.DBforMariaDB/service/apis/releases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/apis/releases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.DBforMariaDB/service/apis/schemas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/apis/schemas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tagDescriptions:
+  path: Microsoft.DBforMariaDB/service/apis/tagDescriptions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/apis/tagDescriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tags:
+  path: Microsoft.DBforMariaDB/service/apis/tags
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/service/apis/tags
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

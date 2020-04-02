@@ -1,0 +1,6 @@
+[
+    "Microsoft.AlertsManagement/accounts/shares/datasets",
+    "Microsoft.AlertsManagement/accounts/shares/invitations",
+    "Microsoft.AlertsManagement/accounts/shares/providersharesubscriptions",
+    "Microsoft.AlertsManagement/accounts/shares/synchronizationSettings"
+]

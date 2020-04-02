@@ -1,0 +1,11 @@
+[
+    "Microsoft.DBforMySQL/reservationOrders/availableScopes",
+    "Microsoft.DBforMySQL/reservationOrders/calculateRefund",
+    "Microsoft.DBforMySQL/reservationOrders/merge",
+    "Microsoft.DBforMySQL/reservationOrders/reservations",
+    "Microsoft.DBforMySQL/reservationOrders/reservations/availableScopes",
+    "Microsoft.DBforMySQL/reservationOrders/reservations/revisions",
+    "Microsoft.DBforMySQL/reservationOrders/return",
+    "Microsoft.DBforMySQL/reservationOrders/split",
+    "Microsoft.DBforMySQL/reservationOrders/swap"
+]

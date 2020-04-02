@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMariaDB/billingAccounts/invoiceSections/products/transfer",
+    "Microsoft.DBforMariaDB/billingAccounts/invoiceSections/products/updateAutoRenew"
+]

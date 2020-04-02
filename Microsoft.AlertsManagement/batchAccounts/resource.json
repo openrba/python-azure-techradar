@@ -1,0 +1,6 @@
+[
+    "Microsoft.AlertsManagement/batchAccounts/applications",
+    "Microsoft.AlertsManagement/batchAccounts/applications/versions",
+    "Microsoft.AlertsManagement/batchAccounts/certificates",
+    "Microsoft.AlertsManagement/batchAccounts/pools"
+]

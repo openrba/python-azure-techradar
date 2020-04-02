@@ -1,0 +1,8 @@
+[
+    "Microsoft.DBforMariaDB/Vaults/backupFabrics/backupProtectionIntent",
+    "Microsoft.DBforMariaDB/Vaults/backupFabrics/protectionContainers",
+    "Microsoft.DBforMariaDB/Vaults/backupFabrics/protectionContainers/protectedItems",
+    "Microsoft.DBforMariaDB/Vaults/backupPolicies",
+    "Microsoft.DBforMariaDB/Vaults/backupstorageconfig",
+    "Microsoft.DBforMariaDB/Vaults/extendedInformation"
+]

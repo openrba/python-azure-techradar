@@ -1,0 +1,7 @@
+[
+    "Microsoft.DBforMariaDB/storageSyncServices/registeredServers",
+    "Microsoft.DBforMariaDB/storageSyncServices/syncGroups",
+    "Microsoft.DBforMariaDB/storageSyncServices/syncGroups/cloudEndpoints",
+    "Microsoft.DBforMariaDB/storageSyncServices/syncGroups/serverEndpoints",
+    "Microsoft.DBforMariaDB/storageSyncServices/workflows"
+]

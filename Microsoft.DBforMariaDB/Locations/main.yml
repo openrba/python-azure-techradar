@@ -1,0 +1,85 @@
+OperationStatuses:
+  path: Microsoft.DBforMariaDB/Locations/OperationStatuses
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/Locations/OperationStatuses
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+OperationTypes:
+  path: Microsoft.DBforMariaDB/Locations/OperationTypes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/Locations/OperationTypes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilityGroupListenerOperationResults:
+  path: Microsoft.DBforMariaDB/Locations/availabilityGroupListenerOperationResults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/Locations/availabilityGroupListenerOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlVirtualMachineGroupOperationResults:
+  path: Microsoft.DBforMariaDB/Locations/sqlVirtualMachineGroupOperationResults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/Locations/sqlVirtualMachineGroupOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlVirtualMachineOperationResults:
+  path: Microsoft.DBforMariaDB/Locations/sqlVirtualMachineOperationResults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/Locations/sqlVirtualMachineOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

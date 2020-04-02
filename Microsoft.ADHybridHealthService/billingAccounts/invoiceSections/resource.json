@@ -1,0 +1,15 @@
+[
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/billingSubscriptionMoveOperations",
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/billingSubscriptions",
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/billingSubscriptions/transfer",
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/elevate",
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/initiateTransfer",
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/patchOperations",
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/productMoveOperations",
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/productTransfersResults",
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/products",
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/products/transfer",
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/products/updateAutoRenew",
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/transactions",
+    "Microsoft.ADHybridHealthService/billingAccounts/invoiceSections/transfers"
+]

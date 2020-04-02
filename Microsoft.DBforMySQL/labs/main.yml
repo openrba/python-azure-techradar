@@ -1,0 +1,204 @@
+artifactSources:
+  path: Microsoft.DBforMySQL/labs/artifactSources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/labs/artifactSources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+costs:
+  path: Microsoft.DBforMySQL/labs/costs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/labs/costs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customImages:
+  path: Microsoft.DBforMySQL/labs/customImages
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/labs/customImages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+environments:
+  path: Microsoft.DBforMySQL/labs/environments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/labs/environments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+formulas:
+  path: Microsoft.DBforMySQL/labs/formulas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/labs/formulas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+notificationChannels:
+  path: Microsoft.DBforMySQL/labs/notificationChannels
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/labs/notificationChannels
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policySets:
+  path: Microsoft.DBforMySQL/labs/policySets
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/labs/policySets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schedules:
+  path: Microsoft.DBforMySQL/labs/schedules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/labs/schedules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceRunners:
+  path: Microsoft.DBforMySQL/labs/serviceRunners
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/labs/serviceRunners
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+users:
+  path: Microsoft.DBforMySQL/labs/users
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/labs/users
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines:
+  path: Microsoft.DBforMySQL/labs/virtualMachines
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/labs/virtualMachines
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworks:
+  path: Microsoft.DBforMySQL/labs/virtualNetworks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/labs/virtualNetworks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

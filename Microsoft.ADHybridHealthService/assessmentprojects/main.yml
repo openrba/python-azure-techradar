@@ -1,0 +1,51 @@
+groups:
+  path: Microsoft.ADHybridHealthService/assessmentprojects/groups
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/assessmentprojects/groups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hypervcollectors:
+  path: Microsoft.ADHybridHealthService/assessmentprojects/hypervcollectors
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/assessmentprojects/hypervcollectors
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vmwarecollectors:
+  path: Microsoft.ADHybridHealthService/assessmentprojects/vmwarecollectors
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/assessmentprojects/vmwarecollectors
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

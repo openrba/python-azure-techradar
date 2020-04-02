@@ -1,0 +1,20 @@
+[
+    "Microsoft.DBforMariaDB/labs/artifactSources",
+    "Microsoft.DBforMariaDB/labs/costs",
+    "Microsoft.DBforMariaDB/labs/customImages",
+    "Microsoft.DBforMariaDB/labs/environments",
+    "Microsoft.DBforMariaDB/labs/formulas",
+    "Microsoft.DBforMariaDB/labs/notificationChannels",
+    "Microsoft.DBforMariaDB/labs/policySets/policies",
+    "Microsoft.DBforMariaDB/labs/schedules",
+    "Microsoft.DBforMariaDB/labs/serviceRunners",
+    "Microsoft.DBforMariaDB/labs/users",
+    "Microsoft.DBforMariaDB/labs/users/disks",
+    "Microsoft.DBforMariaDB/labs/users/environments",
+    "Microsoft.DBforMariaDB/labs/users/secrets",
+    "Microsoft.DBforMariaDB/labs/users/serviceFabrics",
+    "Microsoft.DBforMariaDB/labs/users/serviceFabrics/schedules",
+    "Microsoft.DBforMariaDB/labs/virtualMachines",
+    "Microsoft.DBforMariaDB/labs/virtualMachines/schedules",
+    "Microsoft.DBforMariaDB/labs/virtualNetworks"
+]

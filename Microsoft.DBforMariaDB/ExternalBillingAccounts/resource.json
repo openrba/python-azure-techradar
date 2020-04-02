@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMariaDB/ExternalBillingAccounts/Alerts",
+    "Microsoft.DBforMariaDB/ExternalBillingAccounts/Dimensions",
+    "Microsoft.DBforMariaDB/ExternalBillingAccounts/Forecast",
+    "Microsoft.DBforMariaDB/ExternalBillingAccounts/Query"
+]

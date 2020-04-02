@@ -1,0 +1,4 @@
+[
+    "Microsoft.ApiManagement/registries/builds/cancel",
+    "Microsoft.ApiManagement/registries/builds/getLogLink"
+]

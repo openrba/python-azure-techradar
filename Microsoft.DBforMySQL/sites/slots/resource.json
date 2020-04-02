@@ -1,0 +1,14 @@
+[
+    "Microsoft.DBforMySQL/sites/slots/config",
+    "Microsoft.DBforMySQL/sites/slots/domainownershipidentifiers",
+    "Microsoft.DBforMySQL/sites/slots/eventGridFilters",
+    "Microsoft.DBforMySQL/sites/slots/hostNameBindings",
+    "Microsoft.DBforMySQL/sites/slots/hybridconnection",
+    "Microsoft.DBforMySQL/sites/slots/hybridconnectionnamespaces/relays",
+    "Microsoft.DBforMySQL/sites/slots/networkConfig",
+    "Microsoft.DBforMySQL/sites/slots/premieraddons",
+    "Microsoft.DBforMySQL/sites/slots/publiccertificates",
+    "Microsoft.DBforMySQL/sites/slots/sourcecontrols",
+    "Microsoft.DBforMySQL/sites/slots/virtualnetworkconnections",
+    "Microsoft.DBforMySQL/sites/slots/virtualnetworkconnections/gateways"
+]

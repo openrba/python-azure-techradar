@@ -1,0 +1,5 @@
+[
+    "Microsoft.Advisor/virtualNetworks/remoteVirtualNetworkPeeringProxies",
+    "Microsoft.Advisor/virtualNetworks/subnets",
+    "Microsoft.Advisor/virtualNetworks/virtualNetworkPeerings"
+]

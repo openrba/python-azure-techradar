@@ -1,0 +1,11 @@
+[
+    "Microsoft.AlertsManagement/integrationAccounts/agreements",
+    "Microsoft.AlertsManagement/integrationAccounts/assemblies",
+    "Microsoft.AlertsManagement/integrationAccounts/batchConfigurations",
+    "Microsoft.AlertsManagement/integrationAccounts/certificates",
+    "Microsoft.AlertsManagement/integrationAccounts/maps",
+    "Microsoft.AlertsManagement/integrationAccounts/partners",
+    "Microsoft.AlertsManagement/integrationAccounts/rosettaNetProcessConfigurations",
+    "Microsoft.AlertsManagement/integrationAccounts/schemas",
+    "Microsoft.AlertsManagement/integrationAccounts/sessions"
+]

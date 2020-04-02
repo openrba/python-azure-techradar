@@ -1,0 +1,357 @@
+allowedTenants:
+  path: Microsoft.ApiManagement/service/identityProviders/allowedTenants
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/allowedTenants
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+allowedTenants[*]:
+  path: Microsoft.ApiManagement/service/identityProviders/allowedTenants[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/allowedTenants[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+authority:
+  path: Microsoft.ApiManagement/service/identityProviders/authority
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/authority
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+clientId:
+  path: Microsoft.ApiManagement/service/identityProviders/clientId
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/clientId
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+clientSecret:
+  path: Microsoft.ApiManagement/service/identityProviders/clientSecret
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/clientSecret
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+facebook.allowedTenants:
+  path: Microsoft.ApiManagement/service/identityProviders/facebook.allowedTenants
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/facebook.allowedTenants
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+facebook.allowedTenants[*]:
+  path: Microsoft.ApiManagement/service/identityProviders/facebook.allowedTenants[*]
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/facebook.allowedTenants[*]
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+facebook.authority:
+  path: Microsoft.ApiManagement/service/identityProviders/facebook.authority
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/facebook.authority
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+facebook.clientId:
+  path: Microsoft.ApiManagement/service/identityProviders/facebook.clientId
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/facebook.clientId
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+facebook.clientSecret:
+  path: Microsoft.ApiManagement/service/identityProviders/facebook.clientSecret
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/facebook.clientSecret
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+facebook.passwordResetPolicyName:
+  path: Microsoft.ApiManagement/service/identityProviders/facebook.passwordResetPolicyName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/facebook.passwordResetPolicyName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+facebook.profileEditingPolicyName:
+  path: Microsoft.ApiManagement/service/identityProviders/facebook.profileEditingPolicyName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/facebook.profileEditingPolicyName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+facebook.signinPolicyName:
+  path: Microsoft.ApiManagement/service/identityProviders/facebook.signinPolicyName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/facebook.signinPolicyName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+facebook.signinTenant:
+  path: Microsoft.ApiManagement/service/identityProviders/facebook.signinTenant
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/facebook.signinTenant
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+facebook.signupPolicyName:
+  path: Microsoft.ApiManagement/service/identityProviders/facebook.signupPolicyName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/facebook.signupPolicyName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+facebook.type:
+  path: Microsoft.ApiManagement/service/identityProviders/facebook.type
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/facebook.type
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+passwordResetPolicyName:
+  path: Microsoft.ApiManagement/service/identityProviders/passwordResetPolicyName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/passwordResetPolicyName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+profileEditingPolicyName:
+  path: Microsoft.ApiManagement/service/identityProviders/profileEditingPolicyName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/profileEditingPolicyName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+signinPolicyName:
+  path: Microsoft.ApiManagement/service/identityProviders/signinPolicyName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/signinPolicyName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+signupPolicyName:
+  path: Microsoft.ApiManagement/service/identityProviders/signupPolicyName
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/signupPolicyName
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+type:
+  path: Microsoft.ApiManagement/service/identityProviders/type
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/service/identityProviders/type
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

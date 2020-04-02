@@ -1,0 +1,16 @@
+[
+    "Microsoft.AlertsManagement/workspaces/clusters",
+    "Microsoft.AlertsManagement/workspaces/computes",
+    "Microsoft.AlertsManagement/workspaces/dataSources",
+    "Microsoft.AlertsManagement/workspaces/dbWorkspaces",
+    "Microsoft.AlertsManagement/workspaces/eventGridFilters",
+    "Microsoft.AlertsManagement/workspaces/experiments",
+    "Microsoft.AlertsManagement/workspaces/experiments/jobs",
+    "Microsoft.AlertsManagement/workspaces/fileservers",
+    "Microsoft.AlertsManagement/workspaces/linkedServices",
+    "Microsoft.AlertsManagement/workspaces/query",
+    "Microsoft.AlertsManagement/workspaces/savedSearches",
+    "Microsoft.AlertsManagement/workspaces/scopedPrivateLinkProxies",
+    "Microsoft.AlertsManagement/workspaces/storageinsightconfigs",
+    "Microsoft.AlertsManagement/workspaces/virtualNetworkPeerings"
+]

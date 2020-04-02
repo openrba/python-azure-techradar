@@ -1,0 +1,11 @@
+[
+    "Microsoft.ApiManagement/service/users/email",
+    "Microsoft.ApiManagement/service/users/firstName",
+    "Microsoft.ApiManagement/service/users/identities",
+    "Microsoft.ApiManagement/service/users/identities[*]",
+    "Microsoft.ApiManagement/service/users/identities[*].id",
+    "Microsoft.ApiManagement/service/users/identities[*].provider",
+    "Microsoft.ApiManagement/service/users/lastName",
+    "Microsoft.ApiManagement/service/users/note",
+    "Microsoft.ApiManagement/service/users/state"
+]

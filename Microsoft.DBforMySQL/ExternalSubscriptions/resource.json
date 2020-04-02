@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMySQL/ExternalSubscriptions/Alerts",
+    "Microsoft.DBforMySQL/ExternalSubscriptions/Dimensions",
+    "Microsoft.DBforMySQL/ExternalSubscriptions/Forecast",
+    "Microsoft.DBforMySQL/ExternalSubscriptions/Query"
+]

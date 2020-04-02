@@ -1,0 +1,102 @@
+dataflows:
+  path: Microsoft.DBforMySQL/factories/dataflows
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/factories/dataflows
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+datasets:
+  path: Microsoft.DBforMySQL/factories/datasets
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/factories/datasets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+integrationRuntimes:
+  path: Microsoft.DBforMySQL/factories/integrationRuntimes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/factories/integrationRuntimes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+linkedservices:
+  path: Microsoft.DBforMySQL/factories/linkedservices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/factories/linkedservices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+pipelines:
+  path: Microsoft.DBforMySQL/factories/pipelines
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/factories/pipelines
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+triggers:
+  path: Microsoft.DBforMySQL/factories/triggers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/factories/triggers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

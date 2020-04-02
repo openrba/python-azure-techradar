@@ -1,0 +1,11 @@
+[
+    "Microsoft.Advisor/integrationAccounts/agreements",
+    "Microsoft.Advisor/integrationAccounts/assemblies",
+    "Microsoft.Advisor/integrationAccounts/batchConfigurations",
+    "Microsoft.Advisor/integrationAccounts/certificates",
+    "Microsoft.Advisor/integrationAccounts/maps",
+    "Microsoft.Advisor/integrationAccounts/partners",
+    "Microsoft.Advisor/integrationAccounts/rosettaNetProcessConfigurations",
+    "Microsoft.Advisor/integrationAccounts/schemas",
+    "Microsoft.Advisor/integrationAccounts/sessions"
+]

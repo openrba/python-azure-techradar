@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMariaDB/dataFactories/diagnosticSettings",
+    "Microsoft.DBforMariaDB/dataFactories/metricDefinitions"
+]

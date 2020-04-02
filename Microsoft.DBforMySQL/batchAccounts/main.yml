@@ -1,0 +1,51 @@
+applications:
+  path: Microsoft.DBforMySQL/batchAccounts/applications
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/batchAccounts/applications
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+certificates:
+  path: Microsoft.DBforMySQL/batchAccounts/certificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/batchAccounts/certificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+pools:
+  path: Microsoft.DBforMySQL/batchAccounts/pools
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMySQL/batchAccounts/pools
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

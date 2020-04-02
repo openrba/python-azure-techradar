@@ -1,0 +1,9 @@
+[
+    "Microsoft.ADHybridHealthService/domainNames/capabilities",
+    "Microsoft.ADHybridHealthService/domainNames/internalLoadBalancers",
+    "Microsoft.ADHybridHealthService/domainNames/serviceCertificates",
+    "Microsoft.ADHybridHealthService/domainNames/slots",
+    "Microsoft.ADHybridHealthService/domainNames/slots/roles",
+    "Microsoft.ADHybridHealthService/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.ADHybridHealthService/domainNames/slots/roles/metrics"
+]

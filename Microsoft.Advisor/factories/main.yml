@@ -1,0 +1,102 @@
+dataflows:
+  path: Microsoft.Advisor/factories/dataflows
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/factories/dataflows
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+datasets:
+  path: Microsoft.Advisor/factories/datasets
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/factories/datasets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+integrationRuntimes:
+  path: Microsoft.Advisor/factories/integrationRuntimes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/factories/integrationRuntimes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+linkedservices:
+  path: Microsoft.Advisor/factories/linkedservices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/factories/linkedservices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+pipelines:
+  path: Microsoft.Advisor/factories/pipelines
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/factories/pipelines
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+triggers:
+  path: Microsoft.Advisor/factories/triggers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/factories/triggers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

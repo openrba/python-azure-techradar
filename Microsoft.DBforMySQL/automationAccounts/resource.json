@@ -1,0 +1,22 @@
+[
+    "Microsoft.DBforMySQL/automationAccounts/certificates",
+    "Microsoft.DBforMySQL/automationAccounts/compilationjobs",
+    "Microsoft.DBforMySQL/automationAccounts/configurations",
+    "Microsoft.DBforMySQL/automationAccounts/connectionTypes",
+    "Microsoft.DBforMySQL/automationAccounts/connections",
+    "Microsoft.DBforMySQL/automationAccounts/credentials",
+    "Microsoft.DBforMySQL/automationAccounts/jobSchedules",
+    "Microsoft.DBforMySQL/automationAccounts/jobs",
+    "Microsoft.DBforMySQL/automationAccounts/modules",
+    "Microsoft.DBforMySQL/automationAccounts/nodeConfigurations",
+    "Microsoft.DBforMySQL/automationAccounts/privateEndpointConnectionProxies",
+    "Microsoft.DBforMySQL/automationAccounts/privateEndpointConnections",
+    "Microsoft.DBforMySQL/automationAccounts/privateLinkResources",
+    "Microsoft.DBforMySQL/automationAccounts/python2Packages",
+    "Microsoft.DBforMySQL/automationAccounts/runbooks",
+    "Microsoft.DBforMySQL/automationAccounts/schedules",
+    "Microsoft.DBforMySQL/automationAccounts/softwareUpdateConfigurations",
+    "Microsoft.DBforMySQL/automationAccounts/variables",
+    "Microsoft.DBforMySQL/automationAccounts/watchers",
+    "Microsoft.DBforMySQL/automationAccounts/webhooks"
+]

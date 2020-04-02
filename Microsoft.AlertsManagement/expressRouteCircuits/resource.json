@@ -1,0 +1,5 @@
+[
+    "Microsoft.AlertsManagement/expressRouteCircuits/authorizations",
+    "Microsoft.AlertsManagement/expressRouteCircuits/peerings",
+    "Microsoft.AlertsManagement/expressRouteCircuits/peerings/connections"
+]

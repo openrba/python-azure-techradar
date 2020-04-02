@@ -1,0 +1,187 @@
+administrators:
+  path: Microsoft.ApiManagement/managedInstances/administrators
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/managedInstances/administrators
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+databases:
+  path: Microsoft.ApiManagement/managedInstances/databases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/managedInstances/databases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+encryptionProtector:
+  path: Microsoft.ApiManagement/managedInstances/encryptionProtector
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/managedInstances/encryptionProtector
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+keys:
+  path: Microsoft.ApiManagement/managedInstances/keys
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/managedInstances/keys
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.ApiManagement/managedInstances/metricDefinitions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/managedInstances/metricDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.ApiManagement/managedInstances/metrics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/managedInstances/metrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+recoverableDatabases:
+  path: Microsoft.ApiManagement/managedInstances/recoverableDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/managedInstances/recoverableDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+restorableDroppedDatabases:
+  path: Microsoft.ApiManagement/managedInstances/restorableDroppedDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/managedInstances/restorableDroppedDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+securityAlertPolicies:
+  path: Microsoft.ApiManagement/managedInstances/securityAlertPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/managedInstances/securityAlertPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tdeCertificates:
+  path: Microsoft.ApiManagement/managedInstances/tdeCertificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/managedInstances/tdeCertificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vulnerabilityAssessments:
+  path: Microsoft.ApiManagement/managedInstances/vulnerabilityAssessments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/managedInstances/vulnerabilityAssessments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

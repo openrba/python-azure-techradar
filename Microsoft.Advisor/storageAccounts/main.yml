@@ -1,0 +1,204 @@
+blobServices:
+  path: Microsoft.Advisor/storageAccounts/blobServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/storageAccounts/blobServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileServices:
+  path: Microsoft.Advisor/storageAccounts/fileServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/storageAccounts/fileServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listAccountSas:
+  path: Microsoft.Advisor/storageAccounts/listAccountSas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/storageAccounts/listAccountSas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listServiceSas:
+  path: Microsoft.Advisor/storageAccounts/listServiceSas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/storageAccounts/listServiceSas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementPolicies:
+  path: Microsoft.Advisor/storageAccounts/managementPolicies
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/storageAccounts/managementPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.Advisor/storageAccounts/metricDefinitions
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/storageAccounts/metricDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.Advisor/storageAccounts/metrics
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/storageAccounts/metrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.Advisor/storageAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/storageAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+queueServices:
+  path: Microsoft.Advisor/storageAccounts/queueServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/storageAccounts/queueServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+services:
+  path: Microsoft.Advisor/storageAccounts/services
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/storageAccounts/services
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tableServices:
+  path: Microsoft.Advisor/storageAccounts/tableServices
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/storageAccounts/tableServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vmImages:
+  path: Microsoft.Advisor/storageAccounts/vmImages
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/storageAccounts/vmImages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

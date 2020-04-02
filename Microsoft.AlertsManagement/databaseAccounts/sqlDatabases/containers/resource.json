@@ -1,0 +1,6 @@
+[
+    "Microsoft.AlertsManagement/databaseAccounts/sqlDatabases/containers/storedProcedures",
+    "Microsoft.AlertsManagement/databaseAccounts/sqlDatabases/containers/throughputSettings",
+    "Microsoft.AlertsManagement/databaseAccounts/sqlDatabases/containers/triggers",
+    "Microsoft.AlertsManagement/databaseAccounts/sqlDatabases/containers/userDefinedFunctions"
+]

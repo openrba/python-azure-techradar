@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMariaDB/serviceTopologies/services",
+    "Microsoft.DBforMariaDB/serviceTopologies/services/serviceUnits"
+]

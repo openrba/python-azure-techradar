@@ -1,0 +1,14 @@
+[
+    "Microsoft.AlertsManagement/service/apis/diagnostics",
+    "Microsoft.AlertsManagement/service/apis/issues",
+    "Microsoft.AlertsManagement/service/apis/issues/attachments",
+    "Microsoft.AlertsManagement/service/apis/issues/comments",
+    "Microsoft.AlertsManagement/service/apis/operations",
+    "Microsoft.AlertsManagement/service/apis/operations/policies",
+    "Microsoft.AlertsManagement/service/apis/operations/tags",
+    "Microsoft.AlertsManagement/service/apis/policies",
+    "Microsoft.AlertsManagement/service/apis/releases",
+    "Microsoft.AlertsManagement/service/apis/schemas",
+    "Microsoft.AlertsManagement/service/apis/tagDescriptions",
+    "Microsoft.AlertsManagement/service/apis/tags"
+]

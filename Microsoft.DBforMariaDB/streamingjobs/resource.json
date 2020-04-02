@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMariaDB/streamingjobs/functions",
+    "Microsoft.DBforMariaDB/streamingjobs/inputs",
+    "Microsoft.DBforMariaDB/streamingjobs/outputs",
+    "Microsoft.DBforMariaDB/streamingjobs/transformations"
+]

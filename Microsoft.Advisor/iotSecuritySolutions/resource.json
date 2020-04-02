@@ -1,0 +1,5 @@
+[
+    "Microsoft.Advisor/iotSecuritySolutions/analyticsModels",
+    "Microsoft.Advisor/iotSecuritySolutions/analyticsModels/aggregatedAlerts",
+    "Microsoft.Advisor/iotSecuritySolutions/analyticsModels/aggregatedRecommendations"
+]

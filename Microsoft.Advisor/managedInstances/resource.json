@@ -1,0 +1,19 @@
+[
+    "Microsoft.Advisor/managedInstances/administrators",
+    "Microsoft.Advisor/managedInstances/databases",
+    "Microsoft.Advisor/managedInstances/databases/backupLongTermRetentionPolicies",
+    "Microsoft.Advisor/managedInstances/databases/backupShortTermRetentionPolicies",
+    "Microsoft.Advisor/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
+    "Microsoft.Advisor/managedInstances/databases/securityAlertPolicies",
+    "Microsoft.Advisor/managedInstances/databases/vulnerabilityAssessments",
+    "Microsoft.Advisor/managedInstances/databases/vulnerabilityAssessments/rules/baselines",
+    "Microsoft.Advisor/managedInstances/encryptionProtector",
+    "Microsoft.Advisor/managedInstances/keys",
+    "Microsoft.Advisor/managedInstances/metricDefinitions",
+    "Microsoft.Advisor/managedInstances/metrics",
+    "Microsoft.Advisor/managedInstances/recoverableDatabases",
+    "Microsoft.Advisor/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies",
+    "Microsoft.Advisor/managedInstances/securityAlertPolicies",
+    "Microsoft.Advisor/managedInstances/tdeCertificates",
+    "Microsoft.Advisor/managedInstances/vulnerabilityAssessments"
+]

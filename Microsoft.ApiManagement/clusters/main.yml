@@ -1,0 +1,102 @@
+applicationTypes:
+  path: Microsoft.ApiManagement/clusters/applicationTypes
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/clusters/applicationTypes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+applications:
+  path: Microsoft.ApiManagement/clusters/applications
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/clusters/applications
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+attacheddatabaseconfigurations:
+  path: Microsoft.ApiManagement/clusters/attacheddatabaseconfigurations
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/clusters/attacheddatabaseconfigurations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+databases:
+  path: Microsoft.ApiManagement/clusters/databases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/clusters/databases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operationresults:
+  path: Microsoft.ApiManagement/clusters/operationresults
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/clusters/operationresults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+principalassignments:
+  path: Microsoft.ApiManagement/clusters/principalassignments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.ApiManagement/clusters/principalassignments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

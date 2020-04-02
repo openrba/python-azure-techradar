@@ -1,0 +1,204 @@
+artifactSources:
+  path: Microsoft.DBforMariaDB/labs/artifactSources
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/labs/artifactSources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+costs:
+  path: Microsoft.DBforMariaDB/labs/costs
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/labs/costs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customImages:
+  path: Microsoft.DBforMariaDB/labs/customImages
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/labs/customImages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+environments:
+  path: Microsoft.DBforMariaDB/labs/environments
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/labs/environments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+formulas:
+  path: Microsoft.DBforMariaDB/labs/formulas
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/labs/formulas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+notificationChannels:
+  path: Microsoft.DBforMariaDB/labs/notificationChannels
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/labs/notificationChannels
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policySets:
+  path: Microsoft.DBforMariaDB/labs/policySets
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/labs/policySets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schedules:
+  path: Microsoft.DBforMariaDB/labs/schedules
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/labs/schedules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceRunners:
+  path: Microsoft.DBforMariaDB/labs/serviceRunners
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/labs/serviceRunners
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+users:
+  path: Microsoft.DBforMariaDB/labs/users
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/labs/users
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualMachines:
+  path: Microsoft.DBforMariaDB/labs/virtualMachines
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/labs/virtualMachines
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualNetworks:
+  path: Microsoft.DBforMariaDB/labs/virtualNetworks
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.DBforMariaDB/labs/virtualNetworks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

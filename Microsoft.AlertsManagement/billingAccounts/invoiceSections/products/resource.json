@@ -1,0 +1,4 @@
+[
+    "Microsoft.AlertsManagement/billingAccounts/invoiceSections/products/transfer",
+    "Microsoft.AlertsManagement/billingAccounts/invoiceSections/products/updateAutoRenew"
+]

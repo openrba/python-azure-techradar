@@ -1,0 +1,6 @@
+[
+    "Microsoft.ApiManagement/ExternalSubscriptions/Alerts",
+    "Microsoft.ApiManagement/ExternalSubscriptions/Dimensions",
+    "Microsoft.ApiManagement/ExternalSubscriptions/Forecast",
+    "Microsoft.ApiManagement/ExternalSubscriptions/Query"
+]

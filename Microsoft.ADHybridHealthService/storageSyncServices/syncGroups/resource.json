@@ -1,0 +1,4 @@
+[
+    "Microsoft.ADHybridHealthService/storageSyncServices/syncGroups/cloudEndpoints",
+    "Microsoft.ADHybridHealthService/storageSyncServices/syncGroups/serverEndpoints"
+]

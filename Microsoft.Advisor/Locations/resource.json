@@ -1,0 +1,7 @@
+[
+    "Microsoft.Advisor/Locations/OperationStatuses",
+    "Microsoft.Advisor/Locations/OperationTypes",
+    "Microsoft.Advisor/Locations/availabilityGroupListenerOperationResults",
+    "Microsoft.Advisor/Locations/sqlVirtualMachineGroupOperationResults",
+    "Microsoft.Advisor/Locations/sqlVirtualMachineOperationResults"
+]

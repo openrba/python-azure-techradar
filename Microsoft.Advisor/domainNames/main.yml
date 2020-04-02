@@ -1,0 +1,68 @@
+capabilities:
+  path: Microsoft.Advisor/domainNames/capabilities
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/domainNames/capabilities
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+internalLoadBalancers:
+  path: Microsoft.Advisor/domainNames/internalLoadBalancers
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/domainNames/internalLoadBalancers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceCertificates:
+  path: Microsoft.Advisor/domainNames/serviceCertificates
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/domainNames/serviceCertificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+slots:
+  path: Microsoft.Advisor/domainNames/slots
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.Advisor/domainNames/slots
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

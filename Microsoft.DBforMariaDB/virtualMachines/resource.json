@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMariaDB/virtualMachines/diagnosticSettings",
+    "Microsoft.DBforMariaDB/virtualMachines/extensions",
+    "Microsoft.DBforMariaDB/virtualMachines/metricDefinitions",
+    "Microsoft.DBforMariaDB/virtualMachines/metrics"
+]

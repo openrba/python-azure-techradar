@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforMariaDB/labAccounts/galleryImages",
+    "Microsoft.DBforMariaDB/labAccounts/labs",
+    "Microsoft.DBforMariaDB/labAccounts/labs/environmentSettings",
+    "Microsoft.DBforMariaDB/labAccounts/labs/users"
+]

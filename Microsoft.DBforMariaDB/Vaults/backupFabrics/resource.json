@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMariaDB/Vaults/backupFabrics/backupProtectionIntent",
+    "Microsoft.DBforMariaDB/Vaults/backupFabrics/protectionContainers",
+    "Microsoft.DBforMariaDB/Vaults/backupFabrics/protectionContainers/protectedItems"
+]

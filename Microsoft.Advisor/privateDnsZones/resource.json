@@ -1,0 +1,12 @@
+[
+    "Microsoft.Advisor/privateDnsZones/A",
+    "Microsoft.Advisor/privateDnsZones/AAAA",
+    "Microsoft.Advisor/privateDnsZones/CNAME",
+    "Microsoft.Advisor/privateDnsZones/MX",
+    "Microsoft.Advisor/privateDnsZones/PTR",
+    "Microsoft.Advisor/privateDnsZones/SOA",
+    "Microsoft.Advisor/privateDnsZones/SRV",
+    "Microsoft.Advisor/privateDnsZones/TXT",
+    "Microsoft.Advisor/privateDnsZones/all",
+    "Microsoft.Advisor/privateDnsZones/virtualNetworkLinks"
+]

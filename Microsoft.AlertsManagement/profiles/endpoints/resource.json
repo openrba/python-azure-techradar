@@ -1,0 +1,5 @@
+[
+    "Microsoft.AlertsManagement/profiles/endpoints/customdomains",
+    "Microsoft.AlertsManagement/profiles/endpoints/origingroups",
+    "Microsoft.AlertsManagement/profiles/endpoints/origins"
+]

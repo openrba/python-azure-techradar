@@ -1,0 +1,13 @@
+[
+    "Microsoft.AlertsManagement/clusters/applicationTypes",
+    "Microsoft.AlertsManagement/clusters/applicationTypes/versions",
+    "Microsoft.AlertsManagement/clusters/applications",
+    "Microsoft.AlertsManagement/clusters/applications/services",
+    "Microsoft.AlertsManagement/clusters/attacheddatabaseconfigurations",
+    "Microsoft.AlertsManagement/clusters/databases",
+    "Microsoft.AlertsManagement/clusters/databases/dataconnections",
+    "Microsoft.AlertsManagement/clusters/databases/eventhubconnections",
+    "Microsoft.AlertsManagement/clusters/databases/principalassignments",
+    "Microsoft.AlertsManagement/clusters/operationresults",
+    "Microsoft.AlertsManagement/clusters/principalassignments"
+]

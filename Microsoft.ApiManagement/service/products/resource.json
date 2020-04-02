@@ -1,0 +1,19 @@
+[
+    "Microsoft.ApiManagement/service/products/approvalRequired",
+    "Microsoft.ApiManagement/service/products/description",
+    "Microsoft.ApiManagement/service/products/displayName",
+    "Microsoft.ApiManagement/service/products/policies",
+    "Microsoft.ApiManagement/service/products/policies/contentFormat",
+    "Microsoft.ApiManagement/service/products/policies/format",
+    "Microsoft.ApiManagement/service/products/policies/policy.contentFormat",
+    "Microsoft.ApiManagement/service/products/policies/policy.format",
+    "Microsoft.ApiManagement/service/products/policies/policy.policyContent",
+    "Microsoft.ApiManagement/service/products/policies/policy.value",
+    "Microsoft.ApiManagement/service/products/policies/policyContent",
+    "Microsoft.ApiManagement/service/products/state",
+    "Microsoft.ApiManagement/service/products/subscriptionRequired",
+    "Microsoft.ApiManagement/service/products/subscriptionsLimit",
+    "Microsoft.ApiManagement/service/products/tags",
+    "Microsoft.ApiManagement/service/products/tags/displayName",
+    "Microsoft.ApiManagement/service/products/terms"
+]

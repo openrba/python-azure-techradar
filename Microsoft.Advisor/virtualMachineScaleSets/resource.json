@@ -1,0 +1,7 @@
+[
+    "Microsoft.Advisor/virtualMachineScaleSets/extensions",
+    "Microsoft.Advisor/virtualMachineScaleSets/networkInterfaces",
+    "Microsoft.Advisor/virtualMachineScaleSets/publicIPAddresses",
+    "Microsoft.Advisor/virtualMachineScaleSets/virtualMachines",
+    "Microsoft.Advisor/virtualMachineScaleSets/virtualMachines/networkInterfaces"
+]

@@ -1,0 +1,5 @@
+[
+    "Microsoft.ApiManagement/registries/webhooks/getCallbackConfig",
+    "Microsoft.ApiManagement/registries/webhooks/listEvents",
+    "Microsoft.ApiManagement/registries/webhooks/ping"
+]

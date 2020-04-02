@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMariaDB/virtualNetworks/remoteVirtualNetworkPeeringProxies",
+    "Microsoft.DBforMariaDB/virtualNetworks/subnets",
+    "Microsoft.DBforMariaDB/virtualNetworks/virtualNetworkPeerings"
+]

@@ -1,0 +1,9 @@
+[
+    "Microsoft.DBforMySQL/servers/privateEndpointConnections/privateEndpoint",
+    "Microsoft.DBforMySQL/servers/privateEndpointConnections/privateEndpoint.id",
+    "Microsoft.DBforMySQL/servers/privateEndpointConnections/privateLinkServiceConnectionState",
+    "Microsoft.DBforMySQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired",
+    "Microsoft.DBforMySQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.description",
+    "Microsoft.DBforMySQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.status",
+    "Microsoft.DBforMySQL/servers/privateEndpointConnections/provisioningState"
+]

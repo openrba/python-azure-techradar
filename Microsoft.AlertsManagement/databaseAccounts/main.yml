@@ -1,0 +1,102 @@
+cassandraKeyspaces:
+  path: Microsoft.AlertsManagement/databaseAccounts/cassandraKeyspaces
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/databaseAccounts/cassandraKeyspaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+gremlinDatabases:
+  path: Microsoft.AlertsManagement/databaseAccounts/gremlinDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/databaseAccounts/gremlinDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+mongodbDatabases:
+  path: Microsoft.AlertsManagement/databaseAccounts/mongodbDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/databaseAccounts/mongodbDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.AlertsManagement/databaseAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/databaseAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlDatabases:
+  path: Microsoft.AlertsManagement/databaseAccounts/sqlDatabases
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/databaseAccounts/sqlDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tables:
+  path: Microsoft.AlertsManagement/databaseAccounts/tables
+  description: UNKNOWN
+  status: ASSESS
+  url: Microsoft.AlertsManagement/databaseAccounts/tables
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

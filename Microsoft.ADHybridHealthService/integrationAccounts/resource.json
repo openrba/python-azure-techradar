@@ -1,0 +1,11 @@
+[
+    "Microsoft.ADHybridHealthService/integrationAccounts/agreements",
+    "Microsoft.ADHybridHealthService/integrationAccounts/assemblies",
+    "Microsoft.ADHybridHealthService/integrationAccounts/batchConfigurations",
+    "Microsoft.ADHybridHealthService/integrationAccounts/certificates",
+    "Microsoft.ADHybridHealthService/integrationAccounts/maps",
+    "Microsoft.ADHybridHealthService/integrationAccounts/partners",
+    "Microsoft.ADHybridHealthService/integrationAccounts/rosettaNetProcessConfigurations",
+    "Microsoft.ADHybridHealthService/integrationAccounts/schemas",
+    "Microsoft.ADHybridHealthService/integrationAccounts/sessions"
+]

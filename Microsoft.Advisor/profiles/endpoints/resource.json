@@ -1,0 +1,5 @@
+[
+    "Microsoft.Advisor/profiles/endpoints/customdomains",
+    "Microsoft.Advisor/profiles/endpoints/origingroups",
+    "Microsoft.Advisor/profiles/endpoints/origins"
+]

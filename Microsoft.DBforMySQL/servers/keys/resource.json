@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforMySQL/servers/keys/creationDate",
+    "Microsoft.DBforMySQL/servers/keys/serverKeyType",
+    "Microsoft.DBforMySQL/servers/keys/uri"
+]

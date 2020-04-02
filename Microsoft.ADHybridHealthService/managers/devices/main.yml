@@ -1,0 +1,136 @@
+alertSettings:
+  path: Microsoft.ADHybridHealthService/managers/devices/alertSettings
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/managers/devices/alertSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupPolicies:
+  path: Microsoft.ADHybridHealthService/managers/devices/backupPolicies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/managers/devices/backupPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupScheduleGroups:
+  path: Microsoft.ADHybridHealthService/managers/devices/backupScheduleGroups
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/managers/devices/backupScheduleGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+chapSettings:
+  path: Microsoft.ADHybridHealthService/managers/devices/chapSettings
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/managers/devices/chapSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileservers:
+  path: Microsoft.ADHybridHealthService/managers/devices/fileservers
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/managers/devices/fileservers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+iscsiservers:
+  path: Microsoft.ADHybridHealthService/managers/devices/iscsiservers
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/managers/devices/iscsiservers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+timeSettings:
+  path: Microsoft.ADHybridHealthService/managers/devices/timeSettings
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/managers/devices/timeSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+volumeContainers:
+  path: Microsoft.ADHybridHealthService/managers/devices/volumeContainers
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.ADHybridHealthService/managers/devices/volumeContainers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

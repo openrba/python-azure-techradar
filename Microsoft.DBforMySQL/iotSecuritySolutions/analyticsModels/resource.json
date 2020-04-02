@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforMySQL/iotSecuritySolutions/analyticsModels/aggregatedAlerts",
+    "Microsoft.DBforMySQL/iotSecuritySolutions/analyticsModels/aggregatedRecommendations"
+]
