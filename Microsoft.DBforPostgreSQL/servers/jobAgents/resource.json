@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforPostgreSQL/servers/jobAgents/jobs",
+    "Microsoft.DBforPostgreSQL/servers/jobAgents/jobs/executions",
+    "Microsoft.DBforPostgreSQL/servers/jobAgents/jobs/steps"
+]

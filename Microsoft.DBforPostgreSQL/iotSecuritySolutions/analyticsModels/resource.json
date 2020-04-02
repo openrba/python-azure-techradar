@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforPostgreSQL/iotSecuritySolutions/analyticsModels/aggregatedAlerts",
+    "Microsoft.DBforPostgreSQL/iotSecuritySolutions/analyticsModels/aggregatedRecommendations"
+]

@@ -1,0 +1,34 @@
+authorizations:
+  path: Microsoft.AzureActiveDirectory/expressRouteCircuits/authorizations
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/expressRouteCircuits/authorizations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+peerings:
+  path: Microsoft.AzureActiveDirectory/expressRouteCircuits/peerings
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/expressRouteCircuits/peerings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

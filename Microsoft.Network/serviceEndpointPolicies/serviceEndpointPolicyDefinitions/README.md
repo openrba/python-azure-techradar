@@ -27,14 +27,20 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[description](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/description)|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/description|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState)|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState|TRIAL|
-|[service](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/service)|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/service|TRIAL|
-|[serviceResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources)|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources|TRIAL|
-|[serviceResources[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*])|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*]|TRIAL|
+|<sub>[description](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/description)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/description</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState</sub>|<sub>TRIAL</sub>|
+|<sub>[service](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/service)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/service</sub>|<sub>TRIAL</sub>|
+|<sub>[serviceResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources</sub>|<sub>TRIAL</sub>|
+|<sub>[serviceResources[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*]</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

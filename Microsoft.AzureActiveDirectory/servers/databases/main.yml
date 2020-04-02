@@ -1,0 +1,425 @@
+VulnerabilityAssessment:
+  path: Microsoft.AzureActiveDirectory/servers/databases/VulnerabilityAssessment
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/VulnerabilityAssessment
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+VulnerabilityAssessmentScans:
+  path: Microsoft.AzureActiveDirectory/servers/databases/VulnerabilityAssessmentScans
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/VulnerabilityAssessmentScans
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+VulnerabilityAssessmentSettings:
+  path: Microsoft.AzureActiveDirectory/servers/databases/VulnerabilityAssessmentSettings
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/VulnerabilityAssessmentSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+advisors:
+  path: Microsoft.AzureActiveDirectory/servers/databases/advisors
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/advisors
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+auditRecords:
+  path: Microsoft.AzureActiveDirectory/servers/databases/auditRecords
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/auditRecords
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+auditingPolicies:
+  path: Microsoft.AzureActiveDirectory/servers/databases/auditingPolicies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/auditingPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+auditingSettings:
+  path: Microsoft.AzureActiveDirectory/servers/databases/auditingSettings
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/auditingSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+automaticTuning:
+  path: Microsoft.AzureActiveDirectory/servers/databases/automaticTuning
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/automaticTuning
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupLongTermRetentionPolicies:
+  path: Microsoft.AzureActiveDirectory/servers/databases/backupLongTermRetentionPolicies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/backupLongTermRetentionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+backupShortTermRetentionPolicies:
+  path: Microsoft.AzureActiveDirectory/servers/databases/backupShortTermRetentionPolicies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/backupShortTermRetentionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+connectionPolicies:
+  path: Microsoft.AzureActiveDirectory/servers/databases/connectionPolicies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/connectionPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+dataMaskingPolicies:
+  path: Microsoft.AzureActiveDirectory/servers/databases/dataMaskingPolicies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/dataMaskingPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extendedAuditingSettings:
+  path: Microsoft.AzureActiveDirectory/servers/databases/extendedAuditingSettings
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/extendedAuditingSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extensions:
+  path: Microsoft.AzureActiveDirectory/servers/databases/extensions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/extensions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+geoBackupPolicies:
+  path: Microsoft.AzureActiveDirectory/servers/databases/geoBackupPolicies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/geoBackupPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.AzureActiveDirectory/servers/databases/metricDefinitions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/metricDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.AzureActiveDirectory/servers/databases/metrics
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/metrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+recommendedSensitivityLabels:
+  path: Microsoft.AzureActiveDirectory/servers/databases/recommendedSensitivityLabels
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/recommendedSensitivityLabels
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+schemas:
+  path: Microsoft.AzureActiveDirectory/servers/databases/schemas
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/schemas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+securityAlertPolicies:
+  path: Microsoft.AzureActiveDirectory/servers/databases/securityAlertPolicies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/securityAlertPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+syncGroups:
+  path: Microsoft.AzureActiveDirectory/servers/databases/syncGroups
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/syncGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+topQueries:
+  path: Microsoft.AzureActiveDirectory/servers/databases/topQueries
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/topQueries
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transparentDataEncryption:
+  path: Microsoft.AzureActiveDirectory/servers/databases/transparentDataEncryption
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/transparentDataEncryption
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vulnerabilityAssessments:
+  path: Microsoft.AzureActiveDirectory/servers/databases/vulnerabilityAssessments
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/vulnerabilityAssessments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+workloadGroups:
+  path: Microsoft.AzureActiveDirectory/servers/databases/workloadGroups
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/servers/databases/workloadGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

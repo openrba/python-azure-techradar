@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforPostgreSQL/regulatoryComplianceStandards/regulatoryComplianceControls",
+    "Microsoft.DBforPostgreSQL/regulatoryComplianceStandards/regulatoryComplianceControls/regulatoryComplianceAssessments"
+]

@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforPostgreSQL/transfers/acceptTransfer",
+    "Microsoft.DBforPostgreSQL/transfers/declineTransfer",
+    "Microsoft.DBforPostgreSQL/transfers/operationStatus",
+    "Microsoft.DBforPostgreSQL/transfers/validateTransfer"
+]

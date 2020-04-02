@@ -1,0 +1,204 @@
+A:
+  path: Microsoft.AzureActiveDirectory/dnszones/A
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/dnszones/A
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+AAAA:
+  path: Microsoft.AzureActiveDirectory/dnszones/AAAA
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/dnszones/AAAA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+CAA:
+  path: Microsoft.AzureActiveDirectory/dnszones/CAA
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/dnszones/CAA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+CNAME:
+  path: Microsoft.AzureActiveDirectory/dnszones/CNAME
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/dnszones/CNAME
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+MX:
+  path: Microsoft.AzureActiveDirectory/dnszones/MX
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/dnszones/MX
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+NS:
+  path: Microsoft.AzureActiveDirectory/dnszones/NS
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/dnszones/NS
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+PTR:
+  path: Microsoft.AzureActiveDirectory/dnszones/PTR
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/dnszones/PTR
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+SOA:
+  path: Microsoft.AzureActiveDirectory/dnszones/SOA
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/dnszones/SOA
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+SRV:
+  path: Microsoft.AzureActiveDirectory/dnszones/SRV
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/dnszones/SRV
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+TXT:
+  path: Microsoft.AzureActiveDirectory/dnszones/TXT
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/dnszones/TXT
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+all:
+  path: Microsoft.AzureActiveDirectory/dnszones/all
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/dnszones/all
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+recordsets:
+  path: Microsoft.AzureActiveDirectory/dnszones/recordsets
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/dnszones/recordsets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

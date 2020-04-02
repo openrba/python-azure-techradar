@@ -1,0 +1,6 @@
+[
+    "Microsoft.AzureActiveDirectory/transfers/acceptTransfer",
+    "Microsoft.AzureActiveDirectory/transfers/declineTransfer",
+    "Microsoft.AzureActiveDirectory/transfers/operationStatus",
+    "Microsoft.AzureActiveDirectory/transfers/validateTransfer"
+]

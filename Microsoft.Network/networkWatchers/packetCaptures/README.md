@@ -27,24 +27,30 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[bytesToCapturePerPacket](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/bytesToCapturePerPacket)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/bytesToCapturePerPacket|TRIAL|
-|[filters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters|TRIAL|
-|[filters[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*])|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*]|TRIAL|
-|[filters[*].localIPAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].localIPAddress)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].localIPAddress|TRIAL|
-|[filters[*].localPort](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].localPort)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].localPort|TRIAL|
-|[filters[*].protocol](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].protocol)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].protocol|TRIAL|
-|[filters[*].remoteIPAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].remoteIPAddress)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].remoteIPAddress|TRIAL|
-|[filters[*].remotePort](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort|TRIAL|
-|[storageLocation](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/storageLocation|TRIAL|
-|[storageLocation.filePath](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation.filePath)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/storageLocation.filePath|TRIAL|
-|[storageLocation.storageId](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storageId)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storageId|TRIAL|
-|[storageLocation.storagePath](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storagePath)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storagePath|TRIAL|
-|[target](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/target)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/target|TRIAL|
-|[timeLimitInSeconds](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/timeLimitInSeconds)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/timeLimitInSeconds|TRIAL|
-|[totalBytesPerSession](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/totalBytesPerSession)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/totalBytesPerSession|TRIAL|
+|<sub>[bytesToCapturePerPacket](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/bytesToCapturePerPacket)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/bytesToCapturePerPacket</sub>|<sub>TRIAL</sub>|
+|<sub>[filters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/filters</sub>|<sub>TRIAL</sub>|
+|<sub>[filters[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/filters[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[filters[*].localIPAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].localIPAddress)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/filters[*].localIPAddress</sub>|<sub>TRIAL</sub>|
+|<sub>[filters[*].localPort](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].localPort)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/filters[*].localPort</sub>|<sub>TRIAL</sub>|
+|<sub>[filters[*].protocol](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].protocol)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/filters[*].protocol</sub>|<sub>TRIAL</sub>|
+|<sub>[filters[*].remoteIPAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].remoteIPAddress)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/filters[*].remoteIPAddress</sub>|<sub>TRIAL</sub>|
+|<sub>[filters[*].remotePort](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort</sub>|<sub>TRIAL</sub>|
+|<sub>[storageLocation](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/storageLocation</sub>|<sub>TRIAL</sub>|
+|<sub>[storageLocation.filePath](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation.filePath)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/storageLocation.filePath</sub>|<sub>TRIAL</sub>|
+|<sub>[storageLocation.storageId](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storageId)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storageId</sub>|<sub>TRIAL</sub>|
+|<sub>[storageLocation.storagePath](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storagePath)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storagePath</sub>|<sub>TRIAL</sub>|
+|<sub>[target](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/target)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/target</sub>|<sub>TRIAL</sub>|
+|<sub>[timeLimitInSeconds](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/timeLimitInSeconds)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/timeLimitInSeconds</sub>|<sub>TRIAL</sub>|
+|<sub>[totalBytesPerSession](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures/totalBytesPerSession)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/networkWatchers/packetCaptures/totalBytesPerSession</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

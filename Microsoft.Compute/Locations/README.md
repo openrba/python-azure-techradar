@@ -27,14 +27,20 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[OperationStatuses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Locations/OperationStatuses)|UNKNOWN|Microsoft.Compute/Locations/OperationStatuses|TRIAL|
-|[OperationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Locations/OperationTypes)|UNKNOWN|Microsoft.Compute/Locations/OperationTypes|TRIAL|
-|[availabilityGroupListenerOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Locations/availabilityGroupListenerOperationResults)|UNKNOWN|Microsoft.Compute/Locations/availabilityGroupListenerOperationResults|TRIAL|
-|[sqlVirtualMachineGroupOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Locations/sqlVirtualMachineGroupOperationResults)|UNKNOWN|Microsoft.Compute/Locations/sqlVirtualMachineGroupOperationResults|TRIAL|
-|[sqlVirtualMachineOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Locations/sqlVirtualMachineOperationResults)|UNKNOWN|Microsoft.Compute/Locations/sqlVirtualMachineOperationResults|TRIAL|
+|<sub>[OperationStatuses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Locations/OperationStatuses)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/Locations/OperationStatuses</sub>|<sub>TRIAL</sub>|
+|<sub>[OperationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Locations/OperationTypes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/Locations/OperationTypes</sub>|<sub>TRIAL</sub>|
+|<sub>[availabilityGroupListenerOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Locations/availabilityGroupListenerOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/Locations/availabilityGroupListenerOperationResults</sub>|<sub>TRIAL</sub>|
+|<sub>[sqlVirtualMachineGroupOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Locations/sqlVirtualMachineGroupOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/Locations/sqlVirtualMachineGroupOperationResults</sub>|<sub>TRIAL</sub>|
+|<sub>[sqlVirtualMachineOperationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Locations/sqlVirtualMachineOperationResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/Locations/sqlVirtualMachineOperationResults</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

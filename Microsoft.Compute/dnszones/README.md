@@ -27,21 +27,27 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/A)|UNKNOWN|Microsoft.Compute/dnszones/A|TRIAL|
-|[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/AAAA)|UNKNOWN|Microsoft.Compute/dnszones/AAAA|TRIAL|
-|[CAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/CAA)|UNKNOWN|Microsoft.Compute/dnszones/CAA|TRIAL|
-|[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/CNAME)|UNKNOWN|Microsoft.Compute/dnszones/CNAME|TRIAL|
-|[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/MX)|UNKNOWN|Microsoft.Compute/dnszones/MX|TRIAL|
-|[NS](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/NS)|UNKNOWN|Microsoft.Compute/dnszones/NS|TRIAL|
-|[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/PTR)|UNKNOWN|Microsoft.Compute/dnszones/PTR|TRIAL|
-|[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/SOA)|UNKNOWN|Microsoft.Compute/dnszones/SOA|TRIAL|
-|[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/SRV)|UNKNOWN|Microsoft.Compute/dnszones/SRV|TRIAL|
-|[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/TXT)|UNKNOWN|Microsoft.Compute/dnszones/TXT|TRIAL|
-|[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/all)|UNKNOWN|Microsoft.Compute/dnszones/all|TRIAL|
-|[recordsets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/recordsets)|UNKNOWN|Microsoft.Compute/dnszones/recordsets|TRIAL|
+|<sub>[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/A)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/dnszones/A</sub>|<sub>TRIAL</sub>|
+|<sub>[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/AAAA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/dnszones/AAAA</sub>|<sub>TRIAL</sub>|
+|<sub>[CAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/CAA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/dnszones/CAA</sub>|<sub>TRIAL</sub>|
+|<sub>[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/CNAME)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/dnszones/CNAME</sub>|<sub>TRIAL</sub>|
+|<sub>[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/MX)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/dnszones/MX</sub>|<sub>TRIAL</sub>|
+|<sub>[NS](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/NS)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/dnszones/NS</sub>|<sub>TRIAL</sub>|
+|<sub>[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/PTR)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/dnszones/PTR</sub>|<sub>TRIAL</sub>|
+|<sub>[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/SOA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/dnszones/SOA</sub>|<sub>TRIAL</sub>|
+|<sub>[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/SRV)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/dnszones/SRV</sub>|<sub>TRIAL</sub>|
+|<sub>[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/TXT)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/dnszones/TXT</sub>|<sub>TRIAL</sub>|
+|<sub>[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/all)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/dnszones/all</sub>|<sub>TRIAL</sub>|
+|<sub>[recordsets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/dnszones/recordsets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/dnszones/recordsets</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

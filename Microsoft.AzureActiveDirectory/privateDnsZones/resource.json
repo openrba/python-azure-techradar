@@ -1,0 +1,12 @@
+[
+    "Microsoft.AzureActiveDirectory/privateDnsZones/A",
+    "Microsoft.AzureActiveDirectory/privateDnsZones/AAAA",
+    "Microsoft.AzureActiveDirectory/privateDnsZones/CNAME",
+    "Microsoft.AzureActiveDirectory/privateDnsZones/MX",
+    "Microsoft.AzureActiveDirectory/privateDnsZones/PTR",
+    "Microsoft.AzureActiveDirectory/privateDnsZones/SOA",
+    "Microsoft.AzureActiveDirectory/privateDnsZones/SRV",
+    "Microsoft.AzureActiveDirectory/privateDnsZones/TXT",
+    "Microsoft.AzureActiveDirectory/privateDnsZones/all",
+    "Microsoft.AzureActiveDirectory/privateDnsZones/virtualNetworkLinks"
+]

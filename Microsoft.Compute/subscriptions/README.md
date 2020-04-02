@@ -27,17 +27,23 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[locations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/locations)|UNKNOWN|Microsoft.Compute/subscriptions/locations|TRIAL|
-|[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/operationresults)|UNKNOWN|Microsoft.Compute/subscriptions/operationresults|TRIAL|
-|[providers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/providers)|UNKNOWN|Microsoft.Compute/subscriptions/providers|TRIAL|
-|[resourceGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/resourceGroups)|UNKNOWN|Microsoft.Compute/subscriptions/resourceGroups|TRIAL|
-|[resourcegroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/resourcegroups)|UNKNOWN|Microsoft.Compute/subscriptions/resourcegroups|TRIAL|
-|[resources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/resources)|UNKNOWN|Microsoft.Compute/subscriptions/resources|TRIAL|
-|[tagNames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/tagNames)|UNKNOWN|Microsoft.Compute/subscriptions/tagNames|TRIAL|
-|[tagnames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/tagnames)|UNKNOWN|Microsoft.Compute/subscriptions/tagnames|TRIAL|
+|<sub>[locations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/locations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/locations</sub>|<sub>TRIAL</sub>|
+|<sub>[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/operationresults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/operationresults</sub>|<sub>TRIAL</sub>|
+|<sub>[providers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/providers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/providers</sub>|<sub>TRIAL</sub>|
+|<sub>[resourceGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/resourceGroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/resourceGroups</sub>|<sub>TRIAL</sub>|
+|<sub>[resourcegroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/resourcegroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/resourcegroups</sub>|<sub>TRIAL</sub>|
+|<sub>[resources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/resources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/resources</sub>|<sub>TRIAL</sub>|
+|<sub>[tagNames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/tagNames)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/tagNames</sub>|<sub>TRIAL</sub>|
+|<sub>[tagnames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/tagnames)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/subscriptions/tagnames</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

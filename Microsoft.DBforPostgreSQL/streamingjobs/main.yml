@@ -1,0 +1,68 @@
+functions:
+  path: Microsoft.DBforPostgreSQL/streamingjobs/functions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/streamingjobs/functions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+inputs:
+  path: Microsoft.DBforPostgreSQL/streamingjobs/inputs
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/streamingjobs/inputs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+outputs:
+  path: Microsoft.DBforPostgreSQL/streamingjobs/outputs
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/streamingjobs/outputs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transformations:
+  path: Microsoft.DBforPostgreSQL/streamingjobs/transformations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/streamingjobs/transformations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

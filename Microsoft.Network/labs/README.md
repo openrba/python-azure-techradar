@@ -27,21 +27,27 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[artifactSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/artifactSources)|UNKNOWN|Microsoft.Network/labs/artifactSources|TRIAL|
-|[costs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/costs)|UNKNOWN|Microsoft.Network/labs/costs|TRIAL|
-|[customImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/customImages)|UNKNOWN|Microsoft.Network/labs/customImages|TRIAL|
-|[environments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/environments)|UNKNOWN|Microsoft.Network/labs/environments|TRIAL|
-|[formulas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/formulas)|UNKNOWN|Microsoft.Network/labs/formulas|TRIAL|
-|[notificationChannels](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/notificationChannels)|UNKNOWN|Microsoft.Network/labs/notificationChannels|TRIAL|
-|[policySets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/policySets)|UNKNOWN|Microsoft.Network/labs/policySets|TRIAL|
-|[schedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/schedules)|UNKNOWN|Microsoft.Network/labs/schedules|TRIAL|
-|[serviceRunners](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/serviceRunners)|UNKNOWN|Microsoft.Network/labs/serviceRunners|TRIAL|
-|[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/users)|UNKNOWN|Microsoft.Network/labs/users|TRIAL|
-|[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/virtualMachines)|UNKNOWN|Microsoft.Network/labs/virtualMachines|TRIAL|
-|[virtualNetworks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/virtualNetworks)|UNKNOWN|Microsoft.Network/labs/virtualNetworks|TRIAL|
+|<sub>[artifactSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/artifactSources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/labs/artifactSources</sub>|<sub>TRIAL</sub>|
+|<sub>[costs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/costs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/labs/costs</sub>|<sub>TRIAL</sub>|
+|<sub>[customImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/customImages)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/labs/customImages</sub>|<sub>TRIAL</sub>|
+|<sub>[environments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/environments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/labs/environments</sub>|<sub>TRIAL</sub>|
+|<sub>[formulas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/formulas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/labs/formulas</sub>|<sub>TRIAL</sub>|
+|<sub>[notificationChannels](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/notificationChannels)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/labs/notificationChannels</sub>|<sub>TRIAL</sub>|
+|<sub>[policySets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/policySets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/labs/policySets</sub>|<sub>TRIAL</sub>|
+|<sub>[schedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/schedules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/labs/schedules</sub>|<sub>TRIAL</sub>|
+|<sub>[serviceRunners](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/serviceRunners)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/labs/serviceRunners</sub>|<sub>TRIAL</sub>|
+|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/users)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/labs/users</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/virtualMachines)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/labs/virtualMachines</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetworks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/virtualNetworks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/labs/virtualNetworks</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

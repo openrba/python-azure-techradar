@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforPostgreSQL/serviceTopologies/services",
+    "Microsoft.DBforPostgreSQL/serviceTopologies/services/serviceUnits"
+]

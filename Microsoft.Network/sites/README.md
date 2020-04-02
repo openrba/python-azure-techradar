@@ -27,22 +27,28 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[config](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/config)|UNKNOWN|Microsoft.Network/sites/config|TRIAL|
-|[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/domainownershipidentifiers)|UNKNOWN|Microsoft.Network/sites/domainownershipidentifiers|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/eventGridFilters)|UNKNOWN|Microsoft.Network/sites/eventGridFilters|TRIAL|
-|[hostNameBindings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/hostNameBindings)|UNKNOWN|Microsoft.Network/sites/hostNameBindings|TRIAL|
-|[hybridconnection](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/hybridconnection)|UNKNOWN|Microsoft.Network/sites/hybridconnection|TRIAL|
-|[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/hybridconnectionnamespaces)|UNKNOWN|Microsoft.Network/sites/hybridconnectionnamespaces|TRIAL|
-|[networkConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/networkConfig)|UNKNOWN|Microsoft.Network/sites/networkConfig|TRIAL|
-|[premieraddons](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/premieraddons)|UNKNOWN|Microsoft.Network/sites/premieraddons|TRIAL|
-|[privateaccess](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/privateaccess)|UNKNOWN|Microsoft.Network/sites/privateaccess|TRIAL|
-|[publiccertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/publiccertificates)|UNKNOWN|Microsoft.Network/sites/publiccertificates|TRIAL|
-|[slots](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots)|UNKNOWN|Microsoft.Network/sites/slots|TRIAL|
-|[sourcecontrols](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/sourcecontrols)|UNKNOWN|Microsoft.Network/sites/sourcecontrols|TRIAL|
-|[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/virtualnetworkconnections)|UNKNOWN|Microsoft.Network/sites/virtualnetworkconnections|TRIAL|
+|<sub>[config](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/config)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/config</sub>|<sub>TRIAL</sub>|
+|<sub>[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/domainownershipidentifiers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/domainownershipidentifiers</sub>|<sub>TRIAL</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/eventGridFilters</sub>|<sub>TRIAL</sub>|
+|<sub>[hostNameBindings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/hostNameBindings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/hostNameBindings</sub>|<sub>TRIAL</sub>|
+|<sub>[hybridconnection](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/hybridconnection)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/hybridconnection</sub>|<sub>TRIAL</sub>|
+|<sub>[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/hybridconnectionnamespaces)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/hybridconnectionnamespaces</sub>|<sub>TRIAL</sub>|
+|<sub>[networkConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/networkConfig)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/networkConfig</sub>|<sub>TRIAL</sub>|
+|<sub>[premieraddons](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/premieraddons)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/premieraddons</sub>|<sub>TRIAL</sub>|
+|<sub>[privateaccess](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/privateaccess)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/privateaccess</sub>|<sub>TRIAL</sub>|
+|<sub>[publiccertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/publiccertificates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/publiccertificates</sub>|<sub>TRIAL</sub>|
+|<sub>[slots](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/slots</sub>|<sub>TRIAL</sub>|
+|<sub>[sourcecontrols](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/sourcecontrols)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/sourcecontrols</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/virtualnetworkconnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/virtualnetworkconnections</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

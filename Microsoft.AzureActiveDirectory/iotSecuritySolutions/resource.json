@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/iotSecuritySolutions/analyticsModels",
+    "Microsoft.AzureActiveDirectory/iotSecuritySolutions/analyticsModels/aggregatedAlerts",
+    "Microsoft.AzureActiveDirectory/iotSecuritySolutions/analyticsModels/aggregatedRecommendations"
+]

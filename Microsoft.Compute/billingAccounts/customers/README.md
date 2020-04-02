@@ -27,16 +27,22 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[billingPermissions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/billingPermissions)|UNKNOWN|Microsoft.Compute/billingAccounts/customers/billingPermissions|TRIAL|
-|[billingSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/billingSubscriptions)|UNKNOWN|Microsoft.Compute/billingAccounts/customers/billingSubscriptions|TRIAL|
-|[initiateTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/initiateTransfer)|UNKNOWN|Microsoft.Compute/billingAccounts/customers/initiateTransfer|TRIAL|
-|[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/policies)|UNKNOWN|Microsoft.Compute/billingAccounts/customers/policies|TRIAL|
-|[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/products)|UNKNOWN|Microsoft.Compute/billingAccounts/customers/products|TRIAL|
-|[transactions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/transactions)|UNKNOWN|Microsoft.Compute/billingAccounts/customers/transactions|TRIAL|
-|[transfers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/transfers)|UNKNOWN|Microsoft.Compute/billingAccounts/customers/transfers|TRIAL|
+|<sub>[billingPermissions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/billingPermissions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/customers/billingPermissions</sub>|<sub>TRIAL</sub>|
+|<sub>[billingSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/billingSubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/customers/billingSubscriptions</sub>|<sub>TRIAL</sub>|
+|<sub>[initiateTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/initiateTransfer)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/customers/initiateTransfer</sub>|<sub>TRIAL</sub>|
+|<sub>[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/policies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/customers/policies</sub>|<sub>TRIAL</sub>|
+|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/products)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/customers/products</sub>|<sub>TRIAL</sub>|
+|<sub>[transactions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/transactions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/customers/transactions</sub>|<sub>TRIAL</sub>|
+|<sub>[transfers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers/transfers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/customers/transfers</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

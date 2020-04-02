@@ -1,0 +1,4 @@
+[
+    "Microsoft.AzureActiveDirectory/hostingEnvironments/multiRolePools",
+    "Microsoft.AzureActiveDirectory/hostingEnvironments/workerPools"
+]

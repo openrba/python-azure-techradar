@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/domainNames/slots/roles",
+    "Microsoft.AzureActiveDirectory/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.AzureActiveDirectory/domainNames/slots/roles/metrics"
+]

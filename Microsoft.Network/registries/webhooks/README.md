@@ -27,12 +27,18 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[getCallbackConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/webhooks/getCallbackConfig)|UNKNOWN|Microsoft.Network/registries/webhooks/getCallbackConfig|TRIAL|
-|[listEvents](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/webhooks/listEvents)|UNKNOWN|Microsoft.Network/registries/webhooks/listEvents|TRIAL|
-|[ping](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/webhooks/ping)|UNKNOWN|Microsoft.Network/registries/webhooks/ping|TRIAL|
+|<sub>[getCallbackConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/webhooks/getCallbackConfig)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/webhooks/getCallbackConfig</sub>|<sub>TRIAL</sub>|
+|<sub>[listEvents](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/webhooks/listEvents)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/webhooks/listEvents</sub>|<sub>TRIAL</sub>|
+|<sub>[ping](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/webhooks/ping)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/webhooks/ping</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

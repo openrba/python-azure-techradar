@@ -27,16 +27,22 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[availableScopes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/availableScopes)|UNKNOWN|Microsoft.Compute/reservationOrders/availableScopes|TRIAL|
-|[calculateRefund](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/calculateRefund)|UNKNOWN|Microsoft.Compute/reservationOrders/calculateRefund|TRIAL|
-|[merge](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/merge)|UNKNOWN|Microsoft.Compute/reservationOrders/merge|TRIAL|
-|[reservations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/reservations)|UNKNOWN|Microsoft.Compute/reservationOrders/reservations|TRIAL|
-|[return](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/return)|UNKNOWN|Microsoft.Compute/reservationOrders/return|TRIAL|
-|[split](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/split)|UNKNOWN|Microsoft.Compute/reservationOrders/split|TRIAL|
-|[swap](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/swap)|UNKNOWN|Microsoft.Compute/reservationOrders/swap|TRIAL|
+|<sub>[availableScopes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/availableScopes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/reservationOrders/availableScopes</sub>|<sub>TRIAL</sub>|
+|<sub>[calculateRefund](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/calculateRefund)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/reservationOrders/calculateRefund</sub>|<sub>TRIAL</sub>|
+|<sub>[merge](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/merge)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/reservationOrders/merge</sub>|<sub>TRIAL</sub>|
+|<sub>[reservations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/reservations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/reservationOrders/reservations</sub>|<sub>TRIAL</sub>|
+|<sub>[return](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/return)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/reservationOrders/return</sub>|<sub>TRIAL</sub>|
+|<sub>[split](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/split)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/reservationOrders/split</sub>|<sub>TRIAL</sub>|
+|<sub>[swap](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/swap)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/reservationOrders/swap</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforPostgreSQL/hostingEnvironments/multiRolePools",
+    "Microsoft.DBforPostgreSQL/hostingEnvironments/workerPools"
+]

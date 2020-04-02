@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/virtualNetworks/remoteVirtualNetworkPeeringProxies",
+    "Microsoft.AzureActiveDirectory/virtualNetworks/subnets",
+    "Microsoft.AzureActiveDirectory/virtualNetworks/virtualNetworkPeerings"
+]

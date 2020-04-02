@@ -1,0 +1,51 @@
+getCallbackConfig:
+  path: Microsoft.DBforPostgreSQL/registries/webhooks/getCallbackConfig
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/registries/webhooks/getCallbackConfig
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listEvents:
+  path: Microsoft.DBforPostgreSQL/registries/webhooks/listEvents
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/registries/webhooks/listEvents
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+ping:
+  path: Microsoft.DBforPostgreSQL/registries/webhooks/ping
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/registries/webhooks/ping
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

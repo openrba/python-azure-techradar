@@ -1,0 +1,9 @@
+[
+    "Microsoft.AzureActiveDirectory/billingAccounts/customers/billingPermissions",
+    "Microsoft.AzureActiveDirectory/billingAccounts/customers/billingSubscriptions",
+    "Microsoft.AzureActiveDirectory/billingAccounts/customers/initiateTransfer",
+    "Microsoft.AzureActiveDirectory/billingAccounts/customers/policies",
+    "Microsoft.AzureActiveDirectory/billingAccounts/customers/products",
+    "Microsoft.AzureActiveDirectory/billingAccounts/customers/transactions",
+    "Microsoft.AzureActiveDirectory/billingAccounts/customers/transfers"
+]

@@ -176,7 +176,12 @@ def makeMarkdown(data,path):
     "are recommended to be widely used."
     )
     
-    adopt_tbl = ["Resource","Description","Path","Status"]
+    adopt_tbl = [
+        "<sub>Resource</sub>",
+        "<sub>Description</sub>",
+        "<sub>Path</sub>",
+        "<sub>Status</sub>"
+    ]
     adopt_cnt = len(adopt_list) + 1
    
     for key in adopt_list:
@@ -186,7 +191,12 @@ def makeMarkdown(data,path):
         resourceUrl     = data[key].get("url","")
         resourceStatus    = data[key].get("status","")
         resourceName    = "["+resourceName+"]("+base_url+'/'+resourceUrl+")"
-        adopt_tbl.extend([resourceName,resourceDesc,resourcePath,resourceStatus])
+        adopt_tbl.extend([
+            '<sub>' + resourceName + '</sub>',
+            '<sub>' + resourceDesc + '</sub>',
+            '<sub>' + resourcePath + '</sub>',
+            '<sub>' + resourceStatus + '</sub>'
+        ])
     
     if adopt_cnt == 1:
         mdf.new_line("")
@@ -205,7 +215,12 @@ def makeMarkdown(data,path):
     "security reviewed but do not contain automated policy managmeent."
     )
 
-    trial_tbl = ["Resource","Description","Path","Status"]
+    trial_tbl = [
+        "<sub>Resource</sub>",
+        "<sub>Description</sub>",
+        "<sub>Path</sub>",
+        "<sub>Status</sub>"
+    ]
     trial_cnt = len(trial_list) + 1
     for key in trial_list:
         resourceName    = key
@@ -214,7 +229,12 @@ def makeMarkdown(data,path):
         resourceUrl     = data[key].get("url","")
         resourceStatus    = data[key].get("status","")
         resourceName    = "["+resourceName+"]("+base_url+'/'+resourceUrl+")"
-        trial_tbl.extend([resourceName,resourceDesc,resourcePath,resourceStatus])
+        trial_tbl.extend([
+            '<sub>' + resourceName + '</sub>',
+            '<sub>' + resourceDesc + '</sub>',
+            '<sub>' + resourcePath + '</sub>',
+            '<sub>' + resourceStatus + '</sub>'
+        ])
     
     if trial_cnt == 1:
         mdf.new_line("")
@@ -223,6 +243,45 @@ def makeMarkdown(data,path):
         mdf.new_line("")
         mdf.new_table(columns=4,rows=trial_cnt,text=trial_tbl,text_align='center') 
 
+    # Handle the Assess Section
+    mdf.new_header(level=3, title='Assess')
+    mdf.new_paragraph("Technologies that are promising and have clear potential "
+    "value-add for us; technologies worth investing some research and "
+    "prototyping efforts to see if it has impact.  ASSESS technologies have "
+    "higher risks;  they are often new to our organization and highly unproven "
+    "within RBA.  You will find some engineers that have knowledge in the "
+    "technology and promote it, you may even find teams that have started "
+    "a prototyping effort.  These technologies can also include services that "
+    "are currently in architecture or security review."
+    )
+
+    assess_tbl = [
+        "<sub>Resource</sub>",
+        "<sub>Description</sub>",
+        "<sub>Path</sub>",
+        "<sub>Status</sub>"
+    ]
+    assess_cnt = len(assess_list) + 1
+    for key in assess_list:
+        resourceName    = key
+        resourceDesc    = data[key].get("description","")
+        resourcePath    = data[key].get("path","")
+        resourceUrl     = data[key].get("url","")
+        resourceStatus    = data[key].get("status","")
+        resourceName    = "["+resourceName+"]("+base_url+'/'+resourceUrl+")"
+        assess_tbl.extend([
+            '<sub>' + resourceName + '</sub>',
+            '<sub>' + resourceDesc + '</sub>',
+            '<sub>' + resourcePath + '</sub>',
+            '<sub>' + resourceStatus + '</sub>'
+        ])
+    
+    if assess_cnt == 1:
+        mdf.new_line("")
+        mdf.new_line("There are currently no resources at this ring level.",bold_italics_code='bi', color='red')
+    else:
+        mdf.new_line("")
+        mdf.new_table(columns=4,rows=assess_cnt,text=assess_tbl,text_align='center') 
 
     # Handle the Hold Section
     mdf.new_header(level=3, title='Hold')
@@ -234,7 +293,13 @@ def makeMarkdown(data,path):
     "of interest, time, or need."
     )
 
-    hold_tbl = ["Resource","Description","Path","Status"]
+    hold_tbl = [
+        "<sub>Resource</sub>",
+        "<sub>Description</sub>",
+        "<sub>Path</sub>",
+        "<sub>Status</sub>"
+    ]
+
     hold_cnt = len(hold_list) + 1
     for key in hold_list:
         resourceName    = key
@@ -243,7 +308,12 @@ def makeMarkdown(data,path):
         resourceUrl     = data[key].get("url","")
         resourceStatus    = data[key].get("status","")
         #resourceName    = "["+resourceName+"]("+resourceUrl+")"
-        hold_tbl.extend([resourceName,resourceDesc,resourcePath,resourceStatus])
+        hold_tbl.extend([
+            '<sub>' + resourceName + '</sub>',
+            '<sub>' + resourceDesc + '</sub>',
+            '<sub>' + resourcePath + '</sub>',
+            '<sub>' + resourceStatus + '</sub>'
+        ])
     
     if hold_cnt == 1:
         mdf.new_line("")
@@ -262,7 +332,12 @@ def makeMarkdown(data,path):
     "projects."
     )
 
-    reject_tbl = ["Resource","Description","Path","Status"]
+    reject_tbl = [
+        "<sub>Resource</sub>",
+        "<sub>Description</sub>",
+        "<sub>Path</sub>",
+        "<sub>Status</sub>"
+    ]
     reject_cnt = len(reject_list) + 1
     for key in reject_list:
         resourceName    = key
@@ -271,7 +346,12 @@ def makeMarkdown(data,path):
         resourceUrl     = data[key].get("url","")
         resourceStatus    = data[key].get("status","")
         #resourceName    = "["+resourceName+"]("+resourceUrl+")"
-        reject_tbl.extend([resourceName,resourceDesc,resourcePath,resourceStatus])
+        reject_tbl.extend([
+            '<sub>' + resourceName + '</sub>',
+            '<sub>' + resourceDesc + '</sub>',
+            '<sub>' + resourcePath + '</sub>',
+            '<sub>' + resourceStatus + '</sub>'
+        ])
     
     if reject_cnt == 1:
         mdf.new_line("")

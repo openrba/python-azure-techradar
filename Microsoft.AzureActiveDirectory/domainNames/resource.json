@@ -1,0 +1,9 @@
+[
+    "Microsoft.AzureActiveDirectory/domainNames/capabilities",
+    "Microsoft.AzureActiveDirectory/domainNames/internalLoadBalancers",
+    "Microsoft.AzureActiveDirectory/domainNames/serviceCertificates",
+    "Microsoft.AzureActiveDirectory/domainNames/slots",
+    "Microsoft.AzureActiveDirectory/domainNames/slots/roles",
+    "Microsoft.AzureActiveDirectory/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.AzureActiveDirectory/domainNames/slots/roles/metrics"
+]

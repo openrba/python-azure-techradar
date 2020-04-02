@@ -27,14 +27,20 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[access](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeFilters/routeFilterRules/access)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/access|TRIAL|
-|[communities](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeFilters/routeFilterRules/communities)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/communities|TRIAL|
-|[communities[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeFilters/routeFilterRules/communities[*])|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/communities[*]|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeFilters/routeFilterRules/provisioningState)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/provisioningState|TRIAL|
-|[routeFilterRuleType](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeFilters/routeFilterRules/routeFilterRuleType)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/routeFilterRuleType|TRIAL|
+|<sub>[access](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeFilters/routeFilterRules/access)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/routeFilters/routeFilterRules/access</sub>|<sub>TRIAL</sub>|
+|<sub>[communities](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeFilters/routeFilterRules/communities)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/routeFilters/routeFilterRules/communities</sub>|<sub>TRIAL</sub>|
+|<sub>[communities[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeFilters/routeFilterRules/communities[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/routeFilters/routeFilterRules/communities[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeFilters/routeFilterRules/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/routeFilters/routeFilterRules/provisioningState</sub>|<sub>TRIAL</sub>|
+|<sub>[routeFilterRuleType](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeFilters/routeFilterRules/routeFilterRuleType)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/routeFilters/routeFilterRules/routeFilterRuleType</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

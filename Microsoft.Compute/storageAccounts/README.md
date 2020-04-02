@@ -27,21 +27,27 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[blobServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/blobServices)|UNKNOWN|Microsoft.Compute/storageAccounts/blobServices|TRIAL|
-|[fileServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/fileServices)|UNKNOWN|Microsoft.Compute/storageAccounts/fileServices|TRIAL|
-|[listAccountSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/listAccountSas)|UNKNOWN|Microsoft.Compute/storageAccounts/listAccountSas|TRIAL|
-|[listServiceSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/listServiceSas)|UNKNOWN|Microsoft.Compute/storageAccounts/listServiceSas|TRIAL|
-|[managementPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/managementPolicies)|UNKNOWN|Microsoft.Compute/storageAccounts/managementPolicies|TRIAL|
-|[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/metricDefinitions)|UNKNOWN|Microsoft.Compute/storageAccounts/metricDefinitions|TRIAL|
-|[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/metrics)|UNKNOWN|Microsoft.Compute/storageAccounts/metrics|TRIAL|
-|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/privateEndpointConnections)|UNKNOWN|Microsoft.Compute/storageAccounts/privateEndpointConnections|TRIAL|
-|[queueServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/queueServices)|UNKNOWN|Microsoft.Compute/storageAccounts/queueServices|TRIAL|
-|[services](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/services)|UNKNOWN|Microsoft.Compute/storageAccounts/services|TRIAL|
-|[tableServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/tableServices)|UNKNOWN|Microsoft.Compute/storageAccounts/tableServices|TRIAL|
-|[vmImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/vmImages)|UNKNOWN|Microsoft.Compute/storageAccounts/vmImages|TRIAL|
+|<sub>[blobServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/blobServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/storageAccounts/blobServices</sub>|<sub>TRIAL</sub>|
+|<sub>[fileServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/fileServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/storageAccounts/fileServices</sub>|<sub>TRIAL</sub>|
+|<sub>[listAccountSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/listAccountSas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/storageAccounts/listAccountSas</sub>|<sub>TRIAL</sub>|
+|<sub>[listServiceSas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/listServiceSas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/storageAccounts/listServiceSas</sub>|<sub>TRIAL</sub>|
+|<sub>[managementPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/managementPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/storageAccounts/managementPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/storageAccounts/metricDefinitions</sub>|<sub>TRIAL</sub>|
+|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/storageAccounts/metrics</sub>|<sub>TRIAL</sub>|
+|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/storageAccounts/privateEndpointConnections</sub>|<sub>TRIAL</sub>|
+|<sub>[queueServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/queueServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/storageAccounts/queueServices</sub>|<sub>TRIAL</sub>|
+|<sub>[services](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/services)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/storageAccounts/services</sub>|<sub>TRIAL</sub>|
+|<sub>[tableServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/tableServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/storageAccounts/tableServices</sub>|<sub>TRIAL</sub>|
+|<sub>[vmImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/vmImages)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/storageAccounts/vmImages</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

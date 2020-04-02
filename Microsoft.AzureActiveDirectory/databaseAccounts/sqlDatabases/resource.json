@@ -1,0 +1,8 @@
+[
+    "Microsoft.AzureActiveDirectory/databaseAccounts/sqlDatabases/containers",
+    "Microsoft.AzureActiveDirectory/databaseAccounts/sqlDatabases/containers/storedProcedures",
+    "Microsoft.AzureActiveDirectory/databaseAccounts/sqlDatabases/containers/throughputSettings",
+    "Microsoft.AzureActiveDirectory/databaseAccounts/sqlDatabases/containers/triggers",
+    "Microsoft.AzureActiveDirectory/databaseAccounts/sqlDatabases/containers/userDefinedFunctions",
+    "Microsoft.AzureActiveDirectory/databaseAccounts/sqlDatabases/throughputSettings"
+]

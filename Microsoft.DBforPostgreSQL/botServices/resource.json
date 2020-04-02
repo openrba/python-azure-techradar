@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforPostgreSQL/botServices/channels",
+    "Microsoft.DBforPostgreSQL/botServices/connections"
+]

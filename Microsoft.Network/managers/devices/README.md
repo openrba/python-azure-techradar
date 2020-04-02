@@ -27,17 +27,23 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[alertSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/alertSettings)|UNKNOWN|Microsoft.Network/managers/devices/alertSettings|TRIAL|
-|[backupPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/backupPolicies)|UNKNOWN|Microsoft.Network/managers/devices/backupPolicies|TRIAL|
-|[backupScheduleGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/backupScheduleGroups)|UNKNOWN|Microsoft.Network/managers/devices/backupScheduleGroups|TRIAL|
-|[chapSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/chapSettings)|UNKNOWN|Microsoft.Network/managers/devices/chapSettings|TRIAL|
-|[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/fileservers)|UNKNOWN|Microsoft.Network/managers/devices/fileservers|TRIAL|
-|[iscsiservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/iscsiservers)|UNKNOWN|Microsoft.Network/managers/devices/iscsiservers|TRIAL|
-|[timeSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/timeSettings)|UNKNOWN|Microsoft.Network/managers/devices/timeSettings|TRIAL|
-|[volumeContainers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/volumeContainers)|UNKNOWN|Microsoft.Network/managers/devices/volumeContainers|TRIAL|
+|<sub>[alertSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/alertSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/managers/devices/alertSettings</sub>|<sub>TRIAL</sub>|
+|<sub>[backupPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/backupPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/managers/devices/backupPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[backupScheduleGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/backupScheduleGroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/managers/devices/backupScheduleGroups</sub>|<sub>TRIAL</sub>|
+|<sub>[chapSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/chapSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/managers/devices/chapSettings</sub>|<sub>TRIAL</sub>|
+|<sub>[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/fileservers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/managers/devices/fileservers</sub>|<sub>TRIAL</sub>|
+|<sub>[iscsiservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/iscsiservers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/managers/devices/iscsiservers</sub>|<sub>TRIAL</sub>|
+|<sub>[timeSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/timeSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/managers/devices/timeSettings</sub>|<sub>TRIAL</sub>|
+|<sub>[volumeContainers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/volumeContainers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/managers/devices/volumeContainers</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

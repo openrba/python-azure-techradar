@@ -1,0 +1,119 @@
+billingPermissions:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/customers/billingPermissions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/customers/billingPermissions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingSubscriptions:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/customers/billingSubscriptions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/customers/billingSubscriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+initiateTransfer:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/customers/initiateTransfer
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/customers/initiateTransfer
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+policies:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/customers/policies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/customers/policies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+products:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/customers/products
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/customers/products
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transactions:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/customers/transactions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/customers/transactions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transfers:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/customers/transfers
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/customers/transfers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

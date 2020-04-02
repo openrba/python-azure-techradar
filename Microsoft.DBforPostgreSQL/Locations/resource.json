@@ -1,0 +1,7 @@
+[
+    "Microsoft.DBforPostgreSQL/Locations/OperationStatuses",
+    "Microsoft.DBforPostgreSQL/Locations/OperationTypes",
+    "Microsoft.DBforPostgreSQL/Locations/availabilityGroupListenerOperationResults",
+    "Microsoft.DBforPostgreSQL/Locations/sqlVirtualMachineGroupOperationResults",
+    "Microsoft.DBforPostgreSQL/Locations/sqlVirtualMachineOperationResults"
+]

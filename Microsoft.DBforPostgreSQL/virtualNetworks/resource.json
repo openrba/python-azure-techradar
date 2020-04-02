@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforPostgreSQL/virtualNetworks/remoteVirtualNetworkPeeringProxies",
+    "Microsoft.DBforPostgreSQL/virtualNetworks/subnets",
+    "Microsoft.DBforPostgreSQL/virtualNetworks/virtualNetworkPeerings"
+]

@@ -1,0 +1,102 @@
+accessControlRecords:
+  path: Microsoft.AzureActiveDirectory/managers/accessControlRecords
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/managers/accessControlRecords
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+bandwidthSettings:
+  path: Microsoft.AzureActiveDirectory/managers/bandwidthSettings
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/managers/bandwidthSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+devices:
+  path: Microsoft.AzureActiveDirectory/managers/devices
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/managers/devices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+extendedInformation:
+  path: Microsoft.AzureActiveDirectory/managers/extendedInformation
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/managers/extendedInformation
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageAccountCredentials:
+  path: Microsoft.AzureActiveDirectory/managers/storageAccountCredentials
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/managers/storageAccountCredentials
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+storageDomains:
+  path: Microsoft.AzureActiveDirectory/managers/storageDomains
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/managers/storageDomains
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

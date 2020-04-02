@@ -1,0 +1,15 @@
+[
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/billingSubscriptionMoveOperations",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/billingSubscriptions",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/billingSubscriptions/transfer",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/elevate",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/initiateTransfer",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/patchOperations",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/productMoveOperations",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/productTransfersResults",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/products",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/products/transfer",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/products/updateAutoRenew",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/transactions",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/transfers"
+]

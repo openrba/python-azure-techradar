@@ -1,0 +1,17 @@
+[
+    "Microsoft.DBforPostgreSQL/mediaservices/accountFilters",
+    "Microsoft.DBforPostgreSQL/mediaservices/assets",
+    "Microsoft.DBforPostgreSQL/mediaservices/assets/assetFilters",
+    "Microsoft.DBforPostgreSQL/mediaservices/contentKeyPolicies",
+    "Microsoft.DBforPostgreSQL/mediaservices/eventGridFilters",
+    "Microsoft.DBforPostgreSQL/mediaservices/liveEventOperations",
+    "Microsoft.DBforPostgreSQL/mediaservices/liveEvents",
+    "Microsoft.DBforPostgreSQL/mediaservices/liveEvents/liveOutputs",
+    "Microsoft.DBforPostgreSQL/mediaservices/liveOutputOperations",
+    "Microsoft.DBforPostgreSQL/mediaservices/streamingEndpointOperations",
+    "Microsoft.DBforPostgreSQL/mediaservices/streamingEndpoints",
+    "Microsoft.DBforPostgreSQL/mediaservices/streamingLocators",
+    "Microsoft.DBforPostgreSQL/mediaservices/streamingPolicies",
+    "Microsoft.DBforPostgreSQL/mediaservices/transforms",
+    "Microsoft.DBforPostgreSQL/mediaservices/transforms/jobs"
+]

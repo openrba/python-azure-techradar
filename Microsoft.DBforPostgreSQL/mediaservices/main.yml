@@ -1,0 +1,204 @@
+accountFilters:
+  path: Microsoft.DBforPostgreSQL/mediaservices/accountFilters
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/mediaservices/accountFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+assets:
+  path: Microsoft.DBforPostgreSQL/mediaservices/assets
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/mediaservices/assets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+contentKeyPolicies:
+  path: Microsoft.DBforPostgreSQL/mediaservices/contentKeyPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/mediaservices/contentKeyPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.DBforPostgreSQL/mediaservices/eventGridFilters
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/mediaservices/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveEventOperations:
+  path: Microsoft.DBforPostgreSQL/mediaservices/liveEventOperations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/mediaservices/liveEventOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveEvents:
+  path: Microsoft.DBforPostgreSQL/mediaservices/liveEvents
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/mediaservices/liveEvents
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+liveOutputOperations:
+  path: Microsoft.DBforPostgreSQL/mediaservices/liveOutputOperations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/mediaservices/liveOutputOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingEndpointOperations:
+  path: Microsoft.DBforPostgreSQL/mediaservices/streamingEndpointOperations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/mediaservices/streamingEndpointOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingEndpoints:
+  path: Microsoft.DBforPostgreSQL/mediaservices/streamingEndpoints
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/mediaservices/streamingEndpoints
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingLocators:
+  path: Microsoft.DBforPostgreSQL/mediaservices/streamingLocators
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/mediaservices/streamingLocators
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+streamingPolicies:
+  path: Microsoft.DBforPostgreSQL/mediaservices/streamingPolicies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/mediaservices/streamingPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transforms:
+  path: Microsoft.DBforPostgreSQL/mediaservices/transforms
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/mediaservices/transforms
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/servers/jobAgents/jobs",
+    "Microsoft.AzureActiveDirectory/servers/jobAgents/jobs/executions",
+    "Microsoft.AzureActiveDirectory/servers/jobAgents/jobs/steps"
+]

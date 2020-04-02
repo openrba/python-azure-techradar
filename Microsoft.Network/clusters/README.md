@@ -27,15 +27,21 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[applicationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/applicationTypes)|UNKNOWN|Microsoft.Network/clusters/applicationTypes|TRIAL|
-|[applications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/applications)|UNKNOWN|Microsoft.Network/clusters/applications|TRIAL|
-|[attacheddatabaseconfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/attacheddatabaseconfigurations)|UNKNOWN|Microsoft.Network/clusters/attacheddatabaseconfigurations|TRIAL|
-|[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/databases)|UNKNOWN|Microsoft.Network/clusters/databases|TRIAL|
-|[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/operationresults)|UNKNOWN|Microsoft.Network/clusters/operationresults|TRIAL|
-|[principalassignments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/principalassignments)|UNKNOWN|Microsoft.Network/clusters/principalassignments|TRIAL|
+|<sub>[applicationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/applicationTypes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/clusters/applicationTypes</sub>|<sub>TRIAL</sub>|
+|<sub>[applications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/applications)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/clusters/applications</sub>|<sub>TRIAL</sub>|
+|<sub>[attacheddatabaseconfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/attacheddatabaseconfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/clusters/attacheddatabaseconfigurations</sub>|<sub>TRIAL</sub>|
+|<sub>[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/databases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/clusters/databases</sub>|<sub>TRIAL</sub>|
+|<sub>[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/operationresults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/clusters/operationresults</sub>|<sub>TRIAL</sub>|
+|<sub>[principalassignments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/principalassignments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/clusters/principalassignments</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

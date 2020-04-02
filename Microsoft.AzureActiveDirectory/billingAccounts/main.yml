@@ -1,0 +1,357 @@
+BillingProfiles:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/BillingProfiles
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/BillingProfiles
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+agreements:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/agreements
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/agreements
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingPermissions:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/billingPermissions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/billingPermissions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingProfiles:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/billingProfiles
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/billingProfiles
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingRoleAssignments:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/billingRoleAssignments
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/billingRoleAssignments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingRoleDefinitions:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/billingRoleDefinitions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/billingRoleDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingSubscriptions:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/billingSubscriptions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/billingSubscriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+createBillingRoleAssignment:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/createBillingRoleAssignment
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/createBillingRoleAssignment
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+createInvoiceSectionOperations:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/createInvoiceSectionOperations
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/createInvoiceSectionOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customers:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/customers
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/customers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+departments:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/departments
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/departments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enrollmentAccounts:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/enrollmentAccounts
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/enrollmentAccounts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+invoiceSections:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/invoiceSections
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/invoiceSections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+invoices:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/invoices
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/invoices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+lineOfCredit:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/lineOfCredit
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/lineOfCredit
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listInvoiceSectionsWithCreateSubscriptionPermission:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operationResults:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/operationResults
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/operationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+patchOperations:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/patchOperations
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/patchOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+paymentMethods:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/paymentMethods
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/paymentMethods
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+products:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/products
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/products
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transactions:
+  path: Microsoft.AzureActiveDirectory/billingAccounts/transactions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/billingAccounts/transactions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

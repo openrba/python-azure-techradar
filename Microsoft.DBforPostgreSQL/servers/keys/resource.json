@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforPostgreSQL/servers/keys/creationDate",
+    "Microsoft.DBforPostgreSQL/servers/keys/serverKeyType",
+    "Microsoft.DBforPostgreSQL/servers/keys/uri"
+]

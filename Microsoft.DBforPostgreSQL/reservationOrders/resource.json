@@ -1,0 +1,11 @@
+[
+    "Microsoft.DBforPostgreSQL/reservationOrders/availableScopes",
+    "Microsoft.DBforPostgreSQL/reservationOrders/calculateRefund",
+    "Microsoft.DBforPostgreSQL/reservationOrders/merge",
+    "Microsoft.DBforPostgreSQL/reservationOrders/reservations",
+    "Microsoft.DBforPostgreSQL/reservationOrders/reservations/availableScopes",
+    "Microsoft.DBforPostgreSQL/reservationOrders/reservations/revisions",
+    "Microsoft.DBforPostgreSQL/reservationOrders/return",
+    "Microsoft.DBforPostgreSQL/reservationOrders/split",
+    "Microsoft.DBforPostgreSQL/reservationOrders/swap"
+]

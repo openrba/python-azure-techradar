@@ -1,0 +1,6 @@
+[
+    "Microsoft.AzureActiveDirectory/networkWatchers/connectionMonitors",
+    "Microsoft.AzureActiveDirectory/networkWatchers/flowLogs",
+    "Microsoft.AzureActiveDirectory/networkWatchers/packetCaptures",
+    "Microsoft.AzureActiveDirectory/networkWatchers/pingMeshes"
+]

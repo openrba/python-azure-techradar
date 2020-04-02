@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforPostgreSQL/streamingjobs/functions",
+    "Microsoft.DBforPostgreSQL/streamingjobs/inputs",
+    "Microsoft.DBforPostgreSQL/streamingjobs/outputs",
+    "Microsoft.DBforPostgreSQL/streamingjobs/transformations"
+]

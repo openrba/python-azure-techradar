@@ -1,0 +1,4 @@
+[
+    "Microsoft.AzureActiveDirectory/registries/builds/cancel",
+    "Microsoft.AzureActiveDirectory/registries/builds/getLogLink"
+]

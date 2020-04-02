@@ -1,0 +1,14 @@
+[
+    "Microsoft.AzureActiveDirectory/service/apis/diagnostics",
+    "Microsoft.AzureActiveDirectory/service/apis/issues",
+    "Microsoft.AzureActiveDirectory/service/apis/issues/attachments",
+    "Microsoft.AzureActiveDirectory/service/apis/issues/comments",
+    "Microsoft.AzureActiveDirectory/service/apis/operations",
+    "Microsoft.AzureActiveDirectory/service/apis/operations/policies",
+    "Microsoft.AzureActiveDirectory/service/apis/operations/tags",
+    "Microsoft.AzureActiveDirectory/service/apis/policies",
+    "Microsoft.AzureActiveDirectory/service/apis/releases",
+    "Microsoft.AzureActiveDirectory/service/apis/schemas",
+    "Microsoft.AzureActiveDirectory/service/apis/tagDescriptions",
+    "Microsoft.AzureActiveDirectory/service/apis/tags"
+]

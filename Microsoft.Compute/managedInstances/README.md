@@ -27,20 +27,26 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[administrators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/administrators)|UNKNOWN|Microsoft.Compute/managedInstances/administrators|TRIAL|
-|[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/databases)|UNKNOWN|Microsoft.Compute/managedInstances/databases|TRIAL|
-|[encryptionProtector](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/encryptionProtector)|UNKNOWN|Microsoft.Compute/managedInstances/encryptionProtector|TRIAL|
-|[keys](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/keys)|UNKNOWN|Microsoft.Compute/managedInstances/keys|TRIAL|
-|[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/metricDefinitions)|UNKNOWN|Microsoft.Compute/managedInstances/metricDefinitions|TRIAL|
-|[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/metrics)|UNKNOWN|Microsoft.Compute/managedInstances/metrics|TRIAL|
-|[recoverableDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/recoverableDatabases)|UNKNOWN|Microsoft.Compute/managedInstances/recoverableDatabases|TRIAL|
-|[restorableDroppedDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/restorableDroppedDatabases)|UNKNOWN|Microsoft.Compute/managedInstances/restorableDroppedDatabases|TRIAL|
-|[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/securityAlertPolicies)|UNKNOWN|Microsoft.Compute/managedInstances/securityAlertPolicies|TRIAL|
-|[tdeCertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/tdeCertificates)|UNKNOWN|Microsoft.Compute/managedInstances/tdeCertificates|TRIAL|
-|[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/vulnerabilityAssessments)|UNKNOWN|Microsoft.Compute/managedInstances/vulnerabilityAssessments|TRIAL|
+|<sub>[administrators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/administrators)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managedInstances/administrators</sub>|<sub>TRIAL</sub>|
+|<sub>[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/databases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managedInstances/databases</sub>|<sub>TRIAL</sub>|
+|<sub>[encryptionProtector](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/encryptionProtector)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managedInstances/encryptionProtector</sub>|<sub>TRIAL</sub>|
+|<sub>[keys](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/keys)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managedInstances/keys</sub>|<sub>TRIAL</sub>|
+|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managedInstances/metricDefinitions</sub>|<sub>TRIAL</sub>|
+|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managedInstances/metrics</sub>|<sub>TRIAL</sub>|
+|<sub>[recoverableDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/recoverableDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managedInstances/recoverableDatabases</sub>|<sub>TRIAL</sub>|
+|<sub>[restorableDroppedDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/restorableDroppedDatabases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managedInstances/restorableDroppedDatabases</sub>|<sub>TRIAL</sub>|
+|<sub>[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/securityAlertPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managedInstances/securityAlertPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[tdeCertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/tdeCertificates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managedInstances/tdeCertificates</sub>|<sub>TRIAL</sub>|
+|<sub>[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/vulnerabilityAssessments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managedInstances/vulnerabilityAssessments</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

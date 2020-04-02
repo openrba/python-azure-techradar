@@ -1,0 +1,34 @@
+collections:
+  path: Microsoft.DBforPostgreSQL/databaseAccounts/mongodbDatabases/collections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/databaseAccounts/mongodbDatabases/collections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+throughputSettings:
+  path: Microsoft.DBforPostgreSQL/databaseAccounts/mongodbDatabases/throughputSettings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/databaseAccounts/mongodbDatabases/throughputSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

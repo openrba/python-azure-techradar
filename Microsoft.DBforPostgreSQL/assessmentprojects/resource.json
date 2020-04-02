@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforPostgreSQL/assessmentprojects/groups",
+    "Microsoft.DBforPostgreSQL/assessmentprojects/groups/assessments",
+    "Microsoft.DBforPostgreSQL/assessmentprojects/hypervcollectors",
+    "Microsoft.DBforPostgreSQL/assessmentprojects/vmwarecollectors"
+]

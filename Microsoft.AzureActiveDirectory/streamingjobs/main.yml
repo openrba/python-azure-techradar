@@ -1,0 +1,68 @@
+functions:
+  path: Microsoft.AzureActiveDirectory/streamingjobs/functions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/streamingjobs/functions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+inputs:
+  path: Microsoft.AzureActiveDirectory/streamingjobs/inputs
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/streamingjobs/inputs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+outputs:
+  path: Microsoft.AzureActiveDirectory/streamingjobs/outputs
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/streamingjobs/outputs
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transformations:
+  path: Microsoft.AzureActiveDirectory/streamingjobs/transformations
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/streamingjobs/transformations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

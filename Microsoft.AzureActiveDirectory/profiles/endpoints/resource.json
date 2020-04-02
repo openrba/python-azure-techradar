@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/profiles/endpoints/customdomains",
+    "Microsoft.AzureActiveDirectory/profiles/endpoints/origingroups",
+    "Microsoft.AzureActiveDirectory/profiles/endpoints/origins"
+]

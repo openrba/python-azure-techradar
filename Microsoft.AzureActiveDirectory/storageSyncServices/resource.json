@@ -1,0 +1,7 @@
+[
+    "Microsoft.AzureActiveDirectory/storageSyncServices/registeredServers",
+    "Microsoft.AzureActiveDirectory/storageSyncServices/syncGroups",
+    "Microsoft.AzureActiveDirectory/storageSyncServices/syncGroups/cloudEndpoints",
+    "Microsoft.AzureActiveDirectory/storageSyncServices/syncGroups/serverEndpoints",
+    "Microsoft.AzureActiveDirectory/storageSyncServices/workflows"
+]

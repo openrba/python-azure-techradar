@@ -1,0 +1,4 @@
+[
+    "Microsoft.AzureActiveDirectory/configurationStores/eventGridFilters",
+    "Microsoft.AzureActiveDirectory/configurationStores/privateEndpointConnections"
+]

@@ -1,0 +1,51 @@
+registeredServers:
+  path: Microsoft.DBforPostgreSQL/storageSyncServices/registeredServers
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/storageSyncServices/registeredServers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+syncGroups:
+  path: Microsoft.DBforPostgreSQL/storageSyncServices/syncGroups
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/storageSyncServices/syncGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+workflows:
+  path: Microsoft.DBforPostgreSQL/storageSyncServices/workflows
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/storageSyncServices/workflows
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

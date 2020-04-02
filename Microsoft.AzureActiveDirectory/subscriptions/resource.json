@@ -1,0 +1,10 @@
+[
+    "Microsoft.AzureActiveDirectory/subscriptions/locations",
+    "Microsoft.AzureActiveDirectory/subscriptions/operationresults",
+    "Microsoft.AzureActiveDirectory/subscriptions/providers",
+    "Microsoft.AzureActiveDirectory/subscriptions/resourceGroups",
+    "Microsoft.AzureActiveDirectory/subscriptions/resourcegroups/resources",
+    "Microsoft.AzureActiveDirectory/subscriptions/resources",
+    "Microsoft.AzureActiveDirectory/subscriptions/tagNames/tagValues",
+    "Microsoft.AzureActiveDirectory/subscriptions/tagnames"
+]

@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforPostgreSQL/accounts/sharesubscriptions/consumerSourceDataSets",
+    "Microsoft.DBforPostgreSQL/accounts/sharesubscriptions/datasetmappings",
+    "Microsoft.DBforPostgreSQL/accounts/sharesubscriptions/triggers"
+]

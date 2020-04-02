@@ -27,19 +27,25 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[activeKey](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/activeKey)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/activeKey|TRIAL|
-|[activeKey.keyUrl](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl|TRIAL|
-|[activeKey.sourceVault](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault|TRIAL|
-|[activeKey.sourceVault.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id|TRIAL|
-|[previousKeys](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/previousKeys)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys|TRIAL|
-|[previousKeys[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/previousKeys[*])|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys[*]|TRIAL|
-|[previousKeys[*].keyUrl](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl|TRIAL|
-|[previousKeys[*].sourceVault](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault|TRIAL|
-|[previousKeys[*].sourceVault.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/provisioningState)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/provisioningState|TRIAL|
+|<sub>[activeKey](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/activeKey)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/diskEncryptionSets/activeKey</sub>|<sub>TRIAL</sub>|
+|<sub>[activeKey.keyUrl](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl</sub>|<sub>TRIAL</sub>|
+|<sub>[activeKey.sourceVault](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault</sub>|<sub>TRIAL</sub>|
+|<sub>[activeKey.sourceVault.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id</sub>|<sub>TRIAL</sub>|
+|<sub>[previousKeys](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/previousKeys)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/diskEncryptionSets/previousKeys</sub>|<sub>TRIAL</sub>|
+|<sub>[previousKeys[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/previousKeys[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/diskEncryptionSets/previousKeys[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[previousKeys[*].keyUrl](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl</sub>|<sub>TRIAL</sub>|
+|<sub>[previousKeys[*].sourceVault](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault</sub>|<sub>TRIAL</sub>|
+|<sub>[previousKeys[*].sourceVault.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/diskEncryptionSets/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/diskEncryptionSets/provisioningState</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

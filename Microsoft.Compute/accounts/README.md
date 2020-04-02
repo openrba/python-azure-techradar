@@ -27,19 +27,25 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[computePolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/computePolicies)|UNKNOWN|Microsoft.Compute/accounts/computePolicies|TRIAL|
-|[dataLakeStoreAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/dataLakeStoreAccounts)|UNKNOWN|Microsoft.Compute/accounts/dataLakeStoreAccounts|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/eventGridFilters)|UNKNOWN|Microsoft.Compute/accounts/eventGridFilters|TRIAL|
-|[firewallRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/firewallRules)|UNKNOWN|Microsoft.Compute/accounts/firewallRules|TRIAL|
-|[privateAtlases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/privateAtlases)|UNKNOWN|Microsoft.Compute/accounts/privateAtlases|TRIAL|
-|[shares](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/shares)|UNKNOWN|Microsoft.Compute/accounts/shares|TRIAL|
-|[sharesubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/sharesubscriptions)|UNKNOWN|Microsoft.Compute/accounts/sharesubscriptions|TRIAL|
-|[storageAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/storageAccounts)|UNKNOWN|Microsoft.Compute/accounts/storageAccounts|TRIAL|
-|[trustedIdProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/trustedIdProviders)|UNKNOWN|Microsoft.Compute/accounts/trustedIdProviders|TRIAL|
-|[virtualNetworkRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/virtualNetworkRules)|UNKNOWN|Microsoft.Compute/accounts/virtualNetworkRules|TRIAL|
+|<sub>[computePolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/computePolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/accounts/computePolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[dataLakeStoreAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/dataLakeStoreAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/accounts/dataLakeStoreAccounts</sub>|<sub>TRIAL</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/accounts/eventGridFilters</sub>|<sub>TRIAL</sub>|
+|<sub>[firewallRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/firewallRules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/accounts/firewallRules</sub>|<sub>TRIAL</sub>|
+|<sub>[privateAtlases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/privateAtlases)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/accounts/privateAtlases</sub>|<sub>TRIAL</sub>|
+|<sub>[shares](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/shares)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/accounts/shares</sub>|<sub>TRIAL</sub>|
+|<sub>[sharesubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/sharesubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/accounts/sharesubscriptions</sub>|<sub>TRIAL</sub>|
+|<sub>[storageAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/storageAccounts)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/accounts/storageAccounts</sub>|<sub>TRIAL</sub>|
+|<sub>[trustedIdProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/trustedIdProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/accounts/trustedIdProviders</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetworkRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/virtualNetworkRules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/accounts/virtualNetworkRules</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

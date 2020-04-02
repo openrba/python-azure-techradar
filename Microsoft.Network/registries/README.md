@@ -27,35 +27,41 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[GetCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/GetCredentials)|UNKNOWN|Microsoft.Network/registries/GetCredentials|TRIAL|
-|[buildTasks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/buildTasks)|UNKNOWN|Microsoft.Network/registries/buildTasks|TRIAL|
-|[builds](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/builds)|UNKNOWN|Microsoft.Network/registries/builds|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/eventGridFilters)|UNKNOWN|Microsoft.Network/registries/eventGridFilters|TRIAL|
-|[generateCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/generateCredentials)|UNKNOWN|Microsoft.Network/registries/generateCredentials|TRIAL|
-|[getBuildSourceUploadUrl](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/getBuildSourceUploadUrl)|UNKNOWN|Microsoft.Network/registries/getBuildSourceUploadUrl|TRIAL|
-|[importImage](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/importImage)|UNKNOWN|Microsoft.Network/registries/importImage|TRIAL|
-|[listBuildSourceUploadUrl](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/listBuildSourceUploadUrl)|UNKNOWN|Microsoft.Network/registries/listBuildSourceUploadUrl|TRIAL|
-|[listCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/listCredentials)|UNKNOWN|Microsoft.Network/registries/listCredentials|TRIAL|
-|[listPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/listPolicies)|UNKNOWN|Microsoft.Network/registries/listPolicies|TRIAL|
-|[listUsages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/listUsages)|UNKNOWN|Microsoft.Network/registries/listUsages|TRIAL|
-|[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/privateEndpointConnectionProxies)|UNKNOWN|Microsoft.Network/registries/privateEndpointConnectionProxies|TRIAL|
-|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/privateEndpointConnections)|UNKNOWN|Microsoft.Network/registries/privateEndpointConnections|TRIAL|
-|[privateLinkResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/privateLinkResources)|UNKNOWN|Microsoft.Network/registries/privateLinkResources|TRIAL|
-|[queueBuild](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/queueBuild)|UNKNOWN|Microsoft.Network/registries/queueBuild|TRIAL|
-|[regenerateCredential](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/regenerateCredential)|UNKNOWN|Microsoft.Network/registries/regenerateCredential|TRIAL|
-|[regenerateCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/regenerateCredentials)|UNKNOWN|Microsoft.Network/registries/regenerateCredentials|TRIAL|
-|[replications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/replications)|UNKNOWN|Microsoft.Network/registries/replications|TRIAL|
-|[runs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/runs)|UNKNOWN|Microsoft.Network/registries/runs|TRIAL|
-|[scheduleRun](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/scheduleRun)|UNKNOWN|Microsoft.Network/registries/scheduleRun|TRIAL|
-|[scopeMaps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/scopeMaps)|UNKNOWN|Microsoft.Network/registries/scopeMaps|TRIAL|
-|[taskRuns](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/taskRuns)|UNKNOWN|Microsoft.Network/registries/taskRuns|TRIAL|
-|[tasks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/tasks)|UNKNOWN|Microsoft.Network/registries/tasks|TRIAL|
-|[tokens](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/tokens)|UNKNOWN|Microsoft.Network/registries/tokens|TRIAL|
-|[updatePolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/updatePolicies)|UNKNOWN|Microsoft.Network/registries/updatePolicies|TRIAL|
-|[webhooks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/webhooks)|UNKNOWN|Microsoft.Network/registries/webhooks|TRIAL|
+|<sub>[GetCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/GetCredentials)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/GetCredentials</sub>|<sub>TRIAL</sub>|
+|<sub>[buildTasks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/buildTasks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/buildTasks</sub>|<sub>TRIAL</sub>|
+|<sub>[builds](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/builds)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/builds</sub>|<sub>TRIAL</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/eventGridFilters</sub>|<sub>TRIAL</sub>|
+|<sub>[generateCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/generateCredentials)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/generateCredentials</sub>|<sub>TRIAL</sub>|
+|<sub>[getBuildSourceUploadUrl](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/getBuildSourceUploadUrl)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/getBuildSourceUploadUrl</sub>|<sub>TRIAL</sub>|
+|<sub>[importImage](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/importImage)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/importImage</sub>|<sub>TRIAL</sub>|
+|<sub>[listBuildSourceUploadUrl](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/listBuildSourceUploadUrl)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/listBuildSourceUploadUrl</sub>|<sub>TRIAL</sub>|
+|<sub>[listCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/listCredentials)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/listCredentials</sub>|<sub>TRIAL</sub>|
+|<sub>[listPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/listPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/listPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[listUsages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/listUsages)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/listUsages</sub>|<sub>TRIAL</sub>|
+|<sub>[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/privateEndpointConnectionProxies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/privateEndpointConnectionProxies</sub>|<sub>TRIAL</sub>|
+|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/privateEndpointConnections</sub>|<sub>TRIAL</sub>|
+|<sub>[privateLinkResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/privateLinkResources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/privateLinkResources</sub>|<sub>TRIAL</sub>|
+|<sub>[queueBuild](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/queueBuild)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/queueBuild</sub>|<sub>TRIAL</sub>|
+|<sub>[regenerateCredential](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/regenerateCredential)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/regenerateCredential</sub>|<sub>TRIAL</sub>|
+|<sub>[regenerateCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/regenerateCredentials)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/regenerateCredentials</sub>|<sub>TRIAL</sub>|
+|<sub>[replications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/replications)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/replications</sub>|<sub>TRIAL</sub>|
+|<sub>[runs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/runs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/runs</sub>|<sub>TRIAL</sub>|
+|<sub>[scheduleRun](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/scheduleRun)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/scheduleRun</sub>|<sub>TRIAL</sub>|
+|<sub>[scopeMaps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/scopeMaps)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/scopeMaps</sub>|<sub>TRIAL</sub>|
+|<sub>[taskRuns](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/taskRuns)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/taskRuns</sub>|<sub>TRIAL</sub>|
+|<sub>[tasks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/tasks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/tasks</sub>|<sub>TRIAL</sub>|
+|<sub>[tokens](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/tokens)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/tokens</sub>|<sub>TRIAL</sub>|
+|<sub>[updatePolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/updatePolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/updatePolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[webhooks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/webhooks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/registries/webhooks</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

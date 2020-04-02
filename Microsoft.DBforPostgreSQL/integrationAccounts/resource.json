@@ -1,0 +1,11 @@
+[
+    "Microsoft.DBforPostgreSQL/integrationAccounts/agreements",
+    "Microsoft.DBforPostgreSQL/integrationAccounts/assemblies",
+    "Microsoft.DBforPostgreSQL/integrationAccounts/batchConfigurations",
+    "Microsoft.DBforPostgreSQL/integrationAccounts/certificates",
+    "Microsoft.DBforPostgreSQL/integrationAccounts/maps",
+    "Microsoft.DBforPostgreSQL/integrationAccounts/partners",
+    "Microsoft.DBforPostgreSQL/integrationAccounts/rosettaNetProcessConfigurations",
+    "Microsoft.DBforPostgreSQL/integrationAccounts/schemas",
+    "Microsoft.DBforPostgreSQL/integrationAccounts/sessions"
+]

@@ -1,0 +1,102 @@
+cassandraKeyspaces:
+  path: Microsoft.AzureActiveDirectory/databaseAccounts/cassandraKeyspaces
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/databaseAccounts/cassandraKeyspaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+gremlinDatabases:
+  path: Microsoft.AzureActiveDirectory/databaseAccounts/gremlinDatabases
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/databaseAccounts/gremlinDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+mongodbDatabases:
+  path: Microsoft.AzureActiveDirectory/databaseAccounts/mongodbDatabases
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/databaseAccounts/mongodbDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.AzureActiveDirectory/databaseAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/databaseAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlDatabases:
+  path: Microsoft.AzureActiveDirectory/databaseAccounts/sqlDatabases
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/databaseAccounts/sqlDatabases
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tables:
+  path: Microsoft.AzureActiveDirectory/databaseAccounts/tables
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/databaseAccounts/tables
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

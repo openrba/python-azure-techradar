@@ -27,34 +27,40 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[VulnerabilityAssessment](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/VulnerabilityAssessment)|UNKNOWN|Microsoft.Network/servers/databases/VulnerabilityAssessment|TRIAL|
-|[VulnerabilityAssessmentScans](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/VulnerabilityAssessmentScans)|UNKNOWN|Microsoft.Network/servers/databases/VulnerabilityAssessmentScans|TRIAL|
-|[VulnerabilityAssessmentSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/VulnerabilityAssessmentSettings)|UNKNOWN|Microsoft.Network/servers/databases/VulnerabilityAssessmentSettings|TRIAL|
-|[advisors](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/advisors)|UNKNOWN|Microsoft.Network/servers/databases/advisors|TRIAL|
-|[auditRecords](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/auditRecords)|UNKNOWN|Microsoft.Network/servers/databases/auditRecords|TRIAL|
-|[auditingPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/auditingPolicies)|UNKNOWN|Microsoft.Network/servers/databases/auditingPolicies|TRIAL|
-|[auditingSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/auditingSettings)|UNKNOWN|Microsoft.Network/servers/databases/auditingSettings|TRIAL|
-|[automaticTuning](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/automaticTuning)|UNKNOWN|Microsoft.Network/servers/databases/automaticTuning|TRIAL|
-|[backupLongTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/backupLongTermRetentionPolicies)|UNKNOWN|Microsoft.Network/servers/databases/backupLongTermRetentionPolicies|TRIAL|
-|[backupShortTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/backupShortTermRetentionPolicies)|UNKNOWN|Microsoft.Network/servers/databases/backupShortTermRetentionPolicies|TRIAL|
-|[connectionPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/connectionPolicies)|UNKNOWN|Microsoft.Network/servers/databases/connectionPolicies|TRIAL|
-|[dataMaskingPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/dataMaskingPolicies)|UNKNOWN|Microsoft.Network/servers/databases/dataMaskingPolicies|TRIAL|
-|[extendedAuditingSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/extendedAuditingSettings)|UNKNOWN|Microsoft.Network/servers/databases/extendedAuditingSettings|TRIAL|
-|[extensions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/extensions)|UNKNOWN|Microsoft.Network/servers/databases/extensions|TRIAL|
-|[geoBackupPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/geoBackupPolicies)|UNKNOWN|Microsoft.Network/servers/databases/geoBackupPolicies|TRIAL|
-|[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/metricDefinitions)|UNKNOWN|Microsoft.Network/servers/databases/metricDefinitions|TRIAL|
-|[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/metrics)|UNKNOWN|Microsoft.Network/servers/databases/metrics|TRIAL|
-|[recommendedSensitivityLabels](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/recommendedSensitivityLabels)|UNKNOWN|Microsoft.Network/servers/databases/recommendedSensitivityLabels|TRIAL|
-|[schemas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/schemas)|UNKNOWN|Microsoft.Network/servers/databases/schemas|TRIAL|
-|[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/securityAlertPolicies)|UNKNOWN|Microsoft.Network/servers/databases/securityAlertPolicies|TRIAL|
-|[syncGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/syncGroups)|UNKNOWN|Microsoft.Network/servers/databases/syncGroups|TRIAL|
-|[topQueries](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/topQueries)|UNKNOWN|Microsoft.Network/servers/databases/topQueries|TRIAL|
-|[transparentDataEncryption](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/transparentDataEncryption)|UNKNOWN|Microsoft.Network/servers/databases/transparentDataEncryption|TRIAL|
-|[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/vulnerabilityAssessments)|UNKNOWN|Microsoft.Network/servers/databases/vulnerabilityAssessments|TRIAL|
-|[workloadGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/workloadGroups)|UNKNOWN|Microsoft.Network/servers/databases/workloadGroups|TRIAL|
+|<sub>[VulnerabilityAssessment](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/VulnerabilityAssessment)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/VulnerabilityAssessment</sub>|<sub>TRIAL</sub>|
+|<sub>[VulnerabilityAssessmentScans](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/VulnerabilityAssessmentScans)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/VulnerabilityAssessmentScans</sub>|<sub>TRIAL</sub>|
+|<sub>[VulnerabilityAssessmentSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/VulnerabilityAssessmentSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/VulnerabilityAssessmentSettings</sub>|<sub>TRIAL</sub>|
+|<sub>[advisors](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/advisors)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/advisors</sub>|<sub>TRIAL</sub>|
+|<sub>[auditRecords](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/auditRecords)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/auditRecords</sub>|<sub>TRIAL</sub>|
+|<sub>[auditingPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/auditingPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/auditingPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[auditingSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/auditingSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/auditingSettings</sub>|<sub>TRIAL</sub>|
+|<sub>[automaticTuning](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/automaticTuning)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/automaticTuning</sub>|<sub>TRIAL</sub>|
+|<sub>[backupLongTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/backupLongTermRetentionPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/backupLongTermRetentionPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[backupShortTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/backupShortTermRetentionPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/backupShortTermRetentionPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[connectionPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/connectionPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/connectionPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[dataMaskingPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/dataMaskingPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/dataMaskingPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[extendedAuditingSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/extendedAuditingSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/extendedAuditingSettings</sub>|<sub>TRIAL</sub>|
+|<sub>[extensions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/extensions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/extensions</sub>|<sub>TRIAL</sub>|
+|<sub>[geoBackupPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/geoBackupPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/geoBackupPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/metricDefinitions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/metricDefinitions</sub>|<sub>TRIAL</sub>|
+|<sub>[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/metrics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/metrics</sub>|<sub>TRIAL</sub>|
+|<sub>[recommendedSensitivityLabels](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/recommendedSensitivityLabels)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/recommendedSensitivityLabels</sub>|<sub>TRIAL</sub>|
+|<sub>[schemas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/schemas)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/schemas</sub>|<sub>TRIAL</sub>|
+|<sub>[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/securityAlertPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/securityAlertPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[syncGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/syncGroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/syncGroups</sub>|<sub>TRIAL</sub>|
+|<sub>[topQueries](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/topQueries)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/topQueries</sub>|<sub>TRIAL</sub>|
+|<sub>[transparentDataEncryption](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/transparentDataEncryption)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/transparentDataEncryption</sub>|<sub>TRIAL</sub>|
+|<sub>[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/vulnerabilityAssessments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/vulnerabilityAssessments</sub>|<sub>TRIAL</sub>|
+|<sub>[workloadGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/databases/workloadGroups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/servers/databases/workloadGroups</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

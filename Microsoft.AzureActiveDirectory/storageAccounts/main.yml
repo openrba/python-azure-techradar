@@ -1,0 +1,204 @@
+blobServices:
+  path: Microsoft.AzureActiveDirectory/storageAccounts/blobServices
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageAccounts/blobServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+fileServices:
+  path: Microsoft.AzureActiveDirectory/storageAccounts/fileServices
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageAccounts/fileServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listAccountSas:
+  path: Microsoft.AzureActiveDirectory/storageAccounts/listAccountSas
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageAccounts/listAccountSas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listServiceSas:
+  path: Microsoft.AzureActiveDirectory/storageAccounts/listServiceSas
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageAccounts/listServiceSas
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+managementPolicies:
+  path: Microsoft.AzureActiveDirectory/storageAccounts/managementPolicies
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageAccounts/managementPolicies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricDefinitions:
+  path: Microsoft.AzureActiveDirectory/storageAccounts/metricDefinitions
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageAccounts/metricDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metrics:
+  path: Microsoft.AzureActiveDirectory/storageAccounts/metrics
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageAccounts/metrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.AzureActiveDirectory/storageAccounts/privateEndpointConnections
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageAccounts/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+queueServices:
+  path: Microsoft.AzureActiveDirectory/storageAccounts/queueServices
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageAccounts/queueServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+services:
+  path: Microsoft.AzureActiveDirectory/storageAccounts/services
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageAccounts/services
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+tableServices:
+  path: Microsoft.AzureActiveDirectory/storageAccounts/tableServices
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageAccounts/tableServices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+vmImages:
+  path: Microsoft.AzureActiveDirectory/storageAccounts/vmImages
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageAccounts/vmImages
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

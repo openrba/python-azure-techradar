@@ -1,0 +1,8 @@
+[
+    "Microsoft.DBforPostgreSQL/factories/dataflows",
+    "Microsoft.DBforPostgreSQL/factories/datasets",
+    "Microsoft.DBforPostgreSQL/factories/integrationRuntimes",
+    "Microsoft.DBforPostgreSQL/factories/linkedservices",
+    "Microsoft.DBforPostgreSQL/factories/pipelines",
+    "Microsoft.DBforPostgreSQL/factories/triggers"
+]

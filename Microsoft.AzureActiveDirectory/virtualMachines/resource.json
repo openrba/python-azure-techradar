@@ -1,0 +1,6 @@
+[
+    "Microsoft.AzureActiveDirectory/virtualMachines/diagnosticSettings",
+    "Microsoft.AzureActiveDirectory/virtualMachines/extensions",
+    "Microsoft.AzureActiveDirectory/virtualMachines/metricDefinitions",
+    "Microsoft.AzureActiveDirectory/virtualMachines/metrics"
+]

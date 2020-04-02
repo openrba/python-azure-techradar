@@ -1,0 +1,6 @@
+[
+    "Microsoft.AzureActiveDirectory/batchAccounts/applications",
+    "Microsoft.AzureActiveDirectory/batchAccounts/applications/versions",
+    "Microsoft.AzureActiveDirectory/batchAccounts/certificates",
+    "Microsoft.AzureActiveDirectory/batchAccounts/pools"
+]

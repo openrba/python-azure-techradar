@@ -1,0 +1,19 @@
+[
+    "Microsoft.DBforPostgreSQL/managers/accessControlRecords",
+    "Microsoft.DBforPostgreSQL/managers/bandwidthSettings",
+    "Microsoft.DBforPostgreSQL/managers/devices/alertSettings",
+    "Microsoft.DBforPostgreSQL/managers/devices/backupPolicies",
+    "Microsoft.DBforPostgreSQL/managers/devices/backupPolicies/schedules",
+    "Microsoft.DBforPostgreSQL/managers/devices/backupScheduleGroups",
+    "Microsoft.DBforPostgreSQL/managers/devices/chapSettings",
+    "Microsoft.DBforPostgreSQL/managers/devices/fileservers",
+    "Microsoft.DBforPostgreSQL/managers/devices/fileservers/shares",
+    "Microsoft.DBforPostgreSQL/managers/devices/iscsiservers",
+    "Microsoft.DBforPostgreSQL/managers/devices/iscsiservers/disks",
+    "Microsoft.DBforPostgreSQL/managers/devices/timeSettings",
+    "Microsoft.DBforPostgreSQL/managers/devices/volumeContainers",
+    "Microsoft.DBforPostgreSQL/managers/devices/volumeContainers/volumes",
+    "Microsoft.DBforPostgreSQL/managers/extendedInformation",
+    "Microsoft.DBforPostgreSQL/managers/storageAccountCredentials",
+    "Microsoft.DBforPostgreSQL/managers/storageDomains"
+]

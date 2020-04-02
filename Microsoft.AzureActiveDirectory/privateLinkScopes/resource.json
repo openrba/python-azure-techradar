@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/privateLinkScopes/privateEndpointConnectionProxies",
+    "Microsoft.AzureActiveDirectory/privateLinkScopes/privateEndpointConnections",
+    "Microsoft.AzureActiveDirectory/privateLinkScopes/scopedResources"
+]

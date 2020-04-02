@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/databaseAccounts/gremlinDatabases/graphs",
+    "Microsoft.AzureActiveDirectory/databaseAccounts/gremlinDatabases/graphs/throughputSettings",
+    "Microsoft.AzureActiveDirectory/databaseAccounts/gremlinDatabases/throughputSettings"
+]

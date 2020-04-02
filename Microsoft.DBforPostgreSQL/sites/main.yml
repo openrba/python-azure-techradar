@@ -1,0 +1,221 @@
+config:
+  path: Microsoft.DBforPostgreSQL/sites/config
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/config
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+domainownershipidentifiers:
+  path: Microsoft.DBforPostgreSQL/sites/domainownershipidentifiers
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/domainownershipidentifiers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+eventGridFilters:
+  path: Microsoft.DBforPostgreSQL/sites/eventGridFilters
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/eventGridFilters
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hostNameBindings:
+  path: Microsoft.DBforPostgreSQL/sites/hostNameBindings
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/hostNameBindings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnection:
+  path: Microsoft.DBforPostgreSQL/sites/hybridconnection
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/hybridconnection
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+hybridconnectionnamespaces:
+  path: Microsoft.DBforPostgreSQL/sites/hybridconnectionnamespaces
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/hybridconnectionnamespaces
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+networkConfig:
+  path: Microsoft.DBforPostgreSQL/sites/networkConfig
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/networkConfig
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+premieraddons:
+  path: Microsoft.DBforPostgreSQL/sites/premieraddons
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/premieraddons
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateaccess:
+  path: Microsoft.DBforPostgreSQL/sites/privateaccess
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/privateaccess
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+publiccertificates:
+  path: Microsoft.DBforPostgreSQL/sites/publiccertificates
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/publiccertificates
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+slots:
+  path: Microsoft.DBforPostgreSQL/sites/slots
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/slots
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sourcecontrols:
+  path: Microsoft.DBforPostgreSQL/sites/sourcecontrols
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/sourcecontrols
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+virtualnetworkconnections:
+  path: Microsoft.DBforPostgreSQL/sites/virtualnetworkconnections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/sites/virtualnetworkconnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforPostgreSQL/servers/administrators/activeDirectory.administratorType",
+    "Microsoft.DBforPostgreSQL/servers/administrators/activeDirectory.login",
+    "Microsoft.DBforPostgreSQL/servers/administrators/activeDirectory.sid",
+    "Microsoft.DBforPostgreSQL/servers/administrators/activeDirectory.tenantId"
+]

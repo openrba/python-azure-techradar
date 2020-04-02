@@ -27,26 +27,32 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/A)|UNKNOWN|Microsoft.Network/privateDnsZones/A|TRIAL|
-|[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/AAAA)|UNKNOWN|Microsoft.Network/privateDnsZones/AAAA|TRIAL|
-|[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/CNAME)|UNKNOWN|Microsoft.Network/privateDnsZones/CNAME|TRIAL|
-|[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/MX)|UNKNOWN|Microsoft.Network/privateDnsZones/MX|TRIAL|
-|[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/PTR)|UNKNOWN|Microsoft.Network/privateDnsZones/PTR|TRIAL|
-|[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/SOA)|UNKNOWN|Microsoft.Network/privateDnsZones/SOA|TRIAL|
-|[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/SRV)|UNKNOWN|Microsoft.Network/privateDnsZones/SRV|TRIAL|
-|[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/TXT)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT|TRIAL|
-|[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/all)|UNKNOWN|Microsoft.Network/privateDnsZones/all|TRIAL|
-|[maxNumberOfRecordSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/maxNumberOfRecordSets)|UNKNOWN|Microsoft.Network/privateDnsZones/maxNumberOfRecordSets|TRIAL|
-|[maxNumberOfVirtualNetworkLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/maxNumberOfVirtualNetworkLinks)|UNKNOWN|Microsoft.Network/privateDnsZones/maxNumberOfVirtualNetworkLinks|TRIAL|
-|[maxNumberOfVirtualNetworkLinksWithRegistration](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/maxNumberOfVirtualNetworkLinksWithRegistration)|UNKNOWN|Microsoft.Network/privateDnsZones/maxNumberOfVirtualNetworkLinksWithRegistration|TRIAL|
-|[numberOfRecordSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/numberOfRecordSets)|UNKNOWN|Microsoft.Network/privateDnsZones/numberOfRecordSets|TRIAL|
-|[numberOfVirtualNetworkLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/numberOfVirtualNetworkLinks)|UNKNOWN|Microsoft.Network/privateDnsZones/numberOfVirtualNetworkLinks|TRIAL|
-|[numberOfVirtualNetworkLinksWithRegistration](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/numberOfVirtualNetworkLinksWithRegistration)|UNKNOWN|Microsoft.Network/privateDnsZones/numberOfVirtualNetworkLinksWithRegistration|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/provisioningState)|UNKNOWN|Microsoft.Network/privateDnsZones/provisioningState|TRIAL|
-|[virtualNetworkLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/virtualNetworkLinks)|UNKNOWN|Microsoft.Network/privateDnsZones/virtualNetworkLinks|TRIAL|
+|<sub>[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/A)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/A</sub>|<sub>TRIAL</sub>|
+|<sub>[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/AAAA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/AAAA</sub>|<sub>TRIAL</sub>|
+|<sub>[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/CNAME)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/CNAME</sub>|<sub>TRIAL</sub>|
+|<sub>[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/MX)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/MX</sub>|<sub>TRIAL</sub>|
+|<sub>[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/PTR)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/PTR</sub>|<sub>TRIAL</sub>|
+|<sub>[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/SOA)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/SOA</sub>|<sub>TRIAL</sub>|
+|<sub>[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/SRV)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/SRV</sub>|<sub>TRIAL</sub>|
+|<sub>[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/TXT)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/TXT</sub>|<sub>TRIAL</sub>|
+|<sub>[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/all)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/all</sub>|<sub>TRIAL</sub>|
+|<sub>[maxNumberOfRecordSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/maxNumberOfRecordSets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/maxNumberOfRecordSets</sub>|<sub>TRIAL</sub>|
+|<sub>[maxNumberOfVirtualNetworkLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/maxNumberOfVirtualNetworkLinks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/maxNumberOfVirtualNetworkLinks</sub>|<sub>TRIAL</sub>|
+|<sub>[maxNumberOfVirtualNetworkLinksWithRegistration](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/maxNumberOfVirtualNetworkLinksWithRegistration)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/maxNumberOfVirtualNetworkLinksWithRegistration</sub>|<sub>TRIAL</sub>|
+|<sub>[numberOfRecordSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/numberOfRecordSets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/numberOfRecordSets</sub>|<sub>TRIAL</sub>|
+|<sub>[numberOfVirtualNetworkLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/numberOfVirtualNetworkLinks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/numberOfVirtualNetworkLinks</sub>|<sub>TRIAL</sub>|
+|<sub>[numberOfVirtualNetworkLinksWithRegistration](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/numberOfVirtualNetworkLinksWithRegistration)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/numberOfVirtualNetworkLinksWithRegistration</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/provisioningState</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetworkLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/privateDnsZones/virtualNetworkLinks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/privateDnsZones/virtualNetworkLinks</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

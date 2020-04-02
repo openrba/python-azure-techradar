@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/registries/buildTasks/listSourceRepositoryProperties",
+    "Microsoft.AzureActiveDirectory/registries/buildTasks/steps",
+    "Microsoft.AzureActiveDirectory/registries/buildTasks/steps/listBuildArguments"
+]

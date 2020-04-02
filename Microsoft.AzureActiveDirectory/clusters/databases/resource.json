@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/clusters/databases/dataconnections",
+    "Microsoft.AzureActiveDirectory/clusters/databases/eventhubconnections",
+    "Microsoft.AzureActiveDirectory/clusters/databases/principalassignments"
+]

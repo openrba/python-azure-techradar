@@ -1,0 +1,13 @@
+[
+    "Microsoft.AzureActiveDirectory/clusters/applicationTypes",
+    "Microsoft.AzureActiveDirectory/clusters/applicationTypes/versions",
+    "Microsoft.AzureActiveDirectory/clusters/applications",
+    "Microsoft.AzureActiveDirectory/clusters/applications/services",
+    "Microsoft.AzureActiveDirectory/clusters/attacheddatabaseconfigurations",
+    "Microsoft.AzureActiveDirectory/clusters/databases",
+    "Microsoft.AzureActiveDirectory/clusters/databases/dataconnections",
+    "Microsoft.AzureActiveDirectory/clusters/databases/eventhubconnections",
+    "Microsoft.AzureActiveDirectory/clusters/databases/principalassignments",
+    "Microsoft.AzureActiveDirectory/clusters/operationresults",
+    "Microsoft.AzureActiveDirectory/clusters/principalassignments"
+]

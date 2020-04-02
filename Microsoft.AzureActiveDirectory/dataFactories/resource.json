@@ -1,0 +1,4 @@
+[
+    "Microsoft.AzureActiveDirectory/dataFactories/diagnosticSettings",
+    "Microsoft.AzureActiveDirectory/dataFactories/metricDefinitions"
+]

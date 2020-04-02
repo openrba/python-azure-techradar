@@ -1,0 +1,51 @@
+problemclassifications:
+  path: Microsoft.DBforPostgreSQL/services/problemclassifications
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/services/problemclassifications
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+projects:
+  path: Microsoft.DBforPostgreSQL/services/projects
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/services/projects
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceTasks:
+  path: Microsoft.DBforPostgreSQL/services/serviceTasks
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/services/serviceTasks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

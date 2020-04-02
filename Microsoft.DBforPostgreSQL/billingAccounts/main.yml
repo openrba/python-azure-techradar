@@ -1,0 +1,357 @@
+BillingProfiles:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/BillingProfiles
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/BillingProfiles
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+agreements:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/agreements
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/agreements
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingPermissions:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/billingPermissions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/billingPermissions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingProfiles:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/billingProfiles
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/billingProfiles
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingRoleAssignments:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/billingRoleAssignments
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/billingRoleAssignments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingRoleDefinitions:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/billingRoleDefinitions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/billingRoleDefinitions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+billingSubscriptions:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/billingSubscriptions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/billingSubscriptions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+createBillingRoleAssignment:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/createBillingRoleAssignment
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/createBillingRoleAssignment
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+createInvoiceSectionOperations:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/createInvoiceSectionOperations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/createInvoiceSectionOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+customers:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/customers
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/customers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+departments:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/departments
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/departments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+enrollmentAccounts:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/enrollmentAccounts
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/enrollmentAccounts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+invoiceSections:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+invoices:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/invoices
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/invoices
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+lineOfCredit:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/lineOfCredit
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/lineOfCredit
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+listInvoiceSectionsWithCreateSubscriptionPermission:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+operationResults:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/operationResults
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/operationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+patchOperations:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/patchOperations
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/patchOperations
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+paymentMethods:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/paymentMethods
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/paymentMethods
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+products:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/products
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/products
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+transactions:
+  path: Microsoft.DBforPostgreSQL/billingAccounts/transactions
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/billingAccounts/transactions
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

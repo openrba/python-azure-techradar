@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforPostgreSQL/ExternalBillingAccounts/Alerts",
+    "Microsoft.DBforPostgreSQL/ExternalBillingAccounts/Dimensions",
+    "Microsoft.DBforPostgreSQL/ExternalBillingAccounts/Forecast",
+    "Microsoft.DBforPostgreSQL/ExternalBillingAccounts/Query"
+]

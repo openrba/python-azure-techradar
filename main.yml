@@ -205,14 +205,14 @@ Microsoft.Automation:
 Microsoft.AzureActiveDirectory:
   path: Microsoft.AzureActiveDirectory
   description: UNKNOWN
-  status: HOLD
+  status: ADOPT
   url: Microsoft.AzureActiveDirectory
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: SAAS
+    status: REVIEWED
+    start: 1/1/2020
+    end: 1/1/2020
+    notes: This service is used in production within RBA.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -800,14 +800,14 @@ Microsoft.DBforMySQL:
 Microsoft.DBforPostgreSQL:
   path: Microsoft.DBforPostgreSQL
   description: UNKNOWN
-  status: HOLD
+  status: TRIAL
   url: Microsoft.DBforPostgreSQL
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: REVIEWED
+    start: 3/1/2020
     end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    notes: Service currently in trial with core SRE team.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED

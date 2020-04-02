@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforPostgreSQL/registries/runs/cancel",
+    "Microsoft.DBforPostgreSQL/registries/runs/listLogSasUrl"
+]

@@ -27,22 +27,28 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[clusters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/clusters)|UNKNOWN|Microsoft.Compute/workspaces/clusters|TRIAL|
-|[computes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/computes)|UNKNOWN|Microsoft.Compute/workspaces/computes|TRIAL|
-|[dataSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/dataSources)|UNKNOWN|Microsoft.Compute/workspaces/dataSources|TRIAL|
-|[dbWorkspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/dbWorkspaces)|UNKNOWN|Microsoft.Compute/workspaces/dbWorkspaces|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/eventGridFilters)|UNKNOWN|Microsoft.Compute/workspaces/eventGridFilters|TRIAL|
-|[experiments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/experiments)|UNKNOWN|Microsoft.Compute/workspaces/experiments|TRIAL|
-|[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/fileservers)|UNKNOWN|Microsoft.Compute/workspaces/fileservers|TRIAL|
-|[linkedServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/linkedServices)|UNKNOWN|Microsoft.Compute/workspaces/linkedServices|TRIAL|
-|[query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/query)|UNKNOWN|Microsoft.Compute/workspaces/query|TRIAL|
-|[savedSearches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/savedSearches)|UNKNOWN|Microsoft.Compute/workspaces/savedSearches|TRIAL|
-|[scopedPrivateLinkProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/scopedPrivateLinkProxies)|UNKNOWN|Microsoft.Compute/workspaces/scopedPrivateLinkProxies|TRIAL|
-|[storageinsightconfigs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/storageinsightconfigs)|UNKNOWN|Microsoft.Compute/workspaces/storageinsightconfigs|TRIAL|
-|[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/virtualNetworkPeerings)|UNKNOWN|Microsoft.Compute/workspaces/virtualNetworkPeerings|TRIAL|
+|<sub>[clusters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/clusters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/clusters</sub>|<sub>TRIAL</sub>|
+|<sub>[computes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/computes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/computes</sub>|<sub>TRIAL</sub>|
+|<sub>[dataSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/dataSources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/dataSources</sub>|<sub>TRIAL</sub>|
+|<sub>[dbWorkspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/dbWorkspaces)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/dbWorkspaces</sub>|<sub>TRIAL</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/eventGridFilters</sub>|<sub>TRIAL</sub>|
+|<sub>[experiments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/experiments)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/experiments</sub>|<sub>TRIAL</sub>|
+|<sub>[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/fileservers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/fileservers</sub>|<sub>TRIAL</sub>|
+|<sub>[linkedServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/linkedServices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/linkedServices</sub>|<sub>TRIAL</sub>|
+|<sub>[query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/query)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/query</sub>|<sub>TRIAL</sub>|
+|<sub>[savedSearches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/savedSearches)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/savedSearches</sub>|<sub>TRIAL</sub>|
+|<sub>[scopedPrivateLinkProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/scopedPrivateLinkProxies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/scopedPrivateLinkProxies</sub>|<sub>TRIAL</sub>|
+|<sub>[storageinsightconfigs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/storageinsightconfigs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/storageinsightconfigs</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/workspaces/virtualNetworkPeerings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/workspaces/virtualNetworkPeerings</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

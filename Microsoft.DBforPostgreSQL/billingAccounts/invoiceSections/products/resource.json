@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/products/transfer",
+    "Microsoft.DBforPostgreSQL/billingAccounts/invoiceSections/products/updateAutoRenew"
+]

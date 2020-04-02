@@ -27,13 +27,19 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[Alerts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/ExternalSubscriptions/Alerts)|UNKNOWN|Microsoft.Compute/ExternalSubscriptions/Alerts|TRIAL|
-|[Dimensions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/ExternalSubscriptions/Dimensions)|UNKNOWN|Microsoft.Compute/ExternalSubscriptions/Dimensions|TRIAL|
-|[Forecast](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/ExternalSubscriptions/Forecast)|UNKNOWN|Microsoft.Compute/ExternalSubscriptions/Forecast|TRIAL|
-|[Query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/ExternalSubscriptions/Query)|UNKNOWN|Microsoft.Compute/ExternalSubscriptions/Query|TRIAL|
+|<sub>[Alerts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/ExternalSubscriptions/Alerts)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/ExternalSubscriptions/Alerts</sub>|<sub>TRIAL</sub>|
+|<sub>[Dimensions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/ExternalSubscriptions/Dimensions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/ExternalSubscriptions/Dimensions</sub>|<sub>TRIAL</sub>|
+|<sub>[Forecast](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/ExternalSubscriptions/Forecast)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/ExternalSubscriptions/Forecast</sub>|<sub>TRIAL</sub>|
+|<sub>[Query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/ExternalSubscriptions/Query)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/ExternalSubscriptions/Query</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

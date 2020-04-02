@@ -27,29 +27,35 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[certificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/certificates)|UNKNOWN|Microsoft.Network/automationAccounts/certificates|TRIAL|
-|[compilationjobs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/compilationjobs)|UNKNOWN|Microsoft.Network/automationAccounts/compilationjobs|TRIAL|
-|[configurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/configurations)|UNKNOWN|Microsoft.Network/automationAccounts/configurations|TRIAL|
-|[connectionTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/connectionTypes)|UNKNOWN|Microsoft.Network/automationAccounts/connectionTypes|TRIAL|
-|[connections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/connections)|UNKNOWN|Microsoft.Network/automationAccounts/connections|TRIAL|
-|[credentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/credentials)|UNKNOWN|Microsoft.Network/automationAccounts/credentials|TRIAL|
-|[jobSchedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/jobSchedules)|UNKNOWN|Microsoft.Network/automationAccounts/jobSchedules|TRIAL|
-|[jobs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/jobs)|UNKNOWN|Microsoft.Network/automationAccounts/jobs|TRIAL|
-|[modules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/modules)|UNKNOWN|Microsoft.Network/automationAccounts/modules|TRIAL|
-|[nodeConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/nodeConfigurations)|UNKNOWN|Microsoft.Network/automationAccounts/nodeConfigurations|TRIAL|
-|[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/privateEndpointConnectionProxies)|UNKNOWN|Microsoft.Network/automationAccounts/privateEndpointConnectionProxies|TRIAL|
-|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/privateEndpointConnections)|UNKNOWN|Microsoft.Network/automationAccounts/privateEndpointConnections|TRIAL|
-|[privateLinkResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/privateLinkResources)|UNKNOWN|Microsoft.Network/automationAccounts/privateLinkResources|TRIAL|
-|[python2Packages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/python2Packages)|UNKNOWN|Microsoft.Network/automationAccounts/python2Packages|TRIAL|
-|[runbooks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/runbooks)|UNKNOWN|Microsoft.Network/automationAccounts/runbooks|TRIAL|
-|[schedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/schedules)|UNKNOWN|Microsoft.Network/automationAccounts/schedules|TRIAL|
-|[softwareUpdateConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/softwareUpdateConfigurations)|UNKNOWN|Microsoft.Network/automationAccounts/softwareUpdateConfigurations|TRIAL|
-|[variables](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/variables)|UNKNOWN|Microsoft.Network/automationAccounts/variables|TRIAL|
-|[watchers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/watchers)|UNKNOWN|Microsoft.Network/automationAccounts/watchers|TRIAL|
-|[webhooks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/webhooks)|UNKNOWN|Microsoft.Network/automationAccounts/webhooks|TRIAL|
+|<sub>[certificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/certificates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/certificates</sub>|<sub>TRIAL</sub>|
+|<sub>[compilationjobs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/compilationjobs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/compilationjobs</sub>|<sub>TRIAL</sub>|
+|<sub>[configurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/configurations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/configurations</sub>|<sub>TRIAL</sub>|
+|<sub>[connectionTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/connectionTypes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/connectionTypes</sub>|<sub>TRIAL</sub>|
+|<sub>[connections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/connections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/connections</sub>|<sub>TRIAL</sub>|
+|<sub>[credentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/credentials)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/credentials</sub>|<sub>TRIAL</sub>|
+|<sub>[jobSchedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/jobSchedules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/jobSchedules</sub>|<sub>TRIAL</sub>|
+|<sub>[jobs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/jobs)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/jobs</sub>|<sub>TRIAL</sub>|
+|<sub>[modules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/modules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/modules</sub>|<sub>TRIAL</sub>|
+|<sub>[nodeConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/nodeConfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/nodeConfigurations</sub>|<sub>TRIAL</sub>|
+|<sub>[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/privateEndpointConnectionProxies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/privateEndpointConnectionProxies</sub>|<sub>TRIAL</sub>|
+|<sub>[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/privateEndpointConnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/privateEndpointConnections</sub>|<sub>TRIAL</sub>|
+|<sub>[privateLinkResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/privateLinkResources)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/privateLinkResources</sub>|<sub>TRIAL</sub>|
+|<sub>[python2Packages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/python2Packages)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/python2Packages</sub>|<sub>TRIAL</sub>|
+|<sub>[runbooks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/runbooks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/runbooks</sub>|<sub>TRIAL</sub>|
+|<sub>[schedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/schedules)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/schedules</sub>|<sub>TRIAL</sub>|
+|<sub>[softwareUpdateConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/softwareUpdateConfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/softwareUpdateConfigurations</sub>|<sub>TRIAL</sub>|
+|<sub>[variables](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/variables)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/variables</sub>|<sub>TRIAL</sub>|
+|<sub>[watchers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/watchers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/watchers</sub>|<sub>TRIAL</sub>|
+|<sub>[webhooks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/automationAccounts/webhooks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/automationAccounts/webhooks</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

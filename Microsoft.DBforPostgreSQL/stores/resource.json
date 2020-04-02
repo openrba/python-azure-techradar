@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforPostgreSQL/stores/accessPolicies",
+    "Microsoft.DBforPostgreSQL/stores/services",
+    "Microsoft.DBforPostgreSQL/stores/services/tokens"
+]

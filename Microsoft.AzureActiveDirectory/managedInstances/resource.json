@@ -1,0 +1,19 @@
+[
+    "Microsoft.AzureActiveDirectory/managedInstances/administrators",
+    "Microsoft.AzureActiveDirectory/managedInstances/databases",
+    "Microsoft.AzureActiveDirectory/managedInstances/databases/backupLongTermRetentionPolicies",
+    "Microsoft.AzureActiveDirectory/managedInstances/databases/backupShortTermRetentionPolicies",
+    "Microsoft.AzureActiveDirectory/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
+    "Microsoft.AzureActiveDirectory/managedInstances/databases/securityAlertPolicies",
+    "Microsoft.AzureActiveDirectory/managedInstances/databases/vulnerabilityAssessments",
+    "Microsoft.AzureActiveDirectory/managedInstances/databases/vulnerabilityAssessments/rules/baselines",
+    "Microsoft.AzureActiveDirectory/managedInstances/encryptionProtector",
+    "Microsoft.AzureActiveDirectory/managedInstances/keys",
+    "Microsoft.AzureActiveDirectory/managedInstances/metricDefinitions",
+    "Microsoft.AzureActiveDirectory/managedInstances/metrics",
+    "Microsoft.AzureActiveDirectory/managedInstances/recoverableDatabases",
+    "Microsoft.AzureActiveDirectory/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies",
+    "Microsoft.AzureActiveDirectory/managedInstances/securityAlertPolicies",
+    "Microsoft.AzureActiveDirectory/managedInstances/tdeCertificates",
+    "Microsoft.AzureActiveDirectory/managedInstances/vulnerabilityAssessments"
+]

@@ -27,27 +27,33 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[ipPrefix](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/ipPrefix)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipPrefix|TRIAL|
-|[ipTags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/ipTags)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipTags|TRIAL|
-|[ipTags[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/ipTags[*])|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipTags[*]|TRIAL|
-|[ipTags[*].ipTagType](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType|TRIAL|
-|[ipTags[*].tag](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/ipTags[*].tag)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipTags[*].tag|TRIAL|
-|[loadBalancerFrontendIpConfiguration](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration)|UNKNOWN|Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration|TRIAL|
-|[loadBalancerFrontendIpConfiguration.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id)|UNKNOWN|Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id|TRIAL|
-|[prefixLength](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/prefixLength)|UNKNOWN|Microsoft.Network/publicIPPrefixes/prefixLength|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/provisioningState)|UNKNOWN|Microsoft.Network/publicIPPrefixes/provisioningState|TRIAL|
-|[publicIPAddressVersion](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/publicIPAddressVersion)|UNKNOWN|Microsoft.Network/publicIPPrefixes/publicIPAddressVersion|TRIAL|
-|[publicIPAddresses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/publicIPAddresses)|UNKNOWN|Microsoft.Network/publicIPPrefixes/publicIPAddresses|TRIAL|
-|[publicIPAddresses[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/publicIPAddresses[*])|UNKNOWN|Microsoft.Network/publicIPPrefixes/publicIPAddresses[*]|TRIAL|
-|[publicIPAddresses[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id)|UNKNOWN|Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id|TRIAL|
-|[resourceGuid](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/resourceGuid)|UNKNOWN|Microsoft.Network/publicIPPrefixes/resourceGuid|TRIAL|
-|[sku](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/sku)|UNKNOWN|Microsoft.Network/publicIPPrefixes/sku|TRIAL|
-|[sku.name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/sku.name)|UNKNOWN|Microsoft.Network/publicIPPrefixes/sku.name|TRIAL|
-|[zones](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/zones)|UNKNOWN|Microsoft.Network/publicIPPrefixes/zones|TRIAL|
-|[zones[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/zones[*])|UNKNOWN|Microsoft.Network/publicIPPrefixes/zones[*]|TRIAL|
+|<sub>[ipPrefix](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/ipPrefix)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/ipPrefix</sub>|<sub>TRIAL</sub>|
+|<sub>[ipTags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/ipTags)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/ipTags</sub>|<sub>TRIAL</sub>|
+|<sub>[ipTags[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/ipTags[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/ipTags[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[ipTags[*].ipTagType](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType</sub>|<sub>TRIAL</sub>|
+|<sub>[ipTags[*].tag](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/ipTags[*].tag)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/ipTags[*].tag</sub>|<sub>TRIAL</sub>|
+|<sub>[loadBalancerFrontendIpConfiguration](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration</sub>|<sub>TRIAL</sub>|
+|<sub>[loadBalancerFrontendIpConfiguration.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id</sub>|<sub>TRIAL</sub>|
+|<sub>[prefixLength](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/prefixLength)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/prefixLength</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/provisioningState</sub>|<sub>TRIAL</sub>|
+|<sub>[publicIPAddressVersion](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/publicIPAddressVersion)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/publicIPAddressVersion</sub>|<sub>TRIAL</sub>|
+|<sub>[publicIPAddresses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/publicIPAddresses)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/publicIPAddresses</sub>|<sub>TRIAL</sub>|
+|<sub>[publicIPAddresses[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/publicIPAddresses[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/publicIPAddresses[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[publicIPAddresses[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id</sub>|<sub>TRIAL</sub>|
+|<sub>[resourceGuid](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/resourceGuid)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/resourceGuid</sub>|<sub>TRIAL</sub>|
+|<sub>[sku](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/sku)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/sku</sub>|<sub>TRIAL</sub>|
+|<sub>[sku.name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/sku.name)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/sku.name</sub>|<sub>TRIAL</sub>|
+|<sub>[zones](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/zones)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/zones</sub>|<sub>TRIAL</sub>|
+|<sub>[zones[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/publicIPPrefixes/zones[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/publicIPPrefixes/zones[*]</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

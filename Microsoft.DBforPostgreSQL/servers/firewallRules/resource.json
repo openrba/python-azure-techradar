@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforPostgreSQL/servers/firewallRules/endIpAddress",
+    "Microsoft.DBforPostgreSQL/servers/firewallRules/startIpAddress"
+]

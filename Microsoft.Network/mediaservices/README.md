@@ -27,21 +27,27 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[accountFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/accountFilters)|UNKNOWN|Microsoft.Network/mediaservices/accountFilters|TRIAL|
-|[assets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/assets)|UNKNOWN|Microsoft.Network/mediaservices/assets|TRIAL|
-|[contentKeyPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/contentKeyPolicies)|UNKNOWN|Microsoft.Network/mediaservices/contentKeyPolicies|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/eventGridFilters)|UNKNOWN|Microsoft.Network/mediaservices/eventGridFilters|TRIAL|
-|[liveEventOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/liveEventOperations)|UNKNOWN|Microsoft.Network/mediaservices/liveEventOperations|TRIAL|
-|[liveEvents](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/liveEvents)|UNKNOWN|Microsoft.Network/mediaservices/liveEvents|TRIAL|
-|[liveOutputOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/liveOutputOperations)|UNKNOWN|Microsoft.Network/mediaservices/liveOutputOperations|TRIAL|
-|[streamingEndpointOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/streamingEndpointOperations)|UNKNOWN|Microsoft.Network/mediaservices/streamingEndpointOperations|TRIAL|
-|[streamingEndpoints](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/streamingEndpoints)|UNKNOWN|Microsoft.Network/mediaservices/streamingEndpoints|TRIAL|
-|[streamingLocators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/streamingLocators)|UNKNOWN|Microsoft.Network/mediaservices/streamingLocators|TRIAL|
-|[streamingPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/streamingPolicies)|UNKNOWN|Microsoft.Network/mediaservices/streamingPolicies|TRIAL|
-|[transforms](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/transforms)|UNKNOWN|Microsoft.Network/mediaservices/transforms|TRIAL|
+|<sub>[accountFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/accountFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/mediaservices/accountFilters</sub>|<sub>TRIAL</sub>|
+|<sub>[assets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/assets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/mediaservices/assets</sub>|<sub>TRIAL</sub>|
+|<sub>[contentKeyPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/contentKeyPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/mediaservices/contentKeyPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/mediaservices/eventGridFilters</sub>|<sub>TRIAL</sub>|
+|<sub>[liveEventOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/liveEventOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/mediaservices/liveEventOperations</sub>|<sub>TRIAL</sub>|
+|<sub>[liveEvents](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/liveEvents)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/mediaservices/liveEvents</sub>|<sub>TRIAL</sub>|
+|<sub>[liveOutputOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/liveOutputOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/mediaservices/liveOutputOperations</sub>|<sub>TRIAL</sub>|
+|<sub>[streamingEndpointOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/streamingEndpointOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/mediaservices/streamingEndpointOperations</sub>|<sub>TRIAL</sub>|
+|<sub>[streamingEndpoints](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/streamingEndpoints)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/mediaservices/streamingEndpoints</sub>|<sub>TRIAL</sub>|
+|<sub>[streamingLocators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/streamingLocators)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/mediaservices/streamingLocators</sub>|<sub>TRIAL</sub>|
+|<sub>[streamingPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/streamingPolicies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/mediaservices/streamingPolicies</sub>|<sub>TRIAL</sub>|
+|<sub>[transforms](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/mediaservices/transforms)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/mediaservices/transforms</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

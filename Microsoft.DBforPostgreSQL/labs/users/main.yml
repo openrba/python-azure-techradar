@@ -1,0 +1,68 @@
+disks:
+  path: Microsoft.DBforPostgreSQL/labs/users/disks
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/labs/users/disks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+environments:
+  path: Microsoft.DBforPostgreSQL/labs/users/environments
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/labs/users/environments
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+secrets:
+  path: Microsoft.DBforPostgreSQL/labs/users/secrets
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/labs/users/secrets
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+serviceFabrics:
+  path: Microsoft.DBforPostgreSQL/labs/users/serviceFabrics
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/labs/users/serviceFabrics
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

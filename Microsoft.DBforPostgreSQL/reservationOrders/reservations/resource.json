@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforPostgreSQL/reservationOrders/reservations/availableScopes",
+    "Microsoft.DBforPostgreSQL/reservationOrders/reservations/revisions"
+]

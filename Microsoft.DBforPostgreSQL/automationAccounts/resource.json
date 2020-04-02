@@ -1,0 +1,22 @@
+[
+    "Microsoft.DBforPostgreSQL/automationAccounts/certificates",
+    "Microsoft.DBforPostgreSQL/automationAccounts/compilationjobs",
+    "Microsoft.DBforPostgreSQL/automationAccounts/configurations",
+    "Microsoft.DBforPostgreSQL/automationAccounts/connectionTypes",
+    "Microsoft.DBforPostgreSQL/automationAccounts/connections",
+    "Microsoft.DBforPostgreSQL/automationAccounts/credentials",
+    "Microsoft.DBforPostgreSQL/automationAccounts/jobSchedules",
+    "Microsoft.DBforPostgreSQL/automationAccounts/jobs",
+    "Microsoft.DBforPostgreSQL/automationAccounts/modules",
+    "Microsoft.DBforPostgreSQL/automationAccounts/nodeConfigurations",
+    "Microsoft.DBforPostgreSQL/automationAccounts/privateEndpointConnectionProxies",
+    "Microsoft.DBforPostgreSQL/automationAccounts/privateEndpointConnections",
+    "Microsoft.DBforPostgreSQL/automationAccounts/privateLinkResources",
+    "Microsoft.DBforPostgreSQL/automationAccounts/python2Packages",
+    "Microsoft.DBforPostgreSQL/automationAccounts/runbooks",
+    "Microsoft.DBforPostgreSQL/automationAccounts/schedules",
+    "Microsoft.DBforPostgreSQL/automationAccounts/softwareUpdateConfigurations",
+    "Microsoft.DBforPostgreSQL/automationAccounts/variables",
+    "Microsoft.DBforPostgreSQL/automationAccounts/watchers",
+    "Microsoft.DBforPostgreSQL/automationAccounts/webhooks"
+]

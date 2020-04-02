@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforPostgreSQL/storageSyncServices/syncGroups/cloudEndpoints",
+    "Microsoft.DBforPostgreSQL/storageSyncServices/syncGroups/serverEndpoints"
+]

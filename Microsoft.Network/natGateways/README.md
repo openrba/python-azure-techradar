@@ -27,25 +27,31 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[idleTimeoutInMinutes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/idleTimeoutInMinutes)|UNKNOWN|Microsoft.Network/natGateways/idleTimeoutInMinutes|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/provisioningState)|UNKNOWN|Microsoft.Network/natGateways/provisioningState|TRIAL|
-|[publicIpAddresses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpAddresses)|UNKNOWN|Microsoft.Network/natGateways/publicIpAddresses|TRIAL|
-|[publicIpAddresses[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpAddresses[*])|UNKNOWN|Microsoft.Network/natGateways/publicIpAddresses[*]|TRIAL|
-|[publicIpAddresses[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpAddresses[*].id)|UNKNOWN|Microsoft.Network/natGateways/publicIpAddresses[*].id|TRIAL|
-|[publicIpPrefixes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpPrefixes)|UNKNOWN|Microsoft.Network/natGateways/publicIpPrefixes|TRIAL|
-|[publicIpPrefixes[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpPrefixes[*])|UNKNOWN|Microsoft.Network/natGateways/publicIpPrefixes[*]|TRIAL|
-|[publicIpPrefixes[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpPrefixes[*].id)|UNKNOWN|Microsoft.Network/natGateways/publicIpPrefixes[*].id|TRIAL|
-|[resourceGuid](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/resourceGuid)|UNKNOWN|Microsoft.Network/natGateways/resourceGuid|TRIAL|
-|[sku](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/sku)|UNKNOWN|Microsoft.Network/natGateways/sku|TRIAL|
-|[sku.name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/sku.name)|UNKNOWN|Microsoft.Network/natGateways/sku.name|TRIAL|
-|[subnets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/subnets)|UNKNOWN|Microsoft.Network/natGateways/subnets|TRIAL|
-|[subnets[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/subnets[*])|UNKNOWN|Microsoft.Network/natGateways/subnets[*]|TRIAL|
-|[subnets[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/subnets[*].id)|UNKNOWN|Microsoft.Network/natGateways/subnets[*].id|TRIAL|
-|[zones](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/zones)|UNKNOWN|Microsoft.Network/natGateways/zones|TRIAL|
-|[zones[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/zones[*])|UNKNOWN|Microsoft.Network/natGateways/zones[*]|TRIAL|
+|<sub>[idleTimeoutInMinutes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/idleTimeoutInMinutes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/idleTimeoutInMinutes</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/provisioningState</sub>|<sub>TRIAL</sub>|
+|<sub>[publicIpAddresses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpAddresses)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/publicIpAddresses</sub>|<sub>TRIAL</sub>|
+|<sub>[publicIpAddresses[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpAddresses[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/publicIpAddresses[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[publicIpAddresses[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpAddresses[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/publicIpAddresses[*].id</sub>|<sub>TRIAL</sub>|
+|<sub>[publicIpPrefixes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpPrefixes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/publicIpPrefixes</sub>|<sub>TRIAL</sub>|
+|<sub>[publicIpPrefixes[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpPrefixes[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/publicIpPrefixes[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[publicIpPrefixes[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpPrefixes[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/publicIpPrefixes[*].id</sub>|<sub>TRIAL</sub>|
+|<sub>[resourceGuid](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/resourceGuid)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/resourceGuid</sub>|<sub>TRIAL</sub>|
+|<sub>[sku](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/sku)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/sku</sub>|<sub>TRIAL</sub>|
+|<sub>[sku.name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/sku.name)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/sku.name</sub>|<sub>TRIAL</sub>|
+|<sub>[subnets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/subnets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/subnets</sub>|<sub>TRIAL</sub>|
+|<sub>[subnets[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/subnets[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/subnets[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[subnets[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/subnets[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/subnets[*].id</sub>|<sub>TRIAL</sub>|
+|<sub>[zones](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/zones)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/zones</sub>|<sub>TRIAL</sub>|
+|<sub>[zones[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/zones[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/natGateways/zones[*]</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

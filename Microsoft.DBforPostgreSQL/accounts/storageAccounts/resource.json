@@ -1,0 +1,4 @@
+[
+    "Microsoft.DBforPostgreSQL/accounts/storageAccounts/containers",
+    "Microsoft.DBforPostgreSQL/accounts/storageAccounts/containers/listSasTokens"
+]

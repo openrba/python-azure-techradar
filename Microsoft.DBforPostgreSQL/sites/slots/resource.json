@@ -1,0 +1,14 @@
+[
+    "Microsoft.DBforPostgreSQL/sites/slots/config",
+    "Microsoft.DBforPostgreSQL/sites/slots/domainownershipidentifiers",
+    "Microsoft.DBforPostgreSQL/sites/slots/eventGridFilters",
+    "Microsoft.DBforPostgreSQL/sites/slots/hostNameBindings",
+    "Microsoft.DBforPostgreSQL/sites/slots/hybridconnection",
+    "Microsoft.DBforPostgreSQL/sites/slots/hybridconnectionnamespaces/relays",
+    "Microsoft.DBforPostgreSQL/sites/slots/networkConfig",
+    "Microsoft.DBforPostgreSQL/sites/slots/premieraddons",
+    "Microsoft.DBforPostgreSQL/sites/slots/publiccertificates",
+    "Microsoft.DBforPostgreSQL/sites/slots/sourcecontrols",
+    "Microsoft.DBforPostgreSQL/sites/slots/virtualnetworkconnections",
+    "Microsoft.DBforPostgreSQL/sites/slots/virtualnetworkconnections/gateways"
+]

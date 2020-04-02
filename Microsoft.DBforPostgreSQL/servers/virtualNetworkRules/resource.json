@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/ignoreMissingVnetServiceEndpoint",
+    "Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/state",
+    "Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/virtualNetworkSubnetId"
+]

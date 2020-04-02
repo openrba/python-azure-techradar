@@ -1,0 +1,9 @@
+[
+    "Microsoft.DBforPostgreSQL/domainNames/capabilities",
+    "Microsoft.DBforPostgreSQL/domainNames/internalLoadBalancers",
+    "Microsoft.DBforPostgreSQL/domainNames/serviceCertificates",
+    "Microsoft.DBforPostgreSQL/domainNames/slots",
+    "Microsoft.DBforPostgreSQL/domainNames/slots/roles",
+    "Microsoft.DBforPostgreSQL/domainNames/slots/roles/metricDefinitions",
+    "Microsoft.DBforPostgreSQL/domainNames/slots/roles/metrics"
+]

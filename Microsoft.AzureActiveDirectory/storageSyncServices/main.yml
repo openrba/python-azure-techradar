@@ -1,0 +1,51 @@
+registeredServers:
+  path: Microsoft.AzureActiveDirectory/storageSyncServices/registeredServers
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageSyncServices/registeredServers
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+syncGroups:
+  path: Microsoft.AzureActiveDirectory/storageSyncServices/syncGroups
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageSyncServices/syncGroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+workflows:
+  path: Microsoft.AzureActiveDirectory/storageSyncServices/workflows
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/storageSyncServices/workflows
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

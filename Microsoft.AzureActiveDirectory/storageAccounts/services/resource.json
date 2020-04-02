@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/storageAccounts/services/diagnosticSettings",
+    "Microsoft.AzureActiveDirectory/storageAccounts/services/metricDefinitions",
+    "Microsoft.AzureActiveDirectory/storageAccounts/services/metrics"
+]

@@ -27,17 +27,23 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[addressPrefix](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/addressPrefix)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/addressPrefix|TRIAL|
-|[authorizationKey](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/authorizationKey)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/authorizationKey|TRIAL|
-|[circuitConnectionStatus](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/circuitConnectionStatus)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/circuitConnectionStatus|TRIAL|
-|[expressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering|TRIAL|
-|[expressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering.id)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering.id|TRIAL|
-|[peerExpressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering|TRIAL|
-|[peerExpressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering.id)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering.id|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/provisioningState)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/provisioningState|TRIAL|
+|<sub>[addressPrefix](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/addressPrefix)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/expressRouteCircuits/peerings/connections/addressPrefix</sub>|<sub>TRIAL</sub>|
+|<sub>[authorizationKey](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/authorizationKey)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/expressRouteCircuits/peerings/connections/authorizationKey</sub>|<sub>TRIAL</sub>|
+|<sub>[circuitConnectionStatus](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/circuitConnectionStatus)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/expressRouteCircuits/peerings/connections/circuitConnectionStatus</sub>|<sub>TRIAL</sub>|
+|<sub>[expressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering</sub>|<sub>TRIAL</sub>|
+|<sub>[expressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering.id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering.id</sub>|<sub>TRIAL</sub>|
+|<sub>[peerExpressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering</sub>|<sub>TRIAL</sub>|
+|<sub>[peerExpressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering.id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering.id</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/peerings/connections/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/expressRouteCircuits/peerings/connections/provisioningState</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

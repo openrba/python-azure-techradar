@@ -1,0 +1,8 @@
+[
+    "Microsoft.AzureActiveDirectory/Vaults/backupFabrics/backupProtectionIntent",
+    "Microsoft.AzureActiveDirectory/Vaults/backupFabrics/protectionContainers",
+    "Microsoft.AzureActiveDirectory/Vaults/backupFabrics/protectionContainers/protectedItems",
+    "Microsoft.AzureActiveDirectory/Vaults/backupPolicies",
+    "Microsoft.AzureActiveDirectory/Vaults/backupstorageconfig",
+    "Microsoft.AzureActiveDirectory/Vaults/extendedInformation"
+]

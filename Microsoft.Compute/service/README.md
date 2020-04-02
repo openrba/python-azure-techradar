@@ -27,28 +27,34 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[apiVersionSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apiVersionSets)|UNKNOWN|Microsoft.Compute/service/apiVersionSets|TRIAL|
-|[apis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apis)|UNKNOWN|Microsoft.Compute/service/apis|TRIAL|
-|[authorizationServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/authorizationServers)|UNKNOWN|Microsoft.Compute/service/authorizationServers|TRIAL|
-|[backends](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/backends)|UNKNOWN|Microsoft.Compute/service/backends|TRIAL|
-|[caches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/caches)|UNKNOWN|Microsoft.Compute/service/caches|TRIAL|
-|[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/diagnostics)|UNKNOWN|Microsoft.Compute/service/diagnostics|TRIAL|
-|[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/groups)|UNKNOWN|Microsoft.Compute/service/groups|TRIAL|
-|[identityProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/identityProviders)|UNKNOWN|Microsoft.Compute/service/identityProviders|TRIAL|
-|[loggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/loggers)|UNKNOWN|Microsoft.Compute/service/loggers|TRIAL|
-|[notifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/notifications)|UNKNOWN|Microsoft.Compute/service/notifications|TRIAL|
-|[openidConnectProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/openidConnectProviders)|UNKNOWN|Microsoft.Compute/service/openidConnectProviders|TRIAL|
-|[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/policies)|UNKNOWN|Microsoft.Compute/service/policies|TRIAL|
-|[portalsettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/portalsettings)|UNKNOWN|Microsoft.Compute/service/portalsettings|TRIAL|
-|[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/products)|UNKNOWN|Microsoft.Compute/service/products|TRIAL|
-|[properties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/properties)|UNKNOWN|Microsoft.Compute/service/properties|TRIAL|
-|[subscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/subscriptions)|UNKNOWN|Microsoft.Compute/service/subscriptions|TRIAL|
-|[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/tags)|UNKNOWN|Microsoft.Compute/service/tags|TRIAL|
-|[templates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/templates)|UNKNOWN|Microsoft.Compute/service/templates|TRIAL|
-|[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/users)|UNKNOWN|Microsoft.Compute/service/users|TRIAL|
+|<sub>[apiVersionSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apiVersionSets)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/apiVersionSets</sub>|<sub>TRIAL</sub>|
+|<sub>[apis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apis)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/apis</sub>|<sub>TRIAL</sub>|
+|<sub>[authorizationServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/authorizationServers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/authorizationServers</sub>|<sub>TRIAL</sub>|
+|<sub>[backends](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/backends)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/backends</sub>|<sub>TRIAL</sub>|
+|<sub>[caches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/caches)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/caches</sub>|<sub>TRIAL</sub>|
+|<sub>[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/diagnostics)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/diagnostics</sub>|<sub>TRIAL</sub>|
+|<sub>[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/groups)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/groups</sub>|<sub>TRIAL</sub>|
+|<sub>[identityProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/identityProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/identityProviders</sub>|<sub>TRIAL</sub>|
+|<sub>[loggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/loggers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/loggers</sub>|<sub>TRIAL</sub>|
+|<sub>[notifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/notifications)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/notifications</sub>|<sub>TRIAL</sub>|
+|<sub>[openidConnectProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/openidConnectProviders)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/openidConnectProviders</sub>|<sub>TRIAL</sub>|
+|<sub>[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/policies)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/policies</sub>|<sub>TRIAL</sub>|
+|<sub>[portalsettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/portalsettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/portalsettings</sub>|<sub>TRIAL</sub>|
+|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/products)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/products</sub>|<sub>TRIAL</sub>|
+|<sub>[properties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/properties)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/properties</sub>|<sub>TRIAL</sub>|
+|<sub>[subscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/subscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/subscriptions</sub>|<sub>TRIAL</sub>|
+|<sub>[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/tags)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/tags</sub>|<sub>TRIAL</sub>|
+|<sub>[templates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/templates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/templates</sub>|<sub>TRIAL</sub>|
+|<sub>[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/users)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/service/users</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

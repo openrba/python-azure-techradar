@@ -27,23 +27,29 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[dnsName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/dnsName)|UNKNOWN|Microsoft.Network/bastionHosts/dnsName|TRIAL|
-|[ipConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations|TRIAL|
-|[ipConfigurations[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*])|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*]|TRIAL|
-|[ipConfigurations[*].etag](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].etag)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].etag|TRIAL|
-|[ipConfigurations[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].id)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].id|TRIAL|
-|[ipConfigurations[*].name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].name)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].name|TRIAL|
-|[ipConfigurations[*].privateIPAllocationMethod](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod|TRIAL|
-|[ipConfigurations[*].provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState|TRIAL|
-|[ipConfigurations[*].publicIPAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress|TRIAL|
-|[ipConfigurations[*].publicIPAddress.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id|TRIAL|
-|[ipConfigurations[*].subnet](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].subnet)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].subnet|TRIAL|
-|[ipConfigurations[*].subnet.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id|TRIAL|
-|[ipConfigurations[*].type](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].type)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].type|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/provisioningState)|UNKNOWN|Microsoft.Network/bastionHosts/provisioningState|TRIAL|
+|<sub>[dnsName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/dnsName)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/dnsName</sub>|<sub>TRIAL</sub>|
+|<sub>[ipConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/ipConfigurations</sub>|<sub>TRIAL</sub>|
+|<sub>[ipConfigurations[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/ipConfigurations[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[ipConfigurations[*].etag](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].etag)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/ipConfigurations[*].etag</sub>|<sub>TRIAL</sub>|
+|<sub>[ipConfigurations[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/ipConfigurations[*].id</sub>|<sub>TRIAL</sub>|
+|<sub>[ipConfigurations[*].name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].name)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/ipConfigurations[*].name</sub>|<sub>TRIAL</sub>|
+|<sub>[ipConfigurations[*].privateIPAllocationMethod](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod</sub>|<sub>TRIAL</sub>|
+|<sub>[ipConfigurations[*].provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState</sub>|<sub>TRIAL</sub>|
+|<sub>[ipConfigurations[*].publicIPAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress</sub>|<sub>TRIAL</sub>|
+|<sub>[ipConfigurations[*].publicIPAddress.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id</sub>|<sub>TRIAL</sub>|
+|<sub>[ipConfigurations[*].subnet](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].subnet)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/ipConfigurations[*].subnet</sub>|<sub>TRIAL</sub>|
+|<sub>[ipConfigurations[*].subnet.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id</sub>|<sub>TRIAL</sub>|
+|<sub>[ipConfigurations[*].type](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].type)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/ipConfigurations[*].type</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/bastionHosts/provisioningState</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

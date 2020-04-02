@@ -27,15 +27,21 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[accessControlRecords](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/accessControlRecords)|UNKNOWN|Microsoft.Compute/managers/accessControlRecords|TRIAL|
-|[bandwidthSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/bandwidthSettings)|UNKNOWN|Microsoft.Compute/managers/bandwidthSettings|TRIAL|
-|[devices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/devices)|UNKNOWN|Microsoft.Compute/managers/devices|TRIAL|
-|[extendedInformation](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/extendedInformation)|UNKNOWN|Microsoft.Compute/managers/extendedInformation|TRIAL|
-|[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/storageAccountCredentials)|UNKNOWN|Microsoft.Compute/managers/storageAccountCredentials|TRIAL|
-|[storageDomains](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/storageDomains)|UNKNOWN|Microsoft.Compute/managers/storageDomains|TRIAL|
+|<sub>[accessControlRecords](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/accessControlRecords)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managers/accessControlRecords</sub>|<sub>TRIAL</sub>|
+|<sub>[bandwidthSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/bandwidthSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managers/bandwidthSettings</sub>|<sub>TRIAL</sub>|
+|<sub>[devices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/devices)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managers/devices</sub>|<sub>TRIAL</sub>|
+|<sub>[extendedInformation](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/extendedInformation)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managers/extendedInformation</sub>|<sub>TRIAL</sub>|
+|<sub>[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/storageAccountCredentials)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managers/storageAccountCredentials</sub>|<sub>TRIAL</sub>|
+|<sub>[storageDomains](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/storageDomains)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/managers/storageDomains</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

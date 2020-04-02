@@ -1,0 +1,20 @@
+[
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.disabledAlerts",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.disabledAlerts[*]",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.emailAccountAdmins",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.emailAddresses",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.emailAddresses[*]",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.retentionDays",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.state",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.storageAccountAccessKey",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.storageEndpoint",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/disabledAlerts",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/disabledAlerts[*]",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/emailAccountAdmins",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/emailAddresses",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/emailAddresses[*]",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/retentionDays",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/state",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/storageAccountAccessKey",
+    "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/storageEndpoint"
+]

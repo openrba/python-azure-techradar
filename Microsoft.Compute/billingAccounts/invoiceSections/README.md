@@ -27,19 +27,25 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[billingSubscriptionMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptionMoveOperations)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptionMoveOperations|TRIAL|
-|[billingSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptions)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptions|TRIAL|
-|[elevate](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/elevate)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/elevate|TRIAL|
-|[initiateTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/initiateTransfer)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/initiateTransfer|TRIAL|
-|[patchOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/patchOperations)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/patchOperations|TRIAL|
-|[productMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/productMoveOperations)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/productMoveOperations|TRIAL|
-|[productTransfersResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/productTransfersResults)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/productTransfersResults|TRIAL|
-|[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/products)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/products|TRIAL|
-|[transactions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/transactions)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/transactions|TRIAL|
-|[transfers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/transfers)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/transfers|TRIAL|
+|<sub>[billingSubscriptionMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptionMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptionMoveOperations</sub>|<sub>TRIAL</sub>|
+|<sub>[billingSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptions</sub>|<sub>TRIAL</sub>|
+|<sub>[elevate](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/elevate)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/invoiceSections/elevate</sub>|<sub>TRIAL</sub>|
+|<sub>[initiateTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/initiateTransfer)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/invoiceSections/initiateTransfer</sub>|<sub>TRIAL</sub>|
+|<sub>[patchOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/patchOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/invoiceSections/patchOperations</sub>|<sub>TRIAL</sub>|
+|<sub>[productMoveOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/productMoveOperations)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/invoiceSections/productMoveOperations</sub>|<sub>TRIAL</sub>|
+|<sub>[productTransfersResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/productTransfersResults)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/invoiceSections/productTransfersResults</sub>|<sub>TRIAL</sub>|
+|<sub>[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/products)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/invoiceSections/products</sub>|<sub>TRIAL</sub>|
+|<sub>[transactions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/transactions)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/invoiceSections/transactions</sub>|<sub>TRIAL</sub>|
+|<sub>[transfers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections/transfers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Compute/billingAccounts/invoiceSections/transfers</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

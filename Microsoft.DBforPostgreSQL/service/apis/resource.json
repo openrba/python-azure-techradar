@@ -1,0 +1,14 @@
+[
+    "Microsoft.DBforPostgreSQL/service/apis/diagnostics",
+    "Microsoft.DBforPostgreSQL/service/apis/issues",
+    "Microsoft.DBforPostgreSQL/service/apis/issues/attachments",
+    "Microsoft.DBforPostgreSQL/service/apis/issues/comments",
+    "Microsoft.DBforPostgreSQL/service/apis/operations",
+    "Microsoft.DBforPostgreSQL/service/apis/operations/policies",
+    "Microsoft.DBforPostgreSQL/service/apis/operations/tags",
+    "Microsoft.DBforPostgreSQL/service/apis/policies",
+    "Microsoft.DBforPostgreSQL/service/apis/releases",
+    "Microsoft.DBforPostgreSQL/service/apis/schemas",
+    "Microsoft.DBforPostgreSQL/service/apis/tagDescriptions",
+    "Microsoft.DBforPostgreSQL/service/apis/tags"
+]

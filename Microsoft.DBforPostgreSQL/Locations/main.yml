@@ -1,0 +1,85 @@
+OperationStatuses:
+  path: Microsoft.DBforPostgreSQL/Locations/OperationStatuses
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/Locations/OperationStatuses
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+OperationTypes:
+  path: Microsoft.DBforPostgreSQL/Locations/OperationTypes
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/Locations/OperationTypes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilityGroupListenerOperationResults:
+  path: Microsoft.DBforPostgreSQL/Locations/availabilityGroupListenerOperationResults
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/Locations/availabilityGroupListenerOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlVirtualMachineGroupOperationResults:
+  path: Microsoft.DBforPostgreSQL/Locations/sqlVirtualMachineGroupOperationResults
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/Locations/sqlVirtualMachineGroupOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlVirtualMachineOperationResults:
+  path: Microsoft.DBforPostgreSQL/Locations/sqlVirtualMachineOperationResults
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/Locations/sqlVirtualMachineOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

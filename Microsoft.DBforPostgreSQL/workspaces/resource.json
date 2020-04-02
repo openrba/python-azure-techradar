@@ -1,0 +1,16 @@
+[
+    "Microsoft.DBforPostgreSQL/workspaces/clusters",
+    "Microsoft.DBforPostgreSQL/workspaces/computes",
+    "Microsoft.DBforPostgreSQL/workspaces/dataSources",
+    "Microsoft.DBforPostgreSQL/workspaces/dbWorkspaces",
+    "Microsoft.DBforPostgreSQL/workspaces/eventGridFilters",
+    "Microsoft.DBforPostgreSQL/workspaces/experiments",
+    "Microsoft.DBforPostgreSQL/workspaces/experiments/jobs",
+    "Microsoft.DBforPostgreSQL/workspaces/fileservers",
+    "Microsoft.DBforPostgreSQL/workspaces/linkedServices",
+    "Microsoft.DBforPostgreSQL/workspaces/query",
+    "Microsoft.DBforPostgreSQL/workspaces/savedSearches",
+    "Microsoft.DBforPostgreSQL/workspaces/scopedPrivateLinkProxies",
+    "Microsoft.DBforPostgreSQL/workspaces/storageinsightconfigs",
+    "Microsoft.DBforPostgreSQL/workspaces/virtualNetworkPeerings"
+]

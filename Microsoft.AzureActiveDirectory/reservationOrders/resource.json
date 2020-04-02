@@ -1,0 +1,11 @@
+[
+    "Microsoft.AzureActiveDirectory/reservationOrders/availableScopes",
+    "Microsoft.AzureActiveDirectory/reservationOrders/calculateRefund",
+    "Microsoft.AzureActiveDirectory/reservationOrders/merge",
+    "Microsoft.AzureActiveDirectory/reservationOrders/reservations",
+    "Microsoft.AzureActiveDirectory/reservationOrders/reservations/availableScopes",
+    "Microsoft.AzureActiveDirectory/reservationOrders/reservations/revisions",
+    "Microsoft.AzureActiveDirectory/reservationOrders/return",
+    "Microsoft.AzureActiveDirectory/reservationOrders/split",
+    "Microsoft.AzureActiveDirectory/reservationOrders/swap"
+]

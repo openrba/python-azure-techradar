@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/environments/accessPolicies",
+    "Microsoft.AzureActiveDirectory/environments/eventsources",
+    "Microsoft.AzureActiveDirectory/environments/referenceDataSets"
+]

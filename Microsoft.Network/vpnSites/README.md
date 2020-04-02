@@ -27,40 +27,46 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[addressSpace](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/addressSpace)|UNKNOWN|Microsoft.Network/vpnSites/addressSpace|TRIAL|
-|[addressSpace.addressPrefixes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/addressSpace.addressPrefixes)|UNKNOWN|Microsoft.Network/vpnSites/addressSpace.addressPrefixes|TRIAL|
-|[addressSpace.addressPrefixes[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/addressSpace.addressPrefixes[*])|UNKNOWN|Microsoft.Network/vpnSites/addressSpace.addressPrefixes[*]|TRIAL|
-|[bgpProperties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/bgpProperties)|UNKNOWN|Microsoft.Network/vpnSites/bgpProperties|TRIAL|
-|[bgpProperties.asn](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/bgpProperties.asn)|UNKNOWN|Microsoft.Network/vpnSites/bgpProperties.asn|TRIAL|
-|[bgpProperties.bgpPeeringAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/bgpProperties.bgpPeeringAddress)|UNKNOWN|Microsoft.Network/vpnSites/bgpProperties.bgpPeeringAddress|TRIAL|
-|[bgpProperties.peerWeight](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/bgpProperties.peerWeight)|UNKNOWN|Microsoft.Network/vpnSites/bgpProperties.peerWeight|TRIAL|
-|[deviceProperties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/deviceProperties)|UNKNOWN|Microsoft.Network/vpnSites/deviceProperties|TRIAL|
-|[deviceProperties.deviceModel](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/deviceProperties.deviceModel)|UNKNOWN|Microsoft.Network/vpnSites/deviceProperties.deviceModel|TRIAL|
-|[deviceProperties.deviceVendor](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/deviceProperties.deviceVendor)|UNKNOWN|Microsoft.Network/vpnSites/deviceProperties.deviceVendor|TRIAL|
-|[deviceProperties.linkSpeedInMbps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/deviceProperties.linkSpeedInMbps)|UNKNOWN|Microsoft.Network/vpnSites/deviceProperties.linkSpeedInMbps|TRIAL|
-|[ipAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/ipAddress)|UNKNOWN|Microsoft.Network/vpnSites/ipAddress|TRIAL|
-|[isSecuritySite](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/isSecuritySite)|UNKNOWN|Microsoft.Network/vpnSites/isSecuritySite|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/provisioningState)|UNKNOWN|Microsoft.Network/vpnSites/provisioningState|TRIAL|
-|[siteKey](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/siteKey)|UNKNOWN|Microsoft.Network/vpnSites/siteKey|TRIAL|
-|[virtualWAN](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/virtualWAN)|UNKNOWN|Microsoft.Network/vpnSites/virtualWAN|TRIAL|
-|[virtualWAN.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/virtualWAN.id)|UNKNOWN|Microsoft.Network/vpnSites/virtualWAN.id|TRIAL|
-|[vpnSiteLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks|TRIAL|
-|[vpnSiteLinks[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*])|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*]|TRIAL|
-|[vpnSiteLinks[*].bgpProperties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties|TRIAL|
-|[vpnSiteLinks[*].bgpProperties.asn](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.asn)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.asn|TRIAL|
-|[vpnSiteLinks[*].bgpProperties.bgpPeeringAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.bgpPeeringAddress)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.bgpPeeringAddress|TRIAL|
-|[vpnSiteLinks[*].etag](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].etag)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*].etag|TRIAL|
-|[vpnSiteLinks[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].id)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*].id|TRIAL|
-|[vpnSiteLinks[*].ipAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].ipAddress)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*].ipAddress|TRIAL|
-|[vpnSiteLinks[*].linkProperties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties|TRIAL|
-|[vpnSiteLinks[*].linkProperties.linkProviderName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkProviderName)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkProviderName|TRIAL|
-|[vpnSiteLinks[*].linkProperties.linkSpeedInMbps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkSpeedInMbps)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkSpeedInMbps|TRIAL|
-|[vpnSiteLinks[*].name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].name)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*].name|TRIAL|
-|[vpnSiteLinks[*].provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].provisioningState)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*].provisioningState|TRIAL|
-|[vpnSiteLinks[*].type](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].type)|UNKNOWN|Microsoft.Network/vpnSites/vpnSiteLinks[*].type|TRIAL|
+|<sub>[addressSpace](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/addressSpace)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/addressSpace</sub>|<sub>TRIAL</sub>|
+|<sub>[addressSpace.addressPrefixes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/addressSpace.addressPrefixes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/addressSpace.addressPrefixes</sub>|<sub>TRIAL</sub>|
+|<sub>[addressSpace.addressPrefixes[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/addressSpace.addressPrefixes[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/addressSpace.addressPrefixes[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[bgpProperties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/bgpProperties)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/bgpProperties</sub>|<sub>TRIAL</sub>|
+|<sub>[bgpProperties.asn](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/bgpProperties.asn)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/bgpProperties.asn</sub>|<sub>TRIAL</sub>|
+|<sub>[bgpProperties.bgpPeeringAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/bgpProperties.bgpPeeringAddress)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/bgpProperties.bgpPeeringAddress</sub>|<sub>TRIAL</sub>|
+|<sub>[bgpProperties.peerWeight](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/bgpProperties.peerWeight)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/bgpProperties.peerWeight</sub>|<sub>TRIAL</sub>|
+|<sub>[deviceProperties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/deviceProperties)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/deviceProperties</sub>|<sub>TRIAL</sub>|
+|<sub>[deviceProperties.deviceModel](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/deviceProperties.deviceModel)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/deviceProperties.deviceModel</sub>|<sub>TRIAL</sub>|
+|<sub>[deviceProperties.deviceVendor](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/deviceProperties.deviceVendor)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/deviceProperties.deviceVendor</sub>|<sub>TRIAL</sub>|
+|<sub>[deviceProperties.linkSpeedInMbps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/deviceProperties.linkSpeedInMbps)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/deviceProperties.linkSpeedInMbps</sub>|<sub>TRIAL</sub>|
+|<sub>[ipAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/ipAddress)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/ipAddress</sub>|<sub>TRIAL</sub>|
+|<sub>[isSecuritySite](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/isSecuritySite)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/isSecuritySite</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/provisioningState</sub>|<sub>TRIAL</sub>|
+|<sub>[siteKey](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/siteKey)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/siteKey</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualWAN](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/virtualWAN)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/virtualWAN</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualWAN.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/virtualWAN.id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/virtualWAN.id</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*].bgpProperties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*].bgpProperties.asn](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.asn)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.asn</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*].bgpProperties.bgpPeeringAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.bgpPeeringAddress)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.bgpPeeringAddress</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*].etag](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].etag)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*].etag</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].id)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*].id</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*].ipAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].ipAddress)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*].ipAddress</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*].linkProperties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*].linkProperties.linkProviderName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkProviderName)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkProviderName</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*].linkProperties.linkSpeedInMbps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkSpeedInMbps)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkSpeedInMbps</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*].name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].name)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*].name</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*].provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*].provisioningState</sub>|<sub>TRIAL</sub>|
+|<sub>[vpnSiteLinks[*].type](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/vpnSites/vpnSiteLinks[*].type)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/vpnSites/vpnSiteLinks[*].type</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

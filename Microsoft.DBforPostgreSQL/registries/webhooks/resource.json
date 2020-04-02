@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforPostgreSQL/registries/webhooks/getCallbackConfig",
+    "Microsoft.DBforPostgreSQL/registries/webhooks/listEvents",
+    "Microsoft.DBforPostgreSQL/registries/webhooks/ping"
+]

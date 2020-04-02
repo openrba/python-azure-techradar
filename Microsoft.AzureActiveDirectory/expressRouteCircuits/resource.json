@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/expressRouteCircuits/authorizations",
+    "Microsoft.AzureActiveDirectory/expressRouteCircuits/peerings",
+    "Microsoft.AzureActiveDirectory/expressRouteCircuits/peerings/connections"
+]

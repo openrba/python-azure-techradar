@@ -1,0 +1,5 @@
+[
+    "Microsoft.DBforPostgreSQL/offerTypes/publishers/offers/plans/agreements",
+    "Microsoft.DBforPostgreSQL/offerTypes/publishers/offers/plans/configs",
+    "Microsoft.DBforPostgreSQL/offerTypes/publishers/offers/plans/configs/importImage"
+]

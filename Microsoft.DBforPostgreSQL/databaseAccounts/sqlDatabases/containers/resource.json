@@ -1,0 +1,6 @@
+[
+    "Microsoft.DBforPostgreSQL/databaseAccounts/sqlDatabases/containers/storedProcedures",
+    "Microsoft.DBforPostgreSQL/databaseAccounts/sqlDatabases/containers/throughputSettings",
+    "Microsoft.DBforPostgreSQL/databaseAccounts/sqlDatabases/containers/triggers",
+    "Microsoft.DBforPostgreSQL/databaseAccounts/sqlDatabases/containers/userDefinedFunctions"
+]

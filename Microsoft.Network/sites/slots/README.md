@@ -27,20 +27,26 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[config](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/config)|UNKNOWN|Microsoft.Network/sites/slots/config|TRIAL|
-|[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/domainownershipidentifiers)|UNKNOWN|Microsoft.Network/sites/slots/domainownershipidentifiers|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/eventGridFilters)|UNKNOWN|Microsoft.Network/sites/slots/eventGridFilters|TRIAL|
-|[hostNameBindings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/hostNameBindings)|UNKNOWN|Microsoft.Network/sites/slots/hostNameBindings|TRIAL|
-|[hybridconnection](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/hybridconnection)|UNKNOWN|Microsoft.Network/sites/slots/hybridconnection|TRIAL|
-|[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/hybridconnectionnamespaces)|UNKNOWN|Microsoft.Network/sites/slots/hybridconnectionnamespaces|TRIAL|
-|[networkConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/networkConfig)|UNKNOWN|Microsoft.Network/sites/slots/networkConfig|TRIAL|
-|[premieraddons](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/premieraddons)|UNKNOWN|Microsoft.Network/sites/slots/premieraddons|TRIAL|
-|[publiccertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/publiccertificates)|UNKNOWN|Microsoft.Network/sites/slots/publiccertificates|TRIAL|
-|[sourcecontrols](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/sourcecontrols)|UNKNOWN|Microsoft.Network/sites/slots/sourcecontrols|TRIAL|
-|[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/virtualnetworkconnections)|UNKNOWN|Microsoft.Network/sites/slots/virtualnetworkconnections|TRIAL|
+|<sub>[config](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/config)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/slots/config</sub>|<sub>TRIAL</sub>|
+|<sub>[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/domainownershipidentifiers)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/slots/domainownershipidentifiers</sub>|<sub>TRIAL</sub>|
+|<sub>[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/eventGridFilters)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/slots/eventGridFilters</sub>|<sub>TRIAL</sub>|
+|<sub>[hostNameBindings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/hostNameBindings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/slots/hostNameBindings</sub>|<sub>TRIAL</sub>|
+|<sub>[hybridconnection](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/hybridconnection)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/slots/hybridconnection</sub>|<sub>TRIAL</sub>|
+|<sub>[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/hybridconnectionnamespaces)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/slots/hybridconnectionnamespaces</sub>|<sub>TRIAL</sub>|
+|<sub>[networkConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/networkConfig)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/slots/networkConfig</sub>|<sub>TRIAL</sub>|
+|<sub>[premieraddons](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/premieraddons)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/slots/premieraddons</sub>|<sub>TRIAL</sub>|
+|<sub>[publiccertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/publiccertificates)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/slots/publiccertificates</sub>|<sub>TRIAL</sub>|
+|<sub>[sourcecontrols](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/sourcecontrols)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/slots/sourcecontrols</sub>|<sub>TRIAL</sub>|
+|<sub>[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/virtualnetworkconnections)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/sites/slots/virtualnetworkconnections</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

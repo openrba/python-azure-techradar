@@ -1,0 +1,51 @@
+privateEndpointConnectionProxies:
+  path: Microsoft.DBforPostgreSQL/privateLinkScopes/privateEndpointConnectionProxies
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/privateLinkScopes/privateEndpointConnectionProxies
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+privateEndpointConnections:
+  path: Microsoft.DBforPostgreSQL/privateLinkScopes/privateEndpointConnections
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/privateLinkScopes/privateEndpointConnections
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scopedResources:
+  path: Microsoft.DBforPostgreSQL/privateLinkScopes/scopedResources
+  description: UNKNOWN
+  status: TRIAL
+  url: Microsoft.DBforPostgreSQL/privateLinkScopes/scopedResources
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

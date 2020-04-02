@@ -27,19 +27,25 @@ Technologies we have high confidence in to serve our purpose, also at large scal
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
 
-|Resource|Description|Path|Status|
+|<sub>Resource</sub>|<sub>Description</sub>|<sub>Path</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|[bgpSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings)|UNKNOWN|Microsoft.Network/localNetworkGateways/bgpSettings|TRIAL|
-|[bgpSettings.asn](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings.asn)|UNKNOWN|Microsoft.Network/localNetworkGateways/bgpSettings.asn|TRIAL|
-|[bgpSettings.bgpPeeringAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress)|UNKNOWN|Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress|TRIAL|
-|[bgpSettings.peerWeight](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight)|UNKNOWN|Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight|TRIAL|
-|[gatewayIpAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/gatewayIpAddress)|UNKNOWN|Microsoft.Network/localNetworkGateways/gatewayIpAddress|TRIAL|
-|[localNetworkAddressSpace](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace)|UNKNOWN|Microsoft.Network/localNetworkGateways/localNetworkAddressSpace|TRIAL|
-|[localNetworkAddressSpace.addressPrefixes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes)|UNKNOWN|Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes|TRIAL|
-|[localNetworkAddressSpace.addressPrefixes[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*])|UNKNOWN|Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*]|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/provisioningState)|UNKNOWN|Microsoft.Network/localNetworkGateways/provisioningState|TRIAL|
-|[resourceGuid](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/resourceGuid)|UNKNOWN|Microsoft.Network/localNetworkGateways/resourceGuid|TRIAL|
+|<sub>[bgpSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/bgpSettings</sub>|<sub>TRIAL</sub>|
+|<sub>[bgpSettings.asn](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings.asn)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/bgpSettings.asn</sub>|<sub>TRIAL</sub>|
+|<sub>[bgpSettings.bgpPeeringAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress</sub>|<sub>TRIAL</sub>|
+|<sub>[bgpSettings.peerWeight](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight</sub>|<sub>TRIAL</sub>|
+|<sub>[gatewayIpAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/gatewayIpAddress)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/gatewayIpAddress</sub>|<sub>TRIAL</sub>|
+|<sub>[localNetworkAddressSpace](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/localNetworkAddressSpace</sub>|<sub>TRIAL</sub>|
+|<sub>[localNetworkAddressSpace.addressPrefixes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes</sub>|<sub>TRIAL</sub>|
+|<sub>[localNetworkAddressSpace.addressPrefixes[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*])</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*]</sub>|<sub>TRIAL</sub>|
+|<sub>[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/provisioningState)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/provisioningState</sub>|<sub>TRIAL</sub>|
+|<sub>[resourceGuid](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/localNetworkGateways/resourceGuid)</sub>|<sub>UNKNOWN</sub>|<sub>Microsoft.Network/localNetworkGateways/resourceGuid</sub>|<sub>TRIAL</sub>|
 
+### Assess
+
+
+Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
 ### Hold
 
 

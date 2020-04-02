@@ -1,0 +1,5 @@
+[
+    "Microsoft.AzureActiveDirectory/stores/accessPolicies",
+    "Microsoft.AzureActiveDirectory/stores/services",
+    "Microsoft.AzureActiveDirectory/stores/services/tokens"
+]

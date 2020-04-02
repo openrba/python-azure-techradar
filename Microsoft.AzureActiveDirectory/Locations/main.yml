@@ -1,0 +1,85 @@
+OperationStatuses:
+  path: Microsoft.AzureActiveDirectory/Locations/OperationStatuses
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/Locations/OperationStatuses
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+OperationTypes:
+  path: Microsoft.AzureActiveDirectory/Locations/OperationTypes
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/Locations/OperationTypes
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+availabilityGroupListenerOperationResults:
+  path: Microsoft.AzureActiveDirectory/Locations/availabilityGroupListenerOperationResults
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/Locations/availabilityGroupListenerOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlVirtualMachineGroupOperationResults:
+  path: Microsoft.AzureActiveDirectory/Locations/sqlVirtualMachineGroupOperationResults
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/Locations/sqlVirtualMachineGroupOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+sqlVirtualMachineOperationResults:
+  path: Microsoft.AzureActiveDirectory/Locations/sqlVirtualMachineOperationResults
+  description: UNKNOWN
+  status: ADOPT
+  url: Microsoft.AzureActiveDirectory/Locations/sqlVirtualMachineOperationResults
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
