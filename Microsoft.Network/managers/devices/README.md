@@ -29,14 +29,14 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[alertSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/devices/alertSettings)|UNKNOWN|Microsoft.Network/managers/devices/alertSettings|TRIAL|
-|[backupPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/devices/backupPolicies)|UNKNOWN|Microsoft.Network/managers/devices/backupPolicies|TRIAL|
-|[backupScheduleGroups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/devices/backupScheduleGroups)|UNKNOWN|Microsoft.Network/managers/devices/backupScheduleGroups|TRIAL|
-|[chapSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/devices/chapSettings)|UNKNOWN|Microsoft.Network/managers/devices/chapSettings|TRIAL|
-|[fileservers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/devices/fileservers)|UNKNOWN|Microsoft.Network/managers/devices/fileservers|TRIAL|
-|[iscsiservers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/devices/iscsiservers)|UNKNOWN|Microsoft.Network/managers/devices/iscsiservers|TRIAL|
-|[timeSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/devices/timeSettings)|UNKNOWN|Microsoft.Network/managers/devices/timeSettings|TRIAL|
-|[volumeContainers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/devices/volumeContainers)|UNKNOWN|Microsoft.Network/managers/devices/volumeContainers|TRIAL|
+|[alertSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/alertSettings)|UNKNOWN|Microsoft.Network/managers/devices/alertSettings|TRIAL|
+|[backupPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/backupPolicies)|UNKNOWN|Microsoft.Network/managers/devices/backupPolicies|TRIAL|
+|[backupScheduleGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/backupScheduleGroups)|UNKNOWN|Microsoft.Network/managers/devices/backupScheduleGroups|TRIAL|
+|[chapSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/chapSettings)|UNKNOWN|Microsoft.Network/managers/devices/chapSettings|TRIAL|
+|[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/fileservers)|UNKNOWN|Microsoft.Network/managers/devices/fileservers|TRIAL|
+|[iscsiservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/iscsiservers)|UNKNOWN|Microsoft.Network/managers/devices/iscsiservers|TRIAL|
+|[timeSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/timeSettings)|UNKNOWN|Microsoft.Network/managers/devices/timeSettings|TRIAL|
+|[volumeContainers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managers/devices/volumeContainers)|UNKNOWN|Microsoft.Network/managers/devices/volumeContainers|TRIAL|
 
 ### Hold
 

@@ -29,12 +29,12 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[dataflows](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/factories/dataflows)|UNKNOWN|Microsoft.Network/factories/dataflows|TRIAL|
-|[datasets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/factories/datasets)|UNKNOWN|Microsoft.Network/factories/datasets|TRIAL|
-|[integrationRuntimes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/factories/integrationRuntimes)|UNKNOWN|Microsoft.Network/factories/integrationRuntimes|TRIAL|
-|[linkedservices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/factories/linkedservices)|UNKNOWN|Microsoft.Network/factories/linkedservices|TRIAL|
-|[pipelines](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/factories/pipelines)|UNKNOWN|Microsoft.Network/factories/pipelines|TRIAL|
-|[triggers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/factories/triggers)|UNKNOWN|Microsoft.Network/factories/triggers|TRIAL|
+|[dataflows](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/factories/dataflows)|UNKNOWN|Microsoft.Network/factories/dataflows|TRIAL|
+|[datasets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/factories/datasets)|UNKNOWN|Microsoft.Network/factories/datasets|TRIAL|
+|[integrationRuntimes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/factories/integrationRuntimes)|UNKNOWN|Microsoft.Network/factories/integrationRuntimes|TRIAL|
+|[linkedservices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/factories/linkedservices)|UNKNOWN|Microsoft.Network/factories/linkedservices|TRIAL|
+|[pipelines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/factories/pipelines)|UNKNOWN|Microsoft.Network/factories/pipelines|TRIAL|
+|[triggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/factories/triggers)|UNKNOWN|Microsoft.Network/factories/triggers|TRIAL|
 
 ### Hold
 

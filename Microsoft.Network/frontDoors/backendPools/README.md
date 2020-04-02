@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[backends[*].address](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/frontDoors/backendPools/backends[*].address)|UNKNOWN|Microsoft.Network/frontDoors/backendPools/backends[*].address|TRIAL|
+|[backends[*].address](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/frontDoors/backendPools/backends[*].address)|UNKNOWN|Microsoft.Network/frontDoors/backendPools/backends[*].address|TRIAL|
 
 ### Hold
 

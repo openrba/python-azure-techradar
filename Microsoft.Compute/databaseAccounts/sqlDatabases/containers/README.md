@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[storedProcedures](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/sqlDatabases/containers/storedProcedures)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases/containers/storedProcedures|TRIAL|
-|[throughputSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/sqlDatabases/containers/throughputSettings)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases/containers/throughputSettings|TRIAL|
-|[triggers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/sqlDatabases/containers/triggers)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases/containers/triggers|TRIAL|
-|[userDefinedFunctions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/sqlDatabases/containers/userDefinedFunctions)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases/containers/userDefinedFunctions|TRIAL|
+|[storedProcedures](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/databaseAccounts/sqlDatabases/containers/storedProcedures)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases/containers/storedProcedures|TRIAL|
+|[throughputSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/databaseAccounts/sqlDatabases/containers/throughputSettings)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases/containers/throughputSettings|TRIAL|
+|[triggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/databaseAccounts/sqlDatabases/containers/triggers)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases/containers/triggers|TRIAL|
+|[userDefinedFunctions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/databaseAccounts/sqlDatabases/containers/userDefinedFunctions)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases/containers/userDefinedFunctions|TRIAL|
 
 ### Hold
 

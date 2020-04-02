@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[disks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/labs/users/disks)|UNKNOWN|Microsoft.Compute/labs/users/disks|TRIAL|
-|[environments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/labs/users/environments)|UNKNOWN|Microsoft.Compute/labs/users/environments|TRIAL|
-|[secrets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/labs/users/secrets)|UNKNOWN|Microsoft.Compute/labs/users/secrets|TRIAL|
-|[serviceFabrics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/labs/users/serviceFabrics)|UNKNOWN|Microsoft.Compute/labs/users/serviceFabrics|TRIAL|
+|[disks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/labs/users/disks)|UNKNOWN|Microsoft.Compute/labs/users/disks|TRIAL|
+|[environments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/labs/users/environments)|UNKNOWN|Microsoft.Compute/labs/users/environments|TRIAL|
+|[secrets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/labs/users/secrets)|UNKNOWN|Microsoft.Compute/labs/users/secrets|TRIAL|
+|[serviceFabrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/labs/users/serviceFabrics)|UNKNOWN|Microsoft.Compute/labs/users/serviceFabrics|TRIAL|
 
 ### Hold
 

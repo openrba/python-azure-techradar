@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[backupProtectionIntent](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/Vaults/backupFabrics/backupProtectionIntent)|UNKNOWN|Microsoft.Network/Vaults/backupFabrics/backupProtectionIntent|TRIAL|
-|[protectionContainers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/Vaults/backupFabrics/protectionContainers)|UNKNOWN|Microsoft.Network/Vaults/backupFabrics/protectionContainers|TRIAL|
+|[backupProtectionIntent](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/Vaults/backupFabrics/backupProtectionIntent)|UNKNOWN|Microsoft.Network/Vaults/backupFabrics/backupProtectionIntent|TRIAL|
+|[protectionContainers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/Vaults/backupFabrics/protectionContainers)|UNKNOWN|Microsoft.Network/Vaults/backupFabrics/protectionContainers|TRIAL|
 
 ### Hold
 

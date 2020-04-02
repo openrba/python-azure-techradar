@@ -29,22 +29,22 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[idleTimeoutInMinutes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/idleTimeoutInMinutes)|UNKNOWN|Microsoft.Network/natGateways/idleTimeoutInMinutes|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/provisioningState)|UNKNOWN|Microsoft.Network/natGateways/provisioningState|TRIAL|
-|[publicIpAddresses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/publicIpAddresses)|UNKNOWN|Microsoft.Network/natGateways/publicIpAddresses|TRIAL|
-|[publicIpAddresses[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/publicIpAddresses[*])|UNKNOWN|Microsoft.Network/natGateways/publicIpAddresses[*]|TRIAL|
-|[publicIpAddresses[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/publicIpAddresses[*].id)|UNKNOWN|Microsoft.Network/natGateways/publicIpAddresses[*].id|TRIAL|
-|[publicIpPrefixes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/publicIpPrefixes)|UNKNOWN|Microsoft.Network/natGateways/publicIpPrefixes|TRIAL|
-|[publicIpPrefixes[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/publicIpPrefixes[*])|UNKNOWN|Microsoft.Network/natGateways/publicIpPrefixes[*]|TRIAL|
-|[publicIpPrefixes[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/publicIpPrefixes[*].id)|UNKNOWN|Microsoft.Network/natGateways/publicIpPrefixes[*].id|TRIAL|
-|[resourceGuid](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/resourceGuid)|UNKNOWN|Microsoft.Network/natGateways/resourceGuid|TRIAL|
-|[sku](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/sku)|UNKNOWN|Microsoft.Network/natGateways/sku|TRIAL|
-|[sku.name](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/sku.name)|UNKNOWN|Microsoft.Network/natGateways/sku.name|TRIAL|
-|[subnets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/subnets)|UNKNOWN|Microsoft.Network/natGateways/subnets|TRIAL|
-|[subnets[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/subnets[*])|UNKNOWN|Microsoft.Network/natGateways/subnets[*]|TRIAL|
-|[subnets[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/subnets[*].id)|UNKNOWN|Microsoft.Network/natGateways/subnets[*].id|TRIAL|
-|[zones](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/zones)|UNKNOWN|Microsoft.Network/natGateways/zones|TRIAL|
-|[zones[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/natGateways/zones[*])|UNKNOWN|Microsoft.Network/natGateways/zones[*]|TRIAL|
+|[idleTimeoutInMinutes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/idleTimeoutInMinutes)|UNKNOWN|Microsoft.Network/natGateways/idleTimeoutInMinutes|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/provisioningState)|UNKNOWN|Microsoft.Network/natGateways/provisioningState|TRIAL|
+|[publicIpAddresses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpAddresses)|UNKNOWN|Microsoft.Network/natGateways/publicIpAddresses|TRIAL|
+|[publicIpAddresses[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpAddresses[*])|UNKNOWN|Microsoft.Network/natGateways/publicIpAddresses[*]|TRIAL|
+|[publicIpAddresses[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpAddresses[*].id)|UNKNOWN|Microsoft.Network/natGateways/publicIpAddresses[*].id|TRIAL|
+|[publicIpPrefixes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpPrefixes)|UNKNOWN|Microsoft.Network/natGateways/publicIpPrefixes|TRIAL|
+|[publicIpPrefixes[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpPrefixes[*])|UNKNOWN|Microsoft.Network/natGateways/publicIpPrefixes[*]|TRIAL|
+|[publicIpPrefixes[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/publicIpPrefixes[*].id)|UNKNOWN|Microsoft.Network/natGateways/publicIpPrefixes[*].id|TRIAL|
+|[resourceGuid](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/resourceGuid)|UNKNOWN|Microsoft.Network/natGateways/resourceGuid|TRIAL|
+|[sku](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/sku)|UNKNOWN|Microsoft.Network/natGateways/sku|TRIAL|
+|[sku.name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/sku.name)|UNKNOWN|Microsoft.Network/natGateways/sku.name|TRIAL|
+|[subnets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/subnets)|UNKNOWN|Microsoft.Network/natGateways/subnets|TRIAL|
+|[subnets[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/subnets[*])|UNKNOWN|Microsoft.Network/natGateways/subnets[*]|TRIAL|
+|[subnets[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/subnets[*].id)|UNKNOWN|Microsoft.Network/natGateways/subnets[*].id|TRIAL|
+|[zones](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/zones)|UNKNOWN|Microsoft.Network/natGateways/zones|TRIAL|
+|[zones[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/natGateways/zones[*])|UNKNOWN|Microsoft.Network/natGateways/zones[*]|TRIAL|
 
 ### Hold
 

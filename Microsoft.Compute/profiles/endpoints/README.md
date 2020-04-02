@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[customdomains](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/profiles/endpoints/customdomains)|UNKNOWN|Microsoft.Compute/profiles/endpoints/customdomains|TRIAL|
-|[origingroups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/profiles/endpoints/origingroups)|UNKNOWN|Microsoft.Compute/profiles/endpoints/origingroups|TRIAL|
-|[origins](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/profiles/endpoints/origins)|UNKNOWN|Microsoft.Compute/profiles/endpoints/origins|TRIAL|
+|[customdomains](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/profiles/endpoints/customdomains)|UNKNOWN|Microsoft.Compute/profiles/endpoints/customdomains|TRIAL|
+|[origingroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/profiles/endpoints/origingroups)|UNKNOWN|Microsoft.Compute/profiles/endpoints/origingroups|TRIAL|
+|[origins](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/profiles/endpoints/origins)|UNKNOWN|Microsoft.Compute/profiles/endpoints/origins|TRIAL|
 
 ### Hold
 

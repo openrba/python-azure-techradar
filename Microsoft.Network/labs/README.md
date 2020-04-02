@@ -29,18 +29,18 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[artifactSources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/artifactSources)|UNKNOWN|Microsoft.Network/labs/artifactSources|TRIAL|
-|[costs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/costs)|UNKNOWN|Microsoft.Network/labs/costs|TRIAL|
-|[customImages](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/customImages)|UNKNOWN|Microsoft.Network/labs/customImages|TRIAL|
-|[environments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/environments)|UNKNOWN|Microsoft.Network/labs/environments|TRIAL|
-|[formulas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/formulas)|UNKNOWN|Microsoft.Network/labs/formulas|TRIAL|
-|[notificationChannels](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/notificationChannels)|UNKNOWN|Microsoft.Network/labs/notificationChannels|TRIAL|
-|[policySets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/policySets)|UNKNOWN|Microsoft.Network/labs/policySets|TRIAL|
-|[schedules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/schedules)|UNKNOWN|Microsoft.Network/labs/schedules|TRIAL|
-|[serviceRunners](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/serviceRunners)|UNKNOWN|Microsoft.Network/labs/serviceRunners|TRIAL|
-|[users](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/users)|UNKNOWN|Microsoft.Network/labs/users|TRIAL|
-|[virtualMachines](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/virtualMachines)|UNKNOWN|Microsoft.Network/labs/virtualMachines|TRIAL|
-|[virtualNetworks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/virtualNetworks)|UNKNOWN|Microsoft.Network/labs/virtualNetworks|TRIAL|
+|[artifactSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/artifactSources)|UNKNOWN|Microsoft.Network/labs/artifactSources|TRIAL|
+|[costs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/costs)|UNKNOWN|Microsoft.Network/labs/costs|TRIAL|
+|[customImages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/customImages)|UNKNOWN|Microsoft.Network/labs/customImages|TRIAL|
+|[environments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/environments)|UNKNOWN|Microsoft.Network/labs/environments|TRIAL|
+|[formulas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/formulas)|UNKNOWN|Microsoft.Network/labs/formulas|TRIAL|
+|[notificationChannels](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/notificationChannels)|UNKNOWN|Microsoft.Network/labs/notificationChannels|TRIAL|
+|[policySets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/policySets)|UNKNOWN|Microsoft.Network/labs/policySets|TRIAL|
+|[schedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/schedules)|UNKNOWN|Microsoft.Network/labs/schedules|TRIAL|
+|[serviceRunners](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/serviceRunners)|UNKNOWN|Microsoft.Network/labs/serviceRunners|TRIAL|
+|[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/users)|UNKNOWN|Microsoft.Network/labs/users|TRIAL|
+|[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/virtualMachines)|UNKNOWN|Microsoft.Network/labs/virtualMachines|TRIAL|
+|[virtualNetworks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/labs/virtualNetworks)|UNKNOWN|Microsoft.Network/labs/virtualNetworks|TRIAL|
 
 ### Hold
 

@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[oucontainer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/DomainServices/oucontainer)|UNKNOWN|Microsoft.Compute/DomainServices/oucontainer|TRIAL|
+|[oucontainer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/DomainServices/oucontainer)|UNKNOWN|Microsoft.Compute/DomainServices/oucontainer|TRIAL|
 
 ### Hold
 

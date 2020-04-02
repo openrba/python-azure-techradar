@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[diagnosticSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dataFactories/diagnosticSettings)|UNKNOWN|Microsoft.Network/dataFactories/diagnosticSettings|TRIAL|
-|[metricDefinitions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dataFactories/metricDefinitions)|UNKNOWN|Microsoft.Network/dataFactories/metricDefinitions|TRIAL|
+|[diagnosticSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/dataFactories/diagnosticSettings)|UNKNOWN|Microsoft.Network/dataFactories/diagnosticSettings|TRIAL|
+|[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/dataFactories/metricDefinitions)|UNKNOWN|Microsoft.Network/dataFactories/metricDefinitions|TRIAL|
 
 ### Hold
 

@@ -29,11 +29,11 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[description](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/description)|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/description|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState)|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState|TRIAL|
-|[service](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/service)|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/service|TRIAL|
-|[serviceResources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources)|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources|TRIAL|
-|[serviceResources[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*])|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*]|TRIAL|
+|[description](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/description)|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/description|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState)|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState|TRIAL|
+|[service](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/service)|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/service|TRIAL|
+|[serviceResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources)|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources|TRIAL|
+|[serviceResources[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*])|UNKNOWN|Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*]|TRIAL|
 
 ### Hold
 

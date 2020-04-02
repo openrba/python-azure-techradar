@@ -29,18 +29,18 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[accountFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/accountFilters)|UNKNOWN|Microsoft.Compute/mediaservices/accountFilters|TRIAL|
-|[assets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/assets)|UNKNOWN|Microsoft.Compute/mediaservices/assets|TRIAL|
-|[contentKeyPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/contentKeyPolicies)|UNKNOWN|Microsoft.Compute/mediaservices/contentKeyPolicies|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/eventGridFilters)|UNKNOWN|Microsoft.Compute/mediaservices/eventGridFilters|TRIAL|
-|[liveEventOperations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/liveEventOperations)|UNKNOWN|Microsoft.Compute/mediaservices/liveEventOperations|TRIAL|
-|[liveEvents](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/liveEvents)|UNKNOWN|Microsoft.Compute/mediaservices/liveEvents|TRIAL|
-|[liveOutputOperations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/liveOutputOperations)|UNKNOWN|Microsoft.Compute/mediaservices/liveOutputOperations|TRIAL|
-|[streamingEndpointOperations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/streamingEndpointOperations)|UNKNOWN|Microsoft.Compute/mediaservices/streamingEndpointOperations|TRIAL|
-|[streamingEndpoints](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/streamingEndpoints)|UNKNOWN|Microsoft.Compute/mediaservices/streamingEndpoints|TRIAL|
-|[streamingLocators](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/streamingLocators)|UNKNOWN|Microsoft.Compute/mediaservices/streamingLocators|TRIAL|
-|[streamingPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/streamingPolicies)|UNKNOWN|Microsoft.Compute/mediaservices/streamingPolicies|TRIAL|
-|[transforms](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/transforms)|UNKNOWN|Microsoft.Compute/mediaservices/transforms|TRIAL|
+|[accountFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/accountFilters)|UNKNOWN|Microsoft.Compute/mediaservices/accountFilters|TRIAL|
+|[assets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/assets)|UNKNOWN|Microsoft.Compute/mediaservices/assets|TRIAL|
+|[contentKeyPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/contentKeyPolicies)|UNKNOWN|Microsoft.Compute/mediaservices/contentKeyPolicies|TRIAL|
+|[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/eventGridFilters)|UNKNOWN|Microsoft.Compute/mediaservices/eventGridFilters|TRIAL|
+|[liveEventOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/liveEventOperations)|UNKNOWN|Microsoft.Compute/mediaservices/liveEventOperations|TRIAL|
+|[liveEvents](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/liveEvents)|UNKNOWN|Microsoft.Compute/mediaservices/liveEvents|TRIAL|
+|[liveOutputOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/liveOutputOperations)|UNKNOWN|Microsoft.Compute/mediaservices/liveOutputOperations|TRIAL|
+|[streamingEndpointOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/streamingEndpointOperations)|UNKNOWN|Microsoft.Compute/mediaservices/streamingEndpointOperations|TRIAL|
+|[streamingEndpoints](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/streamingEndpoints)|UNKNOWN|Microsoft.Compute/mediaservices/streamingEndpoints|TRIAL|
+|[streamingLocators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/streamingLocators)|UNKNOWN|Microsoft.Compute/mediaservices/streamingLocators|TRIAL|
+|[streamingPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/streamingPolicies)|UNKNOWN|Microsoft.Compute/mediaservices/streamingPolicies|TRIAL|
+|[transforms](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/transforms)|UNKNOWN|Microsoft.Compute/mediaservices/transforms|TRIAL|
 
 ### Hold
 

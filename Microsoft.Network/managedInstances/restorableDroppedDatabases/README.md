@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[backupShortTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies)|UNKNOWN|Microsoft.Network/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies|TRIAL|
+|[backupShortTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies)|UNKNOWN|Microsoft.Network/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies|TRIAL|
 
 ### Hold
 

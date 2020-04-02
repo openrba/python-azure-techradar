@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[functions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/streamingjobs/functions)|UNKNOWN|Microsoft.Compute/streamingjobs/functions|TRIAL|
-|[inputs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/streamingjobs/inputs)|UNKNOWN|Microsoft.Compute/streamingjobs/inputs|TRIAL|
-|[outputs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/streamingjobs/outputs)|UNKNOWN|Microsoft.Compute/streamingjobs/outputs|TRIAL|
-|[transformations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/streamingjobs/transformations)|UNKNOWN|Microsoft.Compute/streamingjobs/transformations|TRIAL|
+|[functions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/streamingjobs/functions)|UNKNOWN|Microsoft.Compute/streamingjobs/functions|TRIAL|
+|[inputs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/streamingjobs/inputs)|UNKNOWN|Microsoft.Compute/streamingjobs/inputs|TRIAL|
+|[outputs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/streamingjobs/outputs)|UNKNOWN|Microsoft.Compute/streamingjobs/outputs|TRIAL|
+|[transformations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/streamingjobs/transformations)|UNKNOWN|Microsoft.Compute/streamingjobs/transformations|TRIAL|
 
 ### Hold
 

@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[dataconnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/clusters/databases/dataconnections)|UNKNOWN|Microsoft.Compute/clusters/databases/dataconnections|TRIAL|
-|[eventhubconnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/clusters/databases/eventhubconnections)|UNKNOWN|Microsoft.Compute/clusters/databases/eventhubconnections|TRIAL|
-|[principalassignments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/clusters/databases/principalassignments)|UNKNOWN|Microsoft.Compute/clusters/databases/principalassignments|TRIAL|
+|[dataconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/clusters/databases/dataconnections)|UNKNOWN|Microsoft.Compute/clusters/databases/dataconnections|TRIAL|
+|[eventhubconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/clusters/databases/eventhubconnections)|UNKNOWN|Microsoft.Compute/clusters/databases/eventhubconnections|TRIAL|
+|[principalassignments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/clusters/databases/principalassignments)|UNKNOWN|Microsoft.Compute/clusters/databases/principalassignments|TRIAL|
 
 ### Hold
 

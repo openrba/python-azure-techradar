@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[advisors](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/servers/elasticPools/advisors)|UNKNOWN|Microsoft.Network/servers/elasticPools/advisors|TRIAL|
+|[advisors](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/servers/elasticPools/advisors)|UNKNOWN|Microsoft.Network/servers/elasticPools/advisors|TRIAL|
 
 ### Hold
 

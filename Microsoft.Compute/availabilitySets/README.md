@@ -29,25 +29,25 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[managed](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/managed)|UNKNOWN|Microsoft.Compute/availabilitySets/managed|TRIAL|
-|[platformFaultDomainCount](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/platformFaultDomainCount)|UNKNOWN|Microsoft.Compute/availabilitySets/platformFaultDomainCount|TRIAL|
-|[platformUpdateDomainCount](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/platformUpdateDomainCount)|UNKNOWN|Microsoft.Compute/availabilitySets/platformUpdateDomainCount|TRIAL|
-|[proximityPlacementGroup](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/proximityPlacementGroup)|UNKNOWN|Microsoft.Compute/availabilitySets/proximityPlacementGroup|TRIAL|
-|[proximityPlacementGroup.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/proximityPlacementGroup.id)|UNKNOWN|Microsoft.Compute/availabilitySets/proximityPlacementGroup.id|TRIAL|
-|[sku](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/sku)|UNKNOWN|Microsoft.Compute/availabilitySets/sku|TRIAL|
-|[sku.capacity](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/sku.capacity)|UNKNOWN|Microsoft.Compute/availabilitySets/sku.capacity|TRIAL|
-|[sku.name](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/sku.name)|UNKNOWN|Microsoft.Compute/availabilitySets/sku.name|TRIAL|
-|[sku.tier](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/sku.tier)|UNKNOWN|Microsoft.Compute/availabilitySets/sku.tier|TRIAL|
-|[statuses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/statuses)|UNKNOWN|Microsoft.Compute/availabilitySets/statuses|TRIAL|
-|[statuses[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/statuses[*])|UNKNOWN|Microsoft.Compute/availabilitySets/statuses[*]|TRIAL|
-|[statuses[*].code](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/statuses[*].code)|UNKNOWN|Microsoft.Compute/availabilitySets/statuses[*].code|TRIAL|
-|[statuses[*].displayStatus](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/statuses[*].displayStatus)|UNKNOWN|Microsoft.Compute/availabilitySets/statuses[*].displayStatus|TRIAL|
-|[statuses[*].level](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/statuses[*].level)|UNKNOWN|Microsoft.Compute/availabilitySets/statuses[*].level|TRIAL|
-|[statuses[*].message](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/statuses[*].message)|UNKNOWN|Microsoft.Compute/availabilitySets/statuses[*].message|TRIAL|
-|[statuses[*].time](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/statuses[*].time)|UNKNOWN|Microsoft.Compute/availabilitySets/statuses[*].time|TRIAL|
-|[virtualMachines](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/virtualMachines)|UNKNOWN|Microsoft.Compute/availabilitySets/virtualMachines|TRIAL|
-|[virtualMachines[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/virtualMachines[*])|UNKNOWN|Microsoft.Compute/availabilitySets/virtualMachines[*]|TRIAL|
-|[virtualMachines[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/availabilitySets/virtualMachines[*].id)|UNKNOWN|Microsoft.Compute/availabilitySets/virtualMachines[*].id|TRIAL|
+|[managed](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/managed)|UNKNOWN|Microsoft.Compute/availabilitySets/managed|TRIAL|
+|[platformFaultDomainCount](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/platformFaultDomainCount)|UNKNOWN|Microsoft.Compute/availabilitySets/platformFaultDomainCount|TRIAL|
+|[platformUpdateDomainCount](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/platformUpdateDomainCount)|UNKNOWN|Microsoft.Compute/availabilitySets/platformUpdateDomainCount|TRIAL|
+|[proximityPlacementGroup](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/proximityPlacementGroup)|UNKNOWN|Microsoft.Compute/availabilitySets/proximityPlacementGroup|TRIAL|
+|[proximityPlacementGroup.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/proximityPlacementGroup.id)|UNKNOWN|Microsoft.Compute/availabilitySets/proximityPlacementGroup.id|TRIAL|
+|[sku](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/sku)|UNKNOWN|Microsoft.Compute/availabilitySets/sku|TRIAL|
+|[sku.capacity](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/sku.capacity)|UNKNOWN|Microsoft.Compute/availabilitySets/sku.capacity|TRIAL|
+|[sku.name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/sku.name)|UNKNOWN|Microsoft.Compute/availabilitySets/sku.name|TRIAL|
+|[sku.tier](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/sku.tier)|UNKNOWN|Microsoft.Compute/availabilitySets/sku.tier|TRIAL|
+|[statuses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/statuses)|UNKNOWN|Microsoft.Compute/availabilitySets/statuses|TRIAL|
+|[statuses[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/statuses[*])|UNKNOWN|Microsoft.Compute/availabilitySets/statuses[*]|TRIAL|
+|[statuses[*].code](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/statuses[*].code)|UNKNOWN|Microsoft.Compute/availabilitySets/statuses[*].code|TRIAL|
+|[statuses[*].displayStatus](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/statuses[*].displayStatus)|UNKNOWN|Microsoft.Compute/availabilitySets/statuses[*].displayStatus|TRIAL|
+|[statuses[*].level](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/statuses[*].level)|UNKNOWN|Microsoft.Compute/availabilitySets/statuses[*].level|TRIAL|
+|[statuses[*].message](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/statuses[*].message)|UNKNOWN|Microsoft.Compute/availabilitySets/statuses[*].message|TRIAL|
+|[statuses[*].time](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/statuses[*].time)|UNKNOWN|Microsoft.Compute/availabilitySets/statuses[*].time|TRIAL|
+|[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/virtualMachines)|UNKNOWN|Microsoft.Compute/availabilitySets/virtualMachines|TRIAL|
+|[virtualMachines[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/virtualMachines[*])|UNKNOWN|Microsoft.Compute/availabilitySets/virtualMachines[*]|TRIAL|
+|[virtualMachines[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/availabilitySets/virtualMachines[*].id)|UNKNOWN|Microsoft.Compute/availabilitySets/virtualMachines[*].id|TRIAL|
 
 ### Hold
 

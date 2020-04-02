@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[heatMaps](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/trafficmanagerprofiles/heatMaps)|UNKNOWN|Microsoft.Compute/trafficmanagerprofiles/heatMaps|TRIAL|
+|[heatMaps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/trafficmanagerprofiles/heatMaps)|UNKNOWN|Microsoft.Compute/trafficmanagerprofiles/heatMaps|TRIAL|
 
 ### Hold
 

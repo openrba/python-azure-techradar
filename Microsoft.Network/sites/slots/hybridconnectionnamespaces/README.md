@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[relays](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/slots/hybridconnectionnamespaces/relays)|UNKNOWN|Microsoft.Network/sites/slots/hybridconnectionnamespaces/relays|TRIAL|
+|[relays](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots/hybridconnectionnamespaces/relays)|UNKNOWN|Microsoft.Network/sites/slots/hybridconnectionnamespaces/relays|TRIAL|
 
 ### Hold
 

@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[default.key](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/trafficManagerUserMetricsKeys/default.key)|UNKNOWN|Microsoft.Network/trafficManagerUserMetricsKeys/default.key|TRIAL|
-|[key](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/trafficManagerUserMetricsKeys/key)|UNKNOWN|Microsoft.Network/trafficManagerUserMetricsKeys/key|TRIAL|
+|[default.key](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/trafficManagerUserMetricsKeys/default.key)|UNKNOWN|Microsoft.Network/trafficManagerUserMetricsKeys/default.key|TRIAL|
+|[key](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/trafficManagerUserMetricsKeys/key)|UNKNOWN|Microsoft.Network/trafficManagerUserMetricsKeys/key|TRIAL|
 
 ### Hold
 

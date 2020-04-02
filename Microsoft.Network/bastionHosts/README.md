@@ -29,20 +29,20 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[dnsName](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/dnsName)|UNKNOWN|Microsoft.Network/bastionHosts/dnsName|TRIAL|
-|[ipConfigurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/ipConfigurations)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations|TRIAL|
-|[ipConfigurations[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/ipConfigurations[*])|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*]|TRIAL|
-|[ipConfigurations[*].etag](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/ipConfigurations[*].etag)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].etag|TRIAL|
-|[ipConfigurations[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/ipConfigurations[*].id)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].id|TRIAL|
-|[ipConfigurations[*].name](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/ipConfigurations[*].name)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].name|TRIAL|
-|[ipConfigurations[*].privateIPAllocationMethod](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod|TRIAL|
-|[ipConfigurations[*].provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState|TRIAL|
-|[ipConfigurations[*].publicIPAddress](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress|TRIAL|
-|[ipConfigurations[*].publicIPAddress.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id|TRIAL|
-|[ipConfigurations[*].subnet](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/ipConfigurations[*].subnet)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].subnet|TRIAL|
-|[ipConfigurations[*].subnet.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id|TRIAL|
-|[ipConfigurations[*].type](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/ipConfigurations[*].type)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].type|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bastionHosts/provisioningState)|UNKNOWN|Microsoft.Network/bastionHosts/provisioningState|TRIAL|
+|[dnsName](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/dnsName)|UNKNOWN|Microsoft.Network/bastionHosts/dnsName|TRIAL|
+|[ipConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations|TRIAL|
+|[ipConfigurations[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*])|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*]|TRIAL|
+|[ipConfigurations[*].etag](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].etag)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].etag|TRIAL|
+|[ipConfigurations[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].id)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].id|TRIAL|
+|[ipConfigurations[*].name](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].name)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].name|TRIAL|
+|[ipConfigurations[*].privateIPAllocationMethod](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod|TRIAL|
+|[ipConfigurations[*].provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState|TRIAL|
+|[ipConfigurations[*].publicIPAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress|TRIAL|
+|[ipConfigurations[*].publicIPAddress.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id|TRIAL|
+|[ipConfigurations[*].subnet](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].subnet)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].subnet|TRIAL|
+|[ipConfigurations[*].subnet.id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id|TRIAL|
+|[ipConfigurations[*].type](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/ipConfigurations[*].type)|UNKNOWN|Microsoft.Network/bastionHosts/ipConfigurations[*].type|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bastionHosts/provisioningState)|UNKNOWN|Microsoft.Network/bastionHosts/provisioningState|TRIAL|
 
 ### Hold
 

@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[assetFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/mediaservices/assets/assetFilters)|UNKNOWN|Microsoft.Compute/mediaservices/assets/assetFilters|TRIAL|
+|[assetFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/mediaservices/assets/assetFilters)|UNKNOWN|Microsoft.Compute/mediaservices/assets/assetFilters|TRIAL|
 
 ### Hold
 

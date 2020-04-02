@@ -29,12 +29,12 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[applicationTypes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/clusters/applicationTypes)|UNKNOWN|Microsoft.Network/clusters/applicationTypes|TRIAL|
-|[applications](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/clusters/applications)|UNKNOWN|Microsoft.Network/clusters/applications|TRIAL|
-|[attacheddatabaseconfigurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/clusters/attacheddatabaseconfigurations)|UNKNOWN|Microsoft.Network/clusters/attacheddatabaseconfigurations|TRIAL|
-|[databases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/clusters/databases)|UNKNOWN|Microsoft.Network/clusters/databases|TRIAL|
-|[operationresults](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/clusters/operationresults)|UNKNOWN|Microsoft.Network/clusters/operationresults|TRIAL|
-|[principalassignments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/clusters/principalassignments)|UNKNOWN|Microsoft.Network/clusters/principalassignments|TRIAL|
+|[applicationTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/applicationTypes)|UNKNOWN|Microsoft.Network/clusters/applicationTypes|TRIAL|
+|[applications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/applications)|UNKNOWN|Microsoft.Network/clusters/applications|TRIAL|
+|[attacheddatabaseconfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/attacheddatabaseconfigurations)|UNKNOWN|Microsoft.Network/clusters/attacheddatabaseconfigurations|TRIAL|
+|[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/databases)|UNKNOWN|Microsoft.Network/clusters/databases|TRIAL|
+|[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/operationresults)|UNKNOWN|Microsoft.Network/clusters/operationresults|TRIAL|
+|[principalassignments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/clusters/principalassignments)|UNKNOWN|Microsoft.Network/clusters/principalassignments|TRIAL|
 
 ### Hold
 

@@ -29,26 +29,26 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[certificates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/certificates)|UNKNOWN|Microsoft.Compute/automationAccounts/certificates|TRIAL|
-|[compilationjobs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/compilationjobs)|UNKNOWN|Microsoft.Compute/automationAccounts/compilationjobs|TRIAL|
-|[configurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/configurations)|UNKNOWN|Microsoft.Compute/automationAccounts/configurations|TRIAL|
-|[connectionTypes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/connectionTypes)|UNKNOWN|Microsoft.Compute/automationAccounts/connectionTypes|TRIAL|
-|[connections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/connections)|UNKNOWN|Microsoft.Compute/automationAccounts/connections|TRIAL|
-|[credentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/credentials)|UNKNOWN|Microsoft.Compute/automationAccounts/credentials|TRIAL|
-|[jobSchedules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/jobSchedules)|UNKNOWN|Microsoft.Compute/automationAccounts/jobSchedules|TRIAL|
-|[jobs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/jobs)|UNKNOWN|Microsoft.Compute/automationAccounts/jobs|TRIAL|
-|[modules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/modules)|UNKNOWN|Microsoft.Compute/automationAccounts/modules|TRIAL|
-|[nodeConfigurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/nodeConfigurations)|UNKNOWN|Microsoft.Compute/automationAccounts/nodeConfigurations|TRIAL|
-|[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/privateEndpointConnectionProxies)|UNKNOWN|Microsoft.Compute/automationAccounts/privateEndpointConnectionProxies|TRIAL|
-|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/privateEndpointConnections)|UNKNOWN|Microsoft.Compute/automationAccounts/privateEndpointConnections|TRIAL|
-|[privateLinkResources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/privateLinkResources)|UNKNOWN|Microsoft.Compute/automationAccounts/privateLinkResources|TRIAL|
-|[python2Packages](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/python2Packages)|UNKNOWN|Microsoft.Compute/automationAccounts/python2Packages|TRIAL|
-|[runbooks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/runbooks)|UNKNOWN|Microsoft.Compute/automationAccounts/runbooks|TRIAL|
-|[schedules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/schedules)|UNKNOWN|Microsoft.Compute/automationAccounts/schedules|TRIAL|
-|[softwareUpdateConfigurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/softwareUpdateConfigurations)|UNKNOWN|Microsoft.Compute/automationAccounts/softwareUpdateConfigurations|TRIAL|
-|[variables](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/variables)|UNKNOWN|Microsoft.Compute/automationAccounts/variables|TRIAL|
-|[watchers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/watchers)|UNKNOWN|Microsoft.Compute/automationAccounts/watchers|TRIAL|
-|[webhooks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/automationAccounts/webhooks)|UNKNOWN|Microsoft.Compute/automationAccounts/webhooks|TRIAL|
+|[certificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/certificates)|UNKNOWN|Microsoft.Compute/automationAccounts/certificates|TRIAL|
+|[compilationjobs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/compilationjobs)|UNKNOWN|Microsoft.Compute/automationAccounts/compilationjobs|TRIAL|
+|[configurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/configurations)|UNKNOWN|Microsoft.Compute/automationAccounts/configurations|TRIAL|
+|[connectionTypes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/connectionTypes)|UNKNOWN|Microsoft.Compute/automationAccounts/connectionTypes|TRIAL|
+|[connections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/connections)|UNKNOWN|Microsoft.Compute/automationAccounts/connections|TRIAL|
+|[credentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/credentials)|UNKNOWN|Microsoft.Compute/automationAccounts/credentials|TRIAL|
+|[jobSchedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/jobSchedules)|UNKNOWN|Microsoft.Compute/automationAccounts/jobSchedules|TRIAL|
+|[jobs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/jobs)|UNKNOWN|Microsoft.Compute/automationAccounts/jobs|TRIAL|
+|[modules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/modules)|UNKNOWN|Microsoft.Compute/automationAccounts/modules|TRIAL|
+|[nodeConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/nodeConfigurations)|UNKNOWN|Microsoft.Compute/automationAccounts/nodeConfigurations|TRIAL|
+|[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/privateEndpointConnectionProxies)|UNKNOWN|Microsoft.Compute/automationAccounts/privateEndpointConnectionProxies|TRIAL|
+|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/privateEndpointConnections)|UNKNOWN|Microsoft.Compute/automationAccounts/privateEndpointConnections|TRIAL|
+|[privateLinkResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/privateLinkResources)|UNKNOWN|Microsoft.Compute/automationAccounts/privateLinkResources|TRIAL|
+|[python2Packages](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/python2Packages)|UNKNOWN|Microsoft.Compute/automationAccounts/python2Packages|TRIAL|
+|[runbooks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/runbooks)|UNKNOWN|Microsoft.Compute/automationAccounts/runbooks|TRIAL|
+|[schedules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/schedules)|UNKNOWN|Microsoft.Compute/automationAccounts/schedules|TRIAL|
+|[softwareUpdateConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/softwareUpdateConfigurations)|UNKNOWN|Microsoft.Compute/automationAccounts/softwareUpdateConfigurations|TRIAL|
+|[variables](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/variables)|UNKNOWN|Microsoft.Compute/automationAccounts/variables|TRIAL|
+|[watchers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/watchers)|UNKNOWN|Microsoft.Compute/automationAccounts/watchers|TRIAL|
+|[webhooks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/automationAccounts/webhooks)|UNKNOWN|Microsoft.Compute/automationAccounts/webhooks|TRIAL|
 
 ### Hold
 

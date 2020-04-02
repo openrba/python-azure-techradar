@@ -29,19 +29,19 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[config](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/config)|UNKNOWN|Microsoft.Network/sites/config|TRIAL|
-|[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/domainownershipidentifiers)|UNKNOWN|Microsoft.Network/sites/domainownershipidentifiers|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/eventGridFilters)|UNKNOWN|Microsoft.Network/sites/eventGridFilters|TRIAL|
-|[hostNameBindings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/hostNameBindings)|UNKNOWN|Microsoft.Network/sites/hostNameBindings|TRIAL|
-|[hybridconnection](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/hybridconnection)|UNKNOWN|Microsoft.Network/sites/hybridconnection|TRIAL|
-|[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/hybridconnectionnamespaces)|UNKNOWN|Microsoft.Network/sites/hybridconnectionnamespaces|TRIAL|
-|[networkConfig](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/networkConfig)|UNKNOWN|Microsoft.Network/sites/networkConfig|TRIAL|
-|[premieraddons](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/premieraddons)|UNKNOWN|Microsoft.Network/sites/premieraddons|TRIAL|
-|[privateaccess](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/privateaccess)|UNKNOWN|Microsoft.Network/sites/privateaccess|TRIAL|
-|[publiccertificates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/publiccertificates)|UNKNOWN|Microsoft.Network/sites/publiccertificates|TRIAL|
-|[slots](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/slots)|UNKNOWN|Microsoft.Network/sites/slots|TRIAL|
-|[sourcecontrols](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/sourcecontrols)|UNKNOWN|Microsoft.Network/sites/sourcecontrols|TRIAL|
-|[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sites/virtualnetworkconnections)|UNKNOWN|Microsoft.Network/sites/virtualnetworkconnections|TRIAL|
+|[config](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/config)|UNKNOWN|Microsoft.Network/sites/config|TRIAL|
+|[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/domainownershipidentifiers)|UNKNOWN|Microsoft.Network/sites/domainownershipidentifiers|TRIAL|
+|[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/eventGridFilters)|UNKNOWN|Microsoft.Network/sites/eventGridFilters|TRIAL|
+|[hostNameBindings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/hostNameBindings)|UNKNOWN|Microsoft.Network/sites/hostNameBindings|TRIAL|
+|[hybridconnection](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/hybridconnection)|UNKNOWN|Microsoft.Network/sites/hybridconnection|TRIAL|
+|[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/hybridconnectionnamespaces)|UNKNOWN|Microsoft.Network/sites/hybridconnectionnamespaces|TRIAL|
+|[networkConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/networkConfig)|UNKNOWN|Microsoft.Network/sites/networkConfig|TRIAL|
+|[premieraddons](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/premieraddons)|UNKNOWN|Microsoft.Network/sites/premieraddons|TRIAL|
+|[privateaccess](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/privateaccess)|UNKNOWN|Microsoft.Network/sites/privateaccess|TRIAL|
+|[publiccertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/publiccertificates)|UNKNOWN|Microsoft.Network/sites/publiccertificates|TRIAL|
+|[slots](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/slots)|UNKNOWN|Microsoft.Network/sites/slots|TRIAL|
+|[sourcecontrols](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/sourcecontrols)|UNKNOWN|Microsoft.Network/sites/sourcecontrols|TRIAL|
+|[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/sites/virtualnetworkconnections)|UNKNOWN|Microsoft.Network/sites/virtualnetworkconnections|TRIAL|
 
 ### Hold
 

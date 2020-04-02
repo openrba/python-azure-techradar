@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[authorizationKey](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/authorizations/authorizationKey)|UNKNOWN|Microsoft.Network/expressRouteCircuits/authorizations/authorizationKey|TRIAL|
-|[authorizationUseStatus](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/authorizations/authorizationUseStatus)|UNKNOWN|Microsoft.Network/expressRouteCircuits/authorizations/authorizationUseStatus|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/authorizations/provisioningState)|UNKNOWN|Microsoft.Network/expressRouteCircuits/authorizations/provisioningState|TRIAL|
+|[authorizationKey](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/authorizations/authorizationKey)|UNKNOWN|Microsoft.Network/expressRouteCircuits/authorizations/authorizationKey|TRIAL|
+|[authorizationUseStatus](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/authorizations/authorizationUseStatus)|UNKNOWN|Microsoft.Network/expressRouteCircuits/authorizations/authorizationUseStatus|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/expressRouteCircuits/authorizations/provisioningState)|UNKNOWN|Microsoft.Network/expressRouteCircuits/authorizations/provisioningState|TRIAL|
 
 ### Hold
 

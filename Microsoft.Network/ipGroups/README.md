@@ -29,12 +29,12 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[firewalls](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/firewalls)|UNKNOWN|Microsoft.Network/ipGroups/firewalls|TRIAL|
-|[firewalls[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/firewalls[*])|UNKNOWN|Microsoft.Network/ipGroups/firewalls[*]|TRIAL|
-|[firewalls[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/firewalls[*].id)|UNKNOWN|Microsoft.Network/ipGroups/firewalls[*].id|TRIAL|
-|[ipAddresses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/ipAddresses)|UNKNOWN|Microsoft.Network/ipGroups/ipAddresses|TRIAL|
-|[ipAddresses[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/ipAddresses[*])|UNKNOWN|Microsoft.Network/ipGroups/ipAddresses[*]|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/provisioningState)|UNKNOWN|Microsoft.Network/ipGroups/provisioningState|TRIAL|
+|[firewalls](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ipGroups/firewalls)|UNKNOWN|Microsoft.Network/ipGroups/firewalls|TRIAL|
+|[firewalls[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ipGroups/firewalls[*])|UNKNOWN|Microsoft.Network/ipGroups/firewalls[*]|TRIAL|
+|[firewalls[*].id](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ipGroups/firewalls[*].id)|UNKNOWN|Microsoft.Network/ipGroups/firewalls[*].id|TRIAL|
+|[ipAddresses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ipGroups/ipAddresses)|UNKNOWN|Microsoft.Network/ipGroups/ipAddresses|TRIAL|
+|[ipAddresses[*]](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ipGroups/ipAddresses[*])|UNKNOWN|Microsoft.Network/ipGroups/ipAddresses[*]|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ipGroups/provisioningState)|UNKNOWN|Microsoft.Network/ipGroups/provisioningState|TRIAL|
 
 ### Hold
 

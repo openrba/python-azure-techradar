@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[immutabilityPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/storageAccounts/blobServices/containers/immutabilityPolicies)|UNKNOWN|Microsoft.Compute/storageAccounts/blobServices/containers/immutabilityPolicies|TRIAL|
+|[immutabilityPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageAccounts/blobServices/containers/immutabilityPolicies)|UNKNOWN|Microsoft.Compute/storageAccounts/blobServices/containers/immutabilityPolicies|TRIAL|
 
 ### Hold
 

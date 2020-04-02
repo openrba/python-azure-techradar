@@ -29,12 +29,12 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[accessControlRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managers/accessControlRecords)|UNKNOWN|Microsoft.Compute/managers/accessControlRecords|TRIAL|
-|[bandwidthSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managers/bandwidthSettings)|UNKNOWN|Microsoft.Compute/managers/bandwidthSettings|TRIAL|
-|[devices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managers/devices)|UNKNOWN|Microsoft.Compute/managers/devices|TRIAL|
-|[extendedInformation](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managers/extendedInformation)|UNKNOWN|Microsoft.Compute/managers/extendedInformation|TRIAL|
-|[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managers/storageAccountCredentials)|UNKNOWN|Microsoft.Compute/managers/storageAccountCredentials|TRIAL|
-|[storageDomains](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managers/storageDomains)|UNKNOWN|Microsoft.Compute/managers/storageDomains|TRIAL|
+|[accessControlRecords](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/accessControlRecords)|UNKNOWN|Microsoft.Compute/managers/accessControlRecords|TRIAL|
+|[bandwidthSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/bandwidthSettings)|UNKNOWN|Microsoft.Compute/managers/bandwidthSettings|TRIAL|
+|[devices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/devices)|UNKNOWN|Microsoft.Compute/managers/devices|TRIAL|
+|[extendedInformation](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/extendedInformation)|UNKNOWN|Microsoft.Compute/managers/extendedInformation|TRIAL|
+|[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/storageAccountCredentials)|UNKNOWN|Microsoft.Compute/managers/storageAccountCredentials|TRIAL|
+|[storageDomains](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managers/storageDomains)|UNKNOWN|Microsoft.Compute/managers/storageDomains|TRIAL|
 
 ### Hold
 

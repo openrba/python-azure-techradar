@@ -29,11 +29,11 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[backupLongTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managedInstances/databases/backupLongTermRetentionPolicies)|UNKNOWN|Microsoft.Compute/managedInstances/databases/backupLongTermRetentionPolicies|TRIAL|
-|[backupShortTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managedInstances/databases/backupShortTermRetentionPolicies)|UNKNOWN|Microsoft.Compute/managedInstances/databases/backupShortTermRetentionPolicies|TRIAL|
-|[schemas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managedInstances/databases/schemas)|UNKNOWN|Microsoft.Compute/managedInstances/databases/schemas|TRIAL|
-|[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managedInstances/databases/securityAlertPolicies)|UNKNOWN|Microsoft.Compute/managedInstances/databases/securityAlertPolicies|TRIAL|
-|[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managedInstances/databases/vulnerabilityAssessments)|UNKNOWN|Microsoft.Compute/managedInstances/databases/vulnerabilityAssessments|TRIAL|
+|[backupLongTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/databases/backupLongTermRetentionPolicies)|UNKNOWN|Microsoft.Compute/managedInstances/databases/backupLongTermRetentionPolicies|TRIAL|
+|[backupShortTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/databases/backupShortTermRetentionPolicies)|UNKNOWN|Microsoft.Compute/managedInstances/databases/backupShortTermRetentionPolicies|TRIAL|
+|[schemas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/databases/schemas)|UNKNOWN|Microsoft.Compute/managedInstances/databases/schemas|TRIAL|
+|[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/databases/securityAlertPolicies)|UNKNOWN|Microsoft.Compute/managedInstances/databases/securityAlertPolicies|TRIAL|
+|[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/managedInstances/databases/vulnerabilityAssessments)|UNKNOWN|Microsoft.Compute/managedInstances/databases/vulnerabilityAssessments|TRIAL|
 
 ### Hold
 

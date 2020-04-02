@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[backupFabrics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/Vaults/backupFabrics)|UNKNOWN|Microsoft.Compute/Vaults/backupFabrics|TRIAL|
-|[backupPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/Vaults/backupPolicies)|UNKNOWN|Microsoft.Compute/Vaults/backupPolicies|TRIAL|
-|[backupstorageconfig](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/Vaults/backupstorageconfig)|UNKNOWN|Microsoft.Compute/Vaults/backupstorageconfig|TRIAL|
-|[extendedInformation](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/Vaults/extendedInformation)|UNKNOWN|Microsoft.Compute/Vaults/extendedInformation|TRIAL|
+|[backupFabrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Vaults/backupFabrics)|UNKNOWN|Microsoft.Compute/Vaults/backupFabrics|TRIAL|
+|[backupPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Vaults/backupPolicies)|UNKNOWN|Microsoft.Compute/Vaults/backupPolicies|TRIAL|
+|[backupstorageconfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Vaults/backupstorageconfig)|UNKNOWN|Microsoft.Compute/Vaults/backupstorageconfig|TRIAL|
+|[extendedInformation](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Vaults/extendedInformation)|UNKNOWN|Microsoft.Compute/Vaults/extendedInformation|TRIAL|
 
 ### Hold
 

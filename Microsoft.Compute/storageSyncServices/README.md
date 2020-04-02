@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[registeredServers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/storageSyncServices/registeredServers)|UNKNOWN|Microsoft.Compute/storageSyncServices/registeredServers|TRIAL|
-|[syncGroups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/storageSyncServices/syncGroups)|UNKNOWN|Microsoft.Compute/storageSyncServices/syncGroups|TRIAL|
-|[workflows](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/storageSyncServices/workflows)|UNKNOWN|Microsoft.Compute/storageSyncServices/workflows|TRIAL|
+|[registeredServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageSyncServices/registeredServers)|UNKNOWN|Microsoft.Compute/storageSyncServices/registeredServers|TRIAL|
+|[syncGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageSyncServices/syncGroups)|UNKNOWN|Microsoft.Compute/storageSyncServices/syncGroups|TRIAL|
+|[workflows](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/storageSyncServices/workflows)|UNKNOWN|Microsoft.Compute/storageSyncServices/workflows|TRIAL|
 
 ### Hold
 

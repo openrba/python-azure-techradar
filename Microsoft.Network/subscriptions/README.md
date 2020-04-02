@@ -29,14 +29,14 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[locations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/subscriptions/locations)|UNKNOWN|Microsoft.Network/subscriptions/locations|TRIAL|
-|[operationresults](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/subscriptions/operationresults)|UNKNOWN|Microsoft.Network/subscriptions/operationresults|TRIAL|
-|[providers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/subscriptions/providers)|UNKNOWN|Microsoft.Network/subscriptions/providers|TRIAL|
-|[resourceGroups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/subscriptions/resourceGroups)|UNKNOWN|Microsoft.Network/subscriptions/resourceGroups|TRIAL|
-|[resourcegroups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/subscriptions/resourcegroups)|UNKNOWN|Microsoft.Network/subscriptions/resourcegroups|TRIAL|
-|[resources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/subscriptions/resources)|UNKNOWN|Microsoft.Network/subscriptions/resources|TRIAL|
-|[tagNames](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/subscriptions/tagNames)|UNKNOWN|Microsoft.Network/subscriptions/tagNames|TRIAL|
-|[tagnames](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/subscriptions/tagnames)|UNKNOWN|Microsoft.Network/subscriptions/tagnames|TRIAL|
+|[locations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/subscriptions/locations)|UNKNOWN|Microsoft.Network/subscriptions/locations|TRIAL|
+|[operationresults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/subscriptions/operationresults)|UNKNOWN|Microsoft.Network/subscriptions/operationresults|TRIAL|
+|[providers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/subscriptions/providers)|UNKNOWN|Microsoft.Network/subscriptions/providers|TRIAL|
+|[resourceGroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/subscriptions/resourceGroups)|UNKNOWN|Microsoft.Network/subscriptions/resourceGroups|TRIAL|
+|[resourcegroups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/subscriptions/resourcegroups)|UNKNOWN|Microsoft.Network/subscriptions/resourcegroups|TRIAL|
+|[resources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/subscriptions/resources)|UNKNOWN|Microsoft.Network/subscriptions/resources|TRIAL|
+|[tagNames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/subscriptions/tagNames)|UNKNOWN|Microsoft.Network/subscriptions/tagNames|TRIAL|
+|[tagnames](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/subscriptions/tagnames)|UNKNOWN|Microsoft.Network/subscriptions/tagnames|TRIAL|
 
 ### Hold
 

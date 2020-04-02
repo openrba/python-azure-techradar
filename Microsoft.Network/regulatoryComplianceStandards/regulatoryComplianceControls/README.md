@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[regulatoryComplianceAssessments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/regulatoryComplianceStandards/regulatoryComplianceControls/regulatoryComplianceAssessments)|UNKNOWN|Microsoft.Network/regulatoryComplianceStandards/regulatoryComplianceControls/regulatoryComplianceAssessments|TRIAL|
+|[regulatoryComplianceAssessments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/regulatoryComplianceStandards/regulatoryComplianceControls/regulatoryComplianceAssessments)|UNKNOWN|Microsoft.Network/regulatoryComplianceStandards/regulatoryComplianceControls/regulatoryComplianceAssessments|TRIAL|
 
 ### Hold
 

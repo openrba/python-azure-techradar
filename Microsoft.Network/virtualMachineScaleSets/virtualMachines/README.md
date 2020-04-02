@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[networkInterfaces](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachineScaleSets/virtualMachines/networkInterfaces)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/virtualMachines/networkInterfaces|TRIAL|
+|[networkInterfaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualMachineScaleSets/virtualMachines/networkInterfaces)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/virtualMachines/networkInterfaces|TRIAL|
 
 ### Hold
 

@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[connectionMonitors](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkWatchers/connectionMonitors)|UNKNOWN|Microsoft.Compute/networkWatchers/connectionMonitors|TRIAL|
-|[flowLogs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkWatchers/flowLogs)|UNKNOWN|Microsoft.Compute/networkWatchers/flowLogs|TRIAL|
-|[packetCaptures](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkWatchers/packetCaptures)|UNKNOWN|Microsoft.Compute/networkWatchers/packetCaptures|TRIAL|
-|[pingMeshes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkWatchers/pingMeshes)|UNKNOWN|Microsoft.Compute/networkWatchers/pingMeshes|TRIAL|
+|[connectionMonitors](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/networkWatchers/connectionMonitors)|UNKNOWN|Microsoft.Compute/networkWatchers/connectionMonitors|TRIAL|
+|[flowLogs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/networkWatchers/flowLogs)|UNKNOWN|Microsoft.Compute/networkWatchers/flowLogs|TRIAL|
+|[packetCaptures](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/networkWatchers/packetCaptures)|UNKNOWN|Microsoft.Compute/networkWatchers/packetCaptures|TRIAL|
+|[pingMeshes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/networkWatchers/pingMeshes)|UNKNOWN|Microsoft.Compute/networkWatchers/pingMeshes|TRIAL|
 
 ### Hold
 

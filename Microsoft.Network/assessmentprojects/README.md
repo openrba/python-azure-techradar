@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[groups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/assessmentprojects/groups)|UNKNOWN|Microsoft.Network/assessmentprojects/groups|TRIAL|
-|[hypervcollectors](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/assessmentprojects/hypervcollectors)|UNKNOWN|Microsoft.Network/assessmentprojects/hypervcollectors|TRIAL|
-|[vmwarecollectors](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/assessmentprojects/vmwarecollectors)|UNKNOWN|Microsoft.Network/assessmentprojects/vmwarecollectors|TRIAL|
+|[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/assessmentprojects/groups)|UNKNOWN|Microsoft.Network/assessmentprojects/groups|TRIAL|
+|[hypervcollectors](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/assessmentprojects/hypervcollectors)|UNKNOWN|Microsoft.Network/assessmentprojects/hypervcollectors|TRIAL|
+|[vmwarecollectors](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/assessmentprojects/vmwarecollectors)|UNKNOWN|Microsoft.Network/assessmentprojects/vmwarecollectors|TRIAL|
 
 ### Hold
 

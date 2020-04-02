@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[capabilities](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/domainNames/capabilities)|UNKNOWN|Microsoft.Network/domainNames/capabilities|TRIAL|
-|[internalLoadBalancers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/domainNames/internalLoadBalancers)|UNKNOWN|Microsoft.Network/domainNames/internalLoadBalancers|TRIAL|
-|[serviceCertificates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/domainNames/serviceCertificates)|UNKNOWN|Microsoft.Network/domainNames/serviceCertificates|TRIAL|
-|[slots](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/domainNames/slots)|UNKNOWN|Microsoft.Network/domainNames/slots|TRIAL|
+|[capabilities](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/domainNames/capabilities)|UNKNOWN|Microsoft.Network/domainNames/capabilities|TRIAL|
+|[internalLoadBalancers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/domainNames/internalLoadBalancers)|UNKNOWN|Microsoft.Network/domainNames/internalLoadBalancers|TRIAL|
+|[serviceCertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/domainNames/serviceCertificates)|UNKNOWN|Microsoft.Network/domainNames/serviceCertificates|TRIAL|
+|[slots](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/domainNames/slots)|UNKNOWN|Microsoft.Network/domainNames/slots|TRIAL|
 
 ### Hold
 

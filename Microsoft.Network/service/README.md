@@ -29,25 +29,25 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[apiVersionSets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apiVersionSets)|UNKNOWN|Microsoft.Network/service/apiVersionSets|TRIAL|
-|[apis](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis)|UNKNOWN|Microsoft.Network/service/apis|TRIAL|
-|[authorizationServers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/authorizationServers)|UNKNOWN|Microsoft.Network/service/authorizationServers|TRIAL|
-|[backends](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/backends)|UNKNOWN|Microsoft.Network/service/backends|TRIAL|
-|[caches](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/caches)|UNKNOWN|Microsoft.Network/service/caches|TRIAL|
-|[diagnostics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/diagnostics)|UNKNOWN|Microsoft.Network/service/diagnostics|TRIAL|
-|[groups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/groups)|UNKNOWN|Microsoft.Network/service/groups|TRIAL|
-|[identityProviders](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/identityProviders)|UNKNOWN|Microsoft.Network/service/identityProviders|TRIAL|
-|[loggers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/loggers)|UNKNOWN|Microsoft.Network/service/loggers|TRIAL|
-|[notifications](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/notifications)|UNKNOWN|Microsoft.Network/service/notifications|TRIAL|
-|[openidConnectProviders](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/openidConnectProviders)|UNKNOWN|Microsoft.Network/service/openidConnectProviders|TRIAL|
-|[policies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/policies)|UNKNOWN|Microsoft.Network/service/policies|TRIAL|
-|[portalsettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/portalsettings)|UNKNOWN|Microsoft.Network/service/portalsettings|TRIAL|
-|[products](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/products)|UNKNOWN|Microsoft.Network/service/products|TRIAL|
-|[properties](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/properties)|UNKNOWN|Microsoft.Network/service/properties|TRIAL|
-|[subscriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/subscriptions)|UNKNOWN|Microsoft.Network/service/subscriptions|TRIAL|
-|[tags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/tags)|UNKNOWN|Microsoft.Network/service/tags|TRIAL|
-|[templates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/templates)|UNKNOWN|Microsoft.Network/service/templates|TRIAL|
-|[users](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/users)|UNKNOWN|Microsoft.Network/service/users|TRIAL|
+|[apiVersionSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/apiVersionSets)|UNKNOWN|Microsoft.Network/service/apiVersionSets|TRIAL|
+|[apis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/apis)|UNKNOWN|Microsoft.Network/service/apis|TRIAL|
+|[authorizationServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/authorizationServers)|UNKNOWN|Microsoft.Network/service/authorizationServers|TRIAL|
+|[backends](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/backends)|UNKNOWN|Microsoft.Network/service/backends|TRIAL|
+|[caches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/caches)|UNKNOWN|Microsoft.Network/service/caches|TRIAL|
+|[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/diagnostics)|UNKNOWN|Microsoft.Network/service/diagnostics|TRIAL|
+|[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/groups)|UNKNOWN|Microsoft.Network/service/groups|TRIAL|
+|[identityProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/identityProviders)|UNKNOWN|Microsoft.Network/service/identityProviders|TRIAL|
+|[loggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/loggers)|UNKNOWN|Microsoft.Network/service/loggers|TRIAL|
+|[notifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/notifications)|UNKNOWN|Microsoft.Network/service/notifications|TRIAL|
+|[openidConnectProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/openidConnectProviders)|UNKNOWN|Microsoft.Network/service/openidConnectProviders|TRIAL|
+|[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/policies)|UNKNOWN|Microsoft.Network/service/policies|TRIAL|
+|[portalsettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/portalsettings)|UNKNOWN|Microsoft.Network/service/portalsettings|TRIAL|
+|[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/products)|UNKNOWN|Microsoft.Network/service/products|TRIAL|
+|[properties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/properties)|UNKNOWN|Microsoft.Network/service/properties|TRIAL|
+|[subscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/subscriptions)|UNKNOWN|Microsoft.Network/service/subscriptions|TRIAL|
+|[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/tags)|UNKNOWN|Microsoft.Network/service/tags|TRIAL|
+|[templates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/templates)|UNKNOWN|Microsoft.Network/service/templates|TRIAL|
+|[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/users)|UNKNOWN|Microsoft.Network/service/users|TRIAL|
 
 ### Hold
 

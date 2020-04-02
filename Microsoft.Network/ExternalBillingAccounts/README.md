@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[Alerts](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ExternalBillingAccounts/Alerts)|UNKNOWN|Microsoft.Network/ExternalBillingAccounts/Alerts|TRIAL|
-|[Dimensions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ExternalBillingAccounts/Dimensions)|UNKNOWN|Microsoft.Network/ExternalBillingAccounts/Dimensions|TRIAL|
-|[Forecast](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ExternalBillingAccounts/Forecast)|UNKNOWN|Microsoft.Network/ExternalBillingAccounts/Forecast|TRIAL|
-|[Query](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ExternalBillingAccounts/Query)|UNKNOWN|Microsoft.Network/ExternalBillingAccounts/Query|TRIAL|
+|[Alerts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ExternalBillingAccounts/Alerts)|UNKNOWN|Microsoft.Network/ExternalBillingAccounts/Alerts|TRIAL|
+|[Dimensions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ExternalBillingAccounts/Dimensions)|UNKNOWN|Microsoft.Network/ExternalBillingAccounts/Dimensions|TRIAL|
+|[Forecast](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ExternalBillingAccounts/Forecast)|UNKNOWN|Microsoft.Network/ExternalBillingAccounts/Forecast|TRIAL|
+|[Query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/ExternalBillingAccounts/Query)|UNKNOWN|Microsoft.Network/ExternalBillingAccounts/Query|TRIAL|
 
 ### Hold
 

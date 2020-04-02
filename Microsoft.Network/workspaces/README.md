@@ -29,19 +29,19 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[clusters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/clusters)|UNKNOWN|Microsoft.Network/workspaces/clusters|TRIAL|
-|[computes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/computes)|UNKNOWN|Microsoft.Network/workspaces/computes|TRIAL|
-|[dataSources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/dataSources)|UNKNOWN|Microsoft.Network/workspaces/dataSources|TRIAL|
-|[dbWorkspaces](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/dbWorkspaces)|UNKNOWN|Microsoft.Network/workspaces/dbWorkspaces|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/eventGridFilters)|UNKNOWN|Microsoft.Network/workspaces/eventGridFilters|TRIAL|
-|[experiments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/experiments)|UNKNOWN|Microsoft.Network/workspaces/experiments|TRIAL|
-|[fileservers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/fileservers)|UNKNOWN|Microsoft.Network/workspaces/fileservers|TRIAL|
-|[linkedServices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/linkedServices)|UNKNOWN|Microsoft.Network/workspaces/linkedServices|TRIAL|
-|[query](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/query)|UNKNOWN|Microsoft.Network/workspaces/query|TRIAL|
-|[savedSearches](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/savedSearches)|UNKNOWN|Microsoft.Network/workspaces/savedSearches|TRIAL|
-|[scopedPrivateLinkProxies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/scopedPrivateLinkProxies)|UNKNOWN|Microsoft.Network/workspaces/scopedPrivateLinkProxies|TRIAL|
-|[storageinsightconfigs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/storageinsightconfigs)|UNKNOWN|Microsoft.Network/workspaces/storageinsightconfigs|TRIAL|
-|[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workspaces/virtualNetworkPeerings)|UNKNOWN|Microsoft.Network/workspaces/virtualNetworkPeerings|TRIAL|
+|[clusters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/clusters)|UNKNOWN|Microsoft.Network/workspaces/clusters|TRIAL|
+|[computes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/computes)|UNKNOWN|Microsoft.Network/workspaces/computes|TRIAL|
+|[dataSources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/dataSources)|UNKNOWN|Microsoft.Network/workspaces/dataSources|TRIAL|
+|[dbWorkspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/dbWorkspaces)|UNKNOWN|Microsoft.Network/workspaces/dbWorkspaces|TRIAL|
+|[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/eventGridFilters)|UNKNOWN|Microsoft.Network/workspaces/eventGridFilters|TRIAL|
+|[experiments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/experiments)|UNKNOWN|Microsoft.Network/workspaces/experiments|TRIAL|
+|[fileservers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/fileservers)|UNKNOWN|Microsoft.Network/workspaces/fileservers|TRIAL|
+|[linkedServices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/linkedServices)|UNKNOWN|Microsoft.Network/workspaces/linkedServices|TRIAL|
+|[query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/query)|UNKNOWN|Microsoft.Network/workspaces/query|TRIAL|
+|[savedSearches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/savedSearches)|UNKNOWN|Microsoft.Network/workspaces/savedSearches|TRIAL|
+|[scopedPrivateLinkProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/scopedPrivateLinkProxies)|UNKNOWN|Microsoft.Network/workspaces/scopedPrivateLinkProxies|TRIAL|
+|[storageinsightconfigs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/storageinsightconfigs)|UNKNOWN|Microsoft.Network/workspaces/storageinsightconfigs|TRIAL|
+|[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/workspaces/virtualNetworkPeerings)|UNKNOWN|Microsoft.Network/workspaces/virtualNetworkPeerings|TRIAL|
 
 ### Hold
 

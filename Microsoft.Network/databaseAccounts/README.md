@@ -29,12 +29,12 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[cassandraKeyspaces](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/cassandraKeyspaces)|UNKNOWN|Microsoft.Network/databaseAccounts/cassandraKeyspaces|TRIAL|
-|[gremlinDatabases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/gremlinDatabases)|UNKNOWN|Microsoft.Network/databaseAccounts/gremlinDatabases|TRIAL|
-|[mongodbDatabases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/mongodbDatabases)|UNKNOWN|Microsoft.Network/databaseAccounts/mongodbDatabases|TRIAL|
-|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/privateEndpointConnections)|UNKNOWN|Microsoft.Network/databaseAccounts/privateEndpointConnections|TRIAL|
-|[sqlDatabases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/sqlDatabases)|UNKNOWN|Microsoft.Network/databaseAccounts/sqlDatabases|TRIAL|
-|[tables](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/tables)|UNKNOWN|Microsoft.Network/databaseAccounts/tables|TRIAL|
+|[cassandraKeyspaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/cassandraKeyspaces)|UNKNOWN|Microsoft.Network/databaseAccounts/cassandraKeyspaces|TRIAL|
+|[gremlinDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/gremlinDatabases)|UNKNOWN|Microsoft.Network/databaseAccounts/gremlinDatabases|TRIAL|
+|[mongodbDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/mongodbDatabases)|UNKNOWN|Microsoft.Network/databaseAccounts/mongodbDatabases|TRIAL|
+|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/privateEndpointConnections)|UNKNOWN|Microsoft.Network/databaseAccounts/privateEndpointConnections|TRIAL|
+|[sqlDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/sqlDatabases)|UNKNOWN|Microsoft.Network/databaseAccounts/sqlDatabases|TRIAL|
+|[tables](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/tables)|UNKNOWN|Microsoft.Network/databaseAccounts/tables|TRIAL|
 
 ### Hold
 

@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[acceptTransfer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/transfers/acceptTransfer)|UNKNOWN|Microsoft.Network/transfers/acceptTransfer|TRIAL|
-|[declineTransfer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/transfers/declineTransfer)|UNKNOWN|Microsoft.Network/transfers/declineTransfer|TRIAL|
-|[operationStatus](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/transfers/operationStatus)|UNKNOWN|Microsoft.Network/transfers/operationStatus|TRIAL|
-|[validateTransfer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/transfers/validateTransfer)|UNKNOWN|Microsoft.Network/transfers/validateTransfer|TRIAL|
+|[acceptTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/transfers/acceptTransfer)|UNKNOWN|Microsoft.Network/transfers/acceptTransfer|TRIAL|
+|[declineTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/transfers/declineTransfer)|UNKNOWN|Microsoft.Network/transfers/declineTransfer|TRIAL|
+|[operationStatus](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/transfers/operationStatus)|UNKNOWN|Microsoft.Network/transfers/operationStatus|TRIAL|
+|[validateTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/transfers/validateTransfer)|UNKNOWN|Microsoft.Network/transfers/validateTransfer|TRIAL|
 
 ### Hold
 

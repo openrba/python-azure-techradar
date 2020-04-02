@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[applications](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/batchAccounts/applications)|UNKNOWN|Microsoft.Compute/batchAccounts/applications|TRIAL|
-|[certificates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/batchAccounts/certificates)|UNKNOWN|Microsoft.Compute/batchAccounts/certificates|TRIAL|
-|[pools](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/batchAccounts/pools)|UNKNOWN|Microsoft.Compute/batchAccounts/pools|TRIAL|
+|[applications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/batchAccounts/applications)|UNKNOWN|Microsoft.Compute/batchAccounts/applications|TRIAL|
+|[certificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/batchAccounts/certificates)|UNKNOWN|Microsoft.Compute/batchAccounts/certificates|TRIAL|
+|[pools](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/batchAccounts/pools)|UNKNOWN|Microsoft.Compute/batchAccounts/pools|TRIAL|
 
 ### Hold
 

@@ -29,15 +29,15 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[agreements](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/integrationAccounts/agreements)|UNKNOWN|Microsoft.Network/integrationAccounts/agreements|TRIAL|
-|[assemblies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/integrationAccounts/assemblies)|UNKNOWN|Microsoft.Network/integrationAccounts/assemblies|TRIAL|
-|[batchConfigurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/integrationAccounts/batchConfigurations)|UNKNOWN|Microsoft.Network/integrationAccounts/batchConfigurations|TRIAL|
-|[certificates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/integrationAccounts/certificates)|UNKNOWN|Microsoft.Network/integrationAccounts/certificates|TRIAL|
-|[maps](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/integrationAccounts/maps)|UNKNOWN|Microsoft.Network/integrationAccounts/maps|TRIAL|
-|[partners](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/integrationAccounts/partners)|UNKNOWN|Microsoft.Network/integrationAccounts/partners|TRIAL|
-|[rosettaNetProcessConfigurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/integrationAccounts/rosettaNetProcessConfigurations)|UNKNOWN|Microsoft.Network/integrationAccounts/rosettaNetProcessConfigurations|TRIAL|
-|[schemas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/integrationAccounts/schemas)|UNKNOWN|Microsoft.Network/integrationAccounts/schemas|TRIAL|
-|[sessions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/integrationAccounts/sessions)|UNKNOWN|Microsoft.Network/integrationAccounts/sessions|TRIAL|
+|[agreements](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/integrationAccounts/agreements)|UNKNOWN|Microsoft.Network/integrationAccounts/agreements|TRIAL|
+|[assemblies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/integrationAccounts/assemblies)|UNKNOWN|Microsoft.Network/integrationAccounts/assemblies|TRIAL|
+|[batchConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/integrationAccounts/batchConfigurations)|UNKNOWN|Microsoft.Network/integrationAccounts/batchConfigurations|TRIAL|
+|[certificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/integrationAccounts/certificates)|UNKNOWN|Microsoft.Network/integrationAccounts/certificates|TRIAL|
+|[maps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/integrationAccounts/maps)|UNKNOWN|Microsoft.Network/integrationAccounts/maps|TRIAL|
+|[partners](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/integrationAccounts/partners)|UNKNOWN|Microsoft.Network/integrationAccounts/partners|TRIAL|
+|[rosettaNetProcessConfigurations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/integrationAccounts/rosettaNetProcessConfigurations)|UNKNOWN|Microsoft.Network/integrationAccounts/rosettaNetProcessConfigurations|TRIAL|
+|[schemas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/integrationAccounts/schemas)|UNKNOWN|Microsoft.Network/integrationAccounts/schemas|TRIAL|
+|[sessions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/integrationAccounts/sessions)|UNKNOWN|Microsoft.Network/integrationAccounts/sessions|TRIAL|
 
 ### Hold
 

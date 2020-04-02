@@ -29,11 +29,11 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[connectionMonitors](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/connectionMonitors)|UNKNOWN|Microsoft.Network/networkWatchers/connectionMonitors|TRIAL|
-|[flowLogs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/flowLogs)|UNKNOWN|Microsoft.Network/networkWatchers/flowLogs|TRIAL|
-|[packetCaptures](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures|TRIAL|
-|[pingMeshes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/pingMeshes)|UNKNOWN|Microsoft.Network/networkWatchers/pingMeshes|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/provisioningState)|UNKNOWN|Microsoft.Network/networkWatchers/provisioningState|TRIAL|
+|[connectionMonitors](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/connectionMonitors)|UNKNOWN|Microsoft.Network/networkWatchers/connectionMonitors|TRIAL|
+|[flowLogs](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/flowLogs)|UNKNOWN|Microsoft.Network/networkWatchers/flowLogs|TRIAL|
+|[packetCaptures](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/packetCaptures)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures|TRIAL|
+|[pingMeshes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/pingMeshes)|UNKNOWN|Microsoft.Network/networkWatchers/pingMeshes|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/networkWatchers/provisioningState)|UNKNOWN|Microsoft.Network/networkWatchers/provisioningState|TRIAL|
 
 ### Hold
 

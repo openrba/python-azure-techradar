@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[certificates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/certificateOrders/certificates)|UNKNOWN|Microsoft.Compute/certificateOrders/certificates|TRIAL|
+|[certificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/certificateOrders/certificates)|UNKNOWN|Microsoft.Compute/certificateOrders/certificates|TRIAL|
 
 ### Hold
 

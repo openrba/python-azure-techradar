@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[authorizations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/expressRouteCircuits/authorizations)|UNKNOWN|Microsoft.Compute/expressRouteCircuits/authorizations|TRIAL|
-|[peerings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/expressRouteCircuits/peerings)|UNKNOWN|Microsoft.Compute/expressRouteCircuits/peerings|TRIAL|
+|[authorizations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/expressRouteCircuits/authorizations)|UNKNOWN|Microsoft.Compute/expressRouteCircuits/authorizations|TRIAL|
+|[peerings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/expressRouteCircuits/peerings)|UNKNOWN|Microsoft.Compute/expressRouteCircuits/peerings|TRIAL|
 
 ### Hold
 

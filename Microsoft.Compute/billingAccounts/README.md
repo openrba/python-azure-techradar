@@ -29,27 +29,27 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[BillingProfiles](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/BillingProfiles)|UNKNOWN|Microsoft.Compute/billingAccounts/BillingProfiles|TRIAL|
-|[agreements](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/agreements)|UNKNOWN|Microsoft.Compute/billingAccounts/agreements|TRIAL|
-|[billingPermissions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/billingPermissions)|UNKNOWN|Microsoft.Compute/billingAccounts/billingPermissions|TRIAL|
-|[billingProfiles](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/billingProfiles)|UNKNOWN|Microsoft.Compute/billingAccounts/billingProfiles|TRIAL|
-|[billingRoleAssignments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/billingRoleAssignments)|UNKNOWN|Microsoft.Compute/billingAccounts/billingRoleAssignments|TRIAL|
-|[billingRoleDefinitions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/billingRoleDefinitions)|UNKNOWN|Microsoft.Compute/billingAccounts/billingRoleDefinitions|TRIAL|
-|[billingSubscriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/billingSubscriptions)|UNKNOWN|Microsoft.Compute/billingAccounts/billingSubscriptions|TRIAL|
-|[createBillingRoleAssignment](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/createBillingRoleAssignment)|UNKNOWN|Microsoft.Compute/billingAccounts/createBillingRoleAssignment|TRIAL|
-|[createInvoiceSectionOperations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/createInvoiceSectionOperations)|UNKNOWN|Microsoft.Compute/billingAccounts/createInvoiceSectionOperations|TRIAL|
-|[customers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/customers)|UNKNOWN|Microsoft.Compute/billingAccounts/customers|TRIAL|
-|[departments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/departments)|UNKNOWN|Microsoft.Compute/billingAccounts/departments|TRIAL|
-|[enrollmentAccounts](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/enrollmentAccounts)|UNKNOWN|Microsoft.Compute/billingAccounts/enrollmentAccounts|TRIAL|
-|[invoiceSections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections|TRIAL|
-|[invoices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoices)|UNKNOWN|Microsoft.Compute/billingAccounts/invoices|TRIAL|
-|[lineOfCredit](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/lineOfCredit)|UNKNOWN|Microsoft.Compute/billingAccounts/lineOfCredit|TRIAL|
-|[listInvoiceSectionsWithCreateSubscriptionPermission](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission)|UNKNOWN|Microsoft.Compute/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission|TRIAL|
-|[operationResults](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/operationResults)|UNKNOWN|Microsoft.Compute/billingAccounts/operationResults|TRIAL|
-|[patchOperations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/patchOperations)|UNKNOWN|Microsoft.Compute/billingAccounts/patchOperations|TRIAL|
-|[paymentMethods](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/paymentMethods)|UNKNOWN|Microsoft.Compute/billingAccounts/paymentMethods|TRIAL|
-|[products](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/products)|UNKNOWN|Microsoft.Compute/billingAccounts/products|TRIAL|
-|[transactions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/transactions)|UNKNOWN|Microsoft.Compute/billingAccounts/transactions|TRIAL|
+|[BillingProfiles](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/BillingProfiles)|UNKNOWN|Microsoft.Compute/billingAccounts/BillingProfiles|TRIAL|
+|[agreements](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/agreements)|UNKNOWN|Microsoft.Compute/billingAccounts/agreements|TRIAL|
+|[billingPermissions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/billingPermissions)|UNKNOWN|Microsoft.Compute/billingAccounts/billingPermissions|TRIAL|
+|[billingProfiles](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/billingProfiles)|UNKNOWN|Microsoft.Compute/billingAccounts/billingProfiles|TRIAL|
+|[billingRoleAssignments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/billingRoleAssignments)|UNKNOWN|Microsoft.Compute/billingAccounts/billingRoleAssignments|TRIAL|
+|[billingRoleDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/billingRoleDefinitions)|UNKNOWN|Microsoft.Compute/billingAccounts/billingRoleDefinitions|TRIAL|
+|[billingSubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/billingSubscriptions)|UNKNOWN|Microsoft.Compute/billingAccounts/billingSubscriptions|TRIAL|
+|[createBillingRoleAssignment](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/createBillingRoleAssignment)|UNKNOWN|Microsoft.Compute/billingAccounts/createBillingRoleAssignment|TRIAL|
+|[createInvoiceSectionOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/createInvoiceSectionOperations)|UNKNOWN|Microsoft.Compute/billingAccounts/createInvoiceSectionOperations|TRIAL|
+|[customers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/customers)|UNKNOWN|Microsoft.Compute/billingAccounts/customers|TRIAL|
+|[departments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/departments)|UNKNOWN|Microsoft.Compute/billingAccounts/departments|TRIAL|
+|[enrollmentAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/enrollmentAccounts)|UNKNOWN|Microsoft.Compute/billingAccounts/enrollmentAccounts|TRIAL|
+|[invoiceSections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoiceSections)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections|TRIAL|
+|[invoices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/invoices)|UNKNOWN|Microsoft.Compute/billingAccounts/invoices|TRIAL|
+|[lineOfCredit](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/lineOfCredit)|UNKNOWN|Microsoft.Compute/billingAccounts/lineOfCredit|TRIAL|
+|[listInvoiceSectionsWithCreateSubscriptionPermission](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission)|UNKNOWN|Microsoft.Compute/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission|TRIAL|
+|[operationResults](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/operationResults)|UNKNOWN|Microsoft.Compute/billingAccounts/operationResults|TRIAL|
+|[patchOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/patchOperations)|UNKNOWN|Microsoft.Compute/billingAccounts/patchOperations|TRIAL|
+|[paymentMethods](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/paymentMethods)|UNKNOWN|Microsoft.Compute/billingAccounts/paymentMethods|TRIAL|
+|[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/products)|UNKNOWN|Microsoft.Compute/billingAccounts/products|TRIAL|
+|[transactions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/billingAccounts/transactions)|UNKNOWN|Microsoft.Compute/billingAccounts/transactions|TRIAL|
 
 ### Hold
 

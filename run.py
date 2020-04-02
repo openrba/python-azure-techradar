@@ -5,7 +5,7 @@ import yaml
 import os.path
 from mdutils import MdUtils
 
-base_url = "https://github.com/openrba/python-azure-techradar/blob/master"
+base_url = "https://github.com/openrba/python-azure-techradar/tree/master"
 
 def createResourceDict(data,value,index,default,path):
 # Creates a dictionary of resourceTypes

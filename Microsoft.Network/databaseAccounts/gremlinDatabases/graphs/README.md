@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[throughputSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/gremlinDatabases/graphs/throughputSettings)|UNKNOWN|Microsoft.Network/databaseAccounts/gremlinDatabases/graphs/throughputSettings|TRIAL|
+|[throughputSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/databaseAccounts/gremlinDatabases/graphs/throughputSettings)|UNKNOWN|Microsoft.Network/databaseAccounts/gremlinDatabases/graphs/throughputSettings|TRIAL|
 
 ### Hold
 

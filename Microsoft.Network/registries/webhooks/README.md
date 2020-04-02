@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[getCallbackConfig](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/registries/webhooks/getCallbackConfig)|UNKNOWN|Microsoft.Network/registries/webhooks/getCallbackConfig|TRIAL|
-|[listEvents](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/registries/webhooks/listEvents)|UNKNOWN|Microsoft.Network/registries/webhooks/listEvents|TRIAL|
-|[ping](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/registries/webhooks/ping)|UNKNOWN|Microsoft.Network/registries/webhooks/ping|TRIAL|
+|[getCallbackConfig](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/webhooks/getCallbackConfig)|UNKNOWN|Microsoft.Network/registries/webhooks/getCallbackConfig|TRIAL|
+|[listEvents](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/webhooks/listEvents)|UNKNOWN|Microsoft.Network/registries/webhooks/listEvents|TRIAL|
+|[ping](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/registries/webhooks/ping)|UNKNOWN|Microsoft.Network/registries/webhooks/ping|TRIAL|
 
 ### Hold
 

@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/SignalR/eventGridFilters)|UNKNOWN|Microsoft.Network/SignalR/eventGridFilters|TRIAL|
+|[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/SignalR/eventGridFilters)|UNKNOWN|Microsoft.Network/SignalR/eventGridFilters|TRIAL|
 
 ### Hold
 

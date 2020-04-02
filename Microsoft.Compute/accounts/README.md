@@ -29,16 +29,16 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[computePolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/computePolicies)|UNKNOWN|Microsoft.Compute/accounts/computePolicies|TRIAL|
-|[dataLakeStoreAccounts](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/dataLakeStoreAccounts)|UNKNOWN|Microsoft.Compute/accounts/dataLakeStoreAccounts|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/eventGridFilters)|UNKNOWN|Microsoft.Compute/accounts/eventGridFilters|TRIAL|
-|[firewallRules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/firewallRules)|UNKNOWN|Microsoft.Compute/accounts/firewallRules|TRIAL|
-|[privateAtlases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/privateAtlases)|UNKNOWN|Microsoft.Compute/accounts/privateAtlases|TRIAL|
-|[shares](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares)|UNKNOWN|Microsoft.Compute/accounts/shares|TRIAL|
-|[sharesubscriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/sharesubscriptions)|UNKNOWN|Microsoft.Compute/accounts/sharesubscriptions|TRIAL|
-|[storageAccounts](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/storageAccounts)|UNKNOWN|Microsoft.Compute/accounts/storageAccounts|TRIAL|
-|[trustedIdProviders](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/trustedIdProviders)|UNKNOWN|Microsoft.Compute/accounts/trustedIdProviders|TRIAL|
-|[virtualNetworkRules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/virtualNetworkRules)|UNKNOWN|Microsoft.Compute/accounts/virtualNetworkRules|TRIAL|
+|[computePolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/computePolicies)|UNKNOWN|Microsoft.Compute/accounts/computePolicies|TRIAL|
+|[dataLakeStoreAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/dataLakeStoreAccounts)|UNKNOWN|Microsoft.Compute/accounts/dataLakeStoreAccounts|TRIAL|
+|[eventGridFilters](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/eventGridFilters)|UNKNOWN|Microsoft.Compute/accounts/eventGridFilters|TRIAL|
+|[firewallRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/firewallRules)|UNKNOWN|Microsoft.Compute/accounts/firewallRules|TRIAL|
+|[privateAtlases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/privateAtlases)|UNKNOWN|Microsoft.Compute/accounts/privateAtlases|TRIAL|
+|[shares](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/shares)|UNKNOWN|Microsoft.Compute/accounts/shares|TRIAL|
+|[sharesubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/sharesubscriptions)|UNKNOWN|Microsoft.Compute/accounts/sharesubscriptions|TRIAL|
+|[storageAccounts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/storageAccounts)|UNKNOWN|Microsoft.Compute/accounts/storageAccounts|TRIAL|
+|[trustedIdProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/trustedIdProviders)|UNKNOWN|Microsoft.Compute/accounts/trustedIdProviders|TRIAL|
+|[virtualNetworkRules](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/virtualNetworkRules)|UNKNOWN|Microsoft.Compute/accounts/virtualNetworkRules|TRIAL|
 
 ### Hold
 

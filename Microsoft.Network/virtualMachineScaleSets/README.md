@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[extensions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachineScaleSets/extensions)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/extensions|TRIAL|
-|[networkInterfaces](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachineScaleSets/networkInterfaces)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/networkInterfaces|TRIAL|
-|[publicIPAddresses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachineScaleSets/publicIPAddresses)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/publicIPAddresses|TRIAL|
-|[virtualMachines](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachineScaleSets/virtualMachines)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/virtualMachines|TRIAL|
+|[extensions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualMachineScaleSets/extensions)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/extensions|TRIAL|
+|[networkInterfaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualMachineScaleSets/networkInterfaces)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/networkInterfaces|TRIAL|
+|[publicIPAddresses](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualMachineScaleSets/publicIPAddresses)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/publicIPAddresses|TRIAL|
+|[virtualMachines](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/virtualMachineScaleSets/virtualMachines)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/virtualMachines|TRIAL|
 
 ### Hold
 

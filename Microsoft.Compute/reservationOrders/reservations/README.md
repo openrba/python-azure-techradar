@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[availableScopes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/reservationOrders/reservations/availableScopes)|UNKNOWN|Microsoft.Compute/reservationOrders/reservations/availableScopes|TRIAL|
-|[revisions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/reservationOrders/reservations/revisions)|UNKNOWN|Microsoft.Compute/reservationOrders/reservations/revisions|TRIAL|
+|[availableScopes](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/reservations/availableScopes)|UNKNOWN|Microsoft.Compute/reservationOrders/reservations/availableScopes|TRIAL|
+|[revisions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/reservationOrders/reservations/revisions)|UNKNOWN|Microsoft.Compute/reservationOrders/reservations/revisions|TRIAL|
 
 ### Hold
 

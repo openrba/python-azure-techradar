@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[listSasTokens](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/storageAccounts/containers/listSasTokens)|UNKNOWN|Microsoft.Compute/accounts/storageAccounts/containers/listSasTokens|TRIAL|
+|[listSasTokens](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/storageAccounts/containers/listSasTokens)|UNKNOWN|Microsoft.Compute/accounts/storageAccounts/containers/listSasTokens|TRIAL|
 
 ### Hold
 

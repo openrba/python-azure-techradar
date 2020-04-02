@@ -29,16 +29,16 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[A](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/A)|UNKNOWN|Microsoft.Compute/privateDnsZones/A|TRIAL|
-|[AAAA](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/AAAA)|UNKNOWN|Microsoft.Compute/privateDnsZones/AAAA|TRIAL|
-|[CNAME](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/CNAME)|UNKNOWN|Microsoft.Compute/privateDnsZones/CNAME|TRIAL|
-|[MX](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/MX)|UNKNOWN|Microsoft.Compute/privateDnsZones/MX|TRIAL|
-|[PTR](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/PTR)|UNKNOWN|Microsoft.Compute/privateDnsZones/PTR|TRIAL|
-|[SOA](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/SOA)|UNKNOWN|Microsoft.Compute/privateDnsZones/SOA|TRIAL|
-|[SRV](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/SRV)|UNKNOWN|Microsoft.Compute/privateDnsZones/SRV|TRIAL|
-|[TXT](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/TXT)|UNKNOWN|Microsoft.Compute/privateDnsZones/TXT|TRIAL|
-|[all](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/all)|UNKNOWN|Microsoft.Compute/privateDnsZones/all|TRIAL|
-|[virtualNetworkLinks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/virtualNetworkLinks)|UNKNOWN|Microsoft.Compute/privateDnsZones/virtualNetworkLinks|TRIAL|
+|[A](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateDnsZones/A)|UNKNOWN|Microsoft.Compute/privateDnsZones/A|TRIAL|
+|[AAAA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateDnsZones/AAAA)|UNKNOWN|Microsoft.Compute/privateDnsZones/AAAA|TRIAL|
+|[CNAME](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateDnsZones/CNAME)|UNKNOWN|Microsoft.Compute/privateDnsZones/CNAME|TRIAL|
+|[MX](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateDnsZones/MX)|UNKNOWN|Microsoft.Compute/privateDnsZones/MX|TRIAL|
+|[PTR](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateDnsZones/PTR)|UNKNOWN|Microsoft.Compute/privateDnsZones/PTR|TRIAL|
+|[SOA](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateDnsZones/SOA)|UNKNOWN|Microsoft.Compute/privateDnsZones/SOA|TRIAL|
+|[SRV](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateDnsZones/SRV)|UNKNOWN|Microsoft.Compute/privateDnsZones/SRV|TRIAL|
+|[TXT](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateDnsZones/TXT)|UNKNOWN|Microsoft.Compute/privateDnsZones/TXT|TRIAL|
+|[all](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateDnsZones/all)|UNKNOWN|Microsoft.Compute/privateDnsZones/all|TRIAL|
+|[virtualNetworkLinks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateDnsZones/virtualNetworkLinks)|UNKNOWN|Microsoft.Compute/privateDnsZones/virtualNetworkLinks|TRIAL|
 
 ### Hold
 

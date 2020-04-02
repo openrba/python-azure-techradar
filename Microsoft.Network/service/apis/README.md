@@ -29,14 +29,14 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[diagnostics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/diagnostics)|UNKNOWN|Microsoft.Network/service/apis/diagnostics|TRIAL|
-|[issues](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/issues)|UNKNOWN|Microsoft.Network/service/apis/issues|TRIAL|
-|[operations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/operations)|UNKNOWN|Microsoft.Network/service/apis/operations|TRIAL|
-|[policies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/policies)|UNKNOWN|Microsoft.Network/service/apis/policies|TRIAL|
-|[releases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/releases)|UNKNOWN|Microsoft.Network/service/apis/releases|TRIAL|
-|[schemas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/schemas)|UNKNOWN|Microsoft.Network/service/apis/schemas|TRIAL|
-|[tagDescriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/tagDescriptions)|UNKNOWN|Microsoft.Network/service/apis/tagDescriptions|TRIAL|
-|[tags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/tags)|UNKNOWN|Microsoft.Network/service/apis/tags|TRIAL|
+|[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/apis/diagnostics)|UNKNOWN|Microsoft.Network/service/apis/diagnostics|TRIAL|
+|[issues](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/apis/issues)|UNKNOWN|Microsoft.Network/service/apis/issues|TRIAL|
+|[operations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/apis/operations)|UNKNOWN|Microsoft.Network/service/apis/operations|TRIAL|
+|[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/apis/policies)|UNKNOWN|Microsoft.Network/service/apis/policies|TRIAL|
+|[releases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/apis/releases)|UNKNOWN|Microsoft.Network/service/apis/releases|TRIAL|
+|[schemas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/apis/schemas)|UNKNOWN|Microsoft.Network/service/apis/schemas|TRIAL|
+|[tagDescriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/apis/tagDescriptions)|UNKNOWN|Microsoft.Network/service/apis/tagDescriptions|TRIAL|
+|[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/service/apis/tags)|UNKNOWN|Microsoft.Network/service/apis/tags|TRIAL|
 
 ### Hold
 

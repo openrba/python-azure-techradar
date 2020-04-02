@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[consumerSourceDataSets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/accounts/sharesubscriptions/consumerSourceDataSets)|UNKNOWN|Microsoft.Network/accounts/sharesubscriptions/consumerSourceDataSets|TRIAL|
-|[datasetmappings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/accounts/sharesubscriptions/datasetmappings)|UNKNOWN|Microsoft.Network/accounts/sharesubscriptions/datasetmappings|TRIAL|
-|[triggers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/accounts/sharesubscriptions/triggers)|UNKNOWN|Microsoft.Network/accounts/sharesubscriptions/triggers|TRIAL|
+|[consumerSourceDataSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/accounts/sharesubscriptions/consumerSourceDataSets)|UNKNOWN|Microsoft.Network/accounts/sharesubscriptions/consumerSourceDataSets|TRIAL|
+|[datasetmappings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/accounts/sharesubscriptions/datasetmappings)|UNKNOWN|Microsoft.Network/accounts/sharesubscriptions/datasetmappings|TRIAL|
+|[triggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/accounts/sharesubscriptions/triggers)|UNKNOWN|Microsoft.Network/accounts/sharesubscriptions/triggers|TRIAL|
 
 ### Hold
 

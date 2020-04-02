@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateLinkScopes/privateEndpointConnectionProxies)|UNKNOWN|Microsoft.Compute/privateLinkScopes/privateEndpointConnectionProxies|TRIAL|
-|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateLinkScopes/privateEndpointConnections)|UNKNOWN|Microsoft.Compute/privateLinkScopes/privateEndpointConnections|TRIAL|
-|[scopedResources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateLinkScopes/scopedResources)|UNKNOWN|Microsoft.Compute/privateLinkScopes/scopedResources|TRIAL|
+|[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateLinkScopes/privateEndpointConnectionProxies)|UNKNOWN|Microsoft.Compute/privateLinkScopes/privateEndpointConnectionProxies|TRIAL|
+|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateLinkScopes/privateEndpointConnections)|UNKNOWN|Microsoft.Compute/privateLinkScopes/privateEndpointConnections|TRIAL|
+|[scopedResources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/privateLinkScopes/scopedResources)|UNKNOWN|Microsoft.Compute/privateLinkScopes/scopedResources|TRIAL|
 
 ### Hold
 

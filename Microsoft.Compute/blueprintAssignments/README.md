@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[assignmentOperations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/blueprintAssignments/assignmentOperations)|UNKNOWN|Microsoft.Compute/blueprintAssignments/assignmentOperations|TRIAL|
-|[operations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/blueprintAssignments/operations)|UNKNOWN|Microsoft.Compute/blueprintAssignments/operations|TRIAL|
+|[assignmentOperations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/blueprintAssignments/assignmentOperations)|UNKNOWN|Microsoft.Compute/blueprintAssignments/assignmentOperations|TRIAL|
+|[operations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/blueprintAssignments/operations)|UNKNOWN|Microsoft.Compute/blueprintAssignments/operations|TRIAL|
 
 ### Hold
 

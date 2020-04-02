@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[tagValues](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/subscriptions/tagNames/tagValues)|UNKNOWN|Microsoft.Compute/subscriptions/tagNames/tagValues|TRIAL|
+|[tagValues](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/subscriptions/tagNames/tagValues)|UNKNOWN|Microsoft.Compute/subscriptions/tagNames/tagValues|TRIAL|
 
 ### Hold
 

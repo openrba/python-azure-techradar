@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[accessPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/environments/accessPolicies)|UNKNOWN|Microsoft.Compute/environments/accessPolicies|TRIAL|
-|[eventsources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/environments/eventsources)|UNKNOWN|Microsoft.Compute/environments/eventsources|TRIAL|
-|[referenceDataSets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/environments/referenceDataSets)|UNKNOWN|Microsoft.Compute/environments/referenceDataSets|TRIAL|
+|[accessPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/environments/accessPolicies)|UNKNOWN|Microsoft.Compute/environments/accessPolicies|TRIAL|
+|[eventsources](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/environments/eventsources)|UNKNOWN|Microsoft.Compute/environments/eventsources|TRIAL|
+|[referenceDataSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/environments/referenceDataSets)|UNKNOWN|Microsoft.Compute/environments/referenceDataSets|TRIAL|
 
 ### Hold
 

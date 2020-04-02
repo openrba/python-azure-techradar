@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[datasets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares/datasets)|UNKNOWN|Microsoft.Compute/accounts/shares/datasets|TRIAL|
-|[invitations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares/invitations)|UNKNOWN|Microsoft.Compute/accounts/shares/invitations|TRIAL|
-|[providersharesubscriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares/providersharesubscriptions)|UNKNOWN|Microsoft.Compute/accounts/shares/providersharesubscriptions|TRIAL|
-|[synchronizationSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares/synchronizationSettings)|UNKNOWN|Microsoft.Compute/accounts/shares/synchronizationSettings|TRIAL|
+|[datasets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/shares/datasets)|UNKNOWN|Microsoft.Compute/accounts/shares/datasets|TRIAL|
+|[invitations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/shares/invitations)|UNKNOWN|Microsoft.Compute/accounts/shares/invitations|TRIAL|
+|[providersharesubscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/shares/providersharesubscriptions)|UNKNOWN|Microsoft.Compute/accounts/shares/providersharesubscriptions|TRIAL|
+|[synchronizationSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/accounts/shares/synchronizationSettings)|UNKNOWN|Microsoft.Compute/accounts/shares/synchronizationSettings|TRIAL|
 
 ### Hold
 

@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[acceptTransfer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/transfers/acceptTransfer)|UNKNOWN|Microsoft.Compute/transfers/acceptTransfer|TRIAL|
-|[declineTransfer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/transfers/declineTransfer)|UNKNOWN|Microsoft.Compute/transfers/declineTransfer|TRIAL|
-|[operationStatus](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/transfers/operationStatus)|UNKNOWN|Microsoft.Compute/transfers/operationStatus|TRIAL|
-|[validateTransfer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/transfers/validateTransfer)|UNKNOWN|Microsoft.Compute/transfers/validateTransfer|TRIAL|
+|[acceptTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/transfers/acceptTransfer)|UNKNOWN|Microsoft.Compute/transfers/acceptTransfer|TRIAL|
+|[declineTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/transfers/declineTransfer)|UNKNOWN|Microsoft.Compute/transfers/declineTransfer|TRIAL|
+|[operationStatus](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/transfers/operationStatus)|UNKNOWN|Microsoft.Compute/transfers/operationStatus|TRIAL|
+|[validateTransfer](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/transfers/validateTransfer)|UNKNOWN|Microsoft.Compute/transfers/validateTransfer|TRIAL|
 
 ### Hold
 

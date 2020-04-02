@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[relations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/bookmarks/relations)|UNKNOWN|Microsoft.Network/bookmarks/relations|TRIAL|
+|[relations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/bookmarks/relations)|UNKNOWN|Microsoft.Network/bookmarks/relations|TRIAL|
 
 ### Hold
 

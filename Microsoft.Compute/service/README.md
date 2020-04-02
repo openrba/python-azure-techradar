@@ -29,25 +29,25 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[apiVersionSets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apiVersionSets)|UNKNOWN|Microsoft.Compute/service/apiVersionSets|TRIAL|
-|[apis](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis)|UNKNOWN|Microsoft.Compute/service/apis|TRIAL|
-|[authorizationServers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/authorizationServers)|UNKNOWN|Microsoft.Compute/service/authorizationServers|TRIAL|
-|[backends](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/backends)|UNKNOWN|Microsoft.Compute/service/backends|TRIAL|
-|[caches](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/caches)|UNKNOWN|Microsoft.Compute/service/caches|TRIAL|
-|[diagnostics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/diagnostics)|UNKNOWN|Microsoft.Compute/service/diagnostics|TRIAL|
-|[groups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/groups)|UNKNOWN|Microsoft.Compute/service/groups|TRIAL|
-|[identityProviders](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/identityProviders)|UNKNOWN|Microsoft.Compute/service/identityProviders|TRIAL|
-|[loggers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/loggers)|UNKNOWN|Microsoft.Compute/service/loggers|TRIAL|
-|[notifications](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/notifications)|UNKNOWN|Microsoft.Compute/service/notifications|TRIAL|
-|[openidConnectProviders](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/openidConnectProviders)|UNKNOWN|Microsoft.Compute/service/openidConnectProviders|TRIAL|
-|[policies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/policies)|UNKNOWN|Microsoft.Compute/service/policies|TRIAL|
-|[portalsettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/portalsettings)|UNKNOWN|Microsoft.Compute/service/portalsettings|TRIAL|
-|[products](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/products)|UNKNOWN|Microsoft.Compute/service/products|TRIAL|
-|[properties](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/properties)|UNKNOWN|Microsoft.Compute/service/properties|TRIAL|
-|[subscriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/subscriptions)|UNKNOWN|Microsoft.Compute/service/subscriptions|TRIAL|
-|[tags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/tags)|UNKNOWN|Microsoft.Compute/service/tags|TRIAL|
-|[templates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/templates)|UNKNOWN|Microsoft.Compute/service/templates|TRIAL|
-|[users](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/users)|UNKNOWN|Microsoft.Compute/service/users|TRIAL|
+|[apiVersionSets](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apiVersionSets)|UNKNOWN|Microsoft.Compute/service/apiVersionSets|TRIAL|
+|[apis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apis)|UNKNOWN|Microsoft.Compute/service/apis|TRIAL|
+|[authorizationServers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/authorizationServers)|UNKNOWN|Microsoft.Compute/service/authorizationServers|TRIAL|
+|[backends](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/backends)|UNKNOWN|Microsoft.Compute/service/backends|TRIAL|
+|[caches](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/caches)|UNKNOWN|Microsoft.Compute/service/caches|TRIAL|
+|[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/diagnostics)|UNKNOWN|Microsoft.Compute/service/diagnostics|TRIAL|
+|[groups](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/groups)|UNKNOWN|Microsoft.Compute/service/groups|TRIAL|
+|[identityProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/identityProviders)|UNKNOWN|Microsoft.Compute/service/identityProviders|TRIAL|
+|[loggers](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/loggers)|UNKNOWN|Microsoft.Compute/service/loggers|TRIAL|
+|[notifications](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/notifications)|UNKNOWN|Microsoft.Compute/service/notifications|TRIAL|
+|[openidConnectProviders](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/openidConnectProviders)|UNKNOWN|Microsoft.Compute/service/openidConnectProviders|TRIAL|
+|[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/policies)|UNKNOWN|Microsoft.Compute/service/policies|TRIAL|
+|[portalsettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/portalsettings)|UNKNOWN|Microsoft.Compute/service/portalsettings|TRIAL|
+|[products](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/products)|UNKNOWN|Microsoft.Compute/service/products|TRIAL|
+|[properties](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/properties)|UNKNOWN|Microsoft.Compute/service/properties|TRIAL|
+|[subscriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/subscriptions)|UNKNOWN|Microsoft.Compute/service/subscriptions|TRIAL|
+|[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/tags)|UNKNOWN|Microsoft.Compute/service/tags|TRIAL|
+|[templates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/templates)|UNKNOWN|Microsoft.Compute/service/templates|TRIAL|
+|[users](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/users)|UNKNOWN|Microsoft.Compute/service/users|TRIAL|
 
 ### Hold
 

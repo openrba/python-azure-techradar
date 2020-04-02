@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[managedApis](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/integrationServiceEnvironments/managedApis)|UNKNOWN|Microsoft.Network/integrationServiceEnvironments/managedApis|TRIAL|
+|[managedApis](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/integrationServiceEnvironments/managedApis)|UNKNOWN|Microsoft.Network/integrationServiceEnvironments/managedApis|TRIAL|
 
 ### Hold
 

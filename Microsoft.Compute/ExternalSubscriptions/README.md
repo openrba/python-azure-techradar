@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[Alerts](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/ExternalSubscriptions/Alerts)|UNKNOWN|Microsoft.Compute/ExternalSubscriptions/Alerts|TRIAL|
-|[Dimensions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/ExternalSubscriptions/Dimensions)|UNKNOWN|Microsoft.Compute/ExternalSubscriptions/Dimensions|TRIAL|
-|[Forecast](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/ExternalSubscriptions/Forecast)|UNKNOWN|Microsoft.Compute/ExternalSubscriptions/Forecast|TRIAL|
-|[Query](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/ExternalSubscriptions/Query)|UNKNOWN|Microsoft.Compute/ExternalSubscriptions/Query|TRIAL|
+|[Alerts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/ExternalSubscriptions/Alerts)|UNKNOWN|Microsoft.Compute/ExternalSubscriptions/Alerts|TRIAL|
+|[Dimensions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/ExternalSubscriptions/Dimensions)|UNKNOWN|Microsoft.Compute/ExternalSubscriptions/Dimensions|TRIAL|
+|[Forecast](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/ExternalSubscriptions/Forecast)|UNKNOWN|Microsoft.Compute/ExternalSubscriptions/Forecast|TRIAL|
+|[Query](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/ExternalSubscriptions/Query)|UNKNOWN|Microsoft.Compute/ExternalSubscriptions/Query|TRIAL|
 
 ### Hold
 

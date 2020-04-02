@@ -29,14 +29,14 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[diagnostics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/diagnostics)|UNKNOWN|Microsoft.Compute/service/apis/diagnostics|TRIAL|
-|[issues](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/issues)|UNKNOWN|Microsoft.Compute/service/apis/issues|TRIAL|
-|[operations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/operations)|UNKNOWN|Microsoft.Compute/service/apis/operations|TRIAL|
-|[policies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/policies)|UNKNOWN|Microsoft.Compute/service/apis/policies|TRIAL|
-|[releases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/releases)|UNKNOWN|Microsoft.Compute/service/apis/releases|TRIAL|
-|[schemas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/schemas)|UNKNOWN|Microsoft.Compute/service/apis/schemas|TRIAL|
-|[tagDescriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/tagDescriptions)|UNKNOWN|Microsoft.Compute/service/apis/tagDescriptions|TRIAL|
-|[tags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/tags)|UNKNOWN|Microsoft.Compute/service/apis/tags|TRIAL|
+|[diagnostics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apis/diagnostics)|UNKNOWN|Microsoft.Compute/service/apis/diagnostics|TRIAL|
+|[issues](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apis/issues)|UNKNOWN|Microsoft.Compute/service/apis/issues|TRIAL|
+|[operations](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apis/operations)|UNKNOWN|Microsoft.Compute/service/apis/operations|TRIAL|
+|[policies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apis/policies)|UNKNOWN|Microsoft.Compute/service/apis/policies|TRIAL|
+|[releases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apis/releases)|UNKNOWN|Microsoft.Compute/service/apis/releases|TRIAL|
+|[schemas](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apis/schemas)|UNKNOWN|Microsoft.Compute/service/apis/schemas|TRIAL|
+|[tagDescriptions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apis/tagDescriptions)|UNKNOWN|Microsoft.Compute/service/apis/tagDescriptions|TRIAL|
+|[tags](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/service/apis/tags)|UNKNOWN|Microsoft.Compute/service/apis/tags|TRIAL|
 
 ### Hold
 

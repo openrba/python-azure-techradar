@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[addressPrefix](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/routeTables/routes/addressPrefix)|UNKNOWN|Microsoft.Network/routeTables/routes/addressPrefix|TRIAL|
-|[nextHopIpAddress](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/routeTables/routes/nextHopIpAddress)|UNKNOWN|Microsoft.Network/routeTables/routes/nextHopIpAddress|TRIAL|
-|[nextHopType](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/routeTables/routes/nextHopType)|UNKNOWN|Microsoft.Network/routeTables/routes/nextHopType|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/routeTables/routes/provisioningState)|UNKNOWN|Microsoft.Network/routeTables/routes/provisioningState|TRIAL|
+|[addressPrefix](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeTables/routes/addressPrefix)|UNKNOWN|Microsoft.Network/routeTables/routes/addressPrefix|TRIAL|
+|[nextHopIpAddress](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeTables/routes/nextHopIpAddress)|UNKNOWN|Microsoft.Network/routeTables/routes/nextHopIpAddress|TRIAL|
+|[nextHopType](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeTables/routes/nextHopType)|UNKNOWN|Microsoft.Network/routeTables/routes/nextHopType|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/routeTables/routes/provisioningState)|UNKNOWN|Microsoft.Network/routeTables/routes/provisioningState|TRIAL|
 
 ### Hold
 

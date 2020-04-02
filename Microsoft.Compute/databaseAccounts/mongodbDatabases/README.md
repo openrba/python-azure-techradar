@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[collections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/mongodbDatabases/collections)|UNKNOWN|Microsoft.Compute/databaseAccounts/mongodbDatabases/collections|TRIAL|
-|[throughputSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/mongodbDatabases/throughputSettings)|UNKNOWN|Microsoft.Compute/databaseAccounts/mongodbDatabases/throughputSettings|TRIAL|
+|[collections](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/databaseAccounts/mongodbDatabases/collections)|UNKNOWN|Microsoft.Compute/databaseAccounts/mongodbDatabases/collections|TRIAL|
+|[throughputSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/databaseAccounts/mongodbDatabases/throughputSettings)|UNKNOWN|Microsoft.Compute/databaseAccounts/mongodbDatabases/throughputSettings|TRIAL|
 
 ### Hold
 

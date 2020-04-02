@@ -29,17 +29,17 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[administrators](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/administrators)|UNKNOWN|Microsoft.Network/managedInstances/administrators|TRIAL|
-|[databases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/databases)|UNKNOWN|Microsoft.Network/managedInstances/databases|TRIAL|
-|[encryptionProtector](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/encryptionProtector)|UNKNOWN|Microsoft.Network/managedInstances/encryptionProtector|TRIAL|
-|[keys](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/keys)|UNKNOWN|Microsoft.Network/managedInstances/keys|TRIAL|
-|[metricDefinitions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/metricDefinitions)|UNKNOWN|Microsoft.Network/managedInstances/metricDefinitions|TRIAL|
-|[metrics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/metrics)|UNKNOWN|Microsoft.Network/managedInstances/metrics|TRIAL|
-|[recoverableDatabases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/recoverableDatabases)|UNKNOWN|Microsoft.Network/managedInstances/recoverableDatabases|TRIAL|
-|[restorableDroppedDatabases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/restorableDroppedDatabases)|UNKNOWN|Microsoft.Network/managedInstances/restorableDroppedDatabases|TRIAL|
-|[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/securityAlertPolicies)|UNKNOWN|Microsoft.Network/managedInstances/securityAlertPolicies|TRIAL|
-|[tdeCertificates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/tdeCertificates)|UNKNOWN|Microsoft.Network/managedInstances/tdeCertificates|TRIAL|
-|[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/vulnerabilityAssessments)|UNKNOWN|Microsoft.Network/managedInstances/vulnerabilityAssessments|TRIAL|
+|[administrators](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managedInstances/administrators)|UNKNOWN|Microsoft.Network/managedInstances/administrators|TRIAL|
+|[databases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managedInstances/databases)|UNKNOWN|Microsoft.Network/managedInstances/databases|TRIAL|
+|[encryptionProtector](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managedInstances/encryptionProtector)|UNKNOWN|Microsoft.Network/managedInstances/encryptionProtector|TRIAL|
+|[keys](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managedInstances/keys)|UNKNOWN|Microsoft.Network/managedInstances/keys|TRIAL|
+|[metricDefinitions](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managedInstances/metricDefinitions)|UNKNOWN|Microsoft.Network/managedInstances/metricDefinitions|TRIAL|
+|[metrics](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managedInstances/metrics)|UNKNOWN|Microsoft.Network/managedInstances/metrics|TRIAL|
+|[recoverableDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managedInstances/recoverableDatabases)|UNKNOWN|Microsoft.Network/managedInstances/recoverableDatabases|TRIAL|
+|[restorableDroppedDatabases](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managedInstances/restorableDroppedDatabases)|UNKNOWN|Microsoft.Network/managedInstances/restorableDroppedDatabases|TRIAL|
+|[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managedInstances/securityAlertPolicies)|UNKNOWN|Microsoft.Network/managedInstances/securityAlertPolicies|TRIAL|
+|[tdeCertificates](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managedInstances/tdeCertificates)|UNKNOWN|Microsoft.Network/managedInstances/tdeCertificates|TRIAL|
+|[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network/managedInstances/vulnerabilityAssessments)|UNKNOWN|Microsoft.Network/managedInstances/vulnerabilityAssessments|TRIAL|
 
 ### Hold
 
