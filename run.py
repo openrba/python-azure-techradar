@@ -196,7 +196,7 @@ def makeMarkdown(data,path):
         mdf.new_table(columns=4,rows=adopt_cnt,text=adopt_tbl,text_align='center')
 
     # Handle the Hold Section
-    mdf.new_header(level=3, title='')
+    mdf.new_header(level=3, title='Hold')
     mdf.new_paragraph("Technologies not recommended to be used for new projects. "
     "Technologies that we think are not (yet) worth to (further) invest in.  "
     "HOLD technologies should not be used for new projects, but usually can be "
