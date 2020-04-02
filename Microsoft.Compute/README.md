@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |<sub>Resource</sub>|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|<sub>[AggregatedCost]</sub>(https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/AggregatedCost)|UNKNOWN|Microsoft.Compute/AggregatedCost|TRIAL|
+|<sub>[AggregatedCost](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/AggregatedCost)</sub>|UNKNOWN|Microsoft.Compute/AggregatedCost|TRIAL|
 |[Alerts](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Alerts)|UNKNOWN|Microsoft.Compute/Alerts|TRIAL|
 |[AutoProvisioningSettings](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/AutoProvisioningSettings)|UNKNOWN|Microsoft.Compute/AutoProvisioningSettings|TRIAL|
 |[Balances](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute/Balances)|UNKNOWN|Microsoft.Compute/Balances|TRIAL|
