@@ -1,0 +1,2703 @@
+Microsoft.AAD:
+  path: Microsoft.AAD
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.AAD/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ADHybridHealthService:
+  path: Microsoft.ADHybridHealthService
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ADHybridHealthService/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Addons:
+  path: Microsoft.Addons
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Addons/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Advisor:
+  path: Microsoft.Advisor
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Advisor/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.AlertsManagement:
+  path: Microsoft.AlertsManagement
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.AlertsManagement/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.AnalysisServices:
+  path: Microsoft.AnalysisServices
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.AnalysisServices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ApiManagement:
+  path: Microsoft.ApiManagement
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ApiManagement/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.AppConfiguration:
+  path: Microsoft.AppConfiguration
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.AppConfiguration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.AppPlatform:
+  path: Microsoft.AppPlatform
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.AppPlatform/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Attestation:
+  path: Microsoft.Attestation
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Attestation/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Authorization:
+  path: Microsoft.Authorization
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Authorization/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Automation:
+  path: Microsoft.Automation
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Automation/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.AzureActiveDirectory:
+  path: Microsoft.AzureActiveDirectory
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.AzureActiveDirectory/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.AzureData:
+  path: Microsoft.AzureData
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.AzureData/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.AzureStack:
+  path: Microsoft.AzureStack
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.AzureStack/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Batch:
+  path: Microsoft.Batch
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Batch/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.BatchAI:
+  path: Microsoft.BatchAI
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.BatchAI/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Billing:
+  path: Microsoft.Billing
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Billing/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.BingMaps:
+  path: Microsoft.BingMaps
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.BingMaps/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Blockchain:
+  path: Microsoft.Blockchain
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Blockchain/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.BlockchainTokens:
+  path: Microsoft.BlockchainTokens
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.BlockchainTokens/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Blueprint:
+  path: Microsoft.Blueprint
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Blueprint/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.BotService:
+  path: Microsoft.BotService
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.BotService/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.CDN:
+  path: Microsoft.CDN
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.CDN/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Cache:
+  path: Microsoft.Cache
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Cache/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Capacity:
+  path: Microsoft.Capacity
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Capacity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Cdn:
+  path: Microsoft.Cdn
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Cdn/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.CertificateRegistration:
+  path: Microsoft.CertificateRegistration
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.CertificateRegistration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ChangeAnalysis:
+  path: Microsoft.ChangeAnalysis
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ChangeAnalysis/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ClassicCompute:
+  path: Microsoft.ClassicCompute
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ClassicCompute/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ClassicInfrastructureMigrate:
+  path: Microsoft.ClassicInfrastructureMigrate
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ClassicInfrastructureMigrate/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ClassicNetwork:
+  path: Microsoft.ClassicNetwork
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ClassicNetwork/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ClassicStorage:
+  path: Microsoft.ClassicStorage
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ClassicStorage/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ClassicSubscription:
+  path: Microsoft.ClassicSubscription
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ClassicSubscription/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.CognitiveServices:
+  path: Microsoft.CognitiveServices
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.CognitiveServices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Commerce:
+  path: Microsoft.Commerce
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Commerce/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Compute:
+  path: Microsoft.Compute
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Compute/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Consumption:
+  path: Microsoft.Consumption
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Consumption/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ContainerInstance:
+  path: Microsoft.ContainerInstance
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ContainerInstance/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ContainerRegistry:
+  path: Microsoft.ContainerRegistry
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ContainerRegistry/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ContainerService:
+  path: Microsoft.ContainerService
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ContainerService/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.CostManagement:
+  path: Microsoft.CostManagement
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.CostManagement/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.CostManagementExports:
+  path: Microsoft.CostManagementExports
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.CostManagementExports/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.CustomProviders:
+  path: Microsoft.CustomProviders
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.CustomProviders/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.CustomerLockbox:
+  path: Microsoft.CustomerLockbox
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.CustomerLockbox/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DBforMariaDB:
+  path: Microsoft.DBforMariaDB
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DBforMariaDB/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DBforMySQL:
+  path: Microsoft.DBforMySQL
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DBforMySQL/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DBforPostgreSQL:
+  path: Microsoft.DBforPostgreSQL
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DBforPostgreSQL/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DataBox:
+  path: Microsoft.DataBox
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DataBox/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DataBoxEdge:
+  path: Microsoft.DataBoxEdge
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DataBoxEdge/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DataBricks:
+  path: Microsoft.DataBricks
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DataBricks/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DataCatalog:
+  path: Microsoft.DataCatalog
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DataCatalog/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DataFactory:
+  path: Microsoft.DataFactory
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DataFactory/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DataLakeAnalytics:
+  path: Microsoft.DataLakeAnalytics
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DataLakeAnalytics/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DataLakeStore:
+  path: Microsoft.DataLakeStore
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DataLakeStore/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DataMigration:
+  path: Microsoft.DataMigration
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DataMigration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DataShare:
+  path: Microsoft.DataShare
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DataShare/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Databricks:
+  path: Microsoft.Databricks
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Databricks/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DeploymentManager:
+  path: Microsoft.DeploymentManager
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DeploymentManager/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DesktopVirtualization:
+  path: Microsoft.DesktopVirtualization
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DesktopVirtualization/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DevOps:
+  path: Microsoft.DevOps
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DevOps/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DevSpaces:
+  path: Microsoft.DevSpaces
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DevSpaces/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DevTestLab:
+  path: Microsoft.DevTestLab
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DevTestLab/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Devices:
+  path: Microsoft.Devices
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Devices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DigitalTwins:
+  path: Microsoft.DigitalTwins
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DigitalTwins/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DocumentDB:
+  path: Microsoft.DocumentDB
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DocumentDB/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.DomainRegistration:
+  path: Microsoft.DomainRegistration
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.DomainRegistration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.EnterpriseKnowledgeGraph:
+  path: Microsoft.EnterpriseKnowledgeGraph
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.EnterpriseKnowledgeGraph/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.EventGrid:
+  path: Microsoft.EventGrid
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.EventGrid/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.EventHub:
+  path: Microsoft.EventHub
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.EventHub/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Experimentation:
+  path: Microsoft.Experimentation
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Experimentation/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Falcon:
+  path: Microsoft.Falcon
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Falcon/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Features:
+  path: Microsoft.Features
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Features/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.GuestConfiguration:
+  path: Microsoft.GuestConfiguration
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.GuestConfiguration/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.HDInsight:
+  path: Microsoft.HDInsight
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.HDInsight/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.HanaOnAzure:
+  path: Microsoft.HanaOnAzure
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.HanaOnAzure/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.HardwareSecurityModules:
+  path: Microsoft.HardwareSecurityModules
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.HardwareSecurityModules/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.HealthcareApis:
+  path: Microsoft.HealthcareApis
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.HealthcareApis/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.HybridCompute:
+  path: Microsoft.HybridCompute
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.HybridCompute/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.HybridData:
+  path: Microsoft.HybridData
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.HybridData/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Hydra:
+  path: Microsoft.Hydra
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Hydra/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ImportExport:
+  path: Microsoft.ImportExport
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ImportExport/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Insights:
+  path: Microsoft.Insights
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.IoTCentral:
+  path: Microsoft.IoTCentral
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.IoTCentral/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.IoTSpaces:
+  path: Microsoft.IoTSpaces
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.IoTSpaces/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.KeyVault:
+  path: Microsoft.KeyVault
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.KeyVault/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Keyvault:
+  path: Microsoft.Keyvault
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Keyvault/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Kubernetes:
+  path: Microsoft.Kubernetes
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Kubernetes/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Kusto:
+  path: Microsoft.Kusto
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Kusto/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.LabServices:
+  path: Microsoft.LabServices
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.LabServices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Logic:
+  path: Microsoft.Logic
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Logic/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.MachineLearning:
+  path: Microsoft.MachineLearning
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.MachineLearning/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.MachineLearningServices:
+  path: Microsoft.MachineLearningServices
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.MachineLearningServices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Maintenance:
+  path: Microsoft.Maintenance
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Maintenance/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ManagedIdentity:
+  path: Microsoft.ManagedIdentity
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ManagedIdentity/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ManagedServices:
+  path: Microsoft.ManagedServices
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ManagedServices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Management:
+  path: Microsoft.Management
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Management/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Maps:
+  path: Microsoft.Maps
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Maps/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Marketplace:
+  path: Microsoft.Marketplace
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Marketplace/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.MarketplaceApps:
+  path: Microsoft.MarketplaceApps
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.MarketplaceApps/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.MarketplaceOrdering:
+  path: Microsoft.MarketplaceOrdering
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.MarketplaceOrdering/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Media:
+  path: Microsoft.Media
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Media/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Migrate:
+  path: Microsoft.Migrate
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Migrate/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.MixedReality:
+  path: Microsoft.MixedReality
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.MixedReality/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.NetApp:
+  path: Microsoft.NetApp
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.NetApp/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Network:
+  path: Microsoft.Network
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Network/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.NotificationHubs:
+  path: Microsoft.NotificationHubs
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.NotificationHubs/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ObjectStore:
+  path: Microsoft.ObjectStore
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ObjectStore/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.OffAzure:
+  path: Microsoft.OffAzure
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.OffAzure/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.OperationalInsights:
+  path: Microsoft.OperationalInsights
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.OperationalInsights/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.OperationsManagement:
+  path: Microsoft.OperationsManagement
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.OperationsManagement/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Peering:
+  path: Microsoft.Peering
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Peering/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.PolicyInsights:
+  path: Microsoft.PolicyInsights
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.PolicyInsights/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Portal:
+  path: Microsoft.Portal
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Portal/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.PowerBI:
+  path: Microsoft.PowerBI
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.PowerBI/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.PowerBIDedicated:
+  path: Microsoft.PowerBIDedicated
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.PowerBIDedicated/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ProjectBabylon:
+  path: Microsoft.ProjectBabylon
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ProjectBabylon/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ProviderHub:
+  path: Microsoft.ProviderHub
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ProviderHub/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Quantum:
+  path: Microsoft.Quantum
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Quantum/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.RecoveryServices:
+  path: Microsoft.RecoveryServices
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.RecoveryServices/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.RedHatOpenShift:
+  path: Microsoft.RedHatOpenShift
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.RedHatOpenShift/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Relay:
+  path: Microsoft.Relay
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Relay/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ResourceGraph:
+  path: Microsoft.ResourceGraph
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ResourceGraph/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ResourceHealth:
+  path: Microsoft.ResourceHealth
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ResourceHealth/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Resources:
+  path: Microsoft.Resources
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Resources/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.SaaS:
+  path: Microsoft.SaaS
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.SaaS/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Scheduler:
+  path: Microsoft.Scheduler
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Scheduler/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Search:
+  path: Microsoft.Search
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Search/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Security:
+  path: Microsoft.Security
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Security/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.SecurityInsights:
+  path: Microsoft.SecurityInsights
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.SecurityInsights/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.SerialConsole:
+  path: Microsoft.SerialConsole
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.SerialConsole/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ServiceBus:
+  path: Microsoft.ServiceBus
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ServiceBus/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ServiceFabric:
+  path: Microsoft.ServiceFabric
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ServiceFabric/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.ServiceFabricMesh:
+  path: Microsoft.ServiceFabricMesh
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.ServiceFabricMesh/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Services:
+  path: Microsoft.Services
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Services/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.SignalRService:
+  path: Microsoft.SignalRService
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.SignalRService/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.SignalRservice:
+  path: Microsoft.SignalRservice
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.SignalRservice/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.SoftwarePlan:
+  path: Microsoft.SoftwarePlan
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.SoftwarePlan/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Solutions:
+  path: Microsoft.Solutions
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Solutions/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Sql:
+  path: Microsoft.Sql
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Sql/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.SqlVirtualMachine:
+  path: Microsoft.SqlVirtualMachine
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.SqlVirtualMachine/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.StorSimple:
+  path: Microsoft.StorSimple
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.StorSimple/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Storage:
+  path: Microsoft.Storage
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Storage/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.StorageCache:
+  path: Microsoft.StorageCache
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.StorageCache/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.StorageSync:
+  path: Microsoft.StorageSync
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.StorageSync/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.StreamAnalytics:
+  path: Microsoft.StreamAnalytics
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.StreamAnalytics/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Subscription:
+  path: Microsoft.Subscription
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Subscription/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Synapse:
+  path: Microsoft.Synapse
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Synapse/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.TimeSeriesInsights:
+  path: Microsoft.TimeSeriesInsights
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.TimeSeriesInsights/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Token:
+  path: Microsoft.Token
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Token/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.VMwareCloudSimple:
+  path: Microsoft.VMwareCloudSimple
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.VMwareCloudSimple/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.VSOnline:
+  path: Microsoft.VSOnline
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.VSOnline/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.VirtualMachineImages:
+  path: Microsoft.VirtualMachineImages
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.VirtualMachineImages/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.VisualStudio:
+  path: Microsoft.VisualStudio
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.VisualStudio/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.VnfManager:
+  path: Microsoft.VnfManager
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.VnfManager/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.Web:
+  path: Microsoft.Web
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Web/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.WindowsESU:
+  path: Microsoft.WindowsESU
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.WindowsESU/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.WindowsIoT:
+  path: Microsoft.WindowsIoT
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.WindowsIoT/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Microsoft.WorkloadMonitor:
+  path: Microsoft.WorkloadMonitor
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.WorkloadMonitor/README.md
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
