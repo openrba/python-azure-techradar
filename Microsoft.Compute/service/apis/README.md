@@ -29,14 +29,14 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[diagnostics](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/service/apis/diagnostics/README.md)|UNKNOWN|Microsoft.Compute/service/apis/diagnostics|TRIAL|
-|[issues](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/service/apis/issues/README.md)|UNKNOWN|Microsoft.Compute/service/apis/issues|TRIAL|
-|[operations](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/service/apis/operations/README.md)|UNKNOWN|Microsoft.Compute/service/apis/operations|TRIAL|
-|[policies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/service/apis/policies/README.md)|UNKNOWN|Microsoft.Compute/service/apis/policies|TRIAL|
-|[releases](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/service/apis/releases/README.md)|UNKNOWN|Microsoft.Compute/service/apis/releases|TRIAL|
-|[schemas](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/service/apis/schemas/README.md)|UNKNOWN|Microsoft.Compute/service/apis/schemas|TRIAL|
-|[tagDescriptions](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/service/apis/tagDescriptions/README.md)|UNKNOWN|Microsoft.Compute/service/apis/tagDescriptions|TRIAL|
-|[tags](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/service/apis/tags/README.md)|UNKNOWN|Microsoft.Compute/service/apis/tags|TRIAL|
+|[diagnostics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/diagnostics/README.md)|UNKNOWN|Microsoft.Compute/service/apis/diagnostics|TRIAL|
+|[issues](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/issues/README.md)|UNKNOWN|Microsoft.Compute/service/apis/issues|TRIAL|
+|[operations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/operations/README.md)|UNKNOWN|Microsoft.Compute/service/apis/operations|TRIAL|
+|[policies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/policies/README.md)|UNKNOWN|Microsoft.Compute/service/apis/policies|TRIAL|
+|[releases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/releases/README.md)|UNKNOWN|Microsoft.Compute/service/apis/releases|TRIAL|
+|[schemas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/schemas/README.md)|UNKNOWN|Microsoft.Compute/service/apis/schemas|TRIAL|
+|[tagDescriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/tagDescriptions/README.md)|UNKNOWN|Microsoft.Compute/service/apis/tagDescriptions|TRIAL|
+|[tags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/service/apis/tags/README.md)|UNKNOWN|Microsoft.Compute/service/apis/tags|TRIAL|
 
 ### Hold
 

@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[sqlServers](https://github.com/openrba/python-azure-techradar/Microsoft.Network/sqlServerRegistrations/sqlServers/README.md)|UNKNOWN|Microsoft.Network/sqlServerRegistrations/sqlServers|TRIAL|
+|[sqlServers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/sqlServerRegistrations/sqlServers/README.md)|UNKNOWN|Microsoft.Network/sqlServerRegistrations/sqlServers|TRIAL|
 
 ### Hold
 

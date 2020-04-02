@@ -29,26 +29,26 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[certificates](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/certificates/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/certificates|TRIAL|
-|[compilationjobs](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/compilationjobs/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/compilationjobs|TRIAL|
-|[configurations](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/configurations/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/configurations|TRIAL|
-|[connectionTypes](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/connectionTypes/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/connectionTypes|TRIAL|
-|[connections](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/connections/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/connections|TRIAL|
-|[credentials](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/credentials/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/credentials|TRIAL|
-|[jobSchedules](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/jobSchedules/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/jobSchedules|TRIAL|
-|[jobs](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/jobs/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/jobs|TRIAL|
-|[modules](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/modules/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/modules|TRIAL|
-|[nodeConfigurations](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/nodeConfigurations/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/nodeConfigurations|TRIAL|
-|[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/privateEndpointConnectionProxies/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/privateEndpointConnectionProxies|TRIAL|
-|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/privateEndpointConnections/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/privateEndpointConnections|TRIAL|
-|[privateLinkResources](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/privateLinkResources/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/privateLinkResources|TRIAL|
-|[python2Packages](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/python2Packages/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/python2Packages|TRIAL|
-|[runbooks](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/runbooks/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/runbooks|TRIAL|
-|[schedules](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/schedules/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/schedules|TRIAL|
-|[softwareUpdateConfigurations](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/softwareUpdateConfigurations/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/softwareUpdateConfigurations|TRIAL|
-|[variables](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/variables/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/variables|TRIAL|
-|[watchers](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/watchers/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/watchers|TRIAL|
-|[webhooks](https://github.com/openrba/python-azure-techradar/Microsoft.Network/automationAccounts/webhooks/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/webhooks|TRIAL|
+|[certificates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/certificates/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/certificates|TRIAL|
+|[compilationjobs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/compilationjobs/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/compilationjobs|TRIAL|
+|[configurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/configurations/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/configurations|TRIAL|
+|[connectionTypes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/connectionTypes/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/connectionTypes|TRIAL|
+|[connections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/connections/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/connections|TRIAL|
+|[credentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/credentials/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/credentials|TRIAL|
+|[jobSchedules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/jobSchedules/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/jobSchedules|TRIAL|
+|[jobs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/jobs/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/jobs|TRIAL|
+|[modules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/modules/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/modules|TRIAL|
+|[nodeConfigurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/nodeConfigurations/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/nodeConfigurations|TRIAL|
+|[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/privateEndpointConnectionProxies/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/privateEndpointConnectionProxies|TRIAL|
+|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/privateEndpointConnections/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/privateEndpointConnections|TRIAL|
+|[privateLinkResources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/privateLinkResources/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/privateLinkResources|TRIAL|
+|[python2Packages](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/python2Packages/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/python2Packages|TRIAL|
+|[runbooks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/runbooks/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/runbooks|TRIAL|
+|[schedules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/schedules/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/schedules|TRIAL|
+|[softwareUpdateConfigurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/softwareUpdateConfigurations/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/softwareUpdateConfigurations|TRIAL|
+|[variables](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/variables/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/variables|TRIAL|
+|[watchers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/watchers/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/watchers|TRIAL|
+|[webhooks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/automationAccounts/webhooks/README.md)|UNKNOWN|Microsoft.Network/automationAccounts/webhooks|TRIAL|
 
 ### Hold
 

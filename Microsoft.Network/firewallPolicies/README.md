@@ -29,19 +29,19 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[basePolicy](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/basePolicy/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/basePolicy|TRIAL|
-|[basePolicy.id](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/basePolicy.id/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/basePolicy.id|TRIAL|
-|[childPolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/childPolicies/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/childPolicies|TRIAL|
-|[childPolicies[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/childPolicies[*]/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/childPolicies[*]|TRIAL|
-|[childPolicies[*].id](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/childPolicies[*].id/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/childPolicies[*].id|TRIAL|
-|[firewalls](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/firewalls/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/firewalls|TRIAL|
-|[firewalls[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/firewalls[*]/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/firewalls[*]|TRIAL|
-|[firewalls[*].id](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/firewalls[*].id/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/firewalls[*].id|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/provisioningState/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/provisioningState|TRIAL|
-|[ruleGroups](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/ruleGroups/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups|TRIAL|
-|[ruleGroups[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/ruleGroups[*]/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups[*]|TRIAL|
-|[ruleGroups[*].id](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/ruleGroups[*].id/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups[*].id|TRIAL|
-|[threatIntelMode](https://github.com/openrba/python-azure-techradar/Microsoft.Network/firewallPolicies/threatIntelMode/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/threatIntelMode|TRIAL|
+|[basePolicy](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/basePolicy/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/basePolicy|TRIAL|
+|[basePolicy.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/basePolicy.id/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/basePolicy.id|TRIAL|
+|[childPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/childPolicies/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/childPolicies|TRIAL|
+|[childPolicies[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/childPolicies[*]/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/childPolicies[*]|TRIAL|
+|[childPolicies[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/childPolicies[*].id/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/childPolicies[*].id|TRIAL|
+|[firewalls](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/firewalls/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/firewalls|TRIAL|
+|[firewalls[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/firewalls[*]/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/firewalls[*]|TRIAL|
+|[firewalls[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/firewalls[*].id/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/firewalls[*].id|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/provisioningState/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/provisioningState|TRIAL|
+|[ruleGroups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups|TRIAL|
+|[ruleGroups[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups[*]/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups[*]|TRIAL|
+|[ruleGroups[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups[*].id/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups[*].id|TRIAL|
+|[threatIntelMode](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/threatIntelMode/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/threatIntelMode|TRIAL|
 
 ### Hold
 

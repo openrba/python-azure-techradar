@@ -29,11 +29,11 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[access](https://github.com/openrba/python-azure-techradar/Microsoft.Network/routeFilters/routeFilterRules/access/README.md)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/access|TRIAL|
-|[communities](https://github.com/openrba/python-azure-techradar/Microsoft.Network/routeFilters/routeFilterRules/communities/README.md)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/communities|TRIAL|
-|[communities[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Network/routeFilters/routeFilterRules/communities[*]/README.md)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/communities[*]|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/Microsoft.Network/routeFilters/routeFilterRules/provisioningState/README.md)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/provisioningState|TRIAL|
-|[routeFilterRuleType](https://github.com/openrba/python-azure-techradar/Microsoft.Network/routeFilters/routeFilterRules/routeFilterRuleType/README.md)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/routeFilterRuleType|TRIAL|
+|[access](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/routeFilters/routeFilterRules/access/README.md)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/access|TRIAL|
+|[communities](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/routeFilters/routeFilterRules/communities/README.md)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/communities|TRIAL|
+|[communities[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/routeFilters/routeFilterRules/communities[*]/README.md)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/communities[*]|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/routeFilters/routeFilterRules/provisioningState/README.md)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/provisioningState|TRIAL|
+|[routeFilterRuleType](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/routeFilters/routeFilterRules/routeFilterRuleType/README.md)|UNKNOWN|Microsoft.Network/routeFilters/routeFilterRules/routeFilterRuleType|TRIAL|
 
 ### Hold
 

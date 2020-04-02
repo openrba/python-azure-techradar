@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[registeredServers](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageSyncServices/registeredServers/README.md)|UNKNOWN|Microsoft.Network/storageSyncServices/registeredServers|TRIAL|
-|[syncGroups](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageSyncServices/syncGroups/README.md)|UNKNOWN|Microsoft.Network/storageSyncServices/syncGroups|TRIAL|
-|[workflows](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageSyncServices/workflows/README.md)|UNKNOWN|Microsoft.Network/storageSyncServices/workflows|TRIAL|
+|[registeredServers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageSyncServices/registeredServers/README.md)|UNKNOWN|Microsoft.Network/storageSyncServices/registeredServers|TRIAL|
+|[syncGroups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageSyncServices/syncGroups/README.md)|UNKNOWN|Microsoft.Network/storageSyncServices/syncGroups|TRIAL|
+|[workflows](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageSyncServices/workflows/README.md)|UNKNOWN|Microsoft.Network/storageSyncServices/workflows|TRIAL|
 
 ### Hold
 

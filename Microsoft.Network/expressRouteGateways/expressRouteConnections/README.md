@@ -29,12 +29,12 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[authorizationKey](https://github.com/openrba/python-azure-techradar/Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey|TRIAL|
-|[enableInternetSecurity](https://github.com/openrba/python-azure-techradar/Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity|TRIAL|
-|[expressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering|TRIAL|
-|[expressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState|TRIAL|
-|[routingWeight](https://github.com/openrba/python-azure-techradar/Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight|TRIAL|
+|[authorizationKey](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey|TRIAL|
+|[enableInternetSecurity](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity|TRIAL|
+|[expressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering|TRIAL|
+|[expressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState|TRIAL|
+|[routingWeight](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight|TRIAL|
 
 ### Hold
 

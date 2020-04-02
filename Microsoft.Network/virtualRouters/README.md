@@ -29,17 +29,17 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[hostedGateway](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/hostedGateway/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/hostedGateway|TRIAL|
-|[hostedGateway.id](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/hostedGateway.id/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/hostedGateway.id|TRIAL|
-|[hostedSubnet](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/hostedSubnet/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/hostedSubnet|TRIAL|
-|[hostedSubnet.id](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/hostedSubnet.id/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/hostedSubnet.id|TRIAL|
-|[peerings](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/peerings/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings|TRIAL|
-|[peerings[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/peerings[*]/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings[*]|TRIAL|
-|[peerings[*].id](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/peerings[*].id/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings[*].id|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/provisioningState/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/provisioningState|TRIAL|
-|[virtualRouterAsn](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/virtualRouterAsn/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/virtualRouterAsn|TRIAL|
-|[virtualRouterIps](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/virtualRouterIps/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/virtualRouterIps|TRIAL|
-|[virtualRouterIps[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/virtualRouterIps[*]/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/virtualRouterIps[*]|TRIAL|
+|[hostedGateway](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/hostedGateway/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/hostedGateway|TRIAL|
+|[hostedGateway.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/hostedGateway.id/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/hostedGateway.id|TRIAL|
+|[hostedSubnet](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/hostedSubnet/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/hostedSubnet|TRIAL|
+|[hostedSubnet.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/hostedSubnet.id/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/hostedSubnet.id|TRIAL|
+|[peerings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/peerings/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings|TRIAL|
+|[peerings[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/peerings[*]/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings[*]|TRIAL|
+|[peerings[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/peerings[*].id/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings[*].id|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/provisioningState/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/provisioningState|TRIAL|
+|[virtualRouterAsn](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/virtualRouterAsn/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/virtualRouterAsn|TRIAL|
+|[virtualRouterIps](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/virtualRouterIps/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/virtualRouterIps|TRIAL|
+|[virtualRouterIps[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/virtualRouterIps[*]/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/virtualRouterIps[*]|TRIAL|
 
 ### Hold
 

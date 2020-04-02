@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[eventSubscriptions](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/systemTopics/eventSubscriptions/README.md)|UNKNOWN|Microsoft.Compute/systemTopics/eventSubscriptions|TRIAL|
+|[eventSubscriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/systemTopics/eventSubscriptions/README.md)|UNKNOWN|Microsoft.Compute/systemTopics/eventSubscriptions|TRIAL|
 
 ### Hold
 

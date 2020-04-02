@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[transfer](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/billingAccounts/invoiceSections/products/transfer/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/products/transfer|TRIAL|
-|[updateAutoRenew](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/billingAccounts/invoiceSections/products/updateAutoRenew/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/products/updateAutoRenew|TRIAL|
+|[transfer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections/products/transfer/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/products/transfer|TRIAL|
+|[updateAutoRenew](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections/products/updateAutoRenew/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/products/updateAutoRenew|TRIAL|
 
 ### Hold
 

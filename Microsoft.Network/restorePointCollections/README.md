@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[restorePoints](https://github.com/openrba/python-azure-techradar/Microsoft.Network/restorePointCollections/restorePoints/README.md)|UNKNOWN|Microsoft.Network/restorePointCollections/restorePoints|TRIAL|
+|[restorePoints](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/restorePointCollections/restorePoints/README.md)|UNKNOWN|Microsoft.Network/restorePointCollections/restorePoints|TRIAL|
 
 ### Hold
 

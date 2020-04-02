@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[transfer](https://github.com/openrba/python-azure-techradar/Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptions/transfer/README.md)|UNKNOWN|Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptions/transfer|TRIAL|
+|[transfer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptions/transfer/README.md)|UNKNOWN|Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptions/transfer|TRIAL|
 
 ### Hold
 

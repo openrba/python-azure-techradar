@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[extensions](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualMachineScaleSets/extensions/README.md)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/extensions|TRIAL|
-|[networkInterfaces](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualMachineScaleSets/networkInterfaces/README.md)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/networkInterfaces|TRIAL|
-|[publicIPAddresses](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualMachineScaleSets/publicIPAddresses/README.md)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/publicIPAddresses|TRIAL|
-|[virtualMachines](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualMachineScaleSets/virtualMachines/README.md)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/virtualMachines|TRIAL|
+|[extensions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachineScaleSets/extensions/README.md)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/extensions|TRIAL|
+|[networkInterfaces](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachineScaleSets/networkInterfaces/README.md)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/networkInterfaces|TRIAL|
+|[publicIPAddresses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachineScaleSets/publicIPAddresses/README.md)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/publicIPAddresses|TRIAL|
+|[virtualMachines](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachineScaleSets/virtualMachines/README.md)|UNKNOWN|Microsoft.Network/virtualMachineScaleSets/virtualMachines|TRIAL|
 
 ### Hold
 

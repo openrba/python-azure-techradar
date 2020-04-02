@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[groups](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/assessmentprojects/groups/README.md)|UNKNOWN|Microsoft.Compute/assessmentprojects/groups|TRIAL|
-|[hypervcollectors](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/assessmentprojects/hypervcollectors/README.md)|UNKNOWN|Microsoft.Compute/assessmentprojects/hypervcollectors|TRIAL|
-|[vmwarecollectors](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/assessmentprojects/vmwarecollectors/README.md)|UNKNOWN|Microsoft.Compute/assessmentprojects/vmwarecollectors|TRIAL|
+|[groups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/assessmentprojects/groups/README.md)|UNKNOWN|Microsoft.Compute/assessmentprojects/groups|TRIAL|
+|[hypervcollectors](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/assessmentprojects/hypervcollectors/README.md)|UNKNOWN|Microsoft.Compute/assessmentprojects/hypervcollectors|TRIAL|
+|[vmwarecollectors](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/assessmentprojects/vmwarecollectors/README.md)|UNKNOWN|Microsoft.Compute/assessmentprojects/vmwarecollectors|TRIAL|
 
 ### Hold
 

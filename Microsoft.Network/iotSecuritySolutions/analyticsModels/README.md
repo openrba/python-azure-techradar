@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[aggregatedAlerts](https://github.com/openrba/python-azure-techradar/Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedAlerts/README.md)|UNKNOWN|Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedAlerts|TRIAL|
-|[aggregatedRecommendations](https://github.com/openrba/python-azure-techradar/Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedRecommendations/README.md)|UNKNOWN|Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedRecommendations|TRIAL|
+|[aggregatedAlerts](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedAlerts/README.md)|UNKNOWN|Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedAlerts|TRIAL|
+|[aggregatedRecommendations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedRecommendations/README.md)|UNKNOWN|Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedRecommendations|TRIAL|
 
 ### Hold
 

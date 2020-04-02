@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[shares](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/storageAccounts/fileServices/shares/README.md)|UNKNOWN|Microsoft.Compute/storageAccounts/fileServices/shares|TRIAL|
+|[shares](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/storageAccounts/fileServices/shares/README.md)|UNKNOWN|Microsoft.Compute/storageAccounts/fileServices/shares|TRIAL|
 
 ### Hold
 

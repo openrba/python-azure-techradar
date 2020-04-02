@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[jobs](https://github.com/openrba/python-azure-techradar/Microsoft.Network/servers/jobAgents/jobs/README.md)|UNKNOWN|Microsoft.Network/servers/jobAgents/jobs|TRIAL|
+|[jobs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/servers/jobAgents/jobs/README.md)|UNKNOWN|Microsoft.Network/servers/jobAgents/jobs|TRIAL|
 
 ### Hold
 

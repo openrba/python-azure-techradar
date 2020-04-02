@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[agentPools](https://github.com/openrba/python-azure-techradar/Microsoft.Network/managedClusters/agentPools/README.md)|UNKNOWN|Microsoft.Network/managedClusters/agentPools|TRIAL|
+|[agentPools](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedClusters/agentPools/README.md)|UNKNOWN|Microsoft.Network/managedClusters/agentPools|TRIAL|
 
 ### Hold
 

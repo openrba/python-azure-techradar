@@ -29,13 +29,13 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[availableScopes](https://github.com/openrba/python-azure-techradar/Microsoft.Network/reservationOrders/availableScopes/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/availableScopes|TRIAL|
-|[calculateRefund](https://github.com/openrba/python-azure-techradar/Microsoft.Network/reservationOrders/calculateRefund/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/calculateRefund|TRIAL|
-|[merge](https://github.com/openrba/python-azure-techradar/Microsoft.Network/reservationOrders/merge/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/merge|TRIAL|
-|[reservations](https://github.com/openrba/python-azure-techradar/Microsoft.Network/reservationOrders/reservations/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/reservations|TRIAL|
-|[return](https://github.com/openrba/python-azure-techradar/Microsoft.Network/reservationOrders/return/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/return|TRIAL|
-|[split](https://github.com/openrba/python-azure-techradar/Microsoft.Network/reservationOrders/split/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/split|TRIAL|
-|[swap](https://github.com/openrba/python-azure-techradar/Microsoft.Network/reservationOrders/swap/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/swap|TRIAL|
+|[availableScopes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/reservationOrders/availableScopes/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/availableScopes|TRIAL|
+|[calculateRefund](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/reservationOrders/calculateRefund/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/calculateRefund|TRIAL|
+|[merge](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/reservationOrders/merge/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/merge|TRIAL|
+|[reservations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/reservationOrders/reservations/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/reservations|TRIAL|
+|[return](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/reservationOrders/return/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/return|TRIAL|
+|[split](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/reservationOrders/split/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/split|TRIAL|
+|[swap](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/reservationOrders/swap/README.md)|UNKNOWN|Microsoft.Network/reservationOrders/swap|TRIAL|
 
 ### Hold
 

@@ -29,12 +29,12 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[accessControlRecords](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/managers/accessControlRecords/README.md)|UNKNOWN|Microsoft.Compute/managers/accessControlRecords|TRIAL|
-|[bandwidthSettings](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/managers/bandwidthSettings/README.md)|UNKNOWN|Microsoft.Compute/managers/bandwidthSettings|TRIAL|
-|[devices](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/managers/devices/README.md)|UNKNOWN|Microsoft.Compute/managers/devices|TRIAL|
-|[extendedInformation](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/managers/extendedInformation/README.md)|UNKNOWN|Microsoft.Compute/managers/extendedInformation|TRIAL|
-|[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/managers/storageAccountCredentials/README.md)|UNKNOWN|Microsoft.Compute/managers/storageAccountCredentials|TRIAL|
-|[storageDomains](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/managers/storageDomains/README.md)|UNKNOWN|Microsoft.Compute/managers/storageDomains|TRIAL|
+|[accessControlRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managers/accessControlRecords/README.md)|UNKNOWN|Microsoft.Compute/managers/accessControlRecords|TRIAL|
+|[bandwidthSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managers/bandwidthSettings/README.md)|UNKNOWN|Microsoft.Compute/managers/bandwidthSettings|TRIAL|
+|[devices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managers/devices/README.md)|UNKNOWN|Microsoft.Compute/managers/devices|TRIAL|
+|[extendedInformation](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managers/extendedInformation/README.md)|UNKNOWN|Microsoft.Compute/managers/extendedInformation|TRIAL|
+|[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managers/storageAccountCredentials/README.md)|UNKNOWN|Microsoft.Compute/managers/storageAccountCredentials|TRIAL|
+|[storageDomains](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/managers/storageDomains/README.md)|UNKNOWN|Microsoft.Compute/managers/storageDomains|TRIAL|
 
 ### Hold
 

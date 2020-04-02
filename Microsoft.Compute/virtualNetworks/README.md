@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[remoteVirtualNetworkPeeringProxies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/virtualNetworks/remoteVirtualNetworkPeeringProxies/README.md)|UNKNOWN|Microsoft.Compute/virtualNetworks/remoteVirtualNetworkPeeringProxies|TRIAL|
-|[subnets](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/virtualNetworks/subnets/README.md)|UNKNOWN|Microsoft.Compute/virtualNetworks/subnets|TRIAL|
-|[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/virtualNetworks/virtualNetworkPeerings/README.md)|UNKNOWN|Microsoft.Compute/virtualNetworks/virtualNetworkPeerings|TRIAL|
+|[remoteVirtualNetworkPeeringProxies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualNetworks/remoteVirtualNetworkPeeringProxies/README.md)|UNKNOWN|Microsoft.Compute/virtualNetworks/remoteVirtualNetworkPeeringProxies|TRIAL|
+|[subnets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualNetworks/subnets/README.md)|UNKNOWN|Microsoft.Compute/virtualNetworks/subnets|TRIAL|
+|[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualNetworks/virtualNetworkPeerings/README.md)|UNKNOWN|Microsoft.Compute/virtualNetworks/virtualNetworkPeerings|TRIAL|
 
 ### Hold
 

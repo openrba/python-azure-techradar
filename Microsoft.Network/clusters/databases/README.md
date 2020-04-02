@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[dataconnections](https://github.com/openrba/python-azure-techradar/Microsoft.Network/clusters/databases/dataconnections/README.md)|UNKNOWN|Microsoft.Network/clusters/databases/dataconnections|TRIAL|
-|[eventhubconnections](https://github.com/openrba/python-azure-techradar/Microsoft.Network/clusters/databases/eventhubconnections/README.md)|UNKNOWN|Microsoft.Network/clusters/databases/eventhubconnections|TRIAL|
-|[principalassignments](https://github.com/openrba/python-azure-techradar/Microsoft.Network/clusters/databases/principalassignments/README.md)|UNKNOWN|Microsoft.Network/clusters/databases/principalassignments|TRIAL|
+|[dataconnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/clusters/databases/dataconnections/README.md)|UNKNOWN|Microsoft.Network/clusters/databases/dataconnections|TRIAL|
+|[eventhubconnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/clusters/databases/eventhubconnections/README.md)|UNKNOWN|Microsoft.Network/clusters/databases/eventhubconnections|TRIAL|
+|[principalassignments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/clusters/databases/principalassignments/README.md)|UNKNOWN|Microsoft.Network/clusters/databases/principalassignments|TRIAL|
 
 ### Hold
 

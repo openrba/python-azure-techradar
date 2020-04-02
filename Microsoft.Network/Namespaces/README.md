@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[AuthorizationRules](https://github.com/openrba/python-azure-techradar/Microsoft.Network/Namespaces/AuthorizationRules/README.md)|UNKNOWN|Microsoft.Network/Namespaces/AuthorizationRules|TRIAL|
+|[AuthorizationRules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/Namespaces/AuthorizationRules/README.md)|UNKNOWN|Microsoft.Network/Namespaces/AuthorizationRules|TRIAL|
 
 ### Hold
 

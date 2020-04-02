@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[liveOutputs](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/liveEvents/liveOutputs/README.md)|UNKNOWN|Microsoft.Network/mediaservices/liveEvents/liveOutputs|TRIAL|
+|[liveOutputs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/liveEvents/liveOutputs/README.md)|UNKNOWN|Microsoft.Network/mediaservices/liveEvents/liveOutputs|TRIAL|
 
 ### Hold
 

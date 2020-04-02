@@ -29,14 +29,14 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[diagnostics](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/apis/diagnostics/README.md)|UNKNOWN|Microsoft.Network/service/apis/diagnostics|TRIAL|
-|[issues](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/apis/issues/README.md)|UNKNOWN|Microsoft.Network/service/apis/issues|TRIAL|
-|[operations](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/apis/operations/README.md)|UNKNOWN|Microsoft.Network/service/apis/operations|TRIAL|
-|[policies](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/apis/policies/README.md)|UNKNOWN|Microsoft.Network/service/apis/policies|TRIAL|
-|[releases](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/apis/releases/README.md)|UNKNOWN|Microsoft.Network/service/apis/releases|TRIAL|
-|[schemas](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/apis/schemas/README.md)|UNKNOWN|Microsoft.Network/service/apis/schemas|TRIAL|
-|[tagDescriptions](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/apis/tagDescriptions/README.md)|UNKNOWN|Microsoft.Network/service/apis/tagDescriptions|TRIAL|
-|[tags](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/apis/tags/README.md)|UNKNOWN|Microsoft.Network/service/apis/tags|TRIAL|
+|[diagnostics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/diagnostics/README.md)|UNKNOWN|Microsoft.Network/service/apis/diagnostics|TRIAL|
+|[issues](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/issues/README.md)|UNKNOWN|Microsoft.Network/service/apis/issues|TRIAL|
+|[operations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/operations/README.md)|UNKNOWN|Microsoft.Network/service/apis/operations|TRIAL|
+|[policies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/policies/README.md)|UNKNOWN|Microsoft.Network/service/apis/policies|TRIAL|
+|[releases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/releases/README.md)|UNKNOWN|Microsoft.Network/service/apis/releases|TRIAL|
+|[schemas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/schemas/README.md)|UNKNOWN|Microsoft.Network/service/apis/schemas|TRIAL|
+|[tagDescriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/tagDescriptions/README.md)|UNKNOWN|Microsoft.Network/service/apis/tagDescriptions|TRIAL|
+|[tags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/tags/README.md)|UNKNOWN|Microsoft.Network/service/apis/tags|TRIAL|
 
 ### Hold
 

@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[schedules](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/labs/virtualMachines/schedules/README.md)|UNKNOWN|Microsoft.Compute/labs/virtualMachines/schedules|TRIAL|
+|[schedules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/labs/virtualMachines/schedules/README.md)|UNKNOWN|Microsoft.Compute/labs/virtualMachines/schedules|TRIAL|
 
 ### Hold
 

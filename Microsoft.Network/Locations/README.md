@@ -29,11 +29,11 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[OperationStatuses](https://github.com/openrba/python-azure-techradar/Microsoft.Network/Locations/OperationStatuses/README.md)|UNKNOWN|Microsoft.Network/Locations/OperationStatuses|TRIAL|
-|[OperationTypes](https://github.com/openrba/python-azure-techradar/Microsoft.Network/Locations/OperationTypes/README.md)|UNKNOWN|Microsoft.Network/Locations/OperationTypes|TRIAL|
-|[availabilityGroupListenerOperationResults](https://github.com/openrba/python-azure-techradar/Microsoft.Network/Locations/availabilityGroupListenerOperationResults/README.md)|UNKNOWN|Microsoft.Network/Locations/availabilityGroupListenerOperationResults|TRIAL|
-|[sqlVirtualMachineGroupOperationResults](https://github.com/openrba/python-azure-techradar/Microsoft.Network/Locations/sqlVirtualMachineGroupOperationResults/README.md)|UNKNOWN|Microsoft.Network/Locations/sqlVirtualMachineGroupOperationResults|TRIAL|
-|[sqlVirtualMachineOperationResults](https://github.com/openrba/python-azure-techradar/Microsoft.Network/Locations/sqlVirtualMachineOperationResults/README.md)|UNKNOWN|Microsoft.Network/Locations/sqlVirtualMachineOperationResults|TRIAL|
+|[OperationStatuses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/Locations/OperationStatuses/README.md)|UNKNOWN|Microsoft.Network/Locations/OperationStatuses|TRIAL|
+|[OperationTypes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/Locations/OperationTypes/README.md)|UNKNOWN|Microsoft.Network/Locations/OperationTypes|TRIAL|
+|[availabilityGroupListenerOperationResults](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/Locations/availabilityGroupListenerOperationResults/README.md)|UNKNOWN|Microsoft.Network/Locations/availabilityGroupListenerOperationResults|TRIAL|
+|[sqlVirtualMachineGroupOperationResults](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/Locations/sqlVirtualMachineGroupOperationResults/README.md)|UNKNOWN|Microsoft.Network/Locations/sqlVirtualMachineGroupOperationResults|TRIAL|
+|[sqlVirtualMachineOperationResults](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/Locations/sqlVirtualMachineOperationResults/README.md)|UNKNOWN|Microsoft.Network/Locations/sqlVirtualMachineOperationResults|TRIAL|
 
 ### Hold
 

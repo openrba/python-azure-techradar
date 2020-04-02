@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[securityRules](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/networkSecurityGroups/securityRules/README.md)|UNKNOWN|Microsoft.Compute/networkSecurityGroups/securityRules|TRIAL|
+|[securityRules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkSecurityGroups/securityRules/README.md)|UNKNOWN|Microsoft.Compute/networkSecurityGroups/securityRules|TRIAL|
 
 ### Hold
 

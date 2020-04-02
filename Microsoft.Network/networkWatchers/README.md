@@ -29,11 +29,11 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[connectionMonitors](https://github.com/openrba/python-azure-techradar/Microsoft.Network/networkWatchers/connectionMonitors/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/connectionMonitors|TRIAL|
-|[flowLogs](https://github.com/openrba/python-azure-techradar/Microsoft.Network/networkWatchers/flowLogs/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/flowLogs|TRIAL|
-|[packetCaptures](https://github.com/openrba/python-azure-techradar/Microsoft.Network/networkWatchers/packetCaptures/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures|TRIAL|
-|[pingMeshes](https://github.com/openrba/python-azure-techradar/Microsoft.Network/networkWatchers/pingMeshes/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/pingMeshes|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/Microsoft.Network/networkWatchers/provisioningState/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/provisioningState|TRIAL|
+|[connectionMonitors](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/connectionMonitors/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/connectionMonitors|TRIAL|
+|[flowLogs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/flowLogs/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/flowLogs|TRIAL|
+|[packetCaptures](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures|TRIAL|
+|[pingMeshes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/pingMeshes/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/pingMeshes|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/provisioningState/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/provisioningState|TRIAL|
 
 ### Hold
 

@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[datasets](https://github.com/openrba/python-azure-techradar/Microsoft.Network/accounts/shares/datasets/README.md)|UNKNOWN|Microsoft.Network/accounts/shares/datasets|TRIAL|
-|[invitations](https://github.com/openrba/python-azure-techradar/Microsoft.Network/accounts/shares/invitations/README.md)|UNKNOWN|Microsoft.Network/accounts/shares/invitations|TRIAL|
-|[providersharesubscriptions](https://github.com/openrba/python-azure-techradar/Microsoft.Network/accounts/shares/providersharesubscriptions/README.md)|UNKNOWN|Microsoft.Network/accounts/shares/providersharesubscriptions|TRIAL|
-|[synchronizationSettings](https://github.com/openrba/python-azure-techradar/Microsoft.Network/accounts/shares/synchronizationSettings/README.md)|UNKNOWN|Microsoft.Network/accounts/shares/synchronizationSettings|TRIAL|
+|[datasets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/accounts/shares/datasets/README.md)|UNKNOWN|Microsoft.Network/accounts/shares/datasets|TRIAL|
+|[invitations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/accounts/shares/invitations/README.md)|UNKNOWN|Microsoft.Network/accounts/shares/invitations|TRIAL|
+|[providersharesubscriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/accounts/shares/providersharesubscriptions/README.md)|UNKNOWN|Microsoft.Network/accounts/shares/providersharesubscriptions|TRIAL|
+|[synchronizationSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/accounts/shares/synchronizationSettings/README.md)|UNKNOWN|Microsoft.Network/accounts/shares/synchronizationSettings|TRIAL|
 
 ### Hold
 

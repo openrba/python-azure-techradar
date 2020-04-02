@@ -29,17 +29,17 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[protocolCustomSettings](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings|TRIAL|
-|[protocolCustomSettings[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*]/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*]|TRIAL|
-|[protocolCustomSettings[*].protocol](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].protocol/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].protocol|TRIAL|
-|[protocolCustomSettings[*].sourceRateOverride](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].sourceRateOverride/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].sourceRateOverride|TRIAL|
-|[protocolCustomSettings[*].triggerRateOverride](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerRateOverride/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerRateOverride|TRIAL|
-|[protocolCustomSettings[*].triggerSensitivityOverride](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerSensitivityOverride/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerSensitivityOverride|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosCustomPolicies/provisioningState/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/provisioningState|TRIAL|
-|[publicIPAddresses](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosCustomPolicies/publicIPAddresses/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/publicIPAddresses|TRIAL|
-|[publicIPAddresses[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*]/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*]|TRIAL|
-|[publicIPAddresses[*].id](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*].id/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*].id|TRIAL|
-|[resourceGuid](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosCustomPolicies/resourceGuid/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/resourceGuid|TRIAL|
+|[protocolCustomSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings|TRIAL|
+|[protocolCustomSettings[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*]/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*]|TRIAL|
+|[protocolCustomSettings[*].protocol](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].protocol/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].protocol|TRIAL|
+|[protocolCustomSettings[*].sourceRateOverride](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].sourceRateOverride/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].sourceRateOverride|TRIAL|
+|[protocolCustomSettings[*].triggerRateOverride](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerRateOverride/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerRateOverride|TRIAL|
+|[protocolCustomSettings[*].triggerSensitivityOverride](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerSensitivityOverride/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerSensitivityOverride|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/provisioningState/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/provisioningState|TRIAL|
+|[publicIPAddresses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/publicIPAddresses/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/publicIPAddresses|TRIAL|
+|[publicIPAddresses[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*]/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*]|TRIAL|
+|[publicIPAddresses[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*].id/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*].id|TRIAL|
+|[resourceGuid](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/resourceGuid/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/resourceGuid|TRIAL|
 
 ### Hold
 

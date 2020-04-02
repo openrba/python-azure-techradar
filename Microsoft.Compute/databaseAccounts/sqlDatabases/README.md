@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[containers](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/databaseAccounts/sqlDatabases/containers/README.md)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases/containers|TRIAL|
-|[throughputSettings](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/databaseAccounts/sqlDatabases/throughputSettings/README.md)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases/throughputSettings|TRIAL|
+|[containers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/sqlDatabases/containers/README.md)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases/containers|TRIAL|
+|[throughputSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/sqlDatabases/throughputSettings/README.md)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases/throughputSettings|TRIAL|
 
 ### Hold
 

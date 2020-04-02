@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[workloadClassifiers](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/workloadGroups/workloadClassifiers/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/workloadGroups/workloadClassifiers|TRIAL|
+|[workloadClassifiers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/workloadGroups/workloadClassifiers/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/workloadGroups/workloadClassifiers|TRIAL|
 
 ### Hold
 

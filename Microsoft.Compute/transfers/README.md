@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[acceptTransfer](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/transfers/acceptTransfer/README.md)|UNKNOWN|Microsoft.Compute/transfers/acceptTransfer|TRIAL|
-|[declineTransfer](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/transfers/declineTransfer/README.md)|UNKNOWN|Microsoft.Compute/transfers/declineTransfer|TRIAL|
-|[operationStatus](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/transfers/operationStatus/README.md)|UNKNOWN|Microsoft.Compute/transfers/operationStatus|TRIAL|
-|[validateTransfer](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/transfers/validateTransfer/README.md)|UNKNOWN|Microsoft.Compute/transfers/validateTransfer|TRIAL|
+|[acceptTransfer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/transfers/acceptTransfer/README.md)|UNKNOWN|Microsoft.Compute/transfers/acceptTransfer|TRIAL|
+|[declineTransfer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/transfers/declineTransfer/README.md)|UNKNOWN|Microsoft.Compute/transfers/declineTransfer|TRIAL|
+|[operationStatus](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/transfers/operationStatus/README.md)|UNKNOWN|Microsoft.Compute/transfers/operationStatus|TRIAL|
+|[validateTransfer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/transfers/validateTransfer/README.md)|UNKNOWN|Microsoft.Compute/transfers/validateTransfer|TRIAL|
 
 ### Hold
 

@@ -29,16 +29,16 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[billingSubscriptionMoveOperations](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptionMoveOperations/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptionMoveOperations|TRIAL|
-|[billingSubscriptions](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptions/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptions|TRIAL|
-|[elevate](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/billingAccounts/invoiceSections/elevate/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/elevate|TRIAL|
-|[initiateTransfer](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/billingAccounts/invoiceSections/initiateTransfer/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/initiateTransfer|TRIAL|
-|[patchOperations](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/billingAccounts/invoiceSections/patchOperations/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/patchOperations|TRIAL|
-|[productMoveOperations](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/billingAccounts/invoiceSections/productMoveOperations/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/productMoveOperations|TRIAL|
-|[productTransfersResults](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/billingAccounts/invoiceSections/productTransfersResults/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/productTransfersResults|TRIAL|
-|[products](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/billingAccounts/invoiceSections/products/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/products|TRIAL|
-|[transactions](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/billingAccounts/invoiceSections/transactions/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/transactions|TRIAL|
-|[transfers](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/billingAccounts/invoiceSections/transfers/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/transfers|TRIAL|
+|[billingSubscriptionMoveOperations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptionMoveOperations/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptionMoveOperations|TRIAL|
+|[billingSubscriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptions/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptions|TRIAL|
+|[elevate](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections/elevate/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/elevate|TRIAL|
+|[initiateTransfer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections/initiateTransfer/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/initiateTransfer|TRIAL|
+|[patchOperations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections/patchOperations/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/patchOperations|TRIAL|
+|[productMoveOperations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections/productMoveOperations/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/productMoveOperations|TRIAL|
+|[productTransfersResults](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections/productTransfersResults/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/productTransfersResults|TRIAL|
+|[products](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections/products/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/products|TRIAL|
+|[transactions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections/transactions/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/transactions|TRIAL|
+|[transfers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/billingAccounts/invoiceSections/transfers/README.md)|UNKNOWN|Microsoft.Compute/billingAccounts/invoiceSections/transfers|TRIAL|
 
 ### Hold
 

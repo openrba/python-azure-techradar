@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[diagnosticSettings](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualMachines/diagnosticSettings/README.md)|UNKNOWN|Microsoft.Network/virtualMachines/diagnosticSettings|TRIAL|
-|[extensions](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualMachines/extensions/README.md)|UNKNOWN|Microsoft.Network/virtualMachines/extensions|TRIAL|
-|[metricDefinitions](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualMachines/metricDefinitions/README.md)|UNKNOWN|Microsoft.Network/virtualMachines/metricDefinitions|TRIAL|
-|[metrics](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualMachines/metrics/README.md)|UNKNOWN|Microsoft.Network/virtualMachines/metrics|TRIAL|
+|[diagnosticSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachines/diagnosticSettings/README.md)|UNKNOWN|Microsoft.Network/virtualMachines/diagnosticSettings|TRIAL|
+|[extensions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachines/extensions/README.md)|UNKNOWN|Microsoft.Network/virtualMachines/extensions|TRIAL|
+|[metricDefinitions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachines/metricDefinitions/README.md)|UNKNOWN|Microsoft.Network/virtualMachines/metricDefinitions|TRIAL|
+|[metrics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualMachines/metrics/README.md)|UNKNOWN|Microsoft.Network/virtualMachines/metrics|TRIAL|
 
 ### Hold
 

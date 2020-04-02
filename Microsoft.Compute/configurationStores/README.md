@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/configurationStores/eventGridFilters/README.md)|UNKNOWN|Microsoft.Compute/configurationStores/eventGridFilters|TRIAL|
-|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/configurationStores/privateEndpointConnections/README.md)|UNKNOWN|Microsoft.Compute/configurationStores/privateEndpointConnections|TRIAL|
+|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/configurationStores/eventGridFilters/README.md)|UNKNOWN|Microsoft.Compute/configurationStores/eventGridFilters|TRIAL|
+|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/configurationStores/privateEndpointConnections/README.md)|UNKNOWN|Microsoft.Compute/configurationStores/privateEndpointConnections|TRIAL|
 
 ### Hold
 

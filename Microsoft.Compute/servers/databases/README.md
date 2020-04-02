@@ -29,31 +29,31 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[VulnerabilityAssessment](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/VulnerabilityAssessment/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/VulnerabilityAssessment|TRIAL|
-|[VulnerabilityAssessmentScans](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/VulnerabilityAssessmentScans/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/VulnerabilityAssessmentScans|TRIAL|
-|[VulnerabilityAssessmentSettings](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/VulnerabilityAssessmentSettings/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/VulnerabilityAssessmentSettings|TRIAL|
-|[advisors](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/advisors/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/advisors|TRIAL|
-|[auditRecords](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/auditRecords/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/auditRecords|TRIAL|
-|[auditingPolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/auditingPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/auditingPolicies|TRIAL|
-|[auditingSettings](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/auditingSettings/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/auditingSettings|TRIAL|
-|[automaticTuning](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/automaticTuning/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/automaticTuning|TRIAL|
-|[backupLongTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/backupLongTermRetentionPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/backupLongTermRetentionPolicies|TRIAL|
-|[backupShortTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/backupShortTermRetentionPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/backupShortTermRetentionPolicies|TRIAL|
-|[connectionPolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/connectionPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/connectionPolicies|TRIAL|
-|[dataMaskingPolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/dataMaskingPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/dataMaskingPolicies|TRIAL|
-|[extendedAuditingSettings](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/extendedAuditingSettings/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/extendedAuditingSettings|TRIAL|
-|[extensions](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/extensions/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/extensions|TRIAL|
-|[geoBackupPolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/geoBackupPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/geoBackupPolicies|TRIAL|
-|[metricDefinitions](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/metricDefinitions/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/metricDefinitions|TRIAL|
-|[metrics](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/metrics/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/metrics|TRIAL|
-|[recommendedSensitivityLabels](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/recommendedSensitivityLabels/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/recommendedSensitivityLabels|TRIAL|
-|[schemas](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/schemas/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/schemas|TRIAL|
-|[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/securityAlertPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/securityAlertPolicies|TRIAL|
-|[syncGroups](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/syncGroups/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/syncGroups|TRIAL|
-|[topQueries](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/topQueries/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/topQueries|TRIAL|
-|[transparentDataEncryption](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/transparentDataEncryption/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/transparentDataEncryption|TRIAL|
-|[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/vulnerabilityAssessments/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/vulnerabilityAssessments|TRIAL|
-|[workloadGroups](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/servers/databases/workloadGroups/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/workloadGroups|TRIAL|
+|[VulnerabilityAssessment](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/VulnerabilityAssessment/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/VulnerabilityAssessment|TRIAL|
+|[VulnerabilityAssessmentScans](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/VulnerabilityAssessmentScans/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/VulnerabilityAssessmentScans|TRIAL|
+|[VulnerabilityAssessmentSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/VulnerabilityAssessmentSettings/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/VulnerabilityAssessmentSettings|TRIAL|
+|[advisors](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/advisors/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/advisors|TRIAL|
+|[auditRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/auditRecords/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/auditRecords|TRIAL|
+|[auditingPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/auditingPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/auditingPolicies|TRIAL|
+|[auditingSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/auditingSettings/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/auditingSettings|TRIAL|
+|[automaticTuning](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/automaticTuning/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/automaticTuning|TRIAL|
+|[backupLongTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/backupLongTermRetentionPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/backupLongTermRetentionPolicies|TRIAL|
+|[backupShortTermRetentionPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/backupShortTermRetentionPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/backupShortTermRetentionPolicies|TRIAL|
+|[connectionPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/connectionPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/connectionPolicies|TRIAL|
+|[dataMaskingPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/dataMaskingPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/dataMaskingPolicies|TRIAL|
+|[extendedAuditingSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/extendedAuditingSettings/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/extendedAuditingSettings|TRIAL|
+|[extensions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/extensions/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/extensions|TRIAL|
+|[geoBackupPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/geoBackupPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/geoBackupPolicies|TRIAL|
+|[metricDefinitions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/metricDefinitions/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/metricDefinitions|TRIAL|
+|[metrics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/metrics/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/metrics|TRIAL|
+|[recommendedSensitivityLabels](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/recommendedSensitivityLabels/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/recommendedSensitivityLabels|TRIAL|
+|[schemas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/schemas/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/schemas|TRIAL|
+|[securityAlertPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/securityAlertPolicies/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/securityAlertPolicies|TRIAL|
+|[syncGroups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/syncGroups/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/syncGroups|TRIAL|
+|[topQueries](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/topQueries/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/topQueries|TRIAL|
+|[transparentDataEncryption](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/transparentDataEncryption/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/transparentDataEncryption|TRIAL|
+|[vulnerabilityAssessments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/vulnerabilityAssessments/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/vulnerabilityAssessments|TRIAL|
+|[workloadGroups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/servers/databases/workloadGroups/README.md)|UNKNOWN|Microsoft.Compute/servers/databases/workloadGroups|TRIAL|
 
 ### Hold
 

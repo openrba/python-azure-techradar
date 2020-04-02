@@ -29,11 +29,11 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[provisioningState](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosProtectionPlans/provisioningState/README.md)|UNKNOWN|Microsoft.Network/ddosProtectionPlans/provisioningState|TRIAL|
-|[resourceGuid](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosProtectionPlans/resourceGuid/README.md)|UNKNOWN|Microsoft.Network/ddosProtectionPlans/resourceGuid|TRIAL|
-|[virtualNetworks](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosProtectionPlans/virtualNetworks/README.md)|UNKNOWN|Microsoft.Network/ddosProtectionPlans/virtualNetworks|TRIAL|
-|[virtualNetworks[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]/README.md)|UNKNOWN|Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]|TRIAL|
-|[virtualNetworks[*].id](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id/README.md)|UNKNOWN|Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosProtectionPlans/provisioningState/README.md)|UNKNOWN|Microsoft.Network/ddosProtectionPlans/provisioningState|TRIAL|
+|[resourceGuid](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosProtectionPlans/resourceGuid/README.md)|UNKNOWN|Microsoft.Network/ddosProtectionPlans/resourceGuid|TRIAL|
+|[virtualNetworks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosProtectionPlans/virtualNetworks/README.md)|UNKNOWN|Microsoft.Network/ddosProtectionPlans/virtualNetworks|TRIAL|
+|[virtualNetworks[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]/README.md)|UNKNOWN|Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]|TRIAL|
+|[virtualNetworks[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id/README.md)|UNKNOWN|Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id|TRIAL|
 
 ### Hold
 

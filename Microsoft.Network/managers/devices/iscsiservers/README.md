@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[disks](https://github.com/openrba/python-azure-techradar/Microsoft.Network/managers/devices/iscsiservers/disks/README.md)|UNKNOWN|Microsoft.Network/managers/devices/iscsiservers/disks|TRIAL|
+|[disks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/devices/iscsiservers/disks/README.md)|UNKNOWN|Microsoft.Network/managers/devices/iscsiservers/disks|TRIAL|
 
 ### Hold
 

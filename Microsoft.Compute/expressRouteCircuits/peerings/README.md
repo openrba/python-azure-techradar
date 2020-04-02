@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[connections](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/expressRouteCircuits/peerings/connections/README.md)|UNKNOWN|Microsoft.Compute/expressRouteCircuits/peerings/connections|TRIAL|
+|[connections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/expressRouteCircuits/peerings/connections/README.md)|UNKNOWN|Microsoft.Compute/expressRouteCircuits/peerings/connections|TRIAL|
 
 ### Hold
 

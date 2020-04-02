@@ -29,25 +29,25 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[apiVersionSets](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/apiVersionSets/README.md)|UNKNOWN|Microsoft.Network/service/apiVersionSets|TRIAL|
-|[apis](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/apis/README.md)|UNKNOWN|Microsoft.Network/service/apis|TRIAL|
-|[authorizationServers](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/authorizationServers/README.md)|UNKNOWN|Microsoft.Network/service/authorizationServers|TRIAL|
-|[backends](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/backends/README.md)|UNKNOWN|Microsoft.Network/service/backends|TRIAL|
-|[caches](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/caches/README.md)|UNKNOWN|Microsoft.Network/service/caches|TRIAL|
-|[diagnostics](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/diagnostics/README.md)|UNKNOWN|Microsoft.Network/service/diagnostics|TRIAL|
-|[groups](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/groups/README.md)|UNKNOWN|Microsoft.Network/service/groups|TRIAL|
-|[identityProviders](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/identityProviders/README.md)|UNKNOWN|Microsoft.Network/service/identityProviders|TRIAL|
-|[loggers](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/loggers/README.md)|UNKNOWN|Microsoft.Network/service/loggers|TRIAL|
-|[notifications](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/notifications/README.md)|UNKNOWN|Microsoft.Network/service/notifications|TRIAL|
-|[openidConnectProviders](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/openidConnectProviders/README.md)|UNKNOWN|Microsoft.Network/service/openidConnectProviders|TRIAL|
-|[policies](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/policies/README.md)|UNKNOWN|Microsoft.Network/service/policies|TRIAL|
-|[portalsettings](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/portalsettings/README.md)|UNKNOWN|Microsoft.Network/service/portalsettings|TRIAL|
-|[products](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/products/README.md)|UNKNOWN|Microsoft.Network/service/products|TRIAL|
-|[properties](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/properties/README.md)|UNKNOWN|Microsoft.Network/service/properties|TRIAL|
-|[subscriptions](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/subscriptions/README.md)|UNKNOWN|Microsoft.Network/service/subscriptions|TRIAL|
-|[tags](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/tags/README.md)|UNKNOWN|Microsoft.Network/service/tags|TRIAL|
-|[templates](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/templates/README.md)|UNKNOWN|Microsoft.Network/service/templates|TRIAL|
-|[users](https://github.com/openrba/python-azure-techradar/Microsoft.Network/service/users/README.md)|UNKNOWN|Microsoft.Network/service/users|TRIAL|
+|[apiVersionSets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apiVersionSets/README.md)|UNKNOWN|Microsoft.Network/service/apiVersionSets|TRIAL|
+|[apis](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/README.md)|UNKNOWN|Microsoft.Network/service/apis|TRIAL|
+|[authorizationServers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/authorizationServers/README.md)|UNKNOWN|Microsoft.Network/service/authorizationServers|TRIAL|
+|[backends](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/backends/README.md)|UNKNOWN|Microsoft.Network/service/backends|TRIAL|
+|[caches](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/caches/README.md)|UNKNOWN|Microsoft.Network/service/caches|TRIAL|
+|[diagnostics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/diagnostics/README.md)|UNKNOWN|Microsoft.Network/service/diagnostics|TRIAL|
+|[groups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/groups/README.md)|UNKNOWN|Microsoft.Network/service/groups|TRIAL|
+|[identityProviders](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/identityProviders/README.md)|UNKNOWN|Microsoft.Network/service/identityProviders|TRIAL|
+|[loggers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/loggers/README.md)|UNKNOWN|Microsoft.Network/service/loggers|TRIAL|
+|[notifications](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/notifications/README.md)|UNKNOWN|Microsoft.Network/service/notifications|TRIAL|
+|[openidConnectProviders](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/openidConnectProviders/README.md)|UNKNOWN|Microsoft.Network/service/openidConnectProviders|TRIAL|
+|[policies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/policies/README.md)|UNKNOWN|Microsoft.Network/service/policies|TRIAL|
+|[portalsettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/portalsettings/README.md)|UNKNOWN|Microsoft.Network/service/portalsettings|TRIAL|
+|[products](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/products/README.md)|UNKNOWN|Microsoft.Network/service/products|TRIAL|
+|[properties](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/properties/README.md)|UNKNOWN|Microsoft.Network/service/properties|TRIAL|
+|[subscriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/subscriptions/README.md)|UNKNOWN|Microsoft.Network/service/subscriptions|TRIAL|
+|[tags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/tags/README.md)|UNKNOWN|Microsoft.Network/service/tags|TRIAL|
+|[templates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/templates/README.md)|UNKNOWN|Microsoft.Network/service/templates|TRIAL|
+|[users](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/users/README.md)|UNKNOWN|Microsoft.Network/service/users|TRIAL|
 
 ### Hold
 

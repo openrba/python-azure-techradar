@@ -29,18 +29,18 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[blobServices](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageAccounts/blobServices/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/blobServices|TRIAL|
-|[fileServices](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageAccounts/fileServices/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/fileServices|TRIAL|
-|[listAccountSas](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageAccounts/listAccountSas/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/listAccountSas|TRIAL|
-|[listServiceSas](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageAccounts/listServiceSas/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/listServiceSas|TRIAL|
-|[managementPolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageAccounts/managementPolicies/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/managementPolicies|TRIAL|
-|[metricDefinitions](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageAccounts/metricDefinitions/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/metricDefinitions|TRIAL|
-|[metrics](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageAccounts/metrics/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/metrics|TRIAL|
-|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageAccounts/privateEndpointConnections/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/privateEndpointConnections|TRIAL|
-|[queueServices](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageAccounts/queueServices/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/queueServices|TRIAL|
-|[services](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageAccounts/services/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/services|TRIAL|
-|[tableServices](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageAccounts/tableServices/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/tableServices|TRIAL|
-|[vmImages](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageAccounts/vmImages/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/vmImages|TRIAL|
+|[blobServices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageAccounts/blobServices/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/blobServices|TRIAL|
+|[fileServices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageAccounts/fileServices/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/fileServices|TRIAL|
+|[listAccountSas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageAccounts/listAccountSas/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/listAccountSas|TRIAL|
+|[listServiceSas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageAccounts/listServiceSas/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/listServiceSas|TRIAL|
+|[managementPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageAccounts/managementPolicies/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/managementPolicies|TRIAL|
+|[metricDefinitions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageAccounts/metricDefinitions/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/metricDefinitions|TRIAL|
+|[metrics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageAccounts/metrics/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/metrics|TRIAL|
+|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageAccounts/privateEndpointConnections/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/privateEndpointConnections|TRIAL|
+|[queueServices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageAccounts/queueServices/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/queueServices|TRIAL|
+|[services](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageAccounts/services/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/services|TRIAL|
+|[tableServices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageAccounts/tableServices/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/tableServices|TRIAL|
+|[vmImages](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageAccounts/vmImages/README.md)|UNKNOWN|Microsoft.Network/storageAccounts/vmImages|TRIAL|
 
 ### Hold
 

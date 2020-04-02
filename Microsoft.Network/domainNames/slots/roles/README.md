@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[metricDefinitions](https://github.com/openrba/python-azure-techradar/Microsoft.Network/domainNames/slots/roles/metricDefinitions/README.md)|UNKNOWN|Microsoft.Network/domainNames/slots/roles/metricDefinitions|TRIAL|
-|[metrics](https://github.com/openrba/python-azure-techradar/Microsoft.Network/domainNames/slots/roles/metrics/README.md)|UNKNOWN|Microsoft.Network/domainNames/slots/roles/metrics|TRIAL|
+|[metricDefinitions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/domainNames/slots/roles/metricDefinitions/README.md)|UNKNOWN|Microsoft.Network/domainNames/slots/roles/metricDefinitions|TRIAL|
+|[metrics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/domainNames/slots/roles/metrics/README.md)|UNKNOWN|Microsoft.Network/domainNames/slots/roles/metrics|TRIAL|
 
 ### Hold
 

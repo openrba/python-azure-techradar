@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[routeFilterRules](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/routeFilters/routeFilterRules/README.md)|UNKNOWN|Microsoft.Compute/routeFilters/routeFilterRules|TRIAL|
+|[routeFilterRules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/routeFilters/routeFilterRules/README.md)|UNKNOWN|Microsoft.Compute/routeFilters/routeFilterRules|TRIAL|
 
 ### Hold
 

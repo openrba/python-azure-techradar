@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[functions](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/streamingjobs/functions/README.md)|UNKNOWN|Microsoft.Compute/streamingjobs/functions|TRIAL|
-|[inputs](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/streamingjobs/inputs/README.md)|UNKNOWN|Microsoft.Compute/streamingjobs/inputs|TRIAL|
-|[outputs](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/streamingjobs/outputs/README.md)|UNKNOWN|Microsoft.Compute/streamingjobs/outputs|TRIAL|
-|[transformations](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/streamingjobs/transformations/README.md)|UNKNOWN|Microsoft.Compute/streamingjobs/transformations|TRIAL|
+|[functions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/streamingjobs/functions/README.md)|UNKNOWN|Microsoft.Compute/streamingjobs/functions|TRIAL|
+|[inputs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/streamingjobs/inputs/README.md)|UNKNOWN|Microsoft.Compute/streamingjobs/inputs|TRIAL|
+|[outputs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/streamingjobs/outputs/README.md)|UNKNOWN|Microsoft.Compute/streamingjobs/outputs|TRIAL|
+|[transformations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/streamingjobs/transformations/README.md)|UNKNOWN|Microsoft.Compute/streamingjobs/transformations|TRIAL|
 
 ### Hold
 

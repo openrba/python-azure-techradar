@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[domainOwnershipIdentifiers](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/domains/domainOwnershipIdentifiers/README.md)|UNKNOWN|Microsoft.Compute/domains/domainOwnershipIdentifiers|TRIAL|
-|[topics](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/domains/topics/README.md)|UNKNOWN|Microsoft.Compute/domains/topics|TRIAL|
+|[domainOwnershipIdentifiers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/domains/domainOwnershipIdentifiers/README.md)|UNKNOWN|Microsoft.Compute/domains/domainOwnershipIdentifiers|TRIAL|
+|[topics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/domains/topics/README.md)|UNKNOWN|Microsoft.Compute/domains/topics|TRIAL|
 
 ### Hold
 

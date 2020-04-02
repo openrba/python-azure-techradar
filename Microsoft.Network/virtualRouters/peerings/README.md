@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[peerAsn](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/peerings/peerAsn/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings/peerAsn|TRIAL|
-|[peerIp](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/peerings/peerIp/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings/peerIp|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualRouters/peerings/provisioningState/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings/provisioningState|TRIAL|
+|[peerAsn](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/peerings/peerAsn/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings/peerAsn|TRIAL|
+|[peerIp](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/peerings/peerIp/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings/peerIp|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/peerings/provisioningState/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings/provisioningState|TRIAL|
 
 ### Hold
 

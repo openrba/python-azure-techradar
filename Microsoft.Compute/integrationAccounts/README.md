@@ -29,15 +29,15 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[agreements](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/integrationAccounts/agreements/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/agreements|TRIAL|
-|[assemblies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/integrationAccounts/assemblies/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/assemblies|TRIAL|
-|[batchConfigurations](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/integrationAccounts/batchConfigurations/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/batchConfigurations|TRIAL|
-|[certificates](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/integrationAccounts/certificates/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/certificates|TRIAL|
-|[maps](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/integrationAccounts/maps/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/maps|TRIAL|
-|[partners](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/integrationAccounts/partners/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/partners|TRIAL|
-|[rosettaNetProcessConfigurations](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/integrationAccounts/rosettaNetProcessConfigurations/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/rosettaNetProcessConfigurations|TRIAL|
-|[schemas](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/integrationAccounts/schemas/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/schemas|TRIAL|
-|[sessions](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/integrationAccounts/sessions/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/sessions|TRIAL|
+|[agreements](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/integrationAccounts/agreements/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/agreements|TRIAL|
+|[assemblies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/integrationAccounts/assemblies/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/assemblies|TRIAL|
+|[batchConfigurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/integrationAccounts/batchConfigurations/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/batchConfigurations|TRIAL|
+|[certificates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/integrationAccounts/certificates/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/certificates|TRIAL|
+|[maps](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/integrationAccounts/maps/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/maps|TRIAL|
+|[partners](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/integrationAccounts/partners/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/partners|TRIAL|
+|[rosettaNetProcessConfigurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/integrationAccounts/rosettaNetProcessConfigurations/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/rosettaNetProcessConfigurations|TRIAL|
+|[schemas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/integrationAccounts/schemas/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/schemas|TRIAL|
+|[sessions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/integrationAccounts/sessions/README.md)|UNKNOWN|Microsoft.Compute/integrationAccounts/sessions|TRIAL|
 
 ### Hold
 

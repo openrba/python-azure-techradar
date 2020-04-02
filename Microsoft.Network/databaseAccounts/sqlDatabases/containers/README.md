@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[storedProcedures](https://github.com/openrba/python-azure-techradar/Microsoft.Network/databaseAccounts/sqlDatabases/containers/storedProcedures/README.md)|UNKNOWN|Microsoft.Network/databaseAccounts/sqlDatabases/containers/storedProcedures|TRIAL|
-|[throughputSettings](https://github.com/openrba/python-azure-techradar/Microsoft.Network/databaseAccounts/sqlDatabases/containers/throughputSettings/README.md)|UNKNOWN|Microsoft.Network/databaseAccounts/sqlDatabases/containers/throughputSettings|TRIAL|
-|[triggers](https://github.com/openrba/python-azure-techradar/Microsoft.Network/databaseAccounts/sqlDatabases/containers/triggers/README.md)|UNKNOWN|Microsoft.Network/databaseAccounts/sqlDatabases/containers/triggers|TRIAL|
-|[userDefinedFunctions](https://github.com/openrba/python-azure-techradar/Microsoft.Network/databaseAccounts/sqlDatabases/containers/userDefinedFunctions/README.md)|UNKNOWN|Microsoft.Network/databaseAccounts/sqlDatabases/containers/userDefinedFunctions|TRIAL|
+|[storedProcedures](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/sqlDatabases/containers/storedProcedures/README.md)|UNKNOWN|Microsoft.Network/databaseAccounts/sqlDatabases/containers/storedProcedures|TRIAL|
+|[throughputSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/sqlDatabases/containers/throughputSettings/README.md)|UNKNOWN|Microsoft.Network/databaseAccounts/sqlDatabases/containers/throughputSettings|TRIAL|
+|[triggers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/sqlDatabases/containers/triggers/README.md)|UNKNOWN|Microsoft.Network/databaseAccounts/sqlDatabases/containers/triggers|TRIAL|
+|[userDefinedFunctions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/sqlDatabases/containers/userDefinedFunctions/README.md)|UNKNOWN|Microsoft.Network/databaseAccounts/sqlDatabases/containers/userDefinedFunctions|TRIAL|
 
 ### Hold
 

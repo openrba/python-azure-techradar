@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[multiRolePools](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/hostingEnvironments/multiRolePools/README.md)|UNKNOWN|Microsoft.Compute/hostingEnvironments/multiRolePools|TRIAL|
-|[workerPools](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/hostingEnvironments/workerPools/README.md)|UNKNOWN|Microsoft.Compute/hostingEnvironments/workerPools|TRIAL|
+|[multiRolePools](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/hostingEnvironments/multiRolePools/README.md)|UNKNOWN|Microsoft.Compute/hostingEnvironments/multiRolePools|TRIAL|
+|[workerPools](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/hostingEnvironments/workerPools/README.md)|UNKNOWN|Microsoft.Compute/hostingEnvironments/workerPools|TRIAL|
 
 ### Hold
 

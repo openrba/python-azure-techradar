@@ -29,18 +29,18 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[accountFilters](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/accountFilters/README.md)|UNKNOWN|Microsoft.Network/mediaservices/accountFilters|TRIAL|
-|[assets](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/assets/README.md)|UNKNOWN|Microsoft.Network/mediaservices/assets|TRIAL|
-|[contentKeyPolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/contentKeyPolicies/README.md)|UNKNOWN|Microsoft.Network/mediaservices/contentKeyPolicies|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/eventGridFilters/README.md)|UNKNOWN|Microsoft.Network/mediaservices/eventGridFilters|TRIAL|
-|[liveEventOperations](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/liveEventOperations/README.md)|UNKNOWN|Microsoft.Network/mediaservices/liveEventOperations|TRIAL|
-|[liveEvents](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/liveEvents/README.md)|UNKNOWN|Microsoft.Network/mediaservices/liveEvents|TRIAL|
-|[liveOutputOperations](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/liveOutputOperations/README.md)|UNKNOWN|Microsoft.Network/mediaservices/liveOutputOperations|TRIAL|
-|[streamingEndpointOperations](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/streamingEndpointOperations/README.md)|UNKNOWN|Microsoft.Network/mediaservices/streamingEndpointOperations|TRIAL|
-|[streamingEndpoints](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/streamingEndpoints/README.md)|UNKNOWN|Microsoft.Network/mediaservices/streamingEndpoints|TRIAL|
-|[streamingLocators](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/streamingLocators/README.md)|UNKNOWN|Microsoft.Network/mediaservices/streamingLocators|TRIAL|
-|[streamingPolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/streamingPolicies/README.md)|UNKNOWN|Microsoft.Network/mediaservices/streamingPolicies|TRIAL|
-|[transforms](https://github.com/openrba/python-azure-techradar/Microsoft.Network/mediaservices/transforms/README.md)|UNKNOWN|Microsoft.Network/mediaservices/transforms|TRIAL|
+|[accountFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/accountFilters/README.md)|UNKNOWN|Microsoft.Network/mediaservices/accountFilters|TRIAL|
+|[assets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/assets/README.md)|UNKNOWN|Microsoft.Network/mediaservices/assets|TRIAL|
+|[contentKeyPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/contentKeyPolicies/README.md)|UNKNOWN|Microsoft.Network/mediaservices/contentKeyPolicies|TRIAL|
+|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/eventGridFilters/README.md)|UNKNOWN|Microsoft.Network/mediaservices/eventGridFilters|TRIAL|
+|[liveEventOperations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/liveEventOperations/README.md)|UNKNOWN|Microsoft.Network/mediaservices/liveEventOperations|TRIAL|
+|[liveEvents](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/liveEvents/README.md)|UNKNOWN|Microsoft.Network/mediaservices/liveEvents|TRIAL|
+|[liveOutputOperations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/liveOutputOperations/README.md)|UNKNOWN|Microsoft.Network/mediaservices/liveOutputOperations|TRIAL|
+|[streamingEndpointOperations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/streamingEndpointOperations/README.md)|UNKNOWN|Microsoft.Network/mediaservices/streamingEndpointOperations|TRIAL|
+|[streamingEndpoints](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/streamingEndpoints/README.md)|UNKNOWN|Microsoft.Network/mediaservices/streamingEndpoints|TRIAL|
+|[streamingLocators](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/streamingLocators/README.md)|UNKNOWN|Microsoft.Network/mediaservices/streamingLocators|TRIAL|
+|[streamingPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/streamingPolicies/README.md)|UNKNOWN|Microsoft.Network/mediaservices/streamingPolicies|TRIAL|
+|[transforms](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/mediaservices/transforms/README.md)|UNKNOWN|Microsoft.Network/mediaservices/transforms|TRIAL|
 
 ### Hold
 

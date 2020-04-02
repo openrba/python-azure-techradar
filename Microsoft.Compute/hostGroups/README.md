@@ -29,12 +29,12 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[hosts](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/hostGroups/hosts/README.md)|UNKNOWN|Microsoft.Compute/hostGroups/hosts|TRIAL|
-|[hosts[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/hostGroups/hosts[*]/README.md)|UNKNOWN|Microsoft.Compute/hostGroups/hosts[*]|TRIAL|
-|[hosts[*].id](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/hostGroups/hosts[*].id/README.md)|UNKNOWN|Microsoft.Compute/hostGroups/hosts[*].id|TRIAL|
-|[platformFaultDomainCount](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/hostGroups/platformFaultDomainCount/README.md)|UNKNOWN|Microsoft.Compute/hostGroups/platformFaultDomainCount|TRIAL|
-|[zones](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/hostGroups/zones/README.md)|UNKNOWN|Microsoft.Compute/hostGroups/zones|TRIAL|
-|[zones[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/hostGroups/zones[*]/README.md)|UNKNOWN|Microsoft.Compute/hostGroups/zones[*]|TRIAL|
+|[hosts](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/hostGroups/hosts/README.md)|UNKNOWN|Microsoft.Compute/hostGroups/hosts|TRIAL|
+|[hosts[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/hostGroups/hosts[*]/README.md)|UNKNOWN|Microsoft.Compute/hostGroups/hosts[*]|TRIAL|
+|[hosts[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/hostGroups/hosts[*].id/README.md)|UNKNOWN|Microsoft.Compute/hostGroups/hosts[*].id|TRIAL|
+|[platformFaultDomainCount](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/hostGroups/platformFaultDomainCount/README.md)|UNKNOWN|Microsoft.Compute/hostGroups/platformFaultDomainCount|TRIAL|
+|[zones](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/hostGroups/zones/README.md)|UNKNOWN|Microsoft.Compute/hostGroups/zones|TRIAL|
+|[zones[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/hostGroups/zones[*]/README.md)|UNKNOWN|Microsoft.Compute/hostGroups/zones[*]|TRIAL|
 
 ### Hold
 

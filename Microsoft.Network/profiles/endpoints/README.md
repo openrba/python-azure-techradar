@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[customdomains](https://github.com/openrba/python-azure-techradar/Microsoft.Network/profiles/endpoints/customdomains/README.md)|UNKNOWN|Microsoft.Network/profiles/endpoints/customdomains|TRIAL|
-|[origingroups](https://github.com/openrba/python-azure-techradar/Microsoft.Network/profiles/endpoints/origingroups/README.md)|UNKNOWN|Microsoft.Network/profiles/endpoints/origingroups|TRIAL|
-|[origins](https://github.com/openrba/python-azure-techradar/Microsoft.Network/profiles/endpoints/origins/README.md)|UNKNOWN|Microsoft.Network/profiles/endpoints/origins|TRIAL|
+|[customdomains](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/profiles/endpoints/customdomains/README.md)|UNKNOWN|Microsoft.Network/profiles/endpoints/customdomains|TRIAL|
+|[origingroups](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/profiles/endpoints/origingroups/README.md)|UNKNOWN|Microsoft.Network/profiles/endpoints/origingroups|TRIAL|
+|[origins](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/profiles/endpoints/origins/README.md)|UNKNOWN|Microsoft.Network/profiles/endpoints/origins|TRIAL|
 
 ### Hold
 

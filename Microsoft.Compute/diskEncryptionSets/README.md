@@ -29,16 +29,16 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[activeKey](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/diskEncryptionSets/activeKey/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/activeKey|TRIAL|
-|[activeKey.keyUrl](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl|TRIAL|
-|[activeKey.sourceVault](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault|TRIAL|
-|[activeKey.sourceVault.id](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id|TRIAL|
-|[previousKeys](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/diskEncryptionSets/previousKeys/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys|TRIAL|
-|[previousKeys[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/diskEncryptionSets/previousKeys[*]/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys[*]|TRIAL|
-|[previousKeys[*].keyUrl](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl|TRIAL|
-|[previousKeys[*].sourceVault](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault|TRIAL|
-|[previousKeys[*].sourceVault.id](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/diskEncryptionSets/provisioningState/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/provisioningState|TRIAL|
+|[activeKey](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/diskEncryptionSets/activeKey/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/activeKey|TRIAL|
+|[activeKey.keyUrl](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl|TRIAL|
+|[activeKey.sourceVault](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault|TRIAL|
+|[activeKey.sourceVault.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id|TRIAL|
+|[previousKeys](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/diskEncryptionSets/previousKeys/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys|TRIAL|
+|[previousKeys[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/diskEncryptionSets/previousKeys[*]/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys[*]|TRIAL|
+|[previousKeys[*].keyUrl](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl|TRIAL|
+|[previousKeys[*].sourceVault](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault|TRIAL|
+|[previousKeys[*].sourceVault.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/diskEncryptionSets/provisioningState/README.md)|UNKNOWN|Microsoft.Compute/diskEncryptionSets/provisioningState|TRIAL|
 
 ### Hold
 

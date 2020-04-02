@@ -29,34 +29,34 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[description](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/description/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/description|TRIAL|
-|[disallowed](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/disallowed/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/disallowed|TRIAL|
-|[disallowed.diskTypes](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/disallowed.diskTypes/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/disallowed.diskTypes|TRIAL|
-|[disallowed.diskTypes[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/disallowed.diskTypes[*]/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/disallowed.diskTypes[*]|TRIAL|
-|[endOfLifeDate](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/endOfLifeDate/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/endOfLifeDate|TRIAL|
-|[eula](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/eula/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/eula|TRIAL|
-|[hyperVGeneration](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/hyperVGeneration/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/hyperVGeneration|TRIAL|
-|[identifier](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/identifier/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/identifier|TRIAL|
-|[identifier.offer](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/identifier.offer/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/identifier.offer|TRIAL|
-|[identifier.publisher](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/identifier.publisher/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/identifier.publisher|TRIAL|
-|[identifier.sku](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/identifier.sku/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/identifier.sku|TRIAL|
-|[osState](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/osState/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/osState|TRIAL|
-|[osType](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/osType/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/osType|TRIAL|
-|[privacyStatementUri](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/privacyStatementUri/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/privacyStatementUri|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/provisioningState/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/provisioningState|TRIAL|
-|[purchasePlan](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/purchasePlan/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/purchasePlan|TRIAL|
-|[purchasePlan.name](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/purchasePlan.name/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/purchasePlan.name|TRIAL|
-|[purchasePlan.product](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/purchasePlan.product/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/purchasePlan.product|TRIAL|
-|[purchasePlan.publisher](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/purchasePlan.publisher/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/purchasePlan.publisher|TRIAL|
-|[recommended](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/recommended/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended|TRIAL|
-|[recommended.memory](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/recommended.memory/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended.memory|TRIAL|
-|[recommended.memory.max](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/recommended.memory.max/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended.memory.max|TRIAL|
-|[recommended.memory.min](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/recommended.memory.min/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended.memory.min|TRIAL|
-|[recommended.vCPUs](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/recommended.vCPUs/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended.vCPUs|TRIAL|
-|[recommended.vCPUs.max](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/recommended.vCPUs.max/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended.vCPUs.max|TRIAL|
-|[recommended.vCPUs.min](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/recommended.vCPUs.min/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended.vCPUs.min|TRIAL|
-|[releaseNoteUri](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/releaseNoteUri/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/releaseNoteUri|TRIAL|
-|[versions](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/galleries/images/versions/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/versions|TRIAL|
+|[description](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/description/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/description|TRIAL|
+|[disallowed](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/disallowed/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/disallowed|TRIAL|
+|[disallowed.diskTypes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/disallowed.diskTypes/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/disallowed.diskTypes|TRIAL|
+|[disallowed.diskTypes[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/disallowed.diskTypes[*]/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/disallowed.diskTypes[*]|TRIAL|
+|[endOfLifeDate](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/endOfLifeDate/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/endOfLifeDate|TRIAL|
+|[eula](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/eula/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/eula|TRIAL|
+|[hyperVGeneration](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/hyperVGeneration/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/hyperVGeneration|TRIAL|
+|[identifier](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/identifier/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/identifier|TRIAL|
+|[identifier.offer](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/identifier.offer/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/identifier.offer|TRIAL|
+|[identifier.publisher](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/identifier.publisher/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/identifier.publisher|TRIAL|
+|[identifier.sku](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/identifier.sku/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/identifier.sku|TRIAL|
+|[osState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/osState/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/osState|TRIAL|
+|[osType](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/osType/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/osType|TRIAL|
+|[privacyStatementUri](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/privacyStatementUri/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/privacyStatementUri|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/provisioningState/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/provisioningState|TRIAL|
+|[purchasePlan](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/purchasePlan/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/purchasePlan|TRIAL|
+|[purchasePlan.name](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/purchasePlan.name/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/purchasePlan.name|TRIAL|
+|[purchasePlan.product](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/purchasePlan.product/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/purchasePlan.product|TRIAL|
+|[purchasePlan.publisher](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/purchasePlan.publisher/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/purchasePlan.publisher|TRIAL|
+|[recommended](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/recommended/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended|TRIAL|
+|[recommended.memory](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/recommended.memory/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended.memory|TRIAL|
+|[recommended.memory.max](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/recommended.memory.max/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended.memory.max|TRIAL|
+|[recommended.memory.min](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/recommended.memory.min/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended.memory.min|TRIAL|
+|[recommended.vCPUs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/recommended.vCPUs/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended.vCPUs|TRIAL|
+|[recommended.vCPUs.max](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/recommended.vCPUs.max/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended.vCPUs.max|TRIAL|
+|[recommended.vCPUs.min](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/recommended.vCPUs.min/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/recommended.vCPUs.min|TRIAL|
+|[releaseNoteUri](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/releaseNoteUri/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/releaseNoteUri|TRIAL|
+|[versions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/galleries/images/versions/README.md)|UNKNOWN|Microsoft.Compute/galleries/images/versions|TRIAL|
 
 ### Hold
 

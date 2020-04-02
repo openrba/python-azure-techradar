@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[sensitivityLabels](https://github.com/openrba/python-azure-techradar/Microsoft.Network/managedInstances/databases/schemas/tables/columns/sensitivityLabels/README.md)|UNKNOWN|Microsoft.Network/managedInstances/databases/schemas/tables/columns/sensitivityLabels|TRIAL|
+|[sensitivityLabels](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managedInstances/databases/schemas/tables/columns/sensitivityLabels/README.md)|UNKNOWN|Microsoft.Network/managedInstances/databases/schemas/tables/columns/sensitivityLabels|TRIAL|
 
 ### Hold
 

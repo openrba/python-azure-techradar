@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[backendPools](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/frontDoors/backendPools/README.md)|UNKNOWN|Microsoft.Compute/frontDoors/backendPools|TRIAL|
+|[backendPools](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/frontDoors/backendPools/README.md)|UNKNOWN|Microsoft.Compute/frontDoors/backendPools|TRIAL|
 
 ### Hold
 

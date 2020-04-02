@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[Alerts](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ExternalSubscriptions/Alerts/README.md)|UNKNOWN|Microsoft.Network/ExternalSubscriptions/Alerts|TRIAL|
-|[Dimensions](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ExternalSubscriptions/Dimensions/README.md)|UNKNOWN|Microsoft.Network/ExternalSubscriptions/Dimensions|TRIAL|
-|[Forecast](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ExternalSubscriptions/Forecast/README.md)|UNKNOWN|Microsoft.Network/ExternalSubscriptions/Forecast|TRIAL|
-|[Query](https://github.com/openrba/python-azure-techradar/Microsoft.Network/ExternalSubscriptions/Query/README.md)|UNKNOWN|Microsoft.Network/ExternalSubscriptions/Query|TRIAL|
+|[Alerts](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ExternalSubscriptions/Alerts/README.md)|UNKNOWN|Microsoft.Network/ExternalSubscriptions/Alerts|TRIAL|
+|[Dimensions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ExternalSubscriptions/Dimensions/README.md)|UNKNOWN|Microsoft.Network/ExternalSubscriptions/Dimensions|TRIAL|
+|[Forecast](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ExternalSubscriptions/Forecast/README.md)|UNKNOWN|Microsoft.Network/ExternalSubscriptions/Forecast|TRIAL|
+|[Query](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ExternalSubscriptions/Query/README.md)|UNKNOWN|Microsoft.Network/ExternalSubscriptions/Query|TRIAL|
 
 ### Hold
 

@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[checkNameAvailability](https://github.com/openrba/python-azure-techradar/Microsoft.Network/DataBoxEdgeDevices/checkNameAvailability/README.md)|UNKNOWN|Microsoft.Network/DataBoxEdgeDevices/checkNameAvailability|TRIAL|
+|[checkNameAvailability](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/DataBoxEdgeDevices/checkNameAvailability/README.md)|UNKNOWN|Microsoft.Network/DataBoxEdgeDevices/checkNameAvailability|TRIAL|
 
 ### Hold
 

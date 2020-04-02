@@ -29,18 +29,18 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[A](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/dnszones/A/README.md)|UNKNOWN|Microsoft.Compute/dnszones/A|TRIAL|
-|[AAAA](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/dnszones/AAAA/README.md)|UNKNOWN|Microsoft.Compute/dnszones/AAAA|TRIAL|
-|[CAA](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/dnszones/CAA/README.md)|UNKNOWN|Microsoft.Compute/dnszones/CAA|TRIAL|
-|[CNAME](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/dnszones/CNAME/README.md)|UNKNOWN|Microsoft.Compute/dnszones/CNAME|TRIAL|
-|[MX](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/dnszones/MX/README.md)|UNKNOWN|Microsoft.Compute/dnszones/MX|TRIAL|
-|[NS](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/dnszones/NS/README.md)|UNKNOWN|Microsoft.Compute/dnszones/NS|TRIAL|
-|[PTR](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/dnszones/PTR/README.md)|UNKNOWN|Microsoft.Compute/dnszones/PTR|TRIAL|
-|[SOA](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/dnszones/SOA/README.md)|UNKNOWN|Microsoft.Compute/dnszones/SOA|TRIAL|
-|[SRV](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/dnszones/SRV/README.md)|UNKNOWN|Microsoft.Compute/dnszones/SRV|TRIAL|
-|[TXT](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/dnszones/TXT/README.md)|UNKNOWN|Microsoft.Compute/dnszones/TXT|TRIAL|
-|[all](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/dnszones/all/README.md)|UNKNOWN|Microsoft.Compute/dnszones/all|TRIAL|
-|[recordsets](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/dnszones/recordsets/README.md)|UNKNOWN|Microsoft.Compute/dnszones/recordsets|TRIAL|
+|[A](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/dnszones/A/README.md)|UNKNOWN|Microsoft.Compute/dnszones/A|TRIAL|
+|[AAAA](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/dnszones/AAAA/README.md)|UNKNOWN|Microsoft.Compute/dnszones/AAAA|TRIAL|
+|[CAA](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/dnszones/CAA/README.md)|UNKNOWN|Microsoft.Compute/dnszones/CAA|TRIAL|
+|[CNAME](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/dnszones/CNAME/README.md)|UNKNOWN|Microsoft.Compute/dnszones/CNAME|TRIAL|
+|[MX](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/dnszones/MX/README.md)|UNKNOWN|Microsoft.Compute/dnszones/MX|TRIAL|
+|[NS](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/dnszones/NS/README.md)|UNKNOWN|Microsoft.Compute/dnszones/NS|TRIAL|
+|[PTR](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/dnszones/PTR/README.md)|UNKNOWN|Microsoft.Compute/dnszones/PTR|TRIAL|
+|[SOA](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/dnszones/SOA/README.md)|UNKNOWN|Microsoft.Compute/dnszones/SOA|TRIAL|
+|[SRV](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/dnszones/SRV/README.md)|UNKNOWN|Microsoft.Compute/dnszones/SRV|TRIAL|
+|[TXT](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/dnszones/TXT/README.md)|UNKNOWN|Microsoft.Compute/dnszones/TXT|TRIAL|
+|[all](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/dnszones/all/README.md)|UNKNOWN|Microsoft.Compute/dnszones/all|TRIAL|
+|[recordsets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/dnszones/recordsets/README.md)|UNKNOWN|Microsoft.Compute/dnszones/recordsets|TRIAL|
 
 ### Hold
 

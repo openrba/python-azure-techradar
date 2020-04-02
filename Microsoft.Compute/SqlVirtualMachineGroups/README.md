@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[AvailabilityGroupListeners](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/SqlVirtualMachineGroups/AvailabilityGroupListeners/README.md)|UNKNOWN|Microsoft.Compute/SqlVirtualMachineGroups/AvailabilityGroupListeners|TRIAL|
+|[AvailabilityGroupListeners](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/SqlVirtualMachineGroups/AvailabilityGroupListeners/README.md)|UNKNOWN|Microsoft.Compute/SqlVirtualMachineGroups/AvailabilityGroupListeners|TRIAL|
 
 ### Hold
 

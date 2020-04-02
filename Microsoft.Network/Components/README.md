@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[ProactiveDetectionConfigs](https://github.com/openrba/python-azure-techradar/Microsoft.Network/Components/ProactiveDetectionConfigs/README.md)|UNKNOWN|Microsoft.Network/Components/ProactiveDetectionConfigs|TRIAL|
+|[ProactiveDetectionConfigs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/Components/ProactiveDetectionConfigs/README.md)|UNKNOWN|Microsoft.Network/Components/ProactiveDetectionConfigs|TRIAL|
 
 ### Hold
 

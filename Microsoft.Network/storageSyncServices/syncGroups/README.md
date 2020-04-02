@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[cloudEndpoints](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageSyncServices/syncGroups/cloudEndpoints/README.md)|UNKNOWN|Microsoft.Network/storageSyncServices/syncGroups/cloudEndpoints|TRIAL|
-|[serverEndpoints](https://github.com/openrba/python-azure-techradar/Microsoft.Network/storageSyncServices/syncGroups/serverEndpoints/README.md)|UNKNOWN|Microsoft.Network/storageSyncServices/syncGroups/serverEndpoints|TRIAL|
+|[cloudEndpoints](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageSyncServices/syncGroups/cloudEndpoints/README.md)|UNKNOWN|Microsoft.Network/storageSyncServices/syncGroups/cloudEndpoints|TRIAL|
+|[serverEndpoints](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/storageSyncServices/syncGroups/serverEndpoints/README.md)|UNKNOWN|Microsoft.Network/storageSyncServices/syncGroups/serverEndpoints|TRIAL|
 
 ### Hold
 

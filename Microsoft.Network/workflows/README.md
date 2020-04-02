@@ -29,7 +29,7 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[accessKeys](https://github.com/openrba/python-azure-techradar/Microsoft.Network/workflows/accessKeys/README.md)|UNKNOWN|Microsoft.Network/workflows/accessKeys|TRIAL|
+|[accessKeys](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/workflows/accessKeys/README.md)|UNKNOWN|Microsoft.Network/workflows/accessKeys|TRIAL|
 
 ### Hold
 

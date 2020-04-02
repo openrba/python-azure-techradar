@@ -29,19 +29,19 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[allowBranchToBranchTraffic](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/allowBranchToBranchTraffic/README.md)|UNKNOWN|Microsoft.Network/virtualWans/allowBranchToBranchTraffic|TRIAL|
-|[allowVnetToVnetTraffic](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/allowVnetToVnetTraffic/README.md)|UNKNOWN|Microsoft.Network/virtualWans/allowVnetToVnetTraffic|TRIAL|
-|[disableVpnEncryption](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/disableVpnEncryption/README.md)|UNKNOWN|Microsoft.Network/virtualWans/disableVpnEncryption|TRIAL|
-|[office365LocalBreakoutCategory](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/office365LocalBreakoutCategory/README.md)|UNKNOWN|Microsoft.Network/virtualWans/office365LocalBreakoutCategory|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/provisioningState/README.md)|UNKNOWN|Microsoft.Network/virtualWans/provisioningState|TRIAL|
-|[securityProviderName](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/securityProviderName/README.md)|UNKNOWN|Microsoft.Network/virtualWans/securityProviderName|TRIAL|
-|[type](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/type/README.md)|UNKNOWN|Microsoft.Network/virtualWans/type|TRIAL|
-|[virtualHubs](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/virtualHubs/README.md)|UNKNOWN|Microsoft.Network/virtualWans/virtualHubs|TRIAL|
-|[virtualHubs[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/virtualHubs[*]/README.md)|UNKNOWN|Microsoft.Network/virtualWans/virtualHubs[*]|TRIAL|
-|[virtualHubs[*].id](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/virtualHubs[*].id/README.md)|UNKNOWN|Microsoft.Network/virtualWans/virtualHubs[*].id|TRIAL|
-|[vpnSites](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/vpnSites/README.md)|UNKNOWN|Microsoft.Network/virtualWans/vpnSites|TRIAL|
-|[vpnSites[*]](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/vpnSites[*]/README.md)|UNKNOWN|Microsoft.Network/virtualWans/vpnSites[*]|TRIAL|
-|[vpnSites[*].id](https://github.com/openrba/python-azure-techradar/Microsoft.Network/virtualWans/vpnSites[*].id/README.md)|UNKNOWN|Microsoft.Network/virtualWans/vpnSites[*].id|TRIAL|
+|[allowBranchToBranchTraffic](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/allowBranchToBranchTraffic/README.md)|UNKNOWN|Microsoft.Network/virtualWans/allowBranchToBranchTraffic|TRIAL|
+|[allowVnetToVnetTraffic](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/allowVnetToVnetTraffic/README.md)|UNKNOWN|Microsoft.Network/virtualWans/allowVnetToVnetTraffic|TRIAL|
+|[disableVpnEncryption](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/disableVpnEncryption/README.md)|UNKNOWN|Microsoft.Network/virtualWans/disableVpnEncryption|TRIAL|
+|[office365LocalBreakoutCategory](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/office365LocalBreakoutCategory/README.md)|UNKNOWN|Microsoft.Network/virtualWans/office365LocalBreakoutCategory|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/provisioningState/README.md)|UNKNOWN|Microsoft.Network/virtualWans/provisioningState|TRIAL|
+|[securityProviderName](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/securityProviderName/README.md)|UNKNOWN|Microsoft.Network/virtualWans/securityProviderName|TRIAL|
+|[type](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/type/README.md)|UNKNOWN|Microsoft.Network/virtualWans/type|TRIAL|
+|[virtualHubs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/virtualHubs/README.md)|UNKNOWN|Microsoft.Network/virtualWans/virtualHubs|TRIAL|
+|[virtualHubs[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/virtualHubs[*]/README.md)|UNKNOWN|Microsoft.Network/virtualWans/virtualHubs[*]|TRIAL|
+|[virtualHubs[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/virtualHubs[*].id/README.md)|UNKNOWN|Microsoft.Network/virtualWans/virtualHubs[*].id|TRIAL|
+|[vpnSites](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/vpnSites/README.md)|UNKNOWN|Microsoft.Network/virtualWans/vpnSites|TRIAL|
+|[vpnSites[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/vpnSites[*]/README.md)|UNKNOWN|Microsoft.Network/virtualWans/vpnSites[*]|TRIAL|
+|[vpnSites[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/vpnSites[*].id/README.md)|UNKNOWN|Microsoft.Network/virtualWans/vpnSites[*].id|TRIAL|
 
 ### Hold
 

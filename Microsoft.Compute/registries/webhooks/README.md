@@ -29,9 +29,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[getCallbackConfig](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/webhooks/getCallbackConfig/README.md)|UNKNOWN|Microsoft.Compute/registries/webhooks/getCallbackConfig|TRIAL|
-|[listEvents](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/webhooks/listEvents/README.md)|UNKNOWN|Microsoft.Compute/registries/webhooks/listEvents|TRIAL|
-|[ping](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/webhooks/ping/README.md)|UNKNOWN|Microsoft.Compute/registries/webhooks/ping|TRIAL|
+|[getCallbackConfig](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/webhooks/getCallbackConfig/README.md)|UNKNOWN|Microsoft.Compute/registries/webhooks/getCallbackConfig|TRIAL|
+|[listEvents](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/webhooks/listEvents/README.md)|UNKNOWN|Microsoft.Compute/registries/webhooks/listEvents|TRIAL|
+|[ping](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/webhooks/ping/README.md)|UNKNOWN|Microsoft.Compute/registries/webhooks/ping|TRIAL|
 
 ### Hold
 

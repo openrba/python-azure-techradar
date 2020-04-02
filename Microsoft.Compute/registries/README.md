@@ -29,32 +29,32 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[GetCredentials](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/GetCredentials/README.md)|UNKNOWN|Microsoft.Compute/registries/GetCredentials|TRIAL|
-|[buildTasks](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/buildTasks/README.md)|UNKNOWN|Microsoft.Compute/registries/buildTasks|TRIAL|
-|[builds](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/builds/README.md)|UNKNOWN|Microsoft.Compute/registries/builds|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/eventGridFilters/README.md)|UNKNOWN|Microsoft.Compute/registries/eventGridFilters|TRIAL|
-|[generateCredentials](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/generateCredentials/README.md)|UNKNOWN|Microsoft.Compute/registries/generateCredentials|TRIAL|
-|[getBuildSourceUploadUrl](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/getBuildSourceUploadUrl/README.md)|UNKNOWN|Microsoft.Compute/registries/getBuildSourceUploadUrl|TRIAL|
-|[importImage](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/importImage/README.md)|UNKNOWN|Microsoft.Compute/registries/importImage|TRIAL|
-|[listBuildSourceUploadUrl](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/listBuildSourceUploadUrl/README.md)|UNKNOWN|Microsoft.Compute/registries/listBuildSourceUploadUrl|TRIAL|
-|[listCredentials](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/listCredentials/README.md)|UNKNOWN|Microsoft.Compute/registries/listCredentials|TRIAL|
-|[listPolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/listPolicies/README.md)|UNKNOWN|Microsoft.Compute/registries/listPolicies|TRIAL|
-|[listUsages](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/listUsages/README.md)|UNKNOWN|Microsoft.Compute/registries/listUsages|TRIAL|
-|[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/privateEndpointConnectionProxies/README.md)|UNKNOWN|Microsoft.Compute/registries/privateEndpointConnectionProxies|TRIAL|
-|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/privateEndpointConnections/README.md)|UNKNOWN|Microsoft.Compute/registries/privateEndpointConnections|TRIAL|
-|[privateLinkResources](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/privateLinkResources/README.md)|UNKNOWN|Microsoft.Compute/registries/privateLinkResources|TRIAL|
-|[queueBuild](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/queueBuild/README.md)|UNKNOWN|Microsoft.Compute/registries/queueBuild|TRIAL|
-|[regenerateCredential](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/regenerateCredential/README.md)|UNKNOWN|Microsoft.Compute/registries/regenerateCredential|TRIAL|
-|[regenerateCredentials](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/regenerateCredentials/README.md)|UNKNOWN|Microsoft.Compute/registries/regenerateCredentials|TRIAL|
-|[replications](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/replications/README.md)|UNKNOWN|Microsoft.Compute/registries/replications|TRIAL|
-|[runs](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/runs/README.md)|UNKNOWN|Microsoft.Compute/registries/runs|TRIAL|
-|[scheduleRun](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/scheduleRun/README.md)|UNKNOWN|Microsoft.Compute/registries/scheduleRun|TRIAL|
-|[scopeMaps](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/scopeMaps/README.md)|UNKNOWN|Microsoft.Compute/registries/scopeMaps|TRIAL|
-|[taskRuns](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/taskRuns/README.md)|UNKNOWN|Microsoft.Compute/registries/taskRuns|TRIAL|
-|[tasks](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/tasks/README.md)|UNKNOWN|Microsoft.Compute/registries/tasks|TRIAL|
-|[tokens](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/tokens/README.md)|UNKNOWN|Microsoft.Compute/registries/tokens|TRIAL|
-|[updatePolicies](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/updatePolicies/README.md)|UNKNOWN|Microsoft.Compute/registries/updatePolicies|TRIAL|
-|[webhooks](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/registries/webhooks/README.md)|UNKNOWN|Microsoft.Compute/registries/webhooks|TRIAL|
+|[GetCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/GetCredentials/README.md)|UNKNOWN|Microsoft.Compute/registries/GetCredentials|TRIAL|
+|[buildTasks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/buildTasks/README.md)|UNKNOWN|Microsoft.Compute/registries/buildTasks|TRIAL|
+|[builds](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/builds/README.md)|UNKNOWN|Microsoft.Compute/registries/builds|TRIAL|
+|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/eventGridFilters/README.md)|UNKNOWN|Microsoft.Compute/registries/eventGridFilters|TRIAL|
+|[generateCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/generateCredentials/README.md)|UNKNOWN|Microsoft.Compute/registries/generateCredentials|TRIAL|
+|[getBuildSourceUploadUrl](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/getBuildSourceUploadUrl/README.md)|UNKNOWN|Microsoft.Compute/registries/getBuildSourceUploadUrl|TRIAL|
+|[importImage](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/importImage/README.md)|UNKNOWN|Microsoft.Compute/registries/importImage|TRIAL|
+|[listBuildSourceUploadUrl](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/listBuildSourceUploadUrl/README.md)|UNKNOWN|Microsoft.Compute/registries/listBuildSourceUploadUrl|TRIAL|
+|[listCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/listCredentials/README.md)|UNKNOWN|Microsoft.Compute/registries/listCredentials|TRIAL|
+|[listPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/listPolicies/README.md)|UNKNOWN|Microsoft.Compute/registries/listPolicies|TRIAL|
+|[listUsages](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/listUsages/README.md)|UNKNOWN|Microsoft.Compute/registries/listUsages|TRIAL|
+|[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/privateEndpointConnectionProxies/README.md)|UNKNOWN|Microsoft.Compute/registries/privateEndpointConnectionProxies|TRIAL|
+|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/privateEndpointConnections/README.md)|UNKNOWN|Microsoft.Compute/registries/privateEndpointConnections|TRIAL|
+|[privateLinkResources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/privateLinkResources/README.md)|UNKNOWN|Microsoft.Compute/registries/privateLinkResources|TRIAL|
+|[queueBuild](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/queueBuild/README.md)|UNKNOWN|Microsoft.Compute/registries/queueBuild|TRIAL|
+|[regenerateCredential](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/regenerateCredential/README.md)|UNKNOWN|Microsoft.Compute/registries/regenerateCredential|TRIAL|
+|[regenerateCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/regenerateCredentials/README.md)|UNKNOWN|Microsoft.Compute/registries/regenerateCredentials|TRIAL|
+|[replications](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/replications/README.md)|UNKNOWN|Microsoft.Compute/registries/replications|TRIAL|
+|[runs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/runs/README.md)|UNKNOWN|Microsoft.Compute/registries/runs|TRIAL|
+|[scheduleRun](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/scheduleRun/README.md)|UNKNOWN|Microsoft.Compute/registries/scheduleRun|TRIAL|
+|[scopeMaps](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/scopeMaps/README.md)|UNKNOWN|Microsoft.Compute/registries/scopeMaps|TRIAL|
+|[taskRuns](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/taskRuns/README.md)|UNKNOWN|Microsoft.Compute/registries/taskRuns|TRIAL|
+|[tasks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/tasks/README.md)|UNKNOWN|Microsoft.Compute/registries/tasks|TRIAL|
+|[tokens](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/tokens/README.md)|UNKNOWN|Microsoft.Compute/registries/tokens|TRIAL|
+|[updatePolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/updatePolicies/README.md)|UNKNOWN|Microsoft.Compute/registries/updatePolicies|TRIAL|
+|[webhooks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/webhooks/README.md)|UNKNOWN|Microsoft.Compute/registries/webhooks|TRIAL|
 
 ### Hold
 

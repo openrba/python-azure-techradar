@@ -29,10 +29,10 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[disks](https://github.com/openrba/python-azure-techradar/Microsoft.Network/labs/users/disks/README.md)|UNKNOWN|Microsoft.Network/labs/users/disks|TRIAL|
-|[environments](https://github.com/openrba/python-azure-techradar/Microsoft.Network/labs/users/environments/README.md)|UNKNOWN|Microsoft.Network/labs/users/environments|TRIAL|
-|[secrets](https://github.com/openrba/python-azure-techradar/Microsoft.Network/labs/users/secrets/README.md)|UNKNOWN|Microsoft.Network/labs/users/secrets|TRIAL|
-|[serviceFabrics](https://github.com/openrba/python-azure-techradar/Microsoft.Network/labs/users/serviceFabrics/README.md)|UNKNOWN|Microsoft.Network/labs/users/serviceFabrics|TRIAL|
+|[disks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/users/disks/README.md)|UNKNOWN|Microsoft.Network/labs/users/disks|TRIAL|
+|[environments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/users/environments/README.md)|UNKNOWN|Microsoft.Network/labs/users/environments|TRIAL|
+|[secrets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/users/secrets/README.md)|UNKNOWN|Microsoft.Network/labs/users/secrets|TRIAL|
+|[serviceFabrics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/labs/users/serviceFabrics/README.md)|UNKNOWN|Microsoft.Network/labs/users/serviceFabrics|TRIAL|
 
 ### Hold
 

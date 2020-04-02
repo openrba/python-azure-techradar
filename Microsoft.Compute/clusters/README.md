@@ -29,12 +29,12 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[applicationTypes](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/clusters/applicationTypes/README.md)|UNKNOWN|Microsoft.Compute/clusters/applicationTypes|TRIAL|
-|[applications](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/clusters/applications/README.md)|UNKNOWN|Microsoft.Compute/clusters/applications|TRIAL|
-|[attacheddatabaseconfigurations](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/clusters/attacheddatabaseconfigurations/README.md)|UNKNOWN|Microsoft.Compute/clusters/attacheddatabaseconfigurations|TRIAL|
-|[databases](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/clusters/databases/README.md)|UNKNOWN|Microsoft.Compute/clusters/databases|TRIAL|
-|[operationresults](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/clusters/operationresults/README.md)|UNKNOWN|Microsoft.Compute/clusters/operationresults|TRIAL|
-|[principalassignments](https://github.com/openrba/python-azure-techradar/Microsoft.Compute/clusters/principalassignments/README.md)|UNKNOWN|Microsoft.Compute/clusters/principalassignments|TRIAL|
+|[applicationTypes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/clusters/applicationTypes/README.md)|UNKNOWN|Microsoft.Compute/clusters/applicationTypes|TRIAL|
+|[applications](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/clusters/applications/README.md)|UNKNOWN|Microsoft.Compute/clusters/applications|TRIAL|
+|[attacheddatabaseconfigurations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/clusters/attacheddatabaseconfigurations/README.md)|UNKNOWN|Microsoft.Compute/clusters/attacheddatabaseconfigurations|TRIAL|
+|[databases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/clusters/databases/README.md)|UNKNOWN|Microsoft.Compute/clusters/databases|TRIAL|
+|[operationresults](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/clusters/operationresults/README.md)|UNKNOWN|Microsoft.Compute/clusters/operationresults|TRIAL|
+|[principalassignments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/clusters/principalassignments/README.md)|UNKNOWN|Microsoft.Compute/clusters/principalassignments|TRIAL|
 
 ### Hold
 
