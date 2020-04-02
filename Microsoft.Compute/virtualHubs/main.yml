@@ -2,7 +2,7 @@ routeTables:
   path: Microsoft.Compute/virtualHubs/routeTables
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualHubs/routeTables/README.md
+  url: Microsoft.Compute/virtualHubs/routeTables
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

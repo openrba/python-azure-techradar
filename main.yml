@@ -2,7 +2,7 @@ Microsoft.AAD:
   path: Microsoft.AAD
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.AAD/README.md
+  url: Microsoft.AAD
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ Microsoft.ADHybridHealthService:
   path: Microsoft.ADHybridHealthService
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ADHybridHealthService/README.md
+  url: Microsoft.ADHybridHealthService
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ Microsoft.Addons:
   path: Microsoft.Addons
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Addons/README.md
+  url: Microsoft.Addons
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ Microsoft.Advisor:
   path: Microsoft.Advisor
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Advisor/README.md
+  url: Microsoft.Advisor
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ Microsoft.AlertsManagement:
   path: Microsoft.AlertsManagement
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.AlertsManagement/README.md
+  url: Microsoft.AlertsManagement
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ Microsoft.AnalysisServices:
   path: Microsoft.AnalysisServices
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.AnalysisServices/README.md
+  url: Microsoft.AnalysisServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ Microsoft.ApiManagement:
   path: Microsoft.ApiManagement
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ApiManagement/README.md
+  url: Microsoft.ApiManagement
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ Microsoft.AppConfiguration:
   path: Microsoft.AppConfiguration
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.AppConfiguration/README.md
+  url: Microsoft.AppConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ Microsoft.AppPlatform:
   path: Microsoft.AppPlatform
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.AppPlatform/README.md
+  url: Microsoft.AppPlatform
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ Microsoft.Attestation:
   path: Microsoft.Attestation
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Attestation/README.md
+  url: Microsoft.Attestation
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ Microsoft.Authorization:
   path: Microsoft.Authorization
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Authorization/README.md
+  url: Microsoft.Authorization
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ Microsoft.Automation:
   path: Microsoft.Automation
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Automation/README.md
+  url: Microsoft.Automation
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ Microsoft.AzureActiveDirectory:
   path: Microsoft.AzureActiveDirectory
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.AzureActiveDirectory/README.md
+  url: Microsoft.AzureActiveDirectory
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ Microsoft.AzureData:
   path: Microsoft.AzureData
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.AzureData/README.md
+  url: Microsoft.AzureData
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ Microsoft.AzureStack:
   path: Microsoft.AzureStack
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.AzureStack/README.md
+  url: Microsoft.AzureStack
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ Microsoft.Batch:
   path: Microsoft.Batch
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Batch/README.md
+  url: Microsoft.Batch
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ Microsoft.BatchAI:
   path: Microsoft.BatchAI
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.BatchAI/README.md
+  url: Microsoft.BatchAI
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ Microsoft.Billing:
   path: Microsoft.Billing
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Billing/README.md
+  url: Microsoft.Billing
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ Microsoft.BingMaps:
   path: Microsoft.BingMaps
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.BingMaps/README.md
+  url: Microsoft.BingMaps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ Microsoft.Blockchain:
   path: Microsoft.Blockchain
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Blockchain/README.md
+  url: Microsoft.Blockchain
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ Microsoft.BlockchainTokens:
   path: Microsoft.BlockchainTokens
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.BlockchainTokens/README.md
+  url: Microsoft.BlockchainTokens
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ Microsoft.Blueprint:
   path: Microsoft.Blueprint
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Blueprint/README.md
+  url: Microsoft.Blueprint
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ Microsoft.BotService:
   path: Microsoft.BotService
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.BotService/README.md
+  url: Microsoft.BotService
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ Microsoft.CDN:
   path: Microsoft.CDN
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.CDN/README.md
+  url: Microsoft.CDN
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ Microsoft.Cache:
   path: Microsoft.Cache
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Cache/README.md
+  url: Microsoft.Cache
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ Microsoft.Capacity:
   path: Microsoft.Capacity
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Capacity/README.md
+  url: Microsoft.Capacity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ Microsoft.Cdn:
   path: Microsoft.Cdn
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Cdn/README.md
+  url: Microsoft.Cdn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ Microsoft.CertificateRegistration:
   path: Microsoft.CertificateRegistration
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.CertificateRegistration/README.md
+  url: Microsoft.CertificateRegistration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ Microsoft.ChangeAnalysis:
   path: Microsoft.ChangeAnalysis
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ChangeAnalysis/README.md
+  url: Microsoft.ChangeAnalysis
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -494,14 +494,14 @@ Microsoft.ChangeAnalysis:
 Microsoft.ClassicCompute:
   path: Microsoft.ClassicCompute
   description: UNKNOWN
-  status: HOLD
-  url: Microsoft.ClassicCompute/README.md
+  status: REJECT
+  url: Microsoft.ClassicCompute
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: IAAS
+    status: REVIEWED
+    start: 1/1/2020
+    end: 1/1/2020
+    notes: Classic azure services are deprecated.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -511,14 +511,14 @@ Microsoft.ClassicCompute:
 Microsoft.ClassicInfrastructureMigrate:
   path: Microsoft.ClassicInfrastructureMigrate
   description: UNKNOWN
-  status: HOLD
-  url: Microsoft.ClassicInfrastructureMigrate/README.md
+  status: REJECT
+  url: Microsoft.ClassicInfrastructureMigrate
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: IAAS
+    status: REVIEWED
+    start: 1/1/2020
+    end: 1/1/2020
+    notes: Classic azure services are deprecated.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -528,14 +528,14 @@ Microsoft.ClassicInfrastructureMigrate:
 Microsoft.ClassicNetwork:
   path: Microsoft.ClassicNetwork
   description: UNKNOWN
-  status: HOLD
-  url: Microsoft.ClassicNetwork/README.md
+  status: REJECT
+  url: Microsoft.ClassicNetwork
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: IAAS
+    status: REVIEWED
+    start: 1/1/2020
+    end: 1/1/2020
+    notes: Classic azure services are deprecated.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -545,14 +545,14 @@ Microsoft.ClassicNetwork:
 Microsoft.ClassicStorage:
   path: Microsoft.ClassicStorage
   description: UNKNOWN
-  status: HOLD
-  url: Microsoft.ClassicStorage/README.md
+  status: REJECT
+  url: Microsoft.ClassicStorage
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: IAAS
+    status: REVIEWED
+    start: 1/1/2020
+    end: 1/1/2020
+    notes: Classic azure services are deprecated.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -562,14 +562,14 @@ Microsoft.ClassicStorage:
 Microsoft.ClassicSubscription:
   path: Microsoft.ClassicSubscription
   description: UNKNOWN
-  status: HOLD
-  url: Microsoft.ClassicSubscription/README.md
+  status: REJECT
+  url: Microsoft.ClassicSubscription
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: IAAS
+    status: REVIEWED
+    start: 1/1/2020
+    end: 1/1/2020
+    notes: Classic azure services are deprecated.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ Microsoft.CognitiveServices:
   path: Microsoft.CognitiveServices
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.CognitiveServices/README.md
+  url: Microsoft.CognitiveServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ Microsoft.Commerce:
   path: Microsoft.Commerce
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Commerce/README.md
+  url: Microsoft.Commerce
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,13 +614,13 @@ Microsoft.Compute:
   path: Microsoft.Compute
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/README.md
+  url: Microsoft.Compute
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: IAAAS
+    status: REVIEWED
+    start: 3/1/2020
     end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    notes: Currently in trial by core SRE team.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ Microsoft.Consumption:
   path: Microsoft.Consumption
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Consumption/README.md
+  url: Microsoft.Consumption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ Microsoft.ContainerInstance:
   path: Microsoft.ContainerInstance
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ContainerInstance/README.md
+  url: Microsoft.ContainerInstance
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ Microsoft.ContainerRegistry:
   path: Microsoft.ContainerRegistry
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ContainerRegistry/README.md
+  url: Microsoft.ContainerRegistry
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ Microsoft.ContainerService:
   path: Microsoft.ContainerService
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ContainerService/README.md
+  url: Microsoft.ContainerService
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ Microsoft.CostManagement:
   path: Microsoft.CostManagement
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.CostManagement/README.md
+  url: Microsoft.CostManagement
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ Microsoft.CostManagementExports:
   path: Microsoft.CostManagementExports
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.CostManagementExports/README.md
+  url: Microsoft.CostManagementExports
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ Microsoft.CustomProviders:
   path: Microsoft.CustomProviders
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.CustomProviders/README.md
+  url: Microsoft.CustomProviders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ Microsoft.CustomerLockbox:
   path: Microsoft.CustomerLockbox
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.CustomerLockbox/README.md
+  url: Microsoft.CustomerLockbox
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -767,7 +767,7 @@ Microsoft.DBforMariaDB:
   path: Microsoft.DBforMariaDB
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DBforMariaDB/README.md
+  url: Microsoft.DBforMariaDB
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -784,7 +784,7 @@ Microsoft.DBforMySQL:
   path: Microsoft.DBforMySQL
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DBforMySQL/README.md
+  url: Microsoft.DBforMySQL
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -801,7 +801,7 @@ Microsoft.DBforPostgreSQL:
   path: Microsoft.DBforPostgreSQL
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DBforPostgreSQL/README.md
+  url: Microsoft.DBforPostgreSQL
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -818,7 +818,7 @@ Microsoft.DataBox:
   path: Microsoft.DataBox
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DataBox/README.md
+  url: Microsoft.DataBox
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -835,7 +835,7 @@ Microsoft.DataBoxEdge:
   path: Microsoft.DataBoxEdge
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DataBoxEdge/README.md
+  url: Microsoft.DataBoxEdge
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -852,7 +852,7 @@ Microsoft.DataBricks:
   path: Microsoft.DataBricks
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DataBricks/README.md
+  url: Microsoft.DataBricks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -869,7 +869,7 @@ Microsoft.DataCatalog:
   path: Microsoft.DataCatalog
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DataCatalog/README.md
+  url: Microsoft.DataCatalog
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -886,7 +886,7 @@ Microsoft.DataFactory:
   path: Microsoft.DataFactory
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DataFactory/README.md
+  url: Microsoft.DataFactory
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -903,7 +903,7 @@ Microsoft.DataLakeAnalytics:
   path: Microsoft.DataLakeAnalytics
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DataLakeAnalytics/README.md
+  url: Microsoft.DataLakeAnalytics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -920,7 +920,7 @@ Microsoft.DataLakeStore:
   path: Microsoft.DataLakeStore
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DataLakeStore/README.md
+  url: Microsoft.DataLakeStore
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -937,7 +937,7 @@ Microsoft.DataMigration:
   path: Microsoft.DataMigration
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DataMigration/README.md
+  url: Microsoft.DataMigration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -954,7 +954,7 @@ Microsoft.DataShare:
   path: Microsoft.DataShare
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DataShare/README.md
+  url: Microsoft.DataShare
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -971,7 +971,7 @@ Microsoft.Databricks:
   path: Microsoft.Databricks
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Databricks/README.md
+  url: Microsoft.Databricks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -988,7 +988,7 @@ Microsoft.DeploymentManager:
   path: Microsoft.DeploymentManager
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DeploymentManager/README.md
+  url: Microsoft.DeploymentManager
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1005,7 +1005,7 @@ Microsoft.DesktopVirtualization:
   path: Microsoft.DesktopVirtualization
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DesktopVirtualization/README.md
+  url: Microsoft.DesktopVirtualization
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1022,7 +1022,7 @@ Microsoft.DevOps:
   path: Microsoft.DevOps
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DevOps/README.md
+  url: Microsoft.DevOps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1039,7 +1039,7 @@ Microsoft.DevSpaces:
   path: Microsoft.DevSpaces
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DevSpaces/README.md
+  url: Microsoft.DevSpaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1056,7 +1056,7 @@ Microsoft.DevTestLab:
   path: Microsoft.DevTestLab
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DevTestLab/README.md
+  url: Microsoft.DevTestLab
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1073,7 +1073,7 @@ Microsoft.Devices:
   path: Microsoft.Devices
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Devices/README.md
+  url: Microsoft.Devices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1090,7 +1090,7 @@ Microsoft.DigitalTwins:
   path: Microsoft.DigitalTwins
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DigitalTwins/README.md
+  url: Microsoft.DigitalTwins
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1107,7 +1107,7 @@ Microsoft.DocumentDB:
   path: Microsoft.DocumentDB
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DocumentDB/README.md
+  url: Microsoft.DocumentDB
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1124,7 +1124,7 @@ Microsoft.DomainRegistration:
   path: Microsoft.DomainRegistration
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.DomainRegistration/README.md
+  url: Microsoft.DomainRegistration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1141,7 +1141,7 @@ Microsoft.EnterpriseKnowledgeGraph:
   path: Microsoft.EnterpriseKnowledgeGraph
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.EnterpriseKnowledgeGraph/README.md
+  url: Microsoft.EnterpriseKnowledgeGraph
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1158,7 +1158,7 @@ Microsoft.EventGrid:
   path: Microsoft.EventGrid
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.EventGrid/README.md
+  url: Microsoft.EventGrid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1175,7 +1175,7 @@ Microsoft.EventHub:
   path: Microsoft.EventHub
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.EventHub/README.md
+  url: Microsoft.EventHub
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1192,7 +1192,7 @@ Microsoft.Experimentation:
   path: Microsoft.Experimentation
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Experimentation/README.md
+  url: Microsoft.Experimentation
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1209,7 +1209,7 @@ Microsoft.Falcon:
   path: Microsoft.Falcon
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Falcon/README.md
+  url: Microsoft.Falcon
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1226,7 +1226,7 @@ Microsoft.Features:
   path: Microsoft.Features
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Features/README.md
+  url: Microsoft.Features
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1243,7 +1243,7 @@ Microsoft.GuestConfiguration:
   path: Microsoft.GuestConfiguration
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.GuestConfiguration/README.md
+  url: Microsoft.GuestConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1260,7 +1260,7 @@ Microsoft.HDInsight:
   path: Microsoft.HDInsight
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.HDInsight/README.md
+  url: Microsoft.HDInsight
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1277,7 +1277,7 @@ Microsoft.HanaOnAzure:
   path: Microsoft.HanaOnAzure
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.HanaOnAzure/README.md
+  url: Microsoft.HanaOnAzure
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1294,7 +1294,7 @@ Microsoft.HardwareSecurityModules:
   path: Microsoft.HardwareSecurityModules
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.HardwareSecurityModules/README.md
+  url: Microsoft.HardwareSecurityModules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1311,7 +1311,7 @@ Microsoft.HealthcareApis:
   path: Microsoft.HealthcareApis
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.HealthcareApis/README.md
+  url: Microsoft.HealthcareApis
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1328,7 +1328,7 @@ Microsoft.HybridCompute:
   path: Microsoft.HybridCompute
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.HybridCompute/README.md
+  url: Microsoft.HybridCompute
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1345,7 +1345,7 @@ Microsoft.HybridData:
   path: Microsoft.HybridData
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.HybridData/README.md
+  url: Microsoft.HybridData
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1362,7 +1362,7 @@ Microsoft.Hydra:
   path: Microsoft.Hydra
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Hydra/README.md
+  url: Microsoft.Hydra
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1379,7 +1379,7 @@ Microsoft.ImportExport:
   path: Microsoft.ImportExport
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ImportExport/README.md
+  url: Microsoft.ImportExport
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1396,7 +1396,7 @@ Microsoft.Insights:
   path: Microsoft.Insights
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Insights/README.md
+  url: Microsoft.Insights
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1413,7 +1413,7 @@ Microsoft.IoTCentral:
   path: Microsoft.IoTCentral
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.IoTCentral/README.md
+  url: Microsoft.IoTCentral
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1430,7 +1430,7 @@ Microsoft.IoTSpaces:
   path: Microsoft.IoTSpaces
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.IoTSpaces/README.md
+  url: Microsoft.IoTSpaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1447,7 +1447,7 @@ Microsoft.KeyVault:
   path: Microsoft.KeyVault
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.KeyVault/README.md
+  url: Microsoft.KeyVault
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1464,7 +1464,7 @@ Microsoft.Keyvault:
   path: Microsoft.Keyvault
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Keyvault/README.md
+  url: Microsoft.Keyvault
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1481,7 +1481,7 @@ Microsoft.Kubernetes:
   path: Microsoft.Kubernetes
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Kubernetes/README.md
+  url: Microsoft.Kubernetes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1498,7 +1498,7 @@ Microsoft.Kusto:
   path: Microsoft.Kusto
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Kusto/README.md
+  url: Microsoft.Kusto
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1515,7 +1515,7 @@ Microsoft.LabServices:
   path: Microsoft.LabServices
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.LabServices/README.md
+  url: Microsoft.LabServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1532,7 +1532,7 @@ Microsoft.Logic:
   path: Microsoft.Logic
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Logic/README.md
+  url: Microsoft.Logic
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1549,7 +1549,7 @@ Microsoft.MachineLearning:
   path: Microsoft.MachineLearning
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.MachineLearning/README.md
+  url: Microsoft.MachineLearning
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1566,7 +1566,7 @@ Microsoft.MachineLearningServices:
   path: Microsoft.MachineLearningServices
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.MachineLearningServices/README.md
+  url: Microsoft.MachineLearningServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1583,7 +1583,7 @@ Microsoft.Maintenance:
   path: Microsoft.Maintenance
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Maintenance/README.md
+  url: Microsoft.Maintenance
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1600,7 +1600,7 @@ Microsoft.ManagedIdentity:
   path: Microsoft.ManagedIdentity
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ManagedIdentity/README.md
+  url: Microsoft.ManagedIdentity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1617,7 +1617,7 @@ Microsoft.ManagedServices:
   path: Microsoft.ManagedServices
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ManagedServices/README.md
+  url: Microsoft.ManagedServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1634,7 +1634,7 @@ Microsoft.Management:
   path: Microsoft.Management
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Management/README.md
+  url: Microsoft.Management
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1651,7 +1651,7 @@ Microsoft.Maps:
   path: Microsoft.Maps
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Maps/README.md
+  url: Microsoft.Maps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1668,7 +1668,7 @@ Microsoft.Marketplace:
   path: Microsoft.Marketplace
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Marketplace/README.md
+  url: Microsoft.Marketplace
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1685,7 +1685,7 @@ Microsoft.MarketplaceApps:
   path: Microsoft.MarketplaceApps
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.MarketplaceApps/README.md
+  url: Microsoft.MarketplaceApps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1702,7 +1702,7 @@ Microsoft.MarketplaceOrdering:
   path: Microsoft.MarketplaceOrdering
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.MarketplaceOrdering/README.md
+  url: Microsoft.MarketplaceOrdering
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1719,7 +1719,7 @@ Microsoft.Media:
   path: Microsoft.Media
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Media/README.md
+  url: Microsoft.Media
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1736,7 +1736,7 @@ Microsoft.Migrate:
   path: Microsoft.Migrate
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Migrate/README.md
+  url: Microsoft.Migrate
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1753,7 +1753,7 @@ Microsoft.MixedReality:
   path: Microsoft.MixedReality
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.MixedReality/README.md
+  url: Microsoft.MixedReality
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1770,7 +1770,7 @@ Microsoft.NetApp:
   path: Microsoft.NetApp
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.NetApp/README.md
+  url: Microsoft.NetApp
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1787,13 +1787,13 @@ Microsoft.Network:
   path: Microsoft.Network
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/README.md
+  url: Microsoft.Network
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: IAAS
+    status: REVIEWED
+    start: 3/1/2020
     end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    notes: Currently in trial by core SRE team.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -1804,7 +1804,7 @@ Microsoft.NotificationHubs:
   path: Microsoft.NotificationHubs
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.NotificationHubs/README.md
+  url: Microsoft.NotificationHubs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1821,7 +1821,7 @@ Microsoft.ObjectStore:
   path: Microsoft.ObjectStore
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ObjectStore/README.md
+  url: Microsoft.ObjectStore
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1838,7 +1838,7 @@ Microsoft.OffAzure:
   path: Microsoft.OffAzure
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.OffAzure/README.md
+  url: Microsoft.OffAzure
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1855,7 +1855,7 @@ Microsoft.OperationalInsights:
   path: Microsoft.OperationalInsights
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.OperationalInsights/README.md
+  url: Microsoft.OperationalInsights
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1872,7 +1872,7 @@ Microsoft.OperationsManagement:
   path: Microsoft.OperationsManagement
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.OperationsManagement/README.md
+  url: Microsoft.OperationsManagement
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1889,7 +1889,7 @@ Microsoft.Peering:
   path: Microsoft.Peering
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Peering/README.md
+  url: Microsoft.Peering
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1906,7 +1906,7 @@ Microsoft.PolicyInsights:
   path: Microsoft.PolicyInsights
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.PolicyInsights/README.md
+  url: Microsoft.PolicyInsights
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1923,7 +1923,7 @@ Microsoft.Portal:
   path: Microsoft.Portal
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Portal/README.md
+  url: Microsoft.Portal
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1940,7 +1940,7 @@ Microsoft.PowerBI:
   path: Microsoft.PowerBI
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.PowerBI/README.md
+  url: Microsoft.PowerBI
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1957,7 +1957,7 @@ Microsoft.PowerBIDedicated:
   path: Microsoft.PowerBIDedicated
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.PowerBIDedicated/README.md
+  url: Microsoft.PowerBIDedicated
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1974,7 +1974,7 @@ Microsoft.ProjectBabylon:
   path: Microsoft.ProjectBabylon
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ProjectBabylon/README.md
+  url: Microsoft.ProjectBabylon
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1991,7 +1991,7 @@ Microsoft.ProviderHub:
   path: Microsoft.ProviderHub
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ProviderHub/README.md
+  url: Microsoft.ProviderHub
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2008,7 +2008,7 @@ Microsoft.Quantum:
   path: Microsoft.Quantum
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Quantum/README.md
+  url: Microsoft.Quantum
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2025,7 +2025,7 @@ Microsoft.RecoveryServices:
   path: Microsoft.RecoveryServices
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.RecoveryServices/README.md
+  url: Microsoft.RecoveryServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2042,7 +2042,7 @@ Microsoft.RedHatOpenShift:
   path: Microsoft.RedHatOpenShift
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.RedHatOpenShift/README.md
+  url: Microsoft.RedHatOpenShift
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2059,7 +2059,7 @@ Microsoft.Relay:
   path: Microsoft.Relay
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Relay/README.md
+  url: Microsoft.Relay
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2076,7 +2076,7 @@ Microsoft.ResourceGraph:
   path: Microsoft.ResourceGraph
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ResourceGraph/README.md
+  url: Microsoft.ResourceGraph
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2093,7 +2093,7 @@ Microsoft.ResourceHealth:
   path: Microsoft.ResourceHealth
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ResourceHealth/README.md
+  url: Microsoft.ResourceHealth
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2110,7 +2110,7 @@ Microsoft.Resources:
   path: Microsoft.Resources
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Resources/README.md
+  url: Microsoft.Resources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2127,7 +2127,7 @@ Microsoft.SaaS:
   path: Microsoft.SaaS
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.SaaS/README.md
+  url: Microsoft.SaaS
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2144,7 +2144,7 @@ Microsoft.Scheduler:
   path: Microsoft.Scheduler
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Scheduler/README.md
+  url: Microsoft.Scheduler
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2161,7 +2161,7 @@ Microsoft.Search:
   path: Microsoft.Search
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Search/README.md
+  url: Microsoft.Search
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2178,7 +2178,7 @@ Microsoft.Security:
   path: Microsoft.Security
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Security/README.md
+  url: Microsoft.Security
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2195,7 +2195,7 @@ Microsoft.SecurityInsights:
   path: Microsoft.SecurityInsights
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.SecurityInsights/README.md
+  url: Microsoft.SecurityInsights
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2212,7 +2212,7 @@ Microsoft.SerialConsole:
   path: Microsoft.SerialConsole
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.SerialConsole/README.md
+  url: Microsoft.SerialConsole
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2229,7 +2229,7 @@ Microsoft.ServiceBus:
   path: Microsoft.ServiceBus
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ServiceBus/README.md
+  url: Microsoft.ServiceBus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2246,7 +2246,7 @@ Microsoft.ServiceFabric:
   path: Microsoft.ServiceFabric
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ServiceFabric/README.md
+  url: Microsoft.ServiceFabric
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2263,7 +2263,7 @@ Microsoft.ServiceFabricMesh:
   path: Microsoft.ServiceFabricMesh
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.ServiceFabricMesh/README.md
+  url: Microsoft.ServiceFabricMesh
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2280,7 +2280,7 @@ Microsoft.Services:
   path: Microsoft.Services
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Services/README.md
+  url: Microsoft.Services
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2297,7 +2297,7 @@ Microsoft.SignalRService:
   path: Microsoft.SignalRService
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.SignalRService/README.md
+  url: Microsoft.SignalRService
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2314,7 +2314,7 @@ Microsoft.SignalRservice:
   path: Microsoft.SignalRservice
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.SignalRservice/README.md
+  url: Microsoft.SignalRservice
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2331,7 +2331,7 @@ Microsoft.SoftwarePlan:
   path: Microsoft.SoftwarePlan
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.SoftwarePlan/README.md
+  url: Microsoft.SoftwarePlan
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2348,7 +2348,7 @@ Microsoft.Solutions:
   path: Microsoft.Solutions
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Solutions/README.md
+  url: Microsoft.Solutions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2365,7 +2365,7 @@ Microsoft.Sql:
   path: Microsoft.Sql
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Sql/README.md
+  url: Microsoft.Sql
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2382,7 +2382,7 @@ Microsoft.SqlVirtualMachine:
   path: Microsoft.SqlVirtualMachine
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.SqlVirtualMachine/README.md
+  url: Microsoft.SqlVirtualMachine
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2399,7 +2399,7 @@ Microsoft.StorSimple:
   path: Microsoft.StorSimple
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.StorSimple/README.md
+  url: Microsoft.StorSimple
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2416,7 +2416,7 @@ Microsoft.Storage:
   path: Microsoft.Storage
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Storage/README.md
+  url: Microsoft.Storage
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2433,7 +2433,7 @@ Microsoft.StorageCache:
   path: Microsoft.StorageCache
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.StorageCache/README.md
+  url: Microsoft.StorageCache
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2450,7 +2450,7 @@ Microsoft.StorageSync:
   path: Microsoft.StorageSync
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.StorageSync/README.md
+  url: Microsoft.StorageSync
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2467,7 +2467,7 @@ Microsoft.StreamAnalytics:
   path: Microsoft.StreamAnalytics
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.StreamAnalytics/README.md
+  url: Microsoft.StreamAnalytics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2484,7 +2484,7 @@ Microsoft.Subscription:
   path: Microsoft.Subscription
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Subscription/README.md
+  url: Microsoft.Subscription
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2501,7 +2501,7 @@ Microsoft.Synapse:
   path: Microsoft.Synapse
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Synapse/README.md
+  url: Microsoft.Synapse
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2518,7 +2518,7 @@ Microsoft.TimeSeriesInsights:
   path: Microsoft.TimeSeriesInsights
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.TimeSeriesInsights/README.md
+  url: Microsoft.TimeSeriesInsights
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2535,7 +2535,7 @@ Microsoft.Token:
   path: Microsoft.Token
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Token/README.md
+  url: Microsoft.Token
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2552,7 +2552,7 @@ Microsoft.VMwareCloudSimple:
   path: Microsoft.VMwareCloudSimple
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.VMwareCloudSimple/README.md
+  url: Microsoft.VMwareCloudSimple
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2569,7 +2569,7 @@ Microsoft.VSOnline:
   path: Microsoft.VSOnline
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.VSOnline/README.md
+  url: Microsoft.VSOnline
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2586,7 +2586,7 @@ Microsoft.VirtualMachineImages:
   path: Microsoft.VirtualMachineImages
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.VirtualMachineImages/README.md
+  url: Microsoft.VirtualMachineImages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2603,7 +2603,7 @@ Microsoft.VisualStudio:
   path: Microsoft.VisualStudio
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.VisualStudio/README.md
+  url: Microsoft.VisualStudio
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2620,7 +2620,7 @@ Microsoft.VnfManager:
   path: Microsoft.VnfManager
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.VnfManager/README.md
+  url: Microsoft.VnfManager
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2637,7 +2637,7 @@ Microsoft.Web:
   path: Microsoft.Web
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.Web/README.md
+  url: Microsoft.Web
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2654,7 +2654,7 @@ Microsoft.WindowsESU:
   path: Microsoft.WindowsESU
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.WindowsESU/README.md
+  url: Microsoft.WindowsESU
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2671,7 +2671,7 @@ Microsoft.WindowsIoT:
   path: Microsoft.WindowsIoT
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.WindowsIoT/README.md
+  url: Microsoft.WindowsIoT
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2688,7 +2688,7 @@ Microsoft.WorkloadMonitor:
   path: Microsoft.WorkloadMonitor
   description: UNKNOWN
   status: HOLD
-  url: Microsoft.WorkloadMonitor/README.md
+  url: Microsoft.WorkloadMonitor
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

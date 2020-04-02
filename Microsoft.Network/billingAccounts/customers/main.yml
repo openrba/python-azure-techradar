@@ -2,7 +2,7 @@ billingPermissions:
   path: Microsoft.Network/billingAccounts/customers/billingPermissions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/customers/billingPermissions/README.md
+  url: Microsoft.Network/billingAccounts/customers/billingPermissions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ billingSubscriptions:
   path: Microsoft.Network/billingAccounts/customers/billingSubscriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/customers/billingSubscriptions/README.md
+  url: Microsoft.Network/billingAccounts/customers/billingSubscriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ initiateTransfer:
   path: Microsoft.Network/billingAccounts/customers/initiateTransfer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/customers/initiateTransfer/README.md
+  url: Microsoft.Network/billingAccounts/customers/initiateTransfer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ policies:
   path: Microsoft.Network/billingAccounts/customers/policies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/customers/policies/README.md
+  url: Microsoft.Network/billingAccounts/customers/policies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ products:
   path: Microsoft.Network/billingAccounts/customers/products
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/customers/products/README.md
+  url: Microsoft.Network/billingAccounts/customers/products
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ transactions:
   path: Microsoft.Network/billingAccounts/customers/transactions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/customers/transactions/README.md
+  url: Microsoft.Network/billingAccounts/customers/transactions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ transfers:
   path: Microsoft.Network/billingAccounts/customers/transfers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/customers/transfers/README.md
+  url: Microsoft.Network/billingAccounts/customers/transfers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

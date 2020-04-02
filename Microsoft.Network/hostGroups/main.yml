@@ -2,7 +2,7 @@ hosts:
   path: Microsoft.Network/hostGroups/hosts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/hostGroups/hosts/README.md
+  url: Microsoft.Network/hostGroups/hosts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ extension:
   path: Microsoft.Network/account/extension
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/account/extension/README.md
+  url: Microsoft.Network/account/extension
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ project:
   path: Microsoft.Network/account/project
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/account/project/README.md
+  url: Microsoft.Network/account/project
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

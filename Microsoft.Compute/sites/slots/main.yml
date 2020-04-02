@@ -2,7 +2,7 @@ config:
   path: Microsoft.Compute/sites/slots/config
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sites/slots/config/README.md
+  url: Microsoft.Compute/sites/slots/config
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ domainownershipidentifiers:
   path: Microsoft.Compute/sites/slots/domainownershipidentifiers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sites/slots/domainownershipidentifiers/README.md
+  url: Microsoft.Compute/sites/slots/domainownershipidentifiers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ eventGridFilters:
   path: Microsoft.Compute/sites/slots/eventGridFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sites/slots/eventGridFilters/README.md
+  url: Microsoft.Compute/sites/slots/eventGridFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ hostNameBindings:
   path: Microsoft.Compute/sites/slots/hostNameBindings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sites/slots/hostNameBindings/README.md
+  url: Microsoft.Compute/sites/slots/hostNameBindings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ hybridconnection:
   path: Microsoft.Compute/sites/slots/hybridconnection
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sites/slots/hybridconnection/README.md
+  url: Microsoft.Compute/sites/slots/hybridconnection
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ hybridconnectionnamespaces:
   path: Microsoft.Compute/sites/slots/hybridconnectionnamespaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sites/slots/hybridconnectionnamespaces/README.md
+  url: Microsoft.Compute/sites/slots/hybridconnectionnamespaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ networkConfig:
   path: Microsoft.Compute/sites/slots/networkConfig
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sites/slots/networkConfig/README.md
+  url: Microsoft.Compute/sites/slots/networkConfig
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ premieraddons:
   path: Microsoft.Compute/sites/slots/premieraddons
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sites/slots/premieraddons/README.md
+  url: Microsoft.Compute/sites/slots/premieraddons
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ publiccertificates:
   path: Microsoft.Compute/sites/slots/publiccertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sites/slots/publiccertificates/README.md
+  url: Microsoft.Compute/sites/slots/publiccertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ sourcecontrols:
   path: Microsoft.Compute/sites/slots/sourcecontrols
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sites/slots/sourcecontrols/README.md
+  url: Microsoft.Compute/sites/slots/sourcecontrols
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ virtualnetworkconnections:
   path: Microsoft.Compute/sites/slots/virtualnetworkconnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sites/slots/virtualnetworkconnections/README.md
+  url: Microsoft.Compute/sites/slots/virtualnetworkconnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

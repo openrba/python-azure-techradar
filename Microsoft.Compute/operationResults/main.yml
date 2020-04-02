@@ -2,7 +2,7 @@ asyncOperation:
   path: Microsoft.Compute/operationResults/asyncOperation
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/operationResults/asyncOperation/README.md
+  url: Microsoft.Compute/operationResults/asyncOperation
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

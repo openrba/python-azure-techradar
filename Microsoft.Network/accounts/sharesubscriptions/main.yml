@@ -2,7 +2,7 @@ consumerSourceDataSets:
   path: Microsoft.Network/accounts/sharesubscriptions/consumerSourceDataSets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/sharesubscriptions/consumerSourceDataSets/README.md
+  url: Microsoft.Network/accounts/sharesubscriptions/consumerSourceDataSets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ datasetmappings:
   path: Microsoft.Network/accounts/sharesubscriptions/datasetmappings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/sharesubscriptions/datasetmappings/README.md
+  url: Microsoft.Network/accounts/sharesubscriptions/datasetmappings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ triggers:
   path: Microsoft.Network/accounts/sharesubscriptions/triggers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/sharesubscriptions/triggers/README.md
+  url: Microsoft.Network/accounts/sharesubscriptions/triggers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

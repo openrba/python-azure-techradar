@@ -2,7 +2,7 @@ files:
   path: Microsoft.Network/services/projects/files
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/services/projects/files/README.md
+  url: Microsoft.Network/services/projects/files
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ tasks:
   path: Microsoft.Network/services/projects/tasks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/services/projects/tasks/README.md
+  url: Microsoft.Network/services/projects/tasks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

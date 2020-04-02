@@ -2,7 +2,7 @@ shares:
   path: Microsoft.Network/storageAccounts/fileServices/shares
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/storageAccounts/fileServices/shares/README.md
+  url: Microsoft.Network/storageAccounts/fileServices/shares
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ description:
   path: Microsoft.Compute/galleries/images/description
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/description/README.md
+  url: Microsoft.Compute/galleries/images/description
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ disallowed:
   path: Microsoft.Compute/galleries/images/disallowed
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/disallowed/README.md
+  url: Microsoft.Compute/galleries/images/disallowed
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ disallowed.diskTypes:
   path: Microsoft.Compute/galleries/images/disallowed.diskTypes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/disallowed.diskTypes/README.md
+  url: Microsoft.Compute/galleries/images/disallowed.diskTypes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ disallowed.diskTypes[*]:
   path: Microsoft.Compute/galleries/images/disallowed.diskTypes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/disallowed.diskTypes[*]/README.md
+  url: Microsoft.Compute/galleries/images/disallowed.diskTypes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ endOfLifeDate:
   path: Microsoft.Compute/galleries/images/endOfLifeDate
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/endOfLifeDate/README.md
+  url: Microsoft.Compute/galleries/images/endOfLifeDate
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ eula:
   path: Microsoft.Compute/galleries/images/eula
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/eula/README.md
+  url: Microsoft.Compute/galleries/images/eula
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ hyperVGeneration:
   path: Microsoft.Compute/galleries/images/hyperVGeneration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/hyperVGeneration/README.md
+  url: Microsoft.Compute/galleries/images/hyperVGeneration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ identifier:
   path: Microsoft.Compute/galleries/images/identifier
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/identifier/README.md
+  url: Microsoft.Compute/galleries/images/identifier
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ identifier.offer:
   path: Microsoft.Compute/galleries/images/identifier.offer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/identifier.offer/README.md
+  url: Microsoft.Compute/galleries/images/identifier.offer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ identifier.publisher:
   path: Microsoft.Compute/galleries/images/identifier.publisher
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/identifier.publisher/README.md
+  url: Microsoft.Compute/galleries/images/identifier.publisher
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ identifier.sku:
   path: Microsoft.Compute/galleries/images/identifier.sku
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/identifier.sku/README.md
+  url: Microsoft.Compute/galleries/images/identifier.sku
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ osState:
   path: Microsoft.Compute/galleries/images/osState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/osState/README.md
+  url: Microsoft.Compute/galleries/images/osState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ osType:
   path: Microsoft.Compute/galleries/images/osType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/osType/README.md
+  url: Microsoft.Compute/galleries/images/osType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ privacyStatementUri:
   path: Microsoft.Compute/galleries/images/privacyStatementUri
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/privacyStatementUri/README.md
+  url: Microsoft.Compute/galleries/images/privacyStatementUri
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ provisioningState:
   path: Microsoft.Compute/galleries/images/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/provisioningState/README.md
+  url: Microsoft.Compute/galleries/images/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ purchasePlan:
   path: Microsoft.Compute/galleries/images/purchasePlan
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/purchasePlan/README.md
+  url: Microsoft.Compute/galleries/images/purchasePlan
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ purchasePlan.name:
   path: Microsoft.Compute/galleries/images/purchasePlan.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/purchasePlan.name/README.md
+  url: Microsoft.Compute/galleries/images/purchasePlan.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ purchasePlan.product:
   path: Microsoft.Compute/galleries/images/purchasePlan.product
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/purchasePlan.product/README.md
+  url: Microsoft.Compute/galleries/images/purchasePlan.product
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ purchasePlan.publisher:
   path: Microsoft.Compute/galleries/images/purchasePlan.publisher
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/purchasePlan.publisher/README.md
+  url: Microsoft.Compute/galleries/images/purchasePlan.publisher
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ recommended:
   path: Microsoft.Compute/galleries/images/recommended
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/recommended/README.md
+  url: Microsoft.Compute/galleries/images/recommended
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ recommended.memory:
   path: Microsoft.Compute/galleries/images/recommended.memory
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/recommended.memory/README.md
+  url: Microsoft.Compute/galleries/images/recommended.memory
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ recommended.memory.max:
   path: Microsoft.Compute/galleries/images/recommended.memory.max
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/recommended.memory.max/README.md
+  url: Microsoft.Compute/galleries/images/recommended.memory.max
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ recommended.memory.min:
   path: Microsoft.Compute/galleries/images/recommended.memory.min
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/recommended.memory.min/README.md
+  url: Microsoft.Compute/galleries/images/recommended.memory.min
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ recommended.vCPUs:
   path: Microsoft.Compute/galleries/images/recommended.vCPUs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/recommended.vCPUs/README.md
+  url: Microsoft.Compute/galleries/images/recommended.vCPUs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ recommended.vCPUs.max:
   path: Microsoft.Compute/galleries/images/recommended.vCPUs.max
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/recommended.vCPUs.max/README.md
+  url: Microsoft.Compute/galleries/images/recommended.vCPUs.max
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ recommended.vCPUs.min:
   path: Microsoft.Compute/galleries/images/recommended.vCPUs.min
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/recommended.vCPUs.min/README.md
+  url: Microsoft.Compute/galleries/images/recommended.vCPUs.min
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ releaseNoteUri:
   path: Microsoft.Compute/galleries/images/releaseNoteUri
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/releaseNoteUri/README.md
+  url: Microsoft.Compute/galleries/images/releaseNoteUri
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ versions:
   path: Microsoft.Compute/galleries/images/versions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/README.md
+  url: Microsoft.Compute/galleries/images/versions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

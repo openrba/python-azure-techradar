@@ -2,7 +2,7 @@ dnsName:
   path: Microsoft.Network/bastionHosts/dnsName
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/dnsName/README.md
+  url: Microsoft.Network/bastionHosts/dnsName
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ ipConfigurations:
   path: Microsoft.Network/bastionHosts/ipConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/ipConfigurations/README.md
+  url: Microsoft.Network/bastionHosts/ipConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ ipConfigurations[*]:
   path: Microsoft.Network/bastionHosts/ipConfigurations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/ipConfigurations[*]/README.md
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ ipConfigurations[*].etag:
   path: Microsoft.Network/bastionHosts/ipConfigurations[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/ipConfigurations[*].etag/README.md
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ ipConfigurations[*].id:
   path: Microsoft.Network/bastionHosts/ipConfigurations[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/ipConfigurations[*].id/README.md
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ ipConfigurations[*].name:
   path: Microsoft.Network/bastionHosts/ipConfigurations[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/ipConfigurations[*].name/README.md
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ ipConfigurations[*].privateIPAllocationMethod:
   path: Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod/README.md
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].privateIPAllocationMethod
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ ipConfigurations[*].provisioningState:
   path: Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState/README.md
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ ipConfigurations[*].publicIPAddress:
   path: Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress/README.md
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ ipConfigurations[*].publicIPAddress.id:
   path: Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id/README.md
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].publicIPAddress.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ ipConfigurations[*].subnet:
   path: Microsoft.Network/bastionHosts/ipConfigurations[*].subnet
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/ipConfigurations[*].subnet/README.md
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].subnet
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ ipConfigurations[*].subnet.id:
   path: Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id/README.md
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].subnet.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ ipConfigurations[*].type:
   path: Microsoft.Network/bastionHosts/ipConfigurations[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/ipConfigurations[*].type/README.md
+  url: Microsoft.Network/bastionHosts/ipConfigurations[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ provisioningState:
   path: Microsoft.Network/bastionHosts/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/provisioningState/README.md
+  url: Microsoft.Network/bastionHosts/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

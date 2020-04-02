@@ -2,7 +2,7 @@ syncMembers:
   path: Microsoft.Network/servers/databases/syncGroups/syncMembers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/syncGroups/syncMembers/README.md
+  url: Microsoft.Network/servers/databases/syncGroups/syncMembers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

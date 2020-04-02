@@ -2,7 +2,7 @@ securityRules:
   path: Microsoft.Compute/networkSecurityGroups/securityRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/networkSecurityGroups/securityRules/README.md
+  url: Microsoft.Compute/networkSecurityGroups/securityRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

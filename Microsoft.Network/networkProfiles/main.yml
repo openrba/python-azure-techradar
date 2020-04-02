@@ -2,7 +2,7 @@ containerNetworkInterfaceConfigurations:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ containerNetworkInterfaceConfigurations[*]:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*]:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].etag:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].id:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].name:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].type:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].type/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].containerNetworkInterfaces[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ containerNetworkInterfaceConfigurations[*].etag:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ containerNetworkInterfaceConfigurations[*].id:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ containerNetworkInterfaceConfigurations[*].ipConfigurations:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ containerNetworkInterfaceConfigurations[*].ipConfigurations[*]:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ containerNetworkInterfaceConfigurations[*].ipConfigurations[*].etag:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ containerNetworkInterfaceConfigurations[*].ipConfigurations[*].id:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ containerNetworkInterfaceConfigurations[*].ipConfigurations[*].name:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ containerNetworkInterfaceConfigurations[*].ipConfigurations[*].provisioningState
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet.etag:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet.etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet.id:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet.id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet.name:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet.name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].subnet.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ containerNetworkInterfaceConfigurations[*].ipConfigurations[*].type:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].type/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].ipConfigurations[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ containerNetworkInterfaceConfigurations[*].name:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ containerNetworkInterfaceConfigurations[*].provisioningState:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ containerNetworkInterfaceConfigurations[*].type:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].type/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaceConfigurations[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ containerNetworkInterfaces:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ containerNetworkInterfaces[*]:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ containerNetworkInterfaces[*].container:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].container
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].container/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].container
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ containerNetworkInterfaces[*].container.id:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].container.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].container.id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].container.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.etag:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.id:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.addressPrefix
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.addressPrefix/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.addressPrefix
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.addressPrefixes/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.addressPrefixes[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].actions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].actions/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].actions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].actions[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].actions[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].actions[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -767,7 +767,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -784,7 +784,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -801,7 +801,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -818,7 +818,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].serviceName
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].serviceName/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.delegations[*].serviceName
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -835,7 +835,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -852,7 +852,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -869,7 +869,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.interfaceEndpoints
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.interfaceEndpoints/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.interfaceEndpoints
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -886,7 +886,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.interfaceEndpoints[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.interfaceEndpoints[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.interfaceEndpoints[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -903,7 +903,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.interfaceEndpoints[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.interfaceEndpoints[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.interfaceEndpoints[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -920,7 +920,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -937,7 +937,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -954,7 +954,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -971,7 +971,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -988,7 +988,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles[*].type/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.ipConfigurationProfiles[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1005,7 +1005,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1022,7 +1022,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.natGateway
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.natGateway/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.natGateway
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1039,7 +1039,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.natGateway.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.natGateway.id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.natGateway.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1056,7 +1056,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1073,7 +1073,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.defaultSecurityRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.defaultSecurityRules/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.defaultSecurityRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1090,7 +1090,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.defaultSecurityRules[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.defaultSecurityRules[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.defaultSecurityRules[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1107,7 +1107,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.defaultSecurityRules[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.defaultSecurityRules[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.defaultSecurityRules[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1124,7 +1124,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.defaultSecurityRules[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.defaultSecurityRules[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.defaultSecurityRules[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1141,7 +1141,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1158,7 +1158,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1175,7 +1175,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1192,7 +1192,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1209,7 +1209,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.appliedDnsServers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.appliedDnsServers/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.appliedDnsServers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1226,7 +1226,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.appliedDnsServers[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.appliedDnsServers[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.appliedDnsServers[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1243,7 +1243,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.dnsServers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.dnsServers/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.dnsServers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1260,7 +1260,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.dnsServers[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.dnsServers[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.dnsServers[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1277,7 +1277,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.internalDnsNameLabel
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.internalDnsNameLabel/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.internalDnsNameLabel
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1294,7 +1294,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.internalDomainNameSuffix
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.internalDomainNameSuffix/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.internalDomainNameSuffix
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1311,7 +1311,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.internalFqdn
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.internalFqdn/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].dnsSettings.internalFqdn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1328,7 +1328,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].enableAcceleratedNetworking
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].enableAcceleratedNetworking/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].enableAcceleratedNetworking
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1345,7 +1345,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].enableIPForwarding
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].enableIPForwarding/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].enableIPForwarding
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1362,7 +1362,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1379,7 +1379,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].hostedWorkloads
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].hostedWorkloads/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].hostedWorkloads
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1396,7 +1396,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].hostedWorkloads[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].hostedWorkloads[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].hostedWorkloads[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1413,7 +1413,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1430,7 +1430,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.endpointService
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.endpointService/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.endpointService
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1447,7 +1447,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.endpointService.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.endpointService.id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.endpointService.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1464,7 +1464,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1481,7 +1481,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.fqdn
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.fqdn/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.fqdn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1498,7 +1498,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.owner
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.owner/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.owner
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1515,7 +1515,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].interfaceEndpoint.provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1532,7 +1532,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].macAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].macAddress/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].macAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1549,7 +1549,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].primary
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].primary/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].primary
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1566,7 +1566,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1583,7 +1583,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1600,7 +1600,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.manualPrivateLinkServiceConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.manualPrivateLinkServiceConnections/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.manualPrivateLinkServiceConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1617,7 +1617,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.manualPrivateLinkServiceConnections[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.manualPrivateLinkServiceConnections[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.manualPrivateLinkServiceConnections[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1634,7 +1634,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.manualPrivateLinkServiceConnections[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.manualPrivateLinkServiceConnections[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.manualPrivateLinkServiceConnections[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1651,7 +1651,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1668,7 +1668,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1685,7 +1685,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].groupIds
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].groupIds/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].groupIds
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1702,7 +1702,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].groupIds[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].groupIds[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].groupIds[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1719,7 +1719,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1736,7 +1736,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1753,7 +1753,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1770,7 +1770,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.description
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.description/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.description
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1787,7 +1787,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.status
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.status/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.status
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1804,7 +1804,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceId/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1821,7 +1821,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].requestMessage
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].requestMessage/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.privateLinkServiceConnections[*].requestMessage
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1838,7 +1838,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].privateEndpoint.provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1855,7 +1855,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1872,7 +1872,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].resourceGuid/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1889,7 +1889,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1906,7 +1906,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1923,7 +1923,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1940,7 +1940,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1957,7 +1957,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations[*].type/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].tapConfigurations[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1974,7 +1974,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].virtualMachine
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].virtualMachine/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].virtualMachine
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1991,7 +1991,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].virtualMachine.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].virtualMachine.id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.networkInterfaces[*].virtualMachine.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2008,7 +2008,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2025,7 +2025,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.resourceGuid/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2042,7 +2042,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2059,7 +2059,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2076,7 +2076,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].access
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].access/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].access
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2093,7 +2093,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].description
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].description/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].description
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2110,7 +2110,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationAddressPrefix
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationAddressPrefix/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationAddressPrefix
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2127,7 +2127,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationAddressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationAddressPrefixes/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationAddressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2144,7 +2144,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationAddressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationAddressPrefixes[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationAddressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2161,7 +2161,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationApplicationSecurityGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationApplicationSecurityGroups/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationApplicationSecurityGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2178,7 +2178,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationApplicationSecurityGroups[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationApplicationSecurityGroups[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationApplicationSecurityGroups[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2195,7 +2195,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationApplicationSecurityGroups[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationApplicationSecurityGroups[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationApplicationSecurityGroups[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2212,7 +2212,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationPortRange
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationPortRange/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationPortRange
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2229,7 +2229,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationPortRanges
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationPortRanges/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationPortRanges
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2246,7 +2246,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationPortRanges[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationPortRanges[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].destinationPortRanges[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2263,7 +2263,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].direction
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].direction/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].direction
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2280,7 +2280,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2297,7 +2297,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2314,7 +2314,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2331,7 +2331,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].priority
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].priority/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].priority
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2348,7 +2348,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].protocol
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].protocol/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].protocol
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2365,7 +2365,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2382,7 +2382,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceAddressPrefix
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceAddressPrefix/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceAddressPrefix
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2399,7 +2399,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceAddressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceAddressPrefixes/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceAddressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2416,7 +2416,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceAddressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceAddressPrefixes[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceAddressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2433,7 +2433,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2450,7 +2450,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2467,7 +2467,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2484,7 +2484,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2501,7 +2501,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].location
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].location/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].location
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2518,7 +2518,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2535,7 +2535,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2552,7 +2552,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].resourceGuid/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2569,7 +2569,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].tags/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2586,7 +2586,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].type/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourceApplicationSecurityGroups[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2603,7 +2603,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourcePortRange
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourcePortRange/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourcePortRange
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2620,7 +2620,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourcePortRanges
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourcePortRanges/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourcePortRanges
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2637,7 +2637,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourcePortRanges[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourcePortRanges[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.securityRules[*].sourcePortRanges[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2654,7 +2654,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.subnets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.subnets/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.subnets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2671,7 +2671,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.subnets[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.subnets[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.subnets[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2688,7 +2688,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.subnets[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.subnets[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.subnets[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2705,7 +2705,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.subnets[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.subnets[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.networkSecurityGroup.subnets[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2722,7 +2722,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateEndpointNetworkPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateEndpointNetworkPolicies/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateEndpointNetworkPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2739,7 +2739,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateEndpoints
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateEndpoints/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateEndpoints
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2756,7 +2756,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateEndpoints[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateEndpoints[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateEndpoints[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2773,7 +2773,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateEndpoints[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateEndpoints[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateEndpoints[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2790,7 +2790,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateLinkServiceNetworkPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateLinkServiceNetworkPolicies/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.privateLinkServiceNetworkPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2807,7 +2807,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2824,7 +2824,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.purpose
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.purpose/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.purpose
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2841,7 +2841,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2858,7 +2858,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2875,7 +2875,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2892,7 +2892,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2909,7 +2909,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].link
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].link/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].link
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2926,7 +2926,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].linkedResourceType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].linkedResourceType/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].linkedResourceType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2943,7 +2943,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2960,7 +2960,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2977,7 +2977,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].type/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.resourceNavigationLinks[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2994,7 +2994,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3011,7 +3011,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.disableBgpRoutePropagation
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.disableBgpRoutePropagation/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.disableBgpRoutePropagation
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3028,7 +3028,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3045,7 +3045,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3062,7 +3062,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3079,7 +3079,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3096,7 +3096,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].addressPrefix
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].addressPrefix/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].addressPrefix
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3113,7 +3113,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3130,7 +3130,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3147,7 +3147,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].nextHopIpAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].nextHopIpAddress/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].nextHopIpAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3164,7 +3164,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].nextHopType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].nextHopType/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].nextHopType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3181,7 +3181,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.routes[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3198,7 +3198,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.subnets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.subnets/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.subnets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3215,7 +3215,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.subnets[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.subnets[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.routeTable.subnets[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3232,7 +3232,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3249,7 +3249,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3266,7 +3266,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].allowDelete
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].allowDelete/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].allowDelete
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3283,7 +3283,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3300,7 +3300,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].link
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].link/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].link
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3317,7 +3317,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].linkedResourceType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].linkedResourceType/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].linkedResourceType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3334,7 +3334,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].locations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].locations/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].locations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3351,7 +3351,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].locations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].locations[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].locations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3368,7 +3368,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3385,7 +3385,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3402,7 +3402,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].type/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceAssociationLinks[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3419,7 +3419,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3436,7 +3436,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3453,7 +3453,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3470,7 +3470,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3487,7 +3487,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].resourceGuid/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3504,7 +3504,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3521,7 +3521,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3538,7 +3538,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].description
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].description/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].description
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3555,7 +3555,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3572,7 +3572,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3589,7 +3589,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3606,7 +3606,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].service
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].service/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].service
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3623,7 +3623,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].serviceResources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].serviceResources/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].serviceResources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3640,7 +3640,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].serviceResources[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].serviceResources[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].serviceEndpointPolicyDefinitions[*].serviceResources[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3657,7 +3657,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].subnets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].subnets/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].subnets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3674,7 +3674,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].subnets[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].subnets[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpointPolicies[*].subnets[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3691,7 +3691,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3708,7 +3708,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3725,7 +3725,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*].locations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*].locations/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*].locations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3742,7 +3742,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*].locations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*].locations[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*].locations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3759,7 +3759,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3776,7 +3776,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
 : path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*].service
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*].service/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].subnet.serviceEndpoints[*].service
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3793,7 +3793,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigura
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].type/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.ipConfigurations[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3810,7 +3810,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.name:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3827,7 +3827,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.provisionin
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3844,7 +3844,7 @@ containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.type:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.type/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3861,7 +3861,7 @@ containerNetworkInterfaces[*].etag:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3878,7 +3878,7 @@ containerNetworkInterfaces[*].id:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].id/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3895,7 +3895,7 @@ containerNetworkInterfaces[*].ipConfigurations:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3912,7 +3912,7 @@ containerNetworkInterfaces[*].ipConfigurations[*]:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*]/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3929,7 +3929,7 @@ containerNetworkInterfaces[*].ipConfigurations[*].etag:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*].etag/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3946,7 +3946,7 @@ containerNetworkInterfaces[*].ipConfigurations[*].name:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3963,7 +3963,7 @@ containerNetworkInterfaces[*].ipConfigurations[*].provisioningState:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3980,7 +3980,7 @@ containerNetworkInterfaces[*].ipConfigurations[*].type:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*].type/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].ipConfigurations[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3997,7 +3997,7 @@ containerNetworkInterfaces[*].name:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].name/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4014,7 +4014,7 @@ containerNetworkInterfaces[*].provisioningState:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4031,7 +4031,7 @@ containerNetworkInterfaces[*].type:
   path: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].type/README.md
+  url: Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4048,7 +4048,7 @@ provisioningState:
   path: Microsoft.Network/networkProfiles/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/provisioningState/README.md
+  url: Microsoft.Network/networkProfiles/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4065,7 +4065,7 @@ resourceGuid:
   path: Microsoft.Network/networkProfiles/resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/resourceGuid/README.md
+  url: Microsoft.Network/networkProfiles/resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

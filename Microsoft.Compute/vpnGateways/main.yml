@@ -2,7 +2,7 @@ vpnConnections:
   path: Microsoft.Compute/vpnGateways/vpnConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/vpnGateways/vpnConnections/README.md
+  url: Microsoft.Compute/vpnGateways/vpnConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

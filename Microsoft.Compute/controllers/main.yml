@@ -2,7 +2,7 @@ listConnectionDetails:
   path: Microsoft.Compute/controllers/listConnectionDetails
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/controllers/listConnectionDetails/README.md
+  url: Microsoft.Compute/controllers/listConnectionDetails
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

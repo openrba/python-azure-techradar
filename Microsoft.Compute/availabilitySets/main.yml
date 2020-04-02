@@ -2,7 +2,7 @@ managed:
   path: Microsoft.Compute/availabilitySets/managed
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/managed/README.md
+  url: Microsoft.Compute/availabilitySets/managed
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ platformFaultDomainCount:
   path: Microsoft.Compute/availabilitySets/platformFaultDomainCount
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/platformFaultDomainCount/README.md
+  url: Microsoft.Compute/availabilitySets/platformFaultDomainCount
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ platformUpdateDomainCount:
   path: Microsoft.Compute/availabilitySets/platformUpdateDomainCount
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/platformUpdateDomainCount/README.md
+  url: Microsoft.Compute/availabilitySets/platformUpdateDomainCount
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ proximityPlacementGroup:
   path: Microsoft.Compute/availabilitySets/proximityPlacementGroup
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/proximityPlacementGroup/README.md
+  url: Microsoft.Compute/availabilitySets/proximityPlacementGroup
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ proximityPlacementGroup.id:
   path: Microsoft.Compute/availabilitySets/proximityPlacementGroup.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/proximityPlacementGroup.id/README.md
+  url: Microsoft.Compute/availabilitySets/proximityPlacementGroup.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ sku:
   path: Microsoft.Compute/availabilitySets/sku
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/sku/README.md
+  url: Microsoft.Compute/availabilitySets/sku
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ sku.capacity:
   path: Microsoft.Compute/availabilitySets/sku.capacity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/sku.capacity/README.md
+  url: Microsoft.Compute/availabilitySets/sku.capacity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ sku.name:
   path: Microsoft.Compute/availabilitySets/sku.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/sku.name/README.md
+  url: Microsoft.Compute/availabilitySets/sku.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ sku.tier:
   path: Microsoft.Compute/availabilitySets/sku.tier
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/sku.tier/README.md
+  url: Microsoft.Compute/availabilitySets/sku.tier
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ statuses:
   path: Microsoft.Compute/availabilitySets/statuses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/statuses/README.md
+  url: Microsoft.Compute/availabilitySets/statuses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ statuses[*]:
   path: Microsoft.Compute/availabilitySets/statuses[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/statuses[*]/README.md
+  url: Microsoft.Compute/availabilitySets/statuses[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ statuses[*].code:
   path: Microsoft.Compute/availabilitySets/statuses[*].code
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/statuses[*].code/README.md
+  url: Microsoft.Compute/availabilitySets/statuses[*].code
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ statuses[*].displayStatus:
   path: Microsoft.Compute/availabilitySets/statuses[*].displayStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/statuses[*].displayStatus/README.md
+  url: Microsoft.Compute/availabilitySets/statuses[*].displayStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ statuses[*].level:
   path: Microsoft.Compute/availabilitySets/statuses[*].level
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/statuses[*].level/README.md
+  url: Microsoft.Compute/availabilitySets/statuses[*].level
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ statuses[*].message:
   path: Microsoft.Compute/availabilitySets/statuses[*].message
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/statuses[*].message/README.md
+  url: Microsoft.Compute/availabilitySets/statuses[*].message
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ statuses[*].time:
   path: Microsoft.Compute/availabilitySets/statuses[*].time
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/statuses[*].time/README.md
+  url: Microsoft.Compute/availabilitySets/statuses[*].time
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ virtualMachines:
   path: Microsoft.Compute/availabilitySets/virtualMachines
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/virtualMachines/README.md
+  url: Microsoft.Compute/availabilitySets/virtualMachines
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ virtualMachines[*]:
   path: Microsoft.Compute/availabilitySets/virtualMachines[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/virtualMachines[*]/README.md
+  url: Microsoft.Compute/availabilitySets/virtualMachines[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ virtualMachines[*].id:
   path: Microsoft.Compute/availabilitySets/virtualMachines[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/availabilitySets/virtualMachines[*].id/README.md
+  url: Microsoft.Compute/availabilitySets/virtualMachines[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

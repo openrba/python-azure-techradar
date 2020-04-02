@@ -2,7 +2,7 @@ serviceUnits:
   path: Microsoft.Network/serviceTopologies/services/serviceUnits
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serviceTopologies/services/serviceUnits/README.md
+  url: Microsoft.Network/serviceTopologies/services/serviceUnits
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

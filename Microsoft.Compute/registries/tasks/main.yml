@@ -2,7 +2,7 @@ listDetails:
   path: Microsoft.Compute/registries/tasks/listDetails
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/registries/tasks/listDetails/README.md
+  url: Microsoft.Compute/registries/tasks/listDetails
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

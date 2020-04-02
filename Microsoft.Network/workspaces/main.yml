@@ -2,7 +2,7 @@ clusters:
   path: Microsoft.Network/workspaces/clusters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/clusters/README.md
+  url: Microsoft.Network/workspaces/clusters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ computes:
   path: Microsoft.Network/workspaces/computes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/computes/README.md
+  url: Microsoft.Network/workspaces/computes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ dataSources:
   path: Microsoft.Network/workspaces/dataSources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/dataSources/README.md
+  url: Microsoft.Network/workspaces/dataSources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ dbWorkspaces:
   path: Microsoft.Network/workspaces/dbWorkspaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/dbWorkspaces/README.md
+  url: Microsoft.Network/workspaces/dbWorkspaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ eventGridFilters:
   path: Microsoft.Network/workspaces/eventGridFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/eventGridFilters/README.md
+  url: Microsoft.Network/workspaces/eventGridFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ experiments:
   path: Microsoft.Network/workspaces/experiments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/experiments/README.md
+  url: Microsoft.Network/workspaces/experiments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ fileservers:
   path: Microsoft.Network/workspaces/fileservers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/fileservers/README.md
+  url: Microsoft.Network/workspaces/fileservers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ linkedServices:
   path: Microsoft.Network/workspaces/linkedServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/linkedServices/README.md
+  url: Microsoft.Network/workspaces/linkedServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ query:
   path: Microsoft.Network/workspaces/query
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/query/README.md
+  url: Microsoft.Network/workspaces/query
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ savedSearches:
   path: Microsoft.Network/workspaces/savedSearches
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/savedSearches/README.md
+  url: Microsoft.Network/workspaces/savedSearches
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ scopedPrivateLinkProxies:
   path: Microsoft.Network/workspaces/scopedPrivateLinkProxies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/scopedPrivateLinkProxies/README.md
+  url: Microsoft.Network/workspaces/scopedPrivateLinkProxies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ storageinsightconfigs:
   path: Microsoft.Network/workspaces/storageinsightconfigs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/storageinsightconfigs/README.md
+  url: Microsoft.Network/workspaces/storageinsightconfigs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ virtualNetworkPeerings:
   path: Microsoft.Network/workspaces/virtualNetworkPeerings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/virtualNetworkPeerings/README.md
+  url: Microsoft.Network/workspaces/virtualNetworkPeerings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

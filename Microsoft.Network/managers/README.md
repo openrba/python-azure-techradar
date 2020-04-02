@@ -29,16 +29,22 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[accessControlRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/accessControlRecords/README.md)|UNKNOWN|Microsoft.Network/managers/accessControlRecords|TRIAL|
-|[bandwidthSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/bandwidthSettings/README.md)|UNKNOWN|Microsoft.Network/managers/bandwidthSettings|TRIAL|
-|[devices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/devices/README.md)|UNKNOWN|Microsoft.Network/managers/devices|TRIAL|
-|[extendedInformation](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/extendedInformation/README.md)|UNKNOWN|Microsoft.Network/managers/extendedInformation|TRIAL|
-|[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/storageAccountCredentials/README.md)|UNKNOWN|Microsoft.Network/managers/storageAccountCredentials|TRIAL|
-|[storageDomains](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/storageDomains/README.md)|UNKNOWN|Microsoft.Network/managers/storageDomains|TRIAL|
+|[accessControlRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/accessControlRecords)|UNKNOWN|Microsoft.Network/managers/accessControlRecords|TRIAL|
+|[bandwidthSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/bandwidthSettings)|UNKNOWN|Microsoft.Network/managers/bandwidthSettings|TRIAL|
+|[devices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/devices)|UNKNOWN|Microsoft.Network/managers/devices|TRIAL|
+|[extendedInformation](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/extendedInformation)|UNKNOWN|Microsoft.Network/managers/extendedInformation|TRIAL|
+|[storageAccountCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/storageAccountCredentials)|UNKNOWN|Microsoft.Network/managers/storageAccountCredentials|TRIAL|
+|[storageDomains](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/managers/storageDomains)|UNKNOWN|Microsoft.Network/managers/storageDomains|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

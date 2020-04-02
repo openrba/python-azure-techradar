@@ -2,7 +2,7 @@ peerings:
   path: Microsoft.Compute/virtualRouters/peerings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualRouters/peerings/README.md
+  url: Microsoft.Compute/virtualRouters/peerings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

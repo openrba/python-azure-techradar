@@ -29,36 +29,42 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[GetCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/GetCredentials/README.md)|UNKNOWN|Microsoft.Compute/registries/GetCredentials|TRIAL|
-|[buildTasks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/buildTasks/README.md)|UNKNOWN|Microsoft.Compute/registries/buildTasks|TRIAL|
-|[builds](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/builds/README.md)|UNKNOWN|Microsoft.Compute/registries/builds|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/eventGridFilters/README.md)|UNKNOWN|Microsoft.Compute/registries/eventGridFilters|TRIAL|
-|[generateCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/generateCredentials/README.md)|UNKNOWN|Microsoft.Compute/registries/generateCredentials|TRIAL|
-|[getBuildSourceUploadUrl](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/getBuildSourceUploadUrl/README.md)|UNKNOWN|Microsoft.Compute/registries/getBuildSourceUploadUrl|TRIAL|
-|[importImage](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/importImage/README.md)|UNKNOWN|Microsoft.Compute/registries/importImage|TRIAL|
-|[listBuildSourceUploadUrl](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/listBuildSourceUploadUrl/README.md)|UNKNOWN|Microsoft.Compute/registries/listBuildSourceUploadUrl|TRIAL|
-|[listCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/listCredentials/README.md)|UNKNOWN|Microsoft.Compute/registries/listCredentials|TRIAL|
-|[listPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/listPolicies/README.md)|UNKNOWN|Microsoft.Compute/registries/listPolicies|TRIAL|
-|[listUsages](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/listUsages/README.md)|UNKNOWN|Microsoft.Compute/registries/listUsages|TRIAL|
-|[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/privateEndpointConnectionProxies/README.md)|UNKNOWN|Microsoft.Compute/registries/privateEndpointConnectionProxies|TRIAL|
-|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/privateEndpointConnections/README.md)|UNKNOWN|Microsoft.Compute/registries/privateEndpointConnections|TRIAL|
-|[privateLinkResources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/privateLinkResources/README.md)|UNKNOWN|Microsoft.Compute/registries/privateLinkResources|TRIAL|
-|[queueBuild](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/queueBuild/README.md)|UNKNOWN|Microsoft.Compute/registries/queueBuild|TRIAL|
-|[regenerateCredential](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/regenerateCredential/README.md)|UNKNOWN|Microsoft.Compute/registries/regenerateCredential|TRIAL|
-|[regenerateCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/regenerateCredentials/README.md)|UNKNOWN|Microsoft.Compute/registries/regenerateCredentials|TRIAL|
-|[replications](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/replications/README.md)|UNKNOWN|Microsoft.Compute/registries/replications|TRIAL|
-|[runs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/runs/README.md)|UNKNOWN|Microsoft.Compute/registries/runs|TRIAL|
-|[scheduleRun](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/scheduleRun/README.md)|UNKNOWN|Microsoft.Compute/registries/scheduleRun|TRIAL|
-|[scopeMaps](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/scopeMaps/README.md)|UNKNOWN|Microsoft.Compute/registries/scopeMaps|TRIAL|
-|[taskRuns](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/taskRuns/README.md)|UNKNOWN|Microsoft.Compute/registries/taskRuns|TRIAL|
-|[tasks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/tasks/README.md)|UNKNOWN|Microsoft.Compute/registries/tasks|TRIAL|
-|[tokens](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/tokens/README.md)|UNKNOWN|Microsoft.Compute/registries/tokens|TRIAL|
-|[updatePolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/updatePolicies/README.md)|UNKNOWN|Microsoft.Compute/registries/updatePolicies|TRIAL|
-|[webhooks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/webhooks/README.md)|UNKNOWN|Microsoft.Compute/registries/webhooks|TRIAL|
+|[GetCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/GetCredentials)|UNKNOWN|Microsoft.Compute/registries/GetCredentials|TRIAL|
+|[buildTasks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/buildTasks)|UNKNOWN|Microsoft.Compute/registries/buildTasks|TRIAL|
+|[builds](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/builds)|UNKNOWN|Microsoft.Compute/registries/builds|TRIAL|
+|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/eventGridFilters)|UNKNOWN|Microsoft.Compute/registries/eventGridFilters|TRIAL|
+|[generateCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/generateCredentials)|UNKNOWN|Microsoft.Compute/registries/generateCredentials|TRIAL|
+|[getBuildSourceUploadUrl](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/getBuildSourceUploadUrl)|UNKNOWN|Microsoft.Compute/registries/getBuildSourceUploadUrl|TRIAL|
+|[importImage](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/importImage)|UNKNOWN|Microsoft.Compute/registries/importImage|TRIAL|
+|[listBuildSourceUploadUrl](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/listBuildSourceUploadUrl)|UNKNOWN|Microsoft.Compute/registries/listBuildSourceUploadUrl|TRIAL|
+|[listCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/listCredentials)|UNKNOWN|Microsoft.Compute/registries/listCredentials|TRIAL|
+|[listPolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/listPolicies)|UNKNOWN|Microsoft.Compute/registries/listPolicies|TRIAL|
+|[listUsages](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/listUsages)|UNKNOWN|Microsoft.Compute/registries/listUsages|TRIAL|
+|[privateEndpointConnectionProxies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/privateEndpointConnectionProxies)|UNKNOWN|Microsoft.Compute/registries/privateEndpointConnectionProxies|TRIAL|
+|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/privateEndpointConnections)|UNKNOWN|Microsoft.Compute/registries/privateEndpointConnections|TRIAL|
+|[privateLinkResources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/privateLinkResources)|UNKNOWN|Microsoft.Compute/registries/privateLinkResources|TRIAL|
+|[queueBuild](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/queueBuild)|UNKNOWN|Microsoft.Compute/registries/queueBuild|TRIAL|
+|[regenerateCredential](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/regenerateCredential)|UNKNOWN|Microsoft.Compute/registries/regenerateCredential|TRIAL|
+|[regenerateCredentials](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/regenerateCredentials)|UNKNOWN|Microsoft.Compute/registries/regenerateCredentials|TRIAL|
+|[replications](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/replications)|UNKNOWN|Microsoft.Compute/registries/replications|TRIAL|
+|[runs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/runs)|UNKNOWN|Microsoft.Compute/registries/runs|TRIAL|
+|[scheduleRun](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/scheduleRun)|UNKNOWN|Microsoft.Compute/registries/scheduleRun|TRIAL|
+|[scopeMaps](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/scopeMaps)|UNKNOWN|Microsoft.Compute/registries/scopeMaps|TRIAL|
+|[taskRuns](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/taskRuns)|UNKNOWN|Microsoft.Compute/registries/taskRuns|TRIAL|
+|[tasks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/tasks)|UNKNOWN|Microsoft.Compute/registries/tasks|TRIAL|
+|[tokens](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/tokens)|UNKNOWN|Microsoft.Compute/registries/tokens|TRIAL|
+|[updatePolicies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/updatePolicies)|UNKNOWN|Microsoft.Compute/registries/updatePolicies|TRIAL|
+|[webhooks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/registries/webhooks)|UNKNOWN|Microsoft.Compute/registries/webhooks|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

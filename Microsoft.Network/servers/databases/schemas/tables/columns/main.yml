@@ -2,7 +2,7 @@ sensitivityLabels:
   path: Microsoft.Network/servers/databases/schemas/tables/columns/sensitivityLabels
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/schemas/tables/columns/sensitivityLabels/README.md
+  url: Microsoft.Network/servers/databases/schemas/tables/columns/sensitivityLabels
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

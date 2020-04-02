@@ -2,7 +2,7 @@ routes:
   path: Microsoft.Compute/routeTables/routes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/routeTables/routes/README.md
+  url: Microsoft.Compute/routeTables/routes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

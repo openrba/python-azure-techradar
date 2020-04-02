@@ -2,7 +2,7 @@ multiRolePools:
   path: Microsoft.Network/hostingEnvironments/multiRolePools
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/hostingEnvironments/multiRolePools/README.md
+  url: Microsoft.Network/hostingEnvironments/multiRolePools
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ workerPools:
   path: Microsoft.Network/hostingEnvironments/workerPools
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/hostingEnvironments/workerPools/README.md
+  url: Microsoft.Network/hostingEnvironments/workerPools
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

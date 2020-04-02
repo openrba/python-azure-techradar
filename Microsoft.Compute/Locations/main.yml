@@ -2,7 +2,7 @@ OperationStatuses:
   path: Microsoft.Compute/Locations/OperationStatuses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/Locations/OperationStatuses/README.md
+  url: Microsoft.Compute/Locations/OperationStatuses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ OperationTypes:
   path: Microsoft.Compute/Locations/OperationTypes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/Locations/OperationTypes/README.md
+  url: Microsoft.Compute/Locations/OperationTypes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ availabilityGroupListenerOperationResults:
   path: Microsoft.Compute/Locations/availabilityGroupListenerOperationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/Locations/availabilityGroupListenerOperationResults/README.md
+  url: Microsoft.Compute/Locations/availabilityGroupListenerOperationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ sqlVirtualMachineGroupOperationResults:
   path: Microsoft.Compute/Locations/sqlVirtualMachineGroupOperationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/Locations/sqlVirtualMachineGroupOperationResults/README.md
+  url: Microsoft.Compute/Locations/sqlVirtualMachineGroupOperationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ sqlVirtualMachineOperationResults:
   path: Microsoft.Compute/Locations/sqlVirtualMachineOperationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/Locations/sqlVirtualMachineOperationResults/README.md
+  url: Microsoft.Compute/Locations/sqlVirtualMachineOperationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

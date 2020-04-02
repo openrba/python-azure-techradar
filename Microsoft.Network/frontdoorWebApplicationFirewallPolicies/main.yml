@@ -2,7 +2,7 @@ customRules:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ customRules.rules:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ customRules.rules[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ customRules.rules[*].action:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].action
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].action/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].action
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ customRules.rules[*].enabledState:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].enabledState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].enabledState/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].enabledState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ customRules.rules[*].etag:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].etag/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ customRules.rules[*].matchConditions:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ customRules.rules[*].matchConditions[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ customRules.rules[*].matchConditions[*].matchValue:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchValue
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchValue/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchValue
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ customRules.rules[*].matchConditions[*].matchValue[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchValue[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchValue[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchValue[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ customRules.rules[*].matchConditions[*].matchVariable:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchVariable
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchVariable/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].matchVariable
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ customRules.rules[*].matchConditions[*].negateCondition:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].negateCondition
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].negateCondition/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].negateCondition
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ customRules.rules[*].matchConditions[*].operator:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].operator
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].operator/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].operator
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ customRules.rules[*].matchConditions[*].selector:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].selector
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].selector/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].selector
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ customRules.rules[*].matchConditions[*].transforms:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].transforms
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].transforms/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].transforms
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ customRules.rules[*].matchConditions[*].transforms[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].transforms[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].transforms[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].matchConditions[*].transforms[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ customRules.rules[*].name:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].name/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ customRules.rules[*].priority:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].priority
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].priority/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].priority
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ customRules.rules[*].rateLimitDurationInMinutes:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].rateLimitDurationInMinutes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].rateLimitDurationInMinutes/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].rateLimitDurationInMinutes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ customRules.rules[*].rateLimitThreshold:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].rateLimitThreshold
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].rateLimitThreshold/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].rateLimitThreshold
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ customRules.rules[*].ruleType:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].ruleType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].ruleType/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].ruleType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ customRules.rules[*].transforms:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].transforms
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].transforms/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].transforms
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ customRules.rules[*].transforms[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].transforms[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].transforms[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/customRules.rules[*].transforms[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ frontendEndpointLinks:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ frontendEndpointLinks[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ frontendEndpointLinks[*].id:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks[*].id/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/frontendEndpointLinks[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ managedRules:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ managedRules.managedRuleSets:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ managedRules.managedRuleSets[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ managedRules.managedRuleSets[*].exclusions:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ managedRules.managedRuleSets[*].exclusions[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ managedRules.managedRuleSets[*].exclusions[*].matchVariable:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].matchVariable
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].matchVariable/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].matchVariable
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ managedRules.managedRuleSets[*].exclusions[*].selector:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].selector
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].selector/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].selector
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ managedRules.managedRuleSets[*].exclusions[*].selectorMatchOperator:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].selectorMatchOperator
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].selectorMatchOperator/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].exclusions[*].selectorMatchOperator
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].matchVariabl
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].matchVariable
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].matchVariable/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].matchVariable
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selector:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selector
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selector/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selector
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selectorMatc
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selectorMatchOperator
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selectorMatchOperator/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].exclusions[*].selectorMatchOperator
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].ruleGroupName:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].ruleGroupName
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].ruleGroupName/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].ruleGroupName
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].action:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].action
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].action/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].action
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -767,7 +767,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].enabledState:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].enabledState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].enabledState/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].enabledState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -784,7 +784,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -801,7 +801,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -818,7 +818,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].mat
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].matchVariable
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].matchVariable/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].matchVariable
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -835,7 +835,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].sel
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].selector
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].selector/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].selector
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -852,7 +852,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].sel
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].selectorMatchOperator
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].selectorMatchOperator/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].exclusions[*].selectorMatchOperator
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -869,7 +869,7 @@ managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].ruleId:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].ruleId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].ruleId/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleGroupOverrides[*].rules[*].ruleId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -886,7 +886,7 @@ managedRules.managedRuleSets[*].ruleSetType:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleSetType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleSetType/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleSetType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -903,7 +903,7 @@ managedRules.managedRuleSets[*].ruleSetVersion:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleSetVersion
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleSetVersion/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.managedRuleSets[*].ruleSetVersion
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -920,7 +920,7 @@ managedRules.ruleSets:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -937,7 +937,7 @@ managedRules.ruleSets[*]:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*]/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -954,7 +954,7 @@ managedRules.ruleSets[*].priority:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].priority
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].priority/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].priority
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -971,7 +971,7 @@ managedRules.ruleSets[*].ruleSetType:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].ruleSetType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].ruleSetType/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].ruleSetType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -988,7 +988,7 @@ managedRules.ruleSets[*].version:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].version
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].version/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/managedRules.ruleSets[*].version
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1005,7 +1005,7 @@ policySettings:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1022,7 +1022,7 @@ policySettings.customBlockResponseBody:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.customBlockResponseBody
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.customBlockResponseBody/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.customBlockResponseBody
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1039,7 +1039,7 @@ policySettings.customBlockResponseStatusCode:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.customBlockResponseStatusCode
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.customBlockResponseStatusCode/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.customBlockResponseStatusCode
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1056,7 +1056,7 @@ policySettings.enabledState:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.enabledState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.enabledState/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.enabledState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1073,7 +1073,7 @@ policySettings.mode:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.mode
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.mode/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.mode
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1090,7 +1090,7 @@ policySettings.redirectUrl:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.redirectUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.redirectUrl/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/policySettings.redirectUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1107,7 +1107,7 @@ provisioningState:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/provisioningState/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1124,7 +1124,7 @@ resourceState:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/resourceState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/resourceState/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/resourceState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

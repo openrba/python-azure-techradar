@@ -29,23 +29,29 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[config](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/config/README.md)|UNKNOWN|Microsoft.Compute/sites/config|TRIAL|
-|[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/domainownershipidentifiers/README.md)|UNKNOWN|Microsoft.Compute/sites/domainownershipidentifiers|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/eventGridFilters/README.md)|UNKNOWN|Microsoft.Compute/sites/eventGridFilters|TRIAL|
-|[hostNameBindings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/hostNameBindings/README.md)|UNKNOWN|Microsoft.Compute/sites/hostNameBindings|TRIAL|
-|[hybridconnection](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/hybridconnection/README.md)|UNKNOWN|Microsoft.Compute/sites/hybridconnection|TRIAL|
-|[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/hybridconnectionnamespaces/README.md)|UNKNOWN|Microsoft.Compute/sites/hybridconnectionnamespaces|TRIAL|
-|[networkConfig](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/networkConfig/README.md)|UNKNOWN|Microsoft.Compute/sites/networkConfig|TRIAL|
-|[premieraddons](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/premieraddons/README.md)|UNKNOWN|Microsoft.Compute/sites/premieraddons|TRIAL|
-|[privateaccess](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/privateaccess/README.md)|UNKNOWN|Microsoft.Compute/sites/privateaccess|TRIAL|
-|[publiccertificates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/publiccertificates/README.md)|UNKNOWN|Microsoft.Compute/sites/publiccertificates|TRIAL|
-|[slots](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/slots/README.md)|UNKNOWN|Microsoft.Compute/sites/slots|TRIAL|
-|[sourcecontrols](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/sourcecontrols/README.md)|UNKNOWN|Microsoft.Compute/sites/sourcecontrols|TRIAL|
-|[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/virtualnetworkconnections/README.md)|UNKNOWN|Microsoft.Compute/sites/virtualnetworkconnections|TRIAL|
+|[config](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/config)|UNKNOWN|Microsoft.Compute/sites/config|TRIAL|
+|[domainownershipidentifiers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/domainownershipidentifiers)|UNKNOWN|Microsoft.Compute/sites/domainownershipidentifiers|TRIAL|
+|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/eventGridFilters)|UNKNOWN|Microsoft.Compute/sites/eventGridFilters|TRIAL|
+|[hostNameBindings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/hostNameBindings)|UNKNOWN|Microsoft.Compute/sites/hostNameBindings|TRIAL|
+|[hybridconnection](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/hybridconnection)|UNKNOWN|Microsoft.Compute/sites/hybridconnection|TRIAL|
+|[hybridconnectionnamespaces](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/hybridconnectionnamespaces)|UNKNOWN|Microsoft.Compute/sites/hybridconnectionnamespaces|TRIAL|
+|[networkConfig](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/networkConfig)|UNKNOWN|Microsoft.Compute/sites/networkConfig|TRIAL|
+|[premieraddons](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/premieraddons)|UNKNOWN|Microsoft.Compute/sites/premieraddons|TRIAL|
+|[privateaccess](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/privateaccess)|UNKNOWN|Microsoft.Compute/sites/privateaccess|TRIAL|
+|[publiccertificates](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/publiccertificates)|UNKNOWN|Microsoft.Compute/sites/publiccertificates|TRIAL|
+|[slots](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/slots)|UNKNOWN|Microsoft.Compute/sites/slots|TRIAL|
+|[sourcecontrols](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/sourcecontrols)|UNKNOWN|Microsoft.Compute/sites/sourcecontrols|TRIAL|
+|[virtualnetworkconnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/sites/virtualnetworkconnections)|UNKNOWN|Microsoft.Compute/sites/virtualnetworkconnections|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

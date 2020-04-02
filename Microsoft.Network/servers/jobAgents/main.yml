@@ -2,7 +2,7 @@ jobs:
   path: Microsoft.Network/servers/jobAgents/jobs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/jobAgents/jobs/README.md
+  url: Microsoft.Network/servers/jobAgents/jobs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ sqlServers:
   path: Microsoft.Compute/sqlServerRegistrations/sqlServers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sqlServerRegistrations/sqlServers/README.md
+  url: Microsoft.Compute/sqlServerRegistrations/sqlServers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ certificates:
   path: Microsoft.Network/automationAccounts/certificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/certificates/README.md
+  url: Microsoft.Network/automationAccounts/certificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ compilationjobs:
   path: Microsoft.Network/automationAccounts/compilationjobs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/compilationjobs/README.md
+  url: Microsoft.Network/automationAccounts/compilationjobs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ configurations:
   path: Microsoft.Network/automationAccounts/configurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/configurations/README.md
+  url: Microsoft.Network/automationAccounts/configurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ connectionTypes:
   path: Microsoft.Network/automationAccounts/connectionTypes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/connectionTypes/README.md
+  url: Microsoft.Network/automationAccounts/connectionTypes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ connections:
   path: Microsoft.Network/automationAccounts/connections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/connections/README.md
+  url: Microsoft.Network/automationAccounts/connections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ credentials:
   path: Microsoft.Network/automationAccounts/credentials
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/credentials/README.md
+  url: Microsoft.Network/automationAccounts/credentials
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ jobSchedules:
   path: Microsoft.Network/automationAccounts/jobSchedules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/jobSchedules/README.md
+  url: Microsoft.Network/automationAccounts/jobSchedules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ jobs:
   path: Microsoft.Network/automationAccounts/jobs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/jobs/README.md
+  url: Microsoft.Network/automationAccounts/jobs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ modules:
   path: Microsoft.Network/automationAccounts/modules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/modules/README.md
+  url: Microsoft.Network/automationAccounts/modules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ nodeConfigurations:
   path: Microsoft.Network/automationAccounts/nodeConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/nodeConfigurations/README.md
+  url: Microsoft.Network/automationAccounts/nodeConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ privateEndpointConnectionProxies:
   path: Microsoft.Network/automationAccounts/privateEndpointConnectionProxies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/privateEndpointConnectionProxies/README.md
+  url: Microsoft.Network/automationAccounts/privateEndpointConnectionProxies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ privateEndpointConnections:
   path: Microsoft.Network/automationAccounts/privateEndpointConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/privateEndpointConnections/README.md
+  url: Microsoft.Network/automationAccounts/privateEndpointConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ privateLinkResources:
   path: Microsoft.Network/automationAccounts/privateLinkResources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/privateLinkResources/README.md
+  url: Microsoft.Network/automationAccounts/privateLinkResources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ python2Packages:
   path: Microsoft.Network/automationAccounts/python2Packages
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/python2Packages/README.md
+  url: Microsoft.Network/automationAccounts/python2Packages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ runbooks:
   path: Microsoft.Network/automationAccounts/runbooks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/runbooks/README.md
+  url: Microsoft.Network/automationAccounts/runbooks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ schedules:
   path: Microsoft.Network/automationAccounts/schedules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/schedules/README.md
+  url: Microsoft.Network/automationAccounts/schedules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ softwareUpdateConfigurations:
   path: Microsoft.Network/automationAccounts/softwareUpdateConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/softwareUpdateConfigurations/README.md
+  url: Microsoft.Network/automationAccounts/softwareUpdateConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ variables:
   path: Microsoft.Network/automationAccounts/variables
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/variables/README.md
+  url: Microsoft.Network/automationAccounts/variables
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ watchers:
   path: Microsoft.Network/automationAccounts/watchers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/watchers/README.md
+  url: Microsoft.Network/automationAccounts/watchers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ webhooks:
   path: Microsoft.Network/automationAccounts/webhooks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/webhooks/README.md
+  url: Microsoft.Network/automationAccounts/webhooks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

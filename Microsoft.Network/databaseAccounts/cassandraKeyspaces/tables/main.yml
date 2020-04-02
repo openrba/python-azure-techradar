@@ -2,7 +2,7 @@ throughputSettings:
   path: Microsoft.Network/databaseAccounts/cassandraKeyspaces/tables/throughputSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/README.md
+  url: Microsoft.Network/databaseAccounts/cassandraKeyspaces/tables/throughputSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

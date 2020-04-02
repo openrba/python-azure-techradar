@@ -2,7 +2,7 @@ assessments:
   path: Microsoft.Compute/assessmentprojects/groups/assessments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/assessmentprojects/groups/assessments/README.md
+  url: Microsoft.Compute/assessmentprojects/groups/assessments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

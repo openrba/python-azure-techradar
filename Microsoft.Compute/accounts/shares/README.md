@@ -29,14 +29,20 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[datasets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares/datasets/README.md)|UNKNOWN|Microsoft.Compute/accounts/shares/datasets|TRIAL|
-|[invitations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares/invitations/README.md)|UNKNOWN|Microsoft.Compute/accounts/shares/invitations|TRIAL|
-|[providersharesubscriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares/providersharesubscriptions/README.md)|UNKNOWN|Microsoft.Compute/accounts/shares/providersharesubscriptions|TRIAL|
-|[synchronizationSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares/synchronizationSettings/README.md)|UNKNOWN|Microsoft.Compute/accounts/shares/synchronizationSettings|TRIAL|
+|[datasets](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares/datasets)|UNKNOWN|Microsoft.Compute/accounts/shares/datasets|TRIAL|
+|[invitations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares/invitations)|UNKNOWN|Microsoft.Compute/accounts/shares/invitations|TRIAL|
+|[providersharesubscriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares/providersharesubscriptions)|UNKNOWN|Microsoft.Compute/accounts/shares/providersharesubscriptions|TRIAL|
+|[synchronizationSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/accounts/shares/synchronizationSettings)|UNKNOWN|Microsoft.Compute/accounts/shares/synchronizationSettings|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

@@ -29,55 +29,61 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[AAAARecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/AAAARecords/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/AAAARecords|TRIAL|
-|[AAAARecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/AAAARecords[*]/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/AAAARecords[*]|TRIAL|
-|[AAAARecords[*].ipv6Address](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/AAAARecords[*].ipv6Address/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/AAAARecords[*].ipv6Address|TRIAL|
-|[ARecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/ARecords/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/ARecords|TRIAL|
-|[ARecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/ARecords[*]/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/ARecords[*]|TRIAL|
-|[ARecords[*].ipv4Address](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/ARecords[*].ipv4Address/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/ARecords[*].ipv4Address|TRIAL|
-|[CNAMERecord](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/CNAMERecord/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/CNAMERecord|TRIAL|
-|[CNAMERecord.cname](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/CNAMERecord.cname/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/CNAMERecord.cname|TRIAL|
-|[MXRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/MXRecords/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/MXRecords|TRIAL|
-|[MXRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/MXRecords[*]/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/MXRecords[*]|TRIAL|
-|[MXRecords[*].exchange](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/MXRecords[*].exchange/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/MXRecords[*].exchange|TRIAL|
-|[MXRecords[*].preference](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/MXRecords[*].preference/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/MXRecords[*].preference|TRIAL|
-|[NSRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/NSRecords/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/NSRecords|TRIAL|
-|[NSRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/NSRecords[*]/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/NSRecords[*]|TRIAL|
-|[NSRecords[*].nsdname](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/NSRecords[*].nsdname/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/NSRecords[*].nsdname|TRIAL|
-|[PTRRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/PTRRecords/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/PTRRecords|TRIAL|
-|[PTRRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/PTRRecords[*]/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/PTRRecords[*]|TRIAL|
-|[PTRRecords[*].ptrdname](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/PTRRecords[*].ptrdname/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/PTRRecords[*].ptrdname|TRIAL|
-|[SOARecord](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord|TRIAL|
-|[SOARecord.email](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.email/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.email|TRIAL|
-|[SOARecord.expireTime](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.expireTime/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.expireTime|TRIAL|
-|[SOARecord.host](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.host/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.host|TRIAL|
-|[SOARecord.minimumTTL](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.minimumTTL/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.minimumTTL|TRIAL|
-|[SOARecord.refreshTime](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.refreshTime/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.refreshTime|TRIAL|
-|[SOARecord.retryTime](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.retryTime/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.retryTime|TRIAL|
-|[SOARecord.serialNumber](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.serialNumber/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.serialNumber|TRIAL|
-|[SRVRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SRVRecords/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SRVRecords|TRIAL|
-|[SRVRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SRVRecords[*]/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SRVRecords[*]|TRIAL|
-|[SRVRecords[*].port](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SRVRecords[*].port/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SRVRecords[*].port|TRIAL|
-|[SRVRecords[*].priority](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SRVRecords[*].priority/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SRVRecords[*].priority|TRIAL|
-|[SRVRecords[*].target](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SRVRecords[*].target/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SRVRecords[*].target|TRIAL|
-|[SRVRecords[*].weight](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SRVRecords[*].weight/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/SRVRecords[*].weight|TRIAL|
-|[TTL](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/TTL/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/TTL|TRIAL|
-|[TXTRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/TXTRecords/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/TXTRecords|TRIAL|
-|[TXTRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/TXTRecords[*]/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/TXTRecords[*]|TRIAL|
-|[caaRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/caaRecords/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/caaRecords|TRIAL|
-|[caaRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/caaRecords[*]/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/caaRecords[*]|TRIAL|
-|[caaRecords[*].flags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/caaRecords[*].flags/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/caaRecords[*].flags|TRIAL|
-|[caaRecords[*].tag](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/caaRecords[*].tag/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/caaRecords[*].tag|TRIAL|
-|[caaRecords[*].value](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/caaRecords[*].value/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/caaRecords[*].value|TRIAL|
-|[fqdn](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/fqdn/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/fqdn|TRIAL|
-|[metadata](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/metadata/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/metadata|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/provisioningState/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/provisioningState|TRIAL|
-|[targetResource](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/targetResource/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/targetResource|TRIAL|
-|[targetResource.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/targetResource.id/README.md)|UNKNOWN|Microsoft.Network/dnszones/CAA/targetResource.id|TRIAL|
+|[AAAARecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/AAAARecords)|UNKNOWN|Microsoft.Network/dnszones/CAA/AAAARecords|TRIAL|
+|[AAAARecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/AAAARecords[*])|UNKNOWN|Microsoft.Network/dnszones/CAA/AAAARecords[*]|TRIAL|
+|[AAAARecords[*].ipv6Address](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/AAAARecords[*].ipv6Address)|UNKNOWN|Microsoft.Network/dnszones/CAA/AAAARecords[*].ipv6Address|TRIAL|
+|[ARecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/ARecords)|UNKNOWN|Microsoft.Network/dnszones/CAA/ARecords|TRIAL|
+|[ARecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/ARecords[*])|UNKNOWN|Microsoft.Network/dnszones/CAA/ARecords[*]|TRIAL|
+|[ARecords[*].ipv4Address](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/ARecords[*].ipv4Address)|UNKNOWN|Microsoft.Network/dnszones/CAA/ARecords[*].ipv4Address|TRIAL|
+|[CNAMERecord](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/CNAMERecord)|UNKNOWN|Microsoft.Network/dnszones/CAA/CNAMERecord|TRIAL|
+|[CNAMERecord.cname](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/CNAMERecord.cname)|UNKNOWN|Microsoft.Network/dnszones/CAA/CNAMERecord.cname|TRIAL|
+|[MXRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/MXRecords)|UNKNOWN|Microsoft.Network/dnszones/CAA/MXRecords|TRIAL|
+|[MXRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/MXRecords[*])|UNKNOWN|Microsoft.Network/dnszones/CAA/MXRecords[*]|TRIAL|
+|[MXRecords[*].exchange](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/MXRecords[*].exchange)|UNKNOWN|Microsoft.Network/dnszones/CAA/MXRecords[*].exchange|TRIAL|
+|[MXRecords[*].preference](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/MXRecords[*].preference)|UNKNOWN|Microsoft.Network/dnszones/CAA/MXRecords[*].preference|TRIAL|
+|[NSRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/NSRecords)|UNKNOWN|Microsoft.Network/dnszones/CAA/NSRecords|TRIAL|
+|[NSRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/NSRecords[*])|UNKNOWN|Microsoft.Network/dnszones/CAA/NSRecords[*]|TRIAL|
+|[NSRecords[*].nsdname](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/NSRecords[*].nsdname)|UNKNOWN|Microsoft.Network/dnszones/CAA/NSRecords[*].nsdname|TRIAL|
+|[PTRRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/PTRRecords)|UNKNOWN|Microsoft.Network/dnszones/CAA/PTRRecords|TRIAL|
+|[PTRRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/PTRRecords[*])|UNKNOWN|Microsoft.Network/dnszones/CAA/PTRRecords[*]|TRIAL|
+|[PTRRecords[*].ptrdname](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/PTRRecords[*].ptrdname)|UNKNOWN|Microsoft.Network/dnszones/CAA/PTRRecords[*].ptrdname|TRIAL|
+|[SOARecord](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord|TRIAL|
+|[SOARecord.email](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.email)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.email|TRIAL|
+|[SOARecord.expireTime](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.expireTime)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.expireTime|TRIAL|
+|[SOARecord.host](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.host)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.host|TRIAL|
+|[SOARecord.minimumTTL](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.minimumTTL)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.minimumTTL|TRIAL|
+|[SOARecord.refreshTime](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.refreshTime)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.refreshTime|TRIAL|
+|[SOARecord.retryTime](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.retryTime)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.retryTime|TRIAL|
+|[SOARecord.serialNumber](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SOARecord.serialNumber)|UNKNOWN|Microsoft.Network/dnszones/CAA/SOARecord.serialNumber|TRIAL|
+|[SRVRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SRVRecords)|UNKNOWN|Microsoft.Network/dnszones/CAA/SRVRecords|TRIAL|
+|[SRVRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SRVRecords[*])|UNKNOWN|Microsoft.Network/dnszones/CAA/SRVRecords[*]|TRIAL|
+|[SRVRecords[*].port](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SRVRecords[*].port)|UNKNOWN|Microsoft.Network/dnszones/CAA/SRVRecords[*].port|TRIAL|
+|[SRVRecords[*].priority](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SRVRecords[*].priority)|UNKNOWN|Microsoft.Network/dnszones/CAA/SRVRecords[*].priority|TRIAL|
+|[SRVRecords[*].target](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SRVRecords[*].target)|UNKNOWN|Microsoft.Network/dnszones/CAA/SRVRecords[*].target|TRIAL|
+|[SRVRecords[*].weight](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/SRVRecords[*].weight)|UNKNOWN|Microsoft.Network/dnszones/CAA/SRVRecords[*].weight|TRIAL|
+|[TTL](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/TTL)|UNKNOWN|Microsoft.Network/dnszones/CAA/TTL|TRIAL|
+|[TXTRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/TXTRecords)|UNKNOWN|Microsoft.Network/dnszones/CAA/TXTRecords|TRIAL|
+|[TXTRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/TXTRecords[*])|UNKNOWN|Microsoft.Network/dnszones/CAA/TXTRecords[*]|TRIAL|
+|[caaRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/caaRecords)|UNKNOWN|Microsoft.Network/dnszones/CAA/caaRecords|TRIAL|
+|[caaRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/caaRecords[*])|UNKNOWN|Microsoft.Network/dnszones/CAA/caaRecords[*]|TRIAL|
+|[caaRecords[*].flags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/caaRecords[*].flags)|UNKNOWN|Microsoft.Network/dnszones/CAA/caaRecords[*].flags|TRIAL|
+|[caaRecords[*].tag](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/caaRecords[*].tag)|UNKNOWN|Microsoft.Network/dnszones/CAA/caaRecords[*].tag|TRIAL|
+|[caaRecords[*].value](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/caaRecords[*].value)|UNKNOWN|Microsoft.Network/dnszones/CAA/caaRecords[*].value|TRIAL|
+|[fqdn](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/fqdn)|UNKNOWN|Microsoft.Network/dnszones/CAA/fqdn|TRIAL|
+|[metadata](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/metadata)|UNKNOWN|Microsoft.Network/dnszones/CAA/metadata|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/provisioningState)|UNKNOWN|Microsoft.Network/dnszones/CAA/provisioningState|TRIAL|
+|[targetResource](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/targetResource)|UNKNOWN|Microsoft.Network/dnszones/CAA/targetResource|TRIAL|
+|[targetResource.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/dnszones/CAA/targetResource.id)|UNKNOWN|Microsoft.Network/dnszones/CAA/targetResource.id|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

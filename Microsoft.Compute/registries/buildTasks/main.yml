@@ -2,7 +2,7 @@ listSourceRepositoryProperties:
   path: Microsoft.Compute/registries/buildTasks/listSourceRepositoryProperties
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/registries/buildTasks/listSourceRepositoryProperties/README.md
+  url: Microsoft.Compute/registries/buildTasks/listSourceRepositoryProperties
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ steps:
   path: Microsoft.Compute/registries/buildTasks/steps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/registries/buildTasks/steps/README.md
+  url: Microsoft.Compute/registries/buildTasks/steps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

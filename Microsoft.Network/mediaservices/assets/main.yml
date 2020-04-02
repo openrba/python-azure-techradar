@@ -2,7 +2,7 @@ assetFilters:
   path: Microsoft.Network/mediaservices/assets/assetFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/mediaservices/assets/assetFilters/README.md
+  url: Microsoft.Network/mediaservices/assets/assetFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

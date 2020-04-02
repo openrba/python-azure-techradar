@@ -2,7 +2,7 @@ agentPools:
   path: Microsoft.Network/managedClusters/agentPools
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managedClusters/agentPools/README.md
+  url: Microsoft.Network/managedClusters/agentPools
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

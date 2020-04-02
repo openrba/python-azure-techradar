@@ -2,7 +2,7 @@ connectionMonitors:
   path: Microsoft.Compute/networkWatchers/connectionMonitors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/networkWatchers/connectionMonitors/README.md
+  url: Microsoft.Compute/networkWatchers/connectionMonitors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ flowLogs:
   path: Microsoft.Compute/networkWatchers/flowLogs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/networkWatchers/flowLogs/README.md
+  url: Microsoft.Compute/networkWatchers/flowLogs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ packetCaptures:
   path: Microsoft.Compute/networkWatchers/packetCaptures
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/networkWatchers/packetCaptures/README.md
+  url: Microsoft.Compute/networkWatchers/packetCaptures
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ pingMeshes:
   path: Microsoft.Compute/networkWatchers/pingMeshes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/networkWatchers/pingMeshes/README.md
+  url: Microsoft.Compute/networkWatchers/pingMeshes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ bgpSettings:
   path: Microsoft.Network/localNetworkGateways/bgpSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/localNetworkGateways/bgpSettings/README.md
+  url: Microsoft.Network/localNetworkGateways/bgpSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ bgpSettings.asn:
   path: Microsoft.Network/localNetworkGateways/bgpSettings.asn
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/localNetworkGateways/bgpSettings.asn/README.md
+  url: Microsoft.Network/localNetworkGateways/bgpSettings.asn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ bgpSettings.bgpPeeringAddress:
   path: Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress/README.md
+  url: Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ bgpSettings.peerWeight:
   path: Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight/README.md
+  url: Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ gatewayIpAddress:
   path: Microsoft.Network/localNetworkGateways/gatewayIpAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/localNetworkGateways/gatewayIpAddress/README.md
+  url: Microsoft.Network/localNetworkGateways/gatewayIpAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ localNetworkAddressSpace:
   path: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace/README.md
+  url: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ localNetworkAddressSpace.addressPrefixes:
   path: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes/README.md
+  url: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ localNetworkAddressSpace.addressPrefixes[*]:
   path: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*]/README.md
+  url: Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ provisioningState:
   path: Microsoft.Network/localNetworkGateways/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/localNetworkGateways/provisioningState/README.md
+  url: Microsoft.Network/localNetworkGateways/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ resourceGuid:
   path: Microsoft.Network/localNetworkGateways/resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/localNetworkGateways/resourceGuid/README.md
+  url: Microsoft.Network/localNetworkGateways/resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ authorizationKey:
   path: Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey/README.md
+  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ enableInternetSecurity:
   path: Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity/README.md
+  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ expressRouteCircuitPeering:
   path: Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering/README.md
+  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ expressRouteCircuitPeering.id:
   path: Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id/README.md
+  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ provisioningState:
   path: Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState/README.md
+  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ routingWeight:
   path: Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight/README.md
+  url: Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

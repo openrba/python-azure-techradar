@@ -2,7 +2,7 @@ Alerts:
   path: Microsoft.Compute/ExternalBillingAccounts/Alerts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/ExternalBillingAccounts/Alerts/README.md
+  url: Microsoft.Compute/ExternalBillingAccounts/Alerts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ Dimensions:
   path: Microsoft.Compute/ExternalBillingAccounts/Dimensions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/ExternalBillingAccounts/Dimensions/README.md
+  url: Microsoft.Compute/ExternalBillingAccounts/Dimensions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ Forecast:
   path: Microsoft.Compute/ExternalBillingAccounts/Forecast
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/ExternalBillingAccounts/Forecast/README.md
+  url: Microsoft.Compute/ExternalBillingAccounts/Forecast
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ Query:
   path: Microsoft.Compute/ExternalBillingAccounts/Query
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/ExternalBillingAccounts/Query/README.md
+  url: Microsoft.Compute/ExternalBillingAccounts/Query
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

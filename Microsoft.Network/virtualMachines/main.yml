@@ -2,7 +2,7 @@ diagnosticSettings:
   path: Microsoft.Network/virtualMachines/diagnosticSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualMachines/diagnosticSettings/README.md
+  url: Microsoft.Network/virtualMachines/diagnosticSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ extensions:
   path: Microsoft.Network/virtualMachines/extensions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualMachines/extensions/README.md
+  url: Microsoft.Network/virtualMachines/extensions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ metricDefinitions:
   path: Microsoft.Network/virtualMachines/metricDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualMachines/metricDefinitions/README.md
+  url: Microsoft.Network/virtualMachines/metricDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ metrics:
   path: Microsoft.Network/virtualMachines/metrics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualMachines/metrics/README.md
+  url: Microsoft.Network/virtualMachines/metrics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

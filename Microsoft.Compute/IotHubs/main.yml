@@ -2,7 +2,7 @@ eventGridFilters:
   path: Microsoft.Compute/IotHubs/eventGridFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/IotHubs/eventGridFilters/README.md
+  url: Microsoft.Compute/IotHubs/eventGridFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

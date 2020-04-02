@@ -2,7 +2,7 @@ config:
   path: Microsoft.Network/sites/config
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/config/README.md
+  url: Microsoft.Network/sites/config
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ domainownershipidentifiers:
   path: Microsoft.Network/sites/domainownershipidentifiers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/domainownershipidentifiers/README.md
+  url: Microsoft.Network/sites/domainownershipidentifiers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ eventGridFilters:
   path: Microsoft.Network/sites/eventGridFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/eventGridFilters/README.md
+  url: Microsoft.Network/sites/eventGridFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ hostNameBindings:
   path: Microsoft.Network/sites/hostNameBindings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/hostNameBindings/README.md
+  url: Microsoft.Network/sites/hostNameBindings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ hybridconnection:
   path: Microsoft.Network/sites/hybridconnection
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/hybridconnection/README.md
+  url: Microsoft.Network/sites/hybridconnection
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ hybridconnectionnamespaces:
   path: Microsoft.Network/sites/hybridconnectionnamespaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/hybridconnectionnamespaces/README.md
+  url: Microsoft.Network/sites/hybridconnectionnamespaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ networkConfig:
   path: Microsoft.Network/sites/networkConfig
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/networkConfig/README.md
+  url: Microsoft.Network/sites/networkConfig
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ premieraddons:
   path: Microsoft.Network/sites/premieraddons
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/premieraddons/README.md
+  url: Microsoft.Network/sites/premieraddons
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ privateaccess:
   path: Microsoft.Network/sites/privateaccess
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/privateaccess/README.md
+  url: Microsoft.Network/sites/privateaccess
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ publiccertificates:
   path: Microsoft.Network/sites/publiccertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/publiccertificates/README.md
+  url: Microsoft.Network/sites/publiccertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ slots:
   path: Microsoft.Network/sites/slots
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/slots/README.md
+  url: Microsoft.Network/sites/slots
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ sourcecontrols:
   path: Microsoft.Network/sites/sourcecontrols
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/sourcecontrols/README.md
+  url: Microsoft.Network/sites/sourcecontrols
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ virtualnetworkconnections:
   path: Microsoft.Network/sites/virtualnetworkconnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/virtualnetworkconnections/README.md
+  url: Microsoft.Network/sites/virtualnetworkconnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

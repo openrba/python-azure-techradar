@@ -2,7 +2,7 @@ hostedGateway:
   path: Microsoft.Network/virtualRouters/hostedGateway
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/hostedGateway/README.md
+  url: Microsoft.Network/virtualRouters/hostedGateway
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ hostedGateway.id:
   path: Microsoft.Network/virtualRouters/hostedGateway.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/hostedGateway.id/README.md
+  url: Microsoft.Network/virtualRouters/hostedGateway.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ hostedSubnet:
   path: Microsoft.Network/virtualRouters/hostedSubnet
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/hostedSubnet/README.md
+  url: Microsoft.Network/virtualRouters/hostedSubnet
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ hostedSubnet.id:
   path: Microsoft.Network/virtualRouters/hostedSubnet.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/hostedSubnet.id/README.md
+  url: Microsoft.Network/virtualRouters/hostedSubnet.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ peerings:
   path: Microsoft.Network/virtualRouters/peerings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/peerings/README.md
+  url: Microsoft.Network/virtualRouters/peerings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ peerings[*]:
   path: Microsoft.Network/virtualRouters/peerings[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/peerings[*]/README.md
+  url: Microsoft.Network/virtualRouters/peerings[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ peerings[*].id:
   path: Microsoft.Network/virtualRouters/peerings[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/peerings[*].id/README.md
+  url: Microsoft.Network/virtualRouters/peerings[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ provisioningState:
   path: Microsoft.Network/virtualRouters/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/provisioningState/README.md
+  url: Microsoft.Network/virtualRouters/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ virtualRouterAsn:
   path: Microsoft.Network/virtualRouters/virtualRouterAsn
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/virtualRouterAsn/README.md
+  url: Microsoft.Network/virtualRouters/virtualRouterAsn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ virtualRouterIps:
   path: Microsoft.Network/virtualRouters/virtualRouterIps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/virtualRouterIps/README.md
+  url: Microsoft.Network/virtualRouters/virtualRouterIps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ virtualRouterIps[*]:
   path: Microsoft.Network/virtualRouters/virtualRouterIps[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/virtualRouterIps[*]/README.md
+  url: Microsoft.Network/virtualRouters/virtualRouterIps[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

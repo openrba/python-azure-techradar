@@ -2,7 +2,7 @@ remoteVirtualNetworkPeeringProxies:
   path: Microsoft.Compute/virtualNetworks/remoteVirtualNetworkPeeringProxies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualNetworks/remoteVirtualNetworkPeeringProxies/README.md
+  url: Microsoft.Compute/virtualNetworks/remoteVirtualNetworkPeeringProxies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ subnets:
   path: Microsoft.Compute/virtualNetworks/subnets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualNetworks/subnets/README.md
+  url: Microsoft.Compute/virtualNetworks/subnets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ virtualNetworkPeerings:
   path: Microsoft.Compute/virtualNetworks/virtualNetworkPeerings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualNetworks/virtualNetworkPeerings/README.md
+  url: Microsoft.Compute/virtualNetworks/virtualNetworkPeerings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

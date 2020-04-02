@@ -2,7 +2,7 @@ backends[*].address:
   path: Microsoft.Network/frontDoors/backendPools/backends[*].address
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontDoors/backendPools/backends[*].address/README.md
+  url: Microsoft.Network/frontDoors/backendPools/backends[*].address
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

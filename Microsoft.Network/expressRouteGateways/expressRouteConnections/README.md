@@ -29,16 +29,22 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[authorizationKey](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey|TRIAL|
-|[enableInternetSecurity](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity|TRIAL|
-|[expressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering|TRIAL|
-|[expressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState|TRIAL|
-|[routingWeight](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight|TRIAL|
+|[authorizationKey](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/authorizationKey|TRIAL|
+|[enableInternetSecurity](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/enableInternetSecurity|TRIAL|
+|[expressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering|TRIAL|
+|[expressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/expressRouteCircuitPeering.id|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/provisioningState|TRIAL|
+|[routingWeight](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections/routingWeight|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

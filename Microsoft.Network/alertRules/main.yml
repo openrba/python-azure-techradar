@@ -2,7 +2,7 @@ actions:
   path: Microsoft.Network/alertRules/actions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/alertRules/actions/README.md
+  url: Microsoft.Network/alertRules/actions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

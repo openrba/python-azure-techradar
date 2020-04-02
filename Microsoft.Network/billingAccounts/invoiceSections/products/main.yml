@@ -2,7 +2,7 @@ transfer:
   path: Microsoft.Network/billingAccounts/invoiceSections/products/transfer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/invoiceSections/products/transfer/README.md
+  url: Microsoft.Network/billingAccounts/invoiceSections/products/transfer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ updateAutoRenew:
   path: Microsoft.Network/billingAccounts/invoiceSections/products/updateAutoRenew
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/invoiceSections/products/updateAutoRenew/README.md
+  url: Microsoft.Network/billingAccounts/invoiceSections/products/updateAutoRenew
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

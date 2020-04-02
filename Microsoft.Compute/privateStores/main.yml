@@ -2,7 +2,7 @@ offers:
   path: Microsoft.Compute/privateStores/offers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateStores/offers/README.md
+  url: Microsoft.Compute/privateStores/offers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

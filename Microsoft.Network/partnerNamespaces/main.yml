@@ -2,7 +2,7 @@ eventChannels:
   path: Microsoft.Network/partnerNamespaces/eventChannels
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/partnerNamespaces/eventChannels/README.md
+  url: Microsoft.Network/partnerNamespaces/eventChannels
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

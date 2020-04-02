@@ -2,7 +2,7 @@ autoStart:
   path: Microsoft.Network/networkWatchers/connectionMonitors/autoStart
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/autoStart/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/autoStart
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ destination:
   path: Microsoft.Network/networkWatchers/connectionMonitors/destination
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/destination/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/destination
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ destination.address:
   path: Microsoft.Network/networkWatchers/connectionMonitors/destination.address
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/destination.address/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/destination.address
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ destination.port:
   path: Microsoft.Network/networkWatchers/connectionMonitors/destination.port
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/destination.port/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/destination.port
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ destination.resourceId:
   path: Microsoft.Network/networkWatchers/connectionMonitors/destination.resourceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/destination.resourceId/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/destination.resourceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ endpoints:
   path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ endpoints[*]:
   path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*]/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ endpoints[*].address:
   path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].address
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].address/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].address
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ endpoints[*].filter:
   path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ endpoints[*].filter.address:
   path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.address
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.address/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.address
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ endpoints[*].filter.type:
   path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.type/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].filter.type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ endpoints[*].name:
   path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].name/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ endpoints[*].resourceId:
   path: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].resourceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].resourceId/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].resourceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ monitoringIntervalInSeconds:
   path: Microsoft.Network/networkWatchers/connectionMonitors/monitoringIntervalInSeconds
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/monitoringIntervalInSeconds/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/monitoringIntervalInSeconds
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ notes:
   path: Microsoft.Network/networkWatchers/connectionMonitors/notes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/notes/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/notes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ outputs:
   path: Microsoft.Network/networkWatchers/connectionMonitors/outputs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ outputs[*]:
   path: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*]/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ outputs[*].type:
   path: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].type/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ outputs[*].workspaceSettings:
   path: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].workspaceSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].workspaceSettings/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].workspaceSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ outputs[*].workspaceSettings.workspaceResourceId:
   path: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].workspaceSettings.workspaceResourceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].workspaceSettings.workspaceResourceId/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/outputs[*].workspaceSettings.workspaceResourceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ source:
   path: Microsoft.Network/networkWatchers/connectionMonitors/source
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/source/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/source
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ source.port:
   path: Microsoft.Network/networkWatchers/connectionMonitors/source.port
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/source.port/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/source.port
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ source.resourceId:
   path: Microsoft.Network/networkWatchers/connectionMonitors/source.resourceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/source.resourceId/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/source.resourceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ testConfigurations:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ testConfigurations[*]:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*]/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ testConfigurations[*].httpConfiguration:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ testConfigurations[*].httpConfiguration.method:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.method
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.method/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.method
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ testConfigurations[*].httpConfiguration.path:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.path
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.path/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.path
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ testConfigurations[*].httpConfiguration.port:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.port
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.port/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.port
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ testConfigurations[*].httpConfiguration.preferHTTPS:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.preferHTTPS
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.preferHTTPS/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.preferHTTPS
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ testConfigurations[*].httpConfiguration.requestHeaders:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ testConfigurations[*].httpConfiguration.requestHeaders[*]:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*]/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ testConfigurations[*].httpConfiguration.requestHeaders[*].name:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*].name/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ testConfigurations[*].httpConfiguration.requestHeaders[*].value:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*].value
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*].value/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.requestHeaders[*].value
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ testConfigurations[*].httpConfiguration.validStatusCodeRanges:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.validStatusCodeRanges
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.validStatusCodeRanges/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.validStatusCodeRanges
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ testConfigurations[*].httpConfiguration.validStatusCodeRanges[*]:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.validStatusCodeRanges[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.validStatusCodeRanges[*]/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].httpConfiguration.validStatusCodeRanges[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ testConfigurations[*].icmpConfiguration:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].icmpConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].icmpConfiguration/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].icmpConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ testConfigurations[*].icmpConfiguration.disableTraceRoute:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].icmpConfiguration.disableTraceRoute
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].icmpConfiguration.disableTraceRoute/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].icmpConfiguration.disableTraceRoute
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ testConfigurations[*].name:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].name/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ testConfigurations[*].preferredIPVersion:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].preferredIPVersion
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].preferredIPVersion/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].preferredIPVersion
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ testConfigurations[*].protocol:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].protocol
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].protocol/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].protocol
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ testConfigurations[*].successThreshold:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ testConfigurations[*].successThreshold.checksFailedPercent:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold.checksFailedPercent
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold.checksFailedPercent/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold.checksFailedPercent
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ testConfigurations[*].successThreshold.roundTripTimeMs:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold.roundTripTimeMs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold.roundTripTimeMs/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].successThreshold.roundTripTimeMs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ testConfigurations[*].tcpConfiguration:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -767,7 +767,7 @@ testConfigurations[*].tcpConfiguration.disableTraceRoute:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration.disableTraceRoute
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration.disableTraceRoute/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration.disableTraceRoute
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -784,7 +784,7 @@ testConfigurations[*].tcpConfiguration.port:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration.port
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration.port/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].tcpConfiguration.port
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -801,7 +801,7 @@ testConfigurations[*].testFrequencySec:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].testFrequencySec
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].testFrequencySec/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testConfigurations[*].testFrequencySec
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -818,7 +818,7 @@ testGroups:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -835,7 +835,7 @@ testGroups[*]:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*]/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -852,7 +852,7 @@ testGroups[*].destinations:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].destinations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].destinations/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].destinations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -869,7 +869,7 @@ testGroups[*].destinations[*]:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].destinations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].destinations[*]/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].destinations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -886,7 +886,7 @@ testGroups[*].disable:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].disable
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].disable/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].disable
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -903,7 +903,7 @@ testGroups[*].name:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].name/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -920,7 +920,7 @@ testGroups[*].sources:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].sources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].sources/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].sources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -937,7 +937,7 @@ testGroups[*].sources[*]:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].sources[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].sources[*]/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].sources[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -954,7 +954,7 @@ testGroups[*].testConfigurations:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].testConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].testConfigurations/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].testConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -971,7 +971,7 @@ testGroups[*].testConfigurations[*]:
   path: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].testConfigurations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].testConfigurations[*]/README.md
+  url: Microsoft.Network/networkWatchers/connectionMonitors/testGroups[*].testConfigurations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

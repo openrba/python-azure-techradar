@@ -2,7 +2,7 @@ solutions:
   path: Microsoft.Network/migrateprojects/solutions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/migrateprojects/solutions/README.md
+  url: Microsoft.Network/migrateprojects/solutions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

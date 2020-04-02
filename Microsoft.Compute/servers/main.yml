@@ -2,7 +2,7 @@ administratorOperationResults:
   path: Microsoft.Compute/servers/administratorOperationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/administratorOperationResults/README.md
+  url: Microsoft.Compute/servers/administratorOperationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ administrators:
   path: Microsoft.Compute/servers/administrators
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/administrators/README.md
+  url: Microsoft.Compute/servers/administrators
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ advisors:
   path: Microsoft.Compute/servers/advisors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/advisors/README.md
+  url: Microsoft.Compute/servers/advisors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ aggregatedDatabaseMetrics:
   path: Microsoft.Compute/servers/aggregatedDatabaseMetrics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/aggregatedDatabaseMetrics/README.md
+  url: Microsoft.Compute/servers/aggregatedDatabaseMetrics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ auditingPolicies:
   path: Microsoft.Compute/servers/auditingPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/auditingPolicies/README.md
+  url: Microsoft.Compute/servers/auditingPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ auditingSettings:
   path: Microsoft.Compute/servers/auditingSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/auditingSettings/README.md
+  url: Microsoft.Compute/servers/auditingSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ automaticTuning:
   path: Microsoft.Compute/servers/automaticTuning
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/automaticTuning/README.md
+  url: Microsoft.Compute/servers/automaticTuning
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ backupLongTermRetentionVaults:
   path: Microsoft.Compute/servers/backupLongTermRetentionVaults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/backupLongTermRetentionVaults/README.md
+  url: Microsoft.Compute/servers/backupLongTermRetentionVaults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ communicationLinks:
   path: Microsoft.Compute/servers/communicationLinks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/communicationLinks/README.md
+  url: Microsoft.Compute/servers/communicationLinks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ configurations:
   path: Microsoft.Compute/servers/configurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/configurations/README.md
+  url: Microsoft.Compute/servers/configurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ connectionPolicies:
   path: Microsoft.Compute/servers/connectionPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/connectionPolicies/README.md
+  url: Microsoft.Compute/servers/connectionPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ databaseSecurityPolicies:
   path: Microsoft.Compute/servers/databaseSecurityPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/databaseSecurityPolicies/README.md
+  url: Microsoft.Compute/servers/databaseSecurityPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ databases:
   path: Microsoft.Compute/servers/databases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/databases/README.md
+  url: Microsoft.Compute/servers/databases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ disasterRecoveryConfiguration:
   path: Microsoft.Compute/servers/disasterRecoveryConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/disasterRecoveryConfiguration/README.md
+  url: Microsoft.Compute/servers/disasterRecoveryConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ dnsAliases:
   path: Microsoft.Compute/servers/dnsAliases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/dnsAliases/README.md
+  url: Microsoft.Compute/servers/dnsAliases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ elasticPoolEstimates:
   path: Microsoft.Compute/servers/elasticPoolEstimates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/elasticPoolEstimates/README.md
+  url: Microsoft.Compute/servers/elasticPoolEstimates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ elasticPools:
   path: Microsoft.Compute/servers/elasticPools
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/elasticPools/README.md
+  url: Microsoft.Compute/servers/elasticPools
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ elasticpools:
   path: Microsoft.Compute/servers/elasticpools
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/elasticpools/README.md
+  url: Microsoft.Compute/servers/elasticpools
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ encryptionProtector:
   path: Microsoft.Compute/servers/encryptionProtector
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/encryptionProtector/README.md
+  url: Microsoft.Compute/servers/encryptionProtector
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ extendedAuditingSettings:
   path: Microsoft.Compute/servers/extendedAuditingSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/extendedAuditingSettings/README.md
+  url: Microsoft.Compute/servers/extendedAuditingSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ failoverGroups:
   path: Microsoft.Compute/servers/failoverGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/failoverGroups/README.md
+  url: Microsoft.Compute/servers/failoverGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ firewallRules:
   path: Microsoft.Compute/servers/firewallRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/firewallRules/README.md
+  url: Microsoft.Compute/servers/firewallRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ import:
   path: Microsoft.Compute/servers/import
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/import/README.md
+  url: Microsoft.Compute/servers/import
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ importExportOperationResults:
   path: Microsoft.Compute/servers/importExportOperationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/importExportOperationResults/README.md
+  url: Microsoft.Compute/servers/importExportOperationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ jobAccounts:
   path: Microsoft.Compute/servers/jobAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/jobAccounts/README.md
+  url: Microsoft.Compute/servers/jobAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ jobAgents:
   path: Microsoft.Compute/servers/jobAgents
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/jobAgents/README.md
+  url: Microsoft.Compute/servers/jobAgents
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ keys:
   path: Microsoft.Compute/servers/keys
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/keys/README.md
+  url: Microsoft.Compute/servers/keys
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ operationResults:
   path: Microsoft.Compute/servers/operationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/operationResults/README.md
+  url: Microsoft.Compute/servers/operationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ privateEndpointConnectionProxies:
   path: Microsoft.Compute/servers/privateEndpointConnectionProxies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/privateEndpointConnectionProxies/README.md
+  url: Microsoft.Compute/servers/privateEndpointConnectionProxies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ privateEndpointConnections:
   path: Microsoft.Compute/servers/privateEndpointConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/privateEndpointConnections/README.md
+  url: Microsoft.Compute/servers/privateEndpointConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ privateLinkResources:
   path: Microsoft.Compute/servers/privateLinkResources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/privateLinkResources/README.md
+  url: Microsoft.Compute/servers/privateLinkResources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ queryTexts:
   path: Microsoft.Compute/servers/queryTexts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/queryTexts/README.md
+  url: Microsoft.Compute/servers/queryTexts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ recommendedElasticPools:
   path: Microsoft.Compute/servers/recommendedElasticPools
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/recommendedElasticPools/README.md
+  url: Microsoft.Compute/servers/recommendedElasticPools
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ recoverableDatabases:
   path: Microsoft.Compute/servers/recoverableDatabases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/recoverableDatabases/README.md
+  url: Microsoft.Compute/servers/recoverableDatabases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ recoverableServers:
   path: Microsoft.Compute/servers/recoverableServers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/recoverableServers/README.md
+  url: Microsoft.Compute/servers/recoverableServers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ restorableDroppedDatabases:
   path: Microsoft.Compute/servers/restorableDroppedDatabases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/restorableDroppedDatabases/README.md
+  url: Microsoft.Compute/servers/restorableDroppedDatabases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ securityAlertPolicies:
   path: Microsoft.Compute/servers/securityAlertPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/securityAlertPolicies/README.md
+  url: Microsoft.Compute/servers/securityAlertPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ serviceObjectives:
   path: Microsoft.Compute/servers/serviceObjectives
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/serviceObjectives/README.md
+  url: Microsoft.Compute/servers/serviceObjectives
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ syncAgents:
   path: Microsoft.Compute/servers/syncAgents
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/syncAgents/README.md
+  url: Microsoft.Compute/servers/syncAgents
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ tdeCertificates:
   path: Microsoft.Compute/servers/tdeCertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/tdeCertificates/README.md
+  url: Microsoft.Compute/servers/tdeCertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ topQueryStatistics:
   path: Microsoft.Compute/servers/topQueryStatistics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/topQueryStatistics/README.md
+  url: Microsoft.Compute/servers/topQueryStatistics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ usages:
   path: Microsoft.Compute/servers/usages
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/usages/README.md
+  url: Microsoft.Compute/servers/usages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ virtualNetworkRules:
   path: Microsoft.Compute/servers/virtualNetworkRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/virtualNetworkRules/README.md
+  url: Microsoft.Compute/servers/virtualNetworkRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ vulnerabilityAssessments:
   path: Microsoft.Compute/servers/vulnerabilityAssessments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/vulnerabilityAssessments/README.md
+  url: Microsoft.Compute/servers/vulnerabilityAssessments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ waitStatistics:
   path: Microsoft.Compute/servers/waitStatistics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/waitStatistics/README.md
+  url: Microsoft.Compute/servers/waitStatistics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

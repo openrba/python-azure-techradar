@@ -2,7 +2,7 @@ policies:
   path: Microsoft.Network/labs/policySets/policies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/labs/policySets/policies/README.md
+  url: Microsoft.Network/labs/policySets/policies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

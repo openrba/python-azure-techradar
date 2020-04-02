@@ -2,7 +2,7 @@ tables:
   path: Microsoft.Network/servers/databases/schemas/tables
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/schemas/tables/README.md
+  url: Microsoft.Network/servers/databases/schemas/tables
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

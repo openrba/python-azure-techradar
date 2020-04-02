@@ -2,7 +2,7 @@ throughputSettings:
   path: Microsoft.Network/databaseAccounts/mongodbDatabases/collections/throughputSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccounts/mongodbDatabases/collections/throughputSettings/README.md
+  url: Microsoft.Network/databaseAccounts/mongodbDatabases/collections/throughputSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

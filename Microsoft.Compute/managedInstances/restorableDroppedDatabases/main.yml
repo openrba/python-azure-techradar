@@ -2,7 +2,7 @@ backupShortTermRetentionPolicies:
   path: Microsoft.Compute/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies/README.md
+  url: Microsoft.Compute/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

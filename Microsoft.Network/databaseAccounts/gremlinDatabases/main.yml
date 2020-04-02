@@ -2,7 +2,7 @@ graphs:
   path: Microsoft.Network/databaseAccounts/gremlinDatabases/graphs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccounts/gremlinDatabases/graphs/README.md
+  url: Microsoft.Network/databaseAccounts/gremlinDatabases/graphs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ throughputSettings:
   path: Microsoft.Network/databaseAccounts/gremlinDatabases/throughputSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccounts/gremlinDatabases/throughputSettings/README.md
+  url: Microsoft.Network/databaseAccounts/gremlinDatabases/throughputSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ routeFilterRules:
   path: Microsoft.Compute/routeFilters/routeFilterRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/routeFilters/routeFilterRules/README.md
+  url: Microsoft.Compute/routeFilters/routeFilterRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

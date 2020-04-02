@@ -2,7 +2,7 @@ containers:
   path: Microsoft.Network/storageAccounts/blobServices/containers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/storageAccounts/blobServices/containers/README.md
+  url: Microsoft.Network/storageAccounts/blobServices/containers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

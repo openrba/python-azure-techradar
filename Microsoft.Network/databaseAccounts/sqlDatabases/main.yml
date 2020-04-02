@@ -2,7 +2,7 @@ containers:
   path: Microsoft.Network/databaseAccounts/sqlDatabases/containers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccounts/sqlDatabases/containers/README.md
+  url: Microsoft.Network/databaseAccounts/sqlDatabases/containers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ throughputSettings:
   path: Microsoft.Network/databaseAccounts/sqlDatabases/throughputSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccounts/sqlDatabases/throughputSettings/README.md
+  url: Microsoft.Network/databaseAccounts/sqlDatabases/throughputSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

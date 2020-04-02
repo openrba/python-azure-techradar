@@ -2,7 +2,7 @@ executions:
   path: Microsoft.Compute/servers/jobAgents/jobs/executions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/jobAgents/jobs/executions/README.md
+  url: Microsoft.Compute/servers/jobAgents/jobs/executions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ steps:
   path: Microsoft.Compute/servers/jobAgents/jobs/steps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/jobAgents/jobs/steps/README.md
+  url: Microsoft.Compute/servers/jobAgents/jobs/steps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

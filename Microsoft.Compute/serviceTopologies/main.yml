@@ -2,7 +2,7 @@ services:
   path: Microsoft.Compute/serviceTopologies/services
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/serviceTopologies/services/README.md
+  url: Microsoft.Compute/serviceTopologies/services
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

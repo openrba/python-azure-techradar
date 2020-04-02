@@ -2,7 +2,7 @@ accountType:
   path: Microsoft.Compute/snapshots/accountType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/accountType/README.md
+  url: Microsoft.Compute/snapshots/accountType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ creationData:
   path: Microsoft.Compute/snapshots/creationData
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/creationData/README.md
+  url: Microsoft.Compute/snapshots/creationData
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ creationData.createOption:
   path: Microsoft.Compute/snapshots/creationData.createOption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/creationData.createOption/README.md
+  url: Microsoft.Compute/snapshots/creationData.createOption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ creationData.imageReference:
   path: Microsoft.Compute/snapshots/creationData.imageReference
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/creationData.imageReference/README.md
+  url: Microsoft.Compute/snapshots/creationData.imageReference
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ creationData.imageReference.id:
   path: Microsoft.Compute/snapshots/creationData.imageReference.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/creationData.imageReference.id/README.md
+  url: Microsoft.Compute/snapshots/creationData.imageReference.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ creationData.imageReference.lun:
   path: Microsoft.Compute/snapshots/creationData.imageReference.lun
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/creationData.imageReference.lun/README.md
+  url: Microsoft.Compute/snapshots/creationData.imageReference.lun
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ creationData.sourceResourceId:
   path: Microsoft.Compute/snapshots/creationData.sourceResourceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/creationData.sourceResourceId/README.md
+  url: Microsoft.Compute/snapshots/creationData.sourceResourceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ creationData.sourceUniqueId:
   path: Microsoft.Compute/snapshots/creationData.sourceUniqueId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/creationData.sourceUniqueId/README.md
+  url: Microsoft.Compute/snapshots/creationData.sourceUniqueId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ creationData.sourceUri:
   path: Microsoft.Compute/snapshots/creationData.sourceUri
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/creationData.sourceUri/README.md
+  url: Microsoft.Compute/snapshots/creationData.sourceUri
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ creationData.storageAccountId:
   path: Microsoft.Compute/snapshots/creationData.storageAccountId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/creationData.storageAccountId/README.md
+  url: Microsoft.Compute/snapshots/creationData.storageAccountId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ creationData.uploadSizeBytes:
   path: Microsoft.Compute/snapshots/creationData.uploadSizeBytes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/creationData.uploadSizeBytes/README.md
+  url: Microsoft.Compute/snapshots/creationData.uploadSizeBytes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ diskSizeBytes:
   path: Microsoft.Compute/snapshots/diskSizeBytes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/diskSizeBytes/README.md
+  url: Microsoft.Compute/snapshots/diskSizeBytes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ diskSizeGB:
   path: Microsoft.Compute/snapshots/diskSizeGB
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/diskSizeGB/README.md
+  url: Microsoft.Compute/snapshots/diskSizeGB
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ encryption:
   path: Microsoft.Compute/snapshots/encryption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryption/README.md
+  url: Microsoft.Compute/snapshots/encryption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ encryption.diskEncryptionSetId:
   path: Microsoft.Compute/snapshots/encryption.diskEncryptionSetId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryption.diskEncryptionSetId/README.md
+  url: Microsoft.Compute/snapshots/encryption.diskEncryptionSetId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ encryption.type:
   path: Microsoft.Compute/snapshots/encryption.type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryption.type/README.md
+  url: Microsoft.Compute/snapshots/encryption.type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ encryptionSettings:
   path: Microsoft.Compute/snapshots/encryptionSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettings/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ encryptionSettings.diskEncryptionKey:
   path: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ encryptionSettings.diskEncryptionKey.secretUrl:
   path: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.secretUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.secretUrl/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.secretUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ encryptionSettings.diskEncryptionKey.sourceVault:
   path: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ encryptionSettings.diskEncryptionKey.sourceVault.id:
   path: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault.id/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettings.diskEncryptionKey.sourceVault.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ encryptionSettings.enabled:
   path: Microsoft.Compute/snapshots/encryptionSettings.enabled
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettings.enabled/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettings.enabled
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ encryptionSettings.keyEncryptionKey:
   path: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ encryptionSettings.keyEncryptionKey.keyUrl:
   path: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.keyUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.keyUrl/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.keyUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ encryptionSettings.keyEncryptionKey.sourceVault:
   path: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.sourceVault
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.sourceVault/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.sourceVault
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ encryptionSettings.keyEncryptionKey.sourceVault.id:
   path: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.sourceVault.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.sourceVault.id/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettings.keyEncryptionKey.sourceVault.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ encryptionSettingsCollection:
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ encryptionSettingsCollection.enabled:
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection.enabled
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.enabled/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.enabled
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ encryptionSettingsCollection.encryptionSettings:
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ encryptionSettingsCollection.encryptionSettingsVersion:
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettingsVersion
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettingsVersion/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettingsVersion
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ encryptionSettingsCollection.encryptionSettings[*]:
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*]/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey:
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl:
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey:
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl:
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault:
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.
   path: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id/README.md
+  url: Microsoft.Compute/snapshots/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ hyperVGeneration:
   path: Microsoft.Compute/snapshots/hyperVGeneration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/hyperVGeneration/README.md
+  url: Microsoft.Compute/snapshots/hyperVGeneration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ incremental:
   path: Microsoft.Compute/snapshots/incremental
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/incremental/README.md
+  url: Microsoft.Compute/snapshots/incremental
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ managedBy:
   path: Microsoft.Compute/snapshots/managedBy
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/managedBy/README.md
+  url: Microsoft.Compute/snapshots/managedBy
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ osType:
   path: Microsoft.Compute/snapshots/osType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/osType/README.md
+  url: Microsoft.Compute/snapshots/osType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ ownerId:
   path: Microsoft.Compute/snapshots/ownerId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/ownerId/README.md
+  url: Microsoft.Compute/snapshots/ownerId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ provisioningState:
   path: Microsoft.Compute/snapshots/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/provisioningState/README.md
+  url: Microsoft.Compute/snapshots/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -767,7 +767,7 @@ sku:
   path: Microsoft.Compute/snapshots/sku
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/sku/README.md
+  url: Microsoft.Compute/snapshots/sku
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -784,7 +784,7 @@ sku.name:
   path: Microsoft.Compute/snapshots/sku.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/sku.name/README.md
+  url: Microsoft.Compute/snapshots/sku.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -801,7 +801,7 @@ sku.tier:
   path: Microsoft.Compute/snapshots/sku.tier
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/sku.tier/README.md
+  url: Microsoft.Compute/snapshots/sku.tier
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -818,7 +818,7 @@ timeCreated:
   path: Microsoft.Compute/snapshots/timeCreated
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/timeCreated/README.md
+  url: Microsoft.Compute/snapshots/timeCreated
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -835,7 +835,7 @@ uniqueId:
   path: Microsoft.Compute/snapshots/uniqueId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/snapshots/uniqueId/README.md
+  url: Microsoft.Compute/snapshots/uniqueId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

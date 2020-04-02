@@ -2,7 +2,7 @@ plans:
   path: Microsoft.Network/offerTypes/publishers/offers/plans
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/offerTypes/publishers/offers/plans/README.md
+  url: Microsoft.Network/offerTypes/publishers/offers/plans
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ problemclassifications:
   path: Microsoft.Compute/services/problemclassifications
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/services/problemclassifications/README.md
+  url: Microsoft.Compute/services/problemclassifications
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ projects:
   path: Microsoft.Compute/services/projects
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/services/projects/README.md
+  url: Microsoft.Compute/services/projects
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ serviceTasks:
   path: Microsoft.Compute/services/serviceTasks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/services/serviceTasks/README.md
+  url: Microsoft.Compute/services/serviceTasks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

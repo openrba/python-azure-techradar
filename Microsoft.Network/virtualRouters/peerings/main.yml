@@ -2,7 +2,7 @@ peerAsn:
   path: Microsoft.Network/virtualRouters/peerings/peerAsn
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/peerings/peerAsn/README.md
+  url: Microsoft.Network/virtualRouters/peerings/peerAsn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ peerIp:
   path: Microsoft.Network/virtualRouters/peerings/peerIp
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/peerings/peerIp/README.md
+  url: Microsoft.Network/virtualRouters/peerings/peerIp
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ provisioningState:
   path: Microsoft.Network/virtualRouters/peerings/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/peerings/provisioningState/README.md
+  url: Microsoft.Network/virtualRouters/peerings/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

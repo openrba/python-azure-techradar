@@ -2,7 +2,7 @@ A:
   path: Microsoft.Compute/privateDnsZones/A
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateDnsZones/A/README.md
+  url: Microsoft.Compute/privateDnsZones/A
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ AAAA:
   path: Microsoft.Compute/privateDnsZones/AAAA
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateDnsZones/AAAA/README.md
+  url: Microsoft.Compute/privateDnsZones/AAAA
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ CNAME:
   path: Microsoft.Compute/privateDnsZones/CNAME
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateDnsZones/CNAME/README.md
+  url: Microsoft.Compute/privateDnsZones/CNAME
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ MX:
   path: Microsoft.Compute/privateDnsZones/MX
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateDnsZones/MX/README.md
+  url: Microsoft.Compute/privateDnsZones/MX
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ PTR:
   path: Microsoft.Compute/privateDnsZones/PTR
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateDnsZones/PTR/README.md
+  url: Microsoft.Compute/privateDnsZones/PTR
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ SOA:
   path: Microsoft.Compute/privateDnsZones/SOA
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateDnsZones/SOA/README.md
+  url: Microsoft.Compute/privateDnsZones/SOA
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ SRV:
   path: Microsoft.Compute/privateDnsZones/SRV
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateDnsZones/SRV/README.md
+  url: Microsoft.Compute/privateDnsZones/SRV
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ TXT:
   path: Microsoft.Compute/privateDnsZones/TXT
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateDnsZones/TXT/README.md
+  url: Microsoft.Compute/privateDnsZones/TXT
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ all:
   path: Microsoft.Compute/privateDnsZones/all
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateDnsZones/all/README.md
+  url: Microsoft.Compute/privateDnsZones/all
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ virtualNetworkLinks:
   path: Microsoft.Compute/privateDnsZones/virtualNetworkLinks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateDnsZones/virtualNetworkLinks/README.md
+  url: Microsoft.Compute/privateDnsZones/virtualNetworkLinks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

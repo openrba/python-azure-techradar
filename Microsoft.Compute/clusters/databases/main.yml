@@ -2,7 +2,7 @@ dataconnections:
   path: Microsoft.Compute/clusters/databases/dataconnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/clusters/databases/dataconnections/README.md
+  url: Microsoft.Compute/clusters/databases/dataconnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ eventhubconnections:
   path: Microsoft.Compute/clusters/databases/eventhubconnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/clusters/databases/eventhubconnections/README.md
+  url: Microsoft.Compute/clusters/databases/eventhubconnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ principalassignments:
   path: Microsoft.Compute/clusters/databases/principalassignments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/clusters/databases/principalassignments/README.md
+  url: Microsoft.Compute/clusters/databases/principalassignments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

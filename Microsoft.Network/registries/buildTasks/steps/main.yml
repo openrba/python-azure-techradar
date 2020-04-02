@@ -2,7 +2,7 @@ listBuildArguments:
   path: Microsoft.Network/registries/buildTasks/steps/listBuildArguments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/buildTasks/steps/listBuildArguments/README.md
+  url: Microsoft.Network/registries/buildTasks/steps/listBuildArguments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

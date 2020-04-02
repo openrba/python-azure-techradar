@@ -29,27 +29,33 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[autoScaleConfiguration](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/autoScaleConfiguration/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/autoScaleConfiguration|TRIAL|
-|[autoScaleConfiguration.bounds](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/autoScaleConfiguration.bounds/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/autoScaleConfiguration.bounds|TRIAL|
-|[autoScaleConfiguration.bounds.max](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/autoScaleConfiguration.bounds.max/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/autoScaleConfiguration.bounds.max|TRIAL|
-|[autoScaleConfiguration.bounds.min](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/autoScaleConfiguration.bounds.min/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/autoScaleConfiguration.bounds.min|TRIAL|
-|[expressRouteConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections|TRIAL|
-|[expressRouteConnections[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*]/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*]|TRIAL|
-|[expressRouteConnections[*].authorizationKey](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].authorizationKey/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].authorizationKey|TRIAL|
-|[expressRouteConnections[*].enableInternetSecurity](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].enableInternetSecurity/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].enableInternetSecurity|TRIAL|
-|[expressRouteConnections[*].expressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].expressRouteCircuitPeering/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].expressRouteCircuitPeering|TRIAL|
-|[expressRouteConnections[*].expressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].expressRouteCircuitPeering.id/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].expressRouteCircuitPeering.id|TRIAL|
-|[expressRouteConnections[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].id/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].id|TRIAL|
-|[expressRouteConnections[*].name](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].name/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].name|TRIAL|
-|[expressRouteConnections[*].provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].provisioningState/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].provisioningState|TRIAL|
-|[expressRouteConnections[*].routingWeight](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingWeight/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingWeight|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/provisioningState/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/provisioningState|TRIAL|
-|[virtualHub](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/virtualHub/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/virtualHub|TRIAL|
-|[virtualHub.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/virtualHub.id/README.md)|UNKNOWN|Microsoft.Network/expressRouteGateways/virtualHub.id|TRIAL|
+|[autoScaleConfiguration](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/autoScaleConfiguration)|UNKNOWN|Microsoft.Network/expressRouteGateways/autoScaleConfiguration|TRIAL|
+|[autoScaleConfiguration.bounds](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/autoScaleConfiguration.bounds)|UNKNOWN|Microsoft.Network/expressRouteGateways/autoScaleConfiguration.bounds|TRIAL|
+|[autoScaleConfiguration.bounds.max](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/autoScaleConfiguration.bounds.max)|UNKNOWN|Microsoft.Network/expressRouteGateways/autoScaleConfiguration.bounds.max|TRIAL|
+|[autoScaleConfiguration.bounds.min](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/autoScaleConfiguration.bounds.min)|UNKNOWN|Microsoft.Network/expressRouteGateways/autoScaleConfiguration.bounds.min|TRIAL|
+|[expressRouteConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections|TRIAL|
+|[expressRouteConnections[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*])|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*]|TRIAL|
+|[expressRouteConnections[*].authorizationKey](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].authorizationKey)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].authorizationKey|TRIAL|
+|[expressRouteConnections[*].enableInternetSecurity](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].enableInternetSecurity)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].enableInternetSecurity|TRIAL|
+|[expressRouteConnections[*].expressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].expressRouteCircuitPeering)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].expressRouteCircuitPeering|TRIAL|
+|[expressRouteConnections[*].expressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].expressRouteCircuitPeering.id)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].expressRouteCircuitPeering.id|TRIAL|
+|[expressRouteConnections[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].id)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].id|TRIAL|
+|[expressRouteConnections[*].name](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].name)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].name|TRIAL|
+|[expressRouteConnections[*].provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].provisioningState)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].provisioningState|TRIAL|
+|[expressRouteConnections[*].routingWeight](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingWeight)|UNKNOWN|Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingWeight|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/provisioningState)|UNKNOWN|Microsoft.Network/expressRouteGateways/provisioningState|TRIAL|
+|[virtualHub](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/virtualHub)|UNKNOWN|Microsoft.Network/expressRouteGateways/virtualHub|TRIAL|
+|[virtualHub.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteGateways/virtualHub.id)|UNKNOWN|Microsoft.Network/expressRouteGateways/virtualHub.id|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

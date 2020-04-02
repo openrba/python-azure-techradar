@@ -2,7 +2,7 @@ enabled:
   path: Microsoft.Network/networkWatchers/flowLogs/enabled
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/enabled/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/enabled
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ flowAnalyticsConfiguration:
   path: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration:
   path: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.enabled:
   path: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.enabled
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.enabled/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.enabled
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.trafficAnaly
   path: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.trafficAnalyticsInterval
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.trafficAnalyticsInterval/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.trafficAnalyticsInterval
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.workspaceId:
   path: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.workspaceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.workspaceId/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.workspaceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.workspaceReg
   path: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.workspaceRegion
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.workspaceRegion/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.workspaceRegion
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.workspaceRes
   path: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.workspaceResourceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.workspaceResourceId/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/flowAnalyticsConfiguration.networkWatcherFlowAnalyticsConfiguration.workspaceResourceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ format:
   path: Microsoft.Network/networkWatchers/flowLogs/format
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/format/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/format
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ format.type:
   path: Microsoft.Network/networkWatchers/flowLogs/format.type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/format.type/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/format.type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ format.version:
   path: Microsoft.Network/networkWatchers/flowLogs/format.version
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/format.version/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/format.version
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ provisioningState:
   path: Microsoft.Network/networkWatchers/flowLogs/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/provisioningState/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ retentionPolicy:
   path: Microsoft.Network/networkWatchers/flowLogs/retentionPolicy
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/retentionPolicy/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/retentionPolicy
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ retentionPolicy.days:
   path: Microsoft.Network/networkWatchers/flowLogs/retentionPolicy.days
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/retentionPolicy.days/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/retentionPolicy.days
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ retentionPolicy.enabled:
   path: Microsoft.Network/networkWatchers/flowLogs/retentionPolicy.enabled
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/retentionPolicy.enabled/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/retentionPolicy.enabled
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ storageId:
   path: Microsoft.Network/networkWatchers/flowLogs/storageId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/storageId/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/storageId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ targetResourceGuid:
   path: Microsoft.Network/networkWatchers/flowLogs/targetResourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/targetResourceGuid/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/targetResourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ targetResourceId:
   path: Microsoft.Network/networkWatchers/flowLogs/targetResourceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/flowLogs/targetResourceId/README.md
+  url: Microsoft.Network/networkWatchers/flowLogs/targetResourceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

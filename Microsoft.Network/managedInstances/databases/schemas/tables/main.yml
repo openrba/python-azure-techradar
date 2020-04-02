@@ -2,7 +2,7 @@ columns:
   path: Microsoft.Network/managedInstances/databases/schemas/tables/columns
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managedInstances/databases/schemas/tables/columns/README.md
+  url: Microsoft.Network/managedInstances/databases/schemas/tables/columns
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

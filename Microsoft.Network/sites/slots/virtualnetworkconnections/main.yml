@@ -2,7 +2,7 @@ gateways:
   path: Microsoft.Network/sites/slots/virtualnetworkconnections/gateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/slots/virtualnetworkconnections/gateways/README.md
+  url: Microsoft.Network/sites/slots/virtualnetworkconnections/gateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

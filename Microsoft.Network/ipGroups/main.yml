@@ -2,7 +2,7 @@ firewalls:
   path: Microsoft.Network/ipGroups/firewalls
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ipGroups/firewalls/README.md
+  url: Microsoft.Network/ipGroups/firewalls
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ firewalls[*]:
   path: Microsoft.Network/ipGroups/firewalls[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ipGroups/firewalls[*]/README.md
+  url: Microsoft.Network/ipGroups/firewalls[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ firewalls[*].id:
   path: Microsoft.Network/ipGroups/firewalls[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ipGroups/firewalls[*].id/README.md
+  url: Microsoft.Network/ipGroups/firewalls[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ ipAddresses:
   path: Microsoft.Network/ipGroups/ipAddresses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ipGroups/ipAddresses/README.md
+  url: Microsoft.Network/ipGroups/ipAddresses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ ipAddresses[*]:
   path: Microsoft.Network/ipGroups/ipAddresses[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ipGroups/ipAddresses[*]/README.md
+  url: Microsoft.Network/ipGroups/ipAddresses[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ provisioningState:
   path: Microsoft.Network/ipGroups/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ipGroups/provisioningState/README.md
+  url: Microsoft.Network/ipGroups/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

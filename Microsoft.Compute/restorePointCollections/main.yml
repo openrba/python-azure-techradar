@@ -2,7 +2,7 @@ restorePoints:
   path: Microsoft.Compute/restorePointCollections/restorePoints
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/restorePointCollections/restorePoints/README.md
+  url: Microsoft.Compute/restorePointCollections/restorePoints
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

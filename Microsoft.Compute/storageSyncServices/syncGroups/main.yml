@@ -2,7 +2,7 @@ cloudEndpoints:
   path: Microsoft.Compute/storageSyncServices/syncGroups/cloudEndpoints
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/storageSyncServices/syncGroups/cloudEndpoints/README.md
+  url: Microsoft.Compute/storageSyncServices/syncGroups/cloudEndpoints
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ serverEndpoints:
   path: Microsoft.Compute/storageSyncServices/syncGroups/serverEndpoints
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/storageSyncServices/syncGroups/serverEndpoints/README.md
+  url: Microsoft.Compute/storageSyncServices/syncGroups/serverEndpoints
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

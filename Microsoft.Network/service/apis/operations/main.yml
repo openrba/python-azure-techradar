@@ -2,7 +2,7 @@ policies:
   path: Microsoft.Network/service/apis/operations/policies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/apis/operations/policies/README.md
+  url: Microsoft.Network/service/apis/operations/policies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ tags:
   path: Microsoft.Network/service/apis/operations/tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/apis/operations/tags/README.md
+  url: Microsoft.Network/service/apis/operations/tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

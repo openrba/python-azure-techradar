@@ -2,7 +2,7 @@ cassandraKeyspaces:
   path: Microsoft.Compute/databaseAccounts/cassandraKeyspaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/databaseAccounts/cassandraKeyspaces/README.md
+  url: Microsoft.Compute/databaseAccounts/cassandraKeyspaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ gremlinDatabases:
   path: Microsoft.Compute/databaseAccounts/gremlinDatabases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/databaseAccounts/gremlinDatabases/README.md
+  url: Microsoft.Compute/databaseAccounts/gremlinDatabases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ mongodbDatabases:
   path: Microsoft.Compute/databaseAccounts/mongodbDatabases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/databaseAccounts/mongodbDatabases/README.md
+  url: Microsoft.Compute/databaseAccounts/mongodbDatabases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ privateEndpointConnections:
   path: Microsoft.Compute/databaseAccounts/privateEndpointConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/databaseAccounts/privateEndpointConnections/README.md
+  url: Microsoft.Compute/databaseAccounts/privateEndpointConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ sqlDatabases:
   path: Microsoft.Compute/databaseAccounts/sqlDatabases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/databaseAccounts/sqlDatabases/README.md
+  url: Microsoft.Compute/databaseAccounts/sqlDatabases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ tables:
   path: Microsoft.Compute/databaseAccounts/tables
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/databaseAccounts/tables/README.md
+  url: Microsoft.Compute/databaseAccounts/tables
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

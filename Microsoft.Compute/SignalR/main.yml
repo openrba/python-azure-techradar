@@ -2,7 +2,7 @@ eventGridFilters:
   path: Microsoft.Compute/SignalR/eventGridFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/SignalR/eventGridFilters/README.md
+  url: Microsoft.Compute/SignalR/eventGridFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

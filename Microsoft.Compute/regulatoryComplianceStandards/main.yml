@@ -2,7 +2,7 @@ regulatoryComplianceControls:
   path: Microsoft.Compute/regulatoryComplianceStandards/regulatoryComplianceControls
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/regulatoryComplianceStandards/regulatoryComplianceControls/README.md
+  url: Microsoft.Compute/regulatoryComplianceStandards/regulatoryComplianceControls
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

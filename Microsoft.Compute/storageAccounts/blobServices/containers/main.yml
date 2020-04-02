@@ -2,7 +2,7 @@ immutabilityPolicies:
   path: Microsoft.Compute/storageAccounts/blobServices/containers/immutabilityPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/storageAccounts/blobServices/containers/immutabilityPolicies/README.md
+  url: Microsoft.Compute/storageAccounts/blobServices/containers/immutabilityPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

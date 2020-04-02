@@ -2,7 +2,7 @@ jobs:
   path: Microsoft.Compute/workspaces/experiments/jobs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/workspaces/experiments/jobs/README.md
+  url: Microsoft.Compute/workspaces/experiments/jobs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

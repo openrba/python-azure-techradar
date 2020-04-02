@@ -2,7 +2,7 @@ roles:
   path: Microsoft.Network/domainNames/slots/roles
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/domainNames/slots/roles/README.md
+  url: Microsoft.Network/domainNames/slots/roles
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[Microsoft.Compute](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/README.md)|UNKNOWN|Microsoft.Compute|TRIAL|
-|[Microsoft.Network](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/README.md)|UNKNOWN|Microsoft.Network|TRIAL|
+|[Microsoft.Compute](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute)|UNKNOWN|Microsoft.Compute|TRIAL|
+|[Microsoft.Network](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network)|UNKNOWN|Microsoft.Network|TRIAL|
 
 ### Hold
 
@@ -68,11 +68,6 @@ Technologies not recommended to be used for new projects. Technologies that we t
 |Microsoft.Cdn|UNKNOWN|Microsoft.Cdn|HOLD|
 |Microsoft.CertificateRegistration|UNKNOWN|Microsoft.CertificateRegistration|HOLD|
 |Microsoft.ChangeAnalysis|UNKNOWN|Microsoft.ChangeAnalysis|HOLD|
-|Microsoft.ClassicCompute|UNKNOWN|Microsoft.ClassicCompute|HOLD|
-|Microsoft.ClassicInfrastructureMigrate|UNKNOWN|Microsoft.ClassicInfrastructureMigrate|HOLD|
-|Microsoft.ClassicNetwork|UNKNOWN|Microsoft.ClassicNetwork|HOLD|
-|Microsoft.ClassicStorage|UNKNOWN|Microsoft.ClassicStorage|HOLD|
-|Microsoft.ClassicSubscription|UNKNOWN|Microsoft.ClassicSubscription|HOLD|
 |Microsoft.CognitiveServices|UNKNOWN|Microsoft.CognitiveServices|HOLD|
 |Microsoft.Commerce|UNKNOWN|Microsoft.Commerce|HOLD|
 |Microsoft.Consumption|UNKNOWN|Microsoft.Consumption|HOLD|
@@ -196,3 +191,16 @@ Technologies not recommended to be used for new projects. Technologies that we t
 |Microsoft.WindowsESU|UNKNOWN|Microsoft.WindowsESU|HOLD|
 |Microsoft.WindowsIoT|UNKNOWN|Microsoft.WindowsIoT|HOLD|
 |Microsoft.WorkloadMonitor|UNKNOWN|Microsoft.WorkloadMonitor|HOLD|
+
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
+
+|Resource|Description|Path|Status|
+| :---: | :---: | :---: | :---: |
+|Microsoft.ClassicCompute|UNKNOWN|Microsoft.ClassicCompute|REJECT|
+|Microsoft.ClassicInfrastructureMigrate|UNKNOWN|Microsoft.ClassicInfrastructureMigrate|REJECT|
+|Microsoft.ClassicNetwork|UNKNOWN|Microsoft.ClassicNetwork|REJECT|
+|Microsoft.ClassicStorage|UNKNOWN|Microsoft.ClassicStorage|REJECT|
+|Microsoft.ClassicSubscription|UNKNOWN|Microsoft.ClassicSubscription|REJECT|

@@ -2,7 +2,7 @@ autoReplaceOnFailure:
   path: Microsoft.Compute/hostGroups/hosts/autoReplaceOnFailure
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/autoReplaceOnFailure/README.md
+  url: Microsoft.Compute/hostGroups/hosts/autoReplaceOnFailure
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ hostId:
   path: Microsoft.Compute/hostGroups/hosts/hostId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/hostId/README.md
+  url: Microsoft.Compute/hostGroups/hosts/hostId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ licenseType:
   path: Microsoft.Compute/hostGroups/hosts/licenseType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/licenseType/README.md
+  url: Microsoft.Compute/hostGroups/hosts/licenseType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ platformFaultDomain:
   path: Microsoft.Compute/hostGroups/hosts/platformFaultDomain
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/platformFaultDomain/README.md
+  url: Microsoft.Compute/hostGroups/hosts/platformFaultDomain
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ provisioningState:
   path: Microsoft.Compute/hostGroups/hosts/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/provisioningState/README.md
+  url: Microsoft.Compute/hostGroups/hosts/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ provisioningTime:
   path: Microsoft.Compute/hostGroups/hosts/provisioningTime
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/provisioningTime/README.md
+  url: Microsoft.Compute/hostGroups/hosts/provisioningTime
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ sku:
   path: Microsoft.Compute/hostGroups/hosts/sku
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/sku/README.md
+  url: Microsoft.Compute/hostGroups/hosts/sku
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ sku.capacity:
   path: Microsoft.Compute/hostGroups/hosts/sku.capacity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/sku.capacity/README.md
+  url: Microsoft.Compute/hostGroups/hosts/sku.capacity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ sku.name:
   path: Microsoft.Compute/hostGroups/hosts/sku.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/sku.name/README.md
+  url: Microsoft.Compute/hostGroups/hosts/sku.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ sku.tier:
   path: Microsoft.Compute/hostGroups/hosts/sku.tier
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/sku.tier/README.md
+  url: Microsoft.Compute/hostGroups/hosts/sku.tier
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ virtualMachines:
   path: Microsoft.Compute/hostGroups/hosts/virtualMachines
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/virtualMachines/README.md
+  url: Microsoft.Compute/hostGroups/hosts/virtualMachines
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ virtualMachines[*]:
   path: Microsoft.Compute/hostGroups/hosts/virtualMachines[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/virtualMachines[*]/README.md
+  url: Microsoft.Compute/hostGroups/hosts/virtualMachines[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ virtualMachines[*].id:
   path: Microsoft.Compute/hostGroups/hosts/virtualMachines[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/hostGroups/hosts/virtualMachines[*].id/README.md
+  url: Microsoft.Compute/hostGroups/hosts/virtualMachines[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

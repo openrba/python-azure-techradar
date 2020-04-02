@@ -2,7 +2,7 @@ apiVersionSets:
   path: Microsoft.Network/service/apiVersionSets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/apiVersionSets/README.md
+  url: Microsoft.Network/service/apiVersionSets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ apis:
   path: Microsoft.Network/service/apis
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/apis/README.md
+  url: Microsoft.Network/service/apis
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ authorizationServers:
   path: Microsoft.Network/service/authorizationServers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/authorizationServers/README.md
+  url: Microsoft.Network/service/authorizationServers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ backends:
   path: Microsoft.Network/service/backends
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/backends/README.md
+  url: Microsoft.Network/service/backends
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ caches:
   path: Microsoft.Network/service/caches
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/caches/README.md
+  url: Microsoft.Network/service/caches
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ diagnostics:
   path: Microsoft.Network/service/diagnostics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/diagnostics/README.md
+  url: Microsoft.Network/service/diagnostics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ groups:
   path: Microsoft.Network/service/groups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/groups/README.md
+  url: Microsoft.Network/service/groups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ identityProviders:
   path: Microsoft.Network/service/identityProviders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/identityProviders/README.md
+  url: Microsoft.Network/service/identityProviders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ loggers:
   path: Microsoft.Network/service/loggers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/loggers/README.md
+  url: Microsoft.Network/service/loggers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ notifications:
   path: Microsoft.Network/service/notifications
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/notifications/README.md
+  url: Microsoft.Network/service/notifications
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ openidConnectProviders:
   path: Microsoft.Network/service/openidConnectProviders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/openidConnectProviders/README.md
+  url: Microsoft.Network/service/openidConnectProviders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ policies:
   path: Microsoft.Network/service/policies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/policies/README.md
+  url: Microsoft.Network/service/policies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ portalsettings:
   path: Microsoft.Network/service/portalsettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/portalsettings/README.md
+  url: Microsoft.Network/service/portalsettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ products:
   path: Microsoft.Network/service/products
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/products/README.md
+  url: Microsoft.Network/service/products
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ properties:
   path: Microsoft.Network/service/properties
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/properties/README.md
+  url: Microsoft.Network/service/properties
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ subscriptions:
   path: Microsoft.Network/service/subscriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/subscriptions/README.md
+  url: Microsoft.Network/service/subscriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ tags:
   path: Microsoft.Network/service/tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/tags/README.md
+  url: Microsoft.Network/service/tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ templates:
   path: Microsoft.Network/service/templates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/templates/README.md
+  url: Microsoft.Network/service/templates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ users:
   path: Microsoft.Network/service/users
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/users/README.md
+  url: Microsoft.Network/service/users
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

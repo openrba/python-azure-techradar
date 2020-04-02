@@ -29,20 +29,26 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[A](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/A/README.md)|UNKNOWN|Microsoft.Compute/privateDnsZones/A|TRIAL|
-|[AAAA](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/AAAA/README.md)|UNKNOWN|Microsoft.Compute/privateDnsZones/AAAA|TRIAL|
-|[CNAME](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/CNAME/README.md)|UNKNOWN|Microsoft.Compute/privateDnsZones/CNAME|TRIAL|
-|[MX](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/MX/README.md)|UNKNOWN|Microsoft.Compute/privateDnsZones/MX|TRIAL|
-|[PTR](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/PTR/README.md)|UNKNOWN|Microsoft.Compute/privateDnsZones/PTR|TRIAL|
-|[SOA](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/SOA/README.md)|UNKNOWN|Microsoft.Compute/privateDnsZones/SOA|TRIAL|
-|[SRV](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/SRV/README.md)|UNKNOWN|Microsoft.Compute/privateDnsZones/SRV|TRIAL|
-|[TXT](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/TXT/README.md)|UNKNOWN|Microsoft.Compute/privateDnsZones/TXT|TRIAL|
-|[all](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/all/README.md)|UNKNOWN|Microsoft.Compute/privateDnsZones/all|TRIAL|
-|[virtualNetworkLinks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/virtualNetworkLinks/README.md)|UNKNOWN|Microsoft.Compute/privateDnsZones/virtualNetworkLinks|TRIAL|
+|[A](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/A)|UNKNOWN|Microsoft.Compute/privateDnsZones/A|TRIAL|
+|[AAAA](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/AAAA)|UNKNOWN|Microsoft.Compute/privateDnsZones/AAAA|TRIAL|
+|[CNAME](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/CNAME)|UNKNOWN|Microsoft.Compute/privateDnsZones/CNAME|TRIAL|
+|[MX](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/MX)|UNKNOWN|Microsoft.Compute/privateDnsZones/MX|TRIAL|
+|[PTR](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/PTR)|UNKNOWN|Microsoft.Compute/privateDnsZones/PTR|TRIAL|
+|[SOA](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/SOA)|UNKNOWN|Microsoft.Compute/privateDnsZones/SOA|TRIAL|
+|[SRV](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/SRV)|UNKNOWN|Microsoft.Compute/privateDnsZones/SRV|TRIAL|
+|[TXT](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/TXT)|UNKNOWN|Microsoft.Compute/privateDnsZones/TXT|TRIAL|
+|[all](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/all)|UNKNOWN|Microsoft.Compute/privateDnsZones/all|TRIAL|
+|[virtualNetworkLinks](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/privateDnsZones/virtualNetworkLinks)|UNKNOWN|Microsoft.Compute/privateDnsZones/virtualNetworkLinks|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

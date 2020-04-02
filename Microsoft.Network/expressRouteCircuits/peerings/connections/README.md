@@ -29,18 +29,24 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[addressPrefix](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/addressPrefix/README.md)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/addressPrefix|TRIAL|
-|[authorizationKey](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/authorizationKey/README.md)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/authorizationKey|TRIAL|
-|[circuitConnectionStatus](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/circuitConnectionStatus/README.md)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/circuitConnectionStatus|TRIAL|
-|[expressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering/README.md)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering|TRIAL|
-|[expressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering.id/README.md)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering.id|TRIAL|
-|[peerExpressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering/README.md)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering|TRIAL|
-|[peerExpressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering.id/README.md)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering.id|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/provisioningState/README.md)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/provisioningState|TRIAL|
+|[addressPrefix](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/addressPrefix)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/addressPrefix|TRIAL|
+|[authorizationKey](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/authorizationKey)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/authorizationKey|TRIAL|
+|[circuitConnectionStatus](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/circuitConnectionStatus)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/circuitConnectionStatus|TRIAL|
+|[expressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering|TRIAL|
+|[expressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering.id)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering.id|TRIAL|
+|[peerExpressRouteCircuitPeering](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering|TRIAL|
+|[peerExpressRouteCircuitPeering.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering.id)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering.id|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/expressRouteCircuits/peerings/connections/provisioningState)|UNKNOWN|Microsoft.Network/expressRouteCircuits/peerings/connections/provisioningState|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

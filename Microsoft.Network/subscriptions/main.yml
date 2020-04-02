@@ -2,7 +2,7 @@ locations:
   path: Microsoft.Network/subscriptions/locations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/subscriptions/locations/README.md
+  url: Microsoft.Network/subscriptions/locations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ operationresults:
   path: Microsoft.Network/subscriptions/operationresults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/subscriptions/operationresults/README.md
+  url: Microsoft.Network/subscriptions/operationresults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ providers:
   path: Microsoft.Network/subscriptions/providers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/subscriptions/providers/README.md
+  url: Microsoft.Network/subscriptions/providers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ resourceGroups:
   path: Microsoft.Network/subscriptions/resourceGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/subscriptions/resourceGroups/README.md
+  url: Microsoft.Network/subscriptions/resourceGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ resourcegroups:
   path: Microsoft.Network/subscriptions/resourcegroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/subscriptions/resourcegroups/README.md
+  url: Microsoft.Network/subscriptions/resourcegroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ resources:
   path: Microsoft.Network/subscriptions/resources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/subscriptions/resources/README.md
+  url: Microsoft.Network/subscriptions/resources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ tagNames:
   path: Microsoft.Network/subscriptions/tagNames
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/subscriptions/tagNames/README.md
+  url: Microsoft.Network/subscriptions/tagNames
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ tagnames:
   path: Microsoft.Network/subscriptions/tagnames
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/subscriptions/tagnames/README.md
+  url: Microsoft.Network/subscriptions/tagnames
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

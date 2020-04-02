@@ -2,7 +2,7 @@ throughputSettings:
   path: Microsoft.Network/databaseAccounts/tables/throughputSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccounts/tables/throughputSettings/README.md
+  url: Microsoft.Network/databaseAccounts/tables/throughputSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ schedules:
   path: Microsoft.Compute/labs/users/serviceFabrics/schedules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/users/serviceFabrics/schedules/README.md
+  url: Microsoft.Compute/labs/users/serviceFabrics/schedules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

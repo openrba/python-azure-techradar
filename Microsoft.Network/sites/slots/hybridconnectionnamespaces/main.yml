@@ -2,7 +2,7 @@ relays:
   path: Microsoft.Network/sites/slots/hybridconnectionnamespaces/relays
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/slots/hybridconnectionnamespaces/relays/README.md
+  url: Microsoft.Network/sites/slots/hybridconnectionnamespaces/relays
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

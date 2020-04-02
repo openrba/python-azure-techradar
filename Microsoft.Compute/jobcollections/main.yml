@@ -2,7 +2,7 @@ jobs:
   path: Microsoft.Compute/jobcollections/jobs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/jobcollections/jobs/README.md
+  url: Microsoft.Compute/jobcollections/jobs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

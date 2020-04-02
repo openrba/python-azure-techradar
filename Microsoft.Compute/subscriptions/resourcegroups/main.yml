@@ -2,7 +2,7 @@ resources:
   path: Microsoft.Compute/subscriptions/resourcegroups/resources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/subscriptions/resourcegroups/resources/README.md
+  url: Microsoft.Compute/subscriptions/resourcegroups/resources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

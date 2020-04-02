@@ -2,7 +2,7 @@ groups:
   path: Microsoft.Network/projects/groups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/projects/groups/README.md
+  url: Microsoft.Network/projects/groups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

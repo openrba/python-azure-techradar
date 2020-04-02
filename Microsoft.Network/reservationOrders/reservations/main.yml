@@ -2,7 +2,7 @@ availableScopes:
   path: Microsoft.Network/reservationOrders/reservations/availableScopes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reservationOrders/reservations/availableScopes/README.md
+  url: Microsoft.Network/reservationOrders/reservations/availableScopes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ revisions:
   path: Microsoft.Network/reservationOrders/reservations/revisions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reservationOrders/reservations/revisions/README.md
+  url: Microsoft.Network/reservationOrders/reservations/revisions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

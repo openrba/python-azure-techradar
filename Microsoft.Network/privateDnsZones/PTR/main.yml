@@ -2,7 +2,7 @@ aRecords:
   path: Microsoft.Network/privateDnsZones/PTR/aRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/aRecords/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/aRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ aRecords[*]:
   path: Microsoft.Network/privateDnsZones/PTR/aRecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/aRecords[*]/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/aRecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ aRecords[*].ipv4Address:
   path: Microsoft.Network/privateDnsZones/PTR/aRecords[*].ipv4Address
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/aRecords[*].ipv4Address/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/aRecords[*].ipv4Address
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ aaaaRecords:
   path: Microsoft.Network/privateDnsZones/PTR/aaaaRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/aaaaRecords/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/aaaaRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ aaaaRecords[*]:
   path: Microsoft.Network/privateDnsZones/PTR/aaaaRecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/aaaaRecords[*]/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/aaaaRecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ aaaaRecords[*].ipv6Address:
   path: Microsoft.Network/privateDnsZones/PTR/aaaaRecords[*].ipv6Address
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/aaaaRecords[*].ipv6Address/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/aaaaRecords[*].ipv6Address
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ cnameRecord:
   path: Microsoft.Network/privateDnsZones/PTR/cnameRecord
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/cnameRecord/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/cnameRecord
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ cnameRecord.cname:
   path: Microsoft.Network/privateDnsZones/PTR/cnameRecord.cname
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/cnameRecord.cname/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/cnameRecord.cname
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ fqdn:
   path: Microsoft.Network/privateDnsZones/PTR/fqdn
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/fqdn/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/fqdn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ isAutoRegistered:
   path: Microsoft.Network/privateDnsZones/PTR/isAutoRegistered
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/isAutoRegistered/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/isAutoRegistered
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ metadata:
   path: Microsoft.Network/privateDnsZones/PTR/metadata
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/metadata/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/metadata
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ mxRecords:
   path: Microsoft.Network/privateDnsZones/PTR/mxRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/mxRecords/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/mxRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ mxRecords[*]:
   path: Microsoft.Network/privateDnsZones/PTR/mxRecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/mxRecords[*]/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/mxRecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ mxRecords[*].exchange:
   path: Microsoft.Network/privateDnsZones/PTR/mxRecords[*].exchange
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/mxRecords[*].exchange/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/mxRecords[*].exchange
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ mxRecords[*].preference:
   path: Microsoft.Network/privateDnsZones/PTR/mxRecords[*].preference
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/mxRecords[*].preference/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/mxRecords[*].preference
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ ptrRecords:
   path: Microsoft.Network/privateDnsZones/PTR/ptrRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/ptrRecords/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/ptrRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ ptrRecords[*]:
   path: Microsoft.Network/privateDnsZones/PTR/ptrRecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/ptrRecords[*]/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/ptrRecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ ptrRecords[*].ptrdname:
   path: Microsoft.Network/privateDnsZones/PTR/ptrRecords[*].ptrdname
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/ptrRecords[*].ptrdname/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/ptrRecords[*].ptrdname
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ soaRecord:
   path: Microsoft.Network/privateDnsZones/PTR/soaRecord
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/soaRecord/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/soaRecord
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ soaRecord.email:
   path: Microsoft.Network/privateDnsZones/PTR/soaRecord.email
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.email/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.email
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ soaRecord.expireTime:
   path: Microsoft.Network/privateDnsZones/PTR/soaRecord.expireTime
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.expireTime/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.expireTime
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ soaRecord.host:
   path: Microsoft.Network/privateDnsZones/PTR/soaRecord.host
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.host/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.host
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ soaRecord.minimumTtl:
   path: Microsoft.Network/privateDnsZones/PTR/soaRecord.minimumTtl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.minimumTtl/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.minimumTtl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ soaRecord.refreshTime:
   path: Microsoft.Network/privateDnsZones/PTR/soaRecord.refreshTime
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.refreshTime/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.refreshTime
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ soaRecord.retryTime:
   path: Microsoft.Network/privateDnsZones/PTR/soaRecord.retryTime
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.retryTime/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.retryTime
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ soaRecord.serialNumber:
   path: Microsoft.Network/privateDnsZones/PTR/soaRecord.serialNumber
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.serialNumber/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/soaRecord.serialNumber
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ srvRecords:
   path: Microsoft.Network/privateDnsZones/PTR/srvRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/srvRecords/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/srvRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ srvRecords[*]:
   path: Microsoft.Network/privateDnsZones/PTR/srvRecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/srvRecords[*]/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/srvRecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ srvRecords[*].port:
   path: Microsoft.Network/privateDnsZones/PTR/srvRecords[*].port
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/srvRecords[*].port/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/srvRecords[*].port
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ srvRecords[*].priority:
   path: Microsoft.Network/privateDnsZones/PTR/srvRecords[*].priority
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/srvRecords[*].priority/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/srvRecords[*].priority
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ srvRecords[*].target:
   path: Microsoft.Network/privateDnsZones/PTR/srvRecords[*].target
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/srvRecords[*].target/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/srvRecords[*].target
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ srvRecords[*].weight:
   path: Microsoft.Network/privateDnsZones/PTR/srvRecords[*].weight
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/srvRecords[*].weight/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/srvRecords[*].weight
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ ttl:
   path: Microsoft.Network/privateDnsZones/PTR/ttl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/ttl/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/ttl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ txtRecords:
   path: Microsoft.Network/privateDnsZones/PTR/txtRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/txtRecords/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/txtRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ txtRecords[*]:
   path: Microsoft.Network/privateDnsZones/PTR/txtRecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/PTR/txtRecords[*]/README.md
+  url: Microsoft.Network/privateDnsZones/PTR/txtRecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

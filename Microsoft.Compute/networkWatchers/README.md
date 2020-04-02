@@ -29,14 +29,20 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[connectionMonitors](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkWatchers/connectionMonitors/README.md)|UNKNOWN|Microsoft.Compute/networkWatchers/connectionMonitors|TRIAL|
-|[flowLogs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkWatchers/flowLogs/README.md)|UNKNOWN|Microsoft.Compute/networkWatchers/flowLogs|TRIAL|
-|[packetCaptures](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkWatchers/packetCaptures/README.md)|UNKNOWN|Microsoft.Compute/networkWatchers/packetCaptures|TRIAL|
-|[pingMeshes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkWatchers/pingMeshes/README.md)|UNKNOWN|Microsoft.Compute/networkWatchers/pingMeshes|TRIAL|
+|[connectionMonitors](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkWatchers/connectionMonitors)|UNKNOWN|Microsoft.Compute/networkWatchers/connectionMonitors|TRIAL|
+|[flowLogs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkWatchers/flowLogs)|UNKNOWN|Microsoft.Compute/networkWatchers/flowLogs|TRIAL|
+|[packetCaptures](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkWatchers/packetCaptures)|UNKNOWN|Microsoft.Compute/networkWatchers/packetCaptures|TRIAL|
+|[pingMeshes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/networkWatchers/pingMeshes)|UNKNOWN|Microsoft.Compute/networkWatchers/pingMeshes|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

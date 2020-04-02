@@ -2,7 +2,7 @@ availabilitySets:
   path: Microsoft.Compute/proximityPlacementGroups/availabilitySets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ availabilitySets[*]:
   path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*]/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ availabilitySets[*].colocationStatus:
   path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ availabilitySets[*].colocationStatus.code:
   path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.code
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.code/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.code
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ availabilitySets[*].colocationStatus.displayStatus:
   path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.displayStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.displayStatus/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.displayStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ availabilitySets[*].colocationStatus.level:
   path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.level
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.level/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.level
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ availabilitySets[*].colocationStatus.message:
   path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.message
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.message/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.message
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ availabilitySets[*].colocationStatus.time:
   path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.time
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.time/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].colocationStatus.time
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ availabilitySets[*].id:
   path: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].id/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/availabilitySets[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ colocationStatus:
   path: Microsoft.Compute/proximityPlacementGroups/colocationStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ colocationStatus.code:
   path: Microsoft.Compute/proximityPlacementGroups/colocationStatus.code
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.code/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.code
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ colocationStatus.displayStatus:
   path: Microsoft.Compute/proximityPlacementGroups/colocationStatus.displayStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.displayStatus/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.displayStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ colocationStatus.level:
   path: Microsoft.Compute/proximityPlacementGroups/colocationStatus.level
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.level/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.level
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ colocationStatus.message:
   path: Microsoft.Compute/proximityPlacementGroups/colocationStatus.message
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.message/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.message
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ colocationStatus.time:
   path: Microsoft.Compute/proximityPlacementGroups/colocationStatus.time
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.time/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/colocationStatus.time
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ proximityPlacementGroupType:
   path: Microsoft.Compute/proximityPlacementGroups/proximityPlacementGroupType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/proximityPlacementGroupType/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/proximityPlacementGroupType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ virtualMachineScaleSets:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ virtualMachineScaleSets[*]:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*]/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ virtualMachineScaleSets[*].colocationStatus:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ virtualMachineScaleSets[*].colocationStatus.code:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.code
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.code/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.code
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ virtualMachineScaleSets[*].colocationStatus.displayStatus:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.displayStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.displayStatus/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.displayStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ virtualMachineScaleSets[*].colocationStatus.level:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.level
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.level/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.level
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ virtualMachineScaleSets[*].colocationStatus.message:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.message
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.message/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.message
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ virtualMachineScaleSets[*].colocationStatus.time:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.time
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.time/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].colocationStatus.time
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ virtualMachineScaleSets[*].id:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].id/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachineScaleSets[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ virtualMachines:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachines
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ virtualMachines[*]:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*]/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ virtualMachines[*].colocationStatus:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ virtualMachines[*].colocationStatus.code:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.code
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.code/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.code
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ virtualMachines[*].colocationStatus.displayStatus:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.displayStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.displayStatus/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.displayStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ virtualMachines[*].colocationStatus.level:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.level
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.level/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.level
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ virtualMachines[*].colocationStatus.message:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.message
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.message/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.message
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ virtualMachines[*].colocationStatus.time:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.time
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.time/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].colocationStatus.time
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ virtualMachines[*].id:
   path: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].id/README.md
+  url: Microsoft.Compute/proximityPlacementGroups/virtualMachines[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

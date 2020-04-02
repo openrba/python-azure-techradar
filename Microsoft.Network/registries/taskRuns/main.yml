@@ -2,7 +2,7 @@ listDetails:
   path: Microsoft.Network/registries/taskRuns/listDetails
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/taskRuns/listDetails/README.md
+  url: Microsoft.Network/registries/taskRuns/listDetails
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

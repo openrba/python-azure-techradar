@@ -2,7 +2,7 @@ diagnostics:
   path: Microsoft.Compute/service/apis/diagnostics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/service/apis/diagnostics/README.md
+  url: Microsoft.Compute/service/apis/diagnostics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ issues:
   path: Microsoft.Compute/service/apis/issues
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/service/apis/issues/README.md
+  url: Microsoft.Compute/service/apis/issues
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ operations:
   path: Microsoft.Compute/service/apis/operations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/service/apis/operations/README.md
+  url: Microsoft.Compute/service/apis/operations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ policies:
   path: Microsoft.Compute/service/apis/policies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/service/apis/policies/README.md
+  url: Microsoft.Compute/service/apis/policies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ releases:
   path: Microsoft.Compute/service/apis/releases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/service/apis/releases/README.md
+  url: Microsoft.Compute/service/apis/releases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ schemas:
   path: Microsoft.Compute/service/apis/schemas
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/service/apis/schemas/README.md
+  url: Microsoft.Compute/service/apis/schemas
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ tagDescriptions:
   path: Microsoft.Compute/service/apis/tagDescriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/service/apis/tagDescriptions/README.md
+  url: Microsoft.Compute/service/apis/tagDescriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ tags:
   path: Microsoft.Compute/service/apis/tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/service/apis/tags/README.md
+  url: Microsoft.Compute/service/apis/tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ tables:
   path: Microsoft.Compute/managedInstances/databases/schemas/tables
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/databases/schemas/tables/README.md
+  url: Microsoft.Compute/managedInstances/databases/schemas/tables
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

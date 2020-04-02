@@ -2,7 +2,7 @@ resourceTypeRegistrations:
   path: Microsoft.Network/providerRegistrations/resourceTypeRegistrations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/providerRegistrations/resourceTypeRegistrations/README.md
+  url: Microsoft.Network/providerRegistrations/resourceTypeRegistrations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

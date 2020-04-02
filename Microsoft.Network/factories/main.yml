@@ -2,7 +2,7 @@ dataflows:
   path: Microsoft.Network/factories/dataflows
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/factories/dataflows/README.md
+  url: Microsoft.Network/factories/dataflows
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ datasets:
   path: Microsoft.Network/factories/datasets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/factories/datasets/README.md
+  url: Microsoft.Network/factories/datasets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ integrationRuntimes:
   path: Microsoft.Network/factories/integrationRuntimes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/factories/integrationRuntimes/README.md
+  url: Microsoft.Network/factories/integrationRuntimes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ linkedservices:
   path: Microsoft.Network/factories/linkedservices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/factories/linkedservices/README.md
+  url: Microsoft.Network/factories/linkedservices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ pipelines:
   path: Microsoft.Network/factories/pipelines
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/factories/pipelines/README.md
+  url: Microsoft.Network/factories/pipelines
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ triggers:
   path: Microsoft.Network/factories/triggers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/factories/triggers/README.md
+  url: Microsoft.Network/factories/triggers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

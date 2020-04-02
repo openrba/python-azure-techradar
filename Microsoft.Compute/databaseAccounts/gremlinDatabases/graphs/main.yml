@@ -2,7 +2,7 @@ throughputSettings:
   path: Microsoft.Compute/databaseAccounts/gremlinDatabases/graphs/throughputSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/databaseAccounts/gremlinDatabases/graphs/throughputSettings/README.md
+  url: Microsoft.Compute/databaseAccounts/gremlinDatabases/graphs/throughputSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

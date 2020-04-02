@@ -29,7 +29,7 @@ def createResourceDict(data,value,index,default,path):
                 'path': path + resourceType,
                 'description': 'UNKNOWN',
                 'status': default,
-                'url': path + resourceType + '/README.md',
+                'url': path + resourceType,
                 'architecture review' : {
                     'type': 'UNKNOWN',
                     'status': 'NOT REVIEWED',
@@ -251,6 +251,34 @@ def makeMarkdown(data,path):
     else:
         mdf.new_line("")
         mdf.new_table(columns=4,rows=hold_cnt,text=hold_tbl,text_align='center')    
+
+
+    # Handle the Reject Section
+    mdf.new_header(level=3, title='Reject')
+    mdf.new_paragraph("Technologies not recommended to be used for any projects. "
+    "Technologies that have undergone architecture and security review but do "
+    "not meet company standards for use.  REJECT technologies should never be "
+    "used on any project and should be considered deprecated for existing "
+    "projects."
+    )
+
+    reject_tbl = ["Resource","Description","Path","Status"]
+    reject_cnt = len(reject_list) + 1
+    for key in reject_list:
+        resourceName    = key
+        resourceDesc    = data[key].get("description","")
+        resourcePath    = data[key].get("path","")
+        resourceUrl     = data[key].get("url","")
+        resourceStatus    = data[key].get("status","")
+        #resourceName    = "["+resourceName+"]("+resourceUrl+")"
+        reject_tbl.extend([resourceName,resourceDesc,resourcePath,resourceStatus])
+    
+    if reject_cnt == 1:
+        mdf.new_line("")
+        mdf.new_line("There are currently no resources at this ring level.",bold_italics_code='bi', color='red')
+    else:
+        mdf.new_line("")
+        mdf.new_table(columns=4,rows=reject_cnt,text=reject_tbl,text_align='center') 
 
     mdf.create_md_file()
 

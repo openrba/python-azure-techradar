@@ -2,7 +2,7 @@ idleTimeoutInMinutes:
   path: Microsoft.Network/natGateways/idleTimeoutInMinutes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/idleTimeoutInMinutes/README.md
+  url: Microsoft.Network/natGateways/idleTimeoutInMinutes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ provisioningState:
   path: Microsoft.Network/natGateways/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/provisioningState/README.md
+  url: Microsoft.Network/natGateways/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ publicIpAddresses:
   path: Microsoft.Network/natGateways/publicIpAddresses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/publicIpAddresses/README.md
+  url: Microsoft.Network/natGateways/publicIpAddresses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ publicIpAddresses[*]:
   path: Microsoft.Network/natGateways/publicIpAddresses[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/publicIpAddresses[*]/README.md
+  url: Microsoft.Network/natGateways/publicIpAddresses[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ publicIpAddresses[*].id:
   path: Microsoft.Network/natGateways/publicIpAddresses[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/publicIpAddresses[*].id/README.md
+  url: Microsoft.Network/natGateways/publicIpAddresses[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ publicIpPrefixes:
   path: Microsoft.Network/natGateways/publicIpPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/publicIpPrefixes/README.md
+  url: Microsoft.Network/natGateways/publicIpPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ publicIpPrefixes[*]:
   path: Microsoft.Network/natGateways/publicIpPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/publicIpPrefixes[*]/README.md
+  url: Microsoft.Network/natGateways/publicIpPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ publicIpPrefixes[*].id:
   path: Microsoft.Network/natGateways/publicIpPrefixes[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/publicIpPrefixes[*].id/README.md
+  url: Microsoft.Network/natGateways/publicIpPrefixes[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ resourceGuid:
   path: Microsoft.Network/natGateways/resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/resourceGuid/README.md
+  url: Microsoft.Network/natGateways/resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ sku:
   path: Microsoft.Network/natGateways/sku
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/sku/README.md
+  url: Microsoft.Network/natGateways/sku
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ sku.name:
   path: Microsoft.Network/natGateways/sku.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/sku.name/README.md
+  url: Microsoft.Network/natGateways/sku.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ subnets:
   path: Microsoft.Network/natGateways/subnets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/subnets/README.md
+  url: Microsoft.Network/natGateways/subnets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ subnets[*]:
   path: Microsoft.Network/natGateways/subnets[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/subnets[*]/README.md
+  url: Microsoft.Network/natGateways/subnets[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ subnets[*].id:
   path: Microsoft.Network/natGateways/subnets[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/subnets[*].id/README.md
+  url: Microsoft.Network/natGateways/subnets[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ zones:
   path: Microsoft.Network/natGateways/zones
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/zones/README.md
+  url: Microsoft.Network/natGateways/zones
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ zones[*]:
   path: Microsoft.Network/natGateways/zones[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/zones[*]/README.md
+  url: Microsoft.Network/natGateways/zones[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

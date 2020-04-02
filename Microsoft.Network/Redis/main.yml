@@ -2,7 +2,7 @@ firewallrules:
   path: Microsoft.Network/Redis/firewallrules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Redis/firewallrules/README.md
+  url: Microsoft.Network/Redis/firewallrules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

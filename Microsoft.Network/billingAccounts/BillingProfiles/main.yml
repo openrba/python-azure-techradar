@@ -2,7 +2,7 @@ patchOperations:
   path: Microsoft.Network/billingAccounts/BillingProfiles/patchOperations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/BillingProfiles/patchOperations/README.md
+  url: Microsoft.Network/billingAccounts/BillingProfiles/patchOperations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

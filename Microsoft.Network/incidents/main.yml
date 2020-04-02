@@ -2,7 +2,7 @@ comments:
   path: Microsoft.Network/incidents/comments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/incidents/comments/README.md
+  url: Microsoft.Network/incidents/comments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ relations:
   path: Microsoft.Network/incidents/relations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/incidents/relations/README.md
+  url: Microsoft.Network/incidents/relations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

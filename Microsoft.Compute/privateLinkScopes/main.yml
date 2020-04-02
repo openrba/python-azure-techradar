@@ -2,7 +2,7 @@ privateEndpointConnectionProxies:
   path: Microsoft.Compute/privateLinkScopes/privateEndpointConnectionProxies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateLinkScopes/privateEndpointConnectionProxies/README.md
+  url: Microsoft.Compute/privateLinkScopes/privateEndpointConnectionProxies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ privateEndpointConnections:
   path: Microsoft.Compute/privateLinkScopes/privateEndpointConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateLinkScopes/privateEndpointConnections/README.md
+  url: Microsoft.Compute/privateLinkScopes/privateEndpointConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ scopedResources:
   path: Microsoft.Compute/privateLinkScopes/scopedResources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateLinkScopes/scopedResources/README.md
+  url: Microsoft.Compute/privateLinkScopes/scopedResources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

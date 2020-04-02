@@ -2,7 +2,7 @@ publishers:
   path: Microsoft.Compute/offerTypes/publishers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/offerTypes/publishers/README.md
+  url: Microsoft.Compute/offerTypes/publishers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

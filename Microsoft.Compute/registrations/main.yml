@@ -2,7 +2,7 @@ customerSubscriptions:
   path: Microsoft.Compute/registrations/customerSubscriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/registrations/customerSubscriptions/README.md
+  url: Microsoft.Compute/registrations/customerSubscriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ products:
   path: Microsoft.Compute/registrations/products
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/registrations/products/README.md
+  url: Microsoft.Compute/registrations/products
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ default.key:
   path: Microsoft.Network/trafficManagerUserMetricsKeys/default.key
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/trafficManagerUserMetricsKeys/default.key/README.md
+  url: Microsoft.Network/trafficManagerUserMetricsKeys/default.key
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ key:
   path: Microsoft.Network/trafficManagerUserMetricsKeys/key
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/trafficManagerUserMetricsKeys/key/README.md
+  url: Microsoft.Network/trafficManagerUserMetricsKeys/key
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

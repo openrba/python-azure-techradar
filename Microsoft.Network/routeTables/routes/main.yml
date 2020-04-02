@@ -2,7 +2,7 @@ addressPrefix:
   path: Microsoft.Network/routeTables/routes/addressPrefix
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/routeTables/routes/addressPrefix/README.md
+  url: Microsoft.Network/routeTables/routes/addressPrefix
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ nextHopIpAddress:
   path: Microsoft.Network/routeTables/routes/nextHopIpAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/routeTables/routes/nextHopIpAddress/README.md
+  url: Microsoft.Network/routeTables/routes/nextHopIpAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ nextHopType:
   path: Microsoft.Network/routeTables/routes/nextHopType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/routeTables/routes/nextHopType/README.md
+  url: Microsoft.Network/routeTables/routes/nextHopType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ provisioningState:
   path: Microsoft.Network/routeTables/routes/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/routeTables/routes/provisioningState/README.md
+  url: Microsoft.Network/routeTables/routes/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

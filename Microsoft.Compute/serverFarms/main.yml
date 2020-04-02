@@ -2,7 +2,7 @@ eventGridFilters:
   path: Microsoft.Compute/serverFarms/eventGridFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/serverFarms/eventGridFilters/README.md
+  url: Microsoft.Compute/serverFarms/eventGridFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

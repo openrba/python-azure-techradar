@@ -2,7 +2,7 @@ description:
   path: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/description
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/description/README.md
+  url: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/description
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ provisioningState:
   path: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState/README.md
+  url: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ service:
   path: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/service
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/service/README.md
+  url: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/service
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ serviceResources:
   path: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources/README.md
+  url: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ serviceResources[*]:
   path: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*]/README.md
+  url: Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

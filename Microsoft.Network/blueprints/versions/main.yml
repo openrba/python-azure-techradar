@@ -2,7 +2,7 @@ artifacts:
   path: Microsoft.Network/blueprints/versions/artifacts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/blueprints/versions/artifacts/README.md
+  url: Microsoft.Network/blueprints/versions/artifacts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

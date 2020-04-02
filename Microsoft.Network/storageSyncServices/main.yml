@@ -2,7 +2,7 @@ registeredServers:
   path: Microsoft.Network/storageSyncServices/registeredServers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/storageSyncServices/registeredServers/README.md
+  url: Microsoft.Network/storageSyncServices/registeredServers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ syncGroups:
   path: Microsoft.Network/storageSyncServices/syncGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/storageSyncServices/syncGroups/README.md
+  url: Microsoft.Network/storageSyncServices/syncGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ workflows:
   path: Microsoft.Network/storageSyncServices/workflows
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/storageSyncServices/workflows/README.md
+  url: Microsoft.Network/storageSyncServices/workflows
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

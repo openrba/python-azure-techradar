@@ -2,7 +2,7 @@ customerSubscriptions:
   path: Microsoft.Network/registrations/customerSubscriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registrations/customerSubscriptions/README.md
+  url: Microsoft.Network/registrations/customerSubscriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ products:
   path: Microsoft.Network/registrations/products
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registrations/products/README.md
+  url: Microsoft.Network/registrations/products
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

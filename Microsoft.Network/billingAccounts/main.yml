@@ -2,7 +2,7 @@ BillingProfiles:
   path: Microsoft.Network/billingAccounts/BillingProfiles
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/BillingProfiles/README.md
+  url: Microsoft.Network/billingAccounts/BillingProfiles
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ agreements:
   path: Microsoft.Network/billingAccounts/agreements
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/agreements/README.md
+  url: Microsoft.Network/billingAccounts/agreements
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ billingPermissions:
   path: Microsoft.Network/billingAccounts/billingPermissions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/billingPermissions/README.md
+  url: Microsoft.Network/billingAccounts/billingPermissions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ billingProfiles:
   path: Microsoft.Network/billingAccounts/billingProfiles
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/billingProfiles/README.md
+  url: Microsoft.Network/billingAccounts/billingProfiles
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ billingRoleAssignments:
   path: Microsoft.Network/billingAccounts/billingRoleAssignments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/billingRoleAssignments/README.md
+  url: Microsoft.Network/billingAccounts/billingRoleAssignments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ billingRoleDefinitions:
   path: Microsoft.Network/billingAccounts/billingRoleDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/billingRoleDefinitions/README.md
+  url: Microsoft.Network/billingAccounts/billingRoleDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ billingSubscriptions:
   path: Microsoft.Network/billingAccounts/billingSubscriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/billingSubscriptions/README.md
+  url: Microsoft.Network/billingAccounts/billingSubscriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ createBillingRoleAssignment:
   path: Microsoft.Network/billingAccounts/createBillingRoleAssignment
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/createBillingRoleAssignment/README.md
+  url: Microsoft.Network/billingAccounts/createBillingRoleAssignment
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ createInvoiceSectionOperations:
   path: Microsoft.Network/billingAccounts/createInvoiceSectionOperations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/createInvoiceSectionOperations/README.md
+  url: Microsoft.Network/billingAccounts/createInvoiceSectionOperations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ customers:
   path: Microsoft.Network/billingAccounts/customers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/customers/README.md
+  url: Microsoft.Network/billingAccounts/customers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ departments:
   path: Microsoft.Network/billingAccounts/departments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/departments/README.md
+  url: Microsoft.Network/billingAccounts/departments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ enrollmentAccounts:
   path: Microsoft.Network/billingAccounts/enrollmentAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/enrollmentAccounts/README.md
+  url: Microsoft.Network/billingAccounts/enrollmentAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ invoiceSections:
   path: Microsoft.Network/billingAccounts/invoiceSections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/invoiceSections/README.md
+  url: Microsoft.Network/billingAccounts/invoiceSections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ invoices:
   path: Microsoft.Network/billingAccounts/invoices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/invoices/README.md
+  url: Microsoft.Network/billingAccounts/invoices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ lineOfCredit:
   path: Microsoft.Network/billingAccounts/lineOfCredit
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/lineOfCredit/README.md
+  url: Microsoft.Network/billingAccounts/lineOfCredit
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ listInvoiceSectionsWithCreateSubscriptionPermission:
   path: Microsoft.Network/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission/README.md
+  url: Microsoft.Network/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ operationResults:
   path: Microsoft.Network/billingAccounts/operationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/operationResults/README.md
+  url: Microsoft.Network/billingAccounts/operationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ patchOperations:
   path: Microsoft.Network/billingAccounts/patchOperations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/patchOperations/README.md
+  url: Microsoft.Network/billingAccounts/patchOperations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ paymentMethods:
   path: Microsoft.Network/billingAccounts/paymentMethods
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/paymentMethods/README.md
+  url: Microsoft.Network/billingAccounts/paymentMethods
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ products:
   path: Microsoft.Network/billingAccounts/products
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/products/README.md
+  url: Microsoft.Network/billingAccounts/products
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ transactions:
   path: Microsoft.Network/billingAccounts/transactions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/transactions/README.md
+  url: Microsoft.Network/billingAccounts/transactions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

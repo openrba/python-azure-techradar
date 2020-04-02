@@ -29,16 +29,22 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[firewalls](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/firewalls/README.md)|UNKNOWN|Microsoft.Network/ipGroups/firewalls|TRIAL|
-|[firewalls[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/firewalls[*]/README.md)|UNKNOWN|Microsoft.Network/ipGroups/firewalls[*]|TRIAL|
-|[firewalls[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/firewalls[*].id/README.md)|UNKNOWN|Microsoft.Network/ipGroups/firewalls[*].id|TRIAL|
-|[ipAddresses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/ipAddresses/README.md)|UNKNOWN|Microsoft.Network/ipGroups/ipAddresses|TRIAL|
-|[ipAddresses[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/ipAddresses[*]/README.md)|UNKNOWN|Microsoft.Network/ipGroups/ipAddresses[*]|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/provisioningState/README.md)|UNKNOWN|Microsoft.Network/ipGroups/provisioningState|TRIAL|
+|[firewalls](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/firewalls)|UNKNOWN|Microsoft.Network/ipGroups/firewalls|TRIAL|
+|[firewalls[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/firewalls[*])|UNKNOWN|Microsoft.Network/ipGroups/firewalls[*]|TRIAL|
+|[firewalls[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/firewalls[*].id)|UNKNOWN|Microsoft.Network/ipGroups/firewalls[*].id|TRIAL|
+|[ipAddresses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/ipAddresses)|UNKNOWN|Microsoft.Network/ipGroups/ipAddresses|TRIAL|
+|[ipAddresses[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/ipAddresses[*])|UNKNOWN|Microsoft.Network/ipGroups/ipAddresses[*]|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ipGroups/provisioningState)|UNKNOWN|Microsoft.Network/ipGroups/provisioningState|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

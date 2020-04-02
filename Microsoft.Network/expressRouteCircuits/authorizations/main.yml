@@ -2,7 +2,7 @@ authorizationKey:
   path: Microsoft.Network/expressRouteCircuits/authorizations/authorizationKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCircuits/authorizations/authorizationKey/README.md
+  url: Microsoft.Network/expressRouteCircuits/authorizations/authorizationKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ authorizationUseStatus:
   path: Microsoft.Network/expressRouteCircuits/authorizations/authorizationUseStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCircuits/authorizations/authorizationUseStatus/README.md
+  url: Microsoft.Network/expressRouteCircuits/authorizations/authorizationUseStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ provisioningState:
   path: Microsoft.Network/expressRouteCircuits/authorizations/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCircuits/authorizations/provisioningState/README.md
+  url: Microsoft.Network/expressRouteCircuits/authorizations/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

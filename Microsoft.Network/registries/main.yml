@@ -2,7 +2,7 @@ GetCredentials:
   path: Microsoft.Network/registries/GetCredentials
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/GetCredentials/README.md
+  url: Microsoft.Network/registries/GetCredentials
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ buildTasks:
   path: Microsoft.Network/registries/buildTasks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/buildTasks/README.md
+  url: Microsoft.Network/registries/buildTasks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ builds:
   path: Microsoft.Network/registries/builds
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/builds/README.md
+  url: Microsoft.Network/registries/builds
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ eventGridFilters:
   path: Microsoft.Network/registries/eventGridFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/eventGridFilters/README.md
+  url: Microsoft.Network/registries/eventGridFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ generateCredentials:
   path: Microsoft.Network/registries/generateCredentials
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/generateCredentials/README.md
+  url: Microsoft.Network/registries/generateCredentials
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ getBuildSourceUploadUrl:
   path: Microsoft.Network/registries/getBuildSourceUploadUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/getBuildSourceUploadUrl/README.md
+  url: Microsoft.Network/registries/getBuildSourceUploadUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ importImage:
   path: Microsoft.Network/registries/importImage
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/importImage/README.md
+  url: Microsoft.Network/registries/importImage
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ listBuildSourceUploadUrl:
   path: Microsoft.Network/registries/listBuildSourceUploadUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/listBuildSourceUploadUrl/README.md
+  url: Microsoft.Network/registries/listBuildSourceUploadUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ listCredentials:
   path: Microsoft.Network/registries/listCredentials
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/listCredentials/README.md
+  url: Microsoft.Network/registries/listCredentials
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ listPolicies:
   path: Microsoft.Network/registries/listPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/listPolicies/README.md
+  url: Microsoft.Network/registries/listPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ listUsages:
   path: Microsoft.Network/registries/listUsages
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/listUsages/README.md
+  url: Microsoft.Network/registries/listUsages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ privateEndpointConnectionProxies:
   path: Microsoft.Network/registries/privateEndpointConnectionProxies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/privateEndpointConnectionProxies/README.md
+  url: Microsoft.Network/registries/privateEndpointConnectionProxies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ privateEndpointConnections:
   path: Microsoft.Network/registries/privateEndpointConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/privateEndpointConnections/README.md
+  url: Microsoft.Network/registries/privateEndpointConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ privateLinkResources:
   path: Microsoft.Network/registries/privateLinkResources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/privateLinkResources/README.md
+  url: Microsoft.Network/registries/privateLinkResources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ queueBuild:
   path: Microsoft.Network/registries/queueBuild
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/queueBuild/README.md
+  url: Microsoft.Network/registries/queueBuild
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ regenerateCredential:
   path: Microsoft.Network/registries/regenerateCredential
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/regenerateCredential/README.md
+  url: Microsoft.Network/registries/regenerateCredential
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ regenerateCredentials:
   path: Microsoft.Network/registries/regenerateCredentials
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/regenerateCredentials/README.md
+  url: Microsoft.Network/registries/regenerateCredentials
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ replications:
   path: Microsoft.Network/registries/replications
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/replications/README.md
+  url: Microsoft.Network/registries/replications
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ runs:
   path: Microsoft.Network/registries/runs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/runs/README.md
+  url: Microsoft.Network/registries/runs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ scheduleRun:
   path: Microsoft.Network/registries/scheduleRun
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/scheduleRun/README.md
+  url: Microsoft.Network/registries/scheduleRun
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ scopeMaps:
   path: Microsoft.Network/registries/scopeMaps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/scopeMaps/README.md
+  url: Microsoft.Network/registries/scopeMaps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ taskRuns:
   path: Microsoft.Network/registries/taskRuns
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/taskRuns/README.md
+  url: Microsoft.Network/registries/taskRuns
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ tasks:
   path: Microsoft.Network/registries/tasks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/tasks/README.md
+  url: Microsoft.Network/registries/tasks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ tokens:
   path: Microsoft.Network/registries/tokens
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/tokens/README.md
+  url: Microsoft.Network/registries/tokens
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ updatePolicies:
   path: Microsoft.Network/registries/updatePolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/updatePolicies/README.md
+  url: Microsoft.Network/registries/updatePolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ webhooks:
   path: Microsoft.Network/registries/webhooks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/webhooks/README.md
+  url: Microsoft.Network/registries/webhooks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

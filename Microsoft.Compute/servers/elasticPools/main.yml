@@ -2,7 +2,7 @@ advisors:
   path: Microsoft.Compute/servers/elasticPools/advisors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/elasticPools/advisors/README.md
+  url: Microsoft.Compute/servers/elasticPools/advisors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

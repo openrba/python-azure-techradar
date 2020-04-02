@@ -2,7 +2,7 @@ alertSettings:
   path: Microsoft.Network/managers/devices/alertSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/devices/alertSettings/README.md
+  url: Microsoft.Network/managers/devices/alertSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ backupPolicies:
   path: Microsoft.Network/managers/devices/backupPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/devices/backupPolicies/README.md
+  url: Microsoft.Network/managers/devices/backupPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ backupScheduleGroups:
   path: Microsoft.Network/managers/devices/backupScheduleGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/devices/backupScheduleGroups/README.md
+  url: Microsoft.Network/managers/devices/backupScheduleGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ chapSettings:
   path: Microsoft.Network/managers/devices/chapSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/devices/chapSettings/README.md
+  url: Microsoft.Network/managers/devices/chapSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ fileservers:
   path: Microsoft.Network/managers/devices/fileservers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/devices/fileservers/README.md
+  url: Microsoft.Network/managers/devices/fileservers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ iscsiservers:
   path: Microsoft.Network/managers/devices/iscsiservers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/devices/iscsiservers/README.md
+  url: Microsoft.Network/managers/devices/iscsiservers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ timeSettings:
   path: Microsoft.Network/managers/devices/timeSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/devices/timeSettings/README.md
+  url: Microsoft.Network/managers/devices/timeSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ volumeContainers:
   path: Microsoft.Network/managers/devices/volumeContainers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/devices/volumeContainers/README.md
+  url: Microsoft.Network/managers/devices/volumeContainers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

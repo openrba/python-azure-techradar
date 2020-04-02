@@ -2,7 +2,7 @@ accessPolicies:
   path: Microsoft.Network/environments/accessPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/environments/accessPolicies/README.md
+  url: Microsoft.Network/environments/accessPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ eventsources:
   path: Microsoft.Network/environments/eventsources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/environments/eventsources/README.md
+  url: Microsoft.Network/environments/eventsources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ referenceDataSets:
   path: Microsoft.Network/environments/referenceDataSets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/environments/referenceDataSets/README.md
+  url: Microsoft.Network/environments/referenceDataSets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

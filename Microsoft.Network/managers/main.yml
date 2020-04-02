@@ -2,7 +2,7 @@ accessControlRecords:
   path: Microsoft.Network/managers/accessControlRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/accessControlRecords/README.md
+  url: Microsoft.Network/managers/accessControlRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ bandwidthSettings:
   path: Microsoft.Network/managers/bandwidthSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/bandwidthSettings/README.md
+  url: Microsoft.Network/managers/bandwidthSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ devices:
   path: Microsoft.Network/managers/devices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/devices/README.md
+  url: Microsoft.Network/managers/devices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ extendedInformation:
   path: Microsoft.Network/managers/extendedInformation
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/extendedInformation/README.md
+  url: Microsoft.Network/managers/extendedInformation
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ storageAccountCredentials:
   path: Microsoft.Network/managers/storageAccountCredentials
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/storageAccountCredentials/README.md
+  url: Microsoft.Network/managers/storageAccountCredentials
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ storageDomains:
   path: Microsoft.Network/managers/storageDomains
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/storageDomains/README.md
+  url: Microsoft.Network/managers/storageDomains
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

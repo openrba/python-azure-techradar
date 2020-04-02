@@ -2,7 +2,7 @@ diagnosticSettings:
   path: Microsoft.Compute/storageAccounts/services/diagnosticSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/storageAccounts/services/diagnosticSettings/README.md
+  url: Microsoft.Compute/storageAccounts/services/diagnosticSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ metricDefinitions:
   path: Microsoft.Compute/storageAccounts/services/metricDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/storageAccounts/services/metricDefinitions/README.md
+  url: Microsoft.Compute/storageAccounts/services/metricDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ metrics:
   path: Microsoft.Compute/storageAccounts/services/metrics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/storageAccounts/services/metrics/README.md
+  url: Microsoft.Compute/storageAccounts/services/metrics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ inboundNatRules:
   path: Microsoft.Compute/loadBalancers/inboundNatRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/loadBalancers/inboundNatRules/README.md
+  url: Microsoft.Compute/loadBalancers/inboundNatRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

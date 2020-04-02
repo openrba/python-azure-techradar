@@ -2,7 +2,7 @@ domainOwnershipIdentifiers:
   path: Microsoft.Network/domains/domainOwnershipIdentifiers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/domains/domainOwnershipIdentifiers/README.md
+  url: Microsoft.Network/domains/domainOwnershipIdentifiers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ topics:
   path: Microsoft.Network/domains/topics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/domains/topics/README.md
+  url: Microsoft.Network/domains/topics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

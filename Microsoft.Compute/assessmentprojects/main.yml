@@ -2,7 +2,7 @@ groups:
   path: Microsoft.Compute/assessmentprojects/groups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/assessmentprojects/groups/README.md
+  url: Microsoft.Compute/assessmentprojects/groups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ hypervcollectors:
   path: Microsoft.Compute/assessmentprojects/hypervcollectors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/assessmentprojects/hypervcollectors/README.md
+  url: Microsoft.Compute/assessmentprojects/hypervcollectors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ vmwarecollectors:
   path: Microsoft.Compute/assessmentprojects/vmwarecollectors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/assessmentprojects/vmwarecollectors/README.md
+  url: Microsoft.Compute/assessmentprojects/vmwarecollectors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

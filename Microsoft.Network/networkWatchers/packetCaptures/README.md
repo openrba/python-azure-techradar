@@ -29,25 +29,31 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[bytesToCapturePerPacket](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/bytesToCapturePerPacket/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/bytesToCapturePerPacket|TRIAL|
-|[filters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters|TRIAL|
-|[filters[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*]/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*]|TRIAL|
-|[filters[*].localIPAddress](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].localIPAddress/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].localIPAddress|TRIAL|
-|[filters[*].localPort](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].localPort/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].localPort|TRIAL|
-|[filters[*].protocol](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].protocol/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].protocol|TRIAL|
-|[filters[*].remoteIPAddress](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].remoteIPAddress/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].remoteIPAddress|TRIAL|
-|[filters[*].remotePort](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort|TRIAL|
-|[storageLocation](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/storageLocation|TRIAL|
-|[storageLocation.filePath](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation.filePath/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/storageLocation.filePath|TRIAL|
-|[storageLocation.storageId](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storageId/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storageId|TRIAL|
-|[storageLocation.storagePath](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storagePath/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storagePath|TRIAL|
-|[target](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/target/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/target|TRIAL|
-|[timeLimitInSeconds](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/timeLimitInSeconds/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/timeLimitInSeconds|TRIAL|
-|[totalBytesPerSession](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/totalBytesPerSession/README.md)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/totalBytesPerSession|TRIAL|
+|[bytesToCapturePerPacket](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/bytesToCapturePerPacket)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/bytesToCapturePerPacket|TRIAL|
+|[filters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters|TRIAL|
+|[filters[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*])|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*]|TRIAL|
+|[filters[*].localIPAddress](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].localIPAddress)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].localIPAddress|TRIAL|
+|[filters[*].localPort](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].localPort)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].localPort|TRIAL|
+|[filters[*].protocol](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].protocol)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].protocol|TRIAL|
+|[filters[*].remoteIPAddress](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].remoteIPAddress)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].remoteIPAddress|TRIAL|
+|[filters[*].remotePort](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort|TRIAL|
+|[storageLocation](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/storageLocation|TRIAL|
+|[storageLocation.filePath](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation.filePath)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/storageLocation.filePath|TRIAL|
+|[storageLocation.storageId](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storageId)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storageId|TRIAL|
+|[storageLocation.storagePath](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storagePath)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storagePath|TRIAL|
+|[target](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/target)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/target|TRIAL|
+|[timeLimitInSeconds](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/timeLimitInSeconds)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/timeLimitInSeconds|TRIAL|
+|[totalBytesPerSession](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/networkWatchers/packetCaptures/totalBytesPerSession)|UNKNOWN|Microsoft.Network/networkWatchers/packetCaptures/totalBytesPerSession|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

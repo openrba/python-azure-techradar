@@ -2,7 +2,7 @@ workloadClassifiers:
   path: Microsoft.Compute/servers/databases/workloadGroups/workloadClassifiers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/servers/databases/workloadGroups/workloadClassifiers/README.md
+  url: Microsoft.Compute/servers/databases/workloadGroups/workloadClassifiers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

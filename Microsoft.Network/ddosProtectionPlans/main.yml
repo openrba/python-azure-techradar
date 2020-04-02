@@ -2,7 +2,7 @@ provisioningState:
   path: Microsoft.Network/ddosProtectionPlans/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ddosProtectionPlans/provisioningState/README.md
+  url: Microsoft.Network/ddosProtectionPlans/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ resourceGuid:
   path: Microsoft.Network/ddosProtectionPlans/resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ddosProtectionPlans/resourceGuid/README.md
+  url: Microsoft.Network/ddosProtectionPlans/resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ virtualNetworks:
   path: Microsoft.Network/ddosProtectionPlans/virtualNetworks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ddosProtectionPlans/virtualNetworks/README.md
+  url: Microsoft.Network/ddosProtectionPlans/virtualNetworks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ virtualNetworks[*]:
   path: Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]/README.md
+  url: Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ virtualNetworks[*].id:
   path: Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id/README.md
+  url: Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

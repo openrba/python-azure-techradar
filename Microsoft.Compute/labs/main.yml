@@ -2,7 +2,7 @@ artifactSources:
   path: Microsoft.Compute/labs/artifactSources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/artifactSources/README.md
+  url: Microsoft.Compute/labs/artifactSources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ costs:
   path: Microsoft.Compute/labs/costs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/costs/README.md
+  url: Microsoft.Compute/labs/costs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ customImages:
   path: Microsoft.Compute/labs/customImages
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/customImages/README.md
+  url: Microsoft.Compute/labs/customImages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ environments:
   path: Microsoft.Compute/labs/environments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/environments/README.md
+  url: Microsoft.Compute/labs/environments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ formulas:
   path: Microsoft.Compute/labs/formulas
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/formulas/README.md
+  url: Microsoft.Compute/labs/formulas
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ notificationChannels:
   path: Microsoft.Compute/labs/notificationChannels
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/notificationChannels/README.md
+  url: Microsoft.Compute/labs/notificationChannels
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ policySets:
   path: Microsoft.Compute/labs/policySets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/policySets/README.md
+  url: Microsoft.Compute/labs/policySets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ schedules:
   path: Microsoft.Compute/labs/schedules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/schedules/README.md
+  url: Microsoft.Compute/labs/schedules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ serviceRunners:
   path: Microsoft.Compute/labs/serviceRunners
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/serviceRunners/README.md
+  url: Microsoft.Compute/labs/serviceRunners
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ users:
   path: Microsoft.Compute/labs/users
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/users/README.md
+  url: Microsoft.Compute/labs/users
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ virtualMachines:
   path: Microsoft.Compute/labs/virtualMachines
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/virtualMachines/README.md
+  url: Microsoft.Compute/labs/virtualMachines
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ virtualNetworks:
   path: Microsoft.Compute/labs/virtualNetworks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/virtualNetworks/README.md
+  url: Microsoft.Compute/labs/virtualNetworks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ allowForwardedTraffic:
   path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowForwardedTraffic
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowForwardedTraffic/README.md
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowForwardedTraffic
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ allowGatewayTransit:
   path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowGatewayTransit
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowGatewayTransit/README.md
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowGatewayTransit
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ allowVirtualNetworkAccess:
   path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowVirtualNetworkAccess
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowVirtualNetworkAccess/README.md
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowVirtualNetworkAccess
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ peeringState:
   path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peeringState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peeringState/README.md
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peeringState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ provisioningState:
   path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/provisioningState/README.md
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ remoteAddressSpace:
   path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace/README.md
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ remoteAddressSpace.addressPrefixes:
   path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes/README.md
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ remoteAddressSpace.addressPrefixes[*]:
   path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*]/README.md
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ remoteVirtualNetwork:
   path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork/README.md
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ remoteVirtualNetwork.id:
   path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork.id/README.md
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ useRemoteGateways:
   path: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/useRemoteGateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/useRemoteGateways/README.md
+  url: Microsoft.Network/virtualNetworks/virtualNetworkPeerings/useRemoteGateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

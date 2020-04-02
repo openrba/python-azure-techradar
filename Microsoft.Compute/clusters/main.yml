@@ -2,7 +2,7 @@ applicationTypes:
   path: Microsoft.Compute/clusters/applicationTypes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/clusters/applicationTypes/README.md
+  url: Microsoft.Compute/clusters/applicationTypes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ applications:
   path: Microsoft.Compute/clusters/applications
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/clusters/applications/README.md
+  url: Microsoft.Compute/clusters/applications
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ attacheddatabaseconfigurations:
   path: Microsoft.Compute/clusters/attacheddatabaseconfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/clusters/attacheddatabaseconfigurations/README.md
+  url: Microsoft.Compute/clusters/attacheddatabaseconfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ databases:
   path: Microsoft.Compute/clusters/databases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/clusters/databases/README.md
+  url: Microsoft.Compute/clusters/databases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ operationresults:
   path: Microsoft.Compute/clusters/operationresults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/clusters/operationresults/README.md
+  url: Microsoft.Compute/clusters/operationresults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ principalassignments:
   path: Microsoft.Compute/clusters/principalassignments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/clusters/principalassignments/README.md
+  url: Microsoft.Compute/clusters/principalassignments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

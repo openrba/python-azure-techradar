@@ -29,45 +29,51 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[aRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/aRecords/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/aRecords|TRIAL|
-|[aRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/aRecords[*]/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/aRecords[*]|TRIAL|
-|[aRecords[*].ipv4Address](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/aRecords[*].ipv4Address/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/aRecords[*].ipv4Address|TRIAL|
-|[aaaaRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/aaaaRecords/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/aaaaRecords|TRIAL|
-|[aaaaRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/aaaaRecords[*]/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/aaaaRecords[*]|TRIAL|
-|[aaaaRecords[*].ipv6Address](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/aaaaRecords[*].ipv6Address/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/aaaaRecords[*].ipv6Address|TRIAL|
-|[cnameRecord](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/cnameRecord/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/cnameRecord|TRIAL|
-|[cnameRecord.cname](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/cnameRecord.cname/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/cnameRecord.cname|TRIAL|
-|[fqdn](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/fqdn/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/fqdn|TRIAL|
-|[isAutoRegistered](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/isAutoRegistered/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/isAutoRegistered|TRIAL|
-|[metadata](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/metadata/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/metadata|TRIAL|
-|[mxRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/mxRecords/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/mxRecords|TRIAL|
-|[mxRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/mxRecords[*]/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/mxRecords[*]|TRIAL|
-|[mxRecords[*].exchange](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/mxRecords[*].exchange/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/mxRecords[*].exchange|TRIAL|
-|[mxRecords[*].preference](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/mxRecords[*].preference/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/mxRecords[*].preference|TRIAL|
-|[ptrRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/ptrRecords/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/ptrRecords|TRIAL|
-|[ptrRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/ptrRecords[*]/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/ptrRecords[*]|TRIAL|
-|[ptrRecords[*].ptrdname](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/ptrRecords[*].ptrdname/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/ptrRecords[*].ptrdname|TRIAL|
-|[soaRecord](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord|TRIAL|
-|[soaRecord.email](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.email/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.email|TRIAL|
-|[soaRecord.expireTime](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.expireTime/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.expireTime|TRIAL|
-|[soaRecord.host](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.host/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.host|TRIAL|
-|[soaRecord.minimumTtl](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.minimumTtl/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.minimumTtl|TRIAL|
-|[soaRecord.refreshTime](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.refreshTime/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.refreshTime|TRIAL|
-|[soaRecord.retryTime](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.retryTime/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.retryTime|TRIAL|
-|[soaRecord.serialNumber](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.serialNumber/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.serialNumber|TRIAL|
-|[srvRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/srvRecords/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/srvRecords|TRIAL|
-|[srvRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/srvRecords[*]/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/srvRecords[*]|TRIAL|
-|[srvRecords[*].port](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/srvRecords[*].port/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/srvRecords[*].port|TRIAL|
-|[srvRecords[*].priority](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/srvRecords[*].priority/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/srvRecords[*].priority|TRIAL|
-|[srvRecords[*].target](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/srvRecords[*].target/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/srvRecords[*].target|TRIAL|
-|[srvRecords[*].weight](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/srvRecords[*].weight/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/srvRecords[*].weight|TRIAL|
-|[ttl](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/ttl/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/ttl|TRIAL|
-|[txtRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/txtRecords/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/txtRecords|TRIAL|
-|[txtRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/txtRecords[*]/README.md)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/txtRecords[*]|TRIAL|
+|[aRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/aRecords)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/aRecords|TRIAL|
+|[aRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/aRecords[*])|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/aRecords[*]|TRIAL|
+|[aRecords[*].ipv4Address](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/aRecords[*].ipv4Address)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/aRecords[*].ipv4Address|TRIAL|
+|[aaaaRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/aaaaRecords)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/aaaaRecords|TRIAL|
+|[aaaaRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/aaaaRecords[*])|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/aaaaRecords[*]|TRIAL|
+|[aaaaRecords[*].ipv6Address](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/aaaaRecords[*].ipv6Address)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/aaaaRecords[*].ipv6Address|TRIAL|
+|[cnameRecord](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/cnameRecord)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/cnameRecord|TRIAL|
+|[cnameRecord.cname](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/cnameRecord.cname)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/cnameRecord.cname|TRIAL|
+|[fqdn](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/fqdn)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/fqdn|TRIAL|
+|[isAutoRegistered](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/isAutoRegistered)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/isAutoRegistered|TRIAL|
+|[metadata](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/metadata)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/metadata|TRIAL|
+|[mxRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/mxRecords)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/mxRecords|TRIAL|
+|[mxRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/mxRecords[*])|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/mxRecords[*]|TRIAL|
+|[mxRecords[*].exchange](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/mxRecords[*].exchange)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/mxRecords[*].exchange|TRIAL|
+|[mxRecords[*].preference](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/mxRecords[*].preference)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/mxRecords[*].preference|TRIAL|
+|[ptrRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/ptrRecords)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/ptrRecords|TRIAL|
+|[ptrRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/ptrRecords[*])|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/ptrRecords[*]|TRIAL|
+|[ptrRecords[*].ptrdname](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/ptrRecords[*].ptrdname)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/ptrRecords[*].ptrdname|TRIAL|
+|[soaRecord](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord|TRIAL|
+|[soaRecord.email](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.email)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.email|TRIAL|
+|[soaRecord.expireTime](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.expireTime)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.expireTime|TRIAL|
+|[soaRecord.host](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.host)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.host|TRIAL|
+|[soaRecord.minimumTtl](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.minimumTtl)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.minimumTtl|TRIAL|
+|[soaRecord.refreshTime](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.refreshTime)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.refreshTime|TRIAL|
+|[soaRecord.retryTime](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.retryTime)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.retryTime|TRIAL|
+|[soaRecord.serialNumber](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/soaRecord.serialNumber)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/soaRecord.serialNumber|TRIAL|
+|[srvRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/srvRecords)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/srvRecords|TRIAL|
+|[srvRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/srvRecords[*])|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/srvRecords[*]|TRIAL|
+|[srvRecords[*].port](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/srvRecords[*].port)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/srvRecords[*].port|TRIAL|
+|[srvRecords[*].priority](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/srvRecords[*].priority)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/srvRecords[*].priority|TRIAL|
+|[srvRecords[*].target](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/srvRecords[*].target)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/srvRecords[*].target|TRIAL|
+|[srvRecords[*].weight](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/srvRecords[*].weight)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/srvRecords[*].weight|TRIAL|
+|[ttl](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/ttl)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/ttl|TRIAL|
+|[txtRecords](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/txtRecords)|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/txtRecords|TRIAL|
+|[txtRecords[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/privateDnsZones/TXT/txtRecords[*])|UNKNOWN|Microsoft.Network/privateDnsZones/TXT/txtRecords[*]|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

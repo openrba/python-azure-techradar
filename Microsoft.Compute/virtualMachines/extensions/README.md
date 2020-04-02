@@ -29,34 +29,40 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[autoUpgradeMinorVersion](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/autoUpgradeMinorVersion/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/autoUpgradeMinorVersion|TRIAL|
-|[enableAutomaticUpgrade](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/enableAutomaticUpgrade/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/enableAutomaticUpgrade|TRIAL|
-|[forceUpdateTag](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/forceUpdateTag/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/forceUpdateTag|TRIAL|
-|[protectedSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/protectedSettings/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/protectedSettings|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/provisioningState/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/provisioningState|TRIAL|
-|[publisher](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/publisher/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/publisher|TRIAL|
-|[resources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources|TRIAL|
-|[resources[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*]/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*]|TRIAL|
-|[resources[*].autoUpgradeMinorVersion](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].autoUpgradeMinorVersion/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].autoUpgradeMinorVersion|TRIAL|
-|[resources[*].forceUpdateTag](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].forceUpdateTag/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].forceUpdateTag|TRIAL|
-|[resources[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].id/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].id|TRIAL|
-|[resources[*].location](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].location/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].location|TRIAL|
-|[resources[*].name](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].name/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].name|TRIAL|
-|[resources[*].protectedSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].protectedSettings/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].protectedSettings|TRIAL|
-|[resources[*].provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].provisioningState/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].provisioningState|TRIAL|
-|[resources[*].publisher](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].publisher/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].publisher|TRIAL|
-|[resources[*].settings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].settings/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].settings|TRIAL|
-|[resources[*].tags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].tags/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].tags|TRIAL|
-|[resources[*].type](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].type/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].type|TRIAL|
-|[resources[*].typeHandlerVersion](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].typeHandlerVersion/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].typeHandlerVersion|TRIAL|
-|[settings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/settings/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/settings|TRIAL|
-|[settings.workspaceId](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/settings.workspaceId/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/settings.workspaceId|TRIAL|
-|[type](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/type/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/type|TRIAL|
-|[typeHandlerVersion](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/typeHandlerVersion/README.md)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/typeHandlerVersion|TRIAL|
+|[autoUpgradeMinorVersion](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/autoUpgradeMinorVersion)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/autoUpgradeMinorVersion|TRIAL|
+|[enableAutomaticUpgrade](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/enableAutomaticUpgrade)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/enableAutomaticUpgrade|TRIAL|
+|[forceUpdateTag](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/forceUpdateTag)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/forceUpdateTag|TRIAL|
+|[protectedSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/protectedSettings)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/protectedSettings|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/provisioningState)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/provisioningState|TRIAL|
+|[publisher](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/publisher)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/publisher|TRIAL|
+|[resources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources|TRIAL|
+|[resources[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*])|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*]|TRIAL|
+|[resources[*].autoUpgradeMinorVersion](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].autoUpgradeMinorVersion)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].autoUpgradeMinorVersion|TRIAL|
+|[resources[*].forceUpdateTag](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].forceUpdateTag)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].forceUpdateTag|TRIAL|
+|[resources[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].id)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].id|TRIAL|
+|[resources[*].location](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].location)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].location|TRIAL|
+|[resources[*].name](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].name)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].name|TRIAL|
+|[resources[*].protectedSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].protectedSettings)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].protectedSettings|TRIAL|
+|[resources[*].provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].provisioningState)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].provisioningState|TRIAL|
+|[resources[*].publisher](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].publisher)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].publisher|TRIAL|
+|[resources[*].settings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].settings)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].settings|TRIAL|
+|[resources[*].tags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].tags)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].tags|TRIAL|
+|[resources[*].type](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].type)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].type|TRIAL|
+|[resources[*].typeHandlerVersion](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/resources[*].typeHandlerVersion)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/resources[*].typeHandlerVersion|TRIAL|
+|[settings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/settings)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/settings|TRIAL|
+|[settings.workspaceId](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/settings.workspaceId)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/settings.workspaceId|TRIAL|
+|[type](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/type)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/type|TRIAL|
+|[typeHandlerVersion](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/virtualMachines/extensions/typeHandlerVersion)|UNKNOWN|Microsoft.Compute/virtualMachines/extensions/typeHandlerVersion|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

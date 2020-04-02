@@ -2,7 +2,7 @@ liveOutputs:
   path: Microsoft.Network/mediaservices/liveEvents/liveOutputs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/mediaservices/liveEvents/liveOutputs/README.md
+  url: Microsoft.Network/mediaservices/liveEvents/liveOutputs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ AggregatedCost:
   path: Microsoft.Network/AggregatedCost
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/AggregatedCost/README.md
+  url: Microsoft.Network/AggregatedCost
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ Alerts:
   path: Microsoft.Network/Alerts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Alerts/README.md
+  url: Microsoft.Network/Alerts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ AutoProvisioningSettings:
   path: Microsoft.Network/AutoProvisioningSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/AutoProvisioningSettings/README.md
+  url: Microsoft.Network/AutoProvisioningSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ Balances:
   path: Microsoft.Network/Balances
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Balances/README.md
+  url: Microsoft.Network/Balances
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ BillingAccounts:
   path: Microsoft.Network/BillingAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/BillingAccounts/README.md
+  url: Microsoft.Network/BillingAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ Budgets:
   path: Microsoft.Network/Budgets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Budgets/README.md
+  url: Microsoft.Network/Budgets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ CdnWebApplicationFirewallManagedRuleSets:
   path: Microsoft.Network/CdnWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/CdnWebApplicationFirewallManagedRuleSets/README.md
+  url: Microsoft.Network/CdnWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ CdnWebApplicationFirewallPolicies:
   path: Microsoft.Network/CdnWebApplicationFirewallPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/CdnWebApplicationFirewallPolicies/README.md
+  url: Microsoft.Network/CdnWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ Charges:
   path: Microsoft.Network/Charges
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Charges/README.md
+  url: Microsoft.Network/Charges
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ CloudConnectors:
   path: Microsoft.Network/CloudConnectors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/CloudConnectors/README.md
+  url: Microsoft.Network/CloudConnectors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ Compliances:
   path: Microsoft.Network/Compliances
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Compliances/README.md
+  url: Microsoft.Network/Compliances
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ Components:
   path: Microsoft.Network/Components
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Components/README.md
+  url: Microsoft.Network/Components
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ Connectors:
   path: Microsoft.Network/Connectors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Connectors/README.md
+  url: Microsoft.Network/Connectors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ CostTags:
   path: Microsoft.Network/CostTags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/CostTags/README.md
+  url: Microsoft.Network/CostTags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ CreateSubscription:
   path: Microsoft.Network/CreateSubscription
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/CreateSubscription/README.md
+  url: Microsoft.Network/CreateSubscription
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ DataBoxEdgeDevices:
   path: Microsoft.Network/DataBoxEdgeDevices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/DataBoxEdgeDevices/README.md
+  url: Microsoft.Network/DataBoxEdgeDevices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ Departments:
   path: Microsoft.Network/Departments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Departments/README.md
+  url: Microsoft.Network/Departments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ DeviceServices:
   path: Microsoft.Network/DeviceServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/DeviceServices/README.md
+  url: Microsoft.Network/DeviceServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ Dimensions:
   path: Microsoft.Network/Dimensions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Dimensions/README.md
+  url: Microsoft.Network/Dimensions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ DomainServices:
   path: Microsoft.Network/DomainServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/DomainServices/README.md
+  url: Microsoft.Network/DomainServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ EnrollmentAccounts:
   path: Microsoft.Network/EnrollmentAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/EnrollmentAccounts/README.md
+  url: Microsoft.Network/EnrollmentAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ Exports:
   path: Microsoft.Network/Exports
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Exports/README.md
+  url: Microsoft.Network/Exports
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ ExternalBillingAccounts:
   path: Microsoft.Network/ExternalBillingAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ExternalBillingAccounts/README.md
+  url: Microsoft.Network/ExternalBillingAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ ExternalSubscriptions:
   path: Microsoft.Network/ExternalSubscriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ExternalSubscriptions/README.md
+  url: Microsoft.Network/ExternalSubscriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ Forecast:
   path: Microsoft.Network/Forecast
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Forecast/README.md
+  url: Microsoft.Network/Forecast
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ Forecasts:
   path: Microsoft.Network/Forecasts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Forecasts/README.md
+  url: Microsoft.Network/Forecasts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ Graph:
   path: Microsoft.Network/Graph
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Graph/README.md
+  url: Microsoft.Network/Graph
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ HyperVSites:
   path: Microsoft.Network/HyperVSites
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/HyperVSites/README.md
+  url: Microsoft.Network/HyperVSites
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ Identities:
   path: Microsoft.Network/Identities
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Identities/README.md
+  url: Microsoft.Network/Identities
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ ImportSites:
   path: Microsoft.Network/ImportSites
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ImportSites/README.md
+  url: Microsoft.Network/ImportSites
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ InformationProtectionPolicies:
   path: Microsoft.Network/InformationProtectionPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/InformationProtectionPolicies/README.md
+  url: Microsoft.Network/InformationProtectionPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ IoTApps:
   path: Microsoft.Network/IoTApps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/IoTApps/README.md
+  url: Microsoft.Network/IoTApps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ IotHubs:
   path: Microsoft.Network/IotHubs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/IotHubs/README.md
+  url: Microsoft.Network/IotHubs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ Locations:
   path: Microsoft.Network/Locations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Locations/README.md
+  url: Microsoft.Network/Locations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ Marketplaces:
   path: Microsoft.Network/Marketplaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Marketplaces/README.md
+  url: Microsoft.Network/Marketplaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ Namespaces:
   path: Microsoft.Network/Namespaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Namespaces/README.md
+  url: Microsoft.Network/Namespaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ OperationResults:
   path: Microsoft.Network/OperationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/OperationResults/README.md
+  url: Microsoft.Network/OperationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ OperationStatus:
   path: Microsoft.Network/OperationStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/OperationStatus/README.md
+  url: Microsoft.Network/OperationStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ Operations:
   path: Microsoft.Network/Operations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Operations/README.md
+  url: Microsoft.Network/Operations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ Pricesheets:
   path: Microsoft.Network/Pricesheets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Pricesheets/README.md
+  url: Microsoft.Network/Pricesheets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ ProvisioningServices:
   path: Microsoft.Network/ProvisioningServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ProvisioningServices/README.md
+  url: Microsoft.Network/ProvisioningServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ Query:
   path: Microsoft.Network/Query
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Query/README.md
+  url: Microsoft.Network/Query
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ RateCard:
   path: Microsoft.Network/RateCard
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/RateCard/README.md
+  url: Microsoft.Network/RateCard
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ Redis:
   path: Microsoft.Network/Redis
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Redis/README.md
+  url: Microsoft.Network/Redis
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ Reportconfigs:
   path: Microsoft.Network/Reportconfigs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Reportconfigs/README.md
+  url: Microsoft.Network/Reportconfigs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -767,7 +767,7 @@ Reports:
   path: Microsoft.Network/Reports
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Reports/README.md
+  url: Microsoft.Network/Reports
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -784,7 +784,7 @@ ReservationDetails:
   path: Microsoft.Network/ReservationDetails
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ReservationDetails/README.md
+  url: Microsoft.Network/ReservationDetails
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -801,7 +801,7 @@ ReservationRecommendations:
   path: Microsoft.Network/ReservationRecommendations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ReservationRecommendations/README.md
+  url: Microsoft.Network/ReservationRecommendations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -818,7 +818,7 @@ ReservationSummaries:
   path: Microsoft.Network/ReservationSummaries
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ReservationSummaries/README.md
+  url: Microsoft.Network/ReservationSummaries
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -835,7 +835,7 @@ ReservationTransactions:
   path: Microsoft.Network/ReservationTransactions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ReservationTransactions/README.md
+  url: Microsoft.Network/ReservationTransactions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -852,7 +852,7 @@ ServerSites:
   path: Microsoft.Network/ServerSites
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ServerSites/README.md
+  url: Microsoft.Network/ServerSites
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -869,7 +869,7 @@ Settings:
   path: Microsoft.Network/Settings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Settings/README.md
+  url: Microsoft.Network/Settings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -886,7 +886,7 @@ SignalR:
   path: Microsoft.Network/SignalR
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/SignalR/README.md
+  url: Microsoft.Network/SignalR
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -903,7 +903,7 @@ Spring:
   path: Microsoft.Network/Spring
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Spring/README.md
+  url: Microsoft.Network/Spring
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -920,7 +920,7 @@ SqlVirtualMachineGroups:
   path: Microsoft.Network/SqlVirtualMachineGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/SqlVirtualMachineGroups/README.md
+  url: Microsoft.Network/SqlVirtualMachineGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -937,7 +937,7 @@ SqlVirtualMachines:
   path: Microsoft.Network/SqlVirtualMachines
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/SqlVirtualMachines/README.md
+  url: Microsoft.Network/SqlVirtualMachines
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -954,7 +954,7 @@ SubscriptionDefinitions:
   path: Microsoft.Network/SubscriptionDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/SubscriptionDefinitions/README.md
+  url: Microsoft.Network/SubscriptionDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -971,7 +971,7 @@ SubscriptionOperations:
   path: Microsoft.Network/SubscriptionOperations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/SubscriptionOperations/README.md
+  url: Microsoft.Network/SubscriptionOperations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -988,7 +988,7 @@ Tags:
   path: Microsoft.Network/Tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Tags/README.md
+  url: Microsoft.Network/Tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1005,7 +1005,7 @@ Terms:
   path: Microsoft.Network/Terms
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Terms/README.md
+  url: Microsoft.Network/Terms
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1022,7 +1022,7 @@ UsageAggregates:
   path: Microsoft.Network/UsageAggregates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/UsageAggregates/README.md
+  url: Microsoft.Network/UsageAggregates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1039,7 +1039,7 @@ UsageDetails:
   path: Microsoft.Network/UsageDetails
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/UsageDetails/README.md
+  url: Microsoft.Network/UsageDetails
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1056,7 +1056,7 @@ VMwareSites:
   path: Microsoft.Network/VMwareSites
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/VMwareSites/README.md
+  url: Microsoft.Network/VMwareSites
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1073,7 +1073,7 @@ Vaults:
   path: Microsoft.Network/Vaults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Vaults/README.md
+  url: Microsoft.Network/Vaults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1090,7 +1090,7 @@ Views:
   path: Microsoft.Network/Views
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Views/README.md
+  url: Microsoft.Network/Views
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1107,7 +1107,7 @@ Workspaces:
   path: Microsoft.Network/Workspaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Workspaces/README.md
+  url: Microsoft.Network/Workspaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1124,7 +1124,7 @@ aadsupportcases:
   path: Microsoft.Network/aadsupportcases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/aadsupportcases/README.md
+  url: Microsoft.Network/aadsupportcases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1141,7 +1141,7 @@ account:
   path: Microsoft.Network/account
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/account/README.md
+  url: Microsoft.Network/account
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1158,7 +1158,7 @@ accounts:
   path: Microsoft.Network/accounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/README.md
+  url: Microsoft.Network/accounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1175,7 +1175,7 @@ actionRules:
   path: Microsoft.Network/actionRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/actionRules/README.md
+  url: Microsoft.Network/actionRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1192,7 +1192,7 @@ actiongroups:
   path: Microsoft.Network/actiongroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/actiongroups/README.md
+  url: Microsoft.Network/actiongroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1209,7 +1209,7 @@ activityLogAlerts:
   path: Microsoft.Network/activityLogAlerts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/activityLogAlerts/README.md
+  url: Microsoft.Network/activityLogAlerts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1226,7 +1226,7 @@ adaptiveNetworkHardenings:
   path: Microsoft.Network/adaptiveNetworkHardenings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/adaptiveNetworkHardenings/README.md
+  url: Microsoft.Network/adaptiveNetworkHardenings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1243,7 +1243,7 @@ addsservices:
   path: Microsoft.Network/addsservices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/addsservices/README.md
+  url: Microsoft.Network/addsservices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1260,7 +1260,7 @@ advancedThreatProtectionSettings:
   path: Microsoft.Network/advancedThreatProtectionSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/advancedThreatProtectionSettings/README.md
+  url: Microsoft.Network/advancedThreatProtectionSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1277,7 +1277,7 @@ agents:
   path: Microsoft.Network/agents
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/agents/README.md
+  url: Microsoft.Network/agents
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1294,7 +1294,7 @@ aggregations:
   path: Microsoft.Network/aggregations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/aggregations/README.md
+  url: Microsoft.Network/aggregations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1311,7 +1311,7 @@ agreements:
   path: Microsoft.Network/agreements
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/agreements/README.md
+  url: Microsoft.Network/agreements
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1328,7 +1328,7 @@ alertRuleTemplates:
   path: Microsoft.Network/alertRuleTemplates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/alertRuleTemplates/README.md
+  url: Microsoft.Network/alertRuleTemplates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1345,7 +1345,7 @@ alertRules:
   path: Microsoft.Network/alertRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/alertRules/README.md
+  url: Microsoft.Network/alertRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1362,7 +1362,7 @@ alertrules:
   path: Microsoft.Network/alertrules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/alertrules/README.md
+  url: Microsoft.Network/alertrules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1379,7 +1379,7 @@ alerts:
   path: Microsoft.Network/alerts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/alerts/README.md
+  url: Microsoft.Network/alerts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1396,7 +1396,7 @@ alertsList:
   path: Microsoft.Network/alertsList
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/alertsList/README.md
+  url: Microsoft.Network/alertsList
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1413,7 +1413,7 @@ alertsMetaData:
   path: Microsoft.Network/alertsMetaData
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/alertsMetaData/README.md
+  url: Microsoft.Network/alertsMetaData
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1430,7 +1430,7 @@ alertsSummary:
   path: Microsoft.Network/alertsSummary
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/alertsSummary/README.md
+  url: Microsoft.Network/alertsSummary
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1447,7 +1447,7 @@ alertsSummaryList:
   path: Microsoft.Network/alertsSummaryList
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/alertsSummaryList/README.md
+  url: Microsoft.Network/alertsSummaryList
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1464,7 +1464,7 @@ allowedConnections:
   path: Microsoft.Network/allowedConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/allowedConnections/README.md
+  url: Microsoft.Network/allowedConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1481,7 +1481,7 @@ anonymousapiusers:
   path: Microsoft.Network/anonymousapiusers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/anonymousapiusers/README.md
+  url: Microsoft.Network/anonymousapiusers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1498,7 +1498,7 @@ appTemplates:
   path: Microsoft.Network/appTemplates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/appTemplates/README.md
+  url: Microsoft.Network/appTemplates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1515,7 +1515,7 @@ applicationDefinitions:
   path: Microsoft.Network/applicationDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applicationDefinitions/README.md
+  url: Microsoft.Network/applicationDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1532,7 +1532,7 @@ applicationGatewayAvailableRequestHeaders:
   path: Microsoft.Network/applicationGatewayAvailableRequestHeaders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applicationGatewayAvailableRequestHeaders/README.md
+  url: Microsoft.Network/applicationGatewayAvailableRequestHeaders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1549,7 +1549,7 @@ applicationGatewayAvailableResponseHeaders:
   path: Microsoft.Network/applicationGatewayAvailableResponseHeaders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applicationGatewayAvailableResponseHeaders/README.md
+  url: Microsoft.Network/applicationGatewayAvailableResponseHeaders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1566,7 +1566,7 @@ applicationGatewayAvailableServerVariables:
   path: Microsoft.Network/applicationGatewayAvailableServerVariables
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applicationGatewayAvailableServerVariables/README.md
+  url: Microsoft.Network/applicationGatewayAvailableServerVariables
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1583,7 +1583,7 @@ applicationGatewayAvailableSslOptions:
   path: Microsoft.Network/applicationGatewayAvailableSslOptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applicationGatewayAvailableSslOptions/README.md
+  url: Microsoft.Network/applicationGatewayAvailableSslOptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1600,7 +1600,7 @@ applicationGatewayAvailableWafRuleSets:
   path: Microsoft.Network/applicationGatewayAvailableWafRuleSets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applicationGatewayAvailableWafRuleSets/README.md
+  url: Microsoft.Network/applicationGatewayAvailableWafRuleSets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1617,7 +1617,7 @@ applicationGatewayWebApplicationFirewallPolicies:
   path: Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies/README.md
+  url: Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1634,7 +1634,7 @@ applicationGateways:
   path: Microsoft.Network/applicationGateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applicationGateways/README.md
+  url: Microsoft.Network/applicationGateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1651,7 +1651,7 @@ applicationSecurityGroups:
   path: Microsoft.Network/applicationSecurityGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applicationSecurityGroups/README.md
+  url: Microsoft.Network/applicationSecurityGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1668,7 +1668,7 @@ applicationWhitelistings:
   path: Microsoft.Network/applicationWhitelistings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applicationWhitelistings/README.md
+  url: Microsoft.Network/applicationWhitelistings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1685,7 +1685,7 @@ applications:
   path: Microsoft.Network/applications
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applications/README.md
+  url: Microsoft.Network/applications
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1702,7 +1702,7 @@ appliedReservations:
   path: Microsoft.Network/appliedReservations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/appliedReservations/README.md
+  url: Microsoft.Network/appliedReservations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1719,7 +1719,7 @@ applyUpdates:
   path: Microsoft.Network/applyUpdates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applyUpdates/README.md
+  url: Microsoft.Network/applyUpdates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1736,7 +1736,7 @@ apps:
   path: Microsoft.Network/apps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/apps/README.md
+  url: Microsoft.Network/apps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1753,7 +1753,7 @@ artifactSources:
   path: Microsoft.Network/artifactSources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/artifactSources/README.md
+  url: Microsoft.Network/artifactSources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1770,7 +1770,7 @@ assessmentMetadata:
   path: Microsoft.Network/assessmentMetadata
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/assessmentMetadata/README.md
+  url: Microsoft.Network/assessmentMetadata
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1787,7 +1787,7 @@ assessmentProjects:
   path: Microsoft.Network/assessmentProjects
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/assessmentProjects/README.md
+  url: Microsoft.Network/assessmentProjects
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1804,7 +1804,7 @@ assessmentprojects:
   path: Microsoft.Network/assessmentprojects
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/assessmentprojects/README.md
+  url: Microsoft.Network/assessmentprojects
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1821,7 +1821,7 @@ assessments:
   path: Microsoft.Network/assessments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/assessments/README.md
+  url: Microsoft.Network/assessments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1838,7 +1838,7 @@ associations:
   path: Microsoft.Network/associations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/associations/README.md
+  url: Microsoft.Network/associations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1855,7 +1855,7 @@ asyncOperationResults:
   path: Microsoft.Network/asyncOperationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/asyncOperationResults/README.md
+  url: Microsoft.Network/asyncOperationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1872,7 +1872,7 @@ attestationProviders:
   path: Microsoft.Network/attestationProviders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/attestationProviders/README.md
+  url: Microsoft.Network/attestationProviders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1889,7 +1889,7 @@ autoDismissAlertsRules:
   path: Microsoft.Network/autoDismissAlertsRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/autoDismissAlertsRules/README.md
+  url: Microsoft.Network/autoDismissAlertsRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1906,7 +1906,7 @@ automationAccounts:
   path: Microsoft.Network/automationAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automationAccounts/README.md
+  url: Microsoft.Network/automationAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1923,7 +1923,7 @@ automations:
   path: Microsoft.Network/automations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/automations/README.md
+  url: Microsoft.Network/automations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1940,7 +1940,7 @@ autoscalesettings:
   path: Microsoft.Network/autoscalesettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/autoscalesettings/README.md
+  url: Microsoft.Network/autoscalesettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1957,7 +1957,7 @@ availabilitySets:
   path: Microsoft.Network/availabilitySets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/availabilitySets/README.md
+  url: Microsoft.Network/availabilitySets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1974,7 +1974,7 @@ availabilityStatuses:
   path: Microsoft.Network/availabilityStatuses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/availabilityStatuses/README.md
+  url: Microsoft.Network/availabilityStatuses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1991,7 +1991,7 @@ availableAccounts:
   path: Microsoft.Network/availableAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/availableAccounts/README.md
+  url: Microsoft.Network/availableAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2008,7 +2008,7 @@ availableClusterRegions:
   path: Microsoft.Network/availableClusterRegions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/availableClusterRegions/README.md
+  url: Microsoft.Network/availableClusterRegions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2025,7 +2025,7 @@ availableStacks:
   path: Microsoft.Network/availableStacks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/availableStacks/README.md
+  url: Microsoft.Network/availableStacks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2042,7 +2042,7 @@ azureFirewallFqdnTags:
   path: Microsoft.Network/azureFirewallFqdnTags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/azureFirewallFqdnTags/README.md
+  url: Microsoft.Network/azureFirewallFqdnTags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2059,7 +2059,7 @@ azureFirewalls:
   path: Microsoft.Network/azureFirewalls
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/azureFirewalls/README.md
+  url: Microsoft.Network/azureFirewalls
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2076,7 +2076,7 @@ b2cDirectories:
   path: Microsoft.Network/b2cDirectories
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/b2cDirectories/README.md
+  url: Microsoft.Network/b2cDirectories
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2093,7 +2093,7 @@ b2ctenants:
   path: Microsoft.Network/b2ctenants
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/b2ctenants/README.md
+  url: Microsoft.Network/b2ctenants
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2110,7 +2110,7 @@ backupProtectedItems:
   path: Microsoft.Network/backupProtectedItems
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/backupProtectedItems/README.md
+  url: Microsoft.Network/backupProtectedItems
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2127,7 +2127,7 @@ baseline:
   path: Microsoft.Network/baseline
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/baseline/README.md
+  url: Microsoft.Network/baseline
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2144,7 +2144,7 @@ bastionHosts:
   path: Microsoft.Network/bastionHosts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bastionHosts/README.md
+  url: Microsoft.Network/bastionHosts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2161,7 +2161,7 @@ batchAccounts:
   path: Microsoft.Network/batchAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/batchAccounts/README.md
+  url: Microsoft.Network/batchAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2178,7 +2178,7 @@ bgpServiceCommunities:
   path: Microsoft.Network/bgpServiceCommunities
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bgpServiceCommunities/README.md
+  url: Microsoft.Network/bgpServiceCommunities
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2195,7 +2195,7 @@ billingAccounts:
   path: Microsoft.Network/billingAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/README.md
+  url: Microsoft.Network/billingAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2212,7 +2212,7 @@ billingMeters:
   path: Microsoft.Network/billingMeters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingMeters/README.md
+  url: Microsoft.Network/billingMeters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2229,7 +2229,7 @@ billingPeriods:
   path: Microsoft.Network/billingPeriods
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingPeriods/README.md
+  url: Microsoft.Network/billingPeriods
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2246,7 +2246,7 @@ billingPermissions:
   path: Microsoft.Network/billingPermissions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingPermissions/README.md
+  url: Microsoft.Network/billingPermissions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2263,7 +2263,7 @@ billingProperty:
   path: Microsoft.Network/billingProperty
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingProperty/README.md
+  url: Microsoft.Network/billingProperty
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2280,7 +2280,7 @@ billingRoleAssignments:
   path: Microsoft.Network/billingRoleAssignments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingRoleAssignments/README.md
+  url: Microsoft.Network/billingRoleAssignments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2297,7 +2297,7 @@ billingRoleDefinitions:
   path: Microsoft.Network/billingRoleDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingRoleDefinitions/README.md
+  url: Microsoft.Network/billingRoleDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2314,7 +2314,7 @@ blockchainMembers:
   path: Microsoft.Network/blockchainMembers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/blockchainMembers/README.md
+  url: Microsoft.Network/blockchainMembers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2331,7 +2331,7 @@ blueprintAssignments:
   path: Microsoft.Network/blueprintAssignments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/blueprintAssignments/README.md
+  url: Microsoft.Network/blueprintAssignments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2348,7 +2348,7 @@ blueprints:
   path: Microsoft.Network/blueprints
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/blueprints/README.md
+  url: Microsoft.Network/blueprints
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2365,7 +2365,7 @@ bookmarks:
   path: Microsoft.Network/bookmarks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bookmarks/README.md
+  url: Microsoft.Network/bookmarks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2382,7 +2382,7 @@ botServices:
   path: Microsoft.Network/botServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/botServices/README.md
+  url: Microsoft.Network/botServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2399,7 +2399,7 @@ calculateExchange:
   path: Microsoft.Network/calculateExchange
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/calculateExchange/README.md
+  url: Microsoft.Network/calculateExchange
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2416,7 +2416,7 @@ calculatePrice:
   path: Microsoft.Network/calculatePrice
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/calculatePrice/README.md
+  url: Microsoft.Network/calculatePrice
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2433,7 +2433,7 @@ calculatePurchasePrice:
   path: Microsoft.Network/calculatePurchasePrice
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/calculatePurchasePrice/README.md
+  url: Microsoft.Network/calculatePurchasePrice
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2450,7 +2450,7 @@ calculatebaseline:
   path: Microsoft.Network/calculatebaseline
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/calculatebaseline/README.md
+  url: Microsoft.Network/calculatebaseline
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2467,7 +2467,7 @@ cancel:
   path: Microsoft.Network/cancel
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/cancel/README.md
+  url: Microsoft.Network/cancel
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2484,7 +2484,7 @@ capabilities:
   path: Microsoft.Network/capabilities
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/capabilities/README.md
+  url: Microsoft.Network/capabilities
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2501,7 +2501,7 @@ capacities:
   path: Microsoft.Network/capacities
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/capacities/README.md
+  url: Microsoft.Network/capacities
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2518,7 +2518,7 @@ cases:
   path: Microsoft.Network/cases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/cases/README.md
+  url: Microsoft.Network/cases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2535,7 +2535,7 @@ catalogs:
   path: Microsoft.Network/catalogs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/catalogs/README.md
+  url: Microsoft.Network/catalogs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2552,7 +2552,7 @@ certificateOrders:
   path: Microsoft.Network/certificateOrders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/certificateOrders/README.md
+  url: Microsoft.Network/certificateOrders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2569,7 +2569,7 @@ certificates:
   path: Microsoft.Network/certificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/certificates/README.md
+  url: Microsoft.Network/certificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2586,7 +2586,7 @@ checkAccess:
   path: Microsoft.Network/checkAccess
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkAccess/README.md
+  url: Microsoft.Network/checkAccess
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2603,7 +2603,7 @@ checkAzureDataFactoryNameAvailability:
   path: Microsoft.Network/checkAzureDataFactoryNameAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkAzureDataFactoryNameAvailability/README.md
+  url: Microsoft.Network/checkAzureDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2620,7 +2620,7 @@ checkDataFactoryNameAvailability:
   path: Microsoft.Network/checkDataFactoryNameAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkDataFactoryNameAvailability/README.md
+  url: Microsoft.Network/checkDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2637,7 +2637,7 @@ checkDomainAvailability:
   path: Microsoft.Network/checkDomainAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkDomainAvailability/README.md
+  url: Microsoft.Network/checkDomainAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2654,7 +2654,7 @@ checkDomainNameAvailability:
   path: Microsoft.Network/checkDomainNameAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkDomainNameAvailability/README.md
+  url: Microsoft.Network/checkDomainNameAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2671,7 +2671,7 @@ checkFeedbackRequired:
   path: Microsoft.Network/checkFeedbackRequired
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkFeedbackRequired/README.md
+  url: Microsoft.Network/checkFeedbackRequired
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2688,7 +2688,7 @@ checkFrontdoorNameAvailability:
   path: Microsoft.Network/checkFrontdoorNameAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkFrontdoorNameAvailability/README.md
+  url: Microsoft.Network/checkFrontdoorNameAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2705,7 +2705,7 @@ checkModernEligibility:
   path: Microsoft.Network/checkModernEligibility
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkModernEligibility/README.md
+  url: Microsoft.Network/checkModernEligibility
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2722,7 +2722,7 @@ checkNameAvailability:
   path: Microsoft.Network/checkNameAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkNameAvailability/README.md
+  url: Microsoft.Network/checkNameAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2739,7 +2739,7 @@ checkNamespaceAvailability:
   path: Microsoft.Network/checkNamespaceAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkNamespaceAvailability/README.md
+  url: Microsoft.Network/checkNamespaceAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2756,7 +2756,7 @@ checkOffers:
   path: Microsoft.Network/checkOffers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkOffers/README.md
+  url: Microsoft.Network/checkOffers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2773,7 +2773,7 @@ checkPolicyCompliance:
   path: Microsoft.Network/checkPolicyCompliance
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkPolicyCompliance/README.md
+  url: Microsoft.Network/checkPolicyCompliance
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2790,7 +2790,7 @@ checkProvisioningServiceNameAvailability:
   path: Microsoft.Network/checkProvisioningServiceNameAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkProvisioningServiceNameAvailability/README.md
+  url: Microsoft.Network/checkProvisioningServiceNameAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2807,7 +2807,7 @@ checkPurchaseStatus:
   path: Microsoft.Network/checkPurchaseStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkPurchaseStatus/README.md
+  url: Microsoft.Network/checkPurchaseStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2824,7 +2824,7 @@ checkResourceUsage:
   path: Microsoft.Network/checkResourceUsage
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkResourceUsage/README.md
+  url: Microsoft.Network/checkResourceUsage
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2841,7 +2841,7 @@ checkScopes:
   path: Microsoft.Network/checkScopes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkScopes/README.md
+  url: Microsoft.Network/checkScopes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2858,7 +2858,7 @@ checkServiceNameAvailability:
   path: Microsoft.Network/checkServiceNameAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkServiceNameAvailability/README.md
+  url: Microsoft.Network/checkServiceNameAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2875,7 +2875,7 @@ checkServiceProviderAvailability:
   path: Microsoft.Network/checkServiceProviderAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkServiceProviderAvailability/README.md
+  url: Microsoft.Network/checkServiceProviderAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2892,7 +2892,7 @@ checkStorageAccountAvailability:
   path: Microsoft.Network/checkStorageAccountAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkStorageAccountAvailability/README.md
+  url: Microsoft.Network/checkStorageAccountAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2909,7 +2909,7 @@ checkSubdomainAvailability:
   path: Microsoft.Network/checkSubdomainAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkSubdomainAvailability/README.md
+  url: Microsoft.Network/checkSubdomainAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2926,7 +2926,7 @@ checkTrafficManagerNameAvailability:
   path: Microsoft.Network/checkTrafficManagerNameAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkTrafficManagerNameAvailability/README.md
+  url: Microsoft.Network/checkTrafficManagerNameAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2943,7 +2943,7 @@ checknameavailability:
   path: Microsoft.Network/checknameavailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checknameavailability/README.md
+  url: Microsoft.Network/checknameavailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2960,7 +2960,7 @@ checkresourcename:
   path: Microsoft.Network/checkresourcename
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/checkresourcename/README.md
+  url: Microsoft.Network/checkresourcename
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2977,7 +2977,7 @@ childAvailabilityStatuses:
   path: Microsoft.Network/childAvailabilityStatuses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/childAvailabilityStatuses/README.md
+  url: Microsoft.Network/childAvailabilityStatuses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2994,7 +2994,7 @@ childResources:
   path: Microsoft.Network/childResources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/childResources/README.md
+  url: Microsoft.Network/childResources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3011,7 +3011,7 @@ classicAdministrators:
   path: Microsoft.Network/classicAdministrators
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/classicAdministrators/README.md
+  url: Microsoft.Network/classicAdministrators
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3028,7 +3028,7 @@ classicDevServices:
   path: Microsoft.Network/classicDevServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/classicDevServices/README.md
+  url: Microsoft.Network/classicDevServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3045,7 +3045,7 @@ classicInfrastructureResources:
   path: Microsoft.Network/classicInfrastructureResources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/classicInfrastructureResources/README.md
+  url: Microsoft.Network/classicInfrastructureResources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3062,7 +3062,7 @@ cloudManifestFiles:
   path: Microsoft.Network/cloudManifestFiles
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/cloudManifestFiles/README.md
+  url: Microsoft.Network/cloudManifestFiles
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3079,7 +3079,7 @@ clusters:
   path: Microsoft.Network/clusters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/clusters/README.md
+  url: Microsoft.Network/clusters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3096,7 +3096,7 @@ commercialReservationOrders:
   path: Microsoft.Network/commercialReservationOrders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/commercialReservationOrders/README.md
+  url: Microsoft.Network/commercialReservationOrders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3113,7 +3113,7 @@ commitmentPlans:
   path: Microsoft.Network/commitmentPlans
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/commitmentPlans/README.md
+  url: Microsoft.Network/commitmentPlans
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3130,7 +3130,7 @@ complianceResults:
   path: Microsoft.Network/complianceResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/complianceResults/README.md
+  url: Microsoft.Network/complianceResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3147,7 +3147,7 @@ components:
   path: Microsoft.Network/components
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/components/README.md
+  url: Microsoft.Network/components
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3164,7 +3164,7 @@ componentsSummary:
   path: Microsoft.Network/componentsSummary
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/componentsSummary/README.md
+  url: Microsoft.Network/componentsSummary
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3181,7 +3181,7 @@ configuration:
   path: Microsoft.Network/configuration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/configuration/README.md
+  url: Microsoft.Network/configuration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3198,7 +3198,7 @@ configurationAssignments:
   path: Microsoft.Network/configurationAssignments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/configurationAssignments/README.md
+  url: Microsoft.Network/configurationAssignments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3215,7 +3215,7 @@ configurationStores:
   path: Microsoft.Network/configurationStores
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/configurationStores/README.md
+  url: Microsoft.Network/configurationStores
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3232,7 +3232,7 @@ configurations:
   path: Microsoft.Network/configurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/configurations/README.md
+  url: Microsoft.Network/configurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3249,7 +3249,7 @@ connectionGateways:
   path: Microsoft.Network/connectionGateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connectionGateways/README.md
+  url: Microsoft.Network/connectionGateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3266,7 +3266,7 @@ connections:
   path: Microsoft.Network/connections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/README.md
+  url: Microsoft.Network/connections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3283,7 +3283,7 @@ consoleServices:
   path: Microsoft.Network/consoleServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/consoleServices/README.md
+  url: Microsoft.Network/consoleServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3300,7 +3300,7 @@ consoles:
   path: Microsoft.Network/consoles
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/consoles/README.md
+  url: Microsoft.Network/consoles
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3317,7 +3317,7 @@ containerGroups:
   path: Microsoft.Network/containerGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/containerGroups/README.md
+  url: Microsoft.Network/containerGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3334,7 +3334,7 @@ containerServices:
   path: Microsoft.Network/containerServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/containerServices/README.md
+  url: Microsoft.Network/containerServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3351,7 +3351,7 @@ controllers:
   path: Microsoft.Network/controllers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/controllers/README.md
+  url: Microsoft.Network/controllers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3368,7 +3368,7 @@ createBillingRoleAssignment:
   path: Microsoft.Network/createBillingRoleAssignment
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/createBillingRoleAssignment/README.md
+  url: Microsoft.Network/createBillingRoleAssignment
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3385,7 +3385,7 @@ credits:
   path: Microsoft.Network/credits
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/credits/README.md
+  url: Microsoft.Network/credits
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3402,7 +3402,7 @@ customApis:
   path: Microsoft.Network/customApis
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/customApis/README.md
+  url: Microsoft.Network/customApis
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3419,7 +3419,7 @@ dashboards:
   path: Microsoft.Network/dashboards
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dashboards/README.md
+  url: Microsoft.Network/dashboards
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3436,7 +3436,7 @@ dataAliases:
   path: Microsoft.Network/dataAliases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dataAliases/README.md
+  url: Microsoft.Network/dataAliases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3453,7 +3453,7 @@ dataCollectionAgents:
   path: Microsoft.Network/dataCollectionAgents
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dataCollectionAgents/README.md
+  url: Microsoft.Network/dataCollectionAgents
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3470,7 +3470,7 @@ dataConnectors:
   path: Microsoft.Network/dataConnectors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dataConnectors/README.md
+  url: Microsoft.Network/dataConnectors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3487,7 +3487,7 @@ dataConnectorsCheckRequirements:
   path: Microsoft.Network/dataConnectorsCheckRequirements
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dataConnectorsCheckRequirements/README.md
+  url: Microsoft.Network/dataConnectorsCheckRequirements
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3504,7 +3504,7 @@ dataFactories:
   path: Microsoft.Network/dataFactories
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dataFactories/README.md
+  url: Microsoft.Network/dataFactories
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3521,7 +3521,7 @@ dataFactorySchema:
   path: Microsoft.Network/dataFactorySchema
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dataFactorySchema/README.md
+  url: Microsoft.Network/dataFactorySchema
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3538,7 +3538,7 @@ dataManagers:
   path: Microsoft.Network/dataManagers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dataManagers/README.md
+  url: Microsoft.Network/dataManagers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3555,7 +3555,7 @@ databaseAccountNames:
   path: Microsoft.Network/databaseAccountNames
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccountNames/README.md
+  url: Microsoft.Network/databaseAccountNames
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3572,7 +3572,7 @@ databaseAccounts:
   path: Microsoft.Network/databaseAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccounts/README.md
+  url: Microsoft.Network/databaseAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3589,7 +3589,7 @@ databases:
   path: Microsoft.Network/databases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databases/README.md
+  url: Microsoft.Network/databases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3606,7 +3606,7 @@ ddosCustomPolicies:
   path: Microsoft.Network/ddosCustomPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ddosCustomPolicies/README.md
+  url: Microsoft.Network/ddosCustomPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3623,7 +3623,7 @@ ddosProtectionPlans:
   path: Microsoft.Network/ddosProtectionPlans
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ddosProtectionPlans/README.md
+  url: Microsoft.Network/ddosProtectionPlans
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3640,7 +3640,7 @@ dedicatedCloudNodes:
   path: Microsoft.Network/dedicatedCloudNodes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dedicatedCloudNodes/README.md
+  url: Microsoft.Network/dedicatedCloudNodes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3657,7 +3657,7 @@ dedicatedCloudServices:
   path: Microsoft.Network/dedicatedCloudServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dedicatedCloudServices/README.md
+  url: Microsoft.Network/dedicatedCloudServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3674,7 +3674,7 @@ deletedSites:
   path: Microsoft.Network/deletedSites
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/deletedSites/README.md
+  url: Microsoft.Network/deletedSites
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3691,7 +3691,7 @@ deletedVaults:
   path: Microsoft.Network/deletedVaults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/deletedVaults/README.md
+  url: Microsoft.Network/deletedVaults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3708,7 +3708,7 @@ denyAssignments:
   path: Microsoft.Network/denyAssignments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/denyAssignments/README.md
+  url: Microsoft.Network/denyAssignments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3725,7 +3725,7 @@ departments:
   path: Microsoft.Network/departments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/departments/README.md
+  url: Microsoft.Network/departments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3742,7 +3742,7 @@ deploymentLocations:
   path: Microsoft.Network/deploymentLocations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/deploymentLocations/README.md
+  url: Microsoft.Network/deploymentLocations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3759,7 +3759,7 @@ deploymentScripts:
   path: Microsoft.Network/deploymentScripts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/deploymentScripts/README.md
+  url: Microsoft.Network/deploymentScripts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3776,7 +3776,7 @@ deployments:
   path: Microsoft.Network/deployments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/deployments/README.md
+  url: Microsoft.Network/deployments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3793,7 +3793,7 @@ deviceSecurityGroups:
   path: Microsoft.Network/deviceSecurityGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/deviceSecurityGroups/README.md
+  url: Microsoft.Network/deviceSecurityGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3810,7 +3810,7 @@ diagnosticSettings:
   path: Microsoft.Network/diagnosticSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/diagnosticSettings/README.md
+  url: Microsoft.Network/diagnosticSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3827,7 +3827,7 @@ diagnosticSettingsCategories:
   path: Microsoft.Network/diagnosticSettingsCategories
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/diagnosticSettingsCategories/README.md
+  url: Microsoft.Network/diagnosticSettingsCategories
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3844,7 +3844,7 @@ discoveredSecuritySolutions:
   path: Microsoft.Network/discoveredSecuritySolutions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/discoveredSecuritySolutions/README.md
+  url: Microsoft.Network/discoveredSecuritySolutions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3861,7 +3861,7 @@ diskEncryptionSets:
   path: Microsoft.Network/diskEncryptionSets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/diskEncryptionSets/README.md
+  url: Microsoft.Network/diskEncryptionSets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3878,7 +3878,7 @@ disks:
   path: Microsoft.Network/disks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/disks/README.md
+  url: Microsoft.Network/disks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3895,7 +3895,7 @@ dnsOperationResults:
   path: Microsoft.Network/dnsOperationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnsOperationResults/README.md
+  url: Microsoft.Network/dnsOperationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3912,7 +3912,7 @@ dnsOperationStatuses:
   path: Microsoft.Network/dnsOperationStatuses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnsOperationStatuses/README.md
+  url: Microsoft.Network/dnsOperationStatuses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3929,7 +3929,7 @@ dnszones:
   path: Microsoft.Network/dnszones
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/README.md
+  url: Microsoft.Network/dnszones
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3946,7 +3946,7 @@ domainNames:
   path: Microsoft.Network/domainNames
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/domainNames/README.md
+  url: Microsoft.Network/domainNames
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3963,7 +3963,7 @@ domains:
   path: Microsoft.Network/domains
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/domains/README.md
+  url: Microsoft.Network/domains
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3980,7 +3980,7 @@ edgenodes:
   path: Microsoft.Network/edgenodes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/edgenodes/README.md
+  url: Microsoft.Network/edgenodes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3997,7 +3997,7 @@ elevateAccess:
   path: Microsoft.Network/elevateAccess
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/elevateAccess/README.md
+  url: Microsoft.Network/elevateAccess
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4014,7 +4014,7 @@ emergingissues:
   path: Microsoft.Network/emergingissues
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/emergingissues/README.md
+  url: Microsoft.Network/emergingissues
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4031,7 +4031,7 @@ enable:
   path: Microsoft.Network/enable
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/enable/README.md
+  url: Microsoft.Network/enable
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4048,7 +4048,7 @@ enrollmentAccounts:
   path: Microsoft.Network/enrollmentAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/enrollmentAccounts/README.md
+  url: Microsoft.Network/enrollmentAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4065,7 +4065,7 @@ entities:
   path: Microsoft.Network/entities
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/entities/README.md
+  url: Microsoft.Network/entities
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4082,7 +4082,7 @@ entityQueries:
   path: Microsoft.Network/entityQueries
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/entityQueries/README.md
+  url: Microsoft.Network/entityQueries
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4099,7 +4099,7 @@ environments:
   path: Microsoft.Network/environments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/environments/README.md
+  url: Microsoft.Network/environments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4116,7 +4116,7 @@ eventCategories:
   path: Microsoft.Network/eventCategories
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/eventCategories/README.md
+  url: Microsoft.Network/eventCategories
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4133,7 +4133,7 @@ eventSubscriptions:
   path: Microsoft.Network/eventSubscriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/eventSubscriptions/README.md
+  url: Microsoft.Network/eventSubscriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4150,7 +4150,7 @@ events:
   path: Microsoft.Network/events
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/events/README.md
+  url: Microsoft.Network/events
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4167,7 +4167,7 @@ eventtypes:
   path: Microsoft.Network/eventtypes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/eventtypes/README.md
+  url: Microsoft.Network/eventtypes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4184,7 +4184,7 @@ exchange:
   path: Microsoft.Network/exchange
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/exchange/README.md
+  url: Microsoft.Network/exchange
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4201,7 +4201,7 @@ expressRouteCircuits:
   path: Microsoft.Network/expressRouteCircuits
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCircuits/README.md
+  url: Microsoft.Network/expressRouteCircuits
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4218,7 +4218,7 @@ expressRouteCrossConnections:
   path: Microsoft.Network/expressRouteCrossConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCrossConnections/README.md
+  url: Microsoft.Network/expressRouteCrossConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4235,7 +4235,7 @@ expressRouteGateways:
   path: Microsoft.Network/expressRouteGateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteGateways/README.md
+  url: Microsoft.Network/expressRouteGateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4252,7 +4252,7 @@ expressRouteServiceProviders:
   path: Microsoft.Network/expressRouteServiceProviders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteServiceProviders/README.md
+  url: Microsoft.Network/expressRouteServiceProviders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4269,7 +4269,7 @@ extendedDiagnosticSettings:
   path: Microsoft.Network/extendedDiagnosticSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/extendedDiagnosticSettings/README.md
+  url: Microsoft.Network/extendedDiagnosticSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4286,7 +4286,7 @@ extensionTopics:
   path: Microsoft.Network/extensionTopics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/extensionTopics/README.md
+  url: Microsoft.Network/extensionTopics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4303,7 +4303,7 @@ externalSecuritySolutions:
   path: Microsoft.Network/externalSecuritySolutions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/externalSecuritySolutions/README.md
+  url: Microsoft.Network/externalSecuritySolutions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4320,7 +4320,7 @@ factories:
   path: Microsoft.Network/factories
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/factories/README.md
+  url: Microsoft.Network/factories
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4337,7 +4337,7 @@ featureProviders:
   path: Microsoft.Network/featureProviders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/featureProviders/README.md
+  url: Microsoft.Network/featureProviders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4354,7 +4354,7 @@ features:
   path: Microsoft.Network/features
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/features/README.md
+  url: Microsoft.Network/features
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4371,7 +4371,7 @@ findOrphanRoleAssignments:
   path: Microsoft.Network/findOrphanRoleAssignments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/findOrphanRoleAssignments/README.md
+  url: Microsoft.Network/findOrphanRoleAssignments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4388,7 +4388,7 @@ firewallPolicies:
   path: Microsoft.Network/firewallPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/README.md
+  url: Microsoft.Network/firewallPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4405,7 +4405,7 @@ frontDoors:
   path: Microsoft.Network/frontDoors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontDoors/README.md
+  url: Microsoft.Network/frontDoors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4422,7 +4422,7 @@ frontdoorOperationResults:
   path: Microsoft.Network/frontdoorOperationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorOperationResults/README.md
+  url: Microsoft.Network/frontdoorOperationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4439,7 +4439,7 @@ frontdoorWebApplicationFirewallManagedRuleSets:
   path: Microsoft.Network/frontdoorWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallManagedRuleSets/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4456,7 +4456,7 @@ frontdoorWebApplicationFirewallPolicies:
   path: Microsoft.Network/frontdoorWebApplicationFirewallPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies/README.md
+  url: Microsoft.Network/frontdoorWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4473,7 +4473,7 @@ frontdoors:
   path: Microsoft.Network/frontdoors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/frontdoors/README.md
+  url: Microsoft.Network/frontdoors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4490,7 +4490,7 @@ galleries:
   path: Microsoft.Network/galleries
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/galleries/README.md
+  url: Microsoft.Network/galleries
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4507,7 +4507,7 @@ gatewaySupportedDevices:
   path: Microsoft.Network/gatewaySupportedDevices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/gatewaySupportedDevices/README.md
+  url: Microsoft.Network/gatewaySupportedDevices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4524,7 +4524,7 @@ gateways:
   path: Microsoft.Network/gateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/gateways/README.md
+  url: Microsoft.Network/gateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4541,7 +4541,7 @@ generateRecommendations:
   path: Microsoft.Network/generateRecommendations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/generateRecommendations/README.md
+  url: Microsoft.Network/generateRecommendations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4558,7 +4558,7 @@ generateSsoRequest:
   path: Microsoft.Network/generateSsoRequest
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/generateSsoRequest/README.md
+  url: Microsoft.Network/generateSsoRequest
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4575,7 +4575,7 @@ georegions:
   path: Microsoft.Network/georegions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/georegions/README.md
+  url: Microsoft.Network/georegions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4592,7 +4592,7 @@ getDnsResourceReference:
   path: Microsoft.Network/getDnsResourceReference
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/getDnsResourceReference/README.md
+  url: Microsoft.Network/getDnsResourceReference
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4609,7 +4609,7 @@ getEntities:
   path: Microsoft.Network/getEntities
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/getEntities/README.md
+  url: Microsoft.Network/getEntities
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4626,7 +4626,7 @@ guestConfigurationAssignments:
   path: Microsoft.Network/guestConfigurationAssignments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/guestConfigurationAssignments/README.md
+  url: Microsoft.Network/guestConfigurationAssignments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4643,7 +4643,7 @@ hanaInstances:
   path: Microsoft.Network/hanaInstances
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/hanaInstances/README.md
+  url: Microsoft.Network/hanaInstances
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4660,7 +4660,7 @@ hostGroups:
   path: Microsoft.Network/hostGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/hostGroups/README.md
+  url: Microsoft.Network/hostGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4677,7 +4677,7 @@ hostingEnvironments:
   path: Microsoft.Network/hostingEnvironments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/hostingEnvironments/README.md
+  url: Microsoft.Network/hostingEnvironments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4694,7 +4694,7 @@ hybridUseBenefits:
   path: Microsoft.Network/hybridUseBenefits
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/hybridUseBenefits/README.md
+  url: Microsoft.Network/hybridUseBenefits
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4711,7 +4711,7 @@ images:
   path: Microsoft.Network/images
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/images/README.md
+  url: Microsoft.Network/images
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4728,7 +4728,7 @@ incidents:
   path: Microsoft.Network/incidents
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/incidents/README.md
+  url: Microsoft.Network/incidents
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4745,7 +4745,7 @@ instancePools:
   path: Microsoft.Network/instancePools
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/instancePools/README.md
+  url: Microsoft.Network/instancePools
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4762,7 +4762,7 @@ integrationAccounts:
   path: Microsoft.Network/integrationAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/integrationAccounts/README.md
+  url: Microsoft.Network/integrationAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4779,7 +4779,7 @@ integrationServiceEnvironments:
   path: Microsoft.Network/integrationServiceEnvironments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/integrationServiceEnvironments/README.md
+  url: Microsoft.Network/integrationServiceEnvironments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4796,7 +4796,7 @@ internalNotify:
   path: Microsoft.Network/internalNotify
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/internalNotify/README.md
+  url: Microsoft.Network/internalNotify
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4813,7 +4813,7 @@ invoices:
   path: Microsoft.Network/invoices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/invoices/README.md
+  url: Microsoft.Network/invoices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4830,7 +4830,7 @@ iotSecuritySolutions:
   path: Microsoft.Network/iotSecuritySolutions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/iotSecuritySolutions/README.md
+  url: Microsoft.Network/iotSecuritySolutions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4847,7 +4847,7 @@ ipGroups:
   path: Microsoft.Network/ipGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ipGroups/README.md
+  url: Microsoft.Network/ipGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4864,7 +4864,7 @@ ishostingenvironmentnameavailable:
   path: Microsoft.Network/ishostingenvironmentnameavailable
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ishostingenvironmentnameavailable/README.md
+  url: Microsoft.Network/ishostingenvironmentnameavailable
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4881,7 +4881,7 @@ ishostnameavailable:
   path: Microsoft.Network/ishostnameavailable
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/ishostnameavailable/README.md
+  url: Microsoft.Network/ishostnameavailable
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4898,7 +4898,7 @@ isusernameavailable:
   path: Microsoft.Network/isusernameavailable
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/isusernameavailable/README.md
+  url: Microsoft.Network/isusernameavailable
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4915,7 +4915,7 @@ jitNetworkAccessPolicies:
   path: Microsoft.Network/jitNetworkAccessPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/jitNetworkAccessPolicies/README.md
+  url: Microsoft.Network/jitNetworkAccessPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4932,7 +4932,7 @@ jitRequests:
   path: Microsoft.Network/jitRequests
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/jitRequests/README.md
+  url: Microsoft.Network/jitRequests
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4949,7 +4949,7 @@ jobcollections:
   path: Microsoft.Network/jobcollections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/jobcollections/README.md
+  url: Microsoft.Network/jobcollections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4966,7 +4966,7 @@ jobs:
   path: Microsoft.Network/jobs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/jobs/README.md
+  url: Microsoft.Network/jobs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -4983,7 +4983,7 @@ labAccounts:
   path: Microsoft.Network/labAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/labAccounts/README.md
+  url: Microsoft.Network/labAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5000,7 +5000,7 @@ labaccounts:
   path: Microsoft.Network/labaccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/labaccounts/README.md
+  url: Microsoft.Network/labaccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5017,7 +5017,7 @@ labs:
   path: Microsoft.Network/labs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/labs/README.md
+  url: Microsoft.Network/labs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5034,7 +5034,7 @@ legacyPeerings:
   path: Microsoft.Network/legacyPeerings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/legacyPeerings/README.md
+  url: Microsoft.Network/legacyPeerings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5051,7 +5051,7 @@ linkTargets:
   path: Microsoft.Network/linkTargets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/linkTargets/README.md
+  url: Microsoft.Network/linkTargets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5068,7 +5068,7 @@ links:
   path: Microsoft.Network/links
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/links/README.md
+  url: Microsoft.Network/links
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5085,7 +5085,7 @@ listAuthServiceProviders:
   path: Microsoft.Network/listAuthServiceProviders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/listAuthServiceProviders/README.md
+  url: Microsoft.Network/listAuthServiceProviders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5102,7 +5102,7 @@ listAvailableOffers:
   path: Microsoft.Network/listAvailableOffers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/listAvailableOffers/README.md
+  url: Microsoft.Network/listAvailableOffers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5119,7 +5119,7 @@ listBenefits:
   path: Microsoft.Network/listBenefits
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/listBenefits/README.md
+  url: Microsoft.Network/listBenefits
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5136,7 +5136,7 @@ listCommunicationPreference:
   path: Microsoft.Network/listCommunicationPreference
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/listCommunicationPreference/README.md
+  url: Microsoft.Network/listCommunicationPreference
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5153,7 +5153,7 @@ listDomainRecommendations:
   path: Microsoft.Network/listDomainRecommendations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/listDomainRecommendations/README.md
+  url: Microsoft.Network/listDomainRecommendations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5170,7 +5170,7 @@ listMigrationdate:
   path: Microsoft.Network/listMigrationdate
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/listMigrationdate/README.md
+  url: Microsoft.Network/listMigrationdate
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5187,7 +5187,7 @@ listSitesAssignedToHostName:
   path: Microsoft.Network/listSitesAssignedToHostName
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/listSitesAssignedToHostName/README.md
+  url: Microsoft.Network/listSitesAssignedToHostName
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5204,7 +5204,7 @@ listinvitations:
   path: Microsoft.Network/listinvitations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/listinvitations/README.md
+  url: Microsoft.Network/listinvitations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5221,7 +5221,7 @@ loadBalancers:
   path: Microsoft.Network/loadBalancers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/loadBalancers/README.md
+  url: Microsoft.Network/loadBalancers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5238,7 +5238,7 @@ localNetworkGateways:
   path: Microsoft.Network/localNetworkGateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/localNetworkGateways/README.md
+  url: Microsoft.Network/localNetworkGateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5255,7 +5255,7 @@ locations:
   path: Microsoft.Network/locations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/locations/README.md
+  url: Microsoft.Network/locations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5272,7 +5272,7 @@ locks:
   path: Microsoft.Network/locks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/locks/README.md
+  url: Microsoft.Network/locks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5289,7 +5289,7 @@ logDefinitions:
   path: Microsoft.Network/logDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/logDefinitions/README.md
+  url: Microsoft.Network/logDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5306,7 +5306,7 @@ logprofiles:
   path: Microsoft.Network/logprofiles
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/logprofiles/README.md
+  url: Microsoft.Network/logprofiles
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5323,7 +5323,7 @@ logs:
   path: Microsoft.Network/logs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/logs/README.md
+  url: Microsoft.Network/logs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5340,7 +5340,7 @@ lots:
   path: Microsoft.Network/lots
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/lots/README.md
+  url: Microsoft.Network/lots
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5357,7 +5357,7 @@ machines:
   path: Microsoft.Network/machines
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/machines/README.md
+  url: Microsoft.Network/machines
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5374,7 +5374,7 @@ maintenanceConfigurations:
   path: Microsoft.Network/maintenanceConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/maintenanceConfigurations/README.md
+  url: Microsoft.Network/maintenanceConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5391,7 +5391,7 @@ managedClusters:
   path: Microsoft.Network/managedClusters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managedClusters/README.md
+  url: Microsoft.Network/managedClusters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5408,7 +5408,7 @@ managedInstances:
   path: Microsoft.Network/managedInstances
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managedInstances/README.md
+  url: Microsoft.Network/managedInstances
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5425,7 +5425,7 @@ managementGroups:
   path: Microsoft.Network/managementGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managementGroups/README.md
+  url: Microsoft.Network/managementGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5442,7 +5442,7 @@ managementassociations:
   path: Microsoft.Network/managementassociations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managementassociations/README.md
+  url: Microsoft.Network/managementassociations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5459,7 +5459,7 @@ managementconfigurations:
   path: Microsoft.Network/managementconfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managementconfigurations/README.md
+  url: Microsoft.Network/managementconfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5476,7 +5476,7 @@ managers:
   path: Microsoft.Network/managers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/managers/README.md
+  url: Microsoft.Network/managers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5493,7 +5493,7 @@ mapApis:
   path: Microsoft.Network/mapApis
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/mapApis/README.md
+  url: Microsoft.Network/mapApis
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5510,7 +5510,7 @@ marketplaceRegistrationDefinitions:
   path: Microsoft.Network/marketplaceRegistrationDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/marketplaceRegistrationDefinitions/README.md
+  url: Microsoft.Network/marketplaceRegistrationDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5527,7 +5527,7 @@ mediaservices:
   path: Microsoft.Network/mediaservices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/mediaservices/README.md
+  url: Microsoft.Network/mediaservices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5544,7 +5544,7 @@ metadata:
   path: Microsoft.Network/metadata
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/metadata/README.md
+  url: Microsoft.Network/metadata
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5561,7 +5561,7 @@ metricDefinitions:
   path: Microsoft.Network/metricDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/metricDefinitions/README.md
+  url: Microsoft.Network/metricDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5578,7 +5578,7 @@ metricNamespaces:
   path: Microsoft.Network/metricNamespaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/metricNamespaces/README.md
+  url: Microsoft.Network/metricNamespaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5595,7 +5595,7 @@ metricalerts:
   path: Microsoft.Network/metricalerts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/metricalerts/README.md
+  url: Microsoft.Network/metricalerts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5612,7 +5612,7 @@ metricbaselines:
   path: Microsoft.Network/metricbaselines
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/metricbaselines/README.md
+  url: Microsoft.Network/metricbaselines
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5629,7 +5629,7 @@ metricbatch:
   path: Microsoft.Network/metricbatch
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/metricbatch/README.md
+  url: Microsoft.Network/metricbatch
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5646,7 +5646,7 @@ metrics:
   path: Microsoft.Network/metrics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/metrics/README.md
+  url: Microsoft.Network/metrics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5663,7 +5663,7 @@ migrateToNewPricingModel:
   path: Microsoft.Network/migrateToNewPricingModel
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/migrateToNewPricingModel/README.md
+  url: Microsoft.Network/migrateToNewPricingModel
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5680,7 +5680,7 @@ migratealertrules:
   path: Microsoft.Network/migratealertrules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/migratealertrules/README.md
+  url: Microsoft.Network/migratealertrules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5697,7 +5697,7 @@ migrateprojects:
   path: Microsoft.Network/migrateprojects
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/migrateprojects/README.md
+  url: Microsoft.Network/migrateprojects
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5714,7 +5714,7 @@ monitorInstances:
   path: Microsoft.Network/monitorInstances
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/monitorInstances/README.md
+  url: Microsoft.Network/monitorInstances
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5731,7 +5731,7 @@ monitorInstancesSummary:
   path: Microsoft.Network/monitorInstancesSummary
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/monitorInstancesSummary/README.md
+  url: Microsoft.Network/monitorInstancesSummary
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5748,7 +5748,7 @@ monitors:
   path: Microsoft.Network/monitors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/monitors/README.md
+  url: Microsoft.Network/monitors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5765,7 +5765,7 @@ moveSubscriptionResources:
   path: Microsoft.Network/moveSubscriptionResources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/moveSubscriptionResources/README.md
+  url: Microsoft.Network/moveSubscriptionResources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5782,7 +5782,7 @@ myWorkbooks:
   path: Microsoft.Network/myWorkbooks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/myWorkbooks/README.md
+  url: Microsoft.Network/myWorkbooks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5799,7 +5799,7 @@ namespaces:
   path: Microsoft.Network/namespaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/namespaces/README.md
+  url: Microsoft.Network/namespaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5816,7 +5816,7 @@ natGateways:
   path: Microsoft.Network/natGateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/natGateways/README.md
+  url: Microsoft.Network/natGateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5833,7 +5833,7 @@ networkExperimentProfiles:
   path: Microsoft.Network/networkExperimentProfiles
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkExperimentProfiles/README.md
+  url: Microsoft.Network/networkExperimentProfiles
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5850,7 +5850,7 @@ networkIntentPolicies:
   path: Microsoft.Network/networkIntentPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkIntentPolicies/README.md
+  url: Microsoft.Network/networkIntentPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5867,7 +5867,7 @@ networkInterfaces:
   path: Microsoft.Network/networkInterfaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkInterfaces/README.md
+  url: Microsoft.Network/networkInterfaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5884,7 +5884,7 @@ networkProfiles:
   path: Microsoft.Network/networkProfiles
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkProfiles/README.md
+  url: Microsoft.Network/networkProfiles
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5901,7 +5901,7 @@ networkSecurityGroups:
   path: Microsoft.Network/networkSecurityGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/README.md
+  url: Microsoft.Network/networkSecurityGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5918,7 +5918,7 @@ networkWatchers:
   path: Microsoft.Network/networkWatchers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/README.md
+  url: Microsoft.Network/networkWatchers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5935,7 +5935,7 @@ networks:
   path: Microsoft.Network/networks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networks/README.md
+  url: Microsoft.Network/networks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5952,7 +5952,7 @@ notificationSettings:
   path: Microsoft.Network/notificationSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/notificationSettings/README.md
+  url: Microsoft.Network/notificationSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5969,7 +5969,7 @@ notifications:
   path: Microsoft.Network/notifications
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/notifications/README.md
+  url: Microsoft.Network/notifications
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -5986,7 +5986,7 @@ notifyResourceJobs:
   path: Microsoft.Network/notifyResourceJobs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/notifyResourceJobs/README.md
+  url: Microsoft.Network/notifyResourceJobs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6003,7 +6003,7 @@ offerTypes:
   path: Microsoft.Network/offerTypes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/offerTypes/README.md
+  url: Microsoft.Network/offerTypes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6020,7 +6020,7 @@ offers:
   path: Microsoft.Network/offers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/offers/README.md
+  url: Microsoft.Network/offers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6037,7 +6037,7 @@ offertypes:
   path: Microsoft.Network/offertypes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/offertypes/README.md
+  url: Microsoft.Network/offertypes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6054,7 +6054,7 @@ officeConsents:
   path: Microsoft.Network/officeConsents
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/officeConsents/README.md
+  url: Microsoft.Network/officeConsents
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6071,7 +6071,7 @@ openShiftManagedClusters:
   path: Microsoft.Network/openShiftManagedClusters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/openShiftManagedClusters/README.md
+  url: Microsoft.Network/openShiftManagedClusters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6088,7 +6088,7 @@ operatingSystemFamilies:
   path: Microsoft.Network/operatingSystemFamilies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/operatingSystemFamilies/README.md
+  url: Microsoft.Network/operatingSystemFamilies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6105,7 +6105,7 @@ operatingSystems:
   path: Microsoft.Network/operatingSystems
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/operatingSystems/README.md
+  url: Microsoft.Network/operatingSystems
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6122,7 +6122,7 @@ operationResults:
   path: Microsoft.Network/operationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/operationResults/README.md
+  url: Microsoft.Network/operationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6139,7 +6139,7 @@ operationStatus:
   path: Microsoft.Network/operationStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/operationStatus/README.md
+  url: Microsoft.Network/operationStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6156,7 +6156,7 @@ operationStatuses:
   path: Microsoft.Network/operationStatuses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/operationStatuses/README.md
+  url: Microsoft.Network/operationStatuses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6173,7 +6173,7 @@ operationresults:
   path: Microsoft.Network/operationresults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/operationresults/README.md
+  url: Microsoft.Network/operationresults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6190,7 +6190,7 @@ operations:
   path: Microsoft.Network/operations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/operations/README.md
+  url: Microsoft.Network/operations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6207,7 +6207,7 @@ operationsStatus:
   path: Microsoft.Network/operationsStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/operationsStatus/README.md
+  url: Microsoft.Network/operationsStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6224,7 +6224,7 @@ operationsstatus:
   path: Microsoft.Network/operationsstatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/operationsstatus/README.md
+  url: Microsoft.Network/operationsstatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6241,7 +6241,7 @@ osImages:
   path: Microsoft.Network/osImages
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/osImages/README.md
+  url: Microsoft.Network/osImages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6258,7 +6258,7 @@ osNamespaces:
   path: Microsoft.Network/osNamespaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/osNamespaces/README.md
+  url: Microsoft.Network/osNamespaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6275,7 +6275,7 @@ osPlatformImages:
   path: Microsoft.Network/osPlatformImages
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/osPlatformImages/README.md
+  url: Microsoft.Network/osPlatformImages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6292,7 +6292,7 @@ p2sVpnGateways:
   path: Microsoft.Network/p2sVpnGateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/README.md
+  url: Microsoft.Network/p2sVpnGateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6309,7 +6309,7 @@ partnerNamespaces:
   path: Microsoft.Network/partnerNamespaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/partnerNamespaces/README.md
+  url: Microsoft.Network/partnerNamespaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6326,7 +6326,7 @@ partnerTopics:
   path: Microsoft.Network/partnerTopics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/partnerTopics/README.md
+  url: Microsoft.Network/partnerTopics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6343,7 +6343,7 @@ peerAsns:
   path: Microsoft.Network/peerAsns
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/peerAsns/README.md
+  url: Microsoft.Network/peerAsns
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6360,7 +6360,7 @@ peeringLocations:
   path: Microsoft.Network/peeringLocations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/peeringLocations/README.md
+  url: Microsoft.Network/peeringLocations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6377,7 +6377,7 @@ peeringServiceCountries:
   path: Microsoft.Network/peeringServiceCountries
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/peeringServiceCountries/README.md
+  url: Microsoft.Network/peeringServiceCountries
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6394,7 +6394,7 @@ peeringServiceLocations:
   path: Microsoft.Network/peeringServiceLocations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/peeringServiceLocations/README.md
+  url: Microsoft.Network/peeringServiceLocations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6411,7 +6411,7 @@ peeringServiceProviders:
   path: Microsoft.Network/peeringServiceProviders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/peeringServiceProviders/README.md
+  url: Microsoft.Network/peeringServiceProviders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6428,7 +6428,7 @@ peerings:
   path: Microsoft.Network/peerings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/peerings/README.md
+  url: Microsoft.Network/peerings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6445,7 +6445,7 @@ permissions:
   path: Microsoft.Network/permissions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/permissions/README.md
+  url: Microsoft.Network/permissions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6462,7 +6462,7 @@ pipelines:
   path: Microsoft.Network/pipelines
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/pipelines/README.md
+  url: Microsoft.Network/pipelines
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6479,7 +6479,7 @@ placePurchaseOrder:
   path: Microsoft.Network/placePurchaseOrder
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/placePurchaseOrder/README.md
+  url: Microsoft.Network/placePurchaseOrder
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6496,7 +6496,7 @@ plans:
   path: Microsoft.Network/plans
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/plans/README.md
+  url: Microsoft.Network/plans
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6513,7 +6513,7 @@ policies:
   path: Microsoft.Network/policies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/policies/README.md
+  url: Microsoft.Network/policies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6530,7 +6530,7 @@ policyAssignments:
   path: Microsoft.Network/policyAssignments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/policyAssignments/README.md
+  url: Microsoft.Network/policyAssignments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6547,7 +6547,7 @@ policyDefinitions:
   path: Microsoft.Network/policyDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/policyDefinitions/README.md
+  url: Microsoft.Network/policyDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6564,7 +6564,7 @@ policyEvents:
   path: Microsoft.Network/policyEvents
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/policyEvents/README.md
+  url: Microsoft.Network/policyEvents
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6581,7 +6581,7 @@ policyMetadata:
   path: Microsoft.Network/policyMetadata
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/policyMetadata/README.md
+  url: Microsoft.Network/policyMetadata
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6598,7 +6598,7 @@ policySetDefinitions:
   path: Microsoft.Network/policySetDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/policySetDefinitions/README.md
+  url: Microsoft.Network/policySetDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6615,7 +6615,7 @@ policyStates:
   path: Microsoft.Network/policyStates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/policyStates/README.md
+  url: Microsoft.Network/policyStates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6632,7 +6632,7 @@ policyTrackedResources:
   path: Microsoft.Network/policyTrackedResources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/policyTrackedResources/README.md
+  url: Microsoft.Network/policyTrackedResources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6649,7 +6649,7 @@ premiumMessagingRegions:
   path: Microsoft.Network/premiumMessagingRegions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/premiumMessagingRegions/README.md
+  url: Microsoft.Network/premiumMessagingRegions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6666,7 +6666,7 @@ pricings:
   path: Microsoft.Network/pricings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/pricings/README.md
+  url: Microsoft.Network/pricings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6683,7 +6683,7 @@ privateDnsOperationResults:
   path: Microsoft.Network/privateDnsOperationResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsOperationResults/README.md
+  url: Microsoft.Network/privateDnsOperationResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6700,7 +6700,7 @@ privateDnsOperationStatuses:
   path: Microsoft.Network/privateDnsOperationStatuses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsOperationStatuses/README.md
+  url: Microsoft.Network/privateDnsOperationStatuses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6717,7 +6717,7 @@ privateDnsZones:
   path: Microsoft.Network/privateDnsZones
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/README.md
+  url: Microsoft.Network/privateDnsZones
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6734,7 +6734,7 @@ privateDnsZonesInternal:
   path: Microsoft.Network/privateDnsZonesInternal
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZonesInternal/README.md
+  url: Microsoft.Network/privateDnsZonesInternal
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6751,7 +6751,7 @@ privateEndpointRedirectMaps:
   path: Microsoft.Network/privateEndpointRedirectMaps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateEndpointRedirectMaps/README.md
+  url: Microsoft.Network/privateEndpointRedirectMaps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6768,7 +6768,7 @@ privateEndpoints:
   path: Microsoft.Network/privateEndpoints
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateEndpoints/README.md
+  url: Microsoft.Network/privateEndpoints
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6785,7 +6785,7 @@ privateLinkScopeOperationStatuses:
   path: Microsoft.Network/privateLinkScopeOperationStatuses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkScopeOperationStatuses/README.md
+  url: Microsoft.Network/privateLinkScopeOperationStatuses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6802,7 +6802,7 @@ privateLinkScopes:
   path: Microsoft.Network/privateLinkScopes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkScopes/README.md
+  url: Microsoft.Network/privateLinkScopes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6819,7 +6819,7 @@ privateLinkServices:
   path: Microsoft.Network/privateLinkServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/README.md
+  url: Microsoft.Network/privateLinkServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6836,7 +6836,7 @@ privateStoreClient:
   path: Microsoft.Network/privateStoreClient
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateStoreClient/README.md
+  url: Microsoft.Network/privateStoreClient
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6853,7 +6853,7 @@ privateStores:
   path: Microsoft.Network/privateStores
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateStores/README.md
+  url: Microsoft.Network/privateStores
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6870,7 +6870,7 @@ privategalleryitems:
   path: Microsoft.Network/privategalleryitems
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privategalleryitems/README.md
+  url: Microsoft.Network/privategalleryitems
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6887,7 +6887,7 @@ products:
   path: Microsoft.Network/products
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/products/README.md
+  url: Microsoft.Network/products
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6904,7 +6904,7 @@ profiles:
   path: Microsoft.Network/profiles
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/profiles/README.md
+  url: Microsoft.Network/profiles
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6921,7 +6921,7 @@ projects:
   path: Microsoft.Network/projects
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/projects/README.md
+  url: Microsoft.Network/projects
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6938,7 +6938,7 @@ providerOperations:
   path: Microsoft.Network/providerOperations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/providerOperations/README.md
+  url: Microsoft.Network/providerOperations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6955,7 +6955,7 @@ providerRegistrations:
   path: Microsoft.Network/providerRegistrations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/providerRegistrations/README.md
+  url: Microsoft.Network/providerRegistrations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6972,7 +6972,7 @@ providers:
   path: Microsoft.Network/providers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/providers/README.md
+  url: Microsoft.Network/providers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -6989,7 +6989,7 @@ proximityPlacementGroups:
   path: Microsoft.Network/proximityPlacementGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/proximityPlacementGroups/README.md
+  url: Microsoft.Network/proximityPlacementGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7006,7 +7006,7 @@ publicIPAddresses:
   path: Microsoft.Network/publicIPAddresses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPAddresses/README.md
+  url: Microsoft.Network/publicIPAddresses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7023,7 +7023,7 @@ publicIPPrefixes:
   path: Microsoft.Network/publicIPPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/README.md
+  url: Microsoft.Network/publicIPPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7040,7 +7040,7 @@ publicImages:
   path: Microsoft.Network/publicImages
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicImages/README.md
+  url: Microsoft.Network/publicImages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7057,7 +7057,7 @@ publishers:
   path: Microsoft.Network/publishers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publishers/README.md
+  url: Microsoft.Network/publishers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7074,7 +7074,7 @@ publishingUsers:
   path: Microsoft.Network/publishingUsers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publishingUsers/README.md
+  url: Microsoft.Network/publishingUsers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7091,7 +7091,7 @@ queries:
   path: Microsoft.Network/queries
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/queries/README.md
+  url: Microsoft.Network/queries
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7108,7 +7108,7 @@ quotas:
   path: Microsoft.Network/quotas
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/quotas/README.md
+  url: Microsoft.Network/quotas
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7125,7 +7125,7 @@ recommendations:
   path: Microsoft.Network/recommendations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/recommendations/README.md
+  url: Microsoft.Network/recommendations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7142,7 +7142,7 @@ redis:
   path: Microsoft.Network/redis
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/redis/README.md
+  url: Microsoft.Network/redis
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7159,7 +7159,7 @@ register:
   path: Microsoft.Network/register
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/register/README.md
+  url: Microsoft.Network/register
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7176,7 +7176,7 @@ registrationAssignments:
   path: Microsoft.Network/registrationAssignments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registrationAssignments/README.md
+  url: Microsoft.Network/registrationAssignments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7193,7 +7193,7 @@ registrationDefinitions:
   path: Microsoft.Network/registrationDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registrationDefinitions/README.md
+  url: Microsoft.Network/registrationDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7210,7 +7210,7 @@ registrations:
   path: Microsoft.Network/registrations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registrations/README.md
+  url: Microsoft.Network/registrations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7227,7 +7227,7 @@ registries:
   path: Microsoft.Network/registries
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/README.md
+  url: Microsoft.Network/registries
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7244,7 +7244,7 @@ regulatoryComplianceStandards:
   path: Microsoft.Network/regulatoryComplianceStandards
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/regulatoryComplianceStandards/README.md
+  url: Microsoft.Network/regulatoryComplianceStandards
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7261,7 +7261,7 @@ remediations:
   path: Microsoft.Network/remediations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/remediations/README.md
+  url: Microsoft.Network/remediations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7278,7 +7278,7 @@ rename:
   path: Microsoft.Network/rename
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/rename/README.md
+  url: Microsoft.Network/rename
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7295,7 +7295,7 @@ replicationEligibilityResults:
   path: Microsoft.Network/replicationEligibilityResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/replicationEligibilityResults/README.md
+  url: Microsoft.Network/replicationEligibilityResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7312,7 +7312,7 @@ reportFeedback:
   path: Microsoft.Network/reportFeedback
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reportFeedback/README.md
+  url: Microsoft.Network/reportFeedback
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7329,7 +7329,7 @@ reports:
   path: Microsoft.Network/reports
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reports/README.md
+  url: Microsoft.Network/reports
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7346,7 +7346,7 @@ requests:
   path: Microsoft.Network/requests
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/requests/README.md
+  url: Microsoft.Network/requests
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7363,7 +7363,7 @@ reservationOrders:
   path: Microsoft.Network/reservationOrders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reservationOrders/README.md
+  url: Microsoft.Network/reservationOrders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7380,7 +7380,7 @@ reservations:
   path: Microsoft.Network/reservations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reservations/README.md
+  url: Microsoft.Network/reservations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7397,7 +7397,7 @@ reservedIps:
   path: Microsoft.Network/reservedIps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reservedIps/README.md
+  url: Microsoft.Network/reservedIps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7414,7 +7414,7 @@ resourceChangeDetails:
   path: Microsoft.Network/resourceChangeDetails
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/resourceChangeDetails/README.md
+  url: Microsoft.Network/resourceChangeDetails
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7431,7 +7431,7 @@ resourceChanges:
   path: Microsoft.Network/resourceChanges
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/resourceChanges/README.md
+  url: Microsoft.Network/resourceChanges
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7448,7 +7448,7 @@ resourceGroups:
   path: Microsoft.Network/resourceGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/resourceGroups/README.md
+  url: Microsoft.Network/resourceGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7465,7 +7465,7 @@ resourceHealthMetadata:
   path: Microsoft.Network/resourceHealthMetadata
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/resourceHealthMetadata/README.md
+  url: Microsoft.Network/resourceHealthMetadata
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7482,7 +7482,7 @@ resourceProviders:
   path: Microsoft.Network/resourceProviders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/resourceProviders/README.md
+  url: Microsoft.Network/resourceProviders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7499,7 +7499,7 @@ resourceTypes:
   path: Microsoft.Network/resourceTypes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/resourceTypes/README.md
+  url: Microsoft.Network/resourceTypes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7516,7 +7516,7 @@ resources:
   path: Microsoft.Network/resources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/resources/README.md
+  url: Microsoft.Network/resources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7533,7 +7533,7 @@ resourcesHistory:
   path: Microsoft.Network/resourcesHistory
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/resourcesHistory/README.md
+  url: Microsoft.Network/resourcesHistory
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7550,7 +7550,7 @@ restorePointCollections:
   path: Microsoft.Network/restorePointCollections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/restorePointCollections/README.md
+  url: Microsoft.Network/restorePointCollections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7567,7 +7567,7 @@ roleAssignments:
   path: Microsoft.Network/roleAssignments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/roleAssignments/README.md
+  url: Microsoft.Network/roleAssignments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7584,7 +7584,7 @@ roleAssignmentsUsageMetrics:
   path: Microsoft.Network/roleAssignmentsUsageMetrics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/roleAssignmentsUsageMetrics/README.md
+  url: Microsoft.Network/roleAssignmentsUsageMetrics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7601,7 +7601,7 @@ roleDefinitions:
   path: Microsoft.Network/roleDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/roleDefinitions/README.md
+  url: Microsoft.Network/roleDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7618,7 +7618,7 @@ rollbackToLegacyPricingModel:
   path: Microsoft.Network/rollbackToLegacyPricingModel
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/rollbackToLegacyPricingModel/README.md
+  url: Microsoft.Network/rollbackToLegacyPricingModel
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7635,7 +7635,7 @@ rollouts:
   path: Microsoft.Network/rollouts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/rollouts/README.md
+  url: Microsoft.Network/rollouts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7652,7 +7652,7 @@ routeFilters:
   path: Microsoft.Network/routeFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/routeFilters/README.md
+  url: Microsoft.Network/routeFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7669,7 +7669,7 @@ routeTables:
   path: Microsoft.Network/routeTables
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/routeTables/README.md
+  url: Microsoft.Network/routeTables
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7686,7 +7686,7 @@ runtimes:
   path: Microsoft.Network/runtimes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/runtimes/README.md
+  url: Microsoft.Network/runtimes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7703,7 +7703,7 @@ saasresources:
   path: Microsoft.Network/saasresources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/saasresources/README.md
+  url: Microsoft.Network/saasresources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7720,7 +7720,7 @@ sapMonitors:
   path: Microsoft.Network/sapMonitors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sapMonitors/README.md
+  url: Microsoft.Network/sapMonitors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7737,7 +7737,7 @@ scheduledqueryrules:
   path: Microsoft.Network/scheduledqueryrules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/scheduledqueryrules/README.md
+  url: Microsoft.Network/scheduledqueryrules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7754,7 +7754,7 @@ schedules:
   path: Microsoft.Network/schedules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/schedules/README.md
+  url: Microsoft.Network/schedules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7771,7 +7771,7 @@ searchServices:
   path: Microsoft.Network/searchServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/searchServices/README.md
+  url: Microsoft.Network/searchServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7788,7 +7788,7 @@ secrets:
   path: Microsoft.Network/secrets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/secrets/README.md
+  url: Microsoft.Network/secrets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7805,7 +7805,7 @@ securityContacts:
   path: Microsoft.Network/securityContacts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/securityContacts/README.md
+  url: Microsoft.Network/securityContacts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7822,7 +7822,7 @@ securitySolutions:
   path: Microsoft.Network/securitySolutions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/securitySolutions/README.md
+  url: Microsoft.Network/securitySolutions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7839,7 +7839,7 @@ securitySolutionsReferenceData:
   path: Microsoft.Network/securitySolutionsReferenceData
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/securitySolutionsReferenceData/README.md
+  url: Microsoft.Network/securitySolutionsReferenceData
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7856,7 +7856,7 @@ securityStatuses:
   path: Microsoft.Network/securityStatuses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/securityStatuses/README.md
+  url: Microsoft.Network/securityStatuses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7873,7 +7873,7 @@ securityStatusesSummaries:
   path: Microsoft.Network/securityStatusesSummaries
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/securityStatusesSummaries/README.md
+  url: Microsoft.Network/securityStatusesSummaries
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7890,7 +7890,7 @@ serverFarms:
   path: Microsoft.Network/serverFarms
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serverFarms/README.md
+  url: Microsoft.Network/serverFarms
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7907,7 +7907,7 @@ serverGroups:
   path: Microsoft.Network/serverGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serverGroups/README.md
+  url: Microsoft.Network/serverGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7924,7 +7924,7 @@ serverVulnerabilityAssessments:
   path: Microsoft.Network/serverVulnerabilityAssessments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serverVulnerabilityAssessments/README.md
+  url: Microsoft.Network/serverVulnerabilityAssessments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7941,7 +7941,7 @@ serverfarms:
   path: Microsoft.Network/serverfarms
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serverfarms/README.md
+  url: Microsoft.Network/serverfarms
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7958,7 +7958,7 @@ servers:
   path: Microsoft.Network/servers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/README.md
+  url: Microsoft.Network/servers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7975,7 +7975,7 @@ serversv2:
   path: Microsoft.Network/serversv2
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serversv2/README.md
+  url: Microsoft.Network/serversv2
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -7992,7 +7992,7 @@ service:
   path: Microsoft.Network/service
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/service/README.md
+  url: Microsoft.Network/service
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8009,7 +8009,7 @@ serviceAssociationLinks:
   path: Microsoft.Network/serviceAssociationLinks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serviceAssociationLinks/README.md
+  url: Microsoft.Network/serviceAssociationLinks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8026,7 +8026,7 @@ serviceEndpointPolicies:
   path: Microsoft.Network/serviceEndpointPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serviceEndpointPolicies/README.md
+  url: Microsoft.Network/serviceEndpointPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8043,7 +8043,7 @@ serviceTopologies:
   path: Microsoft.Network/serviceTopologies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/serviceTopologies/README.md
+  url: Microsoft.Network/serviceTopologies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8060,7 +8060,7 @@ servicehealthmetrics:
   path: Microsoft.Network/servicehealthmetrics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servicehealthmetrics/README.md
+  url: Microsoft.Network/servicehealthmetrics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8077,7 +8077,7 @@ services:
   path: Microsoft.Network/services
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/services/README.md
+  url: Microsoft.Network/services
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8094,7 +8094,7 @@ settings:
   path: Microsoft.Network/settings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/settings/README.md
+  url: Microsoft.Network/settings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8111,7 +8111,7 @@ sharedVMImages:
   path: Microsoft.Network/sharedVMImages
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sharedVMImages/README.md
+  url: Microsoft.Network/sharedVMImages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8128,7 +8128,7 @@ showbackRules:
   path: Microsoft.Network/showbackRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/showbackRules/README.md
+  url: Microsoft.Network/showbackRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8145,7 +8145,7 @@ singleServers:
   path: Microsoft.Network/singleServers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/singleServers/README.md
+  url: Microsoft.Network/singleServers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8162,7 +8162,7 @@ sites:
   path: Microsoft.Network/sites
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sites/README.md
+  url: Microsoft.Network/sites
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8179,7 +8179,7 @@ sku:
   path: Microsoft.Network/sku
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sku/README.md
+  url: Microsoft.Network/sku
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8196,7 +8196,7 @@ smartDetectorAlertRules:
   path: Microsoft.Network/smartDetectorAlertRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/smartDetectorAlertRules/README.md
+  url: Microsoft.Network/smartDetectorAlertRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8213,7 +8213,7 @@ smartGroups:
   path: Microsoft.Network/smartGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/smartGroups/README.md
+  url: Microsoft.Network/smartGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8230,7 +8230,7 @@ snapshots:
   path: Microsoft.Network/snapshots
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/snapshots/README.md
+  url: Microsoft.Network/snapshots
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8247,7 +8247,7 @@ software:
   path: Microsoft.Network/software
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/software/README.md
+  url: Microsoft.Network/software
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8264,7 +8264,7 @@ softwareUpdateProfile:
   path: Microsoft.Network/softwareUpdateProfile
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/softwareUpdateProfile/README.md
+  url: Microsoft.Network/softwareUpdateProfile
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8281,7 +8281,7 @@ softwareUpdates:
   path: Microsoft.Network/softwareUpdates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/softwareUpdates/README.md
+  url: Microsoft.Network/softwareUpdates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8298,7 +8298,7 @@ solutions:
   path: Microsoft.Network/solutions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/solutions/README.md
+  url: Microsoft.Network/solutions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8315,7 +8315,7 @@ sourceControls:
   path: Microsoft.Network/sourceControls
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sourceControls/README.md
+  url: Microsoft.Network/sourceControls
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8332,7 +8332,7 @@ spatialAnchorsAccounts:
   path: Microsoft.Network/spatialAnchorsAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/spatialAnchorsAccounts/README.md
+  url: Microsoft.Network/spatialAnchorsAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8349,7 +8349,7 @@ sqlServerRegistrations:
   path: Microsoft.Network/sqlServerRegistrations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sqlServerRegistrations/README.md
+  url: Microsoft.Network/sqlServerRegistrations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8366,7 +8366,7 @@ sshPublicKeys:
   path: Microsoft.Network/sshPublicKeys
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/sshPublicKeys/README.md
+  url: Microsoft.Network/sshPublicKeys
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8383,7 +8383,7 @@ startTenantBackfill:
   path: Microsoft.Network/startTenantBackfill
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/startTenantBackfill/README.md
+  url: Microsoft.Network/startTenantBackfill
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8400,7 +8400,7 @@ steps:
   path: Microsoft.Network/steps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/steps/README.md
+  url: Microsoft.Network/steps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8417,7 +8417,7 @@ storageAccounts:
   path: Microsoft.Network/storageAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/storageAccounts/README.md
+  url: Microsoft.Network/storageAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8434,7 +8434,7 @@ storageInsightConfigs:
   path: Microsoft.Network/storageInsightConfigs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/storageInsightConfigs/README.md
+  url: Microsoft.Network/storageInsightConfigs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8451,7 +8451,7 @@ storageSyncServices:
   path: Microsoft.Network/storageSyncServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/storageSyncServices/README.md
+  url: Microsoft.Network/storageSyncServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8468,7 +8468,7 @@ stores:
   path: Microsoft.Network/stores
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/stores/README.md
+  url: Microsoft.Network/stores
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8485,7 +8485,7 @@ streamingjobs:
   path: Microsoft.Network/streamingjobs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/streamingjobs/README.md
+  url: Microsoft.Network/streamingjobs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8502,7 +8502,7 @@ subAssessments:
   path: Microsoft.Network/subAssessments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/subAssessments/README.md
+  url: Microsoft.Network/subAssessments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8519,7 +8519,7 @@ subscriptionFeatureRegistrations:
   path: Microsoft.Network/subscriptionFeatureRegistrations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/subscriptionFeatureRegistrations/README.md
+  url: Microsoft.Network/subscriptionFeatureRegistrations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8536,7 +8536,7 @@ subscriptions:
   path: Microsoft.Network/subscriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/subscriptions/README.md
+  url: Microsoft.Network/subscriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8553,7 +8553,7 @@ subscriptionsStatus:
   path: Microsoft.Network/subscriptionsStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/subscriptionsStatus/README.md
+  url: Microsoft.Network/subscriptionsStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8570,7 +8570,7 @@ supportProviders:
   path: Microsoft.Network/supportProviders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/supportProviders/README.md
+  url: Microsoft.Network/supportProviders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8587,7 +8587,7 @@ supporttickets:
   path: Microsoft.Network/supporttickets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/supporttickets/README.md
+  url: Microsoft.Network/supporttickets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8604,7 +8604,7 @@ suppressions:
   path: Microsoft.Network/suppressions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/suppressions/README.md
+  url: Microsoft.Network/suppressions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8621,7 +8621,7 @@ systemTopics:
   path: Microsoft.Network/systemTopics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/systemTopics/README.md
+  url: Microsoft.Network/systemTopics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8638,7 +8638,7 @@ tags:
   path: Microsoft.Network/tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/tags/README.md
+  url: Microsoft.Network/tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8655,7 +8655,7 @@ tasks:
   path: Microsoft.Network/tasks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/tasks/README.md
+  url: Microsoft.Network/tasks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8672,7 +8672,7 @@ tenantBackfillStatus:
   path: Microsoft.Network/tenantBackfillStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/tenantBackfillStatus/README.md
+  url: Microsoft.Network/tenantBackfillStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8689,7 +8689,7 @@ tenants:
   path: Microsoft.Network/tenants
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/tenants/README.md
+  url: Microsoft.Network/tenants
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8706,7 +8706,7 @@ topLevelDomains:
   path: Microsoft.Network/topLevelDomains
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/topLevelDomains/README.md
+  url: Microsoft.Network/topLevelDomains
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8723,7 +8723,7 @@ topicTypes:
   path: Microsoft.Network/topicTypes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/topicTypes/README.md
+  url: Microsoft.Network/topicTypes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8740,7 +8740,7 @@ topics:
   path: Microsoft.Network/topics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/topics/README.md
+  url: Microsoft.Network/topics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8757,7 +8757,7 @@ topologies:
   path: Microsoft.Network/topologies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/topologies/README.md
+  url: Microsoft.Network/topologies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8774,7 +8774,7 @@ topology:
   path: Microsoft.Network/topology
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/topology/README.md
+  url: Microsoft.Network/topology
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8791,7 +8791,7 @@ trafficManagerGeographicHierarchies:
   path: Microsoft.Network/trafficManagerGeographicHierarchies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/trafficManagerGeographicHierarchies/README.md
+  url: Microsoft.Network/trafficManagerGeographicHierarchies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8808,7 +8808,7 @@ trafficManagerUserMetricsKeys:
   path: Microsoft.Network/trafficManagerUserMetricsKeys
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/trafficManagerUserMetricsKeys/README.md
+  url: Microsoft.Network/trafficManagerUserMetricsKeys
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8825,7 +8825,7 @@ trafficmanagerprofiles:
   path: Microsoft.Network/trafficmanagerprofiles
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/trafficmanagerprofiles/README.md
+  url: Microsoft.Network/trafficmanagerprofiles
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8842,7 +8842,7 @@ transactions:
   path: Microsoft.Network/transactions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/transactions/README.md
+  url: Microsoft.Network/transactions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8859,7 +8859,7 @@ transfers:
   path: Microsoft.Network/transfers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/transfers/README.md
+  url: Microsoft.Network/transfers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8876,7 +8876,7 @@ updateCommunicationPreference:
   path: Microsoft.Network/updateCommunicationPreference
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/updateCommunicationPreference/README.md
+  url: Microsoft.Network/updateCommunicationPreference
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8893,7 +8893,7 @@ updates:
   path: Microsoft.Network/updates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/updates/README.md
+  url: Microsoft.Network/updates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8910,7 +8910,7 @@ usages:
   path: Microsoft.Network/usages
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/usages/README.md
+  url: Microsoft.Network/usages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8927,7 +8927,7 @@ userAssignedIdentities:
   path: Microsoft.Network/userAssignedIdentities
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/userAssignedIdentities/README.md
+  url: Microsoft.Network/userAssignedIdentities
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8944,7 +8944,7 @@ userSettings:
   path: Microsoft.Network/userSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/userSettings/README.md
+  url: Microsoft.Network/userSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8961,7 +8961,7 @@ users:
   path: Microsoft.Network/users
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/users/README.md
+  url: Microsoft.Network/users
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8978,7 +8978,7 @@ validate:
   path: Microsoft.Network/validate
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/validate/README.md
+  url: Microsoft.Network/validate
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -8995,7 +8995,7 @@ validateAddress:
   path: Microsoft.Network/validateAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/validateAddress/README.md
+  url: Microsoft.Network/validateAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9012,7 +9012,7 @@ validateCertificateRegistrationInformation:
   path: Microsoft.Network/validateCertificateRegistrationInformation
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/validateCertificateRegistrationInformation/README.md
+  url: Microsoft.Network/validateCertificateRegistrationInformation
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9029,7 +9029,7 @@ validateDomainRegistrationInformation:
   path: Microsoft.Network/validateDomainRegistrationInformation
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/validateDomainRegistrationInformation/README.md
+  url: Microsoft.Network/validateDomainRegistrationInformation
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9046,7 +9046,7 @@ validateProbe:
   path: Microsoft.Network/validateProbe
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/validateProbe/README.md
+  url: Microsoft.Network/validateProbe
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9063,7 +9063,7 @@ validateReservationOrder:
   path: Microsoft.Network/validateReservationOrder
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/validateReservationOrder/README.md
+  url: Microsoft.Network/validateReservationOrder
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9080,7 +9080,7 @@ validateServiceName:
   path: Microsoft.Network/validateServiceName
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/validateServiceName/README.md
+  url: Microsoft.Network/validateServiceName
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9097,7 +9097,7 @@ validateSubscriptionMoveAvailability:
   path: Microsoft.Network/validateSubscriptionMoveAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/validateSubscriptionMoveAvailability/README.md
+  url: Microsoft.Network/validateSubscriptionMoveAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9114,7 +9114,7 @@ vaults:
   path: Microsoft.Network/vaults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vaults/README.md
+  url: Microsoft.Network/vaults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9131,7 +9131,7 @@ verifyHostingEnvironmentVnet:
   path: Microsoft.Network/verifyHostingEnvironmentVnet
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/verifyHostingEnvironmentVnet/README.md
+  url: Microsoft.Network/verifyHostingEnvironmentVnet
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9148,7 +9148,7 @@ views:
   path: Microsoft.Network/views
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/views/README.md
+  url: Microsoft.Network/views
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9165,7 +9165,7 @@ virtualClusters:
   path: Microsoft.Network/virtualClusters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualClusters/README.md
+  url: Microsoft.Network/virtualClusters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9182,7 +9182,7 @@ virtualHubs:
   path: Microsoft.Network/virtualHubs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/README.md
+  url: Microsoft.Network/virtualHubs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9199,7 +9199,7 @@ virtualMachineScaleSets:
   path: Microsoft.Network/virtualMachineScaleSets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualMachineScaleSets/README.md
+  url: Microsoft.Network/virtualMachineScaleSets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9216,7 +9216,7 @@ virtualMachines:
   path: Microsoft.Network/virtualMachines
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualMachines/README.md
+  url: Microsoft.Network/virtualMachines
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9233,7 +9233,7 @@ virtualNetworkGateways:
   path: Microsoft.Network/virtualNetworkGateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworkGateways/README.md
+  url: Microsoft.Network/virtualNetworkGateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9250,7 +9250,7 @@ virtualNetworkTaps:
   path: Microsoft.Network/virtualNetworkTaps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworkTaps/README.md
+  url: Microsoft.Network/virtualNetworkTaps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9267,7 +9267,7 @@ virtualNetworks:
   path: Microsoft.Network/virtualNetworks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualNetworks/README.md
+  url: Microsoft.Network/virtualNetworks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9284,7 +9284,7 @@ virtualRouters:
   path: Microsoft.Network/virtualRouters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualRouters/README.md
+  url: Microsoft.Network/virtualRouters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9301,7 +9301,7 @@ virtualWans:
   path: Microsoft.Network/virtualWans
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/README.md
+  url: Microsoft.Network/virtualWans
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9318,7 +9318,7 @@ vmImages:
   path: Microsoft.Network/vmImages
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vmImages/README.md
+  url: Microsoft.Network/vmImages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9335,7 +9335,7 @@ vmInsightsOnboardingStatuses:
   path: Microsoft.Network/vmInsightsOnboardingStatuses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vmInsightsOnboardingStatuses/README.md
+  url: Microsoft.Network/vmInsightsOnboardingStatuses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9352,7 +9352,7 @@ volumes:
   path: Microsoft.Network/volumes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/volumes/README.md
+  url: Microsoft.Network/volumes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9369,7 +9369,7 @@ vpnGateways:
   path: Microsoft.Network/vpnGateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnGateways/README.md
+  url: Microsoft.Network/vpnGateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9386,7 +9386,7 @@ vpnServerConfigurations:
   path: Microsoft.Network/vpnServerConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnServerConfigurations/README.md
+  url: Microsoft.Network/vpnServerConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9403,7 +9403,7 @@ vpnSites:
   path: Microsoft.Network/vpnSites
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/README.md
+  url: Microsoft.Network/vpnSites
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9420,7 +9420,7 @@ watchers:
   path: Microsoft.Network/watchers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/watchers/README.md
+  url: Microsoft.Network/watchers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9437,7 +9437,7 @@ webApplicationFirewallPolicies:
   path: Microsoft.Network/webApplicationFirewallPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/webApplicationFirewallPolicies/README.md
+  url: Microsoft.Network/webApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9454,7 +9454,7 @@ webServices:
   path: Microsoft.Network/webServices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/webServices/README.md
+  url: Microsoft.Network/webServices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9471,7 +9471,7 @@ webtests:
   path: Microsoft.Network/webtests
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/webtests/README.md
+  url: Microsoft.Network/webtests
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9488,7 +9488,7 @@ workbooks:
   path: Microsoft.Network/workbooks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workbooks/README.md
+  url: Microsoft.Network/workbooks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9505,7 +9505,7 @@ workbooktemplates:
   path: Microsoft.Network/workbooktemplates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workbooktemplates/README.md
+  url: Microsoft.Network/workbooktemplates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9522,7 +9522,7 @@ workflows:
   path: Microsoft.Network/workflows
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workflows/README.md
+  url: Microsoft.Network/workflows
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9539,7 +9539,7 @@ workspaceCollections:
   path: Microsoft.Network/workspaceCollections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaceCollections/README.md
+  url: Microsoft.Network/workspaceCollections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9556,7 +9556,7 @@ workspaceSettings:
   path: Microsoft.Network/workspaceSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaceSettings/README.md
+  url: Microsoft.Network/workspaceSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -9573,7 +9573,7 @@ workspaces:
   path: Microsoft.Network/workspaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/workspaces/README.md
+  url: Microsoft.Network/workspaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

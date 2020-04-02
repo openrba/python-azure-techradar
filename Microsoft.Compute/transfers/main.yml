@@ -2,7 +2,7 @@ acceptTransfer:
   path: Microsoft.Compute/transfers/acceptTransfer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/transfers/acceptTransfer/README.md
+  url: Microsoft.Compute/transfers/acceptTransfer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ declineTransfer:
   path: Microsoft.Compute/transfers/declineTransfer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/transfers/declineTransfer/README.md
+  url: Microsoft.Compute/transfers/declineTransfer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ operationStatus:
   path: Microsoft.Compute/transfers/operationStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/transfers/operationStatus/README.md
+  url: Microsoft.Compute/transfers/operationStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ validateTransfer:
   path: Microsoft.Compute/transfers/validateTransfer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/transfers/validateTransfer/README.md
+  url: Microsoft.Compute/transfers/validateTransfer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

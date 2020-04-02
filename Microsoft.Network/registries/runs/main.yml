@@ -2,7 +2,7 @@ cancel:
   path: Microsoft.Network/registries/runs/cancel
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/runs/cancel/README.md
+  url: Microsoft.Network/registries/runs/cancel
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ listLogSasUrl:
   path: Microsoft.Network/registries/runs/listLogSasUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/runs/listLogSasUrl/README.md
+  url: Microsoft.Network/registries/runs/listLogSasUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

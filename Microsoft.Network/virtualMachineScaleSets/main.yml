@@ -2,7 +2,7 @@ extensions:
   path: Microsoft.Network/virtualMachineScaleSets/extensions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualMachineScaleSets/extensions/README.md
+  url: Microsoft.Network/virtualMachineScaleSets/extensions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ networkInterfaces:
   path: Microsoft.Network/virtualMachineScaleSets/networkInterfaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualMachineScaleSets/networkInterfaces/README.md
+  url: Microsoft.Network/virtualMachineScaleSets/networkInterfaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ publicIPAddresses:
   path: Microsoft.Network/virtualMachineScaleSets/publicIPAddresses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualMachineScaleSets/publicIPAddresses/README.md
+  url: Microsoft.Network/virtualMachineScaleSets/publicIPAddresses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ virtualMachines:
   path: Microsoft.Network/virtualMachineScaleSets/virtualMachines
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualMachineScaleSets/virtualMachines/README.md
+  url: Microsoft.Network/virtualMachineScaleSets/virtualMachines
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

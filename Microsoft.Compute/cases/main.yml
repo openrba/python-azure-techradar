@@ -2,7 +2,7 @@ comments:
   path: Microsoft.Compute/cases/comments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/cases/comments/README.md
+  url: Microsoft.Compute/cases/comments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

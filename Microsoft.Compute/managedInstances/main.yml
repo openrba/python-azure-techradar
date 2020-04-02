@@ -2,7 +2,7 @@ administrators:
   path: Microsoft.Compute/managedInstances/administrators
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/administrators/README.md
+  url: Microsoft.Compute/managedInstances/administrators
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ databases:
   path: Microsoft.Compute/managedInstances/databases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/databases/README.md
+  url: Microsoft.Compute/managedInstances/databases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ encryptionProtector:
   path: Microsoft.Compute/managedInstances/encryptionProtector
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/encryptionProtector/README.md
+  url: Microsoft.Compute/managedInstances/encryptionProtector
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ keys:
   path: Microsoft.Compute/managedInstances/keys
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/keys/README.md
+  url: Microsoft.Compute/managedInstances/keys
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ metricDefinitions:
   path: Microsoft.Compute/managedInstances/metricDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/metricDefinitions/README.md
+  url: Microsoft.Compute/managedInstances/metricDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ metrics:
   path: Microsoft.Compute/managedInstances/metrics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/metrics/README.md
+  url: Microsoft.Compute/managedInstances/metrics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ recoverableDatabases:
   path: Microsoft.Compute/managedInstances/recoverableDatabases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/recoverableDatabases/README.md
+  url: Microsoft.Compute/managedInstances/recoverableDatabases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ restorableDroppedDatabases:
   path: Microsoft.Compute/managedInstances/restorableDroppedDatabases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/restorableDroppedDatabases/README.md
+  url: Microsoft.Compute/managedInstances/restorableDroppedDatabases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ securityAlertPolicies:
   path: Microsoft.Compute/managedInstances/securityAlertPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/securityAlertPolicies/README.md
+  url: Microsoft.Compute/managedInstances/securityAlertPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ tdeCertificates:
   path: Microsoft.Compute/managedInstances/tdeCertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/tdeCertificates/README.md
+  url: Microsoft.Compute/managedInstances/tdeCertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ vulnerabilityAssessments:
   path: Microsoft.Compute/managedInstances/vulnerabilityAssessments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/vulnerabilityAssessments/README.md
+  url: Microsoft.Compute/managedInstances/vulnerabilityAssessments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

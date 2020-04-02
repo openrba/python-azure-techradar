@@ -2,7 +2,7 @@ provisioningState:
   path: Microsoft.Network/privateDnsZones/virtualNetworkLinks/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/provisioningState/README.md
+  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ registrationEnabled:
   path: Microsoft.Network/privateDnsZones/virtualNetworkLinks/registrationEnabled
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/registrationEnabled/README.md
+  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/registrationEnabled
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ virtualNetwork:
   path: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork/README.md
+  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ virtualNetwork.id:
   path: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork.id/README.md
+  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetwork.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ virtualNetworkLinkState:
   path: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetworkLinkState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetworkLinkState/README.md
+  url: Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetworkLinkState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

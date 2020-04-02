@@ -2,7 +2,7 @@ invoices:
   path: Microsoft.Compute/billingAccounts/billingSubscriptions/invoices
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/billingAccounts/billingSubscriptions/invoices/README.md
+  url: Microsoft.Compute/billingAccounts/billingSubscriptions/invoices
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

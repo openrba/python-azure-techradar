@@ -2,7 +2,7 @@ accessKeys:
   path: Microsoft.Compute/workflows/accessKeys
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/workflows/accessKeys/README.md
+  url: Microsoft.Compute/workflows/accessKeys
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

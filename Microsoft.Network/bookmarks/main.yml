@@ -2,7 +2,7 @@ relations:
   path: Microsoft.Network/bookmarks/relations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/bookmarks/relations/README.md
+  url: Microsoft.Network/bookmarks/relations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ backendPools:
   path: Microsoft.Compute/frontDoors/backendPools
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/frontDoors/backendPools/README.md
+  url: Microsoft.Compute/frontDoors/backendPools
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -29,28 +29,34 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[ipPrefix](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/ipPrefix/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipPrefix|TRIAL|
-|[ipTags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/ipTags/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipTags|TRIAL|
-|[ipTags[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/ipTags[*]/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipTags[*]|TRIAL|
-|[ipTags[*].ipTagType](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType|TRIAL|
-|[ipTags[*].tag](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/ipTags[*].tag/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipTags[*].tag|TRIAL|
-|[loadBalancerFrontendIpConfiguration](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration|TRIAL|
-|[loadBalancerFrontendIpConfiguration.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id|TRIAL|
-|[prefixLength](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/prefixLength/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/prefixLength|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/provisioningState/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/provisioningState|TRIAL|
-|[publicIPAddressVersion](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/publicIPAddressVersion/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/publicIPAddressVersion|TRIAL|
-|[publicIPAddresses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/publicIPAddresses/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/publicIPAddresses|TRIAL|
-|[publicIPAddresses[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/publicIPAddresses[*]/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/publicIPAddresses[*]|TRIAL|
-|[publicIPAddresses[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id|TRIAL|
-|[resourceGuid](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/resourceGuid/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/resourceGuid|TRIAL|
-|[sku](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/sku/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/sku|TRIAL|
-|[sku.name](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/sku.name/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/sku.name|TRIAL|
-|[zones](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/zones/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/zones|TRIAL|
-|[zones[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/zones[*]/README.md)|UNKNOWN|Microsoft.Network/publicIPPrefixes/zones[*]|TRIAL|
+|[ipPrefix](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/ipPrefix)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipPrefix|TRIAL|
+|[ipTags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/ipTags)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipTags|TRIAL|
+|[ipTags[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/ipTags[*])|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipTags[*]|TRIAL|
+|[ipTags[*].ipTagType](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType|TRIAL|
+|[ipTags[*].tag](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/ipTags[*].tag)|UNKNOWN|Microsoft.Network/publicIPPrefixes/ipTags[*].tag|TRIAL|
+|[loadBalancerFrontendIpConfiguration](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration)|UNKNOWN|Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration|TRIAL|
+|[loadBalancerFrontendIpConfiguration.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id)|UNKNOWN|Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id|TRIAL|
+|[prefixLength](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/prefixLength)|UNKNOWN|Microsoft.Network/publicIPPrefixes/prefixLength|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/provisioningState)|UNKNOWN|Microsoft.Network/publicIPPrefixes/provisioningState|TRIAL|
+|[publicIPAddressVersion](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/publicIPAddressVersion)|UNKNOWN|Microsoft.Network/publicIPPrefixes/publicIPAddressVersion|TRIAL|
+|[publicIPAddresses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/publicIPAddresses)|UNKNOWN|Microsoft.Network/publicIPPrefixes/publicIPAddresses|TRIAL|
+|[publicIPAddresses[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/publicIPAddresses[*])|UNKNOWN|Microsoft.Network/publicIPPrefixes/publicIPAddresses[*]|TRIAL|
+|[publicIPAddresses[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id)|UNKNOWN|Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id|TRIAL|
+|[resourceGuid](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/resourceGuid)|UNKNOWN|Microsoft.Network/publicIPPrefixes/resourceGuid|TRIAL|
+|[sku](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/sku)|UNKNOWN|Microsoft.Network/publicIPPrefixes/sku|TRIAL|
+|[sku.name](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/sku.name)|UNKNOWN|Microsoft.Network/publicIPPrefixes/sku.name|TRIAL|
+|[zones](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/zones)|UNKNOWN|Microsoft.Network/publicIPPrefixes/zones|TRIAL|
+|[zones[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/publicIPPrefixes/zones[*])|UNKNOWN|Microsoft.Network/publicIPPrefixes/zones[*]|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

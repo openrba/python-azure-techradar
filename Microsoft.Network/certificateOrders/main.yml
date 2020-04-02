@@ -2,7 +2,7 @@ certificates:
   path: Microsoft.Network/certificateOrders/certificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/certificateOrders/certificates/README.md
+  url: Microsoft.Network/certificateOrders/certificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

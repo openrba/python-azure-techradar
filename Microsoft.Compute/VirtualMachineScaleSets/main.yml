@@ -2,7 +2,7 @@ computerNamePrefix:
   path: Microsoft.Compute/VirtualMachineScaleSets/computerNamePrefix
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/computerNamePrefix/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/computerNamePrefix
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ extensionProfile:
   path: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ extensionProfile.extensions[*]:
   path: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*]/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ extensionProfile.extensions[*].autoUpgradeMinorVersion:
   path: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].autoUpgradeMinorVersion
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].autoUpgradeMinorVersion/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].autoUpgradeMinorVersion
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ extensionProfile.extensions[*].enableAutomaticUpgrade:
   path: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].enableAutomaticUpgrade
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].enableAutomaticUpgrade/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].enableAutomaticUpgrade
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ extensionProfile.extensions[*].name:
   path: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].name/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ extensionProfile.extensions[*].provisioningState:
   path: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].provisioningState/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ extensionProfile.extensions[*].publisher:
   path: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].publisher
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].publisher/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].publisher
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ extensionProfile.extensions[*].settings:
   path: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].settings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].settings/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].settings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ extensionProfile.extensions[*].settings.workspaceId:
   path: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].settings.workspaceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].settings.workspaceId/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].settings.workspaceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ extensionProfile.extensions[*].type:
   path: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].type/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ extensionProfile.extensions[*].typeHandlerVersion:
   path: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].typeHandlerVersion
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].typeHandlerVersion/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/extensionProfile.extensions[*].typeHandlerVersion
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ networkInterfaceConfigurations[*].enableIPForwarding:
   path: Microsoft.Compute/VirtualMachineScaleSets/networkInterfaceConfigurations[*].enableIPForwarding
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/networkInterfaceConfigurations[*].enableIPForwarding/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/networkInterfaceConfigurations[*].enableIPForwarding
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ networkInterfaceConfigurations[*].ipConfigurations[*].subnet.id:
   path: Microsoft.Compute/VirtualMachineScaleSets/networkInterfaceConfigurations[*].ipConfigurations[*].subnet.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/networkInterfaceConfigurations[*].ipConfigurations[*].subnet.id/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/networkInterfaceConfigurations[*].ipConfigurations[*].subnet.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ networkInterfaceConfigurations[*].networkSecurityGroup.id:
   path: Microsoft.Compute/VirtualMachineScaleSets/networkInterfaceConfigurations[*].networkSecurityGroup.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/networkInterfaceConfigurations[*].networkSecurityGroup.id/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/networkInterfaceConfigurations[*].networkSecurityGroup.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ networkProfile.healthProbe.id:
   path: Microsoft.Compute/VirtualMachineScaleSets/networkProfile.healthProbe.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/networkProfile.healthProbe.id/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/networkProfile.healthProbe.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ osDisk.caching:
   path: Microsoft.Compute/VirtualMachineScaleSets/osDisk.caching
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osDisk.caching/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osDisk.caching
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ osDisk.createOption:
   path: Microsoft.Compute/VirtualMachineScaleSets/osDisk.createOption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osDisk.createOption/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osDisk.createOption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ osDisk.managedDisk.storageAccountType:
   path: Microsoft.Compute/VirtualMachineScaleSets/osDisk.managedDisk.storageAccountType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osDisk.managedDisk.storageAccountType/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osDisk.managedDisk.storageAccountType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ osDisk.name:
   path: Microsoft.Compute/VirtualMachineScaleSets/osDisk.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osDisk.name/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osDisk.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ osProfile.adminPassword:
   path: Microsoft.Compute/VirtualMachineScaleSets/osProfile.adminPassword
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.adminPassword/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.adminPassword
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ osProfile.adminUsername:
   path: Microsoft.Compute/VirtualMachineScaleSets/osProfile.adminUsername
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.adminUsername/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.adminUsername
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ osProfile.linuxConfiguration:
   path: Microsoft.Compute/VirtualMachineScaleSets/osProfile.linuxConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.linuxConfiguration/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.linuxConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ osProfile.linuxConfiguration.disablePasswordAuthentication:
   path: Microsoft.Compute/VirtualMachineScaleSets/osProfile.linuxConfiguration.disablePasswordAuthentication
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.linuxConfiguration.disablePasswordAuthentication/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.linuxConfiguration.disablePasswordAuthentication
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ osProfile.windowsConfiguration:
   path: Microsoft.Compute/VirtualMachineScaleSets/osProfile.windowsConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.windowsConfiguration/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.windowsConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ osProfile.windowsConfiguration.enableAutomaticUpdates:
   path: Microsoft.Compute/VirtualMachineScaleSets/osProfile.windowsConfiguration.enableAutomaticUpdates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.windowsConfiguration.enableAutomaticUpdates/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.windowsConfiguration.enableAutomaticUpdates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ osProfile.windowsConfiguration.provisionVMAgent:
   path: Microsoft.Compute/VirtualMachineScaleSets/osProfile.windowsConfiguration.provisionVMAgent
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.windowsConfiguration.provisionVMAgent/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osProfile.windowsConfiguration.provisionVMAgent
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ osdisk.imageUrl:
   path: Microsoft.Compute/VirtualMachineScaleSets/osdisk.imageUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osdisk.imageUrl/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osdisk.imageUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ osdisk.vhdContainers:
   path: Microsoft.Compute/VirtualMachineScaleSets/osdisk.vhdContainers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/osdisk.vhdContainers/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/osdisk.vhdContainers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ sku.name:
   path: Microsoft.Compute/VirtualMachineScaleSets/sku.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/sku.name/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/sku.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ sku.tier:
   path: Microsoft.Compute/VirtualMachineScaleSets/sku.tier
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/sku.tier/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/sku.tier
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ upgradePolicy.automaticOSUpgrade:
   path: Microsoft.Compute/VirtualMachineScaleSets/upgradePolicy.automaticOSUpgrade
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/upgradePolicy.automaticOSUpgrade/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/upgradePolicy.automaticOSUpgrade
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ virtualMachineProfile:
   path: Microsoft.Compute/VirtualMachineScaleSets/virtualMachineProfile
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/VirtualMachineScaleSets/virtualMachineProfile/README.md
+  url: Microsoft.Compute/VirtualMachineScaleSets/virtualMachineProfile
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

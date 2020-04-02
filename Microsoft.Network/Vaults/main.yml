@@ -2,7 +2,7 @@ backupFabrics:
   path: Microsoft.Network/Vaults/backupFabrics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Vaults/backupFabrics/README.md
+  url: Microsoft.Network/Vaults/backupFabrics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ backupPolicies:
   path: Microsoft.Network/Vaults/backupPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Vaults/backupPolicies/README.md
+  url: Microsoft.Network/Vaults/backupPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ backupstorageconfig:
   path: Microsoft.Network/Vaults/backupstorageconfig
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Vaults/backupstorageconfig/README.md
+  url: Microsoft.Network/Vaults/backupstorageconfig
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ extendedInformation:
   path: Microsoft.Network/Vaults/extendedInformation
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Vaults/extendedInformation/README.md
+  url: Microsoft.Network/Vaults/extendedInformation
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

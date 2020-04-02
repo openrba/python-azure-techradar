@@ -2,7 +2,7 @@ columns:
   path: Microsoft.Network/servers/databases/schemas/tables/columns
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/schemas/tables/columns/README.md
+  url: Microsoft.Network/servers/databases/schemas/tables/columns
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ disks:
   path: Microsoft.Compute/managers/devices/iscsiservers/disks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managers/devices/iscsiservers/disks/README.md
+  url: Microsoft.Compute/managers/devices/iscsiservers/disks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

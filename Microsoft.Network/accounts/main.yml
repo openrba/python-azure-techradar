@@ -2,7 +2,7 @@ computePolicies:
   path: Microsoft.Network/accounts/computePolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/computePolicies/README.md
+  url: Microsoft.Network/accounts/computePolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ dataLakeStoreAccounts:
   path: Microsoft.Network/accounts/dataLakeStoreAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/dataLakeStoreAccounts/README.md
+  url: Microsoft.Network/accounts/dataLakeStoreAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ eventGridFilters:
   path: Microsoft.Network/accounts/eventGridFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/eventGridFilters/README.md
+  url: Microsoft.Network/accounts/eventGridFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ firewallRules:
   path: Microsoft.Network/accounts/firewallRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/firewallRules/README.md
+  url: Microsoft.Network/accounts/firewallRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ privateAtlases:
   path: Microsoft.Network/accounts/privateAtlases
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/privateAtlases/README.md
+  url: Microsoft.Network/accounts/privateAtlases
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ shares:
   path: Microsoft.Network/accounts/shares
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/shares/README.md
+  url: Microsoft.Network/accounts/shares
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ sharesubscriptions:
   path: Microsoft.Network/accounts/sharesubscriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/sharesubscriptions/README.md
+  url: Microsoft.Network/accounts/sharesubscriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ storageAccounts:
   path: Microsoft.Network/accounts/storageAccounts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/storageAccounts/README.md
+  url: Microsoft.Network/accounts/storageAccounts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ trustedIdProviders:
   path: Microsoft.Network/accounts/trustedIdProviders
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/trustedIdProviders/README.md
+  url: Microsoft.Network/accounts/trustedIdProviders
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ virtualNetworkRules:
   path: Microsoft.Network/accounts/virtualNetworkRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/virtualNetworkRules/README.md
+  url: Microsoft.Network/accounts/virtualNetworkRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

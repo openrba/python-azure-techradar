@@ -2,7 +2,7 @@ A:
   path: Microsoft.Compute/dnszones/A
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/dnszones/A/README.md
+  url: Microsoft.Compute/dnszones/A
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ AAAA:
   path: Microsoft.Compute/dnszones/AAAA
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/dnszones/AAAA/README.md
+  url: Microsoft.Compute/dnszones/AAAA
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ CAA:
   path: Microsoft.Compute/dnszones/CAA
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/dnszones/CAA/README.md
+  url: Microsoft.Compute/dnszones/CAA
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ CNAME:
   path: Microsoft.Compute/dnszones/CNAME
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/dnszones/CNAME/README.md
+  url: Microsoft.Compute/dnszones/CNAME
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ MX:
   path: Microsoft.Compute/dnszones/MX
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/dnszones/MX/README.md
+  url: Microsoft.Compute/dnszones/MX
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ NS:
   path: Microsoft.Compute/dnszones/NS
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/dnszones/NS/README.md
+  url: Microsoft.Compute/dnszones/NS
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ PTR:
   path: Microsoft.Compute/dnszones/PTR
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/dnszones/PTR/README.md
+  url: Microsoft.Compute/dnszones/PTR
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ SOA:
   path: Microsoft.Compute/dnszones/SOA
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/dnszones/SOA/README.md
+  url: Microsoft.Compute/dnszones/SOA
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ SRV:
   path: Microsoft.Compute/dnszones/SRV
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/dnszones/SRV/README.md
+  url: Microsoft.Compute/dnszones/SRV
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ TXT:
   path: Microsoft.Compute/dnszones/TXT
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/dnszones/TXT/README.md
+  url: Microsoft.Compute/dnszones/TXT
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ all:
   path: Microsoft.Compute/dnszones/all
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/dnszones/all/README.md
+  url: Microsoft.Compute/dnszones/all
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ recordsets:
   path: Microsoft.Compute/dnszones/recordsets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/dnszones/recordsets/README.md
+  url: Microsoft.Compute/dnszones/recordsets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

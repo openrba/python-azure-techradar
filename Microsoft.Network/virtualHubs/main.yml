@@ -2,7 +2,7 @@ addressPrefix:
   path: Microsoft.Network/virtualHubs/addressPrefix
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/addressPrefix/README.md
+  url: Microsoft.Network/virtualHubs/addressPrefix
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ azureFirewall:
   path: Microsoft.Network/virtualHubs/azureFirewall
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/azureFirewall/README.md
+  url: Microsoft.Network/virtualHubs/azureFirewall
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ azureFirewall.id:
   path: Microsoft.Network/virtualHubs/azureFirewall.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/azureFirewall.id/README.md
+  url: Microsoft.Network/virtualHubs/azureFirewall.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ expressRouteGateway:
   path: Microsoft.Network/virtualHubs/expressRouteGateway
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/expressRouteGateway/README.md
+  url: Microsoft.Network/virtualHubs/expressRouteGateway
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ expressRouteGateway.id:
   path: Microsoft.Network/virtualHubs/expressRouteGateway.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/expressRouteGateway.id/README.md
+  url: Microsoft.Network/virtualHubs/expressRouteGateway.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ hubVirtualNetworkConnections:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ hubVirtualNetworkConnections[*]:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*]/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ hubVirtualNetworkConnections[*].allowHubToRemoteVnetTransit:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].allowHubToRemoteVnetTransit
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].allowHubToRemoteVnetTransit/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].allowHubToRemoteVnetTransit
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ hubVirtualNetworkConnections[*].allowRemoteVnetToUseHubVnetGateways:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].allowRemoteVnetToUseHubVnetGateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].allowRemoteVnetToUseHubVnetGateways/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].allowRemoteVnetToUseHubVnetGateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ hubVirtualNetworkConnections[*].etag:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].etag/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ hubVirtualNetworkConnections[*].id:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].id/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ hubVirtualNetworkConnections[*].location:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].location
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].location/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].location
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ hubVirtualNetworkConnections[*].name:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].name/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ hubVirtualNetworkConnections[*].provisioningState:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].provisioningState/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ hubVirtualNetworkConnections[*].remoteVirtualNetwork:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].remoteVirtualNetwork
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].remoteVirtualNetwork/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].remoteVirtualNetwork
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ hubVirtualNetworkConnections[*].remoteVirtualNetwork.id:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].remoteVirtualNetwork.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].remoteVirtualNetwork.id/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].remoteVirtualNetwork.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ hubVirtualNetworkConnections[*].tags:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].tags/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ hubVirtualNetworkConnections[*].type:
   path: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].type/README.md
+  url: Microsoft.Network/virtualHubs/hubVirtualNetworkConnections[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ p2SVpnGateway:
   path: Microsoft.Network/virtualHubs/p2SVpnGateway
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/p2SVpnGateway/README.md
+  url: Microsoft.Network/virtualHubs/p2SVpnGateway
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ p2SVpnGateway.id:
   path: Microsoft.Network/virtualHubs/p2SVpnGateway.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/p2SVpnGateway.id/README.md
+  url: Microsoft.Network/virtualHubs/p2SVpnGateway.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ provisioningState:
   path: Microsoft.Network/virtualHubs/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/provisioningState/README.md
+  url: Microsoft.Network/virtualHubs/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ routeTable:
   path: Microsoft.Network/virtualHubs/routeTable
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTable/README.md
+  url: Microsoft.Network/virtualHubs/routeTable
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ routeTable.routes:
   path: Microsoft.Network/virtualHubs/routeTable.routes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTable.routes/README.md
+  url: Microsoft.Network/virtualHubs/routeTable.routes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ routeTable.routes[*]:
   path: Microsoft.Network/virtualHubs/routeTable.routes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTable.routes[*]/README.md
+  url: Microsoft.Network/virtualHubs/routeTable.routes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ routeTable.routes[*].addressPrefixes:
   path: Microsoft.Network/virtualHubs/routeTable.routes[*].addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTable.routes[*].addressPrefixes/README.md
+  url: Microsoft.Network/virtualHubs/routeTable.routes[*].addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ routeTable.routes[*].addressPrefixes[*]:
   path: Microsoft.Network/virtualHubs/routeTable.routes[*].addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTable.routes[*].addressPrefixes[*]/README.md
+  url: Microsoft.Network/virtualHubs/routeTable.routes[*].addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ routeTable.routes[*].nextHopIpAddress:
   path: Microsoft.Network/virtualHubs/routeTable.routes[*].nextHopIpAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTable.routes[*].nextHopIpAddress/README.md
+  url: Microsoft.Network/virtualHubs/routeTable.routes[*].nextHopIpAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ routeTables:
   path: Microsoft.Network/virtualHubs/routeTables
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTables/README.md
+  url: Microsoft.Network/virtualHubs/routeTables
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ securityProviderName:
   path: Microsoft.Network/virtualHubs/securityProviderName
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/securityProviderName/README.md
+  url: Microsoft.Network/virtualHubs/securityProviderName
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ sku:
   path: Microsoft.Network/virtualHubs/sku
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/sku/README.md
+  url: Microsoft.Network/virtualHubs/sku
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ virtualHubRouteTableV2s:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ virtualHubRouteTableV2s[*]:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*]/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ virtualHubRouteTableV2s[*].attachedConnections:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].attachedConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].attachedConnections/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].attachedConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ virtualHubRouteTableV2s[*].attachedConnections[*]:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].attachedConnections[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].attachedConnections[*]/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].attachedConnections[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ virtualHubRouteTableV2s[*].etag:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].etag/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ virtualHubRouteTableV2s[*].id:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].id/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ virtualHubRouteTableV2s[*].name:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].name/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ virtualHubRouteTableV2s[*].provisioningState:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].provisioningState/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ virtualHubRouteTableV2s[*].routes:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ virtualHubRouteTableV2s[*].routes[*]:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*]/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ virtualHubRouteTableV2s[*].routes[*].destinationType:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].destinationType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].destinationType/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].destinationType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ virtualHubRouteTableV2s[*].routes[*].destinations:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].destinations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].destinations/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].destinations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ virtualHubRouteTableV2s[*].routes[*].destinations[*]:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].destinations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].destinations[*]/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].destinations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ virtualHubRouteTableV2s[*].routes[*].nextHopType:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].nextHopType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].nextHopType/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].nextHopType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ virtualHubRouteTableV2s[*].routes[*].nextHops:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].nextHops
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].nextHops/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].nextHops
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -767,7 +767,7 @@ virtualHubRouteTableV2s[*].routes[*].nextHops[*]:
   path: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].nextHops[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].nextHops[*]/README.md
+  url: Microsoft.Network/virtualHubs/virtualHubRouteTableV2s[*].routes[*].nextHops[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -784,7 +784,7 @@ virtualNetworkConnections:
   path: Microsoft.Network/virtualHubs/virtualNetworkConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualNetworkConnections/README.md
+  url: Microsoft.Network/virtualHubs/virtualNetworkConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -801,7 +801,7 @@ virtualNetworkConnections[*]:
   path: Microsoft.Network/virtualHubs/virtualNetworkConnections[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*]/README.md
+  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -818,7 +818,7 @@ virtualNetworkConnections[*].allowHubToRemoteVnetTransit:
   path: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].allowHubToRemoteVnetTransit
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].allowHubToRemoteVnetTransit/README.md
+  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].allowHubToRemoteVnetTransit
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -835,7 +835,7 @@ virtualNetworkConnections[*].allowRemoteVnetToUseHubVnetGateways:
   path: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].allowRemoteVnetToUseHubVnetGateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].allowRemoteVnetToUseHubVnetGateways/README.md
+  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].allowRemoteVnetToUseHubVnetGateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -852,7 +852,7 @@ virtualNetworkConnections[*].enableInternetSecurity:
   path: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].enableInternetSecurity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].enableInternetSecurity/README.md
+  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].enableInternetSecurity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -869,7 +869,7 @@ virtualNetworkConnections[*].etag:
   path: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].etag/README.md
+  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -886,7 +886,7 @@ virtualNetworkConnections[*].id:
   path: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].id/README.md
+  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -903,7 +903,7 @@ virtualNetworkConnections[*].name:
   path: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].name/README.md
+  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -920,7 +920,7 @@ virtualNetworkConnections[*].provisioningState:
   path: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].provisioningState/README.md
+  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -937,7 +937,7 @@ virtualNetworkConnections[*].remoteVirtualNetwork:
   path: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].remoteVirtualNetwork
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].remoteVirtualNetwork/README.md
+  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].remoteVirtualNetwork
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -954,7 +954,7 @@ virtualNetworkConnections[*].remoteVirtualNetwork.id:
   path: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].remoteVirtualNetwork.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].remoteVirtualNetwork.id/README.md
+  url: Microsoft.Network/virtualHubs/virtualNetworkConnections[*].remoteVirtualNetwork.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -971,7 +971,7 @@ virtualWan:
   path: Microsoft.Network/virtualHubs/virtualWan
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualWan/README.md
+  url: Microsoft.Network/virtualHubs/virtualWan
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -988,7 +988,7 @@ virtualWan.id:
   path: Microsoft.Network/virtualHubs/virtualWan.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/virtualWan.id/README.md
+  url: Microsoft.Network/virtualHubs/virtualWan.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1005,7 +1005,7 @@ vpnGateway:
   path: Microsoft.Network/virtualHubs/vpnGateway
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/vpnGateway/README.md
+  url: Microsoft.Network/virtualHubs/vpnGateway
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1022,7 +1022,7 @@ vpnGateway.id:
   path: Microsoft.Network/virtualHubs/vpnGateway.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/vpnGateway.id/README.md
+  url: Microsoft.Network/virtualHubs/vpnGateway.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

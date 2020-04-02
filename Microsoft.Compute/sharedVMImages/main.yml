@@ -2,7 +2,7 @@ versions:
   path: Microsoft.Compute/sharedVMImages/versions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/sharedVMImages/versions/README.md
+  url: Microsoft.Compute/sharedVMImages/versions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

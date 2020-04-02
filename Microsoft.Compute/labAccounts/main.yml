@@ -2,7 +2,7 @@ galleryImages:
   path: Microsoft.Compute/labAccounts/galleryImages
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labAccounts/galleryImages/README.md
+  url: Microsoft.Compute/labAccounts/galleryImages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ labs:
   path: Microsoft.Compute/labAccounts/labs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labAccounts/labs/README.md
+  url: Microsoft.Compute/labAccounts/labs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

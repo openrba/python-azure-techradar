@@ -2,7 +2,7 @@ getCallbackConfig:
   path: Microsoft.Network/registries/webhooks/getCallbackConfig
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/webhooks/getCallbackConfig/README.md
+  url: Microsoft.Network/registries/webhooks/getCallbackConfig
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ listEvents:
   path: Microsoft.Network/registries/webhooks/listEvents
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/webhooks/listEvents/README.md
+  url: Microsoft.Network/registries/webhooks/listEvents
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ ping:
   path: Microsoft.Network/registries/webhooks/ping
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/webhooks/ping/README.md
+  url: Microsoft.Network/registries/webhooks/ping
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

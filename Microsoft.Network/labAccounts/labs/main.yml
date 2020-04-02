@@ -2,7 +2,7 @@ environmentSettings:
   path: Microsoft.Network/labAccounts/labs/environmentSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/labAccounts/labs/environmentSettings/README.md
+  url: Microsoft.Network/labAccounts/labs/environmentSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ users:
   path: Microsoft.Network/labAccounts/labs/users
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/labAccounts/labs/users/README.md
+  url: Microsoft.Network/labAccounts/labs/users
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

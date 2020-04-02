@@ -2,7 +2,7 @@ tokens:
   path: Microsoft.Network/stores/services/tokens
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/stores/services/tokens/README.md
+  url: Microsoft.Network/stores/services/tokens
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ protectedItems:
   path: Microsoft.Compute/Vaults/backupFabrics/protectionContainers/protectedItems
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/Vaults/backupFabrics/protectionContainers/protectedItems/README.md
+  url: Microsoft.Compute/Vaults/backupFabrics/protectionContainers/protectedItems
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

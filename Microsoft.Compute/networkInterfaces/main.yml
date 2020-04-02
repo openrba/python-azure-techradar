@@ -2,7 +2,7 @@ tapConfigurations:
   path: Microsoft.Compute/networkInterfaces/tapConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/networkInterfaces/tapConfigurations/README.md
+  url: Microsoft.Compute/networkInterfaces/tapConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

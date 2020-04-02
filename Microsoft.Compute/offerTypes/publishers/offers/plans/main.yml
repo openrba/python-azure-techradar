@@ -2,7 +2,7 @@ agreements:
   path: Microsoft.Compute/offerTypes/publishers/offers/plans/agreements
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/offerTypes/publishers/offers/plans/agreements/README.md
+  url: Microsoft.Compute/offerTypes/publishers/offers/plans/agreements
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ configs:
   path: Microsoft.Compute/offerTypes/publishers/offers/plans/configs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/offerTypes/publishers/offers/plans/configs/README.md
+  url: Microsoft.Compute/offerTypes/publishers/offers/plans/configs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ locations:
   path: Microsoft.Compute/subscriptions/locations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/subscriptions/locations/README.md
+  url: Microsoft.Compute/subscriptions/locations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ operationresults:
   path: Microsoft.Compute/subscriptions/operationresults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/subscriptions/operationresults/README.md
+  url: Microsoft.Compute/subscriptions/operationresults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ providers:
   path: Microsoft.Compute/subscriptions/providers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/subscriptions/providers/README.md
+  url: Microsoft.Compute/subscriptions/providers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ resourceGroups:
   path: Microsoft.Compute/subscriptions/resourceGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/subscriptions/resourceGroups/README.md
+  url: Microsoft.Compute/subscriptions/resourceGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ resourcegroups:
   path: Microsoft.Compute/subscriptions/resourcegroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/subscriptions/resourcegroups/README.md
+  url: Microsoft.Compute/subscriptions/resourcegroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ resources:
   path: Microsoft.Compute/subscriptions/resources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/subscriptions/resources/README.md
+  url: Microsoft.Compute/subscriptions/resources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ tagNames:
   path: Microsoft.Compute/subscriptions/tagNames
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/subscriptions/tagNames/README.md
+  url: Microsoft.Compute/subscriptions/tagNames
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ tagnames:
   path: Microsoft.Compute/subscriptions/tagnames
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/subscriptions/tagnames/README.md
+  url: Microsoft.Compute/subscriptions/tagnames
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

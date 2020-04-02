@@ -2,7 +2,7 @@ networkInterfaces:
   path: Microsoft.Network/virtualMachineScaleSets/virtualMachines/networkInterfaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualMachineScaleSets/virtualMachines/networkInterfaces/README.md
+  url: Microsoft.Network/virtualMachineScaleSets/virtualMachines/networkInterfaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

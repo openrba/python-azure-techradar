@@ -2,7 +2,7 @@ attachedConnections:
   path: Microsoft.Network/virtualHubs/routeTables/attachedConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTables/attachedConnections/README.md
+  url: Microsoft.Network/virtualHubs/routeTables/attachedConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ attachedConnections[*]:
   path: Microsoft.Network/virtualHubs/routeTables/attachedConnections[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTables/attachedConnections[*]/README.md
+  url: Microsoft.Network/virtualHubs/routeTables/attachedConnections[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ provisioningState:
   path: Microsoft.Network/virtualHubs/routeTables/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTables/provisioningState/README.md
+  url: Microsoft.Network/virtualHubs/routeTables/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ routes:
   path: Microsoft.Network/virtualHubs/routeTables/routes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTables/routes/README.md
+  url: Microsoft.Network/virtualHubs/routeTables/routes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ routes[*]:
   path: Microsoft.Network/virtualHubs/routeTables/routes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTables/routes[*]/README.md
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ routes[*].destinationType:
   path: Microsoft.Network/virtualHubs/routeTables/routes[*].destinationType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTables/routes[*].destinationType/README.md
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*].destinationType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ routes[*].destinations:
   path: Microsoft.Network/virtualHubs/routeTables/routes[*].destinations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTables/routes[*].destinations/README.md
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*].destinations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ routes[*].destinations[*]:
   path: Microsoft.Network/virtualHubs/routeTables/routes[*].destinations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTables/routes[*].destinations[*]/README.md
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*].destinations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ routes[*].nextHopType:
   path: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHopType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHopType/README.md
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHopType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ routes[*].nextHops:
   path: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops/README.md
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ routes[*].nextHops[*]:
   path: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops[*]/README.md
+  url: Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

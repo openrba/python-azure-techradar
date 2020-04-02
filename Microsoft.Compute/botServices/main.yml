@@ -2,7 +2,7 @@ channels:
   path: Microsoft.Compute/botServices/channels
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/botServices/channels/README.md
+  url: Microsoft.Compute/botServices/channels
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ connections:
   path: Microsoft.Compute/botServices/connections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/botServices/connections/README.md
+  url: Microsoft.Compute/botServices/connections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

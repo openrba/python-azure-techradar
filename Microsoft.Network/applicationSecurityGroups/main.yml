@@ -2,7 +2,7 @@ provisioningState:
   path: Microsoft.Network/applicationSecurityGroups/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applicationSecurityGroups/provisioningState/README.md
+  url: Microsoft.Network/applicationSecurityGroups/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ resourceGuid:
   path: Microsoft.Network/applicationSecurityGroups/resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/applicationSecurityGroups/resourceGuid/README.md
+  url: Microsoft.Network/applicationSecurityGroups/resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

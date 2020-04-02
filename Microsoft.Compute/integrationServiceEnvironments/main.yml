@@ -2,7 +2,7 @@ managedApis:
   path: Microsoft.Compute/integrationServiceEnvironments/managedApis
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/integrationServiceEnvironments/managedApis/README.md
+  url: Microsoft.Compute/integrationServiceEnvironments/managedApis
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

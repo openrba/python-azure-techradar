@@ -2,7 +2,7 @@ serviceEndpointPolicyDefinitions:
   path: Microsoft.Compute/serviceEndpointPolicies/serviceEndpointPolicyDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/README.md
+  url: Microsoft.Compute/serviceEndpointPolicies/serviceEndpointPolicyDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

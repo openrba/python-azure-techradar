@@ -2,7 +2,7 @@ operations:
   path: Microsoft.Network/deployments/operations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/deployments/operations/README.md
+  url: Microsoft.Network/deployments/operations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ peerings:
   path: Microsoft.Compute/expressRouteCrossConnections/peerings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/expressRouteCrossConnections/peerings/README.md
+  url: Microsoft.Compute/expressRouteCrossConnections/peerings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

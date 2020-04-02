@@ -2,7 +2,7 @@ customdomains:
   path: Microsoft.Network/profiles/endpoints/customdomains
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/profiles/endpoints/customdomains/README.md
+  url: Microsoft.Network/profiles/endpoints/customdomains
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ origingroups:
   path: Microsoft.Network/profiles/endpoints/origingroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/profiles/endpoints/origingroups/README.md
+  url: Microsoft.Network/profiles/endpoints/origingroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ origins:
   path: Microsoft.Network/profiles/endpoints/origins
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/profiles/endpoints/origins/README.md
+  url: Microsoft.Network/profiles/endpoints/origins
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

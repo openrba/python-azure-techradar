@@ -2,7 +2,7 @@ schedules:
   path: Microsoft.Network/labs/virtualMachines/schedules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/labs/virtualMachines/schedules/README.md
+  url: Microsoft.Network/labs/virtualMachines/schedules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

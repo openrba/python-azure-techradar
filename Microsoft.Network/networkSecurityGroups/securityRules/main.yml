@@ -2,7 +2,7 @@ access:
   path: Microsoft.Network/networkSecurityGroups/securityRules/access
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/access/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/access
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ description:
   path: Microsoft.Network/networkSecurityGroups/securityRules/description
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/description/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/description
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ destinationAddressPrefix:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationAddressPrefix
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationAddressPrefix/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationAddressPrefix
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ destinationAddressPrefixes:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationAddressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationAddressPrefixes/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationAddressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ destinationAddressPrefixes[*]:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationAddressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationAddressPrefixes[*]/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationAddressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ destinationApplicationSecurityGroups:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ destinationApplicationSecurityGroups[*]:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*]/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ destinationApplicationSecurityGroups[*].etag:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].etag/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ destinationApplicationSecurityGroups[*].id:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].id/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ destinationApplicationSecurityGroups[*].location:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].location
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].location/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].location
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ destinationApplicationSecurityGroups[*].name:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].name/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ destinationApplicationSecurityGroups[*].provisioningState:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].provisioningState/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ destinationApplicationSecurityGroups[*].resourceGuid:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].resourceGuid/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ destinationApplicationSecurityGroups[*].tags:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].tags/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ destinationApplicationSecurityGroups[*].type:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].type/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ destinationPortRange:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationPortRange
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationPortRange/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationPortRange
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ destinationPortRanges:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationPortRanges
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationPortRanges/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationPortRanges
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ destinationPortRanges[*]:
   path: Microsoft.Network/networkSecurityGroups/securityRules/destinationPortRanges[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationPortRanges[*]/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/destinationPortRanges[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ direction:
   path: Microsoft.Network/networkSecurityGroups/securityRules/direction
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/direction/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/direction
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ priority:
   path: Microsoft.Network/networkSecurityGroups/securityRules/priority
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/priority/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/priority
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ protocol:
   path: Microsoft.Network/networkSecurityGroups/securityRules/protocol
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/protocol/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/protocol
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ provisioningState:
   path: Microsoft.Network/networkSecurityGroups/securityRules/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/provisioningState/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ sourceAddressPrefix:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceAddressPrefix
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceAddressPrefix/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceAddressPrefix
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ sourceAddressPrefixes:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceAddressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceAddressPrefixes/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceAddressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ sourceAddressPrefixes[*]:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceAddressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceAddressPrefixes[*]/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceAddressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ sourceApplicationSecurityGroups:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ sourceApplicationSecurityGroups[*]:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*]/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ sourceApplicationSecurityGroups[*].etag:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].etag/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ sourceApplicationSecurityGroups[*].id:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].id/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ sourceApplicationSecurityGroups[*].location:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].location
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].location/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].location
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ sourceApplicationSecurityGroups[*].name:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].name/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ sourceApplicationSecurityGroups[*].provisioningState:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].provisioningState/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ sourceApplicationSecurityGroups[*].resourceGuid:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].resourceGuid/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ sourceApplicationSecurityGroups[*].tags:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].tags/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ sourceApplicationSecurityGroups[*].type:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].type/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourceApplicationSecurityGroups[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ sourcePortRange:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourcePortRange
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourcePortRange/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourcePortRange
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ sourcePortRanges:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourcePortRanges
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourcePortRanges/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourcePortRanges
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ sourcePortRanges[*]:
   path: Microsoft.Network/networkSecurityGroups/securityRules/sourcePortRanges[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkSecurityGroups/securityRules/sourcePortRanges[*]/README.md
+  url: Microsoft.Network/networkSecurityGroups/securityRules/sourcePortRanges[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -29,21 +29,27 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[attachedConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/attachedConnections/README.md)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/attachedConnections|TRIAL|
-|[attachedConnections[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/attachedConnections[*]/README.md)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/attachedConnections[*]|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/provisioningState/README.md)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/provisioningState|TRIAL|
-|[routes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes/README.md)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes|TRIAL|
-|[routes[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*]/README.md)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*]|TRIAL|
-|[routes[*].destinationType](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*].destinationType/README.md)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*].destinationType|TRIAL|
-|[routes[*].destinations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*].destinations/README.md)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*].destinations|TRIAL|
-|[routes[*].destinations[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*].destinations[*]/README.md)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*].destinations[*]|TRIAL|
-|[routes[*].nextHopType](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*].nextHopType/README.md)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*].nextHopType|TRIAL|
-|[routes[*].nextHops](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops/README.md)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops|TRIAL|
-|[routes[*].nextHops[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops[*]/README.md)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops[*]|TRIAL|
+|[attachedConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/attachedConnections)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/attachedConnections|TRIAL|
+|[attachedConnections[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/attachedConnections[*])|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/attachedConnections[*]|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/provisioningState)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/provisioningState|TRIAL|
+|[routes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes|TRIAL|
+|[routes[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*])|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*]|TRIAL|
+|[routes[*].destinationType](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*].destinationType)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*].destinationType|TRIAL|
+|[routes[*].destinations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*].destinations)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*].destinations|TRIAL|
+|[routes[*].destinations[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*].destinations[*])|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*].destinations[*]|TRIAL|
+|[routes[*].nextHopType](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*].nextHopType)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*].nextHopType|TRIAL|
+|[routes[*].nextHops](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops)|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops|TRIAL|
+|[routes[*].nextHops[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops[*])|UNKNOWN|Microsoft.Network/virtualHubs/routeTables/routes[*].nextHops[*]|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

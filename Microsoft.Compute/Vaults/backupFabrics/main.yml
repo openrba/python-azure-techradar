@@ -2,7 +2,7 @@ backupProtectionIntent:
   path: Microsoft.Compute/Vaults/backupFabrics/backupProtectionIntent
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/Vaults/backupFabrics/backupProtectionIntent/README.md
+  url: Microsoft.Compute/Vaults/backupFabrics/backupProtectionIntent
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ protectionContainers:
   path: Microsoft.Compute/Vaults/backupFabrics/protectionContainers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/Vaults/backupFabrics/protectionContainers/README.md
+  url: Microsoft.Compute/Vaults/backupFabrics/protectionContainers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

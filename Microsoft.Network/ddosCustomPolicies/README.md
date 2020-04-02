@@ -29,21 +29,27 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[protocolCustomSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings|TRIAL|
-|[protocolCustomSettings[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*]/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*]|TRIAL|
-|[protocolCustomSettings[*].protocol](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].protocol/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].protocol|TRIAL|
-|[protocolCustomSettings[*].sourceRateOverride](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].sourceRateOverride/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].sourceRateOverride|TRIAL|
-|[protocolCustomSettings[*].triggerRateOverride](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerRateOverride/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerRateOverride|TRIAL|
-|[protocolCustomSettings[*].triggerSensitivityOverride](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerSensitivityOverride/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerSensitivityOverride|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/provisioningState/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/provisioningState|TRIAL|
-|[publicIPAddresses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/publicIPAddresses/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/publicIPAddresses|TRIAL|
-|[publicIPAddresses[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*]/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*]|TRIAL|
-|[publicIPAddresses[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*].id/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*].id|TRIAL|
-|[resourceGuid](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/resourceGuid/README.md)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/resourceGuid|TRIAL|
+|[protocolCustomSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings|TRIAL|
+|[protocolCustomSettings[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*])|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*]|TRIAL|
+|[protocolCustomSettings[*].protocol](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].protocol)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].protocol|TRIAL|
+|[protocolCustomSettings[*].sourceRateOverride](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].sourceRateOverride)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].sourceRateOverride|TRIAL|
+|[protocolCustomSettings[*].triggerRateOverride](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerRateOverride)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerRateOverride|TRIAL|
+|[protocolCustomSettings[*].triggerSensitivityOverride](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerSensitivityOverride)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerSensitivityOverride|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/provisioningState)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/provisioningState|TRIAL|
+|[publicIPAddresses](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/publicIPAddresses)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/publicIPAddresses|TRIAL|
+|[publicIPAddresses[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*])|UNKNOWN|Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*]|TRIAL|
+|[publicIPAddresses[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*].id)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/publicIPAddresses[*].id|TRIAL|
+|[resourceGuid](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/ddosCustomPolicies/resourceGuid)|UNKNOWN|Microsoft.Network/ddosCustomPolicies/resourceGuid|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

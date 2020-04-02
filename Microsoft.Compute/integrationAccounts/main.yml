@@ -2,7 +2,7 @@ agreements:
   path: Microsoft.Compute/integrationAccounts/agreements
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/integrationAccounts/agreements/README.md
+  url: Microsoft.Compute/integrationAccounts/agreements
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ assemblies:
   path: Microsoft.Compute/integrationAccounts/assemblies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/integrationAccounts/assemblies/README.md
+  url: Microsoft.Compute/integrationAccounts/assemblies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ batchConfigurations:
   path: Microsoft.Compute/integrationAccounts/batchConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/integrationAccounts/batchConfigurations/README.md
+  url: Microsoft.Compute/integrationAccounts/batchConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ certificates:
   path: Microsoft.Compute/integrationAccounts/certificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/integrationAccounts/certificates/README.md
+  url: Microsoft.Compute/integrationAccounts/certificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ maps:
   path: Microsoft.Compute/integrationAccounts/maps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/integrationAccounts/maps/README.md
+  url: Microsoft.Compute/integrationAccounts/maps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ partners:
   path: Microsoft.Compute/integrationAccounts/partners
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/integrationAccounts/partners/README.md
+  url: Microsoft.Compute/integrationAccounts/partners
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ rosettaNetProcessConfigurations:
   path: Microsoft.Compute/integrationAccounts/rosettaNetProcessConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/integrationAccounts/rosettaNetProcessConfigurations/README.md
+  url: Microsoft.Compute/integrationAccounts/rosettaNetProcessConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ schemas:
   path: Microsoft.Compute/integrationAccounts/schemas
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/integrationAccounts/schemas/README.md
+  url: Microsoft.Compute/integrationAccounts/schemas
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ sessions:
   path: Microsoft.Compute/integrationAccounts/sessions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/integrationAccounts/sessions/README.md
+  url: Microsoft.Compute/integrationAccounts/sessions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

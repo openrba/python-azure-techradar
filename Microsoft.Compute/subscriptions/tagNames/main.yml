@@ -2,7 +2,7 @@ tagValues:
   path: Microsoft.Compute/subscriptions/tagNames/tagValues
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/subscriptions/tagNames/tagValues/README.md
+  url: Microsoft.Compute/subscriptions/tagNames/tagValues
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

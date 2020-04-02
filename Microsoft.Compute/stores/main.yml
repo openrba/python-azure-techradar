@@ -2,7 +2,7 @@ accessPolicies:
   path: Microsoft.Compute/stores/accessPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/stores/accessPolicies/README.md
+  url: Microsoft.Compute/stores/accessPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ services:
   path: Microsoft.Compute/stores/services
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/stores/services/README.md
+  url: Microsoft.Compute/stores/services
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

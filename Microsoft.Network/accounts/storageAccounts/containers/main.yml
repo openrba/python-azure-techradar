@@ -2,7 +2,7 @@ listSasTokens:
   path: Microsoft.Network/accounts/storageAccounts/containers/listSasTokens
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/storageAccounts/containers/listSasTokens/README.md
+  url: Microsoft.Network/accounts/storageAccounts/containers/listSasTokens
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

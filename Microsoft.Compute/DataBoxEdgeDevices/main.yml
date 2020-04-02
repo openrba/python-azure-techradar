@@ -2,7 +2,7 @@ checkNameAvailability:
   path: Microsoft.Compute/DataBoxEdgeDevices/checkNameAvailability
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/DataBoxEdgeDevices/checkNameAvailability/README.md
+  url: Microsoft.Compute/DataBoxEdgeDevices/checkNameAvailability
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

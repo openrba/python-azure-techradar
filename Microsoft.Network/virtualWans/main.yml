@@ -2,7 +2,7 @@ allowBranchToBranchTraffic:
   path: Microsoft.Network/virtualWans/allowBranchToBranchTraffic
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/allowBranchToBranchTraffic/README.md
+  url: Microsoft.Network/virtualWans/allowBranchToBranchTraffic
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ allowVnetToVnetTraffic:
   path: Microsoft.Network/virtualWans/allowVnetToVnetTraffic
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/allowVnetToVnetTraffic/README.md
+  url: Microsoft.Network/virtualWans/allowVnetToVnetTraffic
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ disableVpnEncryption:
   path: Microsoft.Network/virtualWans/disableVpnEncryption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/disableVpnEncryption/README.md
+  url: Microsoft.Network/virtualWans/disableVpnEncryption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ office365LocalBreakoutCategory:
   path: Microsoft.Network/virtualWans/office365LocalBreakoutCategory
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/office365LocalBreakoutCategory/README.md
+  url: Microsoft.Network/virtualWans/office365LocalBreakoutCategory
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ provisioningState:
   path: Microsoft.Network/virtualWans/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/provisioningState/README.md
+  url: Microsoft.Network/virtualWans/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ securityProviderName:
   path: Microsoft.Network/virtualWans/securityProviderName
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/securityProviderName/README.md
+  url: Microsoft.Network/virtualWans/securityProviderName
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ type:
   path: Microsoft.Network/virtualWans/type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/type/README.md
+  url: Microsoft.Network/virtualWans/type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ virtualHubs:
   path: Microsoft.Network/virtualWans/virtualHubs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/virtualHubs/README.md
+  url: Microsoft.Network/virtualWans/virtualHubs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ virtualHubs[*]:
   path: Microsoft.Network/virtualWans/virtualHubs[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/virtualHubs[*]/README.md
+  url: Microsoft.Network/virtualWans/virtualHubs[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ virtualHubs[*].id:
   path: Microsoft.Network/virtualWans/virtualHubs[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/virtualHubs[*].id/README.md
+  url: Microsoft.Network/virtualWans/virtualHubs[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ vpnSites:
   path: Microsoft.Network/virtualWans/vpnSites
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/vpnSites/README.md
+  url: Microsoft.Network/virtualWans/vpnSites
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ vpnSites[*]:
   path: Microsoft.Network/virtualWans/vpnSites[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/vpnSites[*]/README.md
+  url: Microsoft.Network/virtualWans/vpnSites[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ vpnSites[*].id:
   path: Microsoft.Network/virtualWans/vpnSites[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/virtualWans/vpnSites[*].id/README.md
+  url: Microsoft.Network/virtualWans/vpnSites[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

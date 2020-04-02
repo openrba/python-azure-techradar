@@ -29,20 +29,26 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[bgpSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/bgpSettings/README.md)|UNKNOWN|Microsoft.Network/localNetworkGateways/bgpSettings|TRIAL|
-|[bgpSettings.asn](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/bgpSettings.asn/README.md)|UNKNOWN|Microsoft.Network/localNetworkGateways/bgpSettings.asn|TRIAL|
-|[bgpSettings.bgpPeeringAddress](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress/README.md)|UNKNOWN|Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress|TRIAL|
-|[bgpSettings.peerWeight](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight/README.md)|UNKNOWN|Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight|TRIAL|
-|[gatewayIpAddress](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/gatewayIpAddress/README.md)|UNKNOWN|Microsoft.Network/localNetworkGateways/gatewayIpAddress|TRIAL|
-|[localNetworkAddressSpace](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace/README.md)|UNKNOWN|Microsoft.Network/localNetworkGateways/localNetworkAddressSpace|TRIAL|
-|[localNetworkAddressSpace.addressPrefixes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes/README.md)|UNKNOWN|Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes|TRIAL|
-|[localNetworkAddressSpace.addressPrefixes[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*]/README.md)|UNKNOWN|Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*]|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/provisioningState/README.md)|UNKNOWN|Microsoft.Network/localNetworkGateways/provisioningState|TRIAL|
-|[resourceGuid](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/resourceGuid/README.md)|UNKNOWN|Microsoft.Network/localNetworkGateways/resourceGuid|TRIAL|
+|[bgpSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/bgpSettings)|UNKNOWN|Microsoft.Network/localNetworkGateways/bgpSettings|TRIAL|
+|[bgpSettings.asn](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/bgpSettings.asn)|UNKNOWN|Microsoft.Network/localNetworkGateways/bgpSettings.asn|TRIAL|
+|[bgpSettings.bgpPeeringAddress](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress)|UNKNOWN|Microsoft.Network/localNetworkGateways/bgpSettings.bgpPeeringAddress|TRIAL|
+|[bgpSettings.peerWeight](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight)|UNKNOWN|Microsoft.Network/localNetworkGateways/bgpSettings.peerWeight|TRIAL|
+|[gatewayIpAddress](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/gatewayIpAddress)|UNKNOWN|Microsoft.Network/localNetworkGateways/gatewayIpAddress|TRIAL|
+|[localNetworkAddressSpace](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace)|UNKNOWN|Microsoft.Network/localNetworkGateways/localNetworkAddressSpace|TRIAL|
+|[localNetworkAddressSpace.addressPrefixes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes)|UNKNOWN|Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes|TRIAL|
+|[localNetworkAddressSpace.addressPrefixes[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*])|UNKNOWN|Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.addressPrefixes[*]|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/provisioningState)|UNKNOWN|Microsoft.Network/localNetworkGateways/provisioningState|TRIAL|
+|[resourceGuid](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/localNetworkGateways/resourceGuid)|UNKNOWN|Microsoft.Network/localNetworkGateways/resourceGuid|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

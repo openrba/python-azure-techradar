@@ -2,7 +2,7 @@ tokens:
   path: Microsoft.Compute/stores/services/tokens
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/stores/services/tokens/README.md
+  url: Microsoft.Compute/stores/services/tokens
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

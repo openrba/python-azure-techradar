@@ -2,7 +2,7 @@ storedProcedures:
   path: Microsoft.Network/databaseAccounts/sqlDatabases/containers/storedProcedures
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccounts/sqlDatabases/containers/storedProcedures/README.md
+  url: Microsoft.Network/databaseAccounts/sqlDatabases/containers/storedProcedures
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ throughputSettings:
   path: Microsoft.Network/databaseAccounts/sqlDatabases/containers/throughputSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccounts/sqlDatabases/containers/throughputSettings/README.md
+  url: Microsoft.Network/databaseAccounts/sqlDatabases/containers/throughputSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ triggers:
   path: Microsoft.Network/databaseAccounts/sqlDatabases/containers/triggers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccounts/sqlDatabases/containers/triggers/README.md
+  url: Microsoft.Network/databaseAccounts/sqlDatabases/containers/triggers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ userDefinedFunctions:
   path: Microsoft.Network/databaseAccounts/sqlDatabases/containers/userDefinedFunctions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/databaseAccounts/sqlDatabases/containers/userDefinedFunctions/README.md
+  url: Microsoft.Network/databaseAccounts/sqlDatabases/containers/userDefinedFunctions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -29,12 +29,18 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[tables](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/cassandraKeyspaces/tables/README.md)|UNKNOWN|Microsoft.Network/databaseAccounts/cassandraKeyspaces/tables|TRIAL|
-|[throughputSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/cassandraKeyspaces/throughputSettings/README.md)|UNKNOWN|Microsoft.Network/databaseAccounts/cassandraKeyspaces/throughputSettings|TRIAL|
+|[tables](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/cassandraKeyspaces/tables)|UNKNOWN|Microsoft.Network/databaseAccounts/cassandraKeyspaces/tables|TRIAL|
+|[throughputSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/databaseAccounts/cassandraKeyspaces/throughputSettings)|UNKNOWN|Microsoft.Network/databaseAccounts/cassandraKeyspaces/throughputSettings|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

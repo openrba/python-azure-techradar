@@ -2,7 +2,7 @@ customRoutes:
   path: Microsoft.Network/p2sVpnGateways/customRoutes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/customRoutes/README.md
+  url: Microsoft.Network/p2sVpnGateways/customRoutes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ customRoutes.addressPrefixes:
   path: Microsoft.Network/p2sVpnGateways/customRoutes.addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/customRoutes.addressPrefixes/README.md
+  url: Microsoft.Network/p2sVpnGateways/customRoutes.addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ customRoutes.addressPrefixes[*]:
   path: Microsoft.Network/p2sVpnGateways/customRoutes.addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/customRoutes.addressPrefixes[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/customRoutes.addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ p2SVpnServerConfiguration:
   path: Microsoft.Network/p2sVpnGateways/p2SVpnServerConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/p2SVpnServerConfiguration/README.md
+  url: Microsoft.Network/p2sVpnGateways/p2SVpnServerConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ p2SVpnServerConfiguration.id:
   path: Microsoft.Network/p2sVpnGateways/p2SVpnServerConfiguration.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/p2SVpnServerConfiguration.id/README.md
+  url: Microsoft.Network/p2sVpnGateways/p2SVpnServerConfiguration.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ p2sConnectionConfigurations:
   path: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations/README.md
+  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ p2sConnectionConfigurations[*]:
   path: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ p2sConnectionConfigurations[*].etag:
   path: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].etag/README.md
+  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ p2sConnectionConfigurations[*].id:
   path: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].id/README.md
+  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ p2sConnectionConfigurations[*].name:
   path: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].name/README.md
+  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ p2sConnectionConfigurations[*].provisioningState:
   path: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].provisioningState/README.md
+  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ p2sConnectionConfigurations[*].vpnClientAddressPool:
   path: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].vpnClientAddressPool
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].vpnClientAddressPool/README.md
+  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].vpnClientAddressPool
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ p2sConnectionConfigurations[*].vpnClientAddressPool.addressPrefixes:
   path: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].vpnClientAddressPool.addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].vpnClientAddressPool.addressPrefixes/README.md
+  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].vpnClientAddressPool.addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ p2sConnectionConfigurations[*].vpnClientAddressPool.addressPrefixes[*]:
   path: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].vpnClientAddressPool.addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].vpnClientAddressPool.addressPrefixes[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/p2sConnectionConfigurations[*].vpnClientAddressPool.addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ provisioningState:
   path: Microsoft.Network/p2sVpnGateways/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/provisioningState/README.md
+  url: Microsoft.Network/p2sVpnGateways/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ virtualHub:
   path: Microsoft.Network/p2sVpnGateways/virtualHub
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/virtualHub/README.md
+  url: Microsoft.Network/p2sVpnGateways/virtualHub
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ virtualHub.id:
   path: Microsoft.Network/p2sVpnGateways/virtualHub.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/virtualHub.id/README.md
+  url: Microsoft.Network/p2sVpnGateways/virtualHub.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ vpnClientAddressPool:
   path: Microsoft.Network/p2sVpnGateways/vpnClientAddressPool
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnClientAddressPool/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnClientAddressPool
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ vpnClientAddressPool.addressPrefixes:
   path: Microsoft.Network/p2sVpnGateways/vpnClientAddressPool.addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnClientAddressPool.addressPrefixes/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnClientAddressPool.addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ vpnClientAddressPool.addressPrefixes[*]:
   path: Microsoft.Network/p2sVpnGateways/vpnClientAddressPool.addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnClientAddressPool.addressPrefixes[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnClientAddressPool.addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ vpnClientConnectionHealth:
   path: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ vpnClientConnectionHealth.allocatedIpAddresses:
   path: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.allocatedIpAddresses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.allocatedIpAddresses/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.allocatedIpAddresses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ vpnClientConnectionHealth.allocatedIpAddresses[*]:
   path: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.allocatedIpAddresses[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.allocatedIpAddresses[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.allocatedIpAddresses[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ vpnClientConnectionHealth.totalEgressBytesTransferred:
   path: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.totalEgressBytesTransferred
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.totalEgressBytesTransferred/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.totalEgressBytesTransferred
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ vpnClientConnectionHealth.totalIngressBytesTransferred:
   path: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.totalIngressBytesTransferred
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.totalIngressBytesTransferred/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.totalIngressBytesTransferred
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ vpnClientConnectionHealth.vpnClientConnectionsCount:
   path: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.vpnClientConnectionsCount
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.vpnClientConnectionsCount/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnClientConnectionHealth.vpnClientConnectionsCount
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ vpnGatewayScaleUnit:
   path: Microsoft.Network/p2sVpnGateways/vpnGatewayScaleUnit
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnGatewayScaleUnit/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnGatewayScaleUnit
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ vpnServerConfiguration:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ vpnServerConfiguration.aadAuthenticationParameters:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.aadAuthenticationParameters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.aadAuthenticationParameters/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.aadAuthenticationParameters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ vpnServerConfiguration.aadAuthenticationParameters.aadAudience:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.aadAuthenticationParameters.aadAudience
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.aadAuthenticationParameters.aadAudience/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.aadAuthenticationParameters.aadAudience
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ vpnServerConfiguration.aadAuthenticationParameters.aadIssuer:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.aadAuthenticationParameters.aadIssuer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.aadAuthenticationParameters.aadIssuer/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.aadAuthenticationParameters.aadIssuer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ vpnServerConfiguration.aadAuthenticationParameters.aadTenant:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.aadAuthenticationParameters.aadTenant
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.aadAuthenticationParameters.aadTenant/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.aadAuthenticationParameters.aadTenant
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ vpnServerConfiguration.etag:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.etag/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ vpnServerConfiguration.id:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.id/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ vpnServerConfiguration.location:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.location
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.location/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.location
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ vpnServerConfiguration.name:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.name/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ vpnServerConfiguration.p2SVpnGateways:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.p2SVpnGateways
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.p2SVpnGateways/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.p2SVpnGateways
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ vpnServerConfiguration.p2SVpnGateways[*]:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.p2SVpnGateways[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.p2SVpnGateways[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.p2SVpnGateways[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ vpnServerConfiguration.provisioningState:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.provisioningState/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ vpnServerConfiguration.radiusServerAddress:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.radiusServerAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.radiusServerAddress/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.radiusServerAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ vpnServerConfiguration.radiusServerSecret:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.radiusServerSecret
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.radiusServerSecret/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.radiusServerSecret
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ vpnServerConfiguration.tags:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.tags/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ vpnServerConfiguration.type:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.type/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ vpnServerConfiguration.vpnAuthenticationTypes:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnAuthenticationTypes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnAuthenticationTypes/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnAuthenticationTypes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ vpnServerConfiguration.vpnAuthenticationTypes[*]:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnAuthenticationTypes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnAuthenticationTypes[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnAuthenticationTypes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -767,7 +767,7 @@ vpnServerConfiguration.vpnClientIpsecPolicies:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -784,7 +784,7 @@ vpnServerConfiguration.vpnClientIpsecPolicies[*]:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -801,7 +801,7 @@ vpnServerConfiguration.vpnClientIpsecPolicies[*].dhGroup:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].dhGroup
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].dhGroup/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].dhGroup
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -818,7 +818,7 @@ vpnServerConfiguration.vpnClientIpsecPolicies[*].ikeEncryption:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].ikeEncryption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].ikeEncryption/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].ikeEncryption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -835,7 +835,7 @@ vpnServerConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -852,7 +852,7 @@ vpnServerConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -869,7 +869,7 @@ vpnServerConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -886,7 +886,7 @@ vpnServerConfiguration.vpnClientIpsecPolicies[*].pfsGroup:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].pfsGroup
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].pfsGroup/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].pfsGroup
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -903,7 +903,7 @@ vpnServerConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -920,7 +920,7 @@ vpnServerConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -937,7 +937,7 @@ vpnServerConfiguration.vpnProtocols:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnProtocols
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnProtocols/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnProtocols
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -954,7 +954,7 @@ vpnServerConfiguration.vpnProtocols[*]:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnProtocols[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnProtocols[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnProtocols[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -971,7 +971,7 @@ vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -988,7 +988,7 @@ vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates[*]:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1005,7 +1005,7 @@ vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates[*].name:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates[*].name/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1022,7 +1022,7 @@ vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates[*].thumbprint
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates[*].thumbprint
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates[*].thumbprint/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusClientRootCertificates[*].thumbprint
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1039,7 +1039,7 @@ vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1056,7 +1056,7 @@ vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates[*]:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1073,7 +1073,7 @@ vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates[*].name:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates[*].name/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1090,7 +1090,7 @@ vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates[*].publicCert
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates[*].publicCertData
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates[*].publicCertData/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigRadiusServerRootCertificates[*].publicCertData
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1107,7 +1107,7 @@ vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1124,7 +1124,7 @@ vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates[*]:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1141,7 +1141,7 @@ vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates[*].name:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates[*].name/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1158,7 +1158,7 @@ vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates[*].thumbprint
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates[*].thumbprint
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates[*].thumbprint/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRevokedCertificates[*].thumbprint
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1175,7 +1175,7 @@ vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1192,7 +1192,7 @@ vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates[*]:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates[*]/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1209,7 +1209,7 @@ vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates[*].name:
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates[*].name/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1226,7 +1226,7 @@ vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates[*].publicCertDat
   path: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates[*].publicCertData
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates[*].publicCertData/README.md
+  url: Microsoft.Network/p2sVpnGateways/vpnServerConfiguration.vpnServerConfigVpnClientRootCertificates[*].publicCertData
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

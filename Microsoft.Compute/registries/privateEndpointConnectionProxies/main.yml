@@ -2,7 +2,7 @@ validate:
   path: Microsoft.Compute/registries/privateEndpointConnectionProxies/validate
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/registries/privateEndpointConnectionProxies/validate/README.md
+  url: Microsoft.Compute/registries/privateEndpointConnectionProxies/validate
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

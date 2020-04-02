@@ -2,7 +2,7 @@ addressPrefix:
   path: Microsoft.Network/expressRouteCircuits/peerings/connections/addressPrefix
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCircuits/peerings/connections/addressPrefix/README.md
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections/addressPrefix
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ authorizationKey:
   path: Microsoft.Network/expressRouteCircuits/peerings/connections/authorizationKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCircuits/peerings/connections/authorizationKey/README.md
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections/authorizationKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ circuitConnectionStatus:
   path: Microsoft.Network/expressRouteCircuits/peerings/connections/circuitConnectionStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCircuits/peerings/connections/circuitConnectionStatus/README.md
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections/circuitConnectionStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ expressRouteCircuitPeering:
   path: Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering/README.md
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ expressRouteCircuitPeering.id:
   path: Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering.id/README.md
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections/expressRouteCircuitPeering.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ peerExpressRouteCircuitPeering:
   path: Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering/README.md
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ peerExpressRouteCircuitPeering.id:
   path: Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering.id/README.md
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections/peerExpressRouteCircuitPeering.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ provisioningState:
   path: Microsoft.Network/expressRouteCircuits/peerings/connections/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/expressRouteCircuits/peerings/connections/provisioningState/README.md
+  url: Microsoft.Network/expressRouteCircuits/peerings/connections/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

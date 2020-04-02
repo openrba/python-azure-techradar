@@ -2,7 +2,7 @@ AuthorizationRules:
   path: Microsoft.Network/Namespaces/AuthorizationRules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/Namespaces/AuthorizationRules/README.md
+  url: Microsoft.Network/Namespaces/AuthorizationRules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

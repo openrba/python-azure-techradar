@@ -2,7 +2,7 @@ queryText:
   path: Microsoft.Network/servers/databases/topQueries/queryText
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/topQueries/queryText/README.md
+  url: Microsoft.Network/servers/databases/topQueries/queryText
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -29,23 +29,29 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[allowBranchToBranchTraffic](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/allowBranchToBranchTraffic/README.md)|UNKNOWN|Microsoft.Network/virtualWans/allowBranchToBranchTraffic|TRIAL|
-|[allowVnetToVnetTraffic](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/allowVnetToVnetTraffic/README.md)|UNKNOWN|Microsoft.Network/virtualWans/allowVnetToVnetTraffic|TRIAL|
-|[disableVpnEncryption](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/disableVpnEncryption/README.md)|UNKNOWN|Microsoft.Network/virtualWans/disableVpnEncryption|TRIAL|
-|[office365LocalBreakoutCategory](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/office365LocalBreakoutCategory/README.md)|UNKNOWN|Microsoft.Network/virtualWans/office365LocalBreakoutCategory|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/provisioningState/README.md)|UNKNOWN|Microsoft.Network/virtualWans/provisioningState|TRIAL|
-|[securityProviderName](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/securityProviderName/README.md)|UNKNOWN|Microsoft.Network/virtualWans/securityProviderName|TRIAL|
-|[type](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/type/README.md)|UNKNOWN|Microsoft.Network/virtualWans/type|TRIAL|
-|[virtualHubs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/virtualHubs/README.md)|UNKNOWN|Microsoft.Network/virtualWans/virtualHubs|TRIAL|
-|[virtualHubs[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/virtualHubs[*]/README.md)|UNKNOWN|Microsoft.Network/virtualWans/virtualHubs[*]|TRIAL|
-|[virtualHubs[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/virtualHubs[*].id/README.md)|UNKNOWN|Microsoft.Network/virtualWans/virtualHubs[*].id|TRIAL|
-|[vpnSites](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/vpnSites/README.md)|UNKNOWN|Microsoft.Network/virtualWans/vpnSites|TRIAL|
-|[vpnSites[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/vpnSites[*]/README.md)|UNKNOWN|Microsoft.Network/virtualWans/vpnSites[*]|TRIAL|
-|[vpnSites[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/vpnSites[*].id/README.md)|UNKNOWN|Microsoft.Network/virtualWans/vpnSites[*].id|TRIAL|
+|[allowBranchToBranchTraffic](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/allowBranchToBranchTraffic)|UNKNOWN|Microsoft.Network/virtualWans/allowBranchToBranchTraffic|TRIAL|
+|[allowVnetToVnetTraffic](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/allowVnetToVnetTraffic)|UNKNOWN|Microsoft.Network/virtualWans/allowVnetToVnetTraffic|TRIAL|
+|[disableVpnEncryption](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/disableVpnEncryption)|UNKNOWN|Microsoft.Network/virtualWans/disableVpnEncryption|TRIAL|
+|[office365LocalBreakoutCategory](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/office365LocalBreakoutCategory)|UNKNOWN|Microsoft.Network/virtualWans/office365LocalBreakoutCategory|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/provisioningState)|UNKNOWN|Microsoft.Network/virtualWans/provisioningState|TRIAL|
+|[securityProviderName](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/securityProviderName)|UNKNOWN|Microsoft.Network/virtualWans/securityProviderName|TRIAL|
+|[type](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/type)|UNKNOWN|Microsoft.Network/virtualWans/type|TRIAL|
+|[virtualHubs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/virtualHubs)|UNKNOWN|Microsoft.Network/virtualWans/virtualHubs|TRIAL|
+|[virtualHubs[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/virtualHubs[*])|UNKNOWN|Microsoft.Network/virtualWans/virtualHubs[*]|TRIAL|
+|[virtualHubs[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/virtualHubs[*].id)|UNKNOWN|Microsoft.Network/virtualWans/virtualHubs[*].id|TRIAL|
+|[vpnSites](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/vpnSites)|UNKNOWN|Microsoft.Network/virtualWans/vpnSites|TRIAL|
+|[vpnSites[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/vpnSites[*])|UNKNOWN|Microsoft.Network/virtualWans/vpnSites[*]|TRIAL|
+|[vpnSites[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualWans/vpnSites[*].id)|UNKNOWN|Microsoft.Network/virtualWans/vpnSites[*].id|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

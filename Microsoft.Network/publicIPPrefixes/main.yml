@@ -2,7 +2,7 @@ ipPrefix:
   path: Microsoft.Network/publicIPPrefixes/ipPrefix
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/ipPrefix/README.md
+  url: Microsoft.Network/publicIPPrefixes/ipPrefix
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ ipTags:
   path: Microsoft.Network/publicIPPrefixes/ipTags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/ipTags/README.md
+  url: Microsoft.Network/publicIPPrefixes/ipTags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ ipTags[*]:
   path: Microsoft.Network/publicIPPrefixes/ipTags[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/ipTags[*]/README.md
+  url: Microsoft.Network/publicIPPrefixes/ipTags[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ ipTags[*].ipTagType:
   path: Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType/README.md
+  url: Microsoft.Network/publicIPPrefixes/ipTags[*].ipTagType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ ipTags[*].tag:
   path: Microsoft.Network/publicIPPrefixes/ipTags[*].tag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/ipTags[*].tag/README.md
+  url: Microsoft.Network/publicIPPrefixes/ipTags[*].tag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ loadBalancerFrontendIpConfiguration:
   path: Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration/README.md
+  url: Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ loadBalancerFrontendIpConfiguration.id:
   path: Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id/README.md
+  url: Microsoft.Network/publicIPPrefixes/loadBalancerFrontendIpConfiguration.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ prefixLength:
   path: Microsoft.Network/publicIPPrefixes/prefixLength
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/prefixLength/README.md
+  url: Microsoft.Network/publicIPPrefixes/prefixLength
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ provisioningState:
   path: Microsoft.Network/publicIPPrefixes/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/provisioningState/README.md
+  url: Microsoft.Network/publicIPPrefixes/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ publicIPAddressVersion:
   path: Microsoft.Network/publicIPPrefixes/publicIPAddressVersion
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/publicIPAddressVersion/README.md
+  url: Microsoft.Network/publicIPPrefixes/publicIPAddressVersion
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ publicIPAddresses:
   path: Microsoft.Network/publicIPPrefixes/publicIPAddresses
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/publicIPAddresses/README.md
+  url: Microsoft.Network/publicIPPrefixes/publicIPAddresses
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ publicIPAddresses[*]:
   path: Microsoft.Network/publicIPPrefixes/publicIPAddresses[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/publicIPAddresses[*]/README.md
+  url: Microsoft.Network/publicIPPrefixes/publicIPAddresses[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ publicIPAddresses[*].id:
   path: Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id/README.md
+  url: Microsoft.Network/publicIPPrefixes/publicIPAddresses[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ resourceGuid:
   path: Microsoft.Network/publicIPPrefixes/resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/resourceGuid/README.md
+  url: Microsoft.Network/publicIPPrefixes/resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ sku:
   path: Microsoft.Network/publicIPPrefixes/sku
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/sku/README.md
+  url: Microsoft.Network/publicIPPrefixes/sku
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ sku.name:
   path: Microsoft.Network/publicIPPrefixes/sku.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/sku.name/README.md
+  url: Microsoft.Network/publicIPPrefixes/sku.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ zones:
   path: Microsoft.Network/publicIPPrefixes/zones
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/zones/README.md
+  url: Microsoft.Network/publicIPPrefixes/zones
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ zones[*]:
   path: Microsoft.Network/publicIPPrefixes/zones[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publicIPPrefixes/zones[*]/README.md
+  url: Microsoft.Network/publicIPPrefixes/zones[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

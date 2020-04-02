@@ -2,7 +2,7 @@ oucontainer:
   path: Microsoft.Compute/DomainServices/oucontainer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/DomainServices/oucontainer/README.md
+  url: Microsoft.Compute/DomainServices/oucontainer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

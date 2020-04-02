@@ -2,7 +2,7 @@ autoUpgradeMinorVersion:
   path: Microsoft.Compute/virtualMachines/extensions/autoUpgradeMinorVersion
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/autoUpgradeMinorVersion/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/autoUpgradeMinorVersion
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ enableAutomaticUpgrade:
   path: Microsoft.Compute/virtualMachines/extensions/enableAutomaticUpgrade
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/enableAutomaticUpgrade/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/enableAutomaticUpgrade
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ forceUpdateTag:
   path: Microsoft.Compute/virtualMachines/extensions/forceUpdateTag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/forceUpdateTag/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/forceUpdateTag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ protectedSettings:
   path: Microsoft.Compute/virtualMachines/extensions/protectedSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/protectedSettings/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/protectedSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ provisioningState:
   path: Microsoft.Compute/virtualMachines/extensions/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/provisioningState/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ publisher:
   path: Microsoft.Compute/virtualMachines/extensions/publisher
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/publisher/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/publisher
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ resources:
   path: Microsoft.Compute/virtualMachines/extensions/resources
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ resources[*]:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*]/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ resources[*].autoUpgradeMinorVersion:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*].autoUpgradeMinorVersion
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*].autoUpgradeMinorVersion/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].autoUpgradeMinorVersion
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ resources[*].forceUpdateTag:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*].forceUpdateTag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*].forceUpdateTag/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].forceUpdateTag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ resources[*].id:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*].id/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ resources[*].location:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*].location
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*].location/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].location
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ resources[*].name:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*].name/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ resources[*].protectedSettings:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*].protectedSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*].protectedSettings/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].protectedSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ resources[*].provisioningState:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*].provisioningState/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ resources[*].publisher:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*].publisher
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*].publisher/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].publisher
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ resources[*].settings:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*].settings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*].settings/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].settings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ resources[*].tags:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*].tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*].tags/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ resources[*].type:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*].type/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ resources[*].typeHandlerVersion:
   path: Microsoft.Compute/virtualMachines/extensions/resources[*].typeHandlerVersion
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/resources[*].typeHandlerVersion/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/resources[*].typeHandlerVersion
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ settings:
   path: Microsoft.Compute/virtualMachines/extensions/settings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/settings/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/settings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ settings.workspaceId:
   path: Microsoft.Compute/virtualMachines/extensions/settings.workspaceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/settings.workspaceId/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/settings.workspaceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ type:
   path: Microsoft.Compute/virtualMachines/extensions/type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/type/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ typeHandlerVersion:
   path: Microsoft.Compute/virtualMachines/extensions/typeHandlerVersion
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/virtualMachines/extensions/typeHandlerVersion/README.md
+  url: Microsoft.Compute/virtualMachines/extensions/typeHandlerVersion
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ images:
   path: Microsoft.Network/galleries/images
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/galleries/images/README.md
+  url: Microsoft.Network/galleries/images
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

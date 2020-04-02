@@ -2,7 +2,7 @@ diagnosticSettings:
   path: Microsoft.Network/dataFactories/diagnosticSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dataFactories/diagnosticSettings/README.md
+  url: Microsoft.Network/dataFactories/diagnosticSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ metricDefinitions:
   path: Microsoft.Network/dataFactories/metricDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dataFactories/metricDefinitions/README.md
+  url: Microsoft.Network/dataFactories/metricDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

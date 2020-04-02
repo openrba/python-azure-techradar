@@ -2,7 +2,7 @@ containers:
   path: Microsoft.Compute/accounts/storageAccounts/containers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/accounts/storageAccounts/containers/README.md
+  url: Microsoft.Compute/accounts/storageAccounts/containers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

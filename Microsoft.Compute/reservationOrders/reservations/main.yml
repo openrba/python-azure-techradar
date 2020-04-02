@@ -2,7 +2,7 @@ availableScopes:
   path: Microsoft.Compute/reservationOrders/reservations/availableScopes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/reservationOrders/reservations/availableScopes/README.md
+  url: Microsoft.Compute/reservationOrders/reservations/availableScopes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ revisions:
   path: Microsoft.Compute/reservationOrders/reservations/revisions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/reservationOrders/reservations/revisions/README.md
+  url: Microsoft.Compute/reservationOrders/reservations/revisions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

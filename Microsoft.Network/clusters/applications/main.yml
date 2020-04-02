@@ -2,7 +2,7 @@ services:
   path: Microsoft.Network/clusters/applications/services
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/clusters/applications/services/README.md
+  url: Microsoft.Network/clusters/applications/services
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

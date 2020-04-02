@@ -2,7 +2,7 @@ basePolicy:
   path: Microsoft.Network/firewallPolicies/basePolicy
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/basePolicy/README.md
+  url: Microsoft.Network/firewallPolicies/basePolicy
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ basePolicy.id:
   path: Microsoft.Network/firewallPolicies/basePolicy.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/basePolicy.id/README.md
+  url: Microsoft.Network/firewallPolicies/basePolicy.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ childPolicies:
   path: Microsoft.Network/firewallPolicies/childPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/childPolicies/README.md
+  url: Microsoft.Network/firewallPolicies/childPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ childPolicies[*]:
   path: Microsoft.Network/firewallPolicies/childPolicies[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/childPolicies[*]/README.md
+  url: Microsoft.Network/firewallPolicies/childPolicies[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ childPolicies[*].id:
   path: Microsoft.Network/firewallPolicies/childPolicies[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/childPolicies[*].id/README.md
+  url: Microsoft.Network/firewallPolicies/childPolicies[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ firewalls:
   path: Microsoft.Network/firewallPolicies/firewalls
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/firewalls/README.md
+  url: Microsoft.Network/firewallPolicies/firewalls
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ firewalls[*]:
   path: Microsoft.Network/firewallPolicies/firewalls[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/firewalls[*]/README.md
+  url: Microsoft.Network/firewallPolicies/firewalls[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ firewalls[*].id:
   path: Microsoft.Network/firewallPolicies/firewalls[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/firewalls[*].id/README.md
+  url: Microsoft.Network/firewallPolicies/firewalls[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ provisioningState:
   path: Microsoft.Network/firewallPolicies/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/provisioningState/README.md
+  url: Microsoft.Network/firewallPolicies/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ ruleGroups:
   path: Microsoft.Network/firewallPolicies/ruleGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/ruleGroups/README.md
+  url: Microsoft.Network/firewallPolicies/ruleGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ ruleGroups[*]:
   path: Microsoft.Network/firewallPolicies/ruleGroups[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/ruleGroups[*]/README.md
+  url: Microsoft.Network/firewallPolicies/ruleGroups[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ ruleGroups[*].id:
   path: Microsoft.Network/firewallPolicies/ruleGroups[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/ruleGroups[*].id/README.md
+  url: Microsoft.Network/firewallPolicies/ruleGroups[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ threatIntelMode:
   path: Microsoft.Network/firewallPolicies/threatIntelMode
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/threatIntelMode/README.md
+  url: Microsoft.Network/firewallPolicies/threatIntelMode
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

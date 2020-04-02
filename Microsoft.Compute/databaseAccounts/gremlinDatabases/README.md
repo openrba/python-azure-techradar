@@ -29,12 +29,18 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[graphs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/gremlinDatabases/graphs/README.md)|UNKNOWN|Microsoft.Compute/databaseAccounts/gremlinDatabases/graphs|TRIAL|
-|[throughputSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/gremlinDatabases/throughputSettings/README.md)|UNKNOWN|Microsoft.Compute/databaseAccounts/gremlinDatabases/throughputSettings|TRIAL|
+|[graphs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/gremlinDatabases/graphs)|UNKNOWN|Microsoft.Compute/databaseAccounts/gremlinDatabases/graphs|TRIAL|
+|[throughputSettings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/gremlinDatabases/throughputSettings)|UNKNOWN|Microsoft.Compute/databaseAccounts/gremlinDatabases/throughputSettings|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

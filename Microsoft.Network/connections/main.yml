@@ -2,7 +2,7 @@ authorizationKey:
   path: Microsoft.Network/connections/authorizationKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/authorizationKey/README.md
+  url: Microsoft.Network/connections/authorizationKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ connectionProtocol:
   path: Microsoft.Network/connections/connectionProtocol
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/connectionProtocol/README.md
+  url: Microsoft.Network/connections/connectionProtocol
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ connectionStatus:
   path: Microsoft.Network/connections/connectionStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/connectionStatus/README.md
+  url: Microsoft.Network/connections/connectionStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ connectionType:
   path: Microsoft.Network/connections/connectionType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/connectionType/README.md
+  url: Microsoft.Network/connections/connectionType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ egressBytesTransferred:
   path: Microsoft.Network/connections/egressBytesTransferred
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/egressBytesTransferred/README.md
+  url: Microsoft.Network/connections/egressBytesTransferred
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ enableBgp:
   path: Microsoft.Network/connections/enableBgp
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/enableBgp/README.md
+  url: Microsoft.Network/connections/enableBgp
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ expressRouteGatewayBypass:
   path: Microsoft.Network/connections/expressRouteGatewayBypass
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/expressRouteGatewayBypass/README.md
+  url: Microsoft.Network/connections/expressRouteGatewayBypass
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ ingressBytesTransferred:
   path: Microsoft.Network/connections/ingressBytesTransferred
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/ingressBytesTransferred/README.md
+  url: Microsoft.Network/connections/ingressBytesTransferred
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ ipsecPolicies:
   path: Microsoft.Network/connections/ipsecPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/ipsecPolicies/README.md
+  url: Microsoft.Network/connections/ipsecPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ ipsecPolicies[*]:
   path: Microsoft.Network/connections/ipsecPolicies[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/ipsecPolicies[*]/README.md
+  url: Microsoft.Network/connections/ipsecPolicies[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ ipsecPolicies[*].dhGroup:
   path: Microsoft.Network/connections/ipsecPolicies[*].dhGroup
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/ipsecPolicies[*].dhGroup/README.md
+  url: Microsoft.Network/connections/ipsecPolicies[*].dhGroup
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ ipsecPolicies[*].ikeEncryption:
   path: Microsoft.Network/connections/ipsecPolicies[*].ikeEncryption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/ipsecPolicies[*].ikeEncryption/README.md
+  url: Microsoft.Network/connections/ipsecPolicies[*].ikeEncryption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ ipsecPolicies[*].ikeIntegrity:
   path: Microsoft.Network/connections/ipsecPolicies[*].ikeIntegrity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/ipsecPolicies[*].ikeIntegrity/README.md
+  url: Microsoft.Network/connections/ipsecPolicies[*].ikeIntegrity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ ipsecPolicies[*].ipsecEncryption:
   path: Microsoft.Network/connections/ipsecPolicies[*].ipsecEncryption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/ipsecPolicies[*].ipsecEncryption/README.md
+  url: Microsoft.Network/connections/ipsecPolicies[*].ipsecEncryption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ ipsecPolicies[*].ipsecIntegrity:
   path: Microsoft.Network/connections/ipsecPolicies[*].ipsecIntegrity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/ipsecPolicies[*].ipsecIntegrity/README.md
+  url: Microsoft.Network/connections/ipsecPolicies[*].ipsecIntegrity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ ipsecPolicies[*].pfsGroup:
   path: Microsoft.Network/connections/ipsecPolicies[*].pfsGroup
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/ipsecPolicies[*].pfsGroup/README.md
+  url: Microsoft.Network/connections/ipsecPolicies[*].pfsGroup
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ ipsecPolicies[*].saDataSizeKilobytes:
   path: Microsoft.Network/connections/ipsecPolicies[*].saDataSizeKilobytes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/ipsecPolicies[*].saDataSizeKilobytes/README.md
+  url: Microsoft.Network/connections/ipsecPolicies[*].saDataSizeKilobytes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ ipsecPolicies[*].saLifeTimeSeconds:
   path: Microsoft.Network/connections/ipsecPolicies[*].saLifeTimeSeconds
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/ipsecPolicies[*].saLifeTimeSeconds/README.md
+  url: Microsoft.Network/connections/ipsecPolicies[*].saLifeTimeSeconds
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ localNetworkGateway2:
   path: Microsoft.Network/connections/localNetworkGateway2
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ localNetworkGateway2.bgpSettings:
   path: Microsoft.Network/connections/localNetworkGateway2.bgpSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.bgpSettings/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.bgpSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ localNetworkGateway2.bgpSettings.asn:
   path: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.asn
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.asn/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.asn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ localNetworkGateway2.bgpSettings.bgpPeeringAddress:
   path: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.bgpPeeringAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.bgpPeeringAddress/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.bgpPeeringAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ localNetworkGateway2.bgpSettings.peerWeight:
   path: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.peerWeight
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.peerWeight/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.bgpSettings.peerWeight
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ localNetworkGateway2.etag:
   path: Microsoft.Network/connections/localNetworkGateway2.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.etag/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ localNetworkGateway2.gatewayIpAddress:
   path: Microsoft.Network/connections/localNetworkGateway2.gatewayIpAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.gatewayIpAddress/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.gatewayIpAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ localNetworkGateway2.id:
   path: Microsoft.Network/connections/localNetworkGateway2.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.id/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ localNetworkGateway2.localNetworkAddressSpace:
   path: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ localNetworkGateway2.localNetworkAddressSpace.addressPrefixes:
   path: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.addressPrefixes/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ localNetworkGateway2.localNetworkAddressSpace.addressPrefixes[*]:
   path: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.addressPrefixes[*]/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.localNetworkAddressSpace.addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ localNetworkGateway2.location:
   path: Microsoft.Network/connections/localNetworkGateway2.location
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.location/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.location
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ localNetworkGateway2.name:
   path: Microsoft.Network/connections/localNetworkGateway2.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.name/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ localNetworkGateway2.provisioningState:
   path: Microsoft.Network/connections/localNetworkGateway2.provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.provisioningState/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ localNetworkGateway2.resourceGuid:
   path: Microsoft.Network/connections/localNetworkGateway2.resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.resourceGuid/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ localNetworkGateway2.tags:
   path: Microsoft.Network/connections/localNetworkGateway2.tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.tags/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ localNetworkGateway2.type:
   path: Microsoft.Network/connections/localNetworkGateway2.type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/localNetworkGateway2.type/README.md
+  url: Microsoft.Network/connections/localNetworkGateway2.type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ peer:
   path: Microsoft.Network/connections/peer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/peer/README.md
+  url: Microsoft.Network/connections/peer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ peer.id:
   path: Microsoft.Network/connections/peer.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/peer.id/README.md
+  url: Microsoft.Network/connections/peer.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ provisioningState:
   path: Microsoft.Network/connections/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/provisioningState/README.md
+  url: Microsoft.Network/connections/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ resourceGuid:
   path: Microsoft.Network/connections/resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/resourceGuid/README.md
+  url: Microsoft.Network/connections/resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ routingWeight:
   path: Microsoft.Network/connections/routingWeight
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/routingWeight/README.md
+  url: Microsoft.Network/connections/routingWeight
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ sharedKey:
   path: Microsoft.Network/connections/sharedKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/sharedKey/README.md
+  url: Microsoft.Network/connections/sharedKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ trafficSelectorPolicies:
   path: Microsoft.Network/connections/trafficSelectorPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/trafficSelectorPolicies/README.md
+  url: Microsoft.Network/connections/trafficSelectorPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ trafficSelectorPolicies[*]:
   path: Microsoft.Network/connections/trafficSelectorPolicies[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/trafficSelectorPolicies[*]/README.md
+  url: Microsoft.Network/connections/trafficSelectorPolicies[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ trafficSelectorPolicies[*].localAddressRanges:
   path: Microsoft.Network/connections/trafficSelectorPolicies[*].localAddressRanges
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/trafficSelectorPolicies[*].localAddressRanges/README.md
+  url: Microsoft.Network/connections/trafficSelectorPolicies[*].localAddressRanges
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ trafficSelectorPolicies[*].localAddressRanges[*]:
   path: Microsoft.Network/connections/trafficSelectorPolicies[*].localAddressRanges[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/trafficSelectorPolicies[*].localAddressRanges[*]/README.md
+  url: Microsoft.Network/connections/trafficSelectorPolicies[*].localAddressRanges[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -767,7 +767,7 @@ trafficSelectorPolicies[*].remoteAddressRanges:
   path: Microsoft.Network/connections/trafficSelectorPolicies[*].remoteAddressRanges
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/trafficSelectorPolicies[*].remoteAddressRanges/README.md
+  url: Microsoft.Network/connections/trafficSelectorPolicies[*].remoteAddressRanges
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -784,7 +784,7 @@ trafficSelectorPolicies[*].remoteAddressRanges[*]:
   path: Microsoft.Network/connections/trafficSelectorPolicies[*].remoteAddressRanges[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/trafficSelectorPolicies[*].remoteAddressRanges[*]/README.md
+  url: Microsoft.Network/connections/trafficSelectorPolicies[*].remoteAddressRanges[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -801,7 +801,7 @@ tunnelConnectionStatus:
   path: Microsoft.Network/connections/tunnelConnectionStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/tunnelConnectionStatus/README.md
+  url: Microsoft.Network/connections/tunnelConnectionStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -818,7 +818,7 @@ tunnelConnectionStatus[*]:
   path: Microsoft.Network/connections/tunnelConnectionStatus[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/tunnelConnectionStatus[*]/README.md
+  url: Microsoft.Network/connections/tunnelConnectionStatus[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -835,7 +835,7 @@ tunnelConnectionStatus[*].connectionStatus:
   path: Microsoft.Network/connections/tunnelConnectionStatus[*].connectionStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/tunnelConnectionStatus[*].connectionStatus/README.md
+  url: Microsoft.Network/connections/tunnelConnectionStatus[*].connectionStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -852,7 +852,7 @@ tunnelConnectionStatus[*].egressBytesTransferred:
   path: Microsoft.Network/connections/tunnelConnectionStatus[*].egressBytesTransferred
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/tunnelConnectionStatus[*].egressBytesTransferred/README.md
+  url: Microsoft.Network/connections/tunnelConnectionStatus[*].egressBytesTransferred
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -869,7 +869,7 @@ tunnelConnectionStatus[*].ingressBytesTransferred:
   path: Microsoft.Network/connections/tunnelConnectionStatus[*].ingressBytesTransferred
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/tunnelConnectionStatus[*].ingressBytesTransferred/README.md
+  url: Microsoft.Network/connections/tunnelConnectionStatus[*].ingressBytesTransferred
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -886,7 +886,7 @@ tunnelConnectionStatus[*].lastConnectionEstablishedUtcTime:
   path: Microsoft.Network/connections/tunnelConnectionStatus[*].lastConnectionEstablishedUtcTime
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/tunnelConnectionStatus[*].lastConnectionEstablishedUtcTime/README.md
+  url: Microsoft.Network/connections/tunnelConnectionStatus[*].lastConnectionEstablishedUtcTime
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -903,7 +903,7 @@ tunnelConnectionStatus[*].tunnel:
   path: Microsoft.Network/connections/tunnelConnectionStatus[*].tunnel
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/tunnelConnectionStatus[*].tunnel/README.md
+  url: Microsoft.Network/connections/tunnelConnectionStatus[*].tunnel
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -920,7 +920,7 @@ usePolicyBasedTrafficSelectors:
   path: Microsoft.Network/connections/usePolicyBasedTrafficSelectors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/usePolicyBasedTrafficSelectors/README.md
+  url: Microsoft.Network/connections/usePolicyBasedTrafficSelectors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -937,7 +937,7 @@ virtualNetworkGateway1:
   path: Microsoft.Network/connections/virtualNetworkGateway1
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -954,7 +954,7 @@ virtualNetworkGateway1.activeActive:
   path: Microsoft.Network/connections/virtualNetworkGateway1.activeActive
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.activeActive/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.activeActive
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -971,7 +971,7 @@ virtualNetworkGateway1.bgpSettings:
   path: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -988,7 +988,7 @@ virtualNetworkGateway1.bgpSettings.asn:
   path: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.asn
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.asn/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.asn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1005,7 +1005,7 @@ virtualNetworkGateway1.bgpSettings.bgpPeeringAddress:
   path: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.bgpPeeringAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.bgpPeeringAddress/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.bgpPeeringAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1022,7 +1022,7 @@ virtualNetworkGateway1.bgpSettings.peerWeight:
   path: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.peerWeight
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.peerWeight/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.bgpSettings.peerWeight
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1039,7 +1039,7 @@ virtualNetworkGateway1.customRoutes:
   path: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1056,7 +1056,7 @@ virtualNetworkGateway1.customRoutes.addressPrefixes:
   path: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes.addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes.addressPrefixes/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes.addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1073,7 +1073,7 @@ virtualNetworkGateway1.customRoutes.addressPrefixes[*]:
   path: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes.addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes.addressPrefixes[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.customRoutes.addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1090,7 +1090,7 @@ virtualNetworkGateway1.enableBgp:
   path: Microsoft.Network/connections/virtualNetworkGateway1.enableBgp
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.enableBgp/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.enableBgp
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1107,7 +1107,7 @@ virtualNetworkGateway1.enableDnsForwarding:
   path: Microsoft.Network/connections/virtualNetworkGateway1.enableDnsForwarding
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.enableDnsForwarding/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.enableDnsForwarding
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1124,7 +1124,7 @@ virtualNetworkGateway1.etag:
   path: Microsoft.Network/connections/virtualNetworkGateway1.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.etag/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1141,7 +1141,7 @@ virtualNetworkGateway1.gatewayDefaultSite:
   path: Microsoft.Network/connections/virtualNetworkGateway1.gatewayDefaultSite
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.gatewayDefaultSite/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.gatewayDefaultSite
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1158,7 +1158,7 @@ virtualNetworkGateway1.gatewayDefaultSite.id:
   path: Microsoft.Network/connections/virtualNetworkGateway1.gatewayDefaultSite.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.gatewayDefaultSite.id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.gatewayDefaultSite.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1175,7 +1175,7 @@ virtualNetworkGateway1.gatewayType:
   path: Microsoft.Network/connections/virtualNetworkGateway1.gatewayType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.gatewayType/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.gatewayType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1192,7 +1192,7 @@ virtualNetworkGateway1.id:
   path: Microsoft.Network/connections/virtualNetworkGateway1.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1209,7 +1209,7 @@ virtualNetworkGateway1.inboundDnsForwardingEndpoint:
   path: Microsoft.Network/connections/virtualNetworkGateway1.inboundDnsForwardingEndpoint
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.inboundDnsForwardingEndpoint/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.inboundDnsForwardingEndpoint
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1226,7 +1226,7 @@ virtualNetworkGateway1.ipConfigurations:
   path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1243,7 +1243,7 @@ virtualNetworkGateway1.ipConfigurations[*]:
   path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1260,7 +1260,7 @@ virtualNetworkGateway1.ipConfigurations[*].etag:
   path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].etag/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1277,7 +1277,7 @@ virtualNetworkGateway1.ipConfigurations[*].id:
   path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1294,7 +1294,7 @@ virtualNetworkGateway1.ipConfigurations[*].name:
   path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].name/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1311,7 +1311,7 @@ virtualNetworkGateway1.ipConfigurations[*].privateIPAddress:
   path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].privateIPAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].privateIPAddress/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].privateIPAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1328,7 +1328,7 @@ virtualNetworkGateway1.ipConfigurations[*].privateIPAllocationMethod:
   path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].privateIPAllocationMethod
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].privateIPAllocationMethod/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].privateIPAllocationMethod
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1345,7 +1345,7 @@ virtualNetworkGateway1.ipConfigurations[*].provisioningState:
   path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].provisioningState/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1362,7 +1362,7 @@ virtualNetworkGateway1.ipConfigurations[*].publicIPAddress:
   path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].publicIPAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].publicIPAddress/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].publicIPAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1379,7 +1379,7 @@ virtualNetworkGateway1.ipConfigurations[*].publicIPAddress.id:
   path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].publicIPAddress.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].publicIPAddress.id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].publicIPAddress.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1396,7 +1396,7 @@ virtualNetworkGateway1.ipConfigurations[*].subnet:
   path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].subnet
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].subnet/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].subnet
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1413,7 +1413,7 @@ virtualNetworkGateway1.ipConfigurations[*].subnet.id:
   path: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].subnet.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].subnet.id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.ipConfigurations[*].subnet.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1430,7 +1430,7 @@ virtualNetworkGateway1.location:
   path: Microsoft.Network/connections/virtualNetworkGateway1.location
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.location/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.location
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1447,7 +1447,7 @@ virtualNetworkGateway1.name:
   path: Microsoft.Network/connections/virtualNetworkGateway1.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.name/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1464,7 +1464,7 @@ virtualNetworkGateway1.provisioningState:
   path: Microsoft.Network/connections/virtualNetworkGateway1.provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.provisioningState/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1481,7 +1481,7 @@ virtualNetworkGateway1.resourceGuid:
   path: Microsoft.Network/connections/virtualNetworkGateway1.resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.resourceGuid/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1498,7 +1498,7 @@ virtualNetworkGateway1.sku:
   path: Microsoft.Network/connections/virtualNetworkGateway1.sku
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.sku/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.sku
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1515,7 +1515,7 @@ virtualNetworkGateway1.sku.capacity:
   path: Microsoft.Network/connections/virtualNetworkGateway1.sku.capacity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.sku.capacity/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.sku.capacity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1532,7 +1532,7 @@ virtualNetworkGateway1.sku.name:
   path: Microsoft.Network/connections/virtualNetworkGateway1.sku.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.sku.name/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.sku.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1549,7 +1549,7 @@ virtualNetworkGateway1.sku.tier:
   path: Microsoft.Network/connections/virtualNetworkGateway1.sku.tier
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.sku.tier/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.sku.tier
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1566,7 +1566,7 @@ virtualNetworkGateway1.tags:
   path: Microsoft.Network/connections/virtualNetworkGateway1.tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.tags/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1583,7 +1583,7 @@ virtualNetworkGateway1.type:
   path: Microsoft.Network/connections/virtualNetworkGateway1.type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.type/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1600,7 +1600,7 @@ virtualNetworkGateway1.vpnClientConfiguration:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1617,7 +1617,7 @@ virtualNetworkGateway1.vpnClientConfiguration.aadAudience:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadAudience
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadAudience/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadAudience
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1634,7 +1634,7 @@ virtualNetworkGateway1.vpnClientConfiguration.aadIssuer:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadIssuer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadIssuer/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadIssuer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1651,7 +1651,7 @@ virtualNetworkGateway1.vpnClientConfiguration.aadTenant:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadTenant
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadTenant/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.aadTenant
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1668,7 +1668,7 @@ virtualNetworkGateway1.vpnClientConfiguration.radiusServerAddress:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.radiusServerAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.radiusServerAddress/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.radiusServerAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1685,7 +1685,7 @@ virtualNetworkGateway1.vpnClientConfiguration.radiusServerSecret:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.radiusServerSecret
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.radiusServerSecret/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.radiusServerSecret
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1702,7 +1702,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1719,7 +1719,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefix
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1736,7 +1736,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefix
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1753,7 +1753,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1770,7 +1770,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*]:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1787,7 +1787,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1804,7 +1804,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncry
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncryption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncryption/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncryption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1821,7 +1821,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeInteg
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1838,7 +1838,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEnc
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1855,7 +1855,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecInt
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1872,7 +1872,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1889,7 +1889,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSi
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1906,7 +1906,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTi
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1923,7 +1923,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1940,7 +1940,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols[*]:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientProtocols[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1957,7 +1957,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1974,7 +1974,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*]:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -1991,7 +1991,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].et
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].etag/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2008,7 +2008,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].id
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2025,7 +2025,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].na
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].name/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2042,7 +2042,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].pr
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].provisioningState/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2059,7 +2059,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].th
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].thumbprint
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].thumbprint/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRevokedCertificates[*].thumbprint
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2076,7 +2076,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2093,7 +2093,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*]:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2110,7 +2110,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].etag:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].etag/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2127,7 +2127,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].id:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2144,7 +2144,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].name:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].name/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2161,7 +2161,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].provi
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].provisioningState/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2178,7 +2178,7 @@ virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].publi
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].publicCertData
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].publicCertData/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnClientConfiguration.vpnClientRootCertificates[*].publicCertData
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2195,7 +2195,7 @@ virtualNetworkGateway1.vpnGatewayGeneration:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnGatewayGeneration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnGatewayGeneration/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnGatewayGeneration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2212,7 +2212,7 @@ virtualNetworkGateway1.vpnType:
   path: Microsoft.Network/connections/virtualNetworkGateway1.vpnType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnType/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway1.vpnType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2229,7 +2229,7 @@ virtualNetworkGateway2:
   path: Microsoft.Network/connections/virtualNetworkGateway2
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2246,7 +2246,7 @@ virtualNetworkGateway2.activeActive:
   path: Microsoft.Network/connections/virtualNetworkGateway2.activeActive
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.activeActive/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.activeActive
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2263,7 +2263,7 @@ virtualNetworkGateway2.bgpSettings:
   path: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2280,7 +2280,7 @@ virtualNetworkGateway2.bgpSettings.asn:
   path: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.asn
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.asn/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.asn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2297,7 +2297,7 @@ virtualNetworkGateway2.bgpSettings.bgpPeeringAddress:
   path: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.bgpPeeringAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.bgpPeeringAddress/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.bgpPeeringAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2314,7 +2314,7 @@ virtualNetworkGateway2.bgpSettings.peerWeight:
   path: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.peerWeight
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.peerWeight/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.bgpSettings.peerWeight
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2331,7 +2331,7 @@ virtualNetworkGateway2.customRoutes:
   path: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2348,7 +2348,7 @@ virtualNetworkGateway2.customRoutes.addressPrefixes:
   path: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.addressPrefixes/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2365,7 +2365,7 @@ virtualNetworkGateway2.customRoutes.addressPrefixes[*]:
   path: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.addressPrefixes[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.customRoutes.addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2382,7 +2382,7 @@ virtualNetworkGateway2.enableBgp:
   path: Microsoft.Network/connections/virtualNetworkGateway2.enableBgp
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.enableBgp/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.enableBgp
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2399,7 +2399,7 @@ virtualNetworkGateway2.enableDnsForwarding:
   path: Microsoft.Network/connections/virtualNetworkGateway2.enableDnsForwarding
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.enableDnsForwarding/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.enableDnsForwarding
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2416,7 +2416,7 @@ virtualNetworkGateway2.etag:
   path: Microsoft.Network/connections/virtualNetworkGateway2.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.etag/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2433,7 +2433,7 @@ virtualNetworkGateway2.gatewayDefaultSite:
   path: Microsoft.Network/connections/virtualNetworkGateway2.gatewayDefaultSite
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.gatewayDefaultSite/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.gatewayDefaultSite
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2450,7 +2450,7 @@ virtualNetworkGateway2.gatewayDefaultSite.id:
   path: Microsoft.Network/connections/virtualNetworkGateway2.gatewayDefaultSite.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.gatewayDefaultSite.id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.gatewayDefaultSite.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2467,7 +2467,7 @@ virtualNetworkGateway2.gatewayType:
   path: Microsoft.Network/connections/virtualNetworkGateway2.gatewayType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.gatewayType/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.gatewayType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2484,7 +2484,7 @@ virtualNetworkGateway2.id:
   path: Microsoft.Network/connections/virtualNetworkGateway2.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2501,7 +2501,7 @@ virtualNetworkGateway2.inboundDnsForwardingEndpoint:
   path: Microsoft.Network/connections/virtualNetworkGateway2.inboundDnsForwardingEndpoint
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.inboundDnsForwardingEndpoint/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.inboundDnsForwardingEndpoint
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2518,7 +2518,7 @@ virtualNetworkGateway2.ipConfigurations:
   path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2535,7 +2535,7 @@ virtualNetworkGateway2.ipConfigurations[*]:
   path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2552,7 +2552,7 @@ virtualNetworkGateway2.ipConfigurations[*].etag:
   path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].etag/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2569,7 +2569,7 @@ virtualNetworkGateway2.ipConfigurations[*].id:
   path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2586,7 +2586,7 @@ virtualNetworkGateway2.ipConfigurations[*].name:
   path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].name/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2603,7 +2603,7 @@ virtualNetworkGateway2.ipConfigurations[*].privateIPAddress:
   path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].privateIPAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].privateIPAddress/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].privateIPAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2620,7 +2620,7 @@ virtualNetworkGateway2.ipConfigurations[*].privateIPAllocationMethod:
   path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].privateIPAllocationMethod
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].privateIPAllocationMethod/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].privateIPAllocationMethod
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2637,7 +2637,7 @@ virtualNetworkGateway2.ipConfigurations[*].provisioningState:
   path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].provisioningState/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2654,7 +2654,7 @@ virtualNetworkGateway2.ipConfigurations[*].publicIPAddress:
   path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].publicIPAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].publicIPAddress/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].publicIPAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2671,7 +2671,7 @@ virtualNetworkGateway2.ipConfigurations[*].publicIPAddress.id:
   path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].publicIPAddress.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].publicIPAddress.id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].publicIPAddress.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2688,7 +2688,7 @@ virtualNetworkGateway2.ipConfigurations[*].subnet:
   path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].subnet
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].subnet/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].subnet
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2705,7 +2705,7 @@ virtualNetworkGateway2.ipConfigurations[*].subnet.id:
   path: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].subnet.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].subnet.id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.ipConfigurations[*].subnet.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2722,7 +2722,7 @@ virtualNetworkGateway2.location:
   path: Microsoft.Network/connections/virtualNetworkGateway2.location
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.location/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.location
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2739,7 +2739,7 @@ virtualNetworkGateway2.name:
   path: Microsoft.Network/connections/virtualNetworkGateway2.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.name/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2756,7 +2756,7 @@ virtualNetworkGateway2.provisioningState:
   path: Microsoft.Network/connections/virtualNetworkGateway2.provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.provisioningState/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2773,7 +2773,7 @@ virtualNetworkGateway2.resourceGuid:
   path: Microsoft.Network/connections/virtualNetworkGateway2.resourceGuid
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.resourceGuid/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.resourceGuid
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2790,7 +2790,7 @@ virtualNetworkGateway2.sku:
   path: Microsoft.Network/connections/virtualNetworkGateway2.sku
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.sku/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.sku
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2807,7 +2807,7 @@ virtualNetworkGateway2.sku.capacity:
   path: Microsoft.Network/connections/virtualNetworkGateway2.sku.capacity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.sku.capacity/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.sku.capacity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2824,7 +2824,7 @@ virtualNetworkGateway2.sku.name:
   path: Microsoft.Network/connections/virtualNetworkGateway2.sku.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.sku.name/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.sku.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2841,7 +2841,7 @@ virtualNetworkGateway2.sku.tier:
   path: Microsoft.Network/connections/virtualNetworkGateway2.sku.tier
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.sku.tier/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.sku.tier
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2858,7 +2858,7 @@ virtualNetworkGateway2.tags:
   path: Microsoft.Network/connections/virtualNetworkGateway2.tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.tags/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2875,7 +2875,7 @@ virtualNetworkGateway2.type:
   path: Microsoft.Network/connections/virtualNetworkGateway2.type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.type/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2892,7 +2892,7 @@ virtualNetworkGateway2.vpnClientConfiguration:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2909,7 +2909,7 @@ virtualNetworkGateway2.vpnClientConfiguration.aadAudience:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadAudience
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadAudience/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadAudience
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2926,7 +2926,7 @@ virtualNetworkGateway2.vpnClientConfiguration.aadIssuer:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadIssuer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadIssuer/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadIssuer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2943,7 +2943,7 @@ virtualNetworkGateway2.vpnClientConfiguration.aadTenant:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadTenant
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadTenant/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.aadTenant
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2960,7 +2960,7 @@ virtualNetworkGateway2.vpnClientConfiguration.radiusServerAddress:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.radiusServerAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.radiusServerAddress/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.radiusServerAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2977,7 +2977,7 @@ virtualNetworkGateway2.vpnClientConfiguration.radiusServerSecret:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.radiusServerSecret
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.radiusServerSecret/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.radiusServerSecret
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -2994,7 +2994,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3011,7 +3011,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefix
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3028,7 +3028,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefix
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientAddressPool.addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3045,7 +3045,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3062,7 +3062,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*]:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3079,7 +3079,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].dhGroup
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3096,7 +3096,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncry
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncryption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncryption/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeEncryption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3113,7 +3113,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeInteg
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ikeIntegrity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3130,7 +3130,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEnc
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecEncryption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3147,7 +3147,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecInt
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].ipsecIntegrity
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3164,7 +3164,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].pfsGroup
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3181,7 +3181,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSi
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saDataSizeKilobytes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3198,7 +3198,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTi
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientIpsecPolicies[*].saLifeTimeSeconds
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3215,7 +3215,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3232,7 +3232,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols[*]:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientProtocols[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3249,7 +3249,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3266,7 +3266,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*]:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3283,7 +3283,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].et
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].etag/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3300,7 +3300,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].id
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3317,7 +3317,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].na
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].name/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3334,7 +3334,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].pr
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].provisioningState/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3351,7 +3351,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].th
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].thumbprint
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].thumbprint/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRevokedCertificates[*].thumbprint
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3368,7 +3368,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3385,7 +3385,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*]:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*]/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3402,7 +3402,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].etag:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].etag/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3419,7 +3419,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].id:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].id/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3436,7 +3436,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].name:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].name/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3453,7 +3453,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].provi
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].provisioningState/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3470,7 +3470,7 @@ virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].publi
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].publicCertData
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].publicCertData/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnClientConfiguration.vpnClientRootCertificates[*].publicCertData
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3487,7 +3487,7 @@ virtualNetworkGateway2.vpnGatewayGeneration:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnGatewayGeneration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnGatewayGeneration/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnGatewayGeneration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -3504,7 +3504,7 @@ virtualNetworkGateway2.vpnType:
   path: Microsoft.Network/connections/virtualNetworkGateway2.vpnType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnType/README.md
+  url: Microsoft.Network/connections/virtualNetworkGateway2.vpnType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

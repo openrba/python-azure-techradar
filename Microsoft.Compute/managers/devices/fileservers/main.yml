@@ -2,7 +2,7 @@ shares:
   path: Microsoft.Compute/managers/devices/fileservers/shares
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managers/devices/fileservers/shares/README.md
+  url: Microsoft.Compute/managers/devices/fileservers/shares
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

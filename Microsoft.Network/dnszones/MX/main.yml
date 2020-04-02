@@ -2,7 +2,7 @@ AAAARecords:
   path: Microsoft.Network/dnszones/MX/AAAARecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/AAAARecords/README.md
+  url: Microsoft.Network/dnszones/MX/AAAARecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ AAAARecords[*]:
   path: Microsoft.Network/dnszones/MX/AAAARecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/AAAARecords[*]/README.md
+  url: Microsoft.Network/dnszones/MX/AAAARecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ AAAARecords[*].ipv6Address:
   path: Microsoft.Network/dnszones/MX/AAAARecords[*].ipv6Address
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/AAAARecords[*].ipv6Address/README.md
+  url: Microsoft.Network/dnszones/MX/AAAARecords[*].ipv6Address
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ ARecords:
   path: Microsoft.Network/dnszones/MX/ARecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/ARecords/README.md
+  url: Microsoft.Network/dnszones/MX/ARecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ ARecords[*]:
   path: Microsoft.Network/dnszones/MX/ARecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/ARecords[*]/README.md
+  url: Microsoft.Network/dnszones/MX/ARecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ ARecords[*].ipv4Address:
   path: Microsoft.Network/dnszones/MX/ARecords[*].ipv4Address
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/ARecords[*].ipv4Address/README.md
+  url: Microsoft.Network/dnszones/MX/ARecords[*].ipv4Address
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ CNAMERecord:
   path: Microsoft.Network/dnszones/MX/CNAMERecord
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/CNAMERecord/README.md
+  url: Microsoft.Network/dnszones/MX/CNAMERecord
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ CNAMERecord.cname:
   path: Microsoft.Network/dnszones/MX/CNAMERecord.cname
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/CNAMERecord.cname/README.md
+  url: Microsoft.Network/dnszones/MX/CNAMERecord.cname
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ MXRecords:
   path: Microsoft.Network/dnszones/MX/MXRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/MXRecords/README.md
+  url: Microsoft.Network/dnszones/MX/MXRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ MXRecords[*]:
   path: Microsoft.Network/dnszones/MX/MXRecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/MXRecords[*]/README.md
+  url: Microsoft.Network/dnszones/MX/MXRecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ MXRecords[*].exchange:
   path: Microsoft.Network/dnszones/MX/MXRecords[*].exchange
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/MXRecords[*].exchange/README.md
+  url: Microsoft.Network/dnszones/MX/MXRecords[*].exchange
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ MXRecords[*].preference:
   path: Microsoft.Network/dnszones/MX/MXRecords[*].preference
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/MXRecords[*].preference/README.md
+  url: Microsoft.Network/dnszones/MX/MXRecords[*].preference
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ NSRecords:
   path: Microsoft.Network/dnszones/MX/NSRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/NSRecords/README.md
+  url: Microsoft.Network/dnszones/MX/NSRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ NSRecords[*]:
   path: Microsoft.Network/dnszones/MX/NSRecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/NSRecords[*]/README.md
+  url: Microsoft.Network/dnszones/MX/NSRecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ NSRecords[*].nsdname:
   path: Microsoft.Network/dnszones/MX/NSRecords[*].nsdname
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/NSRecords[*].nsdname/README.md
+  url: Microsoft.Network/dnszones/MX/NSRecords[*].nsdname
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ PTRRecords:
   path: Microsoft.Network/dnszones/MX/PTRRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/PTRRecords/README.md
+  url: Microsoft.Network/dnszones/MX/PTRRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ PTRRecords[*]:
   path: Microsoft.Network/dnszones/MX/PTRRecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/PTRRecords[*]/README.md
+  url: Microsoft.Network/dnszones/MX/PTRRecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ PTRRecords[*].ptrdname:
   path: Microsoft.Network/dnszones/MX/PTRRecords[*].ptrdname
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/PTRRecords[*].ptrdname/README.md
+  url: Microsoft.Network/dnszones/MX/PTRRecords[*].ptrdname
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ SOARecord:
   path: Microsoft.Network/dnszones/MX/SOARecord
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SOARecord/README.md
+  url: Microsoft.Network/dnszones/MX/SOARecord
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ SOARecord.email:
   path: Microsoft.Network/dnszones/MX/SOARecord.email
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SOARecord.email/README.md
+  url: Microsoft.Network/dnszones/MX/SOARecord.email
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ SOARecord.expireTime:
   path: Microsoft.Network/dnszones/MX/SOARecord.expireTime
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SOARecord.expireTime/README.md
+  url: Microsoft.Network/dnszones/MX/SOARecord.expireTime
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ SOARecord.host:
   path: Microsoft.Network/dnszones/MX/SOARecord.host
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SOARecord.host/README.md
+  url: Microsoft.Network/dnszones/MX/SOARecord.host
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ SOARecord.minimumTTL:
   path: Microsoft.Network/dnszones/MX/SOARecord.minimumTTL
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SOARecord.minimumTTL/README.md
+  url: Microsoft.Network/dnszones/MX/SOARecord.minimumTTL
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ SOARecord.refreshTime:
   path: Microsoft.Network/dnszones/MX/SOARecord.refreshTime
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SOARecord.refreshTime/README.md
+  url: Microsoft.Network/dnszones/MX/SOARecord.refreshTime
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ SOARecord.retryTime:
   path: Microsoft.Network/dnszones/MX/SOARecord.retryTime
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SOARecord.retryTime/README.md
+  url: Microsoft.Network/dnszones/MX/SOARecord.retryTime
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ SOARecord.serialNumber:
   path: Microsoft.Network/dnszones/MX/SOARecord.serialNumber
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SOARecord.serialNumber/README.md
+  url: Microsoft.Network/dnszones/MX/SOARecord.serialNumber
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ SRVRecords:
   path: Microsoft.Network/dnszones/MX/SRVRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SRVRecords/README.md
+  url: Microsoft.Network/dnszones/MX/SRVRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ SRVRecords[*]:
   path: Microsoft.Network/dnszones/MX/SRVRecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SRVRecords[*]/README.md
+  url: Microsoft.Network/dnszones/MX/SRVRecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ SRVRecords[*].port:
   path: Microsoft.Network/dnszones/MX/SRVRecords[*].port
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SRVRecords[*].port/README.md
+  url: Microsoft.Network/dnszones/MX/SRVRecords[*].port
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ SRVRecords[*].priority:
   path: Microsoft.Network/dnszones/MX/SRVRecords[*].priority
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SRVRecords[*].priority/README.md
+  url: Microsoft.Network/dnszones/MX/SRVRecords[*].priority
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ SRVRecords[*].target:
   path: Microsoft.Network/dnszones/MX/SRVRecords[*].target
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SRVRecords[*].target/README.md
+  url: Microsoft.Network/dnszones/MX/SRVRecords[*].target
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ SRVRecords[*].weight:
   path: Microsoft.Network/dnszones/MX/SRVRecords[*].weight
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/SRVRecords[*].weight/README.md
+  url: Microsoft.Network/dnszones/MX/SRVRecords[*].weight
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ TTL:
   path: Microsoft.Network/dnszones/MX/TTL
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/TTL/README.md
+  url: Microsoft.Network/dnszones/MX/TTL
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ TXTRecords:
   path: Microsoft.Network/dnszones/MX/TXTRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/TXTRecords/README.md
+  url: Microsoft.Network/dnszones/MX/TXTRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ TXTRecords[*]:
   path: Microsoft.Network/dnszones/MX/TXTRecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/TXTRecords[*]/README.md
+  url: Microsoft.Network/dnszones/MX/TXTRecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ caaRecords:
   path: Microsoft.Network/dnszones/MX/caaRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/caaRecords/README.md
+  url: Microsoft.Network/dnszones/MX/caaRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ caaRecords[*]:
   path: Microsoft.Network/dnszones/MX/caaRecords[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/caaRecords[*]/README.md
+  url: Microsoft.Network/dnszones/MX/caaRecords[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ caaRecords[*].flags:
   path: Microsoft.Network/dnszones/MX/caaRecords[*].flags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/caaRecords[*].flags/README.md
+  url: Microsoft.Network/dnszones/MX/caaRecords[*].flags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ caaRecords[*].tag:
   path: Microsoft.Network/dnszones/MX/caaRecords[*].tag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/caaRecords[*].tag/README.md
+  url: Microsoft.Network/dnszones/MX/caaRecords[*].tag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ caaRecords[*].value:
   path: Microsoft.Network/dnszones/MX/caaRecords[*].value
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/caaRecords[*].value/README.md
+  url: Microsoft.Network/dnszones/MX/caaRecords[*].value
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ fqdn:
   path: Microsoft.Network/dnszones/MX/fqdn
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/fqdn/README.md
+  url: Microsoft.Network/dnszones/MX/fqdn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ metadata:
   path: Microsoft.Network/dnszones/MX/metadata
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/metadata/README.md
+  url: Microsoft.Network/dnszones/MX/metadata
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ provisioningState:
   path: Microsoft.Network/dnszones/MX/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/provisioningState/README.md
+  url: Microsoft.Network/dnszones/MX/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ targetResource:
   path: Microsoft.Network/dnszones/MX/targetResource
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/targetResource/README.md
+  url: Microsoft.Network/dnszones/MX/targetResource
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ targetResource.id:
   path: Microsoft.Network/dnszones/MX/targetResource.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/dnszones/MX/targetResource.id/README.md
+  url: Microsoft.Network/dnszones/MX/targetResource.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

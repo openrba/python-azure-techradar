@@ -2,7 +2,7 @@ versions:
   path: Microsoft.Compute/clusters/applicationTypes/versions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/clusters/applicationTypes/versions/README.md
+  url: Microsoft.Compute/clusters/applicationTypes/versions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

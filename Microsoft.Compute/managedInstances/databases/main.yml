@@ -2,7 +2,7 @@ backupLongTermRetentionPolicies:
   path: Microsoft.Compute/managedInstances/databases/backupLongTermRetentionPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/databases/backupLongTermRetentionPolicies/README.md
+  url: Microsoft.Compute/managedInstances/databases/backupLongTermRetentionPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ backupShortTermRetentionPolicies:
   path: Microsoft.Compute/managedInstances/databases/backupShortTermRetentionPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/databases/backupShortTermRetentionPolicies/README.md
+  url: Microsoft.Compute/managedInstances/databases/backupShortTermRetentionPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ schemas:
   path: Microsoft.Compute/managedInstances/databases/schemas
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/databases/schemas/README.md
+  url: Microsoft.Compute/managedInstances/databases/schemas
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ securityAlertPolicies:
   path: Microsoft.Compute/managedInstances/databases/securityAlertPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/databases/securityAlertPolicies/README.md
+  url: Microsoft.Compute/managedInstances/databases/securityAlertPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ vulnerabilityAssessments:
   path: Microsoft.Compute/managedInstances/databases/vulnerabilityAssessments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/databases/vulnerabilityAssessments/README.md
+  url: Microsoft.Compute/managedInstances/databases/vulnerabilityAssessments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

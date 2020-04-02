@@ -2,7 +2,7 @@ ProactiveDetectionConfigs:
   path: Microsoft.Compute/Components/ProactiveDetectionConfigs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/Components/ProactiveDetectionConfigs/README.md
+  url: Microsoft.Compute/Components/ProactiveDetectionConfigs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ capabilities:
   path: Microsoft.Network/domainNames/capabilities
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/domainNames/capabilities/README.md
+  url: Microsoft.Network/domainNames/capabilities
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ internalLoadBalancers:
   path: Microsoft.Network/domainNames/internalLoadBalancers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/domainNames/internalLoadBalancers/README.md
+  url: Microsoft.Network/domainNames/internalLoadBalancers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ serviceCertificates:
   path: Microsoft.Network/domainNames/serviceCertificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/domainNames/serviceCertificates/README.md
+  url: Microsoft.Network/domainNames/serviceCertificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ slots:
   path: Microsoft.Network/domainNames/slots
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/domainNames/slots/README.md
+  url: Microsoft.Network/domainNames/slots
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

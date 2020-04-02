@@ -2,7 +2,7 @@ cancel:
   path: Microsoft.Network/registries/builds/cancel
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/builds/cancel/README.md
+  url: Microsoft.Network/registries/builds/cancel
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ getLogLink:
   path: Microsoft.Network/registries/builds/getLogLink
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/registries/builds/getLogLink/README.md
+  url: Microsoft.Network/registries/builds/getLogLink
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

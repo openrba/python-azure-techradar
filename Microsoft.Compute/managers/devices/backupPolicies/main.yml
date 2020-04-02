@@ -2,7 +2,7 @@ schedules:
   path: Microsoft.Compute/managers/devices/backupPolicies/schedules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managers/devices/backupPolicies/schedules/README.md
+  url: Microsoft.Compute/managers/devices/backupPolicies/schedules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

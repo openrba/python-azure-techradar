@@ -29,18 +29,24 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[diagnostics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/diagnostics/README.md)|UNKNOWN|Microsoft.Network/service/apis/diagnostics|TRIAL|
-|[issues](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/issues/README.md)|UNKNOWN|Microsoft.Network/service/apis/issues|TRIAL|
-|[operations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/operations/README.md)|UNKNOWN|Microsoft.Network/service/apis/operations|TRIAL|
-|[policies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/policies/README.md)|UNKNOWN|Microsoft.Network/service/apis/policies|TRIAL|
-|[releases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/releases/README.md)|UNKNOWN|Microsoft.Network/service/apis/releases|TRIAL|
-|[schemas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/schemas/README.md)|UNKNOWN|Microsoft.Network/service/apis/schemas|TRIAL|
-|[tagDescriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/tagDescriptions/README.md)|UNKNOWN|Microsoft.Network/service/apis/tagDescriptions|TRIAL|
-|[tags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/tags/README.md)|UNKNOWN|Microsoft.Network/service/apis/tags|TRIAL|
+|[diagnostics](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/diagnostics)|UNKNOWN|Microsoft.Network/service/apis/diagnostics|TRIAL|
+|[issues](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/issues)|UNKNOWN|Microsoft.Network/service/apis/issues|TRIAL|
+|[operations](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/operations)|UNKNOWN|Microsoft.Network/service/apis/operations|TRIAL|
+|[policies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/policies)|UNKNOWN|Microsoft.Network/service/apis/policies|TRIAL|
+|[releases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/releases)|UNKNOWN|Microsoft.Network/service/apis/releases|TRIAL|
+|[schemas](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/schemas)|UNKNOWN|Microsoft.Network/service/apis/schemas|TRIAL|
+|[tagDescriptions](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/tagDescriptions)|UNKNOWN|Microsoft.Network/service/apis/tagDescriptions|TRIAL|
+|[tags](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/service/apis/tags)|UNKNOWN|Microsoft.Network/service/apis/tags|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

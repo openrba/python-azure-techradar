@@ -29,21 +29,27 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[allowForwardedTraffic](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowForwardedTraffic/README.md)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowForwardedTraffic|TRIAL|
-|[allowGatewayTransit](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowGatewayTransit/README.md)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowGatewayTransit|TRIAL|
-|[allowVirtualNetworkAccess](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowVirtualNetworkAccess/README.md)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowVirtualNetworkAccess|TRIAL|
-|[peeringState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peeringState/README.md)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peeringState|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/provisioningState/README.md)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/provisioningState|TRIAL|
-|[remoteAddressSpace](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace/README.md)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace|TRIAL|
-|[remoteAddressSpace.addressPrefixes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes/README.md)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes|TRIAL|
-|[remoteAddressSpace.addressPrefixes[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*]/README.md)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*]|TRIAL|
-|[remoteVirtualNetwork](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork/README.md)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork|TRIAL|
-|[remoteVirtualNetwork.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork.id/README.md)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork.id|TRIAL|
-|[useRemoteGateways](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/useRemoteGateways/README.md)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/useRemoteGateways|TRIAL|
+|[allowForwardedTraffic](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowForwardedTraffic)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowForwardedTraffic|TRIAL|
+|[allowGatewayTransit](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowGatewayTransit)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowGatewayTransit|TRIAL|
+|[allowVirtualNetworkAccess](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowVirtualNetworkAccess)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/allowVirtualNetworkAccess|TRIAL|
+|[peeringState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peeringState)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/peeringState|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/provisioningState)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/provisioningState|TRIAL|
+|[remoteAddressSpace](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace|TRIAL|
+|[remoteAddressSpace.addressPrefixes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes|TRIAL|
+|[remoteAddressSpace.addressPrefixes[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*])|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*]|TRIAL|
+|[remoteVirtualNetwork](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork|TRIAL|
+|[remoteVirtualNetwork.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork.id)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetwork.id|TRIAL|
+|[useRemoteGateways](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualNetworks/virtualNetworkPeerings/useRemoteGateways)|UNKNOWN|Microsoft.Network/virtualNetworks/virtualNetworkPeerings/useRemoteGateways|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

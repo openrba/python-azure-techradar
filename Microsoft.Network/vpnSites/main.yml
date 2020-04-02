@@ -2,7 +2,7 @@ addressSpace:
   path: Microsoft.Network/vpnSites/addressSpace
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/addressSpace/README.md
+  url: Microsoft.Network/vpnSites/addressSpace
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ addressSpace.addressPrefixes:
   path: Microsoft.Network/vpnSites/addressSpace.addressPrefixes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/addressSpace.addressPrefixes/README.md
+  url: Microsoft.Network/vpnSites/addressSpace.addressPrefixes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ addressSpace.addressPrefixes[*]:
   path: Microsoft.Network/vpnSites/addressSpace.addressPrefixes[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/addressSpace.addressPrefixes[*]/README.md
+  url: Microsoft.Network/vpnSites/addressSpace.addressPrefixes[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ bgpProperties:
   path: Microsoft.Network/vpnSites/bgpProperties
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/bgpProperties/README.md
+  url: Microsoft.Network/vpnSites/bgpProperties
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ bgpProperties.asn:
   path: Microsoft.Network/vpnSites/bgpProperties.asn
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/bgpProperties.asn/README.md
+  url: Microsoft.Network/vpnSites/bgpProperties.asn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ bgpProperties.bgpPeeringAddress:
   path: Microsoft.Network/vpnSites/bgpProperties.bgpPeeringAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/bgpProperties.bgpPeeringAddress/README.md
+  url: Microsoft.Network/vpnSites/bgpProperties.bgpPeeringAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ bgpProperties.peerWeight:
   path: Microsoft.Network/vpnSites/bgpProperties.peerWeight
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/bgpProperties.peerWeight/README.md
+  url: Microsoft.Network/vpnSites/bgpProperties.peerWeight
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ deviceProperties:
   path: Microsoft.Network/vpnSites/deviceProperties
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/deviceProperties/README.md
+  url: Microsoft.Network/vpnSites/deviceProperties
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ deviceProperties.deviceModel:
   path: Microsoft.Network/vpnSites/deviceProperties.deviceModel
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/deviceProperties.deviceModel/README.md
+  url: Microsoft.Network/vpnSites/deviceProperties.deviceModel
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ deviceProperties.deviceVendor:
   path: Microsoft.Network/vpnSites/deviceProperties.deviceVendor
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/deviceProperties.deviceVendor/README.md
+  url: Microsoft.Network/vpnSites/deviceProperties.deviceVendor
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ deviceProperties.linkSpeedInMbps:
   path: Microsoft.Network/vpnSites/deviceProperties.linkSpeedInMbps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/deviceProperties.linkSpeedInMbps/README.md
+  url: Microsoft.Network/vpnSites/deviceProperties.linkSpeedInMbps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ ipAddress:
   path: Microsoft.Network/vpnSites/ipAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/ipAddress/README.md
+  url: Microsoft.Network/vpnSites/ipAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ isSecuritySite:
   path: Microsoft.Network/vpnSites/isSecuritySite
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/isSecuritySite/README.md
+  url: Microsoft.Network/vpnSites/isSecuritySite
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ provisioningState:
   path: Microsoft.Network/vpnSites/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/provisioningState/README.md
+  url: Microsoft.Network/vpnSites/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ siteKey:
   path: Microsoft.Network/vpnSites/siteKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/siteKey/README.md
+  url: Microsoft.Network/vpnSites/siteKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ virtualWAN:
   path: Microsoft.Network/vpnSites/virtualWAN
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/virtualWAN/README.md
+  url: Microsoft.Network/vpnSites/virtualWAN
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ virtualWAN.id:
   path: Microsoft.Network/vpnSites/virtualWAN.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/virtualWAN.id/README.md
+  url: Microsoft.Network/vpnSites/virtualWAN.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ vpnSiteLinks:
   path: Microsoft.Network/vpnSites/vpnSiteLinks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ vpnSiteLinks[*]:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*]/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ vpnSiteLinks[*].bgpProperties:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ vpnSiteLinks[*].bgpProperties.asn:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.asn
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.asn/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.asn
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ vpnSiteLinks[*].bgpProperties.bgpPeeringAddress:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.bgpPeeringAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.bgpPeeringAddress/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].bgpProperties.bgpPeeringAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ vpnSiteLinks[*].etag:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].etag/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ vpnSiteLinks[*].id:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].id/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ vpnSiteLinks[*].ipAddress:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*].ipAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].ipAddress/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].ipAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ vpnSiteLinks[*].linkProperties:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ vpnSiteLinks[*].linkProperties.linkProviderName:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkProviderName
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkProviderName/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkProviderName
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ vpnSiteLinks[*].linkProperties.linkSpeedInMbps:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkSpeedInMbps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkSpeedInMbps/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].linkProperties.linkSpeedInMbps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ vpnSiteLinks[*].name:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].name/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ vpnSiteLinks[*].provisioningState:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].provisioningState/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ vpnSiteLinks[*].type:
   path: Microsoft.Network/vpnSites/vpnSiteLinks[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].type/README.md
+  url: Microsoft.Network/vpnSites/vpnSiteLinks[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

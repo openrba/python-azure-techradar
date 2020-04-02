@@ -2,7 +2,7 @@ endpoints:
   path: Microsoft.Compute/profiles/endpoints
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/profiles/endpoints/README.md
+  url: Microsoft.Compute/profiles/endpoints
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

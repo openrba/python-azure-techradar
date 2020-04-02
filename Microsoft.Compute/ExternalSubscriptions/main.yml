@@ -2,7 +2,7 @@ Alerts:
   path: Microsoft.Compute/ExternalSubscriptions/Alerts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/ExternalSubscriptions/Alerts/README.md
+  url: Microsoft.Compute/ExternalSubscriptions/Alerts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ Dimensions:
   path: Microsoft.Compute/ExternalSubscriptions/Dimensions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/ExternalSubscriptions/Dimensions/README.md
+  url: Microsoft.Compute/ExternalSubscriptions/Dimensions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ Forecast:
   path: Microsoft.Compute/ExternalSubscriptions/Forecast
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/ExternalSubscriptions/Forecast/README.md
+  url: Microsoft.Compute/ExternalSubscriptions/Forecast
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ Query:
   path: Microsoft.Compute/ExternalSubscriptions/Query
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/ExternalSubscriptions/Query/README.md
+  url: Microsoft.Compute/ExternalSubscriptions/Query
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

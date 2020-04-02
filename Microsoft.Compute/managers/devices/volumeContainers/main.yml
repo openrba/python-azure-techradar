@@ -2,7 +2,7 @@ volumes:
   path: Microsoft.Compute/managers/devices/volumeContainers/volumes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managers/devices/volumeContainers/volumes/README.md
+  url: Microsoft.Compute/managers/devices/volumeContainers/volumes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

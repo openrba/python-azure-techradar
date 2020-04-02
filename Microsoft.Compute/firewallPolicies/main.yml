@@ -2,7 +2,7 @@ ruleGroups:
   path: Microsoft.Compute/firewallPolicies/ruleGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/firewallPolicies/ruleGroups/README.md
+  url: Microsoft.Compute/firewallPolicies/ruleGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

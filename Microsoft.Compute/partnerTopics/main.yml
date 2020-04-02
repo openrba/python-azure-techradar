@@ -2,7 +2,7 @@ eventSubscriptions:
   path: Microsoft.Compute/partnerTopics/eventSubscriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/partnerTopics/eventSubscriptions/README.md
+  url: Microsoft.Compute/partnerTopics/eventSubscriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

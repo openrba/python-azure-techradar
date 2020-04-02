@@ -2,7 +2,7 @@ assignmentOperations:
   path: Microsoft.Network/blueprintAssignments/assignmentOperations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/blueprintAssignments/assignmentOperations/README.md
+  url: Microsoft.Network/blueprintAssignments/assignmentOperations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ operations:
   path: Microsoft.Network/blueprintAssignments/operations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/blueprintAssignments/operations/README.md
+  url: Microsoft.Network/blueprintAssignments/operations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

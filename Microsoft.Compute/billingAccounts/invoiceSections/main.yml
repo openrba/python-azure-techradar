@@ -2,7 +2,7 @@ billingSubscriptionMoveOperations:
   path: Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptionMoveOperations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptionMoveOperations/README.md
+  url: Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptionMoveOperations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ billingSubscriptions:
   path: Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptions/README.md
+  url: Microsoft.Compute/billingAccounts/invoiceSections/billingSubscriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ elevate:
   path: Microsoft.Compute/billingAccounts/invoiceSections/elevate
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/billingAccounts/invoiceSections/elevate/README.md
+  url: Microsoft.Compute/billingAccounts/invoiceSections/elevate
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ initiateTransfer:
   path: Microsoft.Compute/billingAccounts/invoiceSections/initiateTransfer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/billingAccounts/invoiceSections/initiateTransfer/README.md
+  url: Microsoft.Compute/billingAccounts/invoiceSections/initiateTransfer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ patchOperations:
   path: Microsoft.Compute/billingAccounts/invoiceSections/patchOperations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/billingAccounts/invoiceSections/patchOperations/README.md
+  url: Microsoft.Compute/billingAccounts/invoiceSections/patchOperations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ productMoveOperations:
   path: Microsoft.Compute/billingAccounts/invoiceSections/productMoveOperations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/billingAccounts/invoiceSections/productMoveOperations/README.md
+  url: Microsoft.Compute/billingAccounts/invoiceSections/productMoveOperations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ productTransfersResults:
   path: Microsoft.Compute/billingAccounts/invoiceSections/productTransfersResults
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/billingAccounts/invoiceSections/productTransfersResults/README.md
+  url: Microsoft.Compute/billingAccounts/invoiceSections/productTransfersResults
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ products:
   path: Microsoft.Compute/billingAccounts/invoiceSections/products
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/billingAccounts/invoiceSections/products/README.md
+  url: Microsoft.Compute/billingAccounts/invoiceSections/products
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ transactions:
   path: Microsoft.Compute/billingAccounts/invoiceSections/transactions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/billingAccounts/invoiceSections/transactions/README.md
+  url: Microsoft.Compute/billingAccounts/invoiceSections/transactions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ transfers:
   path: Microsoft.Compute/billingAccounts/invoiceSections/transfers
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/billingAccounts/invoiceSections/transfers/README.md
+  url: Microsoft.Compute/billingAccounts/invoiceSections/transfers
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -29,16 +29,22 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[cassandraKeyspaces](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/cassandraKeyspaces/README.md)|UNKNOWN|Microsoft.Compute/databaseAccounts/cassandraKeyspaces|TRIAL|
-|[gremlinDatabases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/gremlinDatabases/README.md)|UNKNOWN|Microsoft.Compute/databaseAccounts/gremlinDatabases|TRIAL|
-|[mongodbDatabases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/mongodbDatabases/README.md)|UNKNOWN|Microsoft.Compute/databaseAccounts/mongodbDatabases|TRIAL|
-|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/privateEndpointConnections/README.md)|UNKNOWN|Microsoft.Compute/databaseAccounts/privateEndpointConnections|TRIAL|
-|[sqlDatabases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/sqlDatabases/README.md)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases|TRIAL|
-|[tables](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/tables/README.md)|UNKNOWN|Microsoft.Compute/databaseAccounts/tables|TRIAL|
+|[cassandraKeyspaces](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/cassandraKeyspaces)|UNKNOWN|Microsoft.Compute/databaseAccounts/cassandraKeyspaces|TRIAL|
+|[gremlinDatabases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/gremlinDatabases)|UNKNOWN|Microsoft.Compute/databaseAccounts/gremlinDatabases|TRIAL|
+|[mongodbDatabases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/mongodbDatabases)|UNKNOWN|Microsoft.Compute/databaseAccounts/mongodbDatabases|TRIAL|
+|[privateEndpointConnections](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/privateEndpointConnections)|UNKNOWN|Microsoft.Compute/databaseAccounts/privateEndpointConnections|TRIAL|
+|[sqlDatabases](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/sqlDatabases)|UNKNOWN|Microsoft.Compute/databaseAccounts/sqlDatabases|TRIAL|
+|[tables](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/databaseAccounts/tables)|UNKNOWN|Microsoft.Compute/databaseAccounts/tables|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

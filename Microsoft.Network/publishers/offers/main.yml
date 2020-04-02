@@ -2,7 +2,7 @@ amendments:
   path: Microsoft.Network/publishers/offers/amendments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/publishers/offers/amendments/README.md
+  url: Microsoft.Network/publishers/offers/amendments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

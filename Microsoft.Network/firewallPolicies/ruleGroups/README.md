@@ -29,17 +29,23 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[priority](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/priority/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/priority|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/provisioningState/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/provisioningState|TRIAL|
-|[rules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/rules/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/rules|TRIAL|
-|[rules[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/rules[*]/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/rules[*]|TRIAL|
-|[rules[*].name](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/rules[*].name/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/rules[*].name|TRIAL|
-|[rules[*].priority](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/rules[*].priority/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/rules[*].priority|TRIAL|
-|[rules[*].ruleType](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/rules[*].ruleType/README.md)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/rules[*].ruleType|TRIAL|
+|[priority](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/priority)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/priority|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/provisioningState)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/provisioningState|TRIAL|
+|[rules](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/rules)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/rules|TRIAL|
+|[rules[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/rules[*])|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/rules[*]|TRIAL|
+|[rules[*].name](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/rules[*].name)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/rules[*].name|TRIAL|
+|[rules[*].priority](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/rules[*].priority)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/rules[*].priority|TRIAL|
+|[rules[*].ruleType](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/firewallPolicies/ruleGroups/rules[*].ruleType)|UNKNOWN|Microsoft.Network/firewallPolicies/ruleGroups/rules[*].ruleType|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

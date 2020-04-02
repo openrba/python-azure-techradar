@@ -2,7 +2,7 @@ applications:
   path: Microsoft.Network/batchAccounts/applications
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/batchAccounts/applications/README.md
+  url: Microsoft.Network/batchAccounts/applications
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ certificates:
   path: Microsoft.Network/batchAccounts/certificates
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/batchAccounts/certificates/README.md
+  url: Microsoft.Network/batchAccounts/certificates
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ pools:
   path: Microsoft.Network/batchAccounts/pools
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/batchAccounts/pools/README.md
+  url: Microsoft.Network/batchAccounts/pools
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

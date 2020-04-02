@@ -29,21 +29,27 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[hostedGateway](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/hostedGateway/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/hostedGateway|TRIAL|
-|[hostedGateway.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/hostedGateway.id/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/hostedGateway.id|TRIAL|
-|[hostedSubnet](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/hostedSubnet/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/hostedSubnet|TRIAL|
-|[hostedSubnet.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/hostedSubnet.id/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/hostedSubnet.id|TRIAL|
-|[peerings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/peerings/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings|TRIAL|
-|[peerings[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/peerings[*]/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings[*]|TRIAL|
-|[peerings[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/peerings[*].id/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/peerings[*].id|TRIAL|
-|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/provisioningState/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/provisioningState|TRIAL|
-|[virtualRouterAsn](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/virtualRouterAsn/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/virtualRouterAsn|TRIAL|
-|[virtualRouterIps](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/virtualRouterIps/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/virtualRouterIps|TRIAL|
-|[virtualRouterIps[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/virtualRouterIps[*]/README.md)|UNKNOWN|Microsoft.Network/virtualRouters/virtualRouterIps[*]|TRIAL|
+|[hostedGateway](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/hostedGateway)|UNKNOWN|Microsoft.Network/virtualRouters/hostedGateway|TRIAL|
+|[hostedGateway.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/hostedGateway.id)|UNKNOWN|Microsoft.Network/virtualRouters/hostedGateway.id|TRIAL|
+|[hostedSubnet](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/hostedSubnet)|UNKNOWN|Microsoft.Network/virtualRouters/hostedSubnet|TRIAL|
+|[hostedSubnet.id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/hostedSubnet.id)|UNKNOWN|Microsoft.Network/virtualRouters/hostedSubnet.id|TRIAL|
+|[peerings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/peerings)|UNKNOWN|Microsoft.Network/virtualRouters/peerings|TRIAL|
+|[peerings[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/peerings[*])|UNKNOWN|Microsoft.Network/virtualRouters/peerings[*]|TRIAL|
+|[peerings[*].id](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/peerings[*].id)|UNKNOWN|Microsoft.Network/virtualRouters/peerings[*].id|TRIAL|
+|[provisioningState](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/provisioningState)|UNKNOWN|Microsoft.Network/virtualRouters/provisioningState|TRIAL|
+|[virtualRouterAsn](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/virtualRouterAsn)|UNKNOWN|Microsoft.Network/virtualRouters/virtualRouterAsn|TRIAL|
+|[virtualRouterIps](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/virtualRouterIps)|UNKNOWN|Microsoft.Network/virtualRouters/virtualRouterIps|TRIAL|
+|[virtualRouterIps[*]](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network/virtualRouters/virtualRouterIps[*])|UNKNOWN|Microsoft.Network/virtualRouters/virtualRouterIps[*]|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

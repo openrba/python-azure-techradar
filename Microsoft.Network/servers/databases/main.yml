@@ -2,7 +2,7 @@ VulnerabilityAssessment:
   path: Microsoft.Network/servers/databases/VulnerabilityAssessment
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/VulnerabilityAssessment/README.md
+  url: Microsoft.Network/servers/databases/VulnerabilityAssessment
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ VulnerabilityAssessmentScans:
   path: Microsoft.Network/servers/databases/VulnerabilityAssessmentScans
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/VulnerabilityAssessmentScans/README.md
+  url: Microsoft.Network/servers/databases/VulnerabilityAssessmentScans
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ VulnerabilityAssessmentSettings:
   path: Microsoft.Network/servers/databases/VulnerabilityAssessmentSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/VulnerabilityAssessmentSettings/README.md
+  url: Microsoft.Network/servers/databases/VulnerabilityAssessmentSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ advisors:
   path: Microsoft.Network/servers/databases/advisors
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/advisors/README.md
+  url: Microsoft.Network/servers/databases/advisors
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ auditRecords:
   path: Microsoft.Network/servers/databases/auditRecords
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/auditRecords/README.md
+  url: Microsoft.Network/servers/databases/auditRecords
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ auditingPolicies:
   path: Microsoft.Network/servers/databases/auditingPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/auditingPolicies/README.md
+  url: Microsoft.Network/servers/databases/auditingPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ auditingSettings:
   path: Microsoft.Network/servers/databases/auditingSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/auditingSettings/README.md
+  url: Microsoft.Network/servers/databases/auditingSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ automaticTuning:
   path: Microsoft.Network/servers/databases/automaticTuning
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/automaticTuning/README.md
+  url: Microsoft.Network/servers/databases/automaticTuning
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ backupLongTermRetentionPolicies:
   path: Microsoft.Network/servers/databases/backupLongTermRetentionPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/backupLongTermRetentionPolicies/README.md
+  url: Microsoft.Network/servers/databases/backupLongTermRetentionPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ backupShortTermRetentionPolicies:
   path: Microsoft.Network/servers/databases/backupShortTermRetentionPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/backupShortTermRetentionPolicies/README.md
+  url: Microsoft.Network/servers/databases/backupShortTermRetentionPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ connectionPolicies:
   path: Microsoft.Network/servers/databases/connectionPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/connectionPolicies/README.md
+  url: Microsoft.Network/servers/databases/connectionPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ dataMaskingPolicies:
   path: Microsoft.Network/servers/databases/dataMaskingPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/dataMaskingPolicies/README.md
+  url: Microsoft.Network/servers/databases/dataMaskingPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ extendedAuditingSettings:
   path: Microsoft.Network/servers/databases/extendedAuditingSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/extendedAuditingSettings/README.md
+  url: Microsoft.Network/servers/databases/extendedAuditingSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ extensions:
   path: Microsoft.Network/servers/databases/extensions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/extensions/README.md
+  url: Microsoft.Network/servers/databases/extensions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ geoBackupPolicies:
   path: Microsoft.Network/servers/databases/geoBackupPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/geoBackupPolicies/README.md
+  url: Microsoft.Network/servers/databases/geoBackupPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ metricDefinitions:
   path: Microsoft.Network/servers/databases/metricDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/metricDefinitions/README.md
+  url: Microsoft.Network/servers/databases/metricDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ metrics:
   path: Microsoft.Network/servers/databases/metrics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/metrics/README.md
+  url: Microsoft.Network/servers/databases/metrics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ recommendedSensitivityLabels:
   path: Microsoft.Network/servers/databases/recommendedSensitivityLabels
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/recommendedSensitivityLabels/README.md
+  url: Microsoft.Network/servers/databases/recommendedSensitivityLabels
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ schemas:
   path: Microsoft.Network/servers/databases/schemas
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/schemas/README.md
+  url: Microsoft.Network/servers/databases/schemas
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ securityAlertPolicies:
   path: Microsoft.Network/servers/databases/securityAlertPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/securityAlertPolicies/README.md
+  url: Microsoft.Network/servers/databases/securityAlertPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ syncGroups:
   path: Microsoft.Network/servers/databases/syncGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/syncGroups/README.md
+  url: Microsoft.Network/servers/databases/syncGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ topQueries:
   path: Microsoft.Network/servers/databases/topQueries
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/topQueries/README.md
+  url: Microsoft.Network/servers/databases/topQueries
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ transparentDataEncryption:
   path: Microsoft.Network/servers/databases/transparentDataEncryption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/transparentDataEncryption/README.md
+  url: Microsoft.Network/servers/databases/transparentDataEncryption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ vulnerabilityAssessments:
   path: Microsoft.Network/servers/databases/vulnerabilityAssessments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/vulnerabilityAssessments/README.md
+  url: Microsoft.Network/servers/databases/vulnerabilityAssessments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ workloadGroups:
   path: Microsoft.Network/servers/databases/workloadGroups
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/servers/databases/workloadGroups/README.md
+  url: Microsoft.Network/servers/databases/workloadGroups
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

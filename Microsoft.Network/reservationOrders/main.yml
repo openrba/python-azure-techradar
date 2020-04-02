@@ -2,7 +2,7 @@ availableScopes:
   path: Microsoft.Network/reservationOrders/availableScopes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reservationOrders/availableScopes/README.md
+  url: Microsoft.Network/reservationOrders/availableScopes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ calculateRefund:
   path: Microsoft.Network/reservationOrders/calculateRefund
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reservationOrders/calculateRefund/README.md
+  url: Microsoft.Network/reservationOrders/calculateRefund
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ merge:
   path: Microsoft.Network/reservationOrders/merge
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reservationOrders/merge/README.md
+  url: Microsoft.Network/reservationOrders/merge
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ reservations:
   path: Microsoft.Network/reservationOrders/reservations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reservationOrders/reservations/README.md
+  url: Microsoft.Network/reservationOrders/reservations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ return:
   path: Microsoft.Network/reservationOrders/return
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reservationOrders/return/README.md
+  url: Microsoft.Network/reservationOrders/return
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ split:
   path: Microsoft.Network/reservationOrders/split
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reservationOrders/split/README.md
+  url: Microsoft.Network/reservationOrders/split
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ swap:
   path: Microsoft.Network/reservationOrders/swap
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/reservationOrders/swap/README.md
+  url: Microsoft.Network/reservationOrders/swap
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ transactionNodes:
   path: Microsoft.Network/blockchainMembers/transactionNodes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/blockchainMembers/transactionNodes/README.md
+  url: Microsoft.Network/blockchainMembers/transactionNodes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

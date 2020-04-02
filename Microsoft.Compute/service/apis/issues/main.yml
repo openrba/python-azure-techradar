@@ -2,7 +2,7 @@ attachments:
   path: Microsoft.Compute/service/apis/issues/attachments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/service/apis/issues/attachments/README.md
+  url: Microsoft.Compute/service/apis/issues/attachments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ comments:
   path: Microsoft.Compute/service/apis/issues/comments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/service/apis/issues/comments/README.md
+  url: Microsoft.Compute/service/apis/issues/comments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

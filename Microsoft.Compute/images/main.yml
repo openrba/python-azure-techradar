@@ -2,7 +2,7 @@ hyperVGeneration:
   path: Microsoft.Compute/images/hyperVGeneration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/hyperVGeneration/README.md
+  url: Microsoft.Compute/images/hyperVGeneration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ provisioningState:
   path: Microsoft.Compute/images/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/provisioningState/README.md
+  url: Microsoft.Compute/images/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ sourceVirtualMachine:
   path: Microsoft.Compute/images/sourceVirtualMachine
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/sourceVirtualMachine/README.md
+  url: Microsoft.Compute/images/sourceVirtualMachine
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ sourceVirtualMachine.id:
   path: Microsoft.Compute/images/sourceVirtualMachine.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/sourceVirtualMachine.id/README.md
+  url: Microsoft.Compute/images/sourceVirtualMachine.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ storageProfile:
   path: Microsoft.Compute/images/storageProfile
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile/README.md
+  url: Microsoft.Compute/images/storageProfile
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ storageProfile.dataDisks:
   path: Microsoft.Compute/images/storageProfile.dataDisks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ storageProfile.dataDisks[*]:
   path: Microsoft.Compute/images/storageProfile.dataDisks[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks[*]/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ storageProfile.dataDisks[*].blobUri:
   path: Microsoft.Compute/images/storageProfile.dataDisks[*].blobUri
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks[*].blobUri/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].blobUri
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ storageProfile.dataDisks[*].caching:
   path: Microsoft.Compute/images/storageProfile.dataDisks[*].caching
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks[*].caching/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].caching
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ storageProfile.dataDisks[*].diskEncryptionSet:
   path: Microsoft.Compute/images/storageProfile.dataDisks[*].diskEncryptionSet
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks[*].diskEncryptionSet/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].diskEncryptionSet
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ storageProfile.dataDisks[*].diskEncryptionSet.id:
   path: Microsoft.Compute/images/storageProfile.dataDisks[*].diskEncryptionSet.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks[*].diskEncryptionSet.id/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].diskEncryptionSet.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ storageProfile.dataDisks[*].diskSizeGB:
   path: Microsoft.Compute/images/storageProfile.dataDisks[*].diskSizeGB
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks[*].diskSizeGB/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].diskSizeGB
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ storageProfile.dataDisks[*].lun:
   path: Microsoft.Compute/images/storageProfile.dataDisks[*].lun
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks[*].lun/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].lun
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ storageProfile.dataDisks[*].managedDisk:
   path: Microsoft.Compute/images/storageProfile.dataDisks[*].managedDisk
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks[*].managedDisk/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].managedDisk
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ storageProfile.dataDisks[*].managedDisk.id:
   path: Microsoft.Compute/images/storageProfile.dataDisks[*].managedDisk.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks[*].managedDisk.id/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].managedDisk.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ storageProfile.dataDisks[*].snapshot:
   path: Microsoft.Compute/images/storageProfile.dataDisks[*].snapshot
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks[*].snapshot/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].snapshot
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ storageProfile.dataDisks[*].snapshot.id:
   path: Microsoft.Compute/images/storageProfile.dataDisks[*].snapshot.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks[*].snapshot.id/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].snapshot.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ storageProfile.dataDisks[*].storageAccountType:
   path: Microsoft.Compute/images/storageProfile.dataDisks[*].storageAccountType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.dataDisks[*].storageAccountType/README.md
+  url: Microsoft.Compute/images/storageProfile.dataDisks[*].storageAccountType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ storageProfile.osDisk:
   path: Microsoft.Compute/images/storageProfile.osDisk
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ storageProfile.osDisk.blobUri:
   path: Microsoft.Compute/images/storageProfile.osDisk.blobUri
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk.blobUri/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk.blobUri
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ storageProfile.osDisk.caching:
   path: Microsoft.Compute/images/storageProfile.osDisk.caching
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk.caching/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk.caching
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ storageProfile.osDisk.diskEncryptionSet:
   path: Microsoft.Compute/images/storageProfile.osDisk.diskEncryptionSet
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk.diskEncryptionSet/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk.diskEncryptionSet
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ storageProfile.osDisk.diskEncryptionSet.id:
   path: Microsoft.Compute/images/storageProfile.osDisk.diskEncryptionSet.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk.diskEncryptionSet.id/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk.diskEncryptionSet.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ storageProfile.osDisk.diskSizeGB:
   path: Microsoft.Compute/images/storageProfile.osDisk.diskSizeGB
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk.diskSizeGB/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk.diskSizeGB
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ storageProfile.osDisk.managedDisk:
   path: Microsoft.Compute/images/storageProfile.osDisk.managedDisk
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk.managedDisk/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk.managedDisk
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ storageProfile.osDisk.managedDisk.id:
   path: Microsoft.Compute/images/storageProfile.osDisk.managedDisk.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk.managedDisk.id/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk.managedDisk.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ storageProfile.osDisk.osState:
   path: Microsoft.Compute/images/storageProfile.osDisk.osState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk.osState/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk.osState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ storageProfile.osDisk.osType:
   path: Microsoft.Compute/images/storageProfile.osDisk.osType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk.osType/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk.osType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ storageProfile.osDisk.snapshot:
   path: Microsoft.Compute/images/storageProfile.osDisk.snapshot
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk.snapshot/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk.snapshot
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ storageProfile.osDisk.snapshot.id:
   path: Microsoft.Compute/images/storageProfile.osDisk.snapshot.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk.snapshot.id/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk.snapshot.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ storageProfile.osDisk.storageAccountType:
   path: Microsoft.Compute/images/storageProfile.osDisk.storageAccountType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.osDisk.storageAccountType/README.md
+  url: Microsoft.Compute/images/storageProfile.osDisk.storageAccountType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ storageProfile.zoneResilient:
   path: Microsoft.Compute/images/storageProfile.zoneResilient
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/images/storageProfile.zoneResilient/README.md
+  url: Microsoft.Compute/images/storageProfile.zoneResilient
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

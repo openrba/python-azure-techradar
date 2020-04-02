@@ -2,7 +2,7 @@ privateEndpointConnections:
   path: Microsoft.Compute/privateLinkServices/privateEndpointConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/privateLinkServices/privateEndpointConnections/README.md
+  url: Microsoft.Compute/privateLinkServices/privateEndpointConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ sensitivityLabels:
   path: Microsoft.Compute/managedInstances/databases/schemas/tables/columns/sensitivityLabels
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managedInstances/databases/schemas/tables/columns/sensitivityLabels/README.md
+  url: Microsoft.Compute/managedInstances/databases/schemas/tables/columns/sensitivityLabels
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

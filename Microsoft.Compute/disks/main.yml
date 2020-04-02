@@ -2,7 +2,7 @@ accountType:
   path: Microsoft.Compute/disks/accountType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/accountType/README.md
+  url: Microsoft.Compute/disks/accountType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ creationData:
   path: Microsoft.Compute/disks/creationData
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/creationData/README.md
+  url: Microsoft.Compute/disks/creationData
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ creationData.createOption:
   path: Microsoft.Compute/disks/creationData.createOption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/creationData.createOption/README.md
+  url: Microsoft.Compute/disks/creationData.createOption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ creationData.imageReference:
   path: Microsoft.Compute/disks/creationData.imageReference
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/creationData.imageReference/README.md
+  url: Microsoft.Compute/disks/creationData.imageReference
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ creationData.imageReference.id:
   path: Microsoft.Compute/disks/creationData.imageReference.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/creationData.imageReference.id/README.md
+  url: Microsoft.Compute/disks/creationData.imageReference.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ creationData.imageReference.lun:
   path: Microsoft.Compute/disks/creationData.imageReference.lun
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/creationData.imageReference.lun/README.md
+  url: Microsoft.Compute/disks/creationData.imageReference.lun
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ creationData.sourceResourceId:
   path: Microsoft.Compute/disks/creationData.sourceResourceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/creationData.sourceResourceId/README.md
+  url: Microsoft.Compute/disks/creationData.sourceResourceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ creationData.sourceUniqueId:
   path: Microsoft.Compute/disks/creationData.sourceUniqueId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/creationData.sourceUniqueId/README.md
+  url: Microsoft.Compute/disks/creationData.sourceUniqueId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ creationData.sourceUri:
   path: Microsoft.Compute/disks/creationData.sourceUri
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/creationData.sourceUri/README.md
+  url: Microsoft.Compute/disks/creationData.sourceUri
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ creationData.storageAccountId:
   path: Microsoft.Compute/disks/creationData.storageAccountId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/creationData.storageAccountId/README.md
+  url: Microsoft.Compute/disks/creationData.storageAccountId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ creationData.uploadSizeBytes:
   path: Microsoft.Compute/disks/creationData.uploadSizeBytes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/creationData.uploadSizeBytes/README.md
+  url: Microsoft.Compute/disks/creationData.uploadSizeBytes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ diskIOPSReadWrite:
   path: Microsoft.Compute/disks/diskIOPSReadWrite
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/diskIOPSReadWrite/README.md
+  url: Microsoft.Compute/disks/diskIOPSReadWrite
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ diskMBpsReadWrite:
   path: Microsoft.Compute/disks/diskMBpsReadWrite
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/diskMBpsReadWrite/README.md
+  url: Microsoft.Compute/disks/diskMBpsReadWrite
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ diskSizeBytes:
   path: Microsoft.Compute/disks/diskSizeBytes
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/diskSizeBytes/README.md
+  url: Microsoft.Compute/disks/diskSizeBytes
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ diskSizeGB:
   path: Microsoft.Compute/disks/diskSizeGB
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/diskSizeGB/README.md
+  url: Microsoft.Compute/disks/diskSizeGB
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ diskState:
   path: Microsoft.Compute/disks/diskState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/diskState/README.md
+  url: Microsoft.Compute/disks/diskState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ encryption:
   path: Microsoft.Compute/disks/encryption
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryption/README.md
+  url: Microsoft.Compute/disks/encryption
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ encryption.diskEncryptionSetId:
   path: Microsoft.Compute/disks/encryption.diskEncryptionSetId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryption.diskEncryptionSetId/README.md
+  url: Microsoft.Compute/disks/encryption.diskEncryptionSetId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ encryption.type:
   path: Microsoft.Compute/disks/encryption.type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryption.type/README.md
+  url: Microsoft.Compute/disks/encryption.type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ encryptionSettings:
   path: Microsoft.Compute/disks/encryptionSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettings/README.md
+  url: Microsoft.Compute/disks/encryptionSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ encryptionSettings.diskEncryptionKey:
   path: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey/README.md
+  url: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ encryptionSettings.diskEncryptionKey.secretUrl:
   path: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.secretUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.secretUrl/README.md
+  url: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.secretUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ encryptionSettings.diskEncryptionKey.sourceVault:
   path: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.sourceVault
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.sourceVault/README.md
+  url: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.sourceVault
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ encryptionSettings.diskEncryptionKey.sourceVault.id:
   path: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.sourceVault.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.sourceVault.id/README.md
+  url: Microsoft.Compute/disks/encryptionSettings.diskEncryptionKey.sourceVault.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ encryptionSettings.enabled:
   path: Microsoft.Compute/disks/encryptionSettings.enabled
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettings.enabled/README.md
+  url: Microsoft.Compute/disks/encryptionSettings.enabled
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ encryptionSettings.keyEncryptionKey:
   path: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey/README.md
+  url: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ encryptionSettings.keyEncryptionKey.keyUrl:
   path: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.keyUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.keyUrl/README.md
+  url: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.keyUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ encryptionSettings.keyEncryptionKey.sourceVault:
   path: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.sourceVault
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.sourceVault/README.md
+  url: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.sourceVault
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ encryptionSettings.keyEncryptionKey.sourceVault.id:
   path: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.sourceVault.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.sourceVault.id/README.md
+  url: Microsoft.Compute/disks/encryptionSettings.keyEncryptionKey.sourceVault.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ encryptionSettingsCollection:
   path: Microsoft.Compute/disks/encryptionSettingsCollection
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ encryptionSettingsCollection.enabled:
   path: Microsoft.Compute/disks/encryptionSettingsCollection.enabled
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection.enabled/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.enabled
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ encryptionSettingsCollection.encryptionSettings:
   path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ encryptionSettingsCollection.encryptionSettingsVersion:
   path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettingsVersion
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettingsVersion/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettingsVersion
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ encryptionSettingsCollection.encryptionSettings[*]:
   path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*]/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey:
   path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl:
   path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.secretUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault
   path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault
   path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].diskEncryptionKey.sourceVault.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey:
   path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl:
   path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.keyUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault:
   path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.
   path: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id/README.md
+  url: Microsoft.Compute/disks/encryptionSettingsCollection.encryptionSettings[*].keyEncryptionKey.sourceVault.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ hyperVGeneration:
   path: Microsoft.Compute/disks/hyperVGeneration
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/hyperVGeneration/README.md
+  url: Microsoft.Compute/disks/hyperVGeneration
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ managedBy:
   path: Microsoft.Compute/disks/managedBy
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/managedBy/README.md
+  url: Microsoft.Compute/disks/managedBy
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ osType:
   path: Microsoft.Compute/disks/osType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/osType/README.md
+  url: Microsoft.Compute/disks/osType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -767,7 +767,7 @@ ownerId:
   path: Microsoft.Compute/disks/ownerId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/ownerId/README.md
+  url: Microsoft.Compute/disks/ownerId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -784,7 +784,7 @@ provisioningState:
   path: Microsoft.Compute/disks/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/provisioningState/README.md
+  url: Microsoft.Compute/disks/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -801,7 +801,7 @@ sku:
   path: Microsoft.Compute/disks/sku
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/sku/README.md
+  url: Microsoft.Compute/disks/sku
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -818,7 +818,7 @@ sku.name:
   path: Microsoft.Compute/disks/sku.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/sku.name/README.md
+  url: Microsoft.Compute/disks/sku.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -835,7 +835,7 @@ sku.tier:
   path: Microsoft.Compute/disks/sku.tier
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/sku.tier/README.md
+  url: Microsoft.Compute/disks/sku.tier
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -852,7 +852,7 @@ timeCreated:
   path: Microsoft.Compute/disks/timeCreated
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/timeCreated/README.md
+  url: Microsoft.Compute/disks/timeCreated
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -869,7 +869,7 @@ uniqueId:
   path: Microsoft.Compute/disks/uniqueId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/uniqueId/README.md
+  url: Microsoft.Compute/disks/uniqueId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -886,7 +886,7 @@ zones:
   path: Microsoft.Compute/disks/zones
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/zones/README.md
+  url: Microsoft.Compute/disks/zones
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -903,7 +903,7 @@ zones[*]:
   path: Microsoft.Compute/disks/zones[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/disks/zones[*]/README.md
+  url: Microsoft.Compute/disks/zones[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

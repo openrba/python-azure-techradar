@@ -29,23 +29,29 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[clusters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/clusters/README.md)|UNKNOWN|Microsoft.Compute/workspaces/clusters|TRIAL|
-|[computes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/computes/README.md)|UNKNOWN|Microsoft.Compute/workspaces/computes|TRIAL|
-|[dataSources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/dataSources/README.md)|UNKNOWN|Microsoft.Compute/workspaces/dataSources|TRIAL|
-|[dbWorkspaces](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/dbWorkspaces/README.md)|UNKNOWN|Microsoft.Compute/workspaces/dbWorkspaces|TRIAL|
-|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/eventGridFilters/README.md)|UNKNOWN|Microsoft.Compute/workspaces/eventGridFilters|TRIAL|
-|[experiments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/experiments/README.md)|UNKNOWN|Microsoft.Compute/workspaces/experiments|TRIAL|
-|[fileservers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/fileservers/README.md)|UNKNOWN|Microsoft.Compute/workspaces/fileservers|TRIAL|
-|[linkedServices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/linkedServices/README.md)|UNKNOWN|Microsoft.Compute/workspaces/linkedServices|TRIAL|
-|[query](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/query/README.md)|UNKNOWN|Microsoft.Compute/workspaces/query|TRIAL|
-|[savedSearches](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/savedSearches/README.md)|UNKNOWN|Microsoft.Compute/workspaces/savedSearches|TRIAL|
-|[scopedPrivateLinkProxies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/scopedPrivateLinkProxies/README.md)|UNKNOWN|Microsoft.Compute/workspaces/scopedPrivateLinkProxies|TRIAL|
-|[storageinsightconfigs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/storageinsightconfigs/README.md)|UNKNOWN|Microsoft.Compute/workspaces/storageinsightconfigs|TRIAL|
-|[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/virtualNetworkPeerings/README.md)|UNKNOWN|Microsoft.Compute/workspaces/virtualNetworkPeerings|TRIAL|
+|[clusters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/clusters)|UNKNOWN|Microsoft.Compute/workspaces/clusters|TRIAL|
+|[computes](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/computes)|UNKNOWN|Microsoft.Compute/workspaces/computes|TRIAL|
+|[dataSources](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/dataSources)|UNKNOWN|Microsoft.Compute/workspaces/dataSources|TRIAL|
+|[dbWorkspaces](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/dbWorkspaces)|UNKNOWN|Microsoft.Compute/workspaces/dbWorkspaces|TRIAL|
+|[eventGridFilters](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/eventGridFilters)|UNKNOWN|Microsoft.Compute/workspaces/eventGridFilters|TRIAL|
+|[experiments](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/experiments)|UNKNOWN|Microsoft.Compute/workspaces/experiments|TRIAL|
+|[fileservers](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/fileservers)|UNKNOWN|Microsoft.Compute/workspaces/fileservers|TRIAL|
+|[linkedServices](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/linkedServices)|UNKNOWN|Microsoft.Compute/workspaces/linkedServices|TRIAL|
+|[query](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/query)|UNKNOWN|Microsoft.Compute/workspaces/query|TRIAL|
+|[savedSearches](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/savedSearches)|UNKNOWN|Microsoft.Compute/workspaces/savedSearches|TRIAL|
+|[scopedPrivateLinkProxies](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/scopedPrivateLinkProxies)|UNKNOWN|Microsoft.Compute/workspaces/scopedPrivateLinkProxies|TRIAL|
+|[storageinsightconfigs](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/storageinsightconfigs)|UNKNOWN|Microsoft.Compute/workspaces/storageinsightconfigs|TRIAL|
+|[virtualNetworkPeerings](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute/workspaces/virtualNetworkPeerings)|UNKNOWN|Microsoft.Compute/workspaces/virtualNetworkPeerings|TRIAL|
 
 ### Hold
 
 
 Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in.  HOLD technologies should not be used for new projects, but usually can be continued for existing projects.  These technologies may include services that have yet to be evaluated by architecture and security due to a lack of interest, time, or need.  
+  
+***<font color="red"> There are currently no resources at this ring level. </font>***
+### Reject
+
+
+Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
 ***<font color="red"> There are currently no resources at this ring level. </font>***

@@ -2,7 +2,7 @@ settings:
   path: Microsoft.Compute/managementGroups/settings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/managementGroups/settings/README.md
+  url: Microsoft.Compute/managementGroups/settings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

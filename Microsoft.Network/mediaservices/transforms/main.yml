@@ -2,7 +2,7 @@ jobs:
   path: Microsoft.Network/mediaservices/transforms/jobs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/mediaservices/transforms/jobs/README.md
+  url: Microsoft.Network/mediaservices/transforms/jobs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

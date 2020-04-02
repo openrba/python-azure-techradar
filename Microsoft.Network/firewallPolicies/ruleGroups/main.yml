@@ -2,7 +2,7 @@ priority:
   path: Microsoft.Network/firewallPolicies/ruleGroups/priority
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/ruleGroups/priority/README.md
+  url: Microsoft.Network/firewallPolicies/ruleGroups/priority
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ provisioningState:
   path: Microsoft.Network/firewallPolicies/ruleGroups/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/ruleGroups/provisioningState/README.md
+  url: Microsoft.Network/firewallPolicies/ruleGroups/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ rules:
   path: Microsoft.Network/firewallPolicies/ruleGroups/rules
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/ruleGroups/rules/README.md
+  url: Microsoft.Network/firewallPolicies/ruleGroups/rules
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ rules[*]:
   path: Microsoft.Network/firewallPolicies/ruleGroups/rules[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/ruleGroups/rules[*]/README.md
+  url: Microsoft.Network/firewallPolicies/ruleGroups/rules[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ rules[*].name:
   path: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].name/README.md
+  url: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ rules[*].priority:
   path: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].priority
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].priority/README.md
+  url: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].priority
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ rules[*].ruleType:
   path: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].ruleType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].ruleType/README.md
+  url: Microsoft.Network/firewallPolicies/ruleGroups/rules[*].ruleType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

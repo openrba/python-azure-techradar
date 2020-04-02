@@ -2,7 +2,7 @@ logs:
   path: Microsoft.Compute/deploymentScripts/logs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/deploymentScripts/logs/README.md
+  url: Microsoft.Compute/deploymentScripts/logs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

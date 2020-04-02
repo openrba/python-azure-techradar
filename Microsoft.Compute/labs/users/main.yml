@@ -2,7 +2,7 @@ disks:
   path: Microsoft.Compute/labs/users/disks
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/users/disks/README.md
+  url: Microsoft.Compute/labs/users/disks
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ environments:
   path: Microsoft.Compute/labs/users/environments
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/users/environments/README.md
+  url: Microsoft.Compute/labs/users/environments
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ secrets:
   path: Microsoft.Compute/labs/users/secrets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/users/secrets/README.md
+  url: Microsoft.Compute/labs/users/secrets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ serviceFabrics:
   path: Microsoft.Compute/labs/users/serviceFabrics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/labs/users/serviceFabrics/README.md
+  url: Microsoft.Compute/labs/users/serviceFabrics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

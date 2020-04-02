@@ -2,7 +2,7 @@ bytesToCapturePerPacket:
   path: Microsoft.Network/networkWatchers/packetCaptures/bytesToCapturePerPacket
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/bytesToCapturePerPacket/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/bytesToCapturePerPacket
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ filters:
   path: Microsoft.Network/networkWatchers/packetCaptures/filters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/filters/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/filters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ filters[*]:
   path: Microsoft.Network/networkWatchers/packetCaptures/filters[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/filters[*]/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/filters[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ filters[*].localIPAddress:
   path: Microsoft.Network/networkWatchers/packetCaptures/filters[*].localIPAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/filters[*].localIPAddress/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/filters[*].localIPAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ filters[*].localPort:
   path: Microsoft.Network/networkWatchers/packetCaptures/filters[*].localPort
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/filters[*].localPort/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/filters[*].localPort
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ filters[*].protocol:
   path: Microsoft.Network/networkWatchers/packetCaptures/filters[*].protocol
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/filters[*].protocol/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/filters[*].protocol
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ filters[*].remoteIPAddress:
   path: Microsoft.Network/networkWatchers/packetCaptures/filters[*].remoteIPAddress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/filters[*].remoteIPAddress/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/filters[*].remoteIPAddress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ filters[*].remotePort:
   path: Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/filters[*].remotePort
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ storageLocation:
   path: Microsoft.Network/networkWatchers/packetCaptures/storageLocation
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/storageLocation/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/storageLocation
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ storageLocation.filePath:
   path: Microsoft.Network/networkWatchers/packetCaptures/storageLocation.filePath
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/storageLocation.filePath/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/storageLocation.filePath
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ storageLocation.storageId:
   path: Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storageId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storageId/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storageId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ storageLocation.storagePath:
   path: Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storagePath
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storagePath/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/storageLocation.storagePath
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ target:
   path: Microsoft.Network/networkWatchers/packetCaptures/target
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/target/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/target
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ timeLimitInSeconds:
   path: Microsoft.Network/networkWatchers/packetCaptures/timeLimitInSeconds
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/timeLimitInSeconds/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/timeLimitInSeconds
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ totalBytesPerSession:
   path: Microsoft.Network/networkWatchers/packetCaptures/totalBytesPerSession
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/networkWatchers/packetCaptures/totalBytesPerSession/README.md
+  url: Microsoft.Network/networkWatchers/packetCaptures/totalBytesPerSession
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ AvailabilityGroupListeners:
   path: Microsoft.Compute/SqlVirtualMachineGroups/AvailabilityGroupListeners
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/SqlVirtualMachineGroups/AvailabilityGroupListeners/README.md
+  url: Microsoft.Compute/SqlVirtualMachineGroups/AvailabilityGroupListeners
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

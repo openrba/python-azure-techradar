@@ -2,7 +2,7 @@ eventGridFilters:
   path: Microsoft.Compute/configurationStores/eventGridFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/configurationStores/eventGridFilters/README.md
+  url: Microsoft.Compute/configurationStores/eventGridFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ privateEndpointConnections:
   path: Microsoft.Compute/configurationStores/privateEndpointConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/configurationStores/privateEndpointConnections/README.md
+  url: Microsoft.Compute/configurationStores/privateEndpointConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

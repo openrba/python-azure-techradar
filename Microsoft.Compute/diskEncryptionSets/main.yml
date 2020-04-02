@@ -2,7 +2,7 @@ activeKey:
   path: Microsoft.Compute/diskEncryptionSets/activeKey
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/diskEncryptionSets/activeKey/README.md
+  url: Microsoft.Compute/diskEncryptionSets/activeKey
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ activeKey.keyUrl:
   path: Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl/README.md
+  url: Microsoft.Compute/diskEncryptionSets/activeKey.keyUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ activeKey.sourceVault:
   path: Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault/README.md
+  url: Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ activeKey.sourceVault.id:
   path: Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id/README.md
+  url: Microsoft.Compute/diskEncryptionSets/activeKey.sourceVault.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ previousKeys:
   path: Microsoft.Compute/diskEncryptionSets/previousKeys
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/diskEncryptionSets/previousKeys/README.md
+  url: Microsoft.Compute/diskEncryptionSets/previousKeys
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ previousKeys[*]:
   path: Microsoft.Compute/diskEncryptionSets/previousKeys[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/diskEncryptionSets/previousKeys[*]/README.md
+  url: Microsoft.Compute/diskEncryptionSets/previousKeys[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ previousKeys[*].keyUrl:
   path: Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl/README.md
+  url: Microsoft.Compute/diskEncryptionSets/previousKeys[*].keyUrl
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ previousKeys[*].sourceVault:
   path: Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault/README.md
+  url: Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ previousKeys[*].sourceVault.id:
   path: Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id/README.md
+  url: Microsoft.Compute/diskEncryptionSets/previousKeys[*].sourceVault.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ provisioningState:
   path: Microsoft.Compute/diskEncryptionSets/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/diskEncryptionSets/provisioningState/README.md
+  url: Microsoft.Compute/diskEncryptionSets/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

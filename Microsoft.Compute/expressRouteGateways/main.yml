@@ -2,7 +2,7 @@ expressRouteConnections:
   path: Microsoft.Compute/expressRouteGateways/expressRouteConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/expressRouteGateways/expressRouteConnections/README.md
+  url: Microsoft.Compute/expressRouteGateways/expressRouteConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

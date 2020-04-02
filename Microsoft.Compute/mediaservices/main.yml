@@ -2,7 +2,7 @@ accountFilters:
   path: Microsoft.Compute/mediaservices/accountFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/mediaservices/accountFilters/README.md
+  url: Microsoft.Compute/mediaservices/accountFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ assets:
   path: Microsoft.Compute/mediaservices/assets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/mediaservices/assets/README.md
+  url: Microsoft.Compute/mediaservices/assets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ contentKeyPolicies:
   path: Microsoft.Compute/mediaservices/contentKeyPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/mediaservices/contentKeyPolicies/README.md
+  url: Microsoft.Compute/mediaservices/contentKeyPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ eventGridFilters:
   path: Microsoft.Compute/mediaservices/eventGridFilters
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/mediaservices/eventGridFilters/README.md
+  url: Microsoft.Compute/mediaservices/eventGridFilters
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ liveEventOperations:
   path: Microsoft.Compute/mediaservices/liveEventOperations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/mediaservices/liveEventOperations/README.md
+  url: Microsoft.Compute/mediaservices/liveEventOperations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ liveEvents:
   path: Microsoft.Compute/mediaservices/liveEvents
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/mediaservices/liveEvents/README.md
+  url: Microsoft.Compute/mediaservices/liveEvents
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ liveOutputOperations:
   path: Microsoft.Compute/mediaservices/liveOutputOperations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/mediaservices/liveOutputOperations/README.md
+  url: Microsoft.Compute/mediaservices/liveOutputOperations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ streamingEndpointOperations:
   path: Microsoft.Compute/mediaservices/streamingEndpointOperations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/mediaservices/streamingEndpointOperations/README.md
+  url: Microsoft.Compute/mediaservices/streamingEndpointOperations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ streamingEndpoints:
   path: Microsoft.Compute/mediaservices/streamingEndpoints
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/mediaservices/streamingEndpoints/README.md
+  url: Microsoft.Compute/mediaservices/streamingEndpoints
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ streamingLocators:
   path: Microsoft.Compute/mediaservices/streamingLocators
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/mediaservices/streamingLocators/README.md
+  url: Microsoft.Compute/mediaservices/streamingLocators
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ streamingPolicies:
   path: Microsoft.Compute/mediaservices/streamingPolicies
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/mediaservices/streamingPolicies/README.md
+  url: Microsoft.Compute/mediaservices/streamingPolicies
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ transforms:
   path: Microsoft.Compute/mediaservices/transforms
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/mediaservices/transforms/README.md
+  url: Microsoft.Compute/mediaservices/transforms
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

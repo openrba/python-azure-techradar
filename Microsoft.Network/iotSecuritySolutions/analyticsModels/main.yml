@@ -2,7 +2,7 @@ aggregatedAlerts:
   path: Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedAlerts
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedAlerts/README.md
+  url: Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedAlerts
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ aggregatedRecommendations:
   path: Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedRecommendations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedRecommendations/README.md
+  url: Microsoft.Network/iotSecuritySolutions/analyticsModels/aggregatedRecommendations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

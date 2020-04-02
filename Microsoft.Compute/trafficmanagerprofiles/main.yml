@@ -2,7 +2,7 @@ heatMaps:
   path: Microsoft.Compute/trafficmanagerprofiles/heatMaps
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/trafficmanagerprofiles/heatMaps/README.md
+  url: Microsoft.Compute/trafficmanagerprofiles/heatMaps
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

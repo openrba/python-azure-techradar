@@ -2,7 +2,7 @@ analyticsModels:
   path: Microsoft.Network/iotSecuritySolutions/analyticsModels
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/iotSecuritySolutions/analyticsModels/README.md
+  url: Microsoft.Network/iotSecuritySolutions/analyticsModels
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

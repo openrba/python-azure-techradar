@@ -2,7 +2,7 @@ functions:
   path: Microsoft.Network/streamingjobs/functions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/streamingjobs/functions/README.md
+  url: Microsoft.Network/streamingjobs/functions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ inputs:
   path: Microsoft.Network/streamingjobs/inputs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/streamingjobs/inputs/README.md
+  url: Microsoft.Network/streamingjobs/inputs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ outputs:
   path: Microsoft.Network/streamingjobs/outputs
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/streamingjobs/outputs/README.md
+  url: Microsoft.Network/streamingjobs/outputs
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ transformations:
   path: Microsoft.Network/streamingjobs/transformations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/streamingjobs/transformations/README.md
+  url: Microsoft.Network/streamingjobs/transformations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

@@ -2,7 +2,7 @@ provisioningState:
   path: Microsoft.Compute/galleries/images/versions/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/provisioningState/README.md
+  url: Microsoft.Compute/galleries/images/versions/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ publishingProfile:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ publishingProfile.endOfLifeDate:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.endOfLifeDate
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.endOfLifeDate/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.endOfLifeDate
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ publishingProfile.excludeFromLatest:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.excludeFromLatest
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.excludeFromLatest/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.excludeFromLatest
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ publishingProfile.publishedDate:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.publishedDate
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.publishedDate/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.publishedDate
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ publishingProfile.replicaCount:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.replicaCount
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.replicaCount/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.replicaCount
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ publishingProfile.source:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.source
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.source/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.source
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ publishingProfile.source.managedImage:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.source.managedImage
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.source.managedImage/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.source.managedImage
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ publishingProfile.source.managedImage.id:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.source.managedImage.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.source.managedImage.id/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.source.managedImage.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ publishingProfile.storageAccountType:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.storageAccountType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.storageAccountType/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.storageAccountType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ publishingProfile.targetRegions:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ publishingProfile.targetRegions[*]:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*]/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ publishingProfile.targetRegions[*].name:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].name/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ publishingProfile.targetRegions[*].regionalReplicaCount:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].regionalReplicaCount
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].regionalReplicaCount/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].regionalReplicaCount
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ publishingProfile.targetRegions[*].storageAccountType:
   path: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].storageAccountType
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].storageAccountType/README.md
+  url: Microsoft.Compute/galleries/images/versions/publishingProfile.targetRegions[*].storageAccountType
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ replicationStatus:
   path: Microsoft.Compute/galleries/images/versions/replicationStatus
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/replicationStatus/README.md
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ replicationStatus.aggregatedState:
   path: Microsoft.Compute/galleries/images/versions/replicationStatus.aggregatedState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/replicationStatus.aggregatedState/README.md
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.aggregatedState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ replicationStatus.summary:
   path: Microsoft.Compute/galleries/images/versions/replicationStatus.summary
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary/README.md
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ replicationStatus.summary[*]:
   path: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*]/README.md
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ replicationStatus.summary[*].details:
   path: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].details
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].details/README.md
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].details
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ replicationStatus.summary[*].progress:
   path: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].progress
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].progress/README.md
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].progress
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ replicationStatus.summary[*].region:
   path: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].region
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].region/README.md
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].region
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ replicationStatus.summary[*].state:
   path: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].state
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].state/README.md
+  url: Microsoft.Compute/galleries/images/versions/replicationStatus.summary[*].state
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ storageProfile:
   path: Microsoft.Compute/galleries/images/versions/storageProfile
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ storageProfile.dataDiskImages:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ storageProfile.dataDiskImages[*]:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*]/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ storageProfile.dataDiskImages[*].hostCaching:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].hostCaching
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].hostCaching/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].hostCaching
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ storageProfile.dataDiskImages[*].lun:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].lun
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].lun/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].lun
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ storageProfile.dataDiskImages[*].sizeInGB:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].sizeInGB
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].sizeInGB/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].sizeInGB
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ storageProfile.dataDiskImages[*].source:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ storageProfile.dataDiskImages[*].source.id:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source.id/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.dataDiskImages[*].source.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ storageProfile.osDiskImage:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ storageProfile.osDiskImage.hostCaching:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.hostCaching
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.hostCaching/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.hostCaching
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ storageProfile.osDiskImage.sizeInGB:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.sizeInGB
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.sizeInGB/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.sizeInGB
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ storageProfile.osDiskImage.source:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ storageProfile.osDiskImage.source.id:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source.id/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.osDiskImage.source.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ storageProfile.source:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.source
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.source/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.source
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ storageProfile.source.id:
   path: Microsoft.Compute/galleries/images/versions/storageProfile.source.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Compute/galleries/images/versions/storageProfile.source.id/README.md
+  url: Microsoft.Compute/galleries/images/versions/storageProfile.source.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

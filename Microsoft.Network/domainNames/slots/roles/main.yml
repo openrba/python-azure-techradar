@@ -2,7 +2,7 @@ metricDefinitions:
   path: Microsoft.Network/domainNames/slots/roles/metricDefinitions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/domainNames/slots/roles/metricDefinitions/README.md
+  url: Microsoft.Network/domainNames/slots/roles/metricDefinitions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ metrics:
   path: Microsoft.Network/domainNames/slots/roles/metrics
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/domainNames/slots/roles/metrics/README.md
+  url: Microsoft.Network/domainNames/slots/roles/metrics
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

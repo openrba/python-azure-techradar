@@ -2,7 +2,7 @@ transfer:
   path: Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptions/transfer
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptions/transfer/README.md
+  url: Microsoft.Network/billingAccounts/invoiceSections/billingSubscriptions/transfer
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

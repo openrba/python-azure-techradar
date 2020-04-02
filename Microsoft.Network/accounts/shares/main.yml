@@ -2,7 +2,7 @@ datasets:
   path: Microsoft.Network/accounts/shares/datasets
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/shares/datasets/README.md
+  url: Microsoft.Network/accounts/shares/datasets
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ invitations:
   path: Microsoft.Network/accounts/shares/invitations
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/shares/invitations/README.md
+  url: Microsoft.Network/accounts/shares/invitations
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ providersharesubscriptions:
   path: Microsoft.Network/accounts/shares/providersharesubscriptions
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/shares/providersharesubscriptions/README.md
+  url: Microsoft.Network/accounts/shares/providersharesubscriptions
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ synchronizationSettings:
   path: Microsoft.Network/accounts/shares/synchronizationSettings
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/accounts/shares/synchronizationSettings/README.md
+  url: Microsoft.Network/accounts/shares/synchronizationSettings
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED

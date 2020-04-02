@@ -2,7 +2,7 @@ linkIdentifier:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/linkIdentifier
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/linkIdentifier/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/linkIdentifier
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -19,7 +19,7 @@ privateEndpoint:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -36,7 +36,7 @@ privateEndpoint.etag:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.etag/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -53,7 +53,7 @@ privateEndpoint.id:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.id/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -70,7 +70,7 @@ privateEndpoint.location:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.location
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.location/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.location
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -87,7 +87,7 @@ privateEndpoint.manualPrivateLinkServiceConnections:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -104,7 +104,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*]:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*]/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -121,7 +121,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].etag:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].etag/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -138,7 +138,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -155,7 +155,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds[*]:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds[*]/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].groupIds[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -172,7 +172,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].id:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].id/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -189,7 +189,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].name:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].name/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -206,7 +206,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnect
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -223,7 +223,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnect
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -240,7 +240,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnect
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -257,7 +257,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnect
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.description
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.description/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.description
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -274,7 +274,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnect
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.status
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.status/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.status
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -291,7 +291,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceId:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceId/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].privateLinkServiceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -308,7 +308,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].provisioningState:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].provisioningState/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -325,7 +325,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].requestMessage:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].requestMessage
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].requestMessage/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].requestMessage
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -342,7 +342,7 @@ privateEndpoint.manualPrivateLinkServiceConnections[*].type:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].type/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.manualPrivateLinkServiceConnections[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -359,7 +359,7 @@ privateEndpoint.name:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.name/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -376,7 +376,7 @@ privateEndpoint.networkInterfaces:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -393,7 +393,7 @@ privateEndpoint.networkInterfaces[*]:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*]/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -410,7 +410,7 @@ privateEndpoint.networkInterfaces[*].etag:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].etag/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -427,7 +427,7 @@ privateEndpoint.networkInterfaces[*].id:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].id/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -444,7 +444,7 @@ privateEndpoint.networkInterfaces[*].location:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].location
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].location/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].location
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -461,7 +461,7 @@ privateEndpoint.networkInterfaces[*].name:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].name/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -478,7 +478,7 @@ privateEndpoint.networkInterfaces[*].tags:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].tags/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -495,7 +495,7 @@ privateEndpoint.networkInterfaces[*].type:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].type/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.networkInterfaces[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -512,7 +512,7 @@ privateEndpoint.privateLinkServiceConnections:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -529,7 +529,7 @@ privateEndpoint.privateLinkServiceConnections[*]:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*]/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -546,7 +546,7 @@ privateEndpoint.privateLinkServiceConnections[*].etag:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].etag/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -563,7 +563,7 @@ privateEndpoint.privateLinkServiceConnections[*].groupIds:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].groupIds
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].groupIds/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].groupIds
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -580,7 +580,7 @@ privateEndpoint.privateLinkServiceConnections[*].groupIds[*]:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].groupIds[*]
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].groupIds[*]/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].groupIds[*]
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -597,7 +597,7 @@ privateEndpoint.privateLinkServiceConnections[*].id:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].id/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -614,7 +614,7 @@ privateEndpoint.privateLinkServiceConnections[*].name:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].name/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -631,7 +631,7 @@ privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionSta
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -648,7 +648,7 @@ privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionSta
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionRequired
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -665,7 +665,7 @@ privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionSta
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -682,7 +682,7 @@ privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionSta
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.description
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.description/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.description
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -699,7 +699,7 @@ privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionSta
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.status
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.status/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceConnectionState.status
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -716,7 +716,7 @@ privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceId:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceId
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceId/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].privateLinkServiceId
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -733,7 +733,7 @@ privateEndpoint.privateLinkServiceConnections[*].provisioningState:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].provisioningState/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -750,7 +750,7 @@ privateEndpoint.privateLinkServiceConnections[*].requestMessage:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].requestMessage
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].requestMessage/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].requestMessage
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -767,7 +767,7 @@ privateEndpoint.privateLinkServiceConnections[*].type:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].type/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.privateLinkServiceConnections[*].type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -784,7 +784,7 @@ privateEndpoint.provisioningState:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.provisioningState/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -801,7 +801,7 @@ privateEndpoint.subnet:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -818,7 +818,7 @@ privateEndpoint.subnet.etag:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.etag
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.etag/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.etag
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -835,7 +835,7 @@ privateEndpoint.subnet.id:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.id
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.id/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.id
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -852,7 +852,7 @@ privateEndpoint.subnet.name:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.name
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.name/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.subnet.name
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -869,7 +869,7 @@ privateEndpoint.tags:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.tags
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.tags/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.tags
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -886,7 +886,7 @@ privateEndpoint.type:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.type
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.type/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.type
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -903,7 +903,7 @@ privateLinkServiceConnectionState:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -920,7 +920,7 @@ privateLinkServiceConnectionState.actionRequired:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -937,7 +937,7 @@ privateLinkServiceConnectionState.actionsRequired:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -954,7 +954,7 @@ privateLinkServiceConnectionState.description:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.description
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.description/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.description
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -971,7 +971,7 @@ privateLinkServiceConnectionState.status:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.status
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.status/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/privateLinkServiceConnectionState.status
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
@@ -988,7 +988,7 @@ provisioningState:
   path: Microsoft.Network/privateLinkServices/privateEndpointConnections/provisioningState
   description: UNKNOWN
   status: TRIAL
-  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/provisioningState/README.md
+  url: Microsoft.Network/privateLinkServices/privateEndpointConnections/provisioningState
   architecture review:
     type: UNKNOWN
     status: NOT REVIEWED
