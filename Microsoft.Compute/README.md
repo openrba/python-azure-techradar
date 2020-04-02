@@ -2,6 +2,12 @@
 RBA TechRadar for Azure
 =======================
 
+<style>
+table {
+    width:100%;
+}
+</style>
+
 # Overview
 
 ## What is the purpose?
