@@ -51,6 +51,10 @@ Technologies that are promising and have clear potential value-add for us; techn
 |<sub>[Microsoft.Batch](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Batch)</sub>|<sub>Azure Batch runs large-scale applications efficiently in the cloud. Schedule compute-intensive tasks and dynamically adjust resources for your solution without managing infrastructure.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.Billing](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Billing)</sub>|<sub>Azure Cost Management and Billing help you understand Azure billing, manage your account and subscriptions, monitor and control Azure spending and optimize resource use.</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.BingMaps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.BingMaps)</sub>|<sub>The Bing Maps Platform offers a suite of controls and service APIs that you can use to add Bing Maps or geospatial services to your application.</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.Blueprint](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Blueprint)</sub>|<sub>Blueprints are a declarative way to orchestrate the deployment of various resource templates and other artifacts.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.Cache](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Cache)</sub>|<sub>Azure Cache for Redis provides an in-memory data store based on the open-source software Redis.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.Cdn](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Cdn)</sub>|<sub>Secure and reliable global content delivery and acceleration</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.CertificateRegistration](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.CertificateRegistration)</sub>|<sub>Azure App Service customers can now purchase, configure, and manage SSL certificates right from the Azure portal</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.DBforMariaDB](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB)</sub>|<sub>Azure Database for MariaDB provides fully managed, enterprise-ready community MariaDB database as a service.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.DBforMySQL](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL)</sub>|<sub>Azure Database for MySQL provides fully managed, enterprise-ready community MySQL database as a service.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 
@@ -70,13 +74,8 @@ Technologies not recommended to be used for new projects. Technologies that we t
 |<sub>Microsoft.AzureStack</sub>|<sub>Azure Stack is a hybrid cloud computing software solution developed by Microsoft based on the company's Azure cloud platform.</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Blockchain</sub>|<sub>Azure Blockchain Workbench Preview is a collection of Azure services and capabilities designed to help you create and deploy blockchain applications to share business processes and data with other organizations.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.BlockchainTokens</sub>|<sub>Azure Blockchain Tokens makes deploying and managing standard tokens easier than ever.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Blueprint</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.BotService</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.CDN</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Cache</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Capacity</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Cdn</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.CertificateRegistration</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.BotService</sub>|<sub>Develop intelligent, enterprise-grade bots that let you maintain control of your data. Build any type of bot</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.Capacity</sub>|<sub>Reserve capacity on Azure regions.</sub>|<sub>SAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.ChangeAnalysis</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.CognitiveServices</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Commerce</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
@@ -209,6 +208,7 @@ Technologies not recommended to be used for any projects. Technologies that have
 |<sub>Microsoft.Authorization</sub>|<sub>Azure Resource Manager is the deployment and management service for Azure.</sub>|<sub>PAAS</sub>|<sub>REJECT</sub>|
 |<sub>Microsoft.Automation</sub>|<sub>Azure Automation delivers a cloud-based automation and configuration service that provides consistent management across your Azure and non-Azure environments.</sub>|<sub>PAAS</sub>|<sub>REJECT</sub>|
 |<sub>Microsoft.BatchAI</sub>|<sub>Azure Batch AI is designed to help you run large AI training and testing workloads in the cloud. Batch AI supports multiple training toolkits such as Tensorflow, CNTK, Chainer, among others, as well as the ability to deploy your own software stacks at scale.</sub>|<sub>PAAS</sub>|<sub>REJECT</sub>|
+|<sub>Microsoft.CDN</sub>|<sub>Secure and reliable global content delivery and acceleration</sub>|<sub>PAAS</sub>|<sub>REJECT</sub>|
 |<sub>Microsoft.ClassicCompute</sub>|<sub>Deprecated version of Azure compute</sub>|<sub>IAAS</sub>|<sub>REJECT</sub>|
 |<sub>Microsoft.ClassicInfrastructureMigrate</sub>|<sub>Deprecated version of Azure migrate</sub>|<sub>IAAS</sub>|<sub>REJECT</sub>|
 |<sub>Microsoft.ClassicNetwork</sub>|<sub>Deprecated version of Azure network</sub>|<sub>IAAS</sub>|<sub>REJECT</sub>|
