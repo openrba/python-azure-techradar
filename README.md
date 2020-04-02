@@ -55,8 +55,18 @@ Technologies that are promising and have clear potential value-add for us; techn
 |<sub>[Microsoft.Cache](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Cache)</sub>|<sub>Azure Cache for Redis provides an in-memory data store based on the open-source software Redis.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.Cdn](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Cdn)</sub>|<sub>Secure and reliable global content delivery and acceleration</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.CertificateRegistration](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.CertificateRegistration)</sub>|<sub>Azure App Service customers can now purchase, configure, and manage SSL certificates right from the Azure portal</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.Consumption](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Consumption)</sub>|<sub>Azure Cost Management and Billing help you understand Azure billing, manage your account and subscriptions, monitor and control Azure spending and optimize resource use. Learn how to analyze costs, create and manage budgets, export data, and review and act on recommendations.</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.ContainerInstance](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ContainerInstance)</sub>|<sub>Run Docker containers on-demand in a managed, serverless Azure environment. Azure Container Instances is a solution for any scenario that can operate in isolated containers, without orchestration.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.ContainerRegistry](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ContainerRegistry)</sub>|<sub>Azure Container Registry allows you to build, store, and manage container images and artifacts in a private registry for all types of container deployments.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.ContainerService](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ContainerService)</sub>|<sub>Azure Kubernetes Service (AKS) makes it simple to deploy a managed Kubernetes cluster in Azure. AKS reduces the complexity and operational overhead of managing Kubernetes by offloading much of that responsibility to Azure.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.CostManagement](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.CostManagement)</sub>|<sub>Azure Cost Management and Billing help you understand Azure billing, manage your account and subscriptions, monitor and control Azure spending and optimize resource use. Learn how to analyze costs, create and manage budgets, export data, and review and act on recommendations.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.CostManagementExports](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.CostManagementExports)</sub>|<sub>Azure Cost Management and Billing help you understand Azure billing, manage your account and subscriptions, monitor and control Azure spending and optimize resource use. Learn how to analyze costs, create and manage budgets, export data, and review and act on recommendations.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.DBforMariaDB](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB)</sub>|<sub>Azure Database for MariaDB provides fully managed, enterprise-ready community MariaDB database as a service.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.DBforMySQL](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL)</sub>|<sub>Azure Database for MySQL provides fully managed, enterprise-ready community MySQL database as a service.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.DataBox](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DataBox)</sub>|<sub>The Azure Data Box family offers products of differing storage capacities to help send terabytes (TB) of data to Azure in a quick, inexpensive, reliable way. Microsoft accelerates secure data transfer by shipping you proprietary storage devices that enable offline or over the network data transfer.</sub>|<sub>IAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.DataBricks](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DataBricks)</sub>|<sub>an Apache Spark-based analytics platform with one-click setup, streamlined workflows, and an interactive workspace for collaboration between data scientists, engineers, and business analysts.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.DataCatalog](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DataCatalog)</sub>|<sub>Azure Data Catalog is a fully managed cloud service. It lets users discover the data sources they need and understand the data sources they find.</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.DataFactory](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DataFactory)</sub>|<sub>Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management.</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 
@@ -65,9 +75,9 @@ Technologies not recommended to be used for new projects. Technologies that we t
 
 |<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>Microsoft.AAD</sub>|<sub>Azure Active Directory Domain Services (Azure AD DS) provides managed domain services such as domain join, group policy, lightweight directory access protocol (LDAP), and Kerberos / NTLM authentication that is fully compatible with Windows Server Active Directory.</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.AAD</sub>|<sub>Azure Active Directory Domain Services (Azure AD DS) provides managed domain services such as domain join, group policy, lightweight directory access protocol (LDAP), and Kerberos / NTLM authentication that is fully compatible with Windows Server Active Directory.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Addons</sub>|<sub>Add additonal support plans from other providers to your Azure resources.</sub>|<sub>SAAS</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.AnalysisServices</sub>|<sub>Learn how to set up data modeling with Analysis Services in the cloud. Documentation shows you how to create an enterprise BI solution by using tabular data models.</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.AnalysisServices</sub>|<sub>Learn how to set up data modeling with Analysis Services in the cloud. Documentation shows you how to create an enterprise BI solution by using tabular data models.</sub>|<sub>SAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Attestation</sub>|<sub>Azure Attestation Service</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.AzureActiveDirectory</sub>|<sub>Azure Active Directory B2C (Azure AD B2C) is an identity management service that enables custom control of how your customers sign up, sign in, and manage their profiles when using your iOS, Android, .NET, single-page (SPA), and other applications.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.AzureData</sub>|<sub>We don't use the Azure Portal often so we need notification function when available for ESU patches.</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
@@ -76,22 +86,11 @@ Technologies not recommended to be used for new projects. Technologies that we t
 |<sub>Microsoft.BlockchainTokens</sub>|<sub>Azure Blockchain Tokens makes deploying and managing standard tokens easier than ever.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.BotService</sub>|<sub>Develop intelligent, enterprise-grade bots that let you maintain control of your data. Build any type of bot</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Capacity</sub>|<sub>Reserve capacity on Azure regions.</sub>|<sub>SAAS</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.ChangeAnalysis</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.CognitiveServices</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Commerce</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Consumption</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.ContainerInstance</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.ContainerRegistry</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.ContainerService</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.CostManagement</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.CostManagementExports</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.CustomProviders</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.CustomerLockbox</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DataBox</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DataBoxEdge</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DataBricks</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DataCatalog</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.DataFactory</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.CognitiveServices</sub>|<sub>Learn how to build intelligent and supported algorithms into apps, websites, and bots to see, hear, speak, understand, and interpret your user needs.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.Commerce</sub>|<sub>Elevate your brand with Dynamics 365 Commerce. Deliver personalized, seamless shopping experiences across physical and digital channels</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.CustomProviders</sub>|<sub>Azure Custom Resource Providers is an extensibility platform to Azure. It allows you to define custom APIs that can be used to enrich the default Azure experience.</sub>|<sub>SAAS</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.CustomerLockbox</sub>|<sub>Customer Lockbox for Microsoft Azure provides an interface for customers to review and approve or reject customer data access requests.</sub>|<sub>SAAS</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.DataBoxEdge</sub>|<sub>Azure Stack Edge is an AI-enabled edge computing device with network data transfer capabilities.</sub>|<sub>IAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.DataLakeAnalytics</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.DataLakeStore</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.DataMigration</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|

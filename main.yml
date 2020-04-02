@@ -511,13 +511,15 @@ Microsoft.CertificateRegistration:
     notes: There are no security notes for this service at this time.
 Microsoft.ChangeAnalysis:
   path: Microsoft.ChangeAnalysis
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Monitor maximizes the availability and performance of your applications
+    and services by delivering a comprehensive solution for collecting, analyzing,
+    and acting on telemetry from your cloud and on-premises environments.
+  status: ACCESS
   url: Microsoft.ChangeAnalysis
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -613,11 +615,12 @@ Microsoft.ClassicSubscription:
     notes: There are no security notes for this service at this time.
 Microsoft.CognitiveServices:
   path: Microsoft.CognitiveServices
-  description: UNKNOWN
+  description: Learn how to build intelligent and supported algorithms into apps,
+    websites, and bots to see, hear, speak, understand, and interpret your user needs.
   status: HOLD
   url: Microsoft.CognitiveServices
   architecture review:
-    type: UNKNOWN
+    type: PAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -630,11 +633,12 @@ Microsoft.CognitiveServices:
     notes: There are no security notes for this service at this time.
 Microsoft.Commerce:
   path: Microsoft.Commerce
-  description: UNKNOWN
+  description: Elevate your brand with Dynamics 365 Commerce. Deliver personalized,
+    seamless shopping experiences across physical and digital channels
   status: HOLD
   url: Microsoft.Commerce
   architecture review:
-    type: UNKNOWN
+    type: PAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -664,13 +668,16 @@ Microsoft.Compute:
     notes: There are no security notes for this service at this time.
 Microsoft.Consumption:
   path: Microsoft.Consumption
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Cost Management and Billing help you understand Azure billing,
+    manage your account and subscriptions, monitor and control Azure spending and
+    optimize resource use. Learn how to analyze costs, create and manage budgets,
+    export data, and review and act on recommendations.
+  status: ASSESS
   url: Microsoft.Consumption
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: SAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -681,13 +688,15 @@ Microsoft.Consumption:
     notes: There are no security notes for this service at this time.
 Microsoft.ContainerInstance:
   path: Microsoft.ContainerInstance
-  description: UNKNOWN
-  status: HOLD
+  description: Run Docker containers on-demand in a managed, serverless Azure environment.
+    Azure Container Instances is a solution for any scenario that can operate in isolated
+    containers, without orchestration.
+  status: ASSESS
   url: Microsoft.ContainerInstance
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -698,13 +707,14 @@ Microsoft.ContainerInstance:
     notes: There are no security notes for this service at this time.
 Microsoft.ContainerRegistry:
   path: Microsoft.ContainerRegistry
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Container Registry allows you to build, store, and manage container
+    images and artifacts in a private registry for all types of container deployments.
+  status: ASSESS
   url: Microsoft.ContainerRegistry
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -715,13 +725,15 @@ Microsoft.ContainerRegistry:
     notes: There are no security notes for this service at this time.
 Microsoft.ContainerService:
   path: Microsoft.ContainerService
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Kubernetes Service (AKS) makes it simple to deploy a managed
+    Kubernetes cluster in Azure. AKS reduces the complexity and operational overhead
+    of managing Kubernetes by offloading much of that responsibility to Azure.
+  status: ASSESS
   url: Microsoft.ContainerService
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -732,13 +744,16 @@ Microsoft.ContainerService:
     notes: There are no security notes for this service at this time.
 Microsoft.CostManagement:
   path: Microsoft.CostManagement
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Cost Management and Billing help you understand Azure billing,
+    manage your account and subscriptions, monitor and control Azure spending and
+    optimize resource use. Learn how to analyze costs, create and manage budgets,
+    export data, and review and act on recommendations.
+  status: ASSESS
   url: Microsoft.CostManagement
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -749,13 +764,16 @@ Microsoft.CostManagement:
     notes: There are no security notes for this service at this time.
 Microsoft.CostManagementExports:
   path: Microsoft.CostManagementExports
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Cost Management and Billing help you understand Azure billing,
+    manage your account and subscriptions, monitor and control Azure spending and
+    optimize resource use. Learn how to analyze costs, create and manage budgets,
+    export data, and review and act on recommendations.
+  status: ASSESS
   url: Microsoft.CostManagementExports
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -766,11 +784,13 @@ Microsoft.CostManagementExports:
     notes: There are no security notes for this service at this time.
 Microsoft.CustomProviders:
   path: Microsoft.CustomProviders
-  description: UNKNOWN
+  description: Azure Custom Resource Providers is an extensibility platform to Azure.
+    It allows you to define custom APIs that can be used to enrich the default Azure
+    experience.
   status: HOLD
   url: Microsoft.CustomProviders
   architecture review:
-    type: UNKNOWN
+    type: SAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -783,11 +803,12 @@ Microsoft.CustomProviders:
     notes: There are no security notes for this service at this time.
 Microsoft.CustomerLockbox:
   path: Microsoft.CustomerLockbox
-  description: UNKNOWN
+  description: Customer Lockbox for Microsoft Azure provides an interface for customers
+    to review and approve or reject customer data access requests.
   status: HOLD
   url: Microsoft.CustomerLockbox
   architecture review:
-    type: UNKNOWN
+    type: SAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -854,13 +875,16 @@ Microsoft.DBforPostgreSQL:
     notes: There are no security notes for this service at this time.
 Microsoft.DataBox:
   path: Microsoft.DataBox
-  description: UNKNOWN
-  status: HOLD
+  description: The Azure Data Box family offers products of differing storage capacities
+    to help send terabytes (TB) of data to Azure in a quick, inexpensive, reliable
+    way. Microsoft accelerates secure data transfer by shipping you proprietary storage
+    devices that enable offline or over the network data transfer.
+  status: ASSESS
   url: Microsoft.DataBox
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: IAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -871,11 +895,12 @@ Microsoft.DataBox:
     notes: There are no security notes for this service at this time.
 Microsoft.DataBoxEdge:
   path: Microsoft.DataBoxEdge
-  description: UNKNOWN
+  description: Azure Stack Edge is an AI-enabled edge computing device with network
+    data transfer capabilities.
   status: HOLD
   url: Microsoft.DataBoxEdge
   architecture review:
-    type: UNKNOWN
+    type: IAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -888,13 +913,15 @@ Microsoft.DataBoxEdge:
     notes: There are no security notes for this service at this time.
 Microsoft.DataBricks:
   path: Microsoft.DataBricks
-  description: UNKNOWN
-  status: HOLD
+  description: an Apache Spark-based analytics platform with one-click setup, streamlined
+    workflows, and an interactive workspace for collaboration between data scientists,
+    engineers, and business analysts.
+  status: ASSESS
   url: Microsoft.DataBricks
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: PAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -905,13 +932,14 @@ Microsoft.DataBricks:
     notes: There are no security notes for this service at this time.
 Microsoft.DataCatalog:
   path: Microsoft.DataCatalog
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Data Catalog is a fully managed cloud service. It lets users
+    discover the data sources they need and understand the data sources they find.
+  status: ASSESS
   url: Microsoft.DataCatalog
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: SAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -922,13 +950,15 @@ Microsoft.DataCatalog:
     notes: There are no security notes for this service at this time.
 Microsoft.DataFactory:
   path: Microsoft.DataFactory
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Data Factory is Azure's cloud ETL service for scale-out serverless
+    data integration and data transformation. It offers a code-free UI for intuitive
+    authoring and single-pane-of-glass monitoring and management.
+  status: ASSESS
   url: Microsoft.DataFactory
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: SAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
