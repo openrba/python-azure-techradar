@@ -29,8 +29,8 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |Resource|Description|Path|Status|
 | :---: | :---: | :---: | :---: |
-|[Microsoft.Compute](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Compute)|UNKNOWN|Microsoft.Compute|TRIAL|
-|[Microsoft.Network](https://github.com/openrba/python-azure-techradar/blob/master/Microsoft.Network)|UNKNOWN|Microsoft.Network|TRIAL|
+|[Microsoft.Compute](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute)|UNKNOWN|Microsoft.Compute|TRIAL|
+|[Microsoft.Network](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network)|UNKNOWN|Microsoft.Network|TRIAL|
 
 ### Hold
 
