@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/databaseAccounts/gremlinDatabases/graphs",
-    "Microsoft.DBforPostgreSQL/databaseAccounts/gremlinDatabases/graphs/throughputSettings",
-    "Microsoft.DBforPostgreSQL/databaseAccounts/gremlinDatabases/throughputSettings"
-]

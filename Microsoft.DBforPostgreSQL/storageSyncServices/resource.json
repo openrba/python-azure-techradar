@@ -1,7 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/storageSyncServices/registeredServers",
-    "Microsoft.DBforPostgreSQL/storageSyncServices/syncGroups",
-    "Microsoft.DBforPostgreSQL/storageSyncServices/syncGroups/cloudEndpoints",
-    "Microsoft.DBforPostgreSQL/storageSyncServices/syncGroups/serverEndpoints",
-    "Microsoft.DBforPostgreSQL/storageSyncServices/workflows"
-]

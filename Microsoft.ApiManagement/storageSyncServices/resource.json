@@ -1,7 +1,0 @@
-[
-    "Microsoft.ApiManagement/storageSyncServices/registeredServers",
-    "Microsoft.ApiManagement/storageSyncServices/syncGroups",
-    "Microsoft.ApiManagement/storageSyncServices/syncGroups/cloudEndpoints",
-    "Microsoft.ApiManagement/storageSyncServices/syncGroups/serverEndpoints",
-    "Microsoft.ApiManagement/storageSyncServices/workflows"
-]

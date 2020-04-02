@@ -1,9 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/billingAccounts/customers/billingPermissions",
-    "Microsoft.DBforPostgreSQL/billingAccounts/customers/billingSubscriptions",
-    "Microsoft.DBforPostgreSQL/billingAccounts/customers/initiateTransfer",
-    "Microsoft.DBforPostgreSQL/billingAccounts/customers/policies",
-    "Microsoft.DBforPostgreSQL/billingAccounts/customers/products",
-    "Microsoft.DBforPostgreSQL/billingAccounts/customers/transactions",
-    "Microsoft.DBforPostgreSQL/billingAccounts/customers/transfers"
-]

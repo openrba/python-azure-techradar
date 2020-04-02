@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/accounts/shares/datasets",
-    "Microsoft.DBforPostgreSQL/accounts/shares/invitations",
-    "Microsoft.DBforPostgreSQL/accounts/shares/providersharesubscriptions",
-    "Microsoft.DBforPostgreSQL/accounts/shares/synchronizationSettings"
-]

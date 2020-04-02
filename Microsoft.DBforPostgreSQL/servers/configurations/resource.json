@@ -1,8 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/servers/configurations/allowedValues",
-    "Microsoft.DBforPostgreSQL/servers/configurations/dataType",
-    "Microsoft.DBforPostgreSQL/servers/configurations/defaultValue",
-    "Microsoft.DBforPostgreSQL/servers/configurations/description",
-    "Microsoft.DBforPostgreSQL/servers/configurations/source",
-    "Microsoft.DBforPostgreSQL/servers/configurations/value"
-]

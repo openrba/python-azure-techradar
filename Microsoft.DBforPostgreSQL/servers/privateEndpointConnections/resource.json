@@ -1,9 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateEndpoint",
-    "Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateEndpoint.id",
-    "Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateLinkServiceConnectionState",
-    "Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired",
-    "Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.description",
-    "Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.status",
-    "Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/provisioningState"
-]

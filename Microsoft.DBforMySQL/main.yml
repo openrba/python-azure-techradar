@@ -1,7 +1,7 @@
 AggregatedCost:
   path: Microsoft.DBforMySQL/AggregatedCost
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/AggregatedCost
   architecture review:
     type: UNKNOWN
@@ -18,7 +18,7 @@ AggregatedCost:
 Alerts:
   path: Microsoft.DBforMySQL/Alerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Alerts
   architecture review:
     type: UNKNOWN
@@ -35,7 +35,7 @@ Alerts:
 AutoProvisioningSettings:
   path: Microsoft.DBforMySQL/AutoProvisioningSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/AutoProvisioningSettings
   architecture review:
     type: UNKNOWN
@@ -52,7 +52,7 @@ AutoProvisioningSettings:
 Balances:
   path: Microsoft.DBforMySQL/Balances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Balances
   architecture review:
     type: UNKNOWN
@@ -69,7 +69,7 @@ Balances:
 BillingAccounts:
   path: Microsoft.DBforMySQL/BillingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/BillingAccounts
   architecture review:
     type: UNKNOWN
@@ -86,7 +86,7 @@ BillingAccounts:
 Budgets:
   path: Microsoft.DBforMySQL/Budgets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Budgets
   architecture review:
     type: UNKNOWN
@@ -103,7 +103,7 @@ Budgets:
 CdnWebApplicationFirewallManagedRuleSets:
   path: Microsoft.DBforMySQL/CdnWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/CdnWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -120,7 +120,7 @@ CdnWebApplicationFirewallManagedRuleSets:
 CdnWebApplicationFirewallPolicies:
   path: Microsoft.DBforMySQL/CdnWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/CdnWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -137,7 +137,7 @@ CdnWebApplicationFirewallPolicies:
 Charges:
   path: Microsoft.DBforMySQL/Charges
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Charges
   architecture review:
     type: UNKNOWN
@@ -154,7 +154,7 @@ Charges:
 CloudConnectors:
   path: Microsoft.DBforMySQL/CloudConnectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/CloudConnectors
   architecture review:
     type: UNKNOWN
@@ -171,7 +171,7 @@ CloudConnectors:
 Compliances:
   path: Microsoft.DBforMySQL/Compliances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Compliances
   architecture review:
     type: UNKNOWN
@@ -188,7 +188,7 @@ Compliances:
 Components:
   path: Microsoft.DBforMySQL/Components
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Components
   architecture review:
     type: UNKNOWN
@@ -205,7 +205,7 @@ Components:
 Connectors:
   path: Microsoft.DBforMySQL/Connectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Connectors
   architecture review:
     type: UNKNOWN
@@ -222,7 +222,7 @@ Connectors:
 CostTags:
   path: Microsoft.DBforMySQL/CostTags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/CostTags
   architecture review:
     type: UNKNOWN
@@ -239,7 +239,7 @@ CostTags:
 CreateSubscription:
   path: Microsoft.DBforMySQL/CreateSubscription
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/CreateSubscription
   architecture review:
     type: UNKNOWN
@@ -256,7 +256,7 @@ CreateSubscription:
 DataBoxEdgeDevices:
   path: Microsoft.DBforMySQL/DataBoxEdgeDevices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/DataBoxEdgeDevices
   architecture review:
     type: UNKNOWN
@@ -273,7 +273,7 @@ DataBoxEdgeDevices:
 Departments:
   path: Microsoft.DBforMySQL/Departments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Departments
   architecture review:
     type: UNKNOWN
@@ -290,7 +290,7 @@ Departments:
 DeviceServices:
   path: Microsoft.DBforMySQL/DeviceServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/DeviceServices
   architecture review:
     type: UNKNOWN
@@ -307,7 +307,7 @@ DeviceServices:
 Dimensions:
   path: Microsoft.DBforMySQL/Dimensions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Dimensions
   architecture review:
     type: UNKNOWN
@@ -324,7 +324,7 @@ Dimensions:
 DomainServices:
   path: Microsoft.DBforMySQL/DomainServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/DomainServices
   architecture review:
     type: UNKNOWN
@@ -341,7 +341,7 @@ DomainServices:
 EnrollmentAccounts:
   path: Microsoft.DBforMySQL/EnrollmentAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/EnrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -358,7 +358,7 @@ EnrollmentAccounts:
 Exports:
   path: Microsoft.DBforMySQL/Exports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Exports
   architecture review:
     type: UNKNOWN
@@ -375,7 +375,7 @@ Exports:
 ExternalBillingAccounts:
   path: Microsoft.DBforMySQL/ExternalBillingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ExternalBillingAccounts
   architecture review:
     type: UNKNOWN
@@ -392,7 +392,7 @@ ExternalBillingAccounts:
 ExternalSubscriptions:
   path: Microsoft.DBforMySQL/ExternalSubscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ExternalSubscriptions
   architecture review:
     type: UNKNOWN
@@ -409,7 +409,7 @@ ExternalSubscriptions:
 Forecast:
   path: Microsoft.DBforMySQL/Forecast
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Forecast
   architecture review:
     type: UNKNOWN
@@ -426,7 +426,7 @@ Forecast:
 Forecasts:
   path: Microsoft.DBforMySQL/Forecasts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Forecasts
   architecture review:
     type: UNKNOWN
@@ -443,7 +443,7 @@ Forecasts:
 Graph:
   path: Microsoft.DBforMySQL/Graph
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Graph
   architecture review:
     type: UNKNOWN
@@ -460,7 +460,7 @@ Graph:
 HyperVSites:
   path: Microsoft.DBforMySQL/HyperVSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/HyperVSites
   architecture review:
     type: UNKNOWN
@@ -477,7 +477,7 @@ HyperVSites:
 Identities:
   path: Microsoft.DBforMySQL/Identities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Identities
   architecture review:
     type: UNKNOWN
@@ -494,7 +494,7 @@ Identities:
 ImportSites:
   path: Microsoft.DBforMySQL/ImportSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ImportSites
   architecture review:
     type: UNKNOWN
@@ -511,7 +511,7 @@ ImportSites:
 InformationProtectionPolicies:
   path: Microsoft.DBforMySQL/InformationProtectionPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/InformationProtectionPolicies
   architecture review:
     type: UNKNOWN
@@ -528,7 +528,7 @@ InformationProtectionPolicies:
 IoTApps:
   path: Microsoft.DBforMySQL/IoTApps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/IoTApps
   architecture review:
     type: UNKNOWN
@@ -545,7 +545,7 @@ IoTApps:
 IotHubs:
   path: Microsoft.DBforMySQL/IotHubs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/IotHubs
   architecture review:
     type: UNKNOWN
@@ -562,7 +562,7 @@ IotHubs:
 Locations:
   path: Microsoft.DBforMySQL/Locations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Locations
   architecture review:
     type: UNKNOWN
@@ -579,7 +579,7 @@ Locations:
 Marketplaces:
   path: Microsoft.DBforMySQL/Marketplaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Marketplaces
   architecture review:
     type: UNKNOWN
@@ -596,7 +596,7 @@ Marketplaces:
 Namespaces:
   path: Microsoft.DBforMySQL/Namespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Namespaces
   architecture review:
     type: UNKNOWN
@@ -613,7 +613,7 @@ Namespaces:
 OperationResults:
   path: Microsoft.DBforMySQL/OperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/OperationResults
   architecture review:
     type: UNKNOWN
@@ -630,7 +630,7 @@ OperationResults:
 OperationStatus:
   path: Microsoft.DBforMySQL/OperationStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/OperationStatus
   architecture review:
     type: UNKNOWN
@@ -647,7 +647,7 @@ OperationStatus:
 Operations:
   path: Microsoft.DBforMySQL/Operations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Operations
   architecture review:
     type: UNKNOWN
@@ -664,7 +664,7 @@ Operations:
 Pricesheets:
   path: Microsoft.DBforMySQL/Pricesheets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Pricesheets
   architecture review:
     type: UNKNOWN
@@ -681,7 +681,7 @@ Pricesheets:
 ProvisioningServices:
   path: Microsoft.DBforMySQL/ProvisioningServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ProvisioningServices
   architecture review:
     type: UNKNOWN
@@ -698,7 +698,7 @@ ProvisioningServices:
 Query:
   path: Microsoft.DBforMySQL/Query
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Query
   architecture review:
     type: UNKNOWN
@@ -715,7 +715,7 @@ Query:
 RateCard:
   path: Microsoft.DBforMySQL/RateCard
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/RateCard
   architecture review:
     type: UNKNOWN
@@ -732,7 +732,7 @@ RateCard:
 Redis:
   path: Microsoft.DBforMySQL/Redis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Redis
   architecture review:
     type: UNKNOWN
@@ -749,7 +749,7 @@ Redis:
 Reportconfigs:
   path: Microsoft.DBforMySQL/Reportconfigs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Reportconfigs
   architecture review:
     type: UNKNOWN
@@ -766,7 +766,7 @@ Reportconfigs:
 Reports:
   path: Microsoft.DBforMySQL/Reports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Reports
   architecture review:
     type: UNKNOWN
@@ -783,7 +783,7 @@ Reports:
 ReservationDetails:
   path: Microsoft.DBforMySQL/ReservationDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ReservationDetails
   architecture review:
     type: UNKNOWN
@@ -800,7 +800,7 @@ ReservationDetails:
 ReservationRecommendations:
   path: Microsoft.DBforMySQL/ReservationRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ReservationRecommendations
   architecture review:
     type: UNKNOWN
@@ -817,7 +817,7 @@ ReservationRecommendations:
 ReservationSummaries:
   path: Microsoft.DBforMySQL/ReservationSummaries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ReservationSummaries
   architecture review:
     type: UNKNOWN
@@ -834,7 +834,7 @@ ReservationSummaries:
 ReservationTransactions:
   path: Microsoft.DBforMySQL/ReservationTransactions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ReservationTransactions
   architecture review:
     type: UNKNOWN
@@ -851,7 +851,7 @@ ReservationTransactions:
 ServerSites:
   path: Microsoft.DBforMySQL/ServerSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ServerSites
   architecture review:
     type: UNKNOWN
@@ -868,7 +868,7 @@ ServerSites:
 Settings:
   path: Microsoft.DBforMySQL/Settings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Settings
   architecture review:
     type: UNKNOWN
@@ -885,7 +885,7 @@ Settings:
 SignalR:
   path: Microsoft.DBforMySQL/SignalR
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/SignalR
   architecture review:
     type: UNKNOWN
@@ -902,7 +902,7 @@ SignalR:
 Spring:
   path: Microsoft.DBforMySQL/Spring
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Spring
   architecture review:
     type: UNKNOWN
@@ -919,7 +919,7 @@ Spring:
 SqlVirtualMachineGroups:
   path: Microsoft.DBforMySQL/SqlVirtualMachineGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/SqlVirtualMachineGroups
   architecture review:
     type: UNKNOWN
@@ -936,7 +936,7 @@ SqlVirtualMachineGroups:
 SqlVirtualMachines:
   path: Microsoft.DBforMySQL/SqlVirtualMachines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/SqlVirtualMachines
   architecture review:
     type: UNKNOWN
@@ -953,7 +953,7 @@ SqlVirtualMachines:
 SubscriptionDefinitions:
   path: Microsoft.DBforMySQL/SubscriptionDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/SubscriptionDefinitions
   architecture review:
     type: UNKNOWN
@@ -970,7 +970,7 @@ SubscriptionDefinitions:
 SubscriptionOperations:
   path: Microsoft.DBforMySQL/SubscriptionOperations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/SubscriptionOperations
   architecture review:
     type: UNKNOWN
@@ -987,7 +987,7 @@ SubscriptionOperations:
 Tags:
   path: Microsoft.DBforMySQL/Tags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Tags
   architecture review:
     type: UNKNOWN
@@ -1004,7 +1004,7 @@ Tags:
 Terms:
   path: Microsoft.DBforMySQL/Terms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Terms
   architecture review:
     type: UNKNOWN
@@ -1021,7 +1021,7 @@ Terms:
 UsageAggregates:
   path: Microsoft.DBforMySQL/UsageAggregates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/UsageAggregates
   architecture review:
     type: UNKNOWN
@@ -1038,7 +1038,7 @@ UsageAggregates:
 UsageDetails:
   path: Microsoft.DBforMySQL/UsageDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/UsageDetails
   architecture review:
     type: UNKNOWN
@@ -1055,7 +1055,7 @@ UsageDetails:
 VMwareSites:
   path: Microsoft.DBforMySQL/VMwareSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/VMwareSites
   architecture review:
     type: UNKNOWN
@@ -1072,7 +1072,7 @@ VMwareSites:
 Vaults:
   path: Microsoft.DBforMySQL/Vaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Vaults
   architecture review:
     type: UNKNOWN
@@ -1089,7 +1089,7 @@ Vaults:
 Views:
   path: Microsoft.DBforMySQL/Views
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Views
   architecture review:
     type: UNKNOWN
@@ -1106,7 +1106,7 @@ Views:
 Workspaces:
   path: Microsoft.DBforMySQL/Workspaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/Workspaces
   architecture review:
     type: UNKNOWN
@@ -1123,7 +1123,7 @@ Workspaces:
 aadsupportcases:
   path: Microsoft.DBforMySQL/aadsupportcases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/aadsupportcases
   architecture review:
     type: UNKNOWN
@@ -1140,7 +1140,7 @@ aadsupportcases:
 account:
   path: Microsoft.DBforMySQL/account
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/account
   architecture review:
     type: UNKNOWN
@@ -1157,7 +1157,7 @@ account:
 accounts:
   path: Microsoft.DBforMySQL/accounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/accounts
   architecture review:
     type: UNKNOWN
@@ -1174,7 +1174,7 @@ accounts:
 actionRules:
   path: Microsoft.DBforMySQL/actionRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/actionRules
   architecture review:
     type: UNKNOWN
@@ -1191,7 +1191,7 @@ actionRules:
 actiongroups:
   path: Microsoft.DBforMySQL/actiongroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/actiongroups
   architecture review:
     type: UNKNOWN
@@ -1208,7 +1208,7 @@ actiongroups:
 activityLogAlerts:
   path: Microsoft.DBforMySQL/activityLogAlerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/activityLogAlerts
   architecture review:
     type: UNKNOWN
@@ -1225,7 +1225,7 @@ activityLogAlerts:
 adaptiveNetworkHardenings:
   path: Microsoft.DBforMySQL/adaptiveNetworkHardenings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/adaptiveNetworkHardenings
   architecture review:
     type: UNKNOWN
@@ -1242,7 +1242,7 @@ adaptiveNetworkHardenings:
 addsservices:
   path: Microsoft.DBforMySQL/addsservices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/addsservices
   architecture review:
     type: UNKNOWN
@@ -1259,7 +1259,7 @@ addsservices:
 advancedThreatProtectionSettings:
   path: Microsoft.DBforMySQL/advancedThreatProtectionSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/advancedThreatProtectionSettings
   architecture review:
     type: UNKNOWN
@@ -1276,7 +1276,7 @@ advancedThreatProtectionSettings:
 agents:
   path: Microsoft.DBforMySQL/agents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/agents
   architecture review:
     type: UNKNOWN
@@ -1293,7 +1293,7 @@ agents:
 aggregations:
   path: Microsoft.DBforMySQL/aggregations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/aggregations
   architecture review:
     type: UNKNOWN
@@ -1310,7 +1310,7 @@ aggregations:
 agreements:
   path: Microsoft.DBforMySQL/agreements
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/agreements
   architecture review:
     type: UNKNOWN
@@ -1327,7 +1327,7 @@ agreements:
 alertRuleTemplates:
   path: Microsoft.DBforMySQL/alertRuleTemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/alertRuleTemplates
   architecture review:
     type: UNKNOWN
@@ -1344,7 +1344,7 @@ alertRuleTemplates:
 alertRules:
   path: Microsoft.DBforMySQL/alertRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/alertRules
   architecture review:
     type: UNKNOWN
@@ -1361,7 +1361,7 @@ alertRules:
 alertrules:
   path: Microsoft.DBforMySQL/alertrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/alertrules
   architecture review:
     type: UNKNOWN
@@ -1378,7 +1378,7 @@ alertrules:
 alerts:
   path: Microsoft.DBforMySQL/alerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/alerts
   architecture review:
     type: UNKNOWN
@@ -1395,7 +1395,7 @@ alerts:
 alertsList:
   path: Microsoft.DBforMySQL/alertsList
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/alertsList
   architecture review:
     type: UNKNOWN
@@ -1412,7 +1412,7 @@ alertsList:
 alertsMetaData:
   path: Microsoft.DBforMySQL/alertsMetaData
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/alertsMetaData
   architecture review:
     type: UNKNOWN
@@ -1429,7 +1429,7 @@ alertsMetaData:
 alertsSummary:
   path: Microsoft.DBforMySQL/alertsSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/alertsSummary
   architecture review:
     type: UNKNOWN
@@ -1446,7 +1446,7 @@ alertsSummary:
 alertsSummaryList:
   path: Microsoft.DBforMySQL/alertsSummaryList
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/alertsSummaryList
   architecture review:
     type: UNKNOWN
@@ -1463,7 +1463,7 @@ alertsSummaryList:
 allowedConnections:
   path: Microsoft.DBforMySQL/allowedConnections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/allowedConnections
   architecture review:
     type: UNKNOWN
@@ -1480,7 +1480,7 @@ allowedConnections:
 anonymousapiusers:
   path: Microsoft.DBforMySQL/anonymousapiusers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/anonymousapiusers
   architecture review:
     type: UNKNOWN
@@ -1497,7 +1497,7 @@ anonymousapiusers:
 appTemplates:
   path: Microsoft.DBforMySQL/appTemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/appTemplates
   architecture review:
     type: UNKNOWN
@@ -1514,7 +1514,7 @@ appTemplates:
 applicationDefinitions:
   path: Microsoft.DBforMySQL/applicationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/applicationDefinitions
   architecture review:
     type: UNKNOWN
@@ -1531,7 +1531,7 @@ applicationDefinitions:
 applicationGatewayAvailableRequestHeaders:
   path: Microsoft.DBforMySQL/applicationGatewayAvailableRequestHeaders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/applicationGatewayAvailableRequestHeaders
   architecture review:
     type: UNKNOWN
@@ -1548,7 +1548,7 @@ applicationGatewayAvailableRequestHeaders:
 applicationGatewayAvailableResponseHeaders:
   path: Microsoft.DBforMySQL/applicationGatewayAvailableResponseHeaders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/applicationGatewayAvailableResponseHeaders
   architecture review:
     type: UNKNOWN
@@ -1565,7 +1565,7 @@ applicationGatewayAvailableResponseHeaders:
 applicationGatewayAvailableServerVariables:
   path: Microsoft.DBforMySQL/applicationGatewayAvailableServerVariables
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/applicationGatewayAvailableServerVariables
   architecture review:
     type: UNKNOWN
@@ -1582,7 +1582,7 @@ applicationGatewayAvailableServerVariables:
 applicationGatewayAvailableSslOptions:
   path: Microsoft.DBforMySQL/applicationGatewayAvailableSslOptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/applicationGatewayAvailableSslOptions
   architecture review:
     type: UNKNOWN
@@ -1599,7 +1599,7 @@ applicationGatewayAvailableSslOptions:
 applicationGatewayAvailableWafRuleSets:
   path: Microsoft.DBforMySQL/applicationGatewayAvailableWafRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/applicationGatewayAvailableWafRuleSets
   architecture review:
     type: UNKNOWN
@@ -1616,7 +1616,7 @@ applicationGatewayAvailableWafRuleSets:
 applicationGatewayWebApplicationFirewallPolicies:
   path: Microsoft.DBforMySQL/applicationGatewayWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/applicationGatewayWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -1633,7 +1633,7 @@ applicationGatewayWebApplicationFirewallPolicies:
 applicationGateways:
   path: Microsoft.DBforMySQL/applicationGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/applicationGateways
   architecture review:
     type: UNKNOWN
@@ -1650,7 +1650,7 @@ applicationGateways:
 applicationSecurityGroups:
   path: Microsoft.DBforMySQL/applicationSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/applicationSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -1667,7 +1667,7 @@ applicationSecurityGroups:
 applicationWhitelistings:
   path: Microsoft.DBforMySQL/applicationWhitelistings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/applicationWhitelistings
   architecture review:
     type: UNKNOWN
@@ -1684,7 +1684,7 @@ applicationWhitelistings:
 applications:
   path: Microsoft.DBforMySQL/applications
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/applications
   architecture review:
     type: UNKNOWN
@@ -1701,7 +1701,7 @@ applications:
 appliedReservations:
   path: Microsoft.DBforMySQL/appliedReservations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/appliedReservations
   architecture review:
     type: UNKNOWN
@@ -1718,7 +1718,7 @@ appliedReservations:
 applyUpdates:
   path: Microsoft.DBforMySQL/applyUpdates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/applyUpdates
   architecture review:
     type: UNKNOWN
@@ -1735,7 +1735,7 @@ applyUpdates:
 apps:
   path: Microsoft.DBforMySQL/apps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/apps
   architecture review:
     type: UNKNOWN
@@ -1752,7 +1752,7 @@ apps:
 artifactSources:
   path: Microsoft.DBforMySQL/artifactSources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/artifactSources
   architecture review:
     type: UNKNOWN
@@ -1769,7 +1769,7 @@ artifactSources:
 assessmentMetadata:
   path: Microsoft.DBforMySQL/assessmentMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/assessmentMetadata
   architecture review:
     type: UNKNOWN
@@ -1786,7 +1786,7 @@ assessmentMetadata:
 assessmentProjects:
   path: Microsoft.DBforMySQL/assessmentProjects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/assessmentProjects
   architecture review:
     type: UNKNOWN
@@ -1803,7 +1803,7 @@ assessmentProjects:
 assessmentprojects:
   path: Microsoft.DBforMySQL/assessmentprojects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/assessmentprojects
   architecture review:
     type: UNKNOWN
@@ -1820,7 +1820,7 @@ assessmentprojects:
 assessments:
   path: Microsoft.DBforMySQL/assessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/assessments
   architecture review:
     type: UNKNOWN
@@ -1837,7 +1837,7 @@ assessments:
 associations:
   path: Microsoft.DBforMySQL/associations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/associations
   architecture review:
     type: UNKNOWN
@@ -1854,7 +1854,7 @@ associations:
 asyncOperationResults:
   path: Microsoft.DBforMySQL/asyncOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/asyncOperationResults
   architecture review:
     type: UNKNOWN
@@ -1871,7 +1871,7 @@ asyncOperationResults:
 attestationProviders:
   path: Microsoft.DBforMySQL/attestationProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/attestationProviders
   architecture review:
     type: UNKNOWN
@@ -1888,7 +1888,7 @@ attestationProviders:
 autoDismissAlertsRules:
   path: Microsoft.DBforMySQL/autoDismissAlertsRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/autoDismissAlertsRules
   architecture review:
     type: UNKNOWN
@@ -1905,7 +1905,7 @@ autoDismissAlertsRules:
 automationAccounts:
   path: Microsoft.DBforMySQL/automationAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/automationAccounts
   architecture review:
     type: UNKNOWN
@@ -1922,7 +1922,7 @@ automationAccounts:
 automations:
   path: Microsoft.DBforMySQL/automations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/automations
   architecture review:
     type: UNKNOWN
@@ -1939,7 +1939,7 @@ automations:
 autoscalesettings:
   path: Microsoft.DBforMySQL/autoscalesettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/autoscalesettings
   architecture review:
     type: UNKNOWN
@@ -1956,7 +1956,7 @@ autoscalesettings:
 availabilitySets:
   path: Microsoft.DBforMySQL/availabilitySets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/availabilitySets
   architecture review:
     type: UNKNOWN
@@ -1973,7 +1973,7 @@ availabilitySets:
 availabilityStatuses:
   path: Microsoft.DBforMySQL/availabilityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/availabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -1990,7 +1990,7 @@ availabilityStatuses:
 availableAccounts:
   path: Microsoft.DBforMySQL/availableAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/availableAccounts
   architecture review:
     type: UNKNOWN
@@ -2007,7 +2007,7 @@ availableAccounts:
 availableClusterRegions:
   path: Microsoft.DBforMySQL/availableClusterRegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/availableClusterRegions
   architecture review:
     type: UNKNOWN
@@ -2024,7 +2024,7 @@ availableClusterRegions:
 availableStacks:
   path: Microsoft.DBforMySQL/availableStacks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/availableStacks
   architecture review:
     type: UNKNOWN
@@ -2041,7 +2041,7 @@ availableStacks:
 azureFirewallFqdnTags:
   path: Microsoft.DBforMySQL/azureFirewallFqdnTags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/azureFirewallFqdnTags
   architecture review:
     type: UNKNOWN
@@ -2058,7 +2058,7 @@ azureFirewallFqdnTags:
 azureFirewalls:
   path: Microsoft.DBforMySQL/azureFirewalls
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/azureFirewalls
   architecture review:
     type: UNKNOWN
@@ -2075,7 +2075,7 @@ azureFirewalls:
 b2cDirectories:
   path: Microsoft.DBforMySQL/b2cDirectories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/b2cDirectories
   architecture review:
     type: UNKNOWN
@@ -2092,7 +2092,7 @@ b2cDirectories:
 b2ctenants:
   path: Microsoft.DBforMySQL/b2ctenants
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/b2ctenants
   architecture review:
     type: UNKNOWN
@@ -2109,7 +2109,7 @@ b2ctenants:
 backupProtectedItems:
   path: Microsoft.DBforMySQL/backupProtectedItems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/backupProtectedItems
   architecture review:
     type: UNKNOWN
@@ -2126,7 +2126,7 @@ backupProtectedItems:
 baseline:
   path: Microsoft.DBforMySQL/baseline
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/baseline
   architecture review:
     type: UNKNOWN
@@ -2143,7 +2143,7 @@ baseline:
 bastionHosts:
   path: Microsoft.DBforMySQL/bastionHosts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/bastionHosts
   architecture review:
     type: UNKNOWN
@@ -2160,7 +2160,7 @@ bastionHosts:
 batchAccounts:
   path: Microsoft.DBforMySQL/batchAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/batchAccounts
   architecture review:
     type: UNKNOWN
@@ -2177,7 +2177,7 @@ batchAccounts:
 bgpServiceCommunities:
   path: Microsoft.DBforMySQL/bgpServiceCommunities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/bgpServiceCommunities
   architecture review:
     type: UNKNOWN
@@ -2194,7 +2194,7 @@ bgpServiceCommunities:
 billingAccounts:
   path: Microsoft.DBforMySQL/billingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/billingAccounts
   architecture review:
     type: UNKNOWN
@@ -2211,7 +2211,7 @@ billingAccounts:
 billingMeters:
   path: Microsoft.DBforMySQL/billingMeters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/billingMeters
   architecture review:
     type: UNKNOWN
@@ -2228,7 +2228,7 @@ billingMeters:
 billingPeriods:
   path: Microsoft.DBforMySQL/billingPeriods
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/billingPeriods
   architecture review:
     type: UNKNOWN
@@ -2245,7 +2245,7 @@ billingPeriods:
 billingPermissions:
   path: Microsoft.DBforMySQL/billingPermissions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/billingPermissions
   architecture review:
     type: UNKNOWN
@@ -2262,7 +2262,7 @@ billingPermissions:
 billingProperty:
   path: Microsoft.DBforMySQL/billingProperty
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/billingProperty
   architecture review:
     type: UNKNOWN
@@ -2279,7 +2279,7 @@ billingProperty:
 billingRoleAssignments:
   path: Microsoft.DBforMySQL/billingRoleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/billingRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -2296,7 +2296,7 @@ billingRoleAssignments:
 billingRoleDefinitions:
   path: Microsoft.DBforMySQL/billingRoleDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/billingRoleDefinitions
   architecture review:
     type: UNKNOWN
@@ -2313,7 +2313,7 @@ billingRoleDefinitions:
 blockchainMembers:
   path: Microsoft.DBforMySQL/blockchainMembers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/blockchainMembers
   architecture review:
     type: UNKNOWN
@@ -2330,7 +2330,7 @@ blockchainMembers:
 blueprintAssignments:
   path: Microsoft.DBforMySQL/blueprintAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/blueprintAssignments
   architecture review:
     type: UNKNOWN
@@ -2347,7 +2347,7 @@ blueprintAssignments:
 blueprints:
   path: Microsoft.DBforMySQL/blueprints
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/blueprints
   architecture review:
     type: UNKNOWN
@@ -2364,7 +2364,7 @@ blueprints:
 bookmarks:
   path: Microsoft.DBforMySQL/bookmarks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/bookmarks
   architecture review:
     type: UNKNOWN
@@ -2381,7 +2381,7 @@ bookmarks:
 botServices:
   path: Microsoft.DBforMySQL/botServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/botServices
   architecture review:
     type: UNKNOWN
@@ -2398,7 +2398,7 @@ botServices:
 calculateExchange:
   path: Microsoft.DBforMySQL/calculateExchange
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/calculateExchange
   architecture review:
     type: UNKNOWN
@@ -2415,7 +2415,7 @@ calculateExchange:
 calculatePrice:
   path: Microsoft.DBforMySQL/calculatePrice
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/calculatePrice
   architecture review:
     type: UNKNOWN
@@ -2432,7 +2432,7 @@ calculatePrice:
 calculatePurchasePrice:
   path: Microsoft.DBforMySQL/calculatePurchasePrice
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/calculatePurchasePrice
   architecture review:
     type: UNKNOWN
@@ -2449,7 +2449,7 @@ calculatePurchasePrice:
 calculatebaseline:
   path: Microsoft.DBforMySQL/calculatebaseline
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/calculatebaseline
   architecture review:
     type: UNKNOWN
@@ -2466,7 +2466,7 @@ calculatebaseline:
 cancel:
   path: Microsoft.DBforMySQL/cancel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/cancel
   architecture review:
     type: UNKNOWN
@@ -2483,7 +2483,7 @@ cancel:
 capabilities:
   path: Microsoft.DBforMySQL/capabilities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/capabilities
   architecture review:
     type: UNKNOWN
@@ -2500,7 +2500,7 @@ capabilities:
 capacities:
   path: Microsoft.DBforMySQL/capacities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/capacities
   architecture review:
     type: UNKNOWN
@@ -2517,7 +2517,7 @@ capacities:
 cases:
   path: Microsoft.DBforMySQL/cases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/cases
   architecture review:
     type: UNKNOWN
@@ -2534,7 +2534,7 @@ cases:
 catalogs:
   path: Microsoft.DBforMySQL/catalogs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/catalogs
   architecture review:
     type: UNKNOWN
@@ -2551,7 +2551,7 @@ catalogs:
 certificateOrders:
   path: Microsoft.DBforMySQL/certificateOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/certificateOrders
   architecture review:
     type: UNKNOWN
@@ -2568,7 +2568,7 @@ certificateOrders:
 certificates:
   path: Microsoft.DBforMySQL/certificates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/certificates
   architecture review:
     type: UNKNOWN
@@ -2585,7 +2585,7 @@ certificates:
 checkAccess:
   path: Microsoft.DBforMySQL/checkAccess
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkAccess
   architecture review:
     type: UNKNOWN
@@ -2602,7 +2602,7 @@ checkAccess:
 checkAzureDataFactoryNameAvailability:
   path: Microsoft.DBforMySQL/checkAzureDataFactoryNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkAzureDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2619,7 +2619,7 @@ checkAzureDataFactoryNameAvailability:
 checkDataFactoryNameAvailability:
   path: Microsoft.DBforMySQL/checkDataFactoryNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2636,7 +2636,7 @@ checkDataFactoryNameAvailability:
 checkDomainAvailability:
   path: Microsoft.DBforMySQL/checkDomainAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkDomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2653,7 +2653,7 @@ checkDomainAvailability:
 checkDomainNameAvailability:
   path: Microsoft.DBforMySQL/checkDomainNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkDomainNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2670,7 +2670,7 @@ checkDomainNameAvailability:
 checkFeedbackRequired:
   path: Microsoft.DBforMySQL/checkFeedbackRequired
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkFeedbackRequired
   architecture review:
     type: UNKNOWN
@@ -2687,7 +2687,7 @@ checkFeedbackRequired:
 checkFrontdoorNameAvailability:
   path: Microsoft.DBforMySQL/checkFrontdoorNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkFrontdoorNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2704,7 +2704,7 @@ checkFrontdoorNameAvailability:
 checkModernEligibility:
   path: Microsoft.DBforMySQL/checkModernEligibility
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkModernEligibility
   architecture review:
     type: UNKNOWN
@@ -2721,7 +2721,7 @@ checkModernEligibility:
 checkNameAvailability:
   path: Microsoft.DBforMySQL/checkNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2738,7 +2738,7 @@ checkNameAvailability:
 checkNamespaceAvailability:
   path: Microsoft.DBforMySQL/checkNamespaceAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkNamespaceAvailability
   architecture review:
     type: UNKNOWN
@@ -2755,7 +2755,7 @@ checkNamespaceAvailability:
 checkOffers:
   path: Microsoft.DBforMySQL/checkOffers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkOffers
   architecture review:
     type: UNKNOWN
@@ -2772,7 +2772,7 @@ checkOffers:
 checkPolicyCompliance:
   path: Microsoft.DBforMySQL/checkPolicyCompliance
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkPolicyCompliance
   architecture review:
     type: UNKNOWN
@@ -2789,7 +2789,7 @@ checkPolicyCompliance:
 checkProvisioningServiceNameAvailability:
   path: Microsoft.DBforMySQL/checkProvisioningServiceNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkProvisioningServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2806,7 +2806,7 @@ checkProvisioningServiceNameAvailability:
 checkPurchaseStatus:
   path: Microsoft.DBforMySQL/checkPurchaseStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkPurchaseStatus
   architecture review:
     type: UNKNOWN
@@ -2823,7 +2823,7 @@ checkPurchaseStatus:
 checkResourceUsage:
   path: Microsoft.DBforMySQL/checkResourceUsage
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkResourceUsage
   architecture review:
     type: UNKNOWN
@@ -2840,7 +2840,7 @@ checkResourceUsage:
 checkScopes:
   path: Microsoft.DBforMySQL/checkScopes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkScopes
   architecture review:
     type: UNKNOWN
@@ -2857,7 +2857,7 @@ checkScopes:
 checkServiceNameAvailability:
   path: Microsoft.DBforMySQL/checkServiceNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2874,7 +2874,7 @@ checkServiceNameAvailability:
 checkServiceProviderAvailability:
   path: Microsoft.DBforMySQL/checkServiceProviderAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkServiceProviderAvailability
   architecture review:
     type: UNKNOWN
@@ -2891,7 +2891,7 @@ checkServiceProviderAvailability:
 checkStorageAccountAvailability:
   path: Microsoft.DBforMySQL/checkStorageAccountAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkStorageAccountAvailability
   architecture review:
     type: UNKNOWN
@@ -2908,7 +2908,7 @@ checkStorageAccountAvailability:
 checkSubdomainAvailability:
   path: Microsoft.DBforMySQL/checkSubdomainAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkSubdomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2925,7 +2925,7 @@ checkSubdomainAvailability:
 checkTrafficManagerNameAvailability:
   path: Microsoft.DBforMySQL/checkTrafficManagerNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkTrafficManagerNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2942,7 +2942,7 @@ checkTrafficManagerNameAvailability:
 checknameavailability:
   path: Microsoft.DBforMySQL/checknameavailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checknameavailability
   architecture review:
     type: UNKNOWN
@@ -2959,7 +2959,7 @@ checknameavailability:
 checkresourcename:
   path: Microsoft.DBforMySQL/checkresourcename
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/checkresourcename
   architecture review:
     type: UNKNOWN
@@ -2976,7 +2976,7 @@ checkresourcename:
 childAvailabilityStatuses:
   path: Microsoft.DBforMySQL/childAvailabilityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/childAvailabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -2993,7 +2993,7 @@ childAvailabilityStatuses:
 childResources:
   path: Microsoft.DBforMySQL/childResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/childResources
   architecture review:
     type: UNKNOWN
@@ -3010,7 +3010,7 @@ childResources:
 classicAdministrators:
   path: Microsoft.DBforMySQL/classicAdministrators
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/classicAdministrators
   architecture review:
     type: UNKNOWN
@@ -3027,7 +3027,7 @@ classicAdministrators:
 classicDevServices:
   path: Microsoft.DBforMySQL/classicDevServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/classicDevServices
   architecture review:
     type: UNKNOWN
@@ -3044,7 +3044,7 @@ classicDevServices:
 classicInfrastructureResources:
   path: Microsoft.DBforMySQL/classicInfrastructureResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/classicInfrastructureResources
   architecture review:
     type: UNKNOWN
@@ -3061,7 +3061,7 @@ classicInfrastructureResources:
 cloudManifestFiles:
   path: Microsoft.DBforMySQL/cloudManifestFiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/cloudManifestFiles
   architecture review:
     type: UNKNOWN
@@ -3078,7 +3078,7 @@ cloudManifestFiles:
 clusters:
   path: Microsoft.DBforMySQL/clusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/clusters
   architecture review:
     type: UNKNOWN
@@ -3095,7 +3095,7 @@ clusters:
 commercialReservationOrders:
   path: Microsoft.DBforMySQL/commercialReservationOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/commercialReservationOrders
   architecture review:
     type: UNKNOWN
@@ -3112,7 +3112,7 @@ commercialReservationOrders:
 commitmentPlans:
   path: Microsoft.DBforMySQL/commitmentPlans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/commitmentPlans
   architecture review:
     type: UNKNOWN
@@ -3129,7 +3129,7 @@ commitmentPlans:
 complianceResults:
   path: Microsoft.DBforMySQL/complianceResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/complianceResults
   architecture review:
     type: UNKNOWN
@@ -3146,7 +3146,7 @@ complianceResults:
 components:
   path: Microsoft.DBforMySQL/components
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/components
   architecture review:
     type: UNKNOWN
@@ -3163,7 +3163,7 @@ components:
 componentsSummary:
   path: Microsoft.DBforMySQL/componentsSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/componentsSummary
   architecture review:
     type: UNKNOWN
@@ -3180,7 +3180,7 @@ componentsSummary:
 configuration:
   path: Microsoft.DBforMySQL/configuration
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/configuration
   architecture review:
     type: UNKNOWN
@@ -3197,7 +3197,7 @@ configuration:
 configurationAssignments:
   path: Microsoft.DBforMySQL/configurationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/configurationAssignments
   architecture review:
     type: UNKNOWN
@@ -3214,7 +3214,7 @@ configurationAssignments:
 configurationStores:
   path: Microsoft.DBforMySQL/configurationStores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/configurationStores
   architecture review:
     type: UNKNOWN
@@ -3231,7 +3231,7 @@ configurationStores:
 configurations:
   path: Microsoft.DBforMySQL/configurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/configurations
   architecture review:
     type: UNKNOWN
@@ -3248,7 +3248,7 @@ configurations:
 connectionGateways:
   path: Microsoft.DBforMySQL/connectionGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/connectionGateways
   architecture review:
     type: UNKNOWN
@@ -3265,7 +3265,7 @@ connectionGateways:
 connections:
   path: Microsoft.DBforMySQL/connections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/connections
   architecture review:
     type: UNKNOWN
@@ -3282,7 +3282,7 @@ connections:
 consoleServices:
   path: Microsoft.DBforMySQL/consoleServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/consoleServices
   architecture review:
     type: UNKNOWN
@@ -3299,7 +3299,7 @@ consoleServices:
 consoles:
   path: Microsoft.DBforMySQL/consoles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/consoles
   architecture review:
     type: UNKNOWN
@@ -3316,7 +3316,7 @@ consoles:
 containerGroups:
   path: Microsoft.DBforMySQL/containerGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/containerGroups
   architecture review:
     type: UNKNOWN
@@ -3333,7 +3333,7 @@ containerGroups:
 containerServices:
   path: Microsoft.DBforMySQL/containerServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/containerServices
   architecture review:
     type: UNKNOWN
@@ -3350,7 +3350,7 @@ containerServices:
 controllers:
   path: Microsoft.DBforMySQL/controllers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/controllers
   architecture review:
     type: UNKNOWN
@@ -3367,7 +3367,7 @@ controllers:
 createBillingRoleAssignment:
   path: Microsoft.DBforMySQL/createBillingRoleAssignment
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/createBillingRoleAssignment
   architecture review:
     type: UNKNOWN
@@ -3384,7 +3384,7 @@ createBillingRoleAssignment:
 credits:
   path: Microsoft.DBforMySQL/credits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/credits
   architecture review:
     type: UNKNOWN
@@ -3401,7 +3401,7 @@ credits:
 customApis:
   path: Microsoft.DBforMySQL/customApis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/customApis
   architecture review:
     type: UNKNOWN
@@ -3418,7 +3418,7 @@ customApis:
 dashboards:
   path: Microsoft.DBforMySQL/dashboards
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dashboards
   architecture review:
     type: UNKNOWN
@@ -3435,7 +3435,7 @@ dashboards:
 dataAliases:
   path: Microsoft.DBforMySQL/dataAliases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dataAliases
   architecture review:
     type: UNKNOWN
@@ -3452,7 +3452,7 @@ dataAliases:
 dataCollectionAgents:
   path: Microsoft.DBforMySQL/dataCollectionAgents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dataCollectionAgents
   architecture review:
     type: UNKNOWN
@@ -3469,7 +3469,7 @@ dataCollectionAgents:
 dataConnectors:
   path: Microsoft.DBforMySQL/dataConnectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dataConnectors
   architecture review:
     type: UNKNOWN
@@ -3486,7 +3486,7 @@ dataConnectors:
 dataConnectorsCheckRequirements:
   path: Microsoft.DBforMySQL/dataConnectorsCheckRequirements
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dataConnectorsCheckRequirements
   architecture review:
     type: UNKNOWN
@@ -3503,7 +3503,7 @@ dataConnectorsCheckRequirements:
 dataFactories:
   path: Microsoft.DBforMySQL/dataFactories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dataFactories
   architecture review:
     type: UNKNOWN
@@ -3520,7 +3520,7 @@ dataFactories:
 dataFactorySchema:
   path: Microsoft.DBforMySQL/dataFactorySchema
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dataFactorySchema
   architecture review:
     type: UNKNOWN
@@ -3537,7 +3537,7 @@ dataFactorySchema:
 dataManagers:
   path: Microsoft.DBforMySQL/dataManagers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dataManagers
   architecture review:
     type: UNKNOWN
@@ -3554,7 +3554,7 @@ dataManagers:
 databaseAccountNames:
   path: Microsoft.DBforMySQL/databaseAccountNames
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/databaseAccountNames
   architecture review:
     type: UNKNOWN
@@ -3571,7 +3571,7 @@ databaseAccountNames:
 databaseAccounts:
   path: Microsoft.DBforMySQL/databaseAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/databaseAccounts
   architecture review:
     type: UNKNOWN
@@ -3588,7 +3588,7 @@ databaseAccounts:
 databases:
   path: Microsoft.DBforMySQL/databases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/databases
   architecture review:
     type: UNKNOWN
@@ -3605,7 +3605,7 @@ databases:
 ddosCustomPolicies:
   path: Microsoft.DBforMySQL/ddosCustomPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ddosCustomPolicies
   architecture review:
     type: UNKNOWN
@@ -3622,7 +3622,7 @@ ddosCustomPolicies:
 ddosProtectionPlans:
   path: Microsoft.DBforMySQL/ddosProtectionPlans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ddosProtectionPlans
   architecture review:
     type: UNKNOWN
@@ -3639,7 +3639,7 @@ ddosProtectionPlans:
 dedicatedCloudNodes:
   path: Microsoft.DBforMySQL/dedicatedCloudNodes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dedicatedCloudNodes
   architecture review:
     type: UNKNOWN
@@ -3656,7 +3656,7 @@ dedicatedCloudNodes:
 dedicatedCloudServices:
   path: Microsoft.DBforMySQL/dedicatedCloudServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dedicatedCloudServices
   architecture review:
     type: UNKNOWN
@@ -3673,7 +3673,7 @@ dedicatedCloudServices:
 deletedSites:
   path: Microsoft.DBforMySQL/deletedSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/deletedSites
   architecture review:
     type: UNKNOWN
@@ -3690,7 +3690,7 @@ deletedSites:
 deletedVaults:
   path: Microsoft.DBforMySQL/deletedVaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/deletedVaults
   architecture review:
     type: UNKNOWN
@@ -3707,7 +3707,7 @@ deletedVaults:
 denyAssignments:
   path: Microsoft.DBforMySQL/denyAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/denyAssignments
   architecture review:
     type: UNKNOWN
@@ -3724,7 +3724,7 @@ denyAssignments:
 departments:
   path: Microsoft.DBforMySQL/departments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/departments
   architecture review:
     type: UNKNOWN
@@ -3741,7 +3741,7 @@ departments:
 deploymentLocations:
   path: Microsoft.DBforMySQL/deploymentLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/deploymentLocations
   architecture review:
     type: UNKNOWN
@@ -3758,7 +3758,7 @@ deploymentLocations:
 deploymentScripts:
   path: Microsoft.DBforMySQL/deploymentScripts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/deploymentScripts
   architecture review:
     type: UNKNOWN
@@ -3775,7 +3775,7 @@ deploymentScripts:
 deployments:
   path: Microsoft.DBforMySQL/deployments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/deployments
   architecture review:
     type: UNKNOWN
@@ -3792,7 +3792,7 @@ deployments:
 deviceSecurityGroups:
   path: Microsoft.DBforMySQL/deviceSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/deviceSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -3809,7 +3809,7 @@ deviceSecurityGroups:
 diagnosticSettings:
   path: Microsoft.DBforMySQL/diagnosticSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/diagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -3826,7 +3826,7 @@ diagnosticSettings:
 diagnosticSettingsCategories:
   path: Microsoft.DBforMySQL/diagnosticSettingsCategories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/diagnosticSettingsCategories
   architecture review:
     type: UNKNOWN
@@ -3843,7 +3843,7 @@ diagnosticSettingsCategories:
 discoveredSecuritySolutions:
   path: Microsoft.DBforMySQL/discoveredSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/discoveredSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -3860,7 +3860,7 @@ discoveredSecuritySolutions:
 diskEncryptionSets:
   path: Microsoft.DBforMySQL/diskEncryptionSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/diskEncryptionSets
   architecture review:
     type: UNKNOWN
@@ -3877,7 +3877,7 @@ diskEncryptionSets:
 disks:
   path: Microsoft.DBforMySQL/disks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/disks
   architecture review:
     type: UNKNOWN
@@ -3894,7 +3894,7 @@ disks:
 dnsOperationResults:
   path: Microsoft.DBforMySQL/dnsOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -3911,7 +3911,7 @@ dnsOperationResults:
 dnsOperationStatuses:
   path: Microsoft.DBforMySQL/dnsOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -3928,7 +3928,7 @@ dnsOperationStatuses:
 dnszones:
   path: Microsoft.DBforMySQL/dnszones
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/dnszones
   architecture review:
     type: UNKNOWN
@@ -3945,7 +3945,7 @@ dnszones:
 domainNames:
   path: Microsoft.DBforMySQL/domainNames
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/domainNames
   architecture review:
     type: UNKNOWN
@@ -3962,7 +3962,7 @@ domainNames:
 domains:
   path: Microsoft.DBforMySQL/domains
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/domains
   architecture review:
     type: UNKNOWN
@@ -3979,7 +3979,7 @@ domains:
 edgenodes:
   path: Microsoft.DBforMySQL/edgenodes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/edgenodes
   architecture review:
     type: UNKNOWN
@@ -3996,7 +3996,7 @@ edgenodes:
 elevateAccess:
   path: Microsoft.DBforMySQL/elevateAccess
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/elevateAccess
   architecture review:
     type: UNKNOWN
@@ -4013,7 +4013,7 @@ elevateAccess:
 emergingissues:
   path: Microsoft.DBforMySQL/emergingissues
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/emergingissues
   architecture review:
     type: UNKNOWN
@@ -4030,7 +4030,7 @@ emergingissues:
 enable:
   path: Microsoft.DBforMySQL/enable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/enable
   architecture review:
     type: UNKNOWN
@@ -4047,7 +4047,7 @@ enable:
 enrollmentAccounts:
   path: Microsoft.DBforMySQL/enrollmentAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/enrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -4064,7 +4064,7 @@ enrollmentAccounts:
 entities:
   path: Microsoft.DBforMySQL/entities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/entities
   architecture review:
     type: UNKNOWN
@@ -4081,7 +4081,7 @@ entities:
 entityQueries:
   path: Microsoft.DBforMySQL/entityQueries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/entityQueries
   architecture review:
     type: UNKNOWN
@@ -4098,7 +4098,7 @@ entityQueries:
 environments:
   path: Microsoft.DBforMySQL/environments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/environments
   architecture review:
     type: UNKNOWN
@@ -4115,7 +4115,7 @@ environments:
 eventCategories:
   path: Microsoft.DBforMySQL/eventCategories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/eventCategories
   architecture review:
     type: UNKNOWN
@@ -4132,7 +4132,7 @@ eventCategories:
 eventSubscriptions:
   path: Microsoft.DBforMySQL/eventSubscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/eventSubscriptions
   architecture review:
     type: UNKNOWN
@@ -4149,7 +4149,7 @@ eventSubscriptions:
 events:
   path: Microsoft.DBforMySQL/events
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/events
   architecture review:
     type: UNKNOWN
@@ -4166,7 +4166,7 @@ events:
 eventtypes:
   path: Microsoft.DBforMySQL/eventtypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/eventtypes
   architecture review:
     type: UNKNOWN
@@ -4183,7 +4183,7 @@ eventtypes:
 exchange:
   path: Microsoft.DBforMySQL/exchange
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/exchange
   architecture review:
     type: UNKNOWN
@@ -4200,7 +4200,7 @@ exchange:
 expressRouteCircuits:
   path: Microsoft.DBforMySQL/expressRouteCircuits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/expressRouteCircuits
   architecture review:
     type: UNKNOWN
@@ -4217,7 +4217,7 @@ expressRouteCircuits:
 expressRouteCrossConnections:
   path: Microsoft.DBforMySQL/expressRouteCrossConnections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/expressRouteCrossConnections
   architecture review:
     type: UNKNOWN
@@ -4234,7 +4234,7 @@ expressRouteCrossConnections:
 expressRouteGateways:
   path: Microsoft.DBforMySQL/expressRouteGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/expressRouteGateways
   architecture review:
     type: UNKNOWN
@@ -4251,7 +4251,7 @@ expressRouteGateways:
 expressRouteServiceProviders:
   path: Microsoft.DBforMySQL/expressRouteServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/expressRouteServiceProviders
   architecture review:
     type: UNKNOWN
@@ -4268,7 +4268,7 @@ expressRouteServiceProviders:
 extendedDiagnosticSettings:
   path: Microsoft.DBforMySQL/extendedDiagnosticSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/extendedDiagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -4285,7 +4285,7 @@ extendedDiagnosticSettings:
 extensionTopics:
   path: Microsoft.DBforMySQL/extensionTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/extensionTopics
   architecture review:
     type: UNKNOWN
@@ -4302,7 +4302,7 @@ extensionTopics:
 externalSecuritySolutions:
   path: Microsoft.DBforMySQL/externalSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/externalSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4319,7 +4319,7 @@ externalSecuritySolutions:
 factories:
   path: Microsoft.DBforMySQL/factories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/factories
   architecture review:
     type: UNKNOWN
@@ -4336,7 +4336,7 @@ factories:
 featureProviders:
   path: Microsoft.DBforMySQL/featureProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/featureProviders
   architecture review:
     type: UNKNOWN
@@ -4353,7 +4353,7 @@ featureProviders:
 features:
   path: Microsoft.DBforMySQL/features
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/features
   architecture review:
     type: UNKNOWN
@@ -4370,7 +4370,7 @@ features:
 findOrphanRoleAssignments:
   path: Microsoft.DBforMySQL/findOrphanRoleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/findOrphanRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -4387,7 +4387,7 @@ findOrphanRoleAssignments:
 firewallPolicies:
   path: Microsoft.DBforMySQL/firewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/firewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4404,7 +4404,7 @@ firewallPolicies:
 frontDoors:
   path: Microsoft.DBforMySQL/frontDoors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/frontDoors
   architecture review:
     type: UNKNOWN
@@ -4421,7 +4421,7 @@ frontDoors:
 frontdoorOperationResults:
   path: Microsoft.DBforMySQL/frontdoorOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/frontdoorOperationResults
   architecture review:
     type: UNKNOWN
@@ -4438,7 +4438,7 @@ frontdoorOperationResults:
 frontdoorWebApplicationFirewallManagedRuleSets:
   path: Microsoft.DBforMySQL/frontdoorWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/frontdoorWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -4455,7 +4455,7 @@ frontdoorWebApplicationFirewallManagedRuleSets:
 frontdoorWebApplicationFirewallPolicies:
   path: Microsoft.DBforMySQL/frontdoorWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/frontdoorWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4472,7 +4472,7 @@ frontdoorWebApplicationFirewallPolicies:
 frontdoors:
   path: Microsoft.DBforMySQL/frontdoors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/frontdoors
   architecture review:
     type: UNKNOWN
@@ -4489,7 +4489,7 @@ frontdoors:
 galleries:
   path: Microsoft.DBforMySQL/galleries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/galleries
   architecture review:
     type: UNKNOWN
@@ -4506,7 +4506,7 @@ galleries:
 gatewaySupportedDevices:
   path: Microsoft.DBforMySQL/gatewaySupportedDevices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/gatewaySupportedDevices
   architecture review:
     type: UNKNOWN
@@ -4523,7 +4523,7 @@ gatewaySupportedDevices:
 gateways:
   path: Microsoft.DBforMySQL/gateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/gateways
   architecture review:
     type: UNKNOWN
@@ -4540,7 +4540,7 @@ gateways:
 generateRecommendations:
   path: Microsoft.DBforMySQL/generateRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/generateRecommendations
   architecture review:
     type: UNKNOWN
@@ -4557,7 +4557,7 @@ generateRecommendations:
 generateSsoRequest:
   path: Microsoft.DBforMySQL/generateSsoRequest
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/generateSsoRequest
   architecture review:
     type: UNKNOWN
@@ -4574,7 +4574,7 @@ generateSsoRequest:
 georegions:
   path: Microsoft.DBforMySQL/georegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/georegions
   architecture review:
     type: UNKNOWN
@@ -4591,7 +4591,7 @@ georegions:
 getDnsResourceReference:
   path: Microsoft.DBforMySQL/getDnsResourceReference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/getDnsResourceReference
   architecture review:
     type: UNKNOWN
@@ -4608,7 +4608,7 @@ getDnsResourceReference:
 getEntities:
   path: Microsoft.DBforMySQL/getEntities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/getEntities
   architecture review:
     type: UNKNOWN
@@ -4625,7 +4625,7 @@ getEntities:
 guestConfigurationAssignments:
   path: Microsoft.DBforMySQL/guestConfigurationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/guestConfigurationAssignments
   architecture review:
     type: UNKNOWN
@@ -4642,7 +4642,7 @@ guestConfigurationAssignments:
 hanaInstances:
   path: Microsoft.DBforMySQL/hanaInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/hanaInstances
   architecture review:
     type: UNKNOWN
@@ -4659,7 +4659,7 @@ hanaInstances:
 hostGroups:
   path: Microsoft.DBforMySQL/hostGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/hostGroups
   architecture review:
     type: UNKNOWN
@@ -4676,7 +4676,7 @@ hostGroups:
 hostingEnvironments:
   path: Microsoft.DBforMySQL/hostingEnvironments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/hostingEnvironments
   architecture review:
     type: UNKNOWN
@@ -4693,7 +4693,7 @@ hostingEnvironments:
 hybridUseBenefits:
   path: Microsoft.DBforMySQL/hybridUseBenefits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/hybridUseBenefits
   architecture review:
     type: UNKNOWN
@@ -4710,7 +4710,7 @@ hybridUseBenefits:
 images:
   path: Microsoft.DBforMySQL/images
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/images
   architecture review:
     type: UNKNOWN
@@ -4727,7 +4727,7 @@ images:
 incidents:
   path: Microsoft.DBforMySQL/incidents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/incidents
   architecture review:
     type: UNKNOWN
@@ -4744,7 +4744,7 @@ incidents:
 instancePools:
   path: Microsoft.DBforMySQL/instancePools
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/instancePools
   architecture review:
     type: UNKNOWN
@@ -4761,7 +4761,7 @@ instancePools:
 integrationAccounts:
   path: Microsoft.DBforMySQL/integrationAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/integrationAccounts
   architecture review:
     type: UNKNOWN
@@ -4778,7 +4778,7 @@ integrationAccounts:
 integrationServiceEnvironments:
   path: Microsoft.DBforMySQL/integrationServiceEnvironments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/integrationServiceEnvironments
   architecture review:
     type: UNKNOWN
@@ -4795,7 +4795,7 @@ integrationServiceEnvironments:
 internalNotify:
   path: Microsoft.DBforMySQL/internalNotify
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/internalNotify
   architecture review:
     type: UNKNOWN
@@ -4812,7 +4812,7 @@ internalNotify:
 invoices:
   path: Microsoft.DBforMySQL/invoices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/invoices
   architecture review:
     type: UNKNOWN
@@ -4829,7 +4829,7 @@ invoices:
 iotSecuritySolutions:
   path: Microsoft.DBforMySQL/iotSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/iotSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4846,7 +4846,7 @@ iotSecuritySolutions:
 ipGroups:
   path: Microsoft.DBforMySQL/ipGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ipGroups
   architecture review:
     type: UNKNOWN
@@ -4863,7 +4863,7 @@ ipGroups:
 ishostingenvironmentnameavailable:
   path: Microsoft.DBforMySQL/ishostingenvironmentnameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ishostingenvironmentnameavailable
   architecture review:
     type: UNKNOWN
@@ -4880,7 +4880,7 @@ ishostingenvironmentnameavailable:
 ishostnameavailable:
   path: Microsoft.DBforMySQL/ishostnameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/ishostnameavailable
   architecture review:
     type: UNKNOWN
@@ -4897,7 +4897,7 @@ ishostnameavailable:
 isusernameavailable:
   path: Microsoft.DBforMySQL/isusernameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/isusernameavailable
   architecture review:
     type: UNKNOWN
@@ -4914,7 +4914,7 @@ isusernameavailable:
 jitNetworkAccessPolicies:
   path: Microsoft.DBforMySQL/jitNetworkAccessPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/jitNetworkAccessPolicies
   architecture review:
     type: UNKNOWN
@@ -4931,7 +4931,7 @@ jitNetworkAccessPolicies:
 jitRequests:
   path: Microsoft.DBforMySQL/jitRequests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/jitRequests
   architecture review:
     type: UNKNOWN
@@ -4948,7 +4948,7 @@ jitRequests:
 jobcollections:
   path: Microsoft.DBforMySQL/jobcollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/jobcollections
   architecture review:
     type: UNKNOWN
@@ -4965,7 +4965,7 @@ jobcollections:
 jobs:
   path: Microsoft.DBforMySQL/jobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/jobs
   architecture review:
     type: UNKNOWN
@@ -4982,7 +4982,7 @@ jobs:
 labAccounts:
   path: Microsoft.DBforMySQL/labAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/labAccounts
   architecture review:
     type: UNKNOWN
@@ -4999,7 +4999,7 @@ labAccounts:
 labaccounts:
   path: Microsoft.DBforMySQL/labaccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/labaccounts
   architecture review:
     type: UNKNOWN
@@ -5016,7 +5016,7 @@ labaccounts:
 labs:
   path: Microsoft.DBforMySQL/labs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/labs
   architecture review:
     type: UNKNOWN
@@ -5033,7 +5033,7 @@ labs:
 legacyPeerings:
   path: Microsoft.DBforMySQL/legacyPeerings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/legacyPeerings
   architecture review:
     type: UNKNOWN
@@ -5050,7 +5050,7 @@ legacyPeerings:
 linkTargets:
   path: Microsoft.DBforMySQL/linkTargets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/linkTargets
   architecture review:
     type: UNKNOWN
@@ -5067,7 +5067,7 @@ linkTargets:
 links:
   path: Microsoft.DBforMySQL/links
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/links
   architecture review:
     type: UNKNOWN
@@ -5084,7 +5084,7 @@ links:
 listAuthServiceProviders:
   path: Microsoft.DBforMySQL/listAuthServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/listAuthServiceProviders
   architecture review:
     type: UNKNOWN
@@ -5101,7 +5101,7 @@ listAuthServiceProviders:
 listAvailableOffers:
   path: Microsoft.DBforMySQL/listAvailableOffers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/listAvailableOffers
   architecture review:
     type: UNKNOWN
@@ -5118,7 +5118,7 @@ listAvailableOffers:
 listBenefits:
   path: Microsoft.DBforMySQL/listBenefits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/listBenefits
   architecture review:
     type: UNKNOWN
@@ -5135,7 +5135,7 @@ listBenefits:
 listCommunicationPreference:
   path: Microsoft.DBforMySQL/listCommunicationPreference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/listCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -5152,7 +5152,7 @@ listCommunicationPreference:
 listDomainRecommendations:
   path: Microsoft.DBforMySQL/listDomainRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/listDomainRecommendations
   architecture review:
     type: UNKNOWN
@@ -5169,7 +5169,7 @@ listDomainRecommendations:
 listMigrationdate:
   path: Microsoft.DBforMySQL/listMigrationdate
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/listMigrationdate
   architecture review:
     type: UNKNOWN
@@ -5186,7 +5186,7 @@ listMigrationdate:
 listSitesAssignedToHostName:
   path: Microsoft.DBforMySQL/listSitesAssignedToHostName
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/listSitesAssignedToHostName
   architecture review:
     type: UNKNOWN
@@ -5203,7 +5203,7 @@ listSitesAssignedToHostName:
 listinvitations:
   path: Microsoft.DBforMySQL/listinvitations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/listinvitations
   architecture review:
     type: UNKNOWN
@@ -5220,7 +5220,7 @@ listinvitations:
 loadBalancers:
   path: Microsoft.DBforMySQL/loadBalancers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/loadBalancers
   architecture review:
     type: UNKNOWN
@@ -5237,7 +5237,7 @@ loadBalancers:
 localNetworkGateways:
   path: Microsoft.DBforMySQL/localNetworkGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/localNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -5254,7 +5254,7 @@ localNetworkGateways:
 locations:
   path: Microsoft.DBforMySQL/locations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/locations
   architecture review:
     type: UNKNOWN
@@ -5271,7 +5271,7 @@ locations:
 locks:
   path: Microsoft.DBforMySQL/locks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/locks
   architecture review:
     type: UNKNOWN
@@ -5288,7 +5288,7 @@ locks:
 logDefinitions:
   path: Microsoft.DBforMySQL/logDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/logDefinitions
   architecture review:
     type: UNKNOWN
@@ -5305,7 +5305,7 @@ logDefinitions:
 logprofiles:
   path: Microsoft.DBforMySQL/logprofiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/logprofiles
   architecture review:
     type: UNKNOWN
@@ -5322,7 +5322,7 @@ logprofiles:
 logs:
   path: Microsoft.DBforMySQL/logs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/logs
   architecture review:
     type: UNKNOWN
@@ -5339,7 +5339,7 @@ logs:
 lots:
   path: Microsoft.DBforMySQL/lots
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/lots
   architecture review:
     type: UNKNOWN
@@ -5356,7 +5356,7 @@ lots:
 machines:
   path: Microsoft.DBforMySQL/machines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/machines
   architecture review:
     type: UNKNOWN
@@ -5373,7 +5373,7 @@ machines:
 maintenanceConfigurations:
   path: Microsoft.DBforMySQL/maintenanceConfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/maintenanceConfigurations
   architecture review:
     type: UNKNOWN
@@ -5390,7 +5390,7 @@ maintenanceConfigurations:
 managedClusters:
   path: Microsoft.DBforMySQL/managedClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/managedClusters
   architecture review:
     type: UNKNOWN
@@ -5407,7 +5407,7 @@ managedClusters:
 managedInstances:
   path: Microsoft.DBforMySQL/managedInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/managedInstances
   architecture review:
     type: UNKNOWN
@@ -5424,7 +5424,7 @@ managedInstances:
 managementGroups:
   path: Microsoft.DBforMySQL/managementGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/managementGroups
   architecture review:
     type: UNKNOWN
@@ -5441,7 +5441,7 @@ managementGroups:
 managementassociations:
   path: Microsoft.DBforMySQL/managementassociations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/managementassociations
   architecture review:
     type: UNKNOWN
@@ -5458,7 +5458,7 @@ managementassociations:
 managementconfigurations:
   path: Microsoft.DBforMySQL/managementconfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/managementconfigurations
   architecture review:
     type: UNKNOWN
@@ -5475,7 +5475,7 @@ managementconfigurations:
 managers:
   path: Microsoft.DBforMySQL/managers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/managers
   architecture review:
     type: UNKNOWN
@@ -5492,7 +5492,7 @@ managers:
 mapApis:
   path: Microsoft.DBforMySQL/mapApis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/mapApis
   architecture review:
     type: UNKNOWN
@@ -5509,7 +5509,7 @@ mapApis:
 marketplaceRegistrationDefinitions:
   path: Microsoft.DBforMySQL/marketplaceRegistrationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/marketplaceRegistrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -5526,7 +5526,7 @@ marketplaceRegistrationDefinitions:
 mediaservices:
   path: Microsoft.DBforMySQL/mediaservices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/mediaservices
   architecture review:
     type: UNKNOWN
@@ -5543,7 +5543,7 @@ mediaservices:
 metadata:
   path: Microsoft.DBforMySQL/metadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/metadata
   architecture review:
     type: UNKNOWN
@@ -5560,7 +5560,7 @@ metadata:
 metricDefinitions:
   path: Microsoft.DBforMySQL/metricDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/metricDefinitions
   architecture review:
     type: UNKNOWN
@@ -5577,7 +5577,7 @@ metricDefinitions:
 metricNamespaces:
   path: Microsoft.DBforMySQL/metricNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/metricNamespaces
   architecture review:
     type: UNKNOWN
@@ -5594,7 +5594,7 @@ metricNamespaces:
 metricalerts:
   path: Microsoft.DBforMySQL/metricalerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/metricalerts
   architecture review:
     type: UNKNOWN
@@ -5611,7 +5611,7 @@ metricalerts:
 metricbaselines:
   path: Microsoft.DBforMySQL/metricbaselines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/metricbaselines
   architecture review:
     type: UNKNOWN
@@ -5628,7 +5628,7 @@ metricbaselines:
 metricbatch:
   path: Microsoft.DBforMySQL/metricbatch
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/metricbatch
   architecture review:
     type: UNKNOWN
@@ -5645,7 +5645,7 @@ metricbatch:
 metrics:
   path: Microsoft.DBforMySQL/metrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/metrics
   architecture review:
     type: UNKNOWN
@@ -5662,7 +5662,7 @@ metrics:
 migrateToNewPricingModel:
   path: Microsoft.DBforMySQL/migrateToNewPricingModel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/migrateToNewPricingModel
   architecture review:
     type: UNKNOWN
@@ -5679,7 +5679,7 @@ migrateToNewPricingModel:
 migratealertrules:
   path: Microsoft.DBforMySQL/migratealertrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/migratealertrules
   architecture review:
     type: UNKNOWN
@@ -5696,7 +5696,7 @@ migratealertrules:
 migrateprojects:
   path: Microsoft.DBforMySQL/migrateprojects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/migrateprojects
   architecture review:
     type: UNKNOWN
@@ -5713,7 +5713,7 @@ migrateprojects:
 monitorInstances:
   path: Microsoft.DBforMySQL/monitorInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/monitorInstances
   architecture review:
     type: UNKNOWN
@@ -5730,7 +5730,7 @@ monitorInstances:
 monitorInstancesSummary:
   path: Microsoft.DBforMySQL/monitorInstancesSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/monitorInstancesSummary
   architecture review:
     type: UNKNOWN
@@ -5747,7 +5747,7 @@ monitorInstancesSummary:
 monitors:
   path: Microsoft.DBforMySQL/monitors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/monitors
   architecture review:
     type: UNKNOWN
@@ -5764,7 +5764,7 @@ monitors:
 moveSubscriptionResources:
   path: Microsoft.DBforMySQL/moveSubscriptionResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/moveSubscriptionResources
   architecture review:
     type: UNKNOWN
@@ -5781,7 +5781,7 @@ moveSubscriptionResources:
 myWorkbooks:
   path: Microsoft.DBforMySQL/myWorkbooks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/myWorkbooks
   architecture review:
     type: UNKNOWN
@@ -5798,7 +5798,7 @@ myWorkbooks:
 namespaces:
   path: Microsoft.DBforMySQL/namespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/namespaces
   architecture review:
     type: UNKNOWN
@@ -5815,7 +5815,7 @@ namespaces:
 natGateways:
   path: Microsoft.DBforMySQL/natGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/natGateways
   architecture review:
     type: UNKNOWN
@@ -5832,7 +5832,7 @@ natGateways:
 networkExperimentProfiles:
   path: Microsoft.DBforMySQL/networkExperimentProfiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/networkExperimentProfiles
   architecture review:
     type: UNKNOWN
@@ -5849,7 +5849,7 @@ networkExperimentProfiles:
 networkIntentPolicies:
   path: Microsoft.DBforMySQL/networkIntentPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/networkIntentPolicies
   architecture review:
     type: UNKNOWN
@@ -5866,7 +5866,7 @@ networkIntentPolicies:
 networkInterfaces:
   path: Microsoft.DBforMySQL/networkInterfaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/networkInterfaces
   architecture review:
     type: UNKNOWN
@@ -5883,7 +5883,7 @@ networkInterfaces:
 networkProfiles:
   path: Microsoft.DBforMySQL/networkProfiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/networkProfiles
   architecture review:
     type: UNKNOWN
@@ -5900,7 +5900,7 @@ networkProfiles:
 networkSecurityGroups:
   path: Microsoft.DBforMySQL/networkSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/networkSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -5917,7 +5917,7 @@ networkSecurityGroups:
 networkWatchers:
   path: Microsoft.DBforMySQL/networkWatchers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/networkWatchers
   architecture review:
     type: UNKNOWN
@@ -5934,7 +5934,7 @@ networkWatchers:
 networks:
   path: Microsoft.DBforMySQL/networks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/networks
   architecture review:
     type: UNKNOWN
@@ -5951,7 +5951,7 @@ networks:
 notificationSettings:
   path: Microsoft.DBforMySQL/notificationSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/notificationSettings
   architecture review:
     type: UNKNOWN
@@ -5968,7 +5968,7 @@ notificationSettings:
 notifications:
   path: Microsoft.DBforMySQL/notifications
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/notifications
   architecture review:
     type: UNKNOWN
@@ -5985,7 +5985,7 @@ notifications:
 notifyResourceJobs:
   path: Microsoft.DBforMySQL/notifyResourceJobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/notifyResourceJobs
   architecture review:
     type: UNKNOWN
@@ -6002,7 +6002,7 @@ notifyResourceJobs:
 offerTypes:
   path: Microsoft.DBforMySQL/offerTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/offerTypes
   architecture review:
     type: UNKNOWN
@@ -6019,7 +6019,7 @@ offerTypes:
 offers:
   path: Microsoft.DBforMySQL/offers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/offers
   architecture review:
     type: UNKNOWN
@@ -6036,7 +6036,7 @@ offers:
 offertypes:
   path: Microsoft.DBforMySQL/offertypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/offertypes
   architecture review:
     type: UNKNOWN
@@ -6053,7 +6053,7 @@ offertypes:
 officeConsents:
   path: Microsoft.DBforMySQL/officeConsents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/officeConsents
   architecture review:
     type: UNKNOWN
@@ -6070,7 +6070,7 @@ officeConsents:
 openShiftManagedClusters:
   path: Microsoft.DBforMySQL/openShiftManagedClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/openShiftManagedClusters
   architecture review:
     type: UNKNOWN
@@ -6087,7 +6087,7 @@ openShiftManagedClusters:
 operatingSystemFamilies:
   path: Microsoft.DBforMySQL/operatingSystemFamilies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/operatingSystemFamilies
   architecture review:
     type: UNKNOWN
@@ -6104,7 +6104,7 @@ operatingSystemFamilies:
 operatingSystems:
   path: Microsoft.DBforMySQL/operatingSystems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/operatingSystems
   architecture review:
     type: UNKNOWN
@@ -6121,7 +6121,7 @@ operatingSystems:
 operationResults:
   path: Microsoft.DBforMySQL/operationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/operationResults
   architecture review:
     type: UNKNOWN
@@ -6138,7 +6138,7 @@ operationResults:
 operationStatus:
   path: Microsoft.DBforMySQL/operationStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/operationStatus
   architecture review:
     type: UNKNOWN
@@ -6155,7 +6155,7 @@ operationStatus:
 operationStatuses:
   path: Microsoft.DBforMySQL/operationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/operationStatuses
   architecture review:
     type: UNKNOWN
@@ -6172,7 +6172,7 @@ operationStatuses:
 operationresults:
   path: Microsoft.DBforMySQL/operationresults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/operationresults
   architecture review:
     type: UNKNOWN
@@ -6189,7 +6189,7 @@ operationresults:
 operations:
   path: Microsoft.DBforMySQL/operations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/operations
   architecture review:
     type: UNKNOWN
@@ -6206,7 +6206,7 @@ operations:
 operationsStatus:
   path: Microsoft.DBforMySQL/operationsStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/operationsStatus
   architecture review:
     type: UNKNOWN
@@ -6223,7 +6223,7 @@ operationsStatus:
 operationsstatus:
   path: Microsoft.DBforMySQL/operationsstatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/operationsstatus
   architecture review:
     type: UNKNOWN
@@ -6240,7 +6240,7 @@ operationsstatus:
 osImages:
   path: Microsoft.DBforMySQL/osImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/osImages
   architecture review:
     type: UNKNOWN
@@ -6257,7 +6257,7 @@ osImages:
 osNamespaces:
   path: Microsoft.DBforMySQL/osNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/osNamespaces
   architecture review:
     type: UNKNOWN
@@ -6274,7 +6274,7 @@ osNamespaces:
 osPlatformImages:
   path: Microsoft.DBforMySQL/osPlatformImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/osPlatformImages
   architecture review:
     type: UNKNOWN
@@ -6291,7 +6291,7 @@ osPlatformImages:
 p2sVpnGateways:
   path: Microsoft.DBforMySQL/p2sVpnGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/p2sVpnGateways
   architecture review:
     type: UNKNOWN
@@ -6308,7 +6308,7 @@ p2sVpnGateways:
 partnerNamespaces:
   path: Microsoft.DBforMySQL/partnerNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/partnerNamespaces
   architecture review:
     type: UNKNOWN
@@ -6325,7 +6325,7 @@ partnerNamespaces:
 partnerTopics:
   path: Microsoft.DBforMySQL/partnerTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/partnerTopics
   architecture review:
     type: UNKNOWN
@@ -6342,7 +6342,7 @@ partnerTopics:
 peerAsns:
   path: Microsoft.DBforMySQL/peerAsns
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/peerAsns
   architecture review:
     type: UNKNOWN
@@ -6359,7 +6359,7 @@ peerAsns:
 peeringLocations:
   path: Microsoft.DBforMySQL/peeringLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/peeringLocations
   architecture review:
     type: UNKNOWN
@@ -6376,7 +6376,7 @@ peeringLocations:
 peeringServiceCountries:
   path: Microsoft.DBforMySQL/peeringServiceCountries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/peeringServiceCountries
   architecture review:
     type: UNKNOWN
@@ -6393,7 +6393,7 @@ peeringServiceCountries:
 peeringServiceLocations:
   path: Microsoft.DBforMySQL/peeringServiceLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/peeringServiceLocations
   architecture review:
     type: UNKNOWN
@@ -6410,7 +6410,7 @@ peeringServiceLocations:
 peeringServiceProviders:
   path: Microsoft.DBforMySQL/peeringServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/peeringServiceProviders
   architecture review:
     type: UNKNOWN
@@ -6427,7 +6427,7 @@ peeringServiceProviders:
 peerings:
   path: Microsoft.DBforMySQL/peerings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/peerings
   architecture review:
     type: UNKNOWN
@@ -6444,7 +6444,7 @@ peerings:
 permissions:
   path: Microsoft.DBforMySQL/permissions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/permissions
   architecture review:
     type: UNKNOWN
@@ -6461,7 +6461,7 @@ permissions:
 pipelines:
   path: Microsoft.DBforMySQL/pipelines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/pipelines
   architecture review:
     type: UNKNOWN
@@ -6478,7 +6478,7 @@ pipelines:
 placePurchaseOrder:
   path: Microsoft.DBforMySQL/placePurchaseOrder
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/placePurchaseOrder
   architecture review:
     type: UNKNOWN
@@ -6495,7 +6495,7 @@ placePurchaseOrder:
 plans:
   path: Microsoft.DBforMySQL/plans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/plans
   architecture review:
     type: UNKNOWN
@@ -6512,7 +6512,7 @@ plans:
 policies:
   path: Microsoft.DBforMySQL/policies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/policies
   architecture review:
     type: UNKNOWN
@@ -6529,7 +6529,7 @@ policies:
 policyAssignments:
   path: Microsoft.DBforMySQL/policyAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/policyAssignments
   architecture review:
     type: UNKNOWN
@@ -6546,7 +6546,7 @@ policyAssignments:
 policyDefinitions:
   path: Microsoft.DBforMySQL/policyDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/policyDefinitions
   architecture review:
     type: UNKNOWN
@@ -6563,7 +6563,7 @@ policyDefinitions:
 policyEvents:
   path: Microsoft.DBforMySQL/policyEvents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/policyEvents
   architecture review:
     type: UNKNOWN
@@ -6580,7 +6580,7 @@ policyEvents:
 policyMetadata:
   path: Microsoft.DBforMySQL/policyMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/policyMetadata
   architecture review:
     type: UNKNOWN
@@ -6597,7 +6597,7 @@ policyMetadata:
 policySetDefinitions:
   path: Microsoft.DBforMySQL/policySetDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/policySetDefinitions
   architecture review:
     type: UNKNOWN
@@ -6614,7 +6614,7 @@ policySetDefinitions:
 policyStates:
   path: Microsoft.DBforMySQL/policyStates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/policyStates
   architecture review:
     type: UNKNOWN
@@ -6631,7 +6631,7 @@ policyStates:
 policyTrackedResources:
   path: Microsoft.DBforMySQL/policyTrackedResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/policyTrackedResources
   architecture review:
     type: UNKNOWN
@@ -6648,7 +6648,7 @@ policyTrackedResources:
 premiumMessagingRegions:
   path: Microsoft.DBforMySQL/premiumMessagingRegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/premiumMessagingRegions
   architecture review:
     type: UNKNOWN
@@ -6665,7 +6665,7 @@ premiumMessagingRegions:
 pricings:
   path: Microsoft.DBforMySQL/pricings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/pricings
   architecture review:
     type: UNKNOWN
@@ -6682,7 +6682,7 @@ pricings:
 privateDnsOperationResults:
   path: Microsoft.DBforMySQL/privateDnsOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/privateDnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -6699,7 +6699,7 @@ privateDnsOperationResults:
 privateDnsOperationStatuses:
   path: Microsoft.DBforMySQL/privateDnsOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/privateDnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6716,7 +6716,7 @@ privateDnsOperationStatuses:
 privateDnsZones:
   path: Microsoft.DBforMySQL/privateDnsZones
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/privateDnsZones
   architecture review:
     type: UNKNOWN
@@ -6733,7 +6733,7 @@ privateDnsZones:
 privateDnsZonesInternal:
   path: Microsoft.DBforMySQL/privateDnsZonesInternal
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/privateDnsZonesInternal
   architecture review:
     type: UNKNOWN
@@ -6750,7 +6750,7 @@ privateDnsZonesInternal:
 privateEndpointRedirectMaps:
   path: Microsoft.DBforMySQL/privateEndpointRedirectMaps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/privateEndpointRedirectMaps
   architecture review:
     type: UNKNOWN
@@ -6767,7 +6767,7 @@ privateEndpointRedirectMaps:
 privateEndpoints:
   path: Microsoft.DBforMySQL/privateEndpoints
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/privateEndpoints
   architecture review:
     type: UNKNOWN
@@ -6784,7 +6784,7 @@ privateEndpoints:
 privateLinkScopeOperationStatuses:
   path: Microsoft.DBforMySQL/privateLinkScopeOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/privateLinkScopeOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6801,7 +6801,7 @@ privateLinkScopeOperationStatuses:
 privateLinkScopes:
   path: Microsoft.DBforMySQL/privateLinkScopes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/privateLinkScopes
   architecture review:
     type: UNKNOWN
@@ -6818,7 +6818,7 @@ privateLinkScopes:
 privateLinkServices:
   path: Microsoft.DBforMySQL/privateLinkServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/privateLinkServices
   architecture review:
     type: UNKNOWN
@@ -6835,7 +6835,7 @@ privateLinkServices:
 privateStoreClient:
   path: Microsoft.DBforMySQL/privateStoreClient
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/privateStoreClient
   architecture review:
     type: UNKNOWN
@@ -6852,7 +6852,7 @@ privateStoreClient:
 privateStores:
   path: Microsoft.DBforMySQL/privateStores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/privateStores
   architecture review:
     type: UNKNOWN
@@ -6869,7 +6869,7 @@ privateStores:
 privategalleryitems:
   path: Microsoft.DBforMySQL/privategalleryitems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/privategalleryitems
   architecture review:
     type: UNKNOWN
@@ -6886,7 +6886,7 @@ privategalleryitems:
 products:
   path: Microsoft.DBforMySQL/products
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/products
   architecture review:
     type: UNKNOWN
@@ -6903,7 +6903,7 @@ products:
 profiles:
   path: Microsoft.DBforMySQL/profiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/profiles
   architecture review:
     type: UNKNOWN
@@ -6920,7 +6920,7 @@ profiles:
 projects:
   path: Microsoft.DBforMySQL/projects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/projects
   architecture review:
     type: UNKNOWN
@@ -6937,7 +6937,7 @@ projects:
 providerOperations:
   path: Microsoft.DBforMySQL/providerOperations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/providerOperations
   architecture review:
     type: UNKNOWN
@@ -6954,7 +6954,7 @@ providerOperations:
 providerRegistrations:
   path: Microsoft.DBforMySQL/providerRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/providerRegistrations
   architecture review:
     type: UNKNOWN
@@ -6971,7 +6971,7 @@ providerRegistrations:
 providers:
   path: Microsoft.DBforMySQL/providers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/providers
   architecture review:
     type: UNKNOWN
@@ -6988,7 +6988,7 @@ providers:
 proximityPlacementGroups:
   path: Microsoft.DBforMySQL/proximityPlacementGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/proximityPlacementGroups
   architecture review:
     type: UNKNOWN
@@ -7005,7 +7005,7 @@ proximityPlacementGroups:
 publicIPAddresses:
   path: Microsoft.DBforMySQL/publicIPAddresses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/publicIPAddresses
   architecture review:
     type: UNKNOWN
@@ -7022,7 +7022,7 @@ publicIPAddresses:
 publicIPPrefixes:
   path: Microsoft.DBforMySQL/publicIPPrefixes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/publicIPPrefixes
   architecture review:
     type: UNKNOWN
@@ -7039,7 +7039,7 @@ publicIPPrefixes:
 publicImages:
   path: Microsoft.DBforMySQL/publicImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/publicImages
   architecture review:
     type: UNKNOWN
@@ -7056,7 +7056,7 @@ publicImages:
 publishers:
   path: Microsoft.DBforMySQL/publishers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/publishers
   architecture review:
     type: UNKNOWN
@@ -7073,7 +7073,7 @@ publishers:
 publishingUsers:
   path: Microsoft.DBforMySQL/publishingUsers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/publishingUsers
   architecture review:
     type: UNKNOWN
@@ -7090,7 +7090,7 @@ publishingUsers:
 queries:
   path: Microsoft.DBforMySQL/queries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/queries
   architecture review:
     type: UNKNOWN
@@ -7107,7 +7107,7 @@ queries:
 quotas:
   path: Microsoft.DBforMySQL/quotas
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/quotas
   architecture review:
     type: UNKNOWN
@@ -7124,7 +7124,7 @@ quotas:
 recommendations:
   path: Microsoft.DBforMySQL/recommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/recommendations
   architecture review:
     type: UNKNOWN
@@ -7141,7 +7141,7 @@ recommendations:
 redis:
   path: Microsoft.DBforMySQL/redis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/redis
   architecture review:
     type: UNKNOWN
@@ -7158,7 +7158,7 @@ redis:
 register:
   path: Microsoft.DBforMySQL/register
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/register
   architecture review:
     type: UNKNOWN
@@ -7175,7 +7175,7 @@ register:
 registrationAssignments:
   path: Microsoft.DBforMySQL/registrationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/registrationAssignments
   architecture review:
     type: UNKNOWN
@@ -7192,7 +7192,7 @@ registrationAssignments:
 registrationDefinitions:
   path: Microsoft.DBforMySQL/registrationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/registrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -7209,7 +7209,7 @@ registrationDefinitions:
 registrations:
   path: Microsoft.DBforMySQL/registrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/registrations
   architecture review:
     type: UNKNOWN
@@ -7226,7 +7226,7 @@ registrations:
 registries:
   path: Microsoft.DBforMySQL/registries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/registries
   architecture review:
     type: UNKNOWN
@@ -7243,7 +7243,7 @@ registries:
 regulatoryComplianceStandards:
   path: Microsoft.DBforMySQL/regulatoryComplianceStandards
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/regulatoryComplianceStandards
   architecture review:
     type: UNKNOWN
@@ -7260,7 +7260,7 @@ regulatoryComplianceStandards:
 remediations:
   path: Microsoft.DBforMySQL/remediations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/remediations
   architecture review:
     type: UNKNOWN
@@ -7277,7 +7277,7 @@ remediations:
 rename:
   path: Microsoft.DBforMySQL/rename
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/rename
   architecture review:
     type: UNKNOWN
@@ -7294,7 +7294,7 @@ rename:
 replicationEligibilityResults:
   path: Microsoft.DBforMySQL/replicationEligibilityResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/replicationEligibilityResults
   architecture review:
     type: UNKNOWN
@@ -7311,7 +7311,7 @@ replicationEligibilityResults:
 reportFeedback:
   path: Microsoft.DBforMySQL/reportFeedback
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/reportFeedback
   architecture review:
     type: UNKNOWN
@@ -7328,7 +7328,7 @@ reportFeedback:
 reports:
   path: Microsoft.DBforMySQL/reports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/reports
   architecture review:
     type: UNKNOWN
@@ -7345,7 +7345,7 @@ reports:
 requests:
   path: Microsoft.DBforMySQL/requests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/requests
   architecture review:
     type: UNKNOWN
@@ -7362,7 +7362,7 @@ requests:
 reservationOrders:
   path: Microsoft.DBforMySQL/reservationOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/reservationOrders
   architecture review:
     type: UNKNOWN
@@ -7379,7 +7379,7 @@ reservationOrders:
 reservations:
   path: Microsoft.DBforMySQL/reservations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/reservations
   architecture review:
     type: UNKNOWN
@@ -7396,7 +7396,7 @@ reservations:
 reservedIps:
   path: Microsoft.DBforMySQL/reservedIps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/reservedIps
   architecture review:
     type: UNKNOWN
@@ -7413,7 +7413,7 @@ reservedIps:
 resourceChangeDetails:
   path: Microsoft.DBforMySQL/resourceChangeDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/resourceChangeDetails
   architecture review:
     type: UNKNOWN
@@ -7430,7 +7430,7 @@ resourceChangeDetails:
 resourceChanges:
   path: Microsoft.DBforMySQL/resourceChanges
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/resourceChanges
   architecture review:
     type: UNKNOWN
@@ -7447,7 +7447,7 @@ resourceChanges:
 resourceGroups:
   path: Microsoft.DBforMySQL/resourceGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/resourceGroups
   architecture review:
     type: UNKNOWN
@@ -7464,7 +7464,7 @@ resourceGroups:
 resourceHealthMetadata:
   path: Microsoft.DBforMySQL/resourceHealthMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/resourceHealthMetadata
   architecture review:
     type: UNKNOWN
@@ -7481,7 +7481,7 @@ resourceHealthMetadata:
 resourceProviders:
   path: Microsoft.DBforMySQL/resourceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/resourceProviders
   architecture review:
     type: UNKNOWN
@@ -7498,7 +7498,7 @@ resourceProviders:
 resourceTypes:
   path: Microsoft.DBforMySQL/resourceTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/resourceTypes
   architecture review:
     type: UNKNOWN
@@ -7515,7 +7515,7 @@ resourceTypes:
 resources:
   path: Microsoft.DBforMySQL/resources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/resources
   architecture review:
     type: UNKNOWN
@@ -7532,7 +7532,7 @@ resources:
 resourcesHistory:
   path: Microsoft.DBforMySQL/resourcesHistory
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/resourcesHistory
   architecture review:
     type: UNKNOWN
@@ -7549,7 +7549,7 @@ resourcesHistory:
 restorePointCollections:
   path: Microsoft.DBforMySQL/restorePointCollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/restorePointCollections
   architecture review:
     type: UNKNOWN
@@ -7566,7 +7566,7 @@ restorePointCollections:
 roleAssignments:
   path: Microsoft.DBforMySQL/roleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/roleAssignments
   architecture review:
     type: UNKNOWN
@@ -7583,7 +7583,7 @@ roleAssignments:
 roleAssignmentsUsageMetrics:
   path: Microsoft.DBforMySQL/roleAssignmentsUsageMetrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/roleAssignmentsUsageMetrics
   architecture review:
     type: UNKNOWN
@@ -7600,7 +7600,7 @@ roleAssignmentsUsageMetrics:
 roleDefinitions:
   path: Microsoft.DBforMySQL/roleDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/roleDefinitions
   architecture review:
     type: UNKNOWN
@@ -7617,7 +7617,7 @@ roleDefinitions:
 rollbackToLegacyPricingModel:
   path: Microsoft.DBforMySQL/rollbackToLegacyPricingModel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/rollbackToLegacyPricingModel
   architecture review:
     type: UNKNOWN
@@ -7634,7 +7634,7 @@ rollbackToLegacyPricingModel:
 rollouts:
   path: Microsoft.DBforMySQL/rollouts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/rollouts
   architecture review:
     type: UNKNOWN
@@ -7651,7 +7651,7 @@ rollouts:
 routeFilters:
   path: Microsoft.DBforMySQL/routeFilters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/routeFilters
   architecture review:
     type: UNKNOWN
@@ -7668,7 +7668,7 @@ routeFilters:
 routeTables:
   path: Microsoft.DBforMySQL/routeTables
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/routeTables
   architecture review:
     type: UNKNOWN
@@ -7685,7 +7685,7 @@ routeTables:
 runtimes:
   path: Microsoft.DBforMySQL/runtimes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/runtimes
   architecture review:
     type: UNKNOWN
@@ -7702,7 +7702,7 @@ runtimes:
 saasresources:
   path: Microsoft.DBforMySQL/saasresources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/saasresources
   architecture review:
     type: UNKNOWN
@@ -7719,7 +7719,7 @@ saasresources:
 sapMonitors:
   path: Microsoft.DBforMySQL/sapMonitors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/sapMonitors
   architecture review:
     type: UNKNOWN
@@ -7736,7 +7736,7 @@ sapMonitors:
 scheduledqueryrules:
   path: Microsoft.DBforMySQL/scheduledqueryrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/scheduledqueryrules
   architecture review:
     type: UNKNOWN
@@ -7753,7 +7753,7 @@ scheduledqueryrules:
 schedules:
   path: Microsoft.DBforMySQL/schedules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/schedules
   architecture review:
     type: UNKNOWN
@@ -7770,7 +7770,7 @@ schedules:
 searchServices:
   path: Microsoft.DBforMySQL/searchServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/searchServices
   architecture review:
     type: UNKNOWN
@@ -7787,7 +7787,7 @@ searchServices:
 secrets:
   path: Microsoft.DBforMySQL/secrets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/secrets
   architecture review:
     type: UNKNOWN
@@ -7804,7 +7804,7 @@ secrets:
 securityContacts:
   path: Microsoft.DBforMySQL/securityContacts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/securityContacts
   architecture review:
     type: UNKNOWN
@@ -7821,7 +7821,7 @@ securityContacts:
 securitySolutions:
   path: Microsoft.DBforMySQL/securitySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/securitySolutions
   architecture review:
     type: UNKNOWN
@@ -7838,7 +7838,7 @@ securitySolutions:
 securitySolutionsReferenceData:
   path: Microsoft.DBforMySQL/securitySolutionsReferenceData
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/securitySolutionsReferenceData
   architecture review:
     type: UNKNOWN
@@ -7855,7 +7855,7 @@ securitySolutionsReferenceData:
 securityStatuses:
   path: Microsoft.DBforMySQL/securityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/securityStatuses
   architecture review:
     type: UNKNOWN
@@ -7872,7 +7872,7 @@ securityStatuses:
 securityStatusesSummaries:
   path: Microsoft.DBforMySQL/securityStatusesSummaries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/securityStatusesSummaries
   architecture review:
     type: UNKNOWN
@@ -7889,7 +7889,7 @@ securityStatusesSummaries:
 serverFarms:
   path: Microsoft.DBforMySQL/serverFarms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/serverFarms
   architecture review:
     type: UNKNOWN
@@ -7906,7 +7906,7 @@ serverFarms:
 serverGroups:
   path: Microsoft.DBforMySQL/serverGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/serverGroups
   architecture review:
     type: UNKNOWN
@@ -7923,7 +7923,7 @@ serverGroups:
 serverVulnerabilityAssessments:
   path: Microsoft.DBforMySQL/serverVulnerabilityAssessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/serverVulnerabilityAssessments
   architecture review:
     type: UNKNOWN
@@ -7940,7 +7940,7 @@ serverVulnerabilityAssessments:
 serverfarms:
   path: Microsoft.DBforMySQL/serverfarms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/serverfarms
   architecture review:
     type: UNKNOWN
@@ -7957,7 +7957,7 @@ serverfarms:
 servers:
   path: Microsoft.DBforMySQL/servers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/servers
   architecture review:
     type: UNKNOWN
@@ -7974,7 +7974,7 @@ servers:
 serversv2:
   path: Microsoft.DBforMySQL/serversv2
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/serversv2
   architecture review:
     type: UNKNOWN
@@ -7991,7 +7991,7 @@ serversv2:
 service:
   path: Microsoft.DBforMySQL/service
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/service
   architecture review:
     type: UNKNOWN
@@ -8008,7 +8008,7 @@ service:
 serviceAssociationLinks:
   path: Microsoft.DBforMySQL/serviceAssociationLinks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/serviceAssociationLinks
   architecture review:
     type: UNKNOWN
@@ -8025,7 +8025,7 @@ serviceAssociationLinks:
 serviceEndpointPolicies:
   path: Microsoft.DBforMySQL/serviceEndpointPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/serviceEndpointPolicies
   architecture review:
     type: UNKNOWN
@@ -8042,7 +8042,7 @@ serviceEndpointPolicies:
 serviceTopologies:
   path: Microsoft.DBforMySQL/serviceTopologies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/serviceTopologies
   architecture review:
     type: UNKNOWN
@@ -8059,7 +8059,7 @@ serviceTopologies:
 servicehealthmetrics:
   path: Microsoft.DBforMySQL/servicehealthmetrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/servicehealthmetrics
   architecture review:
     type: UNKNOWN
@@ -8076,7 +8076,7 @@ servicehealthmetrics:
 services:
   path: Microsoft.DBforMySQL/services
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/services
   architecture review:
     type: UNKNOWN
@@ -8093,7 +8093,7 @@ services:
 settings:
   path: Microsoft.DBforMySQL/settings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/settings
   architecture review:
     type: UNKNOWN
@@ -8110,7 +8110,7 @@ settings:
 sharedVMImages:
   path: Microsoft.DBforMySQL/sharedVMImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/sharedVMImages
   architecture review:
     type: UNKNOWN
@@ -8127,7 +8127,7 @@ sharedVMImages:
 showbackRules:
   path: Microsoft.DBforMySQL/showbackRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/showbackRules
   architecture review:
     type: UNKNOWN
@@ -8144,7 +8144,7 @@ showbackRules:
 singleServers:
   path: Microsoft.DBforMySQL/singleServers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/singleServers
   architecture review:
     type: UNKNOWN
@@ -8161,7 +8161,7 @@ singleServers:
 sites:
   path: Microsoft.DBforMySQL/sites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/sites
   architecture review:
     type: UNKNOWN
@@ -8178,7 +8178,7 @@ sites:
 sku:
   path: Microsoft.DBforMySQL/sku
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/sku
   architecture review:
     type: UNKNOWN
@@ -8195,7 +8195,7 @@ sku:
 smartDetectorAlertRules:
   path: Microsoft.DBforMySQL/smartDetectorAlertRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/smartDetectorAlertRules
   architecture review:
     type: UNKNOWN
@@ -8212,7 +8212,7 @@ smartDetectorAlertRules:
 smartGroups:
   path: Microsoft.DBforMySQL/smartGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/smartGroups
   architecture review:
     type: UNKNOWN
@@ -8229,7 +8229,7 @@ smartGroups:
 snapshots:
   path: Microsoft.DBforMySQL/snapshots
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/snapshots
   architecture review:
     type: UNKNOWN
@@ -8246,7 +8246,7 @@ snapshots:
 software:
   path: Microsoft.DBforMySQL/software
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/software
   architecture review:
     type: UNKNOWN
@@ -8263,7 +8263,7 @@ software:
 softwareUpdateProfile:
   path: Microsoft.DBforMySQL/softwareUpdateProfile
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/softwareUpdateProfile
   architecture review:
     type: UNKNOWN
@@ -8280,7 +8280,7 @@ softwareUpdateProfile:
 softwareUpdates:
   path: Microsoft.DBforMySQL/softwareUpdates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/softwareUpdates
   architecture review:
     type: UNKNOWN
@@ -8297,7 +8297,7 @@ softwareUpdates:
 solutions:
   path: Microsoft.DBforMySQL/solutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/solutions
   architecture review:
     type: UNKNOWN
@@ -8314,7 +8314,7 @@ solutions:
 sourceControls:
   path: Microsoft.DBforMySQL/sourceControls
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/sourceControls
   architecture review:
     type: UNKNOWN
@@ -8331,7 +8331,7 @@ sourceControls:
 spatialAnchorsAccounts:
   path: Microsoft.DBforMySQL/spatialAnchorsAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/spatialAnchorsAccounts
   architecture review:
     type: UNKNOWN
@@ -8348,7 +8348,7 @@ spatialAnchorsAccounts:
 sqlServerRegistrations:
   path: Microsoft.DBforMySQL/sqlServerRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/sqlServerRegistrations
   architecture review:
     type: UNKNOWN
@@ -8365,7 +8365,7 @@ sqlServerRegistrations:
 sshPublicKeys:
   path: Microsoft.DBforMySQL/sshPublicKeys
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/sshPublicKeys
   architecture review:
     type: UNKNOWN
@@ -8382,7 +8382,7 @@ sshPublicKeys:
 startTenantBackfill:
   path: Microsoft.DBforMySQL/startTenantBackfill
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/startTenantBackfill
   architecture review:
     type: UNKNOWN
@@ -8399,7 +8399,7 @@ startTenantBackfill:
 steps:
   path: Microsoft.DBforMySQL/steps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/steps
   architecture review:
     type: UNKNOWN
@@ -8416,7 +8416,7 @@ steps:
 storageAccounts:
   path: Microsoft.DBforMySQL/storageAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/storageAccounts
   architecture review:
     type: UNKNOWN
@@ -8433,7 +8433,7 @@ storageAccounts:
 storageInsightConfigs:
   path: Microsoft.DBforMySQL/storageInsightConfigs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/storageInsightConfigs
   architecture review:
     type: UNKNOWN
@@ -8450,7 +8450,7 @@ storageInsightConfigs:
 storageSyncServices:
   path: Microsoft.DBforMySQL/storageSyncServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/storageSyncServices
   architecture review:
     type: UNKNOWN
@@ -8467,7 +8467,7 @@ storageSyncServices:
 stores:
   path: Microsoft.DBforMySQL/stores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/stores
   architecture review:
     type: UNKNOWN
@@ -8484,7 +8484,7 @@ stores:
 streamingjobs:
   path: Microsoft.DBforMySQL/streamingjobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/streamingjobs
   architecture review:
     type: UNKNOWN
@@ -8501,7 +8501,7 @@ streamingjobs:
 subAssessments:
   path: Microsoft.DBforMySQL/subAssessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/subAssessments
   architecture review:
     type: UNKNOWN
@@ -8518,7 +8518,7 @@ subAssessments:
 subscriptionFeatureRegistrations:
   path: Microsoft.DBforMySQL/subscriptionFeatureRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/subscriptionFeatureRegistrations
   architecture review:
     type: UNKNOWN
@@ -8535,7 +8535,7 @@ subscriptionFeatureRegistrations:
 subscriptions:
   path: Microsoft.DBforMySQL/subscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/subscriptions
   architecture review:
     type: UNKNOWN
@@ -8552,7 +8552,7 @@ subscriptions:
 subscriptionsStatus:
   path: Microsoft.DBforMySQL/subscriptionsStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/subscriptionsStatus
   architecture review:
     type: UNKNOWN
@@ -8569,7 +8569,7 @@ subscriptionsStatus:
 supportProviders:
   path: Microsoft.DBforMySQL/supportProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/supportProviders
   architecture review:
     type: UNKNOWN
@@ -8586,7 +8586,7 @@ supportProviders:
 supporttickets:
   path: Microsoft.DBforMySQL/supporttickets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/supporttickets
   architecture review:
     type: UNKNOWN
@@ -8603,7 +8603,7 @@ supporttickets:
 suppressions:
   path: Microsoft.DBforMySQL/suppressions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/suppressions
   architecture review:
     type: UNKNOWN
@@ -8620,7 +8620,7 @@ suppressions:
 systemTopics:
   path: Microsoft.DBforMySQL/systemTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/systemTopics
   architecture review:
     type: UNKNOWN
@@ -8637,7 +8637,7 @@ systemTopics:
 tags:
   path: Microsoft.DBforMySQL/tags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/tags
   architecture review:
     type: UNKNOWN
@@ -8654,7 +8654,7 @@ tags:
 tasks:
   path: Microsoft.DBforMySQL/tasks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/tasks
   architecture review:
     type: UNKNOWN
@@ -8671,7 +8671,7 @@ tasks:
 tenantBackfillStatus:
   path: Microsoft.DBforMySQL/tenantBackfillStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/tenantBackfillStatus
   architecture review:
     type: UNKNOWN
@@ -8688,7 +8688,7 @@ tenantBackfillStatus:
 tenants:
   path: Microsoft.DBforMySQL/tenants
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/tenants
   architecture review:
     type: UNKNOWN
@@ -8705,7 +8705,7 @@ tenants:
 topLevelDomains:
   path: Microsoft.DBforMySQL/topLevelDomains
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/topLevelDomains
   architecture review:
     type: UNKNOWN
@@ -8722,7 +8722,7 @@ topLevelDomains:
 topicTypes:
   path: Microsoft.DBforMySQL/topicTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/topicTypes
   architecture review:
     type: UNKNOWN
@@ -8739,7 +8739,7 @@ topicTypes:
 topics:
   path: Microsoft.DBforMySQL/topics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/topics
   architecture review:
     type: UNKNOWN
@@ -8756,7 +8756,7 @@ topics:
 topologies:
   path: Microsoft.DBforMySQL/topologies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/topologies
   architecture review:
     type: UNKNOWN
@@ -8773,7 +8773,7 @@ topologies:
 topology:
   path: Microsoft.DBforMySQL/topology
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/topology
   architecture review:
     type: UNKNOWN
@@ -8790,7 +8790,7 @@ topology:
 trafficManagerGeographicHierarchies:
   path: Microsoft.DBforMySQL/trafficManagerGeographicHierarchies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/trafficManagerGeographicHierarchies
   architecture review:
     type: UNKNOWN
@@ -8807,7 +8807,7 @@ trafficManagerGeographicHierarchies:
 trafficManagerUserMetricsKeys:
   path: Microsoft.DBforMySQL/trafficManagerUserMetricsKeys
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/trafficManagerUserMetricsKeys
   architecture review:
     type: UNKNOWN
@@ -8824,7 +8824,7 @@ trafficManagerUserMetricsKeys:
 trafficmanagerprofiles:
   path: Microsoft.DBforMySQL/trafficmanagerprofiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/trafficmanagerprofiles
   architecture review:
     type: UNKNOWN
@@ -8841,7 +8841,7 @@ trafficmanagerprofiles:
 transactions:
   path: Microsoft.DBforMySQL/transactions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/transactions
   architecture review:
     type: UNKNOWN
@@ -8858,7 +8858,7 @@ transactions:
 transfers:
   path: Microsoft.DBforMySQL/transfers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/transfers
   architecture review:
     type: UNKNOWN
@@ -8875,7 +8875,7 @@ transfers:
 updateCommunicationPreference:
   path: Microsoft.DBforMySQL/updateCommunicationPreference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/updateCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -8892,7 +8892,7 @@ updateCommunicationPreference:
 updates:
   path: Microsoft.DBforMySQL/updates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/updates
   architecture review:
     type: UNKNOWN
@@ -8909,7 +8909,7 @@ updates:
 usages:
   path: Microsoft.DBforMySQL/usages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/usages
   architecture review:
     type: UNKNOWN
@@ -8926,7 +8926,7 @@ usages:
 userAssignedIdentities:
   path: Microsoft.DBforMySQL/userAssignedIdentities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/userAssignedIdentities
   architecture review:
     type: UNKNOWN
@@ -8943,7 +8943,7 @@ userAssignedIdentities:
 userSettings:
   path: Microsoft.DBforMySQL/userSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/userSettings
   architecture review:
     type: UNKNOWN
@@ -8960,7 +8960,7 @@ userSettings:
 users:
   path: Microsoft.DBforMySQL/users
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/users
   architecture review:
     type: UNKNOWN
@@ -8977,7 +8977,7 @@ users:
 validate:
   path: Microsoft.DBforMySQL/validate
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/validate
   architecture review:
     type: UNKNOWN
@@ -8994,7 +8994,7 @@ validate:
 validateAddress:
   path: Microsoft.DBforMySQL/validateAddress
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/validateAddress
   architecture review:
     type: UNKNOWN
@@ -9011,7 +9011,7 @@ validateAddress:
 validateCertificateRegistrationInformation:
   path: Microsoft.DBforMySQL/validateCertificateRegistrationInformation
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/validateCertificateRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9028,7 +9028,7 @@ validateCertificateRegistrationInformation:
 validateDomainRegistrationInformation:
   path: Microsoft.DBforMySQL/validateDomainRegistrationInformation
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/validateDomainRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9045,7 +9045,7 @@ validateDomainRegistrationInformation:
 validateProbe:
   path: Microsoft.DBforMySQL/validateProbe
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/validateProbe
   architecture review:
     type: UNKNOWN
@@ -9062,7 +9062,7 @@ validateProbe:
 validateReservationOrder:
   path: Microsoft.DBforMySQL/validateReservationOrder
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/validateReservationOrder
   architecture review:
     type: UNKNOWN
@@ -9079,7 +9079,7 @@ validateReservationOrder:
 validateServiceName:
   path: Microsoft.DBforMySQL/validateServiceName
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/validateServiceName
   architecture review:
     type: UNKNOWN
@@ -9096,7 +9096,7 @@ validateServiceName:
 validateSubscriptionMoveAvailability:
   path: Microsoft.DBforMySQL/validateSubscriptionMoveAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/validateSubscriptionMoveAvailability
   architecture review:
     type: UNKNOWN
@@ -9113,7 +9113,7 @@ validateSubscriptionMoveAvailability:
 vaults:
   path: Microsoft.DBforMySQL/vaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/vaults
   architecture review:
     type: UNKNOWN
@@ -9130,7 +9130,7 @@ vaults:
 verifyHostingEnvironmentVnet:
   path: Microsoft.DBforMySQL/verifyHostingEnvironmentVnet
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/verifyHostingEnvironmentVnet
   architecture review:
     type: UNKNOWN
@@ -9147,7 +9147,7 @@ verifyHostingEnvironmentVnet:
 views:
   path: Microsoft.DBforMySQL/views
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/views
   architecture review:
     type: UNKNOWN
@@ -9164,7 +9164,7 @@ views:
 virtualClusters:
   path: Microsoft.DBforMySQL/virtualClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/virtualClusters
   architecture review:
     type: UNKNOWN
@@ -9181,7 +9181,7 @@ virtualClusters:
 virtualHubs:
   path: Microsoft.DBforMySQL/virtualHubs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/virtualHubs
   architecture review:
     type: UNKNOWN
@@ -9198,7 +9198,7 @@ virtualHubs:
 virtualMachineScaleSets:
   path: Microsoft.DBforMySQL/virtualMachineScaleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/virtualMachineScaleSets
   architecture review:
     type: UNKNOWN
@@ -9215,7 +9215,7 @@ virtualMachineScaleSets:
 virtualMachines:
   path: Microsoft.DBforMySQL/virtualMachines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/virtualMachines
   architecture review:
     type: UNKNOWN
@@ -9232,7 +9232,7 @@ virtualMachines:
 virtualNetworkGateways:
   path: Microsoft.DBforMySQL/virtualNetworkGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/virtualNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -9249,7 +9249,7 @@ virtualNetworkGateways:
 virtualNetworkTaps:
   path: Microsoft.DBforMySQL/virtualNetworkTaps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/virtualNetworkTaps
   architecture review:
     type: UNKNOWN
@@ -9266,7 +9266,7 @@ virtualNetworkTaps:
 virtualNetworks:
   path: Microsoft.DBforMySQL/virtualNetworks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/virtualNetworks
   architecture review:
     type: UNKNOWN
@@ -9283,7 +9283,7 @@ virtualNetworks:
 virtualRouters:
   path: Microsoft.DBforMySQL/virtualRouters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/virtualRouters
   architecture review:
     type: UNKNOWN
@@ -9300,7 +9300,7 @@ virtualRouters:
 virtualWans:
   path: Microsoft.DBforMySQL/virtualWans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/virtualWans
   architecture review:
     type: UNKNOWN
@@ -9317,7 +9317,7 @@ virtualWans:
 vmImages:
   path: Microsoft.DBforMySQL/vmImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/vmImages
   architecture review:
     type: UNKNOWN
@@ -9334,7 +9334,7 @@ vmImages:
 vmInsightsOnboardingStatuses:
   path: Microsoft.DBforMySQL/vmInsightsOnboardingStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/vmInsightsOnboardingStatuses
   architecture review:
     type: UNKNOWN
@@ -9351,7 +9351,7 @@ vmInsightsOnboardingStatuses:
 volumes:
   path: Microsoft.DBforMySQL/volumes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/volumes
   architecture review:
     type: UNKNOWN
@@ -9368,7 +9368,7 @@ volumes:
 vpnGateways:
   path: Microsoft.DBforMySQL/vpnGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/vpnGateways
   architecture review:
     type: UNKNOWN
@@ -9385,7 +9385,7 @@ vpnGateways:
 vpnServerConfigurations:
   path: Microsoft.DBforMySQL/vpnServerConfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/vpnServerConfigurations
   architecture review:
     type: UNKNOWN
@@ -9402,7 +9402,7 @@ vpnServerConfigurations:
 vpnSites:
   path: Microsoft.DBforMySQL/vpnSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/vpnSites
   architecture review:
     type: UNKNOWN
@@ -9419,7 +9419,7 @@ vpnSites:
 watchers:
   path: Microsoft.DBforMySQL/watchers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/watchers
   architecture review:
     type: UNKNOWN
@@ -9436,7 +9436,7 @@ watchers:
 webApplicationFirewallPolicies:
   path: Microsoft.DBforMySQL/webApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/webApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -9453,7 +9453,7 @@ webApplicationFirewallPolicies:
 webServices:
   path: Microsoft.DBforMySQL/webServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/webServices
   architecture review:
     type: UNKNOWN
@@ -9470,7 +9470,7 @@ webServices:
 webtests:
   path: Microsoft.DBforMySQL/webtests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/webtests
   architecture review:
     type: UNKNOWN
@@ -9487,7 +9487,7 @@ webtests:
 workbooks:
   path: Microsoft.DBforMySQL/workbooks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/workbooks
   architecture review:
     type: UNKNOWN
@@ -9504,7 +9504,7 @@ workbooks:
 workbooktemplates:
   path: Microsoft.DBforMySQL/workbooktemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/workbooktemplates
   architecture review:
     type: UNKNOWN
@@ -9521,7 +9521,7 @@ workbooktemplates:
 workflows:
   path: Microsoft.DBforMySQL/workflows
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/workflows
   architecture review:
     type: UNKNOWN
@@ -9538,7 +9538,7 @@ workflows:
 workspaceCollections:
   path: Microsoft.DBforMySQL/workspaceCollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/workspaceCollections
   architecture review:
     type: UNKNOWN
@@ -9555,7 +9555,7 @@ workspaceCollections:
 workspaceSettings:
   path: Microsoft.DBforMySQL/workspaceSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/workspaceSettings
   architecture review:
     type: UNKNOWN
@@ -9572,7 +9572,7 @@ workspaceSettings:
 workspaces:
   path: Microsoft.DBforMySQL/workspaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.DBforMySQL/workspaces
   architecture review:
     type: UNKNOWN

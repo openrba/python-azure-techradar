@@ -1,7 +1,0 @@
-[
-    "Microsoft.Network/labs/users/disks",
-    "Microsoft.Network/labs/users/environments",
-    "Microsoft.Network/labs/users/secrets",
-    "Microsoft.Network/labs/users/serviceFabrics",
-    "Microsoft.Network/labs/users/serviceFabrics/schedules"
-]

@@ -1,6 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/ExternalBillingAccounts/Alerts",
-    "Microsoft.ADHybridHealthService/ExternalBillingAccounts/Dimensions",
-    "Microsoft.ADHybridHealthService/ExternalBillingAccounts/Forecast",
-    "Microsoft.ADHybridHealthService/ExternalBillingAccounts/Query"
-]

@@ -1,8 +1,0 @@
-[
-    "Microsoft.AppConfiguration/factories/dataflows",
-    "Microsoft.AppConfiguration/factories/datasets",
-    "Microsoft.AppConfiguration/factories/integrationRuntimes",
-    "Microsoft.AppConfiguration/factories/linkedservices",
-    "Microsoft.AppConfiguration/factories/pipelines",
-    "Microsoft.AppConfiguration/factories/triggers"
-]

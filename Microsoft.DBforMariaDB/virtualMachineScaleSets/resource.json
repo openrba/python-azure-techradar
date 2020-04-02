@@ -1,7 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/virtualMachineScaleSets/extensions",
-    "Microsoft.DBforMariaDB/virtualMachineScaleSets/networkInterfaces",
-    "Microsoft.DBforMariaDB/virtualMachineScaleSets/publicIPAddresses",
-    "Microsoft.DBforMariaDB/virtualMachineScaleSets/virtualMachines",
-    "Microsoft.DBforMariaDB/virtualMachineScaleSets/virtualMachines/networkInterfaces"
-]

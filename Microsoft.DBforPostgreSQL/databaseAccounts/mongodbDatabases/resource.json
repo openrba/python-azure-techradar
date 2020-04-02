@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/databaseAccounts/mongodbDatabases/collections",
-    "Microsoft.DBforPostgreSQL/databaseAccounts/mongodbDatabases/collections/throughputSettings",
-    "Microsoft.DBforPostgreSQL/databaseAccounts/mongodbDatabases/throughputSettings"
-]

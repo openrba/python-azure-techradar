@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/databaseAccounts/cassandraKeyspaces/tables",
-    "Microsoft.DBforMariaDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings",
-    "Microsoft.DBforMariaDB/databaseAccounts/cassandraKeyspaces/throughputSettings"
-]

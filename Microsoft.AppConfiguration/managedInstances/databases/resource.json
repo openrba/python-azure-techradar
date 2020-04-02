@@ -1,8 +1,0 @@
-[
-    "Microsoft.AppConfiguration/managedInstances/databases/backupLongTermRetentionPolicies",
-    "Microsoft.AppConfiguration/managedInstances/databases/backupShortTermRetentionPolicies",
-    "Microsoft.AppConfiguration/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
-    "Microsoft.AppConfiguration/managedInstances/databases/securityAlertPolicies",
-    "Microsoft.AppConfiguration/managedInstances/databases/vulnerabilityAssessments",
-    "Microsoft.AppConfiguration/managedInstances/databases/vulnerabilityAssessments/rules/baselines"
-]

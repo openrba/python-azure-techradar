@@ -1,9 +1,0 @@
-[
-    "Microsoft.ApiManagement/billingAccounts/customers/billingPermissions",
-    "Microsoft.ApiManagement/billingAccounts/customers/billingSubscriptions",
-    "Microsoft.ApiManagement/billingAccounts/customers/initiateTransfer",
-    "Microsoft.ApiManagement/billingAccounts/customers/policies",
-    "Microsoft.ApiManagement/billingAccounts/customers/products",
-    "Microsoft.ApiManagement/billingAccounts/customers/transactions",
-    "Microsoft.ApiManagement/billingAccounts/customers/transfers"
-]

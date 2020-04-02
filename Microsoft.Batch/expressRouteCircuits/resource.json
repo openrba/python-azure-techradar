@@ -1,5 +1,0 @@
-[
-    "Microsoft.Batch/expressRouteCircuits/authorizations",
-    "Microsoft.Batch/expressRouteCircuits/peerings",
-    "Microsoft.Batch/expressRouteCircuits/peerings/connections"
-]

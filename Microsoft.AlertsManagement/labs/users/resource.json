@@ -1,7 +1,0 @@
-[
-    "Microsoft.AlertsManagement/labs/users/disks",
-    "Microsoft.AlertsManagement/labs/users/environments",
-    "Microsoft.AlertsManagement/labs/users/secrets",
-    "Microsoft.AlertsManagement/labs/users/serviceFabrics",
-    "Microsoft.AlertsManagement/labs/users/serviceFabrics/schedules"
-]

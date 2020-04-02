@@ -1,7 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/labs/users/disks",
-    "Microsoft.DBforMariaDB/labs/users/environments",
-    "Microsoft.DBforMariaDB/labs/users/secrets",
-    "Microsoft.DBforMariaDB/labs/users/serviceFabrics",
-    "Microsoft.DBforMariaDB/labs/users/serviceFabrics/schedules"
-]

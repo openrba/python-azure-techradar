@@ -1,6 +1,0 @@
-[
-    "Microsoft.ApiManagement/virtualMachines/diagnosticSettings",
-    "Microsoft.ApiManagement/virtualMachines/extensions",
-    "Microsoft.ApiManagement/virtualMachines/metricDefinitions",
-    "Microsoft.ApiManagement/virtualMachines/metrics"
-]

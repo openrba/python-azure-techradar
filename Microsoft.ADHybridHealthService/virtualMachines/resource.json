@@ -1,6 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/virtualMachines/diagnosticSettings",
-    "Microsoft.ADHybridHealthService/virtualMachines/extensions",
-    "Microsoft.ADHybridHealthService/virtualMachines/metricDefinitions",
-    "Microsoft.ADHybridHealthService/virtualMachines/metrics"
-]

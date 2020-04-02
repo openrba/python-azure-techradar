@@ -1,6 +1,0 @@
-[
-    "Microsoft.ApiManagement/transfers/acceptTransfer",
-    "Microsoft.ApiManagement/transfers/declineTransfer",
-    "Microsoft.ApiManagement/transfers/operationStatus",
-    "Microsoft.ApiManagement/transfers/validateTransfer"
-]

@@ -1,4 +1,0 @@
-[
-    "Microsoft.Batch/accounts/storageAccounts/containers",
-    "Microsoft.Batch/accounts/storageAccounts/containers/listSasTokens"
-]

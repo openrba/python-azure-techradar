@@ -1,9 +1,0 @@
-[
-    "Microsoft.DBforMySQL/domainNames/capabilities",
-    "Microsoft.DBforMySQL/domainNames/internalLoadBalancers",
-    "Microsoft.DBforMySQL/domainNames/serviceCertificates",
-    "Microsoft.DBforMySQL/domainNames/slots",
-    "Microsoft.DBforMySQL/domainNames/slots/roles",
-    "Microsoft.DBforMySQL/domainNames/slots/roles/metricDefinitions",
-    "Microsoft.DBforMySQL/domainNames/slots/roles/metrics"
-]

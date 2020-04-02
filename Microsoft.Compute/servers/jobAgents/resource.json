@@ -1,5 +1,0 @@
-[
-    "Microsoft.Compute/servers/jobAgents/jobs",
-    "Microsoft.Compute/servers/jobAgents/jobs/executions",
-    "Microsoft.Compute/servers/jobAgents/jobs/steps"
-]

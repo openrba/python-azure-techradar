@@ -1,7 +1,7 @@
 AggregatedCost:
   path: Microsoft.ApiManagement/AggregatedCost
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/AggregatedCost
   architecture review:
     type: UNKNOWN
@@ -18,7 +18,7 @@ AggregatedCost:
 Alerts:
   path: Microsoft.ApiManagement/Alerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Alerts
   architecture review:
     type: UNKNOWN
@@ -35,7 +35,7 @@ Alerts:
 AutoProvisioningSettings:
   path: Microsoft.ApiManagement/AutoProvisioningSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/AutoProvisioningSettings
   architecture review:
     type: UNKNOWN
@@ -52,7 +52,7 @@ AutoProvisioningSettings:
 Balances:
   path: Microsoft.ApiManagement/Balances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Balances
   architecture review:
     type: UNKNOWN
@@ -69,7 +69,7 @@ Balances:
 BillingAccounts:
   path: Microsoft.ApiManagement/BillingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/BillingAccounts
   architecture review:
     type: UNKNOWN
@@ -86,7 +86,7 @@ BillingAccounts:
 Budgets:
   path: Microsoft.ApiManagement/Budgets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Budgets
   architecture review:
     type: UNKNOWN
@@ -103,7 +103,7 @@ Budgets:
 CdnWebApplicationFirewallManagedRuleSets:
   path: Microsoft.ApiManagement/CdnWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/CdnWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -120,7 +120,7 @@ CdnWebApplicationFirewallManagedRuleSets:
 CdnWebApplicationFirewallPolicies:
   path: Microsoft.ApiManagement/CdnWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/CdnWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -137,7 +137,7 @@ CdnWebApplicationFirewallPolicies:
 Charges:
   path: Microsoft.ApiManagement/Charges
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Charges
   architecture review:
     type: UNKNOWN
@@ -154,7 +154,7 @@ Charges:
 CloudConnectors:
   path: Microsoft.ApiManagement/CloudConnectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/CloudConnectors
   architecture review:
     type: UNKNOWN
@@ -171,7 +171,7 @@ CloudConnectors:
 Compliances:
   path: Microsoft.ApiManagement/Compliances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Compliances
   architecture review:
     type: UNKNOWN
@@ -188,7 +188,7 @@ Compliances:
 Components:
   path: Microsoft.ApiManagement/Components
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Components
   architecture review:
     type: UNKNOWN
@@ -205,7 +205,7 @@ Components:
 Connectors:
   path: Microsoft.ApiManagement/Connectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Connectors
   architecture review:
     type: UNKNOWN
@@ -222,7 +222,7 @@ Connectors:
 CostTags:
   path: Microsoft.ApiManagement/CostTags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/CostTags
   architecture review:
     type: UNKNOWN
@@ -239,7 +239,7 @@ CostTags:
 CreateSubscription:
   path: Microsoft.ApiManagement/CreateSubscription
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/CreateSubscription
   architecture review:
     type: UNKNOWN
@@ -256,7 +256,7 @@ CreateSubscription:
 DataBoxEdgeDevices:
   path: Microsoft.ApiManagement/DataBoxEdgeDevices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/DataBoxEdgeDevices
   architecture review:
     type: UNKNOWN
@@ -273,7 +273,7 @@ DataBoxEdgeDevices:
 Departments:
   path: Microsoft.ApiManagement/Departments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Departments
   architecture review:
     type: UNKNOWN
@@ -290,7 +290,7 @@ Departments:
 DeviceServices:
   path: Microsoft.ApiManagement/DeviceServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/DeviceServices
   architecture review:
     type: UNKNOWN
@@ -307,7 +307,7 @@ DeviceServices:
 Dimensions:
   path: Microsoft.ApiManagement/Dimensions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Dimensions
   architecture review:
     type: UNKNOWN
@@ -324,7 +324,7 @@ Dimensions:
 DomainServices:
   path: Microsoft.ApiManagement/DomainServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/DomainServices
   architecture review:
     type: UNKNOWN
@@ -341,7 +341,7 @@ DomainServices:
 EnrollmentAccounts:
   path: Microsoft.ApiManagement/EnrollmentAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/EnrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -358,7 +358,7 @@ EnrollmentAccounts:
 Exports:
   path: Microsoft.ApiManagement/Exports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Exports
   architecture review:
     type: UNKNOWN
@@ -375,7 +375,7 @@ Exports:
 ExternalBillingAccounts:
   path: Microsoft.ApiManagement/ExternalBillingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ExternalBillingAccounts
   architecture review:
     type: UNKNOWN
@@ -392,7 +392,7 @@ ExternalBillingAccounts:
 ExternalSubscriptions:
   path: Microsoft.ApiManagement/ExternalSubscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ExternalSubscriptions
   architecture review:
     type: UNKNOWN
@@ -409,7 +409,7 @@ ExternalSubscriptions:
 Forecast:
   path: Microsoft.ApiManagement/Forecast
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Forecast
   architecture review:
     type: UNKNOWN
@@ -426,7 +426,7 @@ Forecast:
 Forecasts:
   path: Microsoft.ApiManagement/Forecasts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Forecasts
   architecture review:
     type: UNKNOWN
@@ -443,7 +443,7 @@ Forecasts:
 Graph:
   path: Microsoft.ApiManagement/Graph
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Graph
   architecture review:
     type: UNKNOWN
@@ -460,7 +460,7 @@ Graph:
 HyperVSites:
   path: Microsoft.ApiManagement/HyperVSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/HyperVSites
   architecture review:
     type: UNKNOWN
@@ -477,7 +477,7 @@ HyperVSites:
 Identities:
   path: Microsoft.ApiManagement/Identities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Identities
   architecture review:
     type: UNKNOWN
@@ -494,7 +494,7 @@ Identities:
 ImportSites:
   path: Microsoft.ApiManagement/ImportSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ImportSites
   architecture review:
     type: UNKNOWN
@@ -511,7 +511,7 @@ ImportSites:
 InformationProtectionPolicies:
   path: Microsoft.ApiManagement/InformationProtectionPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/InformationProtectionPolicies
   architecture review:
     type: UNKNOWN
@@ -528,7 +528,7 @@ InformationProtectionPolicies:
 IoTApps:
   path: Microsoft.ApiManagement/IoTApps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/IoTApps
   architecture review:
     type: UNKNOWN
@@ -545,7 +545,7 @@ IoTApps:
 IotHubs:
   path: Microsoft.ApiManagement/IotHubs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/IotHubs
   architecture review:
     type: UNKNOWN
@@ -562,7 +562,7 @@ IotHubs:
 Locations:
   path: Microsoft.ApiManagement/Locations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Locations
   architecture review:
     type: UNKNOWN
@@ -579,7 +579,7 @@ Locations:
 Marketplaces:
   path: Microsoft.ApiManagement/Marketplaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Marketplaces
   architecture review:
     type: UNKNOWN
@@ -596,7 +596,7 @@ Marketplaces:
 Namespaces:
   path: Microsoft.ApiManagement/Namespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Namespaces
   architecture review:
     type: UNKNOWN
@@ -613,7 +613,7 @@ Namespaces:
 OperationResults:
   path: Microsoft.ApiManagement/OperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/OperationResults
   architecture review:
     type: UNKNOWN
@@ -630,7 +630,7 @@ OperationResults:
 OperationStatus:
   path: Microsoft.ApiManagement/OperationStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/OperationStatus
   architecture review:
     type: UNKNOWN
@@ -647,7 +647,7 @@ OperationStatus:
 Operations:
   path: Microsoft.ApiManagement/Operations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Operations
   architecture review:
     type: UNKNOWN
@@ -664,7 +664,7 @@ Operations:
 Pricesheets:
   path: Microsoft.ApiManagement/Pricesheets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Pricesheets
   architecture review:
     type: UNKNOWN
@@ -681,7 +681,7 @@ Pricesheets:
 ProvisioningServices:
   path: Microsoft.ApiManagement/ProvisioningServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ProvisioningServices
   architecture review:
     type: UNKNOWN
@@ -698,7 +698,7 @@ ProvisioningServices:
 Query:
   path: Microsoft.ApiManagement/Query
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Query
   architecture review:
     type: UNKNOWN
@@ -715,7 +715,7 @@ Query:
 RateCard:
   path: Microsoft.ApiManagement/RateCard
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/RateCard
   architecture review:
     type: UNKNOWN
@@ -732,7 +732,7 @@ RateCard:
 Redis:
   path: Microsoft.ApiManagement/Redis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Redis
   architecture review:
     type: UNKNOWN
@@ -749,7 +749,7 @@ Redis:
 Reportconfigs:
   path: Microsoft.ApiManagement/Reportconfigs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Reportconfigs
   architecture review:
     type: UNKNOWN
@@ -766,7 +766,7 @@ Reportconfigs:
 Reports:
   path: Microsoft.ApiManagement/Reports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Reports
   architecture review:
     type: UNKNOWN
@@ -783,7 +783,7 @@ Reports:
 ReservationDetails:
   path: Microsoft.ApiManagement/ReservationDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ReservationDetails
   architecture review:
     type: UNKNOWN
@@ -800,7 +800,7 @@ ReservationDetails:
 ReservationRecommendations:
   path: Microsoft.ApiManagement/ReservationRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ReservationRecommendations
   architecture review:
     type: UNKNOWN
@@ -817,7 +817,7 @@ ReservationRecommendations:
 ReservationSummaries:
   path: Microsoft.ApiManagement/ReservationSummaries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ReservationSummaries
   architecture review:
     type: UNKNOWN
@@ -834,7 +834,7 @@ ReservationSummaries:
 ReservationTransactions:
   path: Microsoft.ApiManagement/ReservationTransactions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ReservationTransactions
   architecture review:
     type: UNKNOWN
@@ -851,7 +851,7 @@ ReservationTransactions:
 ServerSites:
   path: Microsoft.ApiManagement/ServerSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ServerSites
   architecture review:
     type: UNKNOWN
@@ -868,7 +868,7 @@ ServerSites:
 Settings:
   path: Microsoft.ApiManagement/Settings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Settings
   architecture review:
     type: UNKNOWN
@@ -885,7 +885,7 @@ Settings:
 SignalR:
   path: Microsoft.ApiManagement/SignalR
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/SignalR
   architecture review:
     type: UNKNOWN
@@ -902,7 +902,7 @@ SignalR:
 Spring:
   path: Microsoft.ApiManagement/Spring
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Spring
   architecture review:
     type: UNKNOWN
@@ -919,7 +919,7 @@ Spring:
 SqlVirtualMachineGroups:
   path: Microsoft.ApiManagement/SqlVirtualMachineGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/SqlVirtualMachineGroups
   architecture review:
     type: UNKNOWN
@@ -936,7 +936,7 @@ SqlVirtualMachineGroups:
 SqlVirtualMachines:
   path: Microsoft.ApiManagement/SqlVirtualMachines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/SqlVirtualMachines
   architecture review:
     type: UNKNOWN
@@ -953,7 +953,7 @@ SqlVirtualMachines:
 SubscriptionDefinitions:
   path: Microsoft.ApiManagement/SubscriptionDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/SubscriptionDefinitions
   architecture review:
     type: UNKNOWN
@@ -970,7 +970,7 @@ SubscriptionDefinitions:
 SubscriptionOperations:
   path: Microsoft.ApiManagement/SubscriptionOperations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/SubscriptionOperations
   architecture review:
     type: UNKNOWN
@@ -987,7 +987,7 @@ SubscriptionOperations:
 Tags:
   path: Microsoft.ApiManagement/Tags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Tags
   architecture review:
     type: UNKNOWN
@@ -1004,7 +1004,7 @@ Tags:
 Terms:
   path: Microsoft.ApiManagement/Terms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Terms
   architecture review:
     type: UNKNOWN
@@ -1021,7 +1021,7 @@ Terms:
 UsageAggregates:
   path: Microsoft.ApiManagement/UsageAggregates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/UsageAggregates
   architecture review:
     type: UNKNOWN
@@ -1038,7 +1038,7 @@ UsageAggregates:
 UsageDetails:
   path: Microsoft.ApiManagement/UsageDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/UsageDetails
   architecture review:
     type: UNKNOWN
@@ -1055,7 +1055,7 @@ UsageDetails:
 VMwareSites:
   path: Microsoft.ApiManagement/VMwareSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/VMwareSites
   architecture review:
     type: UNKNOWN
@@ -1072,7 +1072,7 @@ VMwareSites:
 Vaults:
   path: Microsoft.ApiManagement/Vaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Vaults
   architecture review:
     type: UNKNOWN
@@ -1089,7 +1089,7 @@ Vaults:
 Views:
   path: Microsoft.ApiManagement/Views
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Views
   architecture review:
     type: UNKNOWN
@@ -1106,7 +1106,7 @@ Views:
 Workspaces:
   path: Microsoft.ApiManagement/Workspaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/Workspaces
   architecture review:
     type: UNKNOWN
@@ -1123,7 +1123,7 @@ Workspaces:
 aadsupportcases:
   path: Microsoft.ApiManagement/aadsupportcases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/aadsupportcases
   architecture review:
     type: UNKNOWN
@@ -1140,7 +1140,7 @@ aadsupportcases:
 account:
   path: Microsoft.ApiManagement/account
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/account
   architecture review:
     type: UNKNOWN
@@ -1157,7 +1157,7 @@ account:
 accounts:
   path: Microsoft.ApiManagement/accounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/accounts
   architecture review:
     type: UNKNOWN
@@ -1174,7 +1174,7 @@ accounts:
 actionRules:
   path: Microsoft.ApiManagement/actionRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/actionRules
   architecture review:
     type: UNKNOWN
@@ -1191,7 +1191,7 @@ actionRules:
 actiongroups:
   path: Microsoft.ApiManagement/actiongroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/actiongroups
   architecture review:
     type: UNKNOWN
@@ -1208,7 +1208,7 @@ actiongroups:
 activityLogAlerts:
   path: Microsoft.ApiManagement/activityLogAlerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/activityLogAlerts
   architecture review:
     type: UNKNOWN
@@ -1225,7 +1225,7 @@ activityLogAlerts:
 adaptiveNetworkHardenings:
   path: Microsoft.ApiManagement/adaptiveNetworkHardenings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/adaptiveNetworkHardenings
   architecture review:
     type: UNKNOWN
@@ -1242,7 +1242,7 @@ adaptiveNetworkHardenings:
 addsservices:
   path: Microsoft.ApiManagement/addsservices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/addsservices
   architecture review:
     type: UNKNOWN
@@ -1259,7 +1259,7 @@ addsservices:
 advancedThreatProtectionSettings:
   path: Microsoft.ApiManagement/advancedThreatProtectionSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/advancedThreatProtectionSettings
   architecture review:
     type: UNKNOWN
@@ -1276,7 +1276,7 @@ advancedThreatProtectionSettings:
 agents:
   path: Microsoft.ApiManagement/agents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/agents
   architecture review:
     type: UNKNOWN
@@ -1293,7 +1293,7 @@ agents:
 aggregations:
   path: Microsoft.ApiManagement/aggregations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/aggregations
   architecture review:
     type: UNKNOWN
@@ -1310,7 +1310,7 @@ aggregations:
 agreements:
   path: Microsoft.ApiManagement/agreements
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/agreements
   architecture review:
     type: UNKNOWN
@@ -1327,7 +1327,7 @@ agreements:
 alertRuleTemplates:
   path: Microsoft.ApiManagement/alertRuleTemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/alertRuleTemplates
   architecture review:
     type: UNKNOWN
@@ -1344,7 +1344,7 @@ alertRuleTemplates:
 alertRules:
   path: Microsoft.ApiManagement/alertRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/alertRules
   architecture review:
     type: UNKNOWN
@@ -1361,7 +1361,7 @@ alertRules:
 alertrules:
   path: Microsoft.ApiManagement/alertrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/alertrules
   architecture review:
     type: UNKNOWN
@@ -1378,7 +1378,7 @@ alertrules:
 alerts:
   path: Microsoft.ApiManagement/alerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/alerts
   architecture review:
     type: UNKNOWN
@@ -1395,7 +1395,7 @@ alerts:
 alertsList:
   path: Microsoft.ApiManagement/alertsList
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/alertsList
   architecture review:
     type: UNKNOWN
@@ -1412,7 +1412,7 @@ alertsList:
 alertsMetaData:
   path: Microsoft.ApiManagement/alertsMetaData
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/alertsMetaData
   architecture review:
     type: UNKNOWN
@@ -1429,7 +1429,7 @@ alertsMetaData:
 alertsSummary:
   path: Microsoft.ApiManagement/alertsSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/alertsSummary
   architecture review:
     type: UNKNOWN
@@ -1446,7 +1446,7 @@ alertsSummary:
 alertsSummaryList:
   path: Microsoft.ApiManagement/alertsSummaryList
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/alertsSummaryList
   architecture review:
     type: UNKNOWN
@@ -1463,7 +1463,7 @@ alertsSummaryList:
 allowedConnections:
   path: Microsoft.ApiManagement/allowedConnections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/allowedConnections
   architecture review:
     type: UNKNOWN
@@ -1480,7 +1480,7 @@ allowedConnections:
 anonymousapiusers:
   path: Microsoft.ApiManagement/anonymousapiusers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/anonymousapiusers
   architecture review:
     type: UNKNOWN
@@ -1497,7 +1497,7 @@ anonymousapiusers:
 appTemplates:
   path: Microsoft.ApiManagement/appTemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/appTemplates
   architecture review:
     type: UNKNOWN
@@ -1514,7 +1514,7 @@ appTemplates:
 applicationDefinitions:
   path: Microsoft.ApiManagement/applicationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/applicationDefinitions
   architecture review:
     type: UNKNOWN
@@ -1531,7 +1531,7 @@ applicationDefinitions:
 applicationGatewayAvailableRequestHeaders:
   path: Microsoft.ApiManagement/applicationGatewayAvailableRequestHeaders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/applicationGatewayAvailableRequestHeaders
   architecture review:
     type: UNKNOWN
@@ -1548,7 +1548,7 @@ applicationGatewayAvailableRequestHeaders:
 applicationGatewayAvailableResponseHeaders:
   path: Microsoft.ApiManagement/applicationGatewayAvailableResponseHeaders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/applicationGatewayAvailableResponseHeaders
   architecture review:
     type: UNKNOWN
@@ -1565,7 +1565,7 @@ applicationGatewayAvailableResponseHeaders:
 applicationGatewayAvailableServerVariables:
   path: Microsoft.ApiManagement/applicationGatewayAvailableServerVariables
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/applicationGatewayAvailableServerVariables
   architecture review:
     type: UNKNOWN
@@ -1582,7 +1582,7 @@ applicationGatewayAvailableServerVariables:
 applicationGatewayAvailableSslOptions:
   path: Microsoft.ApiManagement/applicationGatewayAvailableSslOptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/applicationGatewayAvailableSslOptions
   architecture review:
     type: UNKNOWN
@@ -1599,7 +1599,7 @@ applicationGatewayAvailableSslOptions:
 applicationGatewayAvailableWafRuleSets:
   path: Microsoft.ApiManagement/applicationGatewayAvailableWafRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/applicationGatewayAvailableWafRuleSets
   architecture review:
     type: UNKNOWN
@@ -1616,7 +1616,7 @@ applicationGatewayAvailableWafRuleSets:
 applicationGatewayWebApplicationFirewallPolicies:
   path: Microsoft.ApiManagement/applicationGatewayWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/applicationGatewayWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -1633,7 +1633,7 @@ applicationGatewayWebApplicationFirewallPolicies:
 applicationGateways:
   path: Microsoft.ApiManagement/applicationGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/applicationGateways
   architecture review:
     type: UNKNOWN
@@ -1650,7 +1650,7 @@ applicationGateways:
 applicationSecurityGroups:
   path: Microsoft.ApiManagement/applicationSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/applicationSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -1667,7 +1667,7 @@ applicationSecurityGroups:
 applicationWhitelistings:
   path: Microsoft.ApiManagement/applicationWhitelistings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/applicationWhitelistings
   architecture review:
     type: UNKNOWN
@@ -1684,7 +1684,7 @@ applicationWhitelistings:
 applications:
   path: Microsoft.ApiManagement/applications
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/applications
   architecture review:
     type: UNKNOWN
@@ -1701,7 +1701,7 @@ applications:
 appliedReservations:
   path: Microsoft.ApiManagement/appliedReservations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/appliedReservations
   architecture review:
     type: UNKNOWN
@@ -1718,7 +1718,7 @@ appliedReservations:
 applyUpdates:
   path: Microsoft.ApiManagement/applyUpdates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/applyUpdates
   architecture review:
     type: UNKNOWN
@@ -1735,7 +1735,7 @@ applyUpdates:
 apps:
   path: Microsoft.ApiManagement/apps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/apps
   architecture review:
     type: UNKNOWN
@@ -1752,7 +1752,7 @@ apps:
 artifactSources:
   path: Microsoft.ApiManagement/artifactSources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/artifactSources
   architecture review:
     type: UNKNOWN
@@ -1769,7 +1769,7 @@ artifactSources:
 assessmentMetadata:
   path: Microsoft.ApiManagement/assessmentMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/assessmentMetadata
   architecture review:
     type: UNKNOWN
@@ -1786,7 +1786,7 @@ assessmentMetadata:
 assessmentProjects:
   path: Microsoft.ApiManagement/assessmentProjects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/assessmentProjects
   architecture review:
     type: UNKNOWN
@@ -1803,7 +1803,7 @@ assessmentProjects:
 assessmentprojects:
   path: Microsoft.ApiManagement/assessmentprojects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/assessmentprojects
   architecture review:
     type: UNKNOWN
@@ -1820,7 +1820,7 @@ assessmentprojects:
 assessments:
   path: Microsoft.ApiManagement/assessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/assessments
   architecture review:
     type: UNKNOWN
@@ -1837,7 +1837,7 @@ assessments:
 associations:
   path: Microsoft.ApiManagement/associations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/associations
   architecture review:
     type: UNKNOWN
@@ -1854,7 +1854,7 @@ associations:
 asyncOperationResults:
   path: Microsoft.ApiManagement/asyncOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/asyncOperationResults
   architecture review:
     type: UNKNOWN
@@ -1871,7 +1871,7 @@ asyncOperationResults:
 attestationProviders:
   path: Microsoft.ApiManagement/attestationProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/attestationProviders
   architecture review:
     type: UNKNOWN
@@ -1888,7 +1888,7 @@ attestationProviders:
 autoDismissAlertsRules:
   path: Microsoft.ApiManagement/autoDismissAlertsRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/autoDismissAlertsRules
   architecture review:
     type: UNKNOWN
@@ -1905,7 +1905,7 @@ autoDismissAlertsRules:
 automationAccounts:
   path: Microsoft.ApiManagement/automationAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/automationAccounts
   architecture review:
     type: UNKNOWN
@@ -1922,7 +1922,7 @@ automationAccounts:
 automations:
   path: Microsoft.ApiManagement/automations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/automations
   architecture review:
     type: UNKNOWN
@@ -1939,7 +1939,7 @@ automations:
 autoscalesettings:
   path: Microsoft.ApiManagement/autoscalesettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/autoscalesettings
   architecture review:
     type: UNKNOWN
@@ -1956,7 +1956,7 @@ autoscalesettings:
 availabilitySets:
   path: Microsoft.ApiManagement/availabilitySets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/availabilitySets
   architecture review:
     type: UNKNOWN
@@ -1973,7 +1973,7 @@ availabilitySets:
 availabilityStatuses:
   path: Microsoft.ApiManagement/availabilityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/availabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -1990,7 +1990,7 @@ availabilityStatuses:
 availableAccounts:
   path: Microsoft.ApiManagement/availableAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/availableAccounts
   architecture review:
     type: UNKNOWN
@@ -2007,7 +2007,7 @@ availableAccounts:
 availableClusterRegions:
   path: Microsoft.ApiManagement/availableClusterRegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/availableClusterRegions
   architecture review:
     type: UNKNOWN
@@ -2024,7 +2024,7 @@ availableClusterRegions:
 availableStacks:
   path: Microsoft.ApiManagement/availableStacks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/availableStacks
   architecture review:
     type: UNKNOWN
@@ -2041,7 +2041,7 @@ availableStacks:
 azureFirewallFqdnTags:
   path: Microsoft.ApiManagement/azureFirewallFqdnTags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/azureFirewallFqdnTags
   architecture review:
     type: UNKNOWN
@@ -2058,7 +2058,7 @@ azureFirewallFqdnTags:
 azureFirewalls:
   path: Microsoft.ApiManagement/azureFirewalls
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/azureFirewalls
   architecture review:
     type: UNKNOWN
@@ -2075,7 +2075,7 @@ azureFirewalls:
 b2cDirectories:
   path: Microsoft.ApiManagement/b2cDirectories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/b2cDirectories
   architecture review:
     type: UNKNOWN
@@ -2092,7 +2092,7 @@ b2cDirectories:
 b2ctenants:
   path: Microsoft.ApiManagement/b2ctenants
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/b2ctenants
   architecture review:
     type: UNKNOWN
@@ -2109,7 +2109,7 @@ b2ctenants:
 backupProtectedItems:
   path: Microsoft.ApiManagement/backupProtectedItems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/backupProtectedItems
   architecture review:
     type: UNKNOWN
@@ -2126,7 +2126,7 @@ backupProtectedItems:
 baseline:
   path: Microsoft.ApiManagement/baseline
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/baseline
   architecture review:
     type: UNKNOWN
@@ -2143,7 +2143,7 @@ baseline:
 bastionHosts:
   path: Microsoft.ApiManagement/bastionHosts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/bastionHosts
   architecture review:
     type: UNKNOWN
@@ -2160,7 +2160,7 @@ bastionHosts:
 batchAccounts:
   path: Microsoft.ApiManagement/batchAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/batchAccounts
   architecture review:
     type: UNKNOWN
@@ -2177,7 +2177,7 @@ batchAccounts:
 bgpServiceCommunities:
   path: Microsoft.ApiManagement/bgpServiceCommunities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/bgpServiceCommunities
   architecture review:
     type: UNKNOWN
@@ -2194,7 +2194,7 @@ bgpServiceCommunities:
 billingAccounts:
   path: Microsoft.ApiManagement/billingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/billingAccounts
   architecture review:
     type: UNKNOWN
@@ -2211,7 +2211,7 @@ billingAccounts:
 billingMeters:
   path: Microsoft.ApiManagement/billingMeters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/billingMeters
   architecture review:
     type: UNKNOWN
@@ -2228,7 +2228,7 @@ billingMeters:
 billingPeriods:
   path: Microsoft.ApiManagement/billingPeriods
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/billingPeriods
   architecture review:
     type: UNKNOWN
@@ -2245,7 +2245,7 @@ billingPeriods:
 billingPermissions:
   path: Microsoft.ApiManagement/billingPermissions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/billingPermissions
   architecture review:
     type: UNKNOWN
@@ -2262,7 +2262,7 @@ billingPermissions:
 billingProperty:
   path: Microsoft.ApiManagement/billingProperty
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/billingProperty
   architecture review:
     type: UNKNOWN
@@ -2279,7 +2279,7 @@ billingProperty:
 billingRoleAssignments:
   path: Microsoft.ApiManagement/billingRoleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/billingRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -2296,7 +2296,7 @@ billingRoleAssignments:
 billingRoleDefinitions:
   path: Microsoft.ApiManagement/billingRoleDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/billingRoleDefinitions
   architecture review:
     type: UNKNOWN
@@ -2313,7 +2313,7 @@ billingRoleDefinitions:
 blockchainMembers:
   path: Microsoft.ApiManagement/blockchainMembers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/blockchainMembers
   architecture review:
     type: UNKNOWN
@@ -2330,7 +2330,7 @@ blockchainMembers:
 blueprintAssignments:
   path: Microsoft.ApiManagement/blueprintAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/blueprintAssignments
   architecture review:
     type: UNKNOWN
@@ -2347,7 +2347,7 @@ blueprintAssignments:
 blueprints:
   path: Microsoft.ApiManagement/blueprints
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/blueprints
   architecture review:
     type: UNKNOWN
@@ -2364,7 +2364,7 @@ blueprints:
 bookmarks:
   path: Microsoft.ApiManagement/bookmarks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/bookmarks
   architecture review:
     type: UNKNOWN
@@ -2381,7 +2381,7 @@ bookmarks:
 botServices:
   path: Microsoft.ApiManagement/botServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/botServices
   architecture review:
     type: UNKNOWN
@@ -2398,7 +2398,7 @@ botServices:
 calculateExchange:
   path: Microsoft.ApiManagement/calculateExchange
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/calculateExchange
   architecture review:
     type: UNKNOWN
@@ -2415,7 +2415,7 @@ calculateExchange:
 calculatePrice:
   path: Microsoft.ApiManagement/calculatePrice
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/calculatePrice
   architecture review:
     type: UNKNOWN
@@ -2432,7 +2432,7 @@ calculatePrice:
 calculatePurchasePrice:
   path: Microsoft.ApiManagement/calculatePurchasePrice
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/calculatePurchasePrice
   architecture review:
     type: UNKNOWN
@@ -2449,7 +2449,7 @@ calculatePurchasePrice:
 calculatebaseline:
   path: Microsoft.ApiManagement/calculatebaseline
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/calculatebaseline
   architecture review:
     type: UNKNOWN
@@ -2466,7 +2466,7 @@ calculatebaseline:
 cancel:
   path: Microsoft.ApiManagement/cancel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/cancel
   architecture review:
     type: UNKNOWN
@@ -2483,7 +2483,7 @@ cancel:
 capabilities:
   path: Microsoft.ApiManagement/capabilities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/capabilities
   architecture review:
     type: UNKNOWN
@@ -2500,7 +2500,7 @@ capabilities:
 capacities:
   path: Microsoft.ApiManagement/capacities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/capacities
   architecture review:
     type: UNKNOWN
@@ -2517,7 +2517,7 @@ capacities:
 cases:
   path: Microsoft.ApiManagement/cases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/cases
   architecture review:
     type: UNKNOWN
@@ -2534,7 +2534,7 @@ cases:
 catalogs:
   path: Microsoft.ApiManagement/catalogs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/catalogs
   architecture review:
     type: UNKNOWN
@@ -2551,7 +2551,7 @@ catalogs:
 certificateOrders:
   path: Microsoft.ApiManagement/certificateOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/certificateOrders
   architecture review:
     type: UNKNOWN
@@ -2568,7 +2568,7 @@ certificateOrders:
 certificates:
   path: Microsoft.ApiManagement/certificates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/certificates
   architecture review:
     type: UNKNOWN
@@ -2585,7 +2585,7 @@ certificates:
 checkAccess:
   path: Microsoft.ApiManagement/checkAccess
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkAccess
   architecture review:
     type: UNKNOWN
@@ -2602,7 +2602,7 @@ checkAccess:
 checkAzureDataFactoryNameAvailability:
   path: Microsoft.ApiManagement/checkAzureDataFactoryNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkAzureDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2619,7 +2619,7 @@ checkAzureDataFactoryNameAvailability:
 checkDataFactoryNameAvailability:
   path: Microsoft.ApiManagement/checkDataFactoryNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2636,7 +2636,7 @@ checkDataFactoryNameAvailability:
 checkDomainAvailability:
   path: Microsoft.ApiManagement/checkDomainAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkDomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2653,7 +2653,7 @@ checkDomainAvailability:
 checkDomainNameAvailability:
   path: Microsoft.ApiManagement/checkDomainNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkDomainNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2670,7 +2670,7 @@ checkDomainNameAvailability:
 checkFeedbackRequired:
   path: Microsoft.ApiManagement/checkFeedbackRequired
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkFeedbackRequired
   architecture review:
     type: UNKNOWN
@@ -2687,7 +2687,7 @@ checkFeedbackRequired:
 checkFrontdoorNameAvailability:
   path: Microsoft.ApiManagement/checkFrontdoorNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkFrontdoorNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2704,7 +2704,7 @@ checkFrontdoorNameAvailability:
 checkModernEligibility:
   path: Microsoft.ApiManagement/checkModernEligibility
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkModernEligibility
   architecture review:
     type: UNKNOWN
@@ -2721,7 +2721,7 @@ checkModernEligibility:
 checkNameAvailability:
   path: Microsoft.ApiManagement/checkNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2738,7 +2738,7 @@ checkNameAvailability:
 checkNamespaceAvailability:
   path: Microsoft.ApiManagement/checkNamespaceAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkNamespaceAvailability
   architecture review:
     type: UNKNOWN
@@ -2755,7 +2755,7 @@ checkNamespaceAvailability:
 checkOffers:
   path: Microsoft.ApiManagement/checkOffers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkOffers
   architecture review:
     type: UNKNOWN
@@ -2772,7 +2772,7 @@ checkOffers:
 checkPolicyCompliance:
   path: Microsoft.ApiManagement/checkPolicyCompliance
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkPolicyCompliance
   architecture review:
     type: UNKNOWN
@@ -2789,7 +2789,7 @@ checkPolicyCompliance:
 checkProvisioningServiceNameAvailability:
   path: Microsoft.ApiManagement/checkProvisioningServiceNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkProvisioningServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2806,7 +2806,7 @@ checkProvisioningServiceNameAvailability:
 checkPurchaseStatus:
   path: Microsoft.ApiManagement/checkPurchaseStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkPurchaseStatus
   architecture review:
     type: UNKNOWN
@@ -2823,7 +2823,7 @@ checkPurchaseStatus:
 checkResourceUsage:
   path: Microsoft.ApiManagement/checkResourceUsage
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkResourceUsage
   architecture review:
     type: UNKNOWN
@@ -2840,7 +2840,7 @@ checkResourceUsage:
 checkScopes:
   path: Microsoft.ApiManagement/checkScopes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkScopes
   architecture review:
     type: UNKNOWN
@@ -2857,7 +2857,7 @@ checkScopes:
 checkServiceNameAvailability:
   path: Microsoft.ApiManagement/checkServiceNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2874,7 +2874,7 @@ checkServiceNameAvailability:
 checkServiceProviderAvailability:
   path: Microsoft.ApiManagement/checkServiceProviderAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkServiceProviderAvailability
   architecture review:
     type: UNKNOWN
@@ -2891,7 +2891,7 @@ checkServiceProviderAvailability:
 checkStorageAccountAvailability:
   path: Microsoft.ApiManagement/checkStorageAccountAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkStorageAccountAvailability
   architecture review:
     type: UNKNOWN
@@ -2908,7 +2908,7 @@ checkStorageAccountAvailability:
 checkSubdomainAvailability:
   path: Microsoft.ApiManagement/checkSubdomainAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkSubdomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2925,7 +2925,7 @@ checkSubdomainAvailability:
 checkTrafficManagerNameAvailability:
   path: Microsoft.ApiManagement/checkTrafficManagerNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkTrafficManagerNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2942,7 +2942,7 @@ checkTrafficManagerNameAvailability:
 checknameavailability:
   path: Microsoft.ApiManagement/checknameavailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checknameavailability
   architecture review:
     type: UNKNOWN
@@ -2959,7 +2959,7 @@ checknameavailability:
 checkresourcename:
   path: Microsoft.ApiManagement/checkresourcename
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/checkresourcename
   architecture review:
     type: UNKNOWN
@@ -2976,7 +2976,7 @@ checkresourcename:
 childAvailabilityStatuses:
   path: Microsoft.ApiManagement/childAvailabilityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/childAvailabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -2993,7 +2993,7 @@ childAvailabilityStatuses:
 childResources:
   path: Microsoft.ApiManagement/childResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/childResources
   architecture review:
     type: UNKNOWN
@@ -3010,7 +3010,7 @@ childResources:
 classicAdministrators:
   path: Microsoft.ApiManagement/classicAdministrators
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/classicAdministrators
   architecture review:
     type: UNKNOWN
@@ -3027,7 +3027,7 @@ classicAdministrators:
 classicDevServices:
   path: Microsoft.ApiManagement/classicDevServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/classicDevServices
   architecture review:
     type: UNKNOWN
@@ -3044,7 +3044,7 @@ classicDevServices:
 classicInfrastructureResources:
   path: Microsoft.ApiManagement/classicInfrastructureResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/classicInfrastructureResources
   architecture review:
     type: UNKNOWN
@@ -3061,7 +3061,7 @@ classicInfrastructureResources:
 cloudManifestFiles:
   path: Microsoft.ApiManagement/cloudManifestFiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/cloudManifestFiles
   architecture review:
     type: UNKNOWN
@@ -3078,7 +3078,7 @@ cloudManifestFiles:
 clusters:
   path: Microsoft.ApiManagement/clusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/clusters
   architecture review:
     type: UNKNOWN
@@ -3095,7 +3095,7 @@ clusters:
 commercialReservationOrders:
   path: Microsoft.ApiManagement/commercialReservationOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/commercialReservationOrders
   architecture review:
     type: UNKNOWN
@@ -3112,7 +3112,7 @@ commercialReservationOrders:
 commitmentPlans:
   path: Microsoft.ApiManagement/commitmentPlans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/commitmentPlans
   architecture review:
     type: UNKNOWN
@@ -3129,7 +3129,7 @@ commitmentPlans:
 complianceResults:
   path: Microsoft.ApiManagement/complianceResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/complianceResults
   architecture review:
     type: UNKNOWN
@@ -3146,7 +3146,7 @@ complianceResults:
 components:
   path: Microsoft.ApiManagement/components
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/components
   architecture review:
     type: UNKNOWN
@@ -3163,7 +3163,7 @@ components:
 componentsSummary:
   path: Microsoft.ApiManagement/componentsSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/componentsSummary
   architecture review:
     type: UNKNOWN
@@ -3180,7 +3180,7 @@ componentsSummary:
 configuration:
   path: Microsoft.ApiManagement/configuration
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/configuration
   architecture review:
     type: UNKNOWN
@@ -3197,7 +3197,7 @@ configuration:
 configurationAssignments:
   path: Microsoft.ApiManagement/configurationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/configurationAssignments
   architecture review:
     type: UNKNOWN
@@ -3214,7 +3214,7 @@ configurationAssignments:
 configurationStores:
   path: Microsoft.ApiManagement/configurationStores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/configurationStores
   architecture review:
     type: UNKNOWN
@@ -3231,7 +3231,7 @@ configurationStores:
 configurations:
   path: Microsoft.ApiManagement/configurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/configurations
   architecture review:
     type: UNKNOWN
@@ -3248,7 +3248,7 @@ configurations:
 connectionGateways:
   path: Microsoft.ApiManagement/connectionGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/connectionGateways
   architecture review:
     type: UNKNOWN
@@ -3265,7 +3265,7 @@ connectionGateways:
 connections:
   path: Microsoft.ApiManagement/connections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/connections
   architecture review:
     type: UNKNOWN
@@ -3282,7 +3282,7 @@ connections:
 consoleServices:
   path: Microsoft.ApiManagement/consoleServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/consoleServices
   architecture review:
     type: UNKNOWN
@@ -3299,7 +3299,7 @@ consoleServices:
 consoles:
   path: Microsoft.ApiManagement/consoles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/consoles
   architecture review:
     type: UNKNOWN
@@ -3316,7 +3316,7 @@ consoles:
 containerGroups:
   path: Microsoft.ApiManagement/containerGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/containerGroups
   architecture review:
     type: UNKNOWN
@@ -3333,7 +3333,7 @@ containerGroups:
 containerServices:
   path: Microsoft.ApiManagement/containerServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/containerServices
   architecture review:
     type: UNKNOWN
@@ -3350,7 +3350,7 @@ containerServices:
 controllers:
   path: Microsoft.ApiManagement/controllers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/controllers
   architecture review:
     type: UNKNOWN
@@ -3367,7 +3367,7 @@ controllers:
 createBillingRoleAssignment:
   path: Microsoft.ApiManagement/createBillingRoleAssignment
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/createBillingRoleAssignment
   architecture review:
     type: UNKNOWN
@@ -3384,7 +3384,7 @@ createBillingRoleAssignment:
 credits:
   path: Microsoft.ApiManagement/credits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/credits
   architecture review:
     type: UNKNOWN
@@ -3401,7 +3401,7 @@ credits:
 customApis:
   path: Microsoft.ApiManagement/customApis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/customApis
   architecture review:
     type: UNKNOWN
@@ -3418,7 +3418,7 @@ customApis:
 dashboards:
   path: Microsoft.ApiManagement/dashboards
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dashboards
   architecture review:
     type: UNKNOWN
@@ -3435,7 +3435,7 @@ dashboards:
 dataAliases:
   path: Microsoft.ApiManagement/dataAliases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dataAliases
   architecture review:
     type: UNKNOWN
@@ -3452,7 +3452,7 @@ dataAliases:
 dataCollectionAgents:
   path: Microsoft.ApiManagement/dataCollectionAgents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dataCollectionAgents
   architecture review:
     type: UNKNOWN
@@ -3469,7 +3469,7 @@ dataCollectionAgents:
 dataConnectors:
   path: Microsoft.ApiManagement/dataConnectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dataConnectors
   architecture review:
     type: UNKNOWN
@@ -3486,7 +3486,7 @@ dataConnectors:
 dataConnectorsCheckRequirements:
   path: Microsoft.ApiManagement/dataConnectorsCheckRequirements
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dataConnectorsCheckRequirements
   architecture review:
     type: UNKNOWN
@@ -3503,7 +3503,7 @@ dataConnectorsCheckRequirements:
 dataFactories:
   path: Microsoft.ApiManagement/dataFactories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dataFactories
   architecture review:
     type: UNKNOWN
@@ -3520,7 +3520,7 @@ dataFactories:
 dataFactorySchema:
   path: Microsoft.ApiManagement/dataFactorySchema
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dataFactorySchema
   architecture review:
     type: UNKNOWN
@@ -3537,7 +3537,7 @@ dataFactorySchema:
 dataManagers:
   path: Microsoft.ApiManagement/dataManagers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dataManagers
   architecture review:
     type: UNKNOWN
@@ -3554,7 +3554,7 @@ dataManagers:
 databaseAccountNames:
   path: Microsoft.ApiManagement/databaseAccountNames
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/databaseAccountNames
   architecture review:
     type: UNKNOWN
@@ -3571,7 +3571,7 @@ databaseAccountNames:
 databaseAccounts:
   path: Microsoft.ApiManagement/databaseAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/databaseAccounts
   architecture review:
     type: UNKNOWN
@@ -3588,7 +3588,7 @@ databaseAccounts:
 databases:
   path: Microsoft.ApiManagement/databases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/databases
   architecture review:
     type: UNKNOWN
@@ -3605,7 +3605,7 @@ databases:
 ddosCustomPolicies:
   path: Microsoft.ApiManagement/ddosCustomPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ddosCustomPolicies
   architecture review:
     type: UNKNOWN
@@ -3622,7 +3622,7 @@ ddosCustomPolicies:
 ddosProtectionPlans:
   path: Microsoft.ApiManagement/ddosProtectionPlans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ddosProtectionPlans
   architecture review:
     type: UNKNOWN
@@ -3639,7 +3639,7 @@ ddosProtectionPlans:
 dedicatedCloudNodes:
   path: Microsoft.ApiManagement/dedicatedCloudNodes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dedicatedCloudNodes
   architecture review:
     type: UNKNOWN
@@ -3656,7 +3656,7 @@ dedicatedCloudNodes:
 dedicatedCloudServices:
   path: Microsoft.ApiManagement/dedicatedCloudServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dedicatedCloudServices
   architecture review:
     type: UNKNOWN
@@ -3673,7 +3673,7 @@ dedicatedCloudServices:
 deletedSites:
   path: Microsoft.ApiManagement/deletedSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/deletedSites
   architecture review:
     type: UNKNOWN
@@ -3690,7 +3690,7 @@ deletedSites:
 deletedVaults:
   path: Microsoft.ApiManagement/deletedVaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/deletedVaults
   architecture review:
     type: UNKNOWN
@@ -3707,7 +3707,7 @@ deletedVaults:
 denyAssignments:
   path: Microsoft.ApiManagement/denyAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/denyAssignments
   architecture review:
     type: UNKNOWN
@@ -3724,7 +3724,7 @@ denyAssignments:
 departments:
   path: Microsoft.ApiManagement/departments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/departments
   architecture review:
     type: UNKNOWN
@@ -3741,7 +3741,7 @@ departments:
 deploymentLocations:
   path: Microsoft.ApiManagement/deploymentLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/deploymentLocations
   architecture review:
     type: UNKNOWN
@@ -3758,7 +3758,7 @@ deploymentLocations:
 deploymentScripts:
   path: Microsoft.ApiManagement/deploymentScripts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/deploymentScripts
   architecture review:
     type: UNKNOWN
@@ -3775,7 +3775,7 @@ deploymentScripts:
 deployments:
   path: Microsoft.ApiManagement/deployments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/deployments
   architecture review:
     type: UNKNOWN
@@ -3792,7 +3792,7 @@ deployments:
 deviceSecurityGroups:
   path: Microsoft.ApiManagement/deviceSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/deviceSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -3809,7 +3809,7 @@ deviceSecurityGroups:
 diagnosticSettings:
   path: Microsoft.ApiManagement/diagnosticSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/diagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -3826,7 +3826,7 @@ diagnosticSettings:
 diagnosticSettingsCategories:
   path: Microsoft.ApiManagement/diagnosticSettingsCategories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/diagnosticSettingsCategories
   architecture review:
     type: UNKNOWN
@@ -3843,7 +3843,7 @@ diagnosticSettingsCategories:
 discoveredSecuritySolutions:
   path: Microsoft.ApiManagement/discoveredSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/discoveredSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -3860,7 +3860,7 @@ discoveredSecuritySolutions:
 diskEncryptionSets:
   path: Microsoft.ApiManagement/diskEncryptionSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/diskEncryptionSets
   architecture review:
     type: UNKNOWN
@@ -3877,7 +3877,7 @@ diskEncryptionSets:
 disks:
   path: Microsoft.ApiManagement/disks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/disks
   architecture review:
     type: UNKNOWN
@@ -3894,7 +3894,7 @@ disks:
 dnsOperationResults:
   path: Microsoft.ApiManagement/dnsOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -3911,7 +3911,7 @@ dnsOperationResults:
 dnsOperationStatuses:
   path: Microsoft.ApiManagement/dnsOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -3928,7 +3928,7 @@ dnsOperationStatuses:
 dnszones:
   path: Microsoft.ApiManagement/dnszones
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/dnszones
   architecture review:
     type: UNKNOWN
@@ -3945,7 +3945,7 @@ dnszones:
 domainNames:
   path: Microsoft.ApiManagement/domainNames
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/domainNames
   architecture review:
     type: UNKNOWN
@@ -3962,7 +3962,7 @@ domainNames:
 domains:
   path: Microsoft.ApiManagement/domains
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/domains
   architecture review:
     type: UNKNOWN
@@ -3979,7 +3979,7 @@ domains:
 edgenodes:
   path: Microsoft.ApiManagement/edgenodes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/edgenodes
   architecture review:
     type: UNKNOWN
@@ -3996,7 +3996,7 @@ edgenodes:
 elevateAccess:
   path: Microsoft.ApiManagement/elevateAccess
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/elevateAccess
   architecture review:
     type: UNKNOWN
@@ -4013,7 +4013,7 @@ elevateAccess:
 emergingissues:
   path: Microsoft.ApiManagement/emergingissues
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/emergingissues
   architecture review:
     type: UNKNOWN
@@ -4030,7 +4030,7 @@ emergingissues:
 enable:
   path: Microsoft.ApiManagement/enable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/enable
   architecture review:
     type: UNKNOWN
@@ -4047,7 +4047,7 @@ enable:
 enrollmentAccounts:
   path: Microsoft.ApiManagement/enrollmentAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/enrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -4064,7 +4064,7 @@ enrollmentAccounts:
 entities:
   path: Microsoft.ApiManagement/entities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/entities
   architecture review:
     type: UNKNOWN
@@ -4081,7 +4081,7 @@ entities:
 entityQueries:
   path: Microsoft.ApiManagement/entityQueries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/entityQueries
   architecture review:
     type: UNKNOWN
@@ -4098,7 +4098,7 @@ entityQueries:
 environments:
   path: Microsoft.ApiManagement/environments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/environments
   architecture review:
     type: UNKNOWN
@@ -4115,7 +4115,7 @@ environments:
 eventCategories:
   path: Microsoft.ApiManagement/eventCategories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/eventCategories
   architecture review:
     type: UNKNOWN
@@ -4132,7 +4132,7 @@ eventCategories:
 eventSubscriptions:
   path: Microsoft.ApiManagement/eventSubscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/eventSubscriptions
   architecture review:
     type: UNKNOWN
@@ -4149,7 +4149,7 @@ eventSubscriptions:
 events:
   path: Microsoft.ApiManagement/events
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/events
   architecture review:
     type: UNKNOWN
@@ -4166,7 +4166,7 @@ events:
 eventtypes:
   path: Microsoft.ApiManagement/eventtypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/eventtypes
   architecture review:
     type: UNKNOWN
@@ -4183,7 +4183,7 @@ eventtypes:
 exchange:
   path: Microsoft.ApiManagement/exchange
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/exchange
   architecture review:
     type: UNKNOWN
@@ -4200,7 +4200,7 @@ exchange:
 expressRouteCircuits:
   path: Microsoft.ApiManagement/expressRouteCircuits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/expressRouteCircuits
   architecture review:
     type: UNKNOWN
@@ -4217,7 +4217,7 @@ expressRouteCircuits:
 expressRouteCrossConnections:
   path: Microsoft.ApiManagement/expressRouteCrossConnections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/expressRouteCrossConnections
   architecture review:
     type: UNKNOWN
@@ -4234,7 +4234,7 @@ expressRouteCrossConnections:
 expressRouteGateways:
   path: Microsoft.ApiManagement/expressRouteGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/expressRouteGateways
   architecture review:
     type: UNKNOWN
@@ -4251,7 +4251,7 @@ expressRouteGateways:
 expressRouteServiceProviders:
   path: Microsoft.ApiManagement/expressRouteServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/expressRouteServiceProviders
   architecture review:
     type: UNKNOWN
@@ -4268,7 +4268,7 @@ expressRouteServiceProviders:
 extendedDiagnosticSettings:
   path: Microsoft.ApiManagement/extendedDiagnosticSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/extendedDiagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -4285,7 +4285,7 @@ extendedDiagnosticSettings:
 extensionTopics:
   path: Microsoft.ApiManagement/extensionTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/extensionTopics
   architecture review:
     type: UNKNOWN
@@ -4302,7 +4302,7 @@ extensionTopics:
 externalSecuritySolutions:
   path: Microsoft.ApiManagement/externalSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/externalSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4319,7 +4319,7 @@ externalSecuritySolutions:
 factories:
   path: Microsoft.ApiManagement/factories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/factories
   architecture review:
     type: UNKNOWN
@@ -4336,7 +4336,7 @@ factories:
 featureProviders:
   path: Microsoft.ApiManagement/featureProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/featureProviders
   architecture review:
     type: UNKNOWN
@@ -4353,7 +4353,7 @@ featureProviders:
 features:
   path: Microsoft.ApiManagement/features
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/features
   architecture review:
     type: UNKNOWN
@@ -4370,7 +4370,7 @@ features:
 findOrphanRoleAssignments:
   path: Microsoft.ApiManagement/findOrphanRoleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/findOrphanRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -4387,7 +4387,7 @@ findOrphanRoleAssignments:
 firewallPolicies:
   path: Microsoft.ApiManagement/firewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/firewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4404,7 +4404,7 @@ firewallPolicies:
 frontDoors:
   path: Microsoft.ApiManagement/frontDoors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/frontDoors
   architecture review:
     type: UNKNOWN
@@ -4421,7 +4421,7 @@ frontDoors:
 frontdoorOperationResults:
   path: Microsoft.ApiManagement/frontdoorOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/frontdoorOperationResults
   architecture review:
     type: UNKNOWN
@@ -4438,7 +4438,7 @@ frontdoorOperationResults:
 frontdoorWebApplicationFirewallManagedRuleSets:
   path: Microsoft.ApiManagement/frontdoorWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/frontdoorWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -4455,7 +4455,7 @@ frontdoorWebApplicationFirewallManagedRuleSets:
 frontdoorWebApplicationFirewallPolicies:
   path: Microsoft.ApiManagement/frontdoorWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/frontdoorWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4472,7 +4472,7 @@ frontdoorWebApplicationFirewallPolicies:
 frontdoors:
   path: Microsoft.ApiManagement/frontdoors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/frontdoors
   architecture review:
     type: UNKNOWN
@@ -4489,7 +4489,7 @@ frontdoors:
 galleries:
   path: Microsoft.ApiManagement/galleries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/galleries
   architecture review:
     type: UNKNOWN
@@ -4506,7 +4506,7 @@ galleries:
 gatewaySupportedDevices:
   path: Microsoft.ApiManagement/gatewaySupportedDevices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/gatewaySupportedDevices
   architecture review:
     type: UNKNOWN
@@ -4523,7 +4523,7 @@ gatewaySupportedDevices:
 gateways:
   path: Microsoft.ApiManagement/gateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/gateways
   architecture review:
     type: UNKNOWN
@@ -4540,7 +4540,7 @@ gateways:
 generateRecommendations:
   path: Microsoft.ApiManagement/generateRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/generateRecommendations
   architecture review:
     type: UNKNOWN
@@ -4557,7 +4557,7 @@ generateRecommendations:
 generateSsoRequest:
   path: Microsoft.ApiManagement/generateSsoRequest
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/generateSsoRequest
   architecture review:
     type: UNKNOWN
@@ -4574,7 +4574,7 @@ generateSsoRequest:
 georegions:
   path: Microsoft.ApiManagement/georegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/georegions
   architecture review:
     type: UNKNOWN
@@ -4591,7 +4591,7 @@ georegions:
 getDnsResourceReference:
   path: Microsoft.ApiManagement/getDnsResourceReference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/getDnsResourceReference
   architecture review:
     type: UNKNOWN
@@ -4608,7 +4608,7 @@ getDnsResourceReference:
 getEntities:
   path: Microsoft.ApiManagement/getEntities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/getEntities
   architecture review:
     type: UNKNOWN
@@ -4625,7 +4625,7 @@ getEntities:
 guestConfigurationAssignments:
   path: Microsoft.ApiManagement/guestConfigurationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/guestConfigurationAssignments
   architecture review:
     type: UNKNOWN
@@ -4642,7 +4642,7 @@ guestConfigurationAssignments:
 hanaInstances:
   path: Microsoft.ApiManagement/hanaInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/hanaInstances
   architecture review:
     type: UNKNOWN
@@ -4659,7 +4659,7 @@ hanaInstances:
 hostGroups:
   path: Microsoft.ApiManagement/hostGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/hostGroups
   architecture review:
     type: UNKNOWN
@@ -4676,7 +4676,7 @@ hostGroups:
 hostingEnvironments:
   path: Microsoft.ApiManagement/hostingEnvironments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/hostingEnvironments
   architecture review:
     type: UNKNOWN
@@ -4693,7 +4693,7 @@ hostingEnvironments:
 hybridUseBenefits:
   path: Microsoft.ApiManagement/hybridUseBenefits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/hybridUseBenefits
   architecture review:
     type: UNKNOWN
@@ -4710,7 +4710,7 @@ hybridUseBenefits:
 images:
   path: Microsoft.ApiManagement/images
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/images
   architecture review:
     type: UNKNOWN
@@ -4727,7 +4727,7 @@ images:
 incidents:
   path: Microsoft.ApiManagement/incidents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/incidents
   architecture review:
     type: UNKNOWN
@@ -4744,7 +4744,7 @@ incidents:
 instancePools:
   path: Microsoft.ApiManagement/instancePools
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/instancePools
   architecture review:
     type: UNKNOWN
@@ -4761,7 +4761,7 @@ instancePools:
 integrationAccounts:
   path: Microsoft.ApiManagement/integrationAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/integrationAccounts
   architecture review:
     type: UNKNOWN
@@ -4778,7 +4778,7 @@ integrationAccounts:
 integrationServiceEnvironments:
   path: Microsoft.ApiManagement/integrationServiceEnvironments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/integrationServiceEnvironments
   architecture review:
     type: UNKNOWN
@@ -4795,7 +4795,7 @@ integrationServiceEnvironments:
 internalNotify:
   path: Microsoft.ApiManagement/internalNotify
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/internalNotify
   architecture review:
     type: UNKNOWN
@@ -4812,7 +4812,7 @@ internalNotify:
 invoices:
   path: Microsoft.ApiManagement/invoices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/invoices
   architecture review:
     type: UNKNOWN
@@ -4829,7 +4829,7 @@ invoices:
 iotSecuritySolutions:
   path: Microsoft.ApiManagement/iotSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/iotSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4846,7 +4846,7 @@ iotSecuritySolutions:
 ipGroups:
   path: Microsoft.ApiManagement/ipGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ipGroups
   architecture review:
     type: UNKNOWN
@@ -4863,7 +4863,7 @@ ipGroups:
 ishostingenvironmentnameavailable:
   path: Microsoft.ApiManagement/ishostingenvironmentnameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ishostingenvironmentnameavailable
   architecture review:
     type: UNKNOWN
@@ -4880,7 +4880,7 @@ ishostingenvironmentnameavailable:
 ishostnameavailable:
   path: Microsoft.ApiManagement/ishostnameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/ishostnameavailable
   architecture review:
     type: UNKNOWN
@@ -4897,7 +4897,7 @@ ishostnameavailable:
 isusernameavailable:
   path: Microsoft.ApiManagement/isusernameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/isusernameavailable
   architecture review:
     type: UNKNOWN
@@ -4914,7 +4914,7 @@ isusernameavailable:
 jitNetworkAccessPolicies:
   path: Microsoft.ApiManagement/jitNetworkAccessPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/jitNetworkAccessPolicies
   architecture review:
     type: UNKNOWN
@@ -4931,7 +4931,7 @@ jitNetworkAccessPolicies:
 jitRequests:
   path: Microsoft.ApiManagement/jitRequests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/jitRequests
   architecture review:
     type: UNKNOWN
@@ -4948,7 +4948,7 @@ jitRequests:
 jobcollections:
   path: Microsoft.ApiManagement/jobcollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/jobcollections
   architecture review:
     type: UNKNOWN
@@ -4965,7 +4965,7 @@ jobcollections:
 jobs:
   path: Microsoft.ApiManagement/jobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/jobs
   architecture review:
     type: UNKNOWN
@@ -4982,7 +4982,7 @@ jobs:
 labAccounts:
   path: Microsoft.ApiManagement/labAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/labAccounts
   architecture review:
     type: UNKNOWN
@@ -4999,7 +4999,7 @@ labAccounts:
 labaccounts:
   path: Microsoft.ApiManagement/labaccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/labaccounts
   architecture review:
     type: UNKNOWN
@@ -5016,7 +5016,7 @@ labaccounts:
 labs:
   path: Microsoft.ApiManagement/labs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/labs
   architecture review:
     type: UNKNOWN
@@ -5033,7 +5033,7 @@ labs:
 legacyPeerings:
   path: Microsoft.ApiManagement/legacyPeerings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/legacyPeerings
   architecture review:
     type: UNKNOWN
@@ -5050,7 +5050,7 @@ legacyPeerings:
 linkTargets:
   path: Microsoft.ApiManagement/linkTargets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/linkTargets
   architecture review:
     type: UNKNOWN
@@ -5067,7 +5067,7 @@ linkTargets:
 links:
   path: Microsoft.ApiManagement/links
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/links
   architecture review:
     type: UNKNOWN
@@ -5084,7 +5084,7 @@ links:
 listAuthServiceProviders:
   path: Microsoft.ApiManagement/listAuthServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/listAuthServiceProviders
   architecture review:
     type: UNKNOWN
@@ -5101,7 +5101,7 @@ listAuthServiceProviders:
 listAvailableOffers:
   path: Microsoft.ApiManagement/listAvailableOffers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/listAvailableOffers
   architecture review:
     type: UNKNOWN
@@ -5118,7 +5118,7 @@ listAvailableOffers:
 listBenefits:
   path: Microsoft.ApiManagement/listBenefits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/listBenefits
   architecture review:
     type: UNKNOWN
@@ -5135,7 +5135,7 @@ listBenefits:
 listCommunicationPreference:
   path: Microsoft.ApiManagement/listCommunicationPreference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/listCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -5152,7 +5152,7 @@ listCommunicationPreference:
 listDomainRecommendations:
   path: Microsoft.ApiManagement/listDomainRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/listDomainRecommendations
   architecture review:
     type: UNKNOWN
@@ -5169,7 +5169,7 @@ listDomainRecommendations:
 listMigrationdate:
   path: Microsoft.ApiManagement/listMigrationdate
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/listMigrationdate
   architecture review:
     type: UNKNOWN
@@ -5186,7 +5186,7 @@ listMigrationdate:
 listSitesAssignedToHostName:
   path: Microsoft.ApiManagement/listSitesAssignedToHostName
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/listSitesAssignedToHostName
   architecture review:
     type: UNKNOWN
@@ -5203,7 +5203,7 @@ listSitesAssignedToHostName:
 listinvitations:
   path: Microsoft.ApiManagement/listinvitations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/listinvitations
   architecture review:
     type: UNKNOWN
@@ -5220,7 +5220,7 @@ listinvitations:
 loadBalancers:
   path: Microsoft.ApiManagement/loadBalancers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/loadBalancers
   architecture review:
     type: UNKNOWN
@@ -5237,7 +5237,7 @@ loadBalancers:
 localNetworkGateways:
   path: Microsoft.ApiManagement/localNetworkGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/localNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -5254,7 +5254,7 @@ localNetworkGateways:
 locations:
   path: Microsoft.ApiManagement/locations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/locations
   architecture review:
     type: UNKNOWN
@@ -5271,7 +5271,7 @@ locations:
 locks:
   path: Microsoft.ApiManagement/locks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/locks
   architecture review:
     type: UNKNOWN
@@ -5288,7 +5288,7 @@ locks:
 logDefinitions:
   path: Microsoft.ApiManagement/logDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/logDefinitions
   architecture review:
     type: UNKNOWN
@@ -5305,7 +5305,7 @@ logDefinitions:
 logprofiles:
   path: Microsoft.ApiManagement/logprofiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/logprofiles
   architecture review:
     type: UNKNOWN
@@ -5322,7 +5322,7 @@ logprofiles:
 logs:
   path: Microsoft.ApiManagement/logs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/logs
   architecture review:
     type: UNKNOWN
@@ -5339,7 +5339,7 @@ logs:
 lots:
   path: Microsoft.ApiManagement/lots
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/lots
   architecture review:
     type: UNKNOWN
@@ -5356,7 +5356,7 @@ lots:
 machines:
   path: Microsoft.ApiManagement/machines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/machines
   architecture review:
     type: UNKNOWN
@@ -5373,7 +5373,7 @@ machines:
 maintenanceConfigurations:
   path: Microsoft.ApiManagement/maintenanceConfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/maintenanceConfigurations
   architecture review:
     type: UNKNOWN
@@ -5390,7 +5390,7 @@ maintenanceConfigurations:
 managedClusters:
   path: Microsoft.ApiManagement/managedClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/managedClusters
   architecture review:
     type: UNKNOWN
@@ -5407,7 +5407,7 @@ managedClusters:
 managedInstances:
   path: Microsoft.ApiManagement/managedInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/managedInstances
   architecture review:
     type: UNKNOWN
@@ -5424,7 +5424,7 @@ managedInstances:
 managementGroups:
   path: Microsoft.ApiManagement/managementGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/managementGroups
   architecture review:
     type: UNKNOWN
@@ -5441,7 +5441,7 @@ managementGroups:
 managementassociations:
   path: Microsoft.ApiManagement/managementassociations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/managementassociations
   architecture review:
     type: UNKNOWN
@@ -5458,7 +5458,7 @@ managementassociations:
 managementconfigurations:
   path: Microsoft.ApiManagement/managementconfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/managementconfigurations
   architecture review:
     type: UNKNOWN
@@ -5475,7 +5475,7 @@ managementconfigurations:
 managers:
   path: Microsoft.ApiManagement/managers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/managers
   architecture review:
     type: UNKNOWN
@@ -5492,7 +5492,7 @@ managers:
 mapApis:
   path: Microsoft.ApiManagement/mapApis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/mapApis
   architecture review:
     type: UNKNOWN
@@ -5509,7 +5509,7 @@ mapApis:
 marketplaceRegistrationDefinitions:
   path: Microsoft.ApiManagement/marketplaceRegistrationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/marketplaceRegistrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -5526,7 +5526,7 @@ marketplaceRegistrationDefinitions:
 mediaservices:
   path: Microsoft.ApiManagement/mediaservices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/mediaservices
   architecture review:
     type: UNKNOWN
@@ -5543,7 +5543,7 @@ mediaservices:
 metadata:
   path: Microsoft.ApiManagement/metadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/metadata
   architecture review:
     type: UNKNOWN
@@ -5560,7 +5560,7 @@ metadata:
 metricDefinitions:
   path: Microsoft.ApiManagement/metricDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/metricDefinitions
   architecture review:
     type: UNKNOWN
@@ -5577,7 +5577,7 @@ metricDefinitions:
 metricNamespaces:
   path: Microsoft.ApiManagement/metricNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/metricNamespaces
   architecture review:
     type: UNKNOWN
@@ -5594,7 +5594,7 @@ metricNamespaces:
 metricalerts:
   path: Microsoft.ApiManagement/metricalerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/metricalerts
   architecture review:
     type: UNKNOWN
@@ -5611,7 +5611,7 @@ metricalerts:
 metricbaselines:
   path: Microsoft.ApiManagement/metricbaselines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/metricbaselines
   architecture review:
     type: UNKNOWN
@@ -5628,7 +5628,7 @@ metricbaselines:
 metricbatch:
   path: Microsoft.ApiManagement/metricbatch
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/metricbatch
   architecture review:
     type: UNKNOWN
@@ -5645,7 +5645,7 @@ metricbatch:
 metrics:
   path: Microsoft.ApiManagement/metrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/metrics
   architecture review:
     type: UNKNOWN
@@ -5662,7 +5662,7 @@ metrics:
 migrateToNewPricingModel:
   path: Microsoft.ApiManagement/migrateToNewPricingModel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/migrateToNewPricingModel
   architecture review:
     type: UNKNOWN
@@ -5679,7 +5679,7 @@ migrateToNewPricingModel:
 migratealertrules:
   path: Microsoft.ApiManagement/migratealertrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/migratealertrules
   architecture review:
     type: UNKNOWN
@@ -5696,7 +5696,7 @@ migratealertrules:
 migrateprojects:
   path: Microsoft.ApiManagement/migrateprojects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/migrateprojects
   architecture review:
     type: UNKNOWN
@@ -5713,7 +5713,7 @@ migrateprojects:
 monitorInstances:
   path: Microsoft.ApiManagement/monitorInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/monitorInstances
   architecture review:
     type: UNKNOWN
@@ -5730,7 +5730,7 @@ monitorInstances:
 monitorInstancesSummary:
   path: Microsoft.ApiManagement/monitorInstancesSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/monitorInstancesSummary
   architecture review:
     type: UNKNOWN
@@ -5747,7 +5747,7 @@ monitorInstancesSummary:
 monitors:
   path: Microsoft.ApiManagement/monitors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/monitors
   architecture review:
     type: UNKNOWN
@@ -5764,7 +5764,7 @@ monitors:
 moveSubscriptionResources:
   path: Microsoft.ApiManagement/moveSubscriptionResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/moveSubscriptionResources
   architecture review:
     type: UNKNOWN
@@ -5781,7 +5781,7 @@ moveSubscriptionResources:
 myWorkbooks:
   path: Microsoft.ApiManagement/myWorkbooks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/myWorkbooks
   architecture review:
     type: UNKNOWN
@@ -5798,7 +5798,7 @@ myWorkbooks:
 namespaces:
   path: Microsoft.ApiManagement/namespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/namespaces
   architecture review:
     type: UNKNOWN
@@ -5815,7 +5815,7 @@ namespaces:
 natGateways:
   path: Microsoft.ApiManagement/natGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/natGateways
   architecture review:
     type: UNKNOWN
@@ -5832,7 +5832,7 @@ natGateways:
 networkExperimentProfiles:
   path: Microsoft.ApiManagement/networkExperimentProfiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/networkExperimentProfiles
   architecture review:
     type: UNKNOWN
@@ -5849,7 +5849,7 @@ networkExperimentProfiles:
 networkIntentPolicies:
   path: Microsoft.ApiManagement/networkIntentPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/networkIntentPolicies
   architecture review:
     type: UNKNOWN
@@ -5866,7 +5866,7 @@ networkIntentPolicies:
 networkInterfaces:
   path: Microsoft.ApiManagement/networkInterfaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/networkInterfaces
   architecture review:
     type: UNKNOWN
@@ -5883,7 +5883,7 @@ networkInterfaces:
 networkProfiles:
   path: Microsoft.ApiManagement/networkProfiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/networkProfiles
   architecture review:
     type: UNKNOWN
@@ -5900,7 +5900,7 @@ networkProfiles:
 networkSecurityGroups:
   path: Microsoft.ApiManagement/networkSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/networkSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -5917,7 +5917,7 @@ networkSecurityGroups:
 networkWatchers:
   path: Microsoft.ApiManagement/networkWatchers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/networkWatchers
   architecture review:
     type: UNKNOWN
@@ -5934,7 +5934,7 @@ networkWatchers:
 networks:
   path: Microsoft.ApiManagement/networks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/networks
   architecture review:
     type: UNKNOWN
@@ -5951,7 +5951,7 @@ networks:
 notificationSettings:
   path: Microsoft.ApiManagement/notificationSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/notificationSettings
   architecture review:
     type: UNKNOWN
@@ -5968,7 +5968,7 @@ notificationSettings:
 notifications:
   path: Microsoft.ApiManagement/notifications
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/notifications
   architecture review:
     type: UNKNOWN
@@ -5985,7 +5985,7 @@ notifications:
 notifyResourceJobs:
   path: Microsoft.ApiManagement/notifyResourceJobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/notifyResourceJobs
   architecture review:
     type: UNKNOWN
@@ -6002,7 +6002,7 @@ notifyResourceJobs:
 offerTypes:
   path: Microsoft.ApiManagement/offerTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/offerTypes
   architecture review:
     type: UNKNOWN
@@ -6019,7 +6019,7 @@ offerTypes:
 offers:
   path: Microsoft.ApiManagement/offers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/offers
   architecture review:
     type: UNKNOWN
@@ -6036,7 +6036,7 @@ offers:
 offertypes:
   path: Microsoft.ApiManagement/offertypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/offertypes
   architecture review:
     type: UNKNOWN
@@ -6053,7 +6053,7 @@ offertypes:
 officeConsents:
   path: Microsoft.ApiManagement/officeConsents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/officeConsents
   architecture review:
     type: UNKNOWN
@@ -6070,7 +6070,7 @@ officeConsents:
 openShiftManagedClusters:
   path: Microsoft.ApiManagement/openShiftManagedClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/openShiftManagedClusters
   architecture review:
     type: UNKNOWN
@@ -6087,7 +6087,7 @@ openShiftManagedClusters:
 operatingSystemFamilies:
   path: Microsoft.ApiManagement/operatingSystemFamilies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/operatingSystemFamilies
   architecture review:
     type: UNKNOWN
@@ -6104,7 +6104,7 @@ operatingSystemFamilies:
 operatingSystems:
   path: Microsoft.ApiManagement/operatingSystems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/operatingSystems
   architecture review:
     type: UNKNOWN
@@ -6121,7 +6121,7 @@ operatingSystems:
 operationResults:
   path: Microsoft.ApiManagement/operationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/operationResults
   architecture review:
     type: UNKNOWN
@@ -6138,7 +6138,7 @@ operationResults:
 operationStatus:
   path: Microsoft.ApiManagement/operationStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/operationStatus
   architecture review:
     type: UNKNOWN
@@ -6155,7 +6155,7 @@ operationStatus:
 operationStatuses:
   path: Microsoft.ApiManagement/operationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/operationStatuses
   architecture review:
     type: UNKNOWN
@@ -6172,7 +6172,7 @@ operationStatuses:
 operationresults:
   path: Microsoft.ApiManagement/operationresults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/operationresults
   architecture review:
     type: UNKNOWN
@@ -6189,7 +6189,7 @@ operationresults:
 operations:
   path: Microsoft.ApiManagement/operations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/operations
   architecture review:
     type: UNKNOWN
@@ -6206,7 +6206,7 @@ operations:
 operationsStatus:
   path: Microsoft.ApiManagement/operationsStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/operationsStatus
   architecture review:
     type: UNKNOWN
@@ -6223,7 +6223,7 @@ operationsStatus:
 operationsstatus:
   path: Microsoft.ApiManagement/operationsstatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/operationsstatus
   architecture review:
     type: UNKNOWN
@@ -6240,7 +6240,7 @@ operationsstatus:
 osImages:
   path: Microsoft.ApiManagement/osImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/osImages
   architecture review:
     type: UNKNOWN
@@ -6257,7 +6257,7 @@ osImages:
 osNamespaces:
   path: Microsoft.ApiManagement/osNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/osNamespaces
   architecture review:
     type: UNKNOWN
@@ -6274,7 +6274,7 @@ osNamespaces:
 osPlatformImages:
   path: Microsoft.ApiManagement/osPlatformImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/osPlatformImages
   architecture review:
     type: UNKNOWN
@@ -6291,7 +6291,7 @@ osPlatformImages:
 p2sVpnGateways:
   path: Microsoft.ApiManagement/p2sVpnGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/p2sVpnGateways
   architecture review:
     type: UNKNOWN
@@ -6308,7 +6308,7 @@ p2sVpnGateways:
 partnerNamespaces:
   path: Microsoft.ApiManagement/partnerNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/partnerNamespaces
   architecture review:
     type: UNKNOWN
@@ -6325,7 +6325,7 @@ partnerNamespaces:
 partnerTopics:
   path: Microsoft.ApiManagement/partnerTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/partnerTopics
   architecture review:
     type: UNKNOWN
@@ -6342,7 +6342,7 @@ partnerTopics:
 peerAsns:
   path: Microsoft.ApiManagement/peerAsns
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/peerAsns
   architecture review:
     type: UNKNOWN
@@ -6359,7 +6359,7 @@ peerAsns:
 peeringLocations:
   path: Microsoft.ApiManagement/peeringLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/peeringLocations
   architecture review:
     type: UNKNOWN
@@ -6376,7 +6376,7 @@ peeringLocations:
 peeringServiceCountries:
   path: Microsoft.ApiManagement/peeringServiceCountries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/peeringServiceCountries
   architecture review:
     type: UNKNOWN
@@ -6393,7 +6393,7 @@ peeringServiceCountries:
 peeringServiceLocations:
   path: Microsoft.ApiManagement/peeringServiceLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/peeringServiceLocations
   architecture review:
     type: UNKNOWN
@@ -6410,7 +6410,7 @@ peeringServiceLocations:
 peeringServiceProviders:
   path: Microsoft.ApiManagement/peeringServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/peeringServiceProviders
   architecture review:
     type: UNKNOWN
@@ -6427,7 +6427,7 @@ peeringServiceProviders:
 peerings:
   path: Microsoft.ApiManagement/peerings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/peerings
   architecture review:
     type: UNKNOWN
@@ -6444,7 +6444,7 @@ peerings:
 permissions:
   path: Microsoft.ApiManagement/permissions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/permissions
   architecture review:
     type: UNKNOWN
@@ -6461,7 +6461,7 @@ permissions:
 pipelines:
   path: Microsoft.ApiManagement/pipelines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/pipelines
   architecture review:
     type: UNKNOWN
@@ -6478,7 +6478,7 @@ pipelines:
 placePurchaseOrder:
   path: Microsoft.ApiManagement/placePurchaseOrder
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/placePurchaseOrder
   architecture review:
     type: UNKNOWN
@@ -6495,7 +6495,7 @@ placePurchaseOrder:
 plans:
   path: Microsoft.ApiManagement/plans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/plans
   architecture review:
     type: UNKNOWN
@@ -6512,7 +6512,7 @@ plans:
 policies:
   path: Microsoft.ApiManagement/policies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/policies
   architecture review:
     type: UNKNOWN
@@ -6529,7 +6529,7 @@ policies:
 policyAssignments:
   path: Microsoft.ApiManagement/policyAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/policyAssignments
   architecture review:
     type: UNKNOWN
@@ -6546,7 +6546,7 @@ policyAssignments:
 policyDefinitions:
   path: Microsoft.ApiManagement/policyDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/policyDefinitions
   architecture review:
     type: UNKNOWN
@@ -6563,7 +6563,7 @@ policyDefinitions:
 policyEvents:
   path: Microsoft.ApiManagement/policyEvents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/policyEvents
   architecture review:
     type: UNKNOWN
@@ -6580,7 +6580,7 @@ policyEvents:
 policyMetadata:
   path: Microsoft.ApiManagement/policyMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/policyMetadata
   architecture review:
     type: UNKNOWN
@@ -6597,7 +6597,7 @@ policyMetadata:
 policySetDefinitions:
   path: Microsoft.ApiManagement/policySetDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/policySetDefinitions
   architecture review:
     type: UNKNOWN
@@ -6614,7 +6614,7 @@ policySetDefinitions:
 policyStates:
   path: Microsoft.ApiManagement/policyStates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/policyStates
   architecture review:
     type: UNKNOWN
@@ -6631,7 +6631,7 @@ policyStates:
 policyTrackedResources:
   path: Microsoft.ApiManagement/policyTrackedResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/policyTrackedResources
   architecture review:
     type: UNKNOWN
@@ -6648,7 +6648,7 @@ policyTrackedResources:
 premiumMessagingRegions:
   path: Microsoft.ApiManagement/premiumMessagingRegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/premiumMessagingRegions
   architecture review:
     type: UNKNOWN
@@ -6665,7 +6665,7 @@ premiumMessagingRegions:
 pricings:
   path: Microsoft.ApiManagement/pricings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/pricings
   architecture review:
     type: UNKNOWN
@@ -6682,7 +6682,7 @@ pricings:
 privateDnsOperationResults:
   path: Microsoft.ApiManagement/privateDnsOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/privateDnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -6699,7 +6699,7 @@ privateDnsOperationResults:
 privateDnsOperationStatuses:
   path: Microsoft.ApiManagement/privateDnsOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/privateDnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6716,7 +6716,7 @@ privateDnsOperationStatuses:
 privateDnsZones:
   path: Microsoft.ApiManagement/privateDnsZones
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/privateDnsZones
   architecture review:
     type: UNKNOWN
@@ -6733,7 +6733,7 @@ privateDnsZones:
 privateDnsZonesInternal:
   path: Microsoft.ApiManagement/privateDnsZonesInternal
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/privateDnsZonesInternal
   architecture review:
     type: UNKNOWN
@@ -6750,7 +6750,7 @@ privateDnsZonesInternal:
 privateEndpointRedirectMaps:
   path: Microsoft.ApiManagement/privateEndpointRedirectMaps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/privateEndpointRedirectMaps
   architecture review:
     type: UNKNOWN
@@ -6767,7 +6767,7 @@ privateEndpointRedirectMaps:
 privateEndpoints:
   path: Microsoft.ApiManagement/privateEndpoints
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/privateEndpoints
   architecture review:
     type: UNKNOWN
@@ -6784,7 +6784,7 @@ privateEndpoints:
 privateLinkScopeOperationStatuses:
   path: Microsoft.ApiManagement/privateLinkScopeOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/privateLinkScopeOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6801,7 +6801,7 @@ privateLinkScopeOperationStatuses:
 privateLinkScopes:
   path: Microsoft.ApiManagement/privateLinkScopes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/privateLinkScopes
   architecture review:
     type: UNKNOWN
@@ -6818,7 +6818,7 @@ privateLinkScopes:
 privateLinkServices:
   path: Microsoft.ApiManagement/privateLinkServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/privateLinkServices
   architecture review:
     type: UNKNOWN
@@ -6835,7 +6835,7 @@ privateLinkServices:
 privateStoreClient:
   path: Microsoft.ApiManagement/privateStoreClient
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/privateStoreClient
   architecture review:
     type: UNKNOWN
@@ -6852,7 +6852,7 @@ privateStoreClient:
 privateStores:
   path: Microsoft.ApiManagement/privateStores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/privateStores
   architecture review:
     type: UNKNOWN
@@ -6869,7 +6869,7 @@ privateStores:
 privategalleryitems:
   path: Microsoft.ApiManagement/privategalleryitems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/privategalleryitems
   architecture review:
     type: UNKNOWN
@@ -6886,7 +6886,7 @@ privategalleryitems:
 products:
   path: Microsoft.ApiManagement/products
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/products
   architecture review:
     type: UNKNOWN
@@ -6903,7 +6903,7 @@ products:
 profiles:
   path: Microsoft.ApiManagement/profiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/profiles
   architecture review:
     type: UNKNOWN
@@ -6920,7 +6920,7 @@ profiles:
 projects:
   path: Microsoft.ApiManagement/projects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/projects
   architecture review:
     type: UNKNOWN
@@ -6937,7 +6937,7 @@ projects:
 providerOperations:
   path: Microsoft.ApiManagement/providerOperations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/providerOperations
   architecture review:
     type: UNKNOWN
@@ -6954,7 +6954,7 @@ providerOperations:
 providerRegistrations:
   path: Microsoft.ApiManagement/providerRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/providerRegistrations
   architecture review:
     type: UNKNOWN
@@ -6971,7 +6971,7 @@ providerRegistrations:
 providers:
   path: Microsoft.ApiManagement/providers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/providers
   architecture review:
     type: UNKNOWN
@@ -6988,7 +6988,7 @@ providers:
 proximityPlacementGroups:
   path: Microsoft.ApiManagement/proximityPlacementGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/proximityPlacementGroups
   architecture review:
     type: UNKNOWN
@@ -7005,7 +7005,7 @@ proximityPlacementGroups:
 publicIPAddresses:
   path: Microsoft.ApiManagement/publicIPAddresses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/publicIPAddresses
   architecture review:
     type: UNKNOWN
@@ -7022,7 +7022,7 @@ publicIPAddresses:
 publicIPPrefixes:
   path: Microsoft.ApiManagement/publicIPPrefixes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/publicIPPrefixes
   architecture review:
     type: UNKNOWN
@@ -7039,7 +7039,7 @@ publicIPPrefixes:
 publicImages:
   path: Microsoft.ApiManagement/publicImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/publicImages
   architecture review:
     type: UNKNOWN
@@ -7056,7 +7056,7 @@ publicImages:
 publishers:
   path: Microsoft.ApiManagement/publishers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/publishers
   architecture review:
     type: UNKNOWN
@@ -7073,7 +7073,7 @@ publishers:
 publishingUsers:
   path: Microsoft.ApiManagement/publishingUsers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/publishingUsers
   architecture review:
     type: UNKNOWN
@@ -7090,7 +7090,7 @@ publishingUsers:
 queries:
   path: Microsoft.ApiManagement/queries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/queries
   architecture review:
     type: UNKNOWN
@@ -7107,7 +7107,7 @@ queries:
 quotas:
   path: Microsoft.ApiManagement/quotas
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/quotas
   architecture review:
     type: UNKNOWN
@@ -7124,7 +7124,7 @@ quotas:
 recommendations:
   path: Microsoft.ApiManagement/recommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/recommendations
   architecture review:
     type: UNKNOWN
@@ -7141,7 +7141,7 @@ recommendations:
 redis:
   path: Microsoft.ApiManagement/redis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/redis
   architecture review:
     type: UNKNOWN
@@ -7158,7 +7158,7 @@ redis:
 register:
   path: Microsoft.ApiManagement/register
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/register
   architecture review:
     type: UNKNOWN
@@ -7175,7 +7175,7 @@ register:
 registrationAssignments:
   path: Microsoft.ApiManagement/registrationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/registrationAssignments
   architecture review:
     type: UNKNOWN
@@ -7192,7 +7192,7 @@ registrationAssignments:
 registrationDefinitions:
   path: Microsoft.ApiManagement/registrationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/registrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -7209,7 +7209,7 @@ registrationDefinitions:
 registrations:
   path: Microsoft.ApiManagement/registrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/registrations
   architecture review:
     type: UNKNOWN
@@ -7226,7 +7226,7 @@ registrations:
 registries:
   path: Microsoft.ApiManagement/registries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/registries
   architecture review:
     type: UNKNOWN
@@ -7243,7 +7243,7 @@ registries:
 regulatoryComplianceStandards:
   path: Microsoft.ApiManagement/regulatoryComplianceStandards
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/regulatoryComplianceStandards
   architecture review:
     type: UNKNOWN
@@ -7260,7 +7260,7 @@ regulatoryComplianceStandards:
 remediations:
   path: Microsoft.ApiManagement/remediations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/remediations
   architecture review:
     type: UNKNOWN
@@ -7277,7 +7277,7 @@ remediations:
 rename:
   path: Microsoft.ApiManagement/rename
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/rename
   architecture review:
     type: UNKNOWN
@@ -7294,7 +7294,7 @@ rename:
 replicationEligibilityResults:
   path: Microsoft.ApiManagement/replicationEligibilityResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/replicationEligibilityResults
   architecture review:
     type: UNKNOWN
@@ -7311,7 +7311,7 @@ replicationEligibilityResults:
 reportFeedback:
   path: Microsoft.ApiManagement/reportFeedback
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/reportFeedback
   architecture review:
     type: UNKNOWN
@@ -7328,7 +7328,7 @@ reportFeedback:
 reports:
   path: Microsoft.ApiManagement/reports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/reports
   architecture review:
     type: UNKNOWN
@@ -7345,7 +7345,7 @@ reports:
 requests:
   path: Microsoft.ApiManagement/requests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/requests
   architecture review:
     type: UNKNOWN
@@ -7362,7 +7362,7 @@ requests:
 reservationOrders:
   path: Microsoft.ApiManagement/reservationOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/reservationOrders
   architecture review:
     type: UNKNOWN
@@ -7379,7 +7379,7 @@ reservationOrders:
 reservations:
   path: Microsoft.ApiManagement/reservations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/reservations
   architecture review:
     type: UNKNOWN
@@ -7396,7 +7396,7 @@ reservations:
 reservedIps:
   path: Microsoft.ApiManagement/reservedIps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/reservedIps
   architecture review:
     type: UNKNOWN
@@ -7413,7 +7413,7 @@ reservedIps:
 resourceChangeDetails:
   path: Microsoft.ApiManagement/resourceChangeDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/resourceChangeDetails
   architecture review:
     type: UNKNOWN
@@ -7430,7 +7430,7 @@ resourceChangeDetails:
 resourceChanges:
   path: Microsoft.ApiManagement/resourceChanges
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/resourceChanges
   architecture review:
     type: UNKNOWN
@@ -7447,7 +7447,7 @@ resourceChanges:
 resourceGroups:
   path: Microsoft.ApiManagement/resourceGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/resourceGroups
   architecture review:
     type: UNKNOWN
@@ -7464,7 +7464,7 @@ resourceGroups:
 resourceHealthMetadata:
   path: Microsoft.ApiManagement/resourceHealthMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/resourceHealthMetadata
   architecture review:
     type: UNKNOWN
@@ -7481,7 +7481,7 @@ resourceHealthMetadata:
 resourceProviders:
   path: Microsoft.ApiManagement/resourceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/resourceProviders
   architecture review:
     type: UNKNOWN
@@ -7498,7 +7498,7 @@ resourceProviders:
 resourceTypes:
   path: Microsoft.ApiManagement/resourceTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/resourceTypes
   architecture review:
     type: UNKNOWN
@@ -7515,7 +7515,7 @@ resourceTypes:
 resources:
   path: Microsoft.ApiManagement/resources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/resources
   architecture review:
     type: UNKNOWN
@@ -7532,7 +7532,7 @@ resources:
 resourcesHistory:
   path: Microsoft.ApiManagement/resourcesHistory
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/resourcesHistory
   architecture review:
     type: UNKNOWN
@@ -7549,7 +7549,7 @@ resourcesHistory:
 restorePointCollections:
   path: Microsoft.ApiManagement/restorePointCollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/restorePointCollections
   architecture review:
     type: UNKNOWN
@@ -7566,7 +7566,7 @@ restorePointCollections:
 roleAssignments:
   path: Microsoft.ApiManagement/roleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/roleAssignments
   architecture review:
     type: UNKNOWN
@@ -7583,7 +7583,7 @@ roleAssignments:
 roleAssignmentsUsageMetrics:
   path: Microsoft.ApiManagement/roleAssignmentsUsageMetrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/roleAssignmentsUsageMetrics
   architecture review:
     type: UNKNOWN
@@ -7600,7 +7600,7 @@ roleAssignmentsUsageMetrics:
 roleDefinitions:
   path: Microsoft.ApiManagement/roleDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/roleDefinitions
   architecture review:
     type: UNKNOWN
@@ -7617,7 +7617,7 @@ roleDefinitions:
 rollbackToLegacyPricingModel:
   path: Microsoft.ApiManagement/rollbackToLegacyPricingModel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/rollbackToLegacyPricingModel
   architecture review:
     type: UNKNOWN
@@ -7634,7 +7634,7 @@ rollbackToLegacyPricingModel:
 rollouts:
   path: Microsoft.ApiManagement/rollouts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/rollouts
   architecture review:
     type: UNKNOWN
@@ -7651,7 +7651,7 @@ rollouts:
 routeFilters:
   path: Microsoft.ApiManagement/routeFilters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/routeFilters
   architecture review:
     type: UNKNOWN
@@ -7668,7 +7668,7 @@ routeFilters:
 routeTables:
   path: Microsoft.ApiManagement/routeTables
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/routeTables
   architecture review:
     type: UNKNOWN
@@ -7685,7 +7685,7 @@ routeTables:
 runtimes:
   path: Microsoft.ApiManagement/runtimes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/runtimes
   architecture review:
     type: UNKNOWN
@@ -7702,7 +7702,7 @@ runtimes:
 saasresources:
   path: Microsoft.ApiManagement/saasresources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/saasresources
   architecture review:
     type: UNKNOWN
@@ -7719,7 +7719,7 @@ saasresources:
 sapMonitors:
   path: Microsoft.ApiManagement/sapMonitors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/sapMonitors
   architecture review:
     type: UNKNOWN
@@ -7736,7 +7736,7 @@ sapMonitors:
 scheduledqueryrules:
   path: Microsoft.ApiManagement/scheduledqueryrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/scheduledqueryrules
   architecture review:
     type: UNKNOWN
@@ -7753,7 +7753,7 @@ scheduledqueryrules:
 schedules:
   path: Microsoft.ApiManagement/schedules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/schedules
   architecture review:
     type: UNKNOWN
@@ -7770,7 +7770,7 @@ schedules:
 searchServices:
   path: Microsoft.ApiManagement/searchServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/searchServices
   architecture review:
     type: UNKNOWN
@@ -7787,7 +7787,7 @@ searchServices:
 secrets:
   path: Microsoft.ApiManagement/secrets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/secrets
   architecture review:
     type: UNKNOWN
@@ -7804,7 +7804,7 @@ secrets:
 securityContacts:
   path: Microsoft.ApiManagement/securityContacts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/securityContacts
   architecture review:
     type: UNKNOWN
@@ -7821,7 +7821,7 @@ securityContacts:
 securitySolutions:
   path: Microsoft.ApiManagement/securitySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/securitySolutions
   architecture review:
     type: UNKNOWN
@@ -7838,7 +7838,7 @@ securitySolutions:
 securitySolutionsReferenceData:
   path: Microsoft.ApiManagement/securitySolutionsReferenceData
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/securitySolutionsReferenceData
   architecture review:
     type: UNKNOWN
@@ -7855,7 +7855,7 @@ securitySolutionsReferenceData:
 securityStatuses:
   path: Microsoft.ApiManagement/securityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/securityStatuses
   architecture review:
     type: UNKNOWN
@@ -7872,7 +7872,7 @@ securityStatuses:
 securityStatusesSummaries:
   path: Microsoft.ApiManagement/securityStatusesSummaries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/securityStatusesSummaries
   architecture review:
     type: UNKNOWN
@@ -7889,7 +7889,7 @@ securityStatusesSummaries:
 serverFarms:
   path: Microsoft.ApiManagement/serverFarms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/serverFarms
   architecture review:
     type: UNKNOWN
@@ -7906,7 +7906,7 @@ serverFarms:
 serverGroups:
   path: Microsoft.ApiManagement/serverGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/serverGroups
   architecture review:
     type: UNKNOWN
@@ -7923,7 +7923,7 @@ serverGroups:
 serverVulnerabilityAssessments:
   path: Microsoft.ApiManagement/serverVulnerabilityAssessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/serverVulnerabilityAssessments
   architecture review:
     type: UNKNOWN
@@ -7940,7 +7940,7 @@ serverVulnerabilityAssessments:
 serverfarms:
   path: Microsoft.ApiManagement/serverfarms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/serverfarms
   architecture review:
     type: UNKNOWN
@@ -7957,7 +7957,7 @@ serverfarms:
 servers:
   path: Microsoft.ApiManagement/servers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/servers
   architecture review:
     type: UNKNOWN
@@ -7974,7 +7974,7 @@ servers:
 serversv2:
   path: Microsoft.ApiManagement/serversv2
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/serversv2
   architecture review:
     type: UNKNOWN
@@ -7991,7 +7991,7 @@ serversv2:
 service:
   path: Microsoft.ApiManagement/service
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/service
   architecture review:
     type: UNKNOWN
@@ -8008,7 +8008,7 @@ service:
 serviceAssociationLinks:
   path: Microsoft.ApiManagement/serviceAssociationLinks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/serviceAssociationLinks
   architecture review:
     type: UNKNOWN
@@ -8025,7 +8025,7 @@ serviceAssociationLinks:
 serviceEndpointPolicies:
   path: Microsoft.ApiManagement/serviceEndpointPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/serviceEndpointPolicies
   architecture review:
     type: UNKNOWN
@@ -8042,7 +8042,7 @@ serviceEndpointPolicies:
 serviceTopologies:
   path: Microsoft.ApiManagement/serviceTopologies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/serviceTopologies
   architecture review:
     type: UNKNOWN
@@ -8059,7 +8059,7 @@ serviceTopologies:
 servicehealthmetrics:
   path: Microsoft.ApiManagement/servicehealthmetrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/servicehealthmetrics
   architecture review:
     type: UNKNOWN
@@ -8076,7 +8076,7 @@ servicehealthmetrics:
 services:
   path: Microsoft.ApiManagement/services
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/services
   architecture review:
     type: UNKNOWN
@@ -8093,7 +8093,7 @@ services:
 settings:
   path: Microsoft.ApiManagement/settings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/settings
   architecture review:
     type: UNKNOWN
@@ -8110,7 +8110,7 @@ settings:
 sharedVMImages:
   path: Microsoft.ApiManagement/sharedVMImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/sharedVMImages
   architecture review:
     type: UNKNOWN
@@ -8127,7 +8127,7 @@ sharedVMImages:
 showbackRules:
   path: Microsoft.ApiManagement/showbackRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/showbackRules
   architecture review:
     type: UNKNOWN
@@ -8144,7 +8144,7 @@ showbackRules:
 singleServers:
   path: Microsoft.ApiManagement/singleServers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/singleServers
   architecture review:
     type: UNKNOWN
@@ -8161,7 +8161,7 @@ singleServers:
 sites:
   path: Microsoft.ApiManagement/sites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/sites
   architecture review:
     type: UNKNOWN
@@ -8178,7 +8178,7 @@ sites:
 sku:
   path: Microsoft.ApiManagement/sku
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/sku
   architecture review:
     type: UNKNOWN
@@ -8195,7 +8195,7 @@ sku:
 smartDetectorAlertRules:
   path: Microsoft.ApiManagement/smartDetectorAlertRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/smartDetectorAlertRules
   architecture review:
     type: UNKNOWN
@@ -8212,7 +8212,7 @@ smartDetectorAlertRules:
 smartGroups:
   path: Microsoft.ApiManagement/smartGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/smartGroups
   architecture review:
     type: UNKNOWN
@@ -8229,7 +8229,7 @@ smartGroups:
 snapshots:
   path: Microsoft.ApiManagement/snapshots
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/snapshots
   architecture review:
     type: UNKNOWN
@@ -8246,7 +8246,7 @@ snapshots:
 software:
   path: Microsoft.ApiManagement/software
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/software
   architecture review:
     type: UNKNOWN
@@ -8263,7 +8263,7 @@ software:
 softwareUpdateProfile:
   path: Microsoft.ApiManagement/softwareUpdateProfile
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/softwareUpdateProfile
   architecture review:
     type: UNKNOWN
@@ -8280,7 +8280,7 @@ softwareUpdateProfile:
 softwareUpdates:
   path: Microsoft.ApiManagement/softwareUpdates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/softwareUpdates
   architecture review:
     type: UNKNOWN
@@ -8297,7 +8297,7 @@ softwareUpdates:
 solutions:
   path: Microsoft.ApiManagement/solutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/solutions
   architecture review:
     type: UNKNOWN
@@ -8314,7 +8314,7 @@ solutions:
 sourceControls:
   path: Microsoft.ApiManagement/sourceControls
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/sourceControls
   architecture review:
     type: UNKNOWN
@@ -8331,7 +8331,7 @@ sourceControls:
 spatialAnchorsAccounts:
   path: Microsoft.ApiManagement/spatialAnchorsAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/spatialAnchorsAccounts
   architecture review:
     type: UNKNOWN
@@ -8348,7 +8348,7 @@ spatialAnchorsAccounts:
 sqlServerRegistrations:
   path: Microsoft.ApiManagement/sqlServerRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/sqlServerRegistrations
   architecture review:
     type: UNKNOWN
@@ -8365,7 +8365,7 @@ sqlServerRegistrations:
 sshPublicKeys:
   path: Microsoft.ApiManagement/sshPublicKeys
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/sshPublicKeys
   architecture review:
     type: UNKNOWN
@@ -8382,7 +8382,7 @@ sshPublicKeys:
 startTenantBackfill:
   path: Microsoft.ApiManagement/startTenantBackfill
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/startTenantBackfill
   architecture review:
     type: UNKNOWN
@@ -8399,7 +8399,7 @@ startTenantBackfill:
 steps:
   path: Microsoft.ApiManagement/steps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/steps
   architecture review:
     type: UNKNOWN
@@ -8416,7 +8416,7 @@ steps:
 storageAccounts:
   path: Microsoft.ApiManagement/storageAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/storageAccounts
   architecture review:
     type: UNKNOWN
@@ -8433,7 +8433,7 @@ storageAccounts:
 storageInsightConfigs:
   path: Microsoft.ApiManagement/storageInsightConfigs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/storageInsightConfigs
   architecture review:
     type: UNKNOWN
@@ -8450,7 +8450,7 @@ storageInsightConfigs:
 storageSyncServices:
   path: Microsoft.ApiManagement/storageSyncServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/storageSyncServices
   architecture review:
     type: UNKNOWN
@@ -8467,7 +8467,7 @@ storageSyncServices:
 stores:
   path: Microsoft.ApiManagement/stores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/stores
   architecture review:
     type: UNKNOWN
@@ -8484,7 +8484,7 @@ stores:
 streamingjobs:
   path: Microsoft.ApiManagement/streamingjobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/streamingjobs
   architecture review:
     type: UNKNOWN
@@ -8501,7 +8501,7 @@ streamingjobs:
 subAssessments:
   path: Microsoft.ApiManagement/subAssessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/subAssessments
   architecture review:
     type: UNKNOWN
@@ -8518,7 +8518,7 @@ subAssessments:
 subscriptionFeatureRegistrations:
   path: Microsoft.ApiManagement/subscriptionFeatureRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/subscriptionFeatureRegistrations
   architecture review:
     type: UNKNOWN
@@ -8535,7 +8535,7 @@ subscriptionFeatureRegistrations:
 subscriptions:
   path: Microsoft.ApiManagement/subscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/subscriptions
   architecture review:
     type: UNKNOWN
@@ -8552,7 +8552,7 @@ subscriptions:
 subscriptionsStatus:
   path: Microsoft.ApiManagement/subscriptionsStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/subscriptionsStatus
   architecture review:
     type: UNKNOWN
@@ -8569,7 +8569,7 @@ subscriptionsStatus:
 supportProviders:
   path: Microsoft.ApiManagement/supportProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/supportProviders
   architecture review:
     type: UNKNOWN
@@ -8586,7 +8586,7 @@ supportProviders:
 supporttickets:
   path: Microsoft.ApiManagement/supporttickets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/supporttickets
   architecture review:
     type: UNKNOWN
@@ -8603,7 +8603,7 @@ supporttickets:
 suppressions:
   path: Microsoft.ApiManagement/suppressions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/suppressions
   architecture review:
     type: UNKNOWN
@@ -8620,7 +8620,7 @@ suppressions:
 systemTopics:
   path: Microsoft.ApiManagement/systemTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/systemTopics
   architecture review:
     type: UNKNOWN
@@ -8637,7 +8637,7 @@ systemTopics:
 tags:
   path: Microsoft.ApiManagement/tags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/tags
   architecture review:
     type: UNKNOWN
@@ -8654,7 +8654,7 @@ tags:
 tasks:
   path: Microsoft.ApiManagement/tasks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/tasks
   architecture review:
     type: UNKNOWN
@@ -8671,7 +8671,7 @@ tasks:
 tenantBackfillStatus:
   path: Microsoft.ApiManagement/tenantBackfillStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/tenantBackfillStatus
   architecture review:
     type: UNKNOWN
@@ -8688,7 +8688,7 @@ tenantBackfillStatus:
 tenants:
   path: Microsoft.ApiManagement/tenants
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/tenants
   architecture review:
     type: UNKNOWN
@@ -8705,7 +8705,7 @@ tenants:
 topLevelDomains:
   path: Microsoft.ApiManagement/topLevelDomains
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/topLevelDomains
   architecture review:
     type: UNKNOWN
@@ -8722,7 +8722,7 @@ topLevelDomains:
 topicTypes:
   path: Microsoft.ApiManagement/topicTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/topicTypes
   architecture review:
     type: UNKNOWN
@@ -8739,7 +8739,7 @@ topicTypes:
 topics:
   path: Microsoft.ApiManagement/topics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/topics
   architecture review:
     type: UNKNOWN
@@ -8756,7 +8756,7 @@ topics:
 topologies:
   path: Microsoft.ApiManagement/topologies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/topologies
   architecture review:
     type: UNKNOWN
@@ -8773,7 +8773,7 @@ topologies:
 topology:
   path: Microsoft.ApiManagement/topology
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/topology
   architecture review:
     type: UNKNOWN
@@ -8790,7 +8790,7 @@ topology:
 trafficManagerGeographicHierarchies:
   path: Microsoft.ApiManagement/trafficManagerGeographicHierarchies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/trafficManagerGeographicHierarchies
   architecture review:
     type: UNKNOWN
@@ -8807,7 +8807,7 @@ trafficManagerGeographicHierarchies:
 trafficManagerUserMetricsKeys:
   path: Microsoft.ApiManagement/trafficManagerUserMetricsKeys
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/trafficManagerUserMetricsKeys
   architecture review:
     type: UNKNOWN
@@ -8824,7 +8824,7 @@ trafficManagerUserMetricsKeys:
 trafficmanagerprofiles:
   path: Microsoft.ApiManagement/trafficmanagerprofiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/trafficmanagerprofiles
   architecture review:
     type: UNKNOWN
@@ -8841,7 +8841,7 @@ trafficmanagerprofiles:
 transactions:
   path: Microsoft.ApiManagement/transactions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/transactions
   architecture review:
     type: UNKNOWN
@@ -8858,7 +8858,7 @@ transactions:
 transfers:
   path: Microsoft.ApiManagement/transfers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/transfers
   architecture review:
     type: UNKNOWN
@@ -8875,7 +8875,7 @@ transfers:
 updateCommunicationPreference:
   path: Microsoft.ApiManagement/updateCommunicationPreference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/updateCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -8892,7 +8892,7 @@ updateCommunicationPreference:
 updates:
   path: Microsoft.ApiManagement/updates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/updates
   architecture review:
     type: UNKNOWN
@@ -8909,7 +8909,7 @@ updates:
 usages:
   path: Microsoft.ApiManagement/usages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/usages
   architecture review:
     type: UNKNOWN
@@ -8926,7 +8926,7 @@ usages:
 userAssignedIdentities:
   path: Microsoft.ApiManagement/userAssignedIdentities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/userAssignedIdentities
   architecture review:
     type: UNKNOWN
@@ -8943,7 +8943,7 @@ userAssignedIdentities:
 userSettings:
   path: Microsoft.ApiManagement/userSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/userSettings
   architecture review:
     type: UNKNOWN
@@ -8960,7 +8960,7 @@ userSettings:
 users:
   path: Microsoft.ApiManagement/users
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/users
   architecture review:
     type: UNKNOWN
@@ -8977,7 +8977,7 @@ users:
 validate:
   path: Microsoft.ApiManagement/validate
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/validate
   architecture review:
     type: UNKNOWN
@@ -8994,7 +8994,7 @@ validate:
 validateAddress:
   path: Microsoft.ApiManagement/validateAddress
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/validateAddress
   architecture review:
     type: UNKNOWN
@@ -9011,7 +9011,7 @@ validateAddress:
 validateCertificateRegistrationInformation:
   path: Microsoft.ApiManagement/validateCertificateRegistrationInformation
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/validateCertificateRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9028,7 +9028,7 @@ validateCertificateRegistrationInformation:
 validateDomainRegistrationInformation:
   path: Microsoft.ApiManagement/validateDomainRegistrationInformation
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/validateDomainRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9045,7 +9045,7 @@ validateDomainRegistrationInformation:
 validateProbe:
   path: Microsoft.ApiManagement/validateProbe
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/validateProbe
   architecture review:
     type: UNKNOWN
@@ -9062,7 +9062,7 @@ validateProbe:
 validateReservationOrder:
   path: Microsoft.ApiManagement/validateReservationOrder
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/validateReservationOrder
   architecture review:
     type: UNKNOWN
@@ -9079,7 +9079,7 @@ validateReservationOrder:
 validateServiceName:
   path: Microsoft.ApiManagement/validateServiceName
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/validateServiceName
   architecture review:
     type: UNKNOWN
@@ -9096,7 +9096,7 @@ validateServiceName:
 validateSubscriptionMoveAvailability:
   path: Microsoft.ApiManagement/validateSubscriptionMoveAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/validateSubscriptionMoveAvailability
   architecture review:
     type: UNKNOWN
@@ -9113,7 +9113,7 @@ validateSubscriptionMoveAvailability:
 vaults:
   path: Microsoft.ApiManagement/vaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/vaults
   architecture review:
     type: UNKNOWN
@@ -9130,7 +9130,7 @@ vaults:
 verifyHostingEnvironmentVnet:
   path: Microsoft.ApiManagement/verifyHostingEnvironmentVnet
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/verifyHostingEnvironmentVnet
   architecture review:
     type: UNKNOWN
@@ -9147,7 +9147,7 @@ verifyHostingEnvironmentVnet:
 views:
   path: Microsoft.ApiManagement/views
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/views
   architecture review:
     type: UNKNOWN
@@ -9164,7 +9164,7 @@ views:
 virtualClusters:
   path: Microsoft.ApiManagement/virtualClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/virtualClusters
   architecture review:
     type: UNKNOWN
@@ -9181,7 +9181,7 @@ virtualClusters:
 virtualHubs:
   path: Microsoft.ApiManagement/virtualHubs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/virtualHubs
   architecture review:
     type: UNKNOWN
@@ -9198,7 +9198,7 @@ virtualHubs:
 virtualMachineScaleSets:
   path: Microsoft.ApiManagement/virtualMachineScaleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/virtualMachineScaleSets
   architecture review:
     type: UNKNOWN
@@ -9215,7 +9215,7 @@ virtualMachineScaleSets:
 virtualMachines:
   path: Microsoft.ApiManagement/virtualMachines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/virtualMachines
   architecture review:
     type: UNKNOWN
@@ -9232,7 +9232,7 @@ virtualMachines:
 virtualNetworkGateways:
   path: Microsoft.ApiManagement/virtualNetworkGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/virtualNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -9249,7 +9249,7 @@ virtualNetworkGateways:
 virtualNetworkTaps:
   path: Microsoft.ApiManagement/virtualNetworkTaps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/virtualNetworkTaps
   architecture review:
     type: UNKNOWN
@@ -9266,7 +9266,7 @@ virtualNetworkTaps:
 virtualNetworks:
   path: Microsoft.ApiManagement/virtualNetworks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/virtualNetworks
   architecture review:
     type: UNKNOWN
@@ -9283,7 +9283,7 @@ virtualNetworks:
 virtualRouters:
   path: Microsoft.ApiManagement/virtualRouters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/virtualRouters
   architecture review:
     type: UNKNOWN
@@ -9300,7 +9300,7 @@ virtualRouters:
 virtualWans:
   path: Microsoft.ApiManagement/virtualWans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/virtualWans
   architecture review:
     type: UNKNOWN
@@ -9317,7 +9317,7 @@ virtualWans:
 vmImages:
   path: Microsoft.ApiManagement/vmImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/vmImages
   architecture review:
     type: UNKNOWN
@@ -9334,7 +9334,7 @@ vmImages:
 vmInsightsOnboardingStatuses:
   path: Microsoft.ApiManagement/vmInsightsOnboardingStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/vmInsightsOnboardingStatuses
   architecture review:
     type: UNKNOWN
@@ -9351,7 +9351,7 @@ vmInsightsOnboardingStatuses:
 volumes:
   path: Microsoft.ApiManagement/volumes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/volumes
   architecture review:
     type: UNKNOWN
@@ -9368,7 +9368,7 @@ volumes:
 vpnGateways:
   path: Microsoft.ApiManagement/vpnGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/vpnGateways
   architecture review:
     type: UNKNOWN
@@ -9385,7 +9385,7 @@ vpnGateways:
 vpnServerConfigurations:
   path: Microsoft.ApiManagement/vpnServerConfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/vpnServerConfigurations
   architecture review:
     type: UNKNOWN
@@ -9402,7 +9402,7 @@ vpnServerConfigurations:
 vpnSites:
   path: Microsoft.ApiManagement/vpnSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/vpnSites
   architecture review:
     type: UNKNOWN
@@ -9419,7 +9419,7 @@ vpnSites:
 watchers:
   path: Microsoft.ApiManagement/watchers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/watchers
   architecture review:
     type: UNKNOWN
@@ -9436,7 +9436,7 @@ watchers:
 webApplicationFirewallPolicies:
   path: Microsoft.ApiManagement/webApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/webApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -9453,7 +9453,7 @@ webApplicationFirewallPolicies:
 webServices:
   path: Microsoft.ApiManagement/webServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/webServices
   architecture review:
     type: UNKNOWN
@@ -9470,7 +9470,7 @@ webServices:
 webtests:
   path: Microsoft.ApiManagement/webtests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/webtests
   architecture review:
     type: UNKNOWN
@@ -9487,7 +9487,7 @@ webtests:
 workbooks:
   path: Microsoft.ApiManagement/workbooks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/workbooks
   architecture review:
     type: UNKNOWN
@@ -9504,7 +9504,7 @@ workbooks:
 workbooktemplates:
   path: Microsoft.ApiManagement/workbooktemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/workbooktemplates
   architecture review:
     type: UNKNOWN
@@ -9521,7 +9521,7 @@ workbooktemplates:
 workflows:
   path: Microsoft.ApiManagement/workflows
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/workflows
   architecture review:
     type: UNKNOWN
@@ -9538,7 +9538,7 @@ workflows:
 workspaceCollections:
   path: Microsoft.ApiManagement/workspaceCollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/workspaceCollections
   architecture review:
     type: UNKNOWN
@@ -9555,7 +9555,7 @@ workspaceCollections:
 workspaceSettings:
   path: Microsoft.ApiManagement/workspaceSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/workspaceSettings
   architecture review:
     type: UNKNOWN
@@ -9572,7 +9572,7 @@ workspaceSettings:
 workspaces:
   path: Microsoft.ApiManagement/workspaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.ApiManagement/workspaces
   architecture review:
     type: UNKNOWN

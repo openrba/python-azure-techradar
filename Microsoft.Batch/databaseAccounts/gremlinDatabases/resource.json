@@ -1,5 +1,0 @@
-[
-    "Microsoft.Batch/databaseAccounts/gremlinDatabases/graphs",
-    "Microsoft.Batch/databaseAccounts/gremlinDatabases/graphs/throughputSettings",
-    "Microsoft.Batch/databaseAccounts/gremlinDatabases/throughputSettings"
-]

@@ -1,6 +1,0 @@
-[
-    "Microsoft.ApiManagement/databaseAccounts/sqlDatabases/containers/storedProcedures",
-    "Microsoft.ApiManagement/databaseAccounts/sqlDatabases/containers/throughputSettings",
-    "Microsoft.ApiManagement/databaseAccounts/sqlDatabases/containers/triggers",
-    "Microsoft.ApiManagement/databaseAccounts/sqlDatabases/containers/userDefinedFunctions"
-]

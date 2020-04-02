@@ -1,9 +1,0 @@
-[
-    "Microsoft.Compute/domainNames/capabilities",
-    "Microsoft.Compute/domainNames/internalLoadBalancers",
-    "Microsoft.Compute/domainNames/serviceCertificates",
-    "Microsoft.Compute/domainNames/slots",
-    "Microsoft.Compute/domainNames/slots/roles",
-    "Microsoft.Compute/domainNames/slots/roles/metricDefinitions",
-    "Microsoft.Compute/domainNames/slots/roles/metrics"
-]

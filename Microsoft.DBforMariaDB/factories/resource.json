@@ -1,8 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/factories/dataflows",
-    "Microsoft.DBforMariaDB/factories/datasets",
-    "Microsoft.DBforMariaDB/factories/integrationRuntimes",
-    "Microsoft.DBforMariaDB/factories/linkedservices",
-    "Microsoft.DBforMariaDB/factories/pipelines",
-    "Microsoft.DBforMariaDB/factories/triggers"
-]

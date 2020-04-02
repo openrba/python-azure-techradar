@@ -1,7 +1,0 @@
-[
-    "Microsoft.DBforMySQL/labs/users/disks",
-    "Microsoft.DBforMySQL/labs/users/environments",
-    "Microsoft.DBforMySQL/labs/users/secrets",
-    "Microsoft.DBforMySQL/labs/users/serviceFabrics",
-    "Microsoft.DBforMySQL/labs/users/serviceFabrics/schedules"
-]

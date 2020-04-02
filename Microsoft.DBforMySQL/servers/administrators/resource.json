@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforMySQL/servers/administrators/activeDirectory.administratorType",
-    "Microsoft.DBforMySQL/servers/administrators/activeDirectory.login",
-    "Microsoft.DBforMySQL/servers/administrators/activeDirectory.sid",
-    "Microsoft.DBforMySQL/servers/administrators/activeDirectory.tenantId"
-]

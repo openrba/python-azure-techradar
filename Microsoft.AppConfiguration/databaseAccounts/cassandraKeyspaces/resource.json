@@ -1,5 +1,0 @@
-[
-    "Microsoft.AppConfiguration/databaseAccounts/cassandraKeyspaces/tables",
-    "Microsoft.AppConfiguration/databaseAccounts/cassandraKeyspaces/tables/throughputSettings",
-    "Microsoft.AppConfiguration/databaseAccounts/cassandraKeyspaces/throughputSettings"
-]

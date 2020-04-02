@@ -1,8 +1,0 @@
-[
-    "Microsoft.Batch/managedInstances/databases/backupLongTermRetentionPolicies",
-    "Microsoft.Batch/managedInstances/databases/backupShortTermRetentionPolicies",
-    "Microsoft.Batch/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
-    "Microsoft.Batch/managedInstances/databases/securityAlertPolicies",
-    "Microsoft.Batch/managedInstances/databases/vulnerabilityAssessments",
-    "Microsoft.Batch/managedInstances/databases/vulnerabilityAssessments/rules/baselines"
-]

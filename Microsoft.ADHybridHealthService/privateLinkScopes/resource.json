@@ -1,5 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/privateLinkScopes/privateEndpointConnectionProxies",
-    "Microsoft.ADHybridHealthService/privateLinkScopes/privateEndpointConnections",
-    "Microsoft.ADHybridHealthService/privateLinkScopes/scopedResources"
-]

@@ -1,6 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/ExternalSubscriptions/Alerts",
-    "Microsoft.ADHybridHealthService/ExternalSubscriptions/Dimensions",
-    "Microsoft.ADHybridHealthService/ExternalSubscriptions/Forecast",
-    "Microsoft.ADHybridHealthService/ExternalSubscriptions/Query"
-]

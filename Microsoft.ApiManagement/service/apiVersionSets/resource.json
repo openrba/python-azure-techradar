@@ -1,7 +1,0 @@
-[
-    "Microsoft.ApiManagement/service/apiVersionSets/description",
-    "Microsoft.ApiManagement/service/apiVersionSets/displayName",
-    "Microsoft.ApiManagement/service/apiVersionSets/versionHeaderName",
-    "Microsoft.ApiManagement/service/apiVersionSets/versionQueryName",
-    "Microsoft.ApiManagement/service/apiVersionSets/versioningScheme"
-]

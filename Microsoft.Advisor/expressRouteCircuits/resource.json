@@ -1,5 +1,0 @@
-[
-    "Microsoft.Advisor/expressRouteCircuits/authorizations",
-    "Microsoft.Advisor/expressRouteCircuits/peerings",
-    "Microsoft.Advisor/expressRouteCircuits/peerings/connections"
-]

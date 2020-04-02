@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/clusters/databases/dataconnections",
-    "Microsoft.DBforMariaDB/clusters/databases/eventhubconnections",
-    "Microsoft.DBforMariaDB/clusters/databases/principalassignments"
-]

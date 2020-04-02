@@ -1,4 +1,0 @@
-[
-    "Microsoft.Network/accounts/storageAccounts/containers",
-    "Microsoft.Network/accounts/storageAccounts/containers/listSasTokens"
-]

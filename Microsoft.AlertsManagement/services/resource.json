@@ -1,7 +1,0 @@
-[
-    "Microsoft.AlertsManagement/services/problemclassifications",
-    "Microsoft.AlertsManagement/services/projects",
-    "Microsoft.AlertsManagement/services/projects/files",
-    "Microsoft.AlertsManagement/services/projects/tasks",
-    "Microsoft.AlertsManagement/services/serviceTasks"
-]

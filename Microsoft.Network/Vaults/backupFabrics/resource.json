@@ -1,5 +1,0 @@
-[
-    "Microsoft.Network/Vaults/backupFabrics/backupProtectionIntent",
-    "Microsoft.Network/Vaults/backupFabrics/protectionContainers",
-    "Microsoft.Network/Vaults/backupFabrics/protectionContainers/protectedItems"
-]

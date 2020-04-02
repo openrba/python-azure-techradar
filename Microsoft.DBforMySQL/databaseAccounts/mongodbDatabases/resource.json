@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMySQL/databaseAccounts/mongodbDatabases/collections",
-    "Microsoft.DBforMySQL/databaseAccounts/mongodbDatabases/collections/throughputSettings",
-    "Microsoft.DBforMySQL/databaseAccounts/mongodbDatabases/throughputSettings"
-]

@@ -1,7 +1,7 @@
 AggregatedCost:
   path: Microsoft.Batch/AggregatedCost
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/AggregatedCost
   architecture review:
     type: UNKNOWN
@@ -18,7 +18,7 @@ AggregatedCost:
 Alerts:
   path: Microsoft.Batch/Alerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Alerts
   architecture review:
     type: UNKNOWN
@@ -35,7 +35,7 @@ Alerts:
 AutoProvisioningSettings:
   path: Microsoft.Batch/AutoProvisioningSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/AutoProvisioningSettings
   architecture review:
     type: UNKNOWN
@@ -52,7 +52,7 @@ AutoProvisioningSettings:
 Balances:
   path: Microsoft.Batch/Balances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Balances
   architecture review:
     type: UNKNOWN
@@ -69,7 +69,7 @@ Balances:
 BillingAccounts:
   path: Microsoft.Batch/BillingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/BillingAccounts
   architecture review:
     type: UNKNOWN
@@ -86,7 +86,7 @@ BillingAccounts:
 Budgets:
   path: Microsoft.Batch/Budgets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Budgets
   architecture review:
     type: UNKNOWN
@@ -103,7 +103,7 @@ Budgets:
 CdnWebApplicationFirewallManagedRuleSets:
   path: Microsoft.Batch/CdnWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/CdnWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -120,7 +120,7 @@ CdnWebApplicationFirewallManagedRuleSets:
 CdnWebApplicationFirewallPolicies:
   path: Microsoft.Batch/CdnWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/CdnWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -137,7 +137,7 @@ CdnWebApplicationFirewallPolicies:
 Charges:
   path: Microsoft.Batch/Charges
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Charges
   architecture review:
     type: UNKNOWN
@@ -154,7 +154,7 @@ Charges:
 CloudConnectors:
   path: Microsoft.Batch/CloudConnectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/CloudConnectors
   architecture review:
     type: UNKNOWN
@@ -171,7 +171,7 @@ CloudConnectors:
 Compliances:
   path: Microsoft.Batch/Compliances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Compliances
   architecture review:
     type: UNKNOWN
@@ -188,7 +188,7 @@ Compliances:
 Components:
   path: Microsoft.Batch/Components
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Components
   architecture review:
     type: UNKNOWN
@@ -205,7 +205,7 @@ Components:
 Connectors:
   path: Microsoft.Batch/Connectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Connectors
   architecture review:
     type: UNKNOWN
@@ -222,7 +222,7 @@ Connectors:
 CostTags:
   path: Microsoft.Batch/CostTags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/CostTags
   architecture review:
     type: UNKNOWN
@@ -239,7 +239,7 @@ CostTags:
 CreateSubscription:
   path: Microsoft.Batch/CreateSubscription
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/CreateSubscription
   architecture review:
     type: UNKNOWN
@@ -256,7 +256,7 @@ CreateSubscription:
 DataBoxEdgeDevices:
   path: Microsoft.Batch/DataBoxEdgeDevices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/DataBoxEdgeDevices
   architecture review:
     type: UNKNOWN
@@ -273,7 +273,7 @@ DataBoxEdgeDevices:
 Departments:
   path: Microsoft.Batch/Departments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Departments
   architecture review:
     type: UNKNOWN
@@ -290,7 +290,7 @@ Departments:
 DeviceServices:
   path: Microsoft.Batch/DeviceServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/DeviceServices
   architecture review:
     type: UNKNOWN
@@ -307,7 +307,7 @@ DeviceServices:
 Dimensions:
   path: Microsoft.Batch/Dimensions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Dimensions
   architecture review:
     type: UNKNOWN
@@ -324,7 +324,7 @@ Dimensions:
 DomainServices:
   path: Microsoft.Batch/DomainServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/DomainServices
   architecture review:
     type: UNKNOWN
@@ -341,7 +341,7 @@ DomainServices:
 EnrollmentAccounts:
   path: Microsoft.Batch/EnrollmentAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/EnrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -358,7 +358,7 @@ EnrollmentAccounts:
 Exports:
   path: Microsoft.Batch/Exports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Exports
   architecture review:
     type: UNKNOWN
@@ -375,7 +375,7 @@ Exports:
 ExternalBillingAccounts:
   path: Microsoft.Batch/ExternalBillingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ExternalBillingAccounts
   architecture review:
     type: UNKNOWN
@@ -392,7 +392,7 @@ ExternalBillingAccounts:
 ExternalSubscriptions:
   path: Microsoft.Batch/ExternalSubscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ExternalSubscriptions
   architecture review:
     type: UNKNOWN
@@ -409,7 +409,7 @@ ExternalSubscriptions:
 Forecast:
   path: Microsoft.Batch/Forecast
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Forecast
   architecture review:
     type: UNKNOWN
@@ -426,7 +426,7 @@ Forecast:
 Forecasts:
   path: Microsoft.Batch/Forecasts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Forecasts
   architecture review:
     type: UNKNOWN
@@ -443,7 +443,7 @@ Forecasts:
 Graph:
   path: Microsoft.Batch/Graph
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Graph
   architecture review:
     type: UNKNOWN
@@ -460,7 +460,7 @@ Graph:
 HyperVSites:
   path: Microsoft.Batch/HyperVSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/HyperVSites
   architecture review:
     type: UNKNOWN
@@ -477,7 +477,7 @@ HyperVSites:
 Identities:
   path: Microsoft.Batch/Identities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Identities
   architecture review:
     type: UNKNOWN
@@ -494,7 +494,7 @@ Identities:
 ImportSites:
   path: Microsoft.Batch/ImportSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ImportSites
   architecture review:
     type: UNKNOWN
@@ -511,7 +511,7 @@ ImportSites:
 InformationProtectionPolicies:
   path: Microsoft.Batch/InformationProtectionPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/InformationProtectionPolicies
   architecture review:
     type: UNKNOWN
@@ -528,7 +528,7 @@ InformationProtectionPolicies:
 IoTApps:
   path: Microsoft.Batch/IoTApps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/IoTApps
   architecture review:
     type: UNKNOWN
@@ -545,7 +545,7 @@ IoTApps:
 IotHubs:
   path: Microsoft.Batch/IotHubs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/IotHubs
   architecture review:
     type: UNKNOWN
@@ -562,7 +562,7 @@ IotHubs:
 Locations:
   path: Microsoft.Batch/Locations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Locations
   architecture review:
     type: UNKNOWN
@@ -579,7 +579,7 @@ Locations:
 Marketplaces:
   path: Microsoft.Batch/Marketplaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Marketplaces
   architecture review:
     type: UNKNOWN
@@ -596,7 +596,7 @@ Marketplaces:
 Namespaces:
   path: Microsoft.Batch/Namespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Namespaces
   architecture review:
     type: UNKNOWN
@@ -613,7 +613,7 @@ Namespaces:
 OperationResults:
   path: Microsoft.Batch/OperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/OperationResults
   architecture review:
     type: UNKNOWN
@@ -630,7 +630,7 @@ OperationResults:
 OperationStatus:
   path: Microsoft.Batch/OperationStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/OperationStatus
   architecture review:
     type: UNKNOWN
@@ -647,7 +647,7 @@ OperationStatus:
 Operations:
   path: Microsoft.Batch/Operations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Operations
   architecture review:
     type: UNKNOWN
@@ -664,7 +664,7 @@ Operations:
 Pricesheets:
   path: Microsoft.Batch/Pricesheets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Pricesheets
   architecture review:
     type: UNKNOWN
@@ -681,7 +681,7 @@ Pricesheets:
 ProvisioningServices:
   path: Microsoft.Batch/ProvisioningServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ProvisioningServices
   architecture review:
     type: UNKNOWN
@@ -698,7 +698,7 @@ ProvisioningServices:
 Query:
   path: Microsoft.Batch/Query
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Query
   architecture review:
     type: UNKNOWN
@@ -715,7 +715,7 @@ Query:
 RateCard:
   path: Microsoft.Batch/RateCard
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/RateCard
   architecture review:
     type: UNKNOWN
@@ -732,7 +732,7 @@ RateCard:
 Redis:
   path: Microsoft.Batch/Redis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Redis
   architecture review:
     type: UNKNOWN
@@ -749,7 +749,7 @@ Redis:
 Reportconfigs:
   path: Microsoft.Batch/Reportconfigs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Reportconfigs
   architecture review:
     type: UNKNOWN
@@ -766,7 +766,7 @@ Reportconfigs:
 Reports:
   path: Microsoft.Batch/Reports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Reports
   architecture review:
     type: UNKNOWN
@@ -783,7 +783,7 @@ Reports:
 ReservationDetails:
   path: Microsoft.Batch/ReservationDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ReservationDetails
   architecture review:
     type: UNKNOWN
@@ -800,7 +800,7 @@ ReservationDetails:
 ReservationRecommendations:
   path: Microsoft.Batch/ReservationRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ReservationRecommendations
   architecture review:
     type: UNKNOWN
@@ -817,7 +817,7 @@ ReservationRecommendations:
 ReservationSummaries:
   path: Microsoft.Batch/ReservationSummaries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ReservationSummaries
   architecture review:
     type: UNKNOWN
@@ -834,7 +834,7 @@ ReservationSummaries:
 ReservationTransactions:
   path: Microsoft.Batch/ReservationTransactions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ReservationTransactions
   architecture review:
     type: UNKNOWN
@@ -851,7 +851,7 @@ ReservationTransactions:
 ServerSites:
   path: Microsoft.Batch/ServerSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ServerSites
   architecture review:
     type: UNKNOWN
@@ -868,7 +868,7 @@ ServerSites:
 Settings:
   path: Microsoft.Batch/Settings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Settings
   architecture review:
     type: UNKNOWN
@@ -885,7 +885,7 @@ Settings:
 SignalR:
   path: Microsoft.Batch/SignalR
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/SignalR
   architecture review:
     type: UNKNOWN
@@ -902,7 +902,7 @@ SignalR:
 Spring:
   path: Microsoft.Batch/Spring
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Spring
   architecture review:
     type: UNKNOWN
@@ -919,7 +919,7 @@ Spring:
 SqlVirtualMachineGroups:
   path: Microsoft.Batch/SqlVirtualMachineGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/SqlVirtualMachineGroups
   architecture review:
     type: UNKNOWN
@@ -936,7 +936,7 @@ SqlVirtualMachineGroups:
 SqlVirtualMachines:
   path: Microsoft.Batch/SqlVirtualMachines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/SqlVirtualMachines
   architecture review:
     type: UNKNOWN
@@ -953,7 +953,7 @@ SqlVirtualMachines:
 SubscriptionDefinitions:
   path: Microsoft.Batch/SubscriptionDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/SubscriptionDefinitions
   architecture review:
     type: UNKNOWN
@@ -970,7 +970,7 @@ SubscriptionDefinitions:
 SubscriptionOperations:
   path: Microsoft.Batch/SubscriptionOperations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/SubscriptionOperations
   architecture review:
     type: UNKNOWN
@@ -987,7 +987,7 @@ SubscriptionOperations:
 Tags:
   path: Microsoft.Batch/Tags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Tags
   architecture review:
     type: UNKNOWN
@@ -1004,7 +1004,7 @@ Tags:
 Terms:
   path: Microsoft.Batch/Terms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Terms
   architecture review:
     type: UNKNOWN
@@ -1021,7 +1021,7 @@ Terms:
 UsageAggregates:
   path: Microsoft.Batch/UsageAggregates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/UsageAggregates
   architecture review:
     type: UNKNOWN
@@ -1038,7 +1038,7 @@ UsageAggregates:
 UsageDetails:
   path: Microsoft.Batch/UsageDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/UsageDetails
   architecture review:
     type: UNKNOWN
@@ -1055,7 +1055,7 @@ UsageDetails:
 VMwareSites:
   path: Microsoft.Batch/VMwareSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/VMwareSites
   architecture review:
     type: UNKNOWN
@@ -1072,7 +1072,7 @@ VMwareSites:
 Vaults:
   path: Microsoft.Batch/Vaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Vaults
   architecture review:
     type: UNKNOWN
@@ -1089,7 +1089,7 @@ Vaults:
 Views:
   path: Microsoft.Batch/Views
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Views
   architecture review:
     type: UNKNOWN
@@ -1106,7 +1106,7 @@ Views:
 Workspaces:
   path: Microsoft.Batch/Workspaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/Workspaces
   architecture review:
     type: UNKNOWN
@@ -1123,7 +1123,7 @@ Workspaces:
 aadsupportcases:
   path: Microsoft.Batch/aadsupportcases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/aadsupportcases
   architecture review:
     type: UNKNOWN
@@ -1140,7 +1140,7 @@ aadsupportcases:
 account:
   path: Microsoft.Batch/account
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/account
   architecture review:
     type: UNKNOWN
@@ -1157,7 +1157,7 @@ account:
 accounts:
   path: Microsoft.Batch/accounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/accounts
   architecture review:
     type: UNKNOWN
@@ -1174,7 +1174,7 @@ accounts:
 actionRules:
   path: Microsoft.Batch/actionRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/actionRules
   architecture review:
     type: UNKNOWN
@@ -1191,7 +1191,7 @@ actionRules:
 actiongroups:
   path: Microsoft.Batch/actiongroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/actiongroups
   architecture review:
     type: UNKNOWN
@@ -1208,7 +1208,7 @@ actiongroups:
 activityLogAlerts:
   path: Microsoft.Batch/activityLogAlerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/activityLogAlerts
   architecture review:
     type: UNKNOWN
@@ -1225,7 +1225,7 @@ activityLogAlerts:
 adaptiveNetworkHardenings:
   path: Microsoft.Batch/adaptiveNetworkHardenings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/adaptiveNetworkHardenings
   architecture review:
     type: UNKNOWN
@@ -1242,7 +1242,7 @@ adaptiveNetworkHardenings:
 addsservices:
   path: Microsoft.Batch/addsservices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/addsservices
   architecture review:
     type: UNKNOWN
@@ -1259,7 +1259,7 @@ addsservices:
 advancedThreatProtectionSettings:
   path: Microsoft.Batch/advancedThreatProtectionSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/advancedThreatProtectionSettings
   architecture review:
     type: UNKNOWN
@@ -1276,7 +1276,7 @@ advancedThreatProtectionSettings:
 agents:
   path: Microsoft.Batch/agents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/agents
   architecture review:
     type: UNKNOWN
@@ -1293,7 +1293,7 @@ agents:
 aggregations:
   path: Microsoft.Batch/aggregations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/aggregations
   architecture review:
     type: UNKNOWN
@@ -1310,7 +1310,7 @@ aggregations:
 agreements:
   path: Microsoft.Batch/agreements
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/agreements
   architecture review:
     type: UNKNOWN
@@ -1327,7 +1327,7 @@ agreements:
 alertRuleTemplates:
   path: Microsoft.Batch/alertRuleTemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/alertRuleTemplates
   architecture review:
     type: UNKNOWN
@@ -1344,7 +1344,7 @@ alertRuleTemplates:
 alertRules:
   path: Microsoft.Batch/alertRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/alertRules
   architecture review:
     type: UNKNOWN
@@ -1361,7 +1361,7 @@ alertRules:
 alertrules:
   path: Microsoft.Batch/alertrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/alertrules
   architecture review:
     type: UNKNOWN
@@ -1378,7 +1378,7 @@ alertrules:
 alerts:
   path: Microsoft.Batch/alerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/alerts
   architecture review:
     type: UNKNOWN
@@ -1395,7 +1395,7 @@ alerts:
 alertsList:
   path: Microsoft.Batch/alertsList
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/alertsList
   architecture review:
     type: UNKNOWN
@@ -1412,7 +1412,7 @@ alertsList:
 alertsMetaData:
   path: Microsoft.Batch/alertsMetaData
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/alertsMetaData
   architecture review:
     type: UNKNOWN
@@ -1429,7 +1429,7 @@ alertsMetaData:
 alertsSummary:
   path: Microsoft.Batch/alertsSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/alertsSummary
   architecture review:
     type: UNKNOWN
@@ -1446,7 +1446,7 @@ alertsSummary:
 alertsSummaryList:
   path: Microsoft.Batch/alertsSummaryList
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/alertsSummaryList
   architecture review:
     type: UNKNOWN
@@ -1463,7 +1463,7 @@ alertsSummaryList:
 allowedConnections:
   path: Microsoft.Batch/allowedConnections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/allowedConnections
   architecture review:
     type: UNKNOWN
@@ -1480,7 +1480,7 @@ allowedConnections:
 anonymousapiusers:
   path: Microsoft.Batch/anonymousapiusers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/anonymousapiusers
   architecture review:
     type: UNKNOWN
@@ -1497,7 +1497,7 @@ anonymousapiusers:
 appTemplates:
   path: Microsoft.Batch/appTemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/appTemplates
   architecture review:
     type: UNKNOWN
@@ -1514,7 +1514,7 @@ appTemplates:
 applicationDefinitions:
   path: Microsoft.Batch/applicationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/applicationDefinitions
   architecture review:
     type: UNKNOWN
@@ -1531,7 +1531,7 @@ applicationDefinitions:
 applicationGatewayAvailableRequestHeaders:
   path: Microsoft.Batch/applicationGatewayAvailableRequestHeaders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/applicationGatewayAvailableRequestHeaders
   architecture review:
     type: UNKNOWN
@@ -1548,7 +1548,7 @@ applicationGatewayAvailableRequestHeaders:
 applicationGatewayAvailableResponseHeaders:
   path: Microsoft.Batch/applicationGatewayAvailableResponseHeaders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/applicationGatewayAvailableResponseHeaders
   architecture review:
     type: UNKNOWN
@@ -1565,7 +1565,7 @@ applicationGatewayAvailableResponseHeaders:
 applicationGatewayAvailableServerVariables:
   path: Microsoft.Batch/applicationGatewayAvailableServerVariables
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/applicationGatewayAvailableServerVariables
   architecture review:
     type: UNKNOWN
@@ -1582,7 +1582,7 @@ applicationGatewayAvailableServerVariables:
 applicationGatewayAvailableSslOptions:
   path: Microsoft.Batch/applicationGatewayAvailableSslOptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/applicationGatewayAvailableSslOptions
   architecture review:
     type: UNKNOWN
@@ -1599,7 +1599,7 @@ applicationGatewayAvailableSslOptions:
 applicationGatewayAvailableWafRuleSets:
   path: Microsoft.Batch/applicationGatewayAvailableWafRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/applicationGatewayAvailableWafRuleSets
   architecture review:
     type: UNKNOWN
@@ -1616,7 +1616,7 @@ applicationGatewayAvailableWafRuleSets:
 applicationGatewayWebApplicationFirewallPolicies:
   path: Microsoft.Batch/applicationGatewayWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/applicationGatewayWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -1633,7 +1633,7 @@ applicationGatewayWebApplicationFirewallPolicies:
 applicationGateways:
   path: Microsoft.Batch/applicationGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/applicationGateways
   architecture review:
     type: UNKNOWN
@@ -1650,7 +1650,7 @@ applicationGateways:
 applicationSecurityGroups:
   path: Microsoft.Batch/applicationSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/applicationSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -1667,7 +1667,7 @@ applicationSecurityGroups:
 applicationWhitelistings:
   path: Microsoft.Batch/applicationWhitelistings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/applicationWhitelistings
   architecture review:
     type: UNKNOWN
@@ -1684,7 +1684,7 @@ applicationWhitelistings:
 applications:
   path: Microsoft.Batch/applications
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/applications
   architecture review:
     type: UNKNOWN
@@ -1701,7 +1701,7 @@ applications:
 appliedReservations:
   path: Microsoft.Batch/appliedReservations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/appliedReservations
   architecture review:
     type: UNKNOWN
@@ -1718,7 +1718,7 @@ appliedReservations:
 applyUpdates:
   path: Microsoft.Batch/applyUpdates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/applyUpdates
   architecture review:
     type: UNKNOWN
@@ -1735,7 +1735,7 @@ applyUpdates:
 apps:
   path: Microsoft.Batch/apps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/apps
   architecture review:
     type: UNKNOWN
@@ -1752,7 +1752,7 @@ apps:
 artifactSources:
   path: Microsoft.Batch/artifactSources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/artifactSources
   architecture review:
     type: UNKNOWN
@@ -1769,7 +1769,7 @@ artifactSources:
 assessmentMetadata:
   path: Microsoft.Batch/assessmentMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/assessmentMetadata
   architecture review:
     type: UNKNOWN
@@ -1786,7 +1786,7 @@ assessmentMetadata:
 assessmentProjects:
   path: Microsoft.Batch/assessmentProjects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/assessmentProjects
   architecture review:
     type: UNKNOWN
@@ -1803,7 +1803,7 @@ assessmentProjects:
 assessmentprojects:
   path: Microsoft.Batch/assessmentprojects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/assessmentprojects
   architecture review:
     type: UNKNOWN
@@ -1820,7 +1820,7 @@ assessmentprojects:
 assessments:
   path: Microsoft.Batch/assessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/assessments
   architecture review:
     type: UNKNOWN
@@ -1837,7 +1837,7 @@ assessments:
 associations:
   path: Microsoft.Batch/associations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/associations
   architecture review:
     type: UNKNOWN
@@ -1854,7 +1854,7 @@ associations:
 asyncOperationResults:
   path: Microsoft.Batch/asyncOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/asyncOperationResults
   architecture review:
     type: UNKNOWN
@@ -1871,7 +1871,7 @@ asyncOperationResults:
 attestationProviders:
   path: Microsoft.Batch/attestationProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/attestationProviders
   architecture review:
     type: UNKNOWN
@@ -1888,7 +1888,7 @@ attestationProviders:
 autoDismissAlertsRules:
   path: Microsoft.Batch/autoDismissAlertsRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/autoDismissAlertsRules
   architecture review:
     type: UNKNOWN
@@ -1905,7 +1905,7 @@ autoDismissAlertsRules:
 automationAccounts:
   path: Microsoft.Batch/automationAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/automationAccounts
   architecture review:
     type: UNKNOWN
@@ -1922,7 +1922,7 @@ automationAccounts:
 automations:
   path: Microsoft.Batch/automations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/automations
   architecture review:
     type: UNKNOWN
@@ -1939,7 +1939,7 @@ automations:
 autoscalesettings:
   path: Microsoft.Batch/autoscalesettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/autoscalesettings
   architecture review:
     type: UNKNOWN
@@ -1956,7 +1956,7 @@ autoscalesettings:
 availabilitySets:
   path: Microsoft.Batch/availabilitySets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/availabilitySets
   architecture review:
     type: UNKNOWN
@@ -1973,7 +1973,7 @@ availabilitySets:
 availabilityStatuses:
   path: Microsoft.Batch/availabilityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/availabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -1990,7 +1990,7 @@ availabilityStatuses:
 availableAccounts:
   path: Microsoft.Batch/availableAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/availableAccounts
   architecture review:
     type: UNKNOWN
@@ -2007,7 +2007,7 @@ availableAccounts:
 availableClusterRegions:
   path: Microsoft.Batch/availableClusterRegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/availableClusterRegions
   architecture review:
     type: UNKNOWN
@@ -2024,7 +2024,7 @@ availableClusterRegions:
 availableStacks:
   path: Microsoft.Batch/availableStacks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/availableStacks
   architecture review:
     type: UNKNOWN
@@ -2041,7 +2041,7 @@ availableStacks:
 azureFirewallFqdnTags:
   path: Microsoft.Batch/azureFirewallFqdnTags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/azureFirewallFqdnTags
   architecture review:
     type: UNKNOWN
@@ -2058,7 +2058,7 @@ azureFirewallFqdnTags:
 azureFirewalls:
   path: Microsoft.Batch/azureFirewalls
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/azureFirewalls
   architecture review:
     type: UNKNOWN
@@ -2075,7 +2075,7 @@ azureFirewalls:
 b2cDirectories:
   path: Microsoft.Batch/b2cDirectories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/b2cDirectories
   architecture review:
     type: UNKNOWN
@@ -2092,7 +2092,7 @@ b2cDirectories:
 b2ctenants:
   path: Microsoft.Batch/b2ctenants
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/b2ctenants
   architecture review:
     type: UNKNOWN
@@ -2109,7 +2109,7 @@ b2ctenants:
 backupProtectedItems:
   path: Microsoft.Batch/backupProtectedItems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/backupProtectedItems
   architecture review:
     type: UNKNOWN
@@ -2126,7 +2126,7 @@ backupProtectedItems:
 baseline:
   path: Microsoft.Batch/baseline
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/baseline
   architecture review:
     type: UNKNOWN
@@ -2143,7 +2143,7 @@ baseline:
 bastionHosts:
   path: Microsoft.Batch/bastionHosts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/bastionHosts
   architecture review:
     type: UNKNOWN
@@ -2160,7 +2160,7 @@ bastionHosts:
 batchAccounts:
   path: Microsoft.Batch/batchAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/batchAccounts
   architecture review:
     type: UNKNOWN
@@ -2177,7 +2177,7 @@ batchAccounts:
 bgpServiceCommunities:
   path: Microsoft.Batch/bgpServiceCommunities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/bgpServiceCommunities
   architecture review:
     type: UNKNOWN
@@ -2194,7 +2194,7 @@ bgpServiceCommunities:
 billingAccounts:
   path: Microsoft.Batch/billingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/billingAccounts
   architecture review:
     type: UNKNOWN
@@ -2211,7 +2211,7 @@ billingAccounts:
 billingMeters:
   path: Microsoft.Batch/billingMeters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/billingMeters
   architecture review:
     type: UNKNOWN
@@ -2228,7 +2228,7 @@ billingMeters:
 billingPeriods:
   path: Microsoft.Batch/billingPeriods
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/billingPeriods
   architecture review:
     type: UNKNOWN
@@ -2245,7 +2245,7 @@ billingPeriods:
 billingPermissions:
   path: Microsoft.Batch/billingPermissions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/billingPermissions
   architecture review:
     type: UNKNOWN
@@ -2262,7 +2262,7 @@ billingPermissions:
 billingProperty:
   path: Microsoft.Batch/billingProperty
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/billingProperty
   architecture review:
     type: UNKNOWN
@@ -2279,7 +2279,7 @@ billingProperty:
 billingRoleAssignments:
   path: Microsoft.Batch/billingRoleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/billingRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -2296,7 +2296,7 @@ billingRoleAssignments:
 billingRoleDefinitions:
   path: Microsoft.Batch/billingRoleDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/billingRoleDefinitions
   architecture review:
     type: UNKNOWN
@@ -2313,7 +2313,7 @@ billingRoleDefinitions:
 blockchainMembers:
   path: Microsoft.Batch/blockchainMembers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/blockchainMembers
   architecture review:
     type: UNKNOWN
@@ -2330,7 +2330,7 @@ blockchainMembers:
 blueprintAssignments:
   path: Microsoft.Batch/blueprintAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/blueprintAssignments
   architecture review:
     type: UNKNOWN
@@ -2347,7 +2347,7 @@ blueprintAssignments:
 blueprints:
   path: Microsoft.Batch/blueprints
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/blueprints
   architecture review:
     type: UNKNOWN
@@ -2364,7 +2364,7 @@ blueprints:
 bookmarks:
   path: Microsoft.Batch/bookmarks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/bookmarks
   architecture review:
     type: UNKNOWN
@@ -2381,7 +2381,7 @@ bookmarks:
 botServices:
   path: Microsoft.Batch/botServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/botServices
   architecture review:
     type: UNKNOWN
@@ -2398,7 +2398,7 @@ botServices:
 calculateExchange:
   path: Microsoft.Batch/calculateExchange
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/calculateExchange
   architecture review:
     type: UNKNOWN
@@ -2415,7 +2415,7 @@ calculateExchange:
 calculatePrice:
   path: Microsoft.Batch/calculatePrice
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/calculatePrice
   architecture review:
     type: UNKNOWN
@@ -2432,7 +2432,7 @@ calculatePrice:
 calculatePurchasePrice:
   path: Microsoft.Batch/calculatePurchasePrice
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/calculatePurchasePrice
   architecture review:
     type: UNKNOWN
@@ -2449,7 +2449,7 @@ calculatePurchasePrice:
 calculatebaseline:
   path: Microsoft.Batch/calculatebaseline
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/calculatebaseline
   architecture review:
     type: UNKNOWN
@@ -2466,7 +2466,7 @@ calculatebaseline:
 cancel:
   path: Microsoft.Batch/cancel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/cancel
   architecture review:
     type: UNKNOWN
@@ -2483,7 +2483,7 @@ cancel:
 capabilities:
   path: Microsoft.Batch/capabilities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/capabilities
   architecture review:
     type: UNKNOWN
@@ -2500,7 +2500,7 @@ capabilities:
 capacities:
   path: Microsoft.Batch/capacities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/capacities
   architecture review:
     type: UNKNOWN
@@ -2517,7 +2517,7 @@ capacities:
 cases:
   path: Microsoft.Batch/cases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/cases
   architecture review:
     type: UNKNOWN
@@ -2534,7 +2534,7 @@ cases:
 catalogs:
   path: Microsoft.Batch/catalogs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/catalogs
   architecture review:
     type: UNKNOWN
@@ -2551,7 +2551,7 @@ catalogs:
 certificateOrders:
   path: Microsoft.Batch/certificateOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/certificateOrders
   architecture review:
     type: UNKNOWN
@@ -2568,7 +2568,7 @@ certificateOrders:
 certificates:
   path: Microsoft.Batch/certificates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/certificates
   architecture review:
     type: UNKNOWN
@@ -2585,7 +2585,7 @@ certificates:
 checkAccess:
   path: Microsoft.Batch/checkAccess
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkAccess
   architecture review:
     type: UNKNOWN
@@ -2602,7 +2602,7 @@ checkAccess:
 checkAzureDataFactoryNameAvailability:
   path: Microsoft.Batch/checkAzureDataFactoryNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkAzureDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2619,7 +2619,7 @@ checkAzureDataFactoryNameAvailability:
 checkDataFactoryNameAvailability:
   path: Microsoft.Batch/checkDataFactoryNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2636,7 +2636,7 @@ checkDataFactoryNameAvailability:
 checkDomainAvailability:
   path: Microsoft.Batch/checkDomainAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkDomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2653,7 +2653,7 @@ checkDomainAvailability:
 checkDomainNameAvailability:
   path: Microsoft.Batch/checkDomainNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkDomainNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2670,7 +2670,7 @@ checkDomainNameAvailability:
 checkFeedbackRequired:
   path: Microsoft.Batch/checkFeedbackRequired
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkFeedbackRequired
   architecture review:
     type: UNKNOWN
@@ -2687,7 +2687,7 @@ checkFeedbackRequired:
 checkFrontdoorNameAvailability:
   path: Microsoft.Batch/checkFrontdoorNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkFrontdoorNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2704,7 +2704,7 @@ checkFrontdoorNameAvailability:
 checkModernEligibility:
   path: Microsoft.Batch/checkModernEligibility
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkModernEligibility
   architecture review:
     type: UNKNOWN
@@ -2721,7 +2721,7 @@ checkModernEligibility:
 checkNameAvailability:
   path: Microsoft.Batch/checkNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2738,7 +2738,7 @@ checkNameAvailability:
 checkNamespaceAvailability:
   path: Microsoft.Batch/checkNamespaceAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkNamespaceAvailability
   architecture review:
     type: UNKNOWN
@@ -2755,7 +2755,7 @@ checkNamespaceAvailability:
 checkOffers:
   path: Microsoft.Batch/checkOffers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkOffers
   architecture review:
     type: UNKNOWN
@@ -2772,7 +2772,7 @@ checkOffers:
 checkPolicyCompliance:
   path: Microsoft.Batch/checkPolicyCompliance
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkPolicyCompliance
   architecture review:
     type: UNKNOWN
@@ -2789,7 +2789,7 @@ checkPolicyCompliance:
 checkProvisioningServiceNameAvailability:
   path: Microsoft.Batch/checkProvisioningServiceNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkProvisioningServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2806,7 +2806,7 @@ checkProvisioningServiceNameAvailability:
 checkPurchaseStatus:
   path: Microsoft.Batch/checkPurchaseStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkPurchaseStatus
   architecture review:
     type: UNKNOWN
@@ -2823,7 +2823,7 @@ checkPurchaseStatus:
 checkResourceUsage:
   path: Microsoft.Batch/checkResourceUsage
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkResourceUsage
   architecture review:
     type: UNKNOWN
@@ -2840,7 +2840,7 @@ checkResourceUsage:
 checkScopes:
   path: Microsoft.Batch/checkScopes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkScopes
   architecture review:
     type: UNKNOWN
@@ -2857,7 +2857,7 @@ checkScopes:
 checkServiceNameAvailability:
   path: Microsoft.Batch/checkServiceNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2874,7 +2874,7 @@ checkServiceNameAvailability:
 checkServiceProviderAvailability:
   path: Microsoft.Batch/checkServiceProviderAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkServiceProviderAvailability
   architecture review:
     type: UNKNOWN
@@ -2891,7 +2891,7 @@ checkServiceProviderAvailability:
 checkStorageAccountAvailability:
   path: Microsoft.Batch/checkStorageAccountAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkStorageAccountAvailability
   architecture review:
     type: UNKNOWN
@@ -2908,7 +2908,7 @@ checkStorageAccountAvailability:
 checkSubdomainAvailability:
   path: Microsoft.Batch/checkSubdomainAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkSubdomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2925,7 +2925,7 @@ checkSubdomainAvailability:
 checkTrafficManagerNameAvailability:
   path: Microsoft.Batch/checkTrafficManagerNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkTrafficManagerNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2942,7 +2942,7 @@ checkTrafficManagerNameAvailability:
 checknameavailability:
   path: Microsoft.Batch/checknameavailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checknameavailability
   architecture review:
     type: UNKNOWN
@@ -2959,7 +2959,7 @@ checknameavailability:
 checkresourcename:
   path: Microsoft.Batch/checkresourcename
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/checkresourcename
   architecture review:
     type: UNKNOWN
@@ -2976,7 +2976,7 @@ checkresourcename:
 childAvailabilityStatuses:
   path: Microsoft.Batch/childAvailabilityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/childAvailabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -2993,7 +2993,7 @@ childAvailabilityStatuses:
 childResources:
   path: Microsoft.Batch/childResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/childResources
   architecture review:
     type: UNKNOWN
@@ -3010,7 +3010,7 @@ childResources:
 classicAdministrators:
   path: Microsoft.Batch/classicAdministrators
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/classicAdministrators
   architecture review:
     type: UNKNOWN
@@ -3027,7 +3027,7 @@ classicAdministrators:
 classicDevServices:
   path: Microsoft.Batch/classicDevServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/classicDevServices
   architecture review:
     type: UNKNOWN
@@ -3044,7 +3044,7 @@ classicDevServices:
 classicInfrastructureResources:
   path: Microsoft.Batch/classicInfrastructureResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/classicInfrastructureResources
   architecture review:
     type: UNKNOWN
@@ -3061,7 +3061,7 @@ classicInfrastructureResources:
 cloudManifestFiles:
   path: Microsoft.Batch/cloudManifestFiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/cloudManifestFiles
   architecture review:
     type: UNKNOWN
@@ -3078,7 +3078,7 @@ cloudManifestFiles:
 clusters:
   path: Microsoft.Batch/clusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/clusters
   architecture review:
     type: UNKNOWN
@@ -3095,7 +3095,7 @@ clusters:
 commercialReservationOrders:
   path: Microsoft.Batch/commercialReservationOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/commercialReservationOrders
   architecture review:
     type: UNKNOWN
@@ -3112,7 +3112,7 @@ commercialReservationOrders:
 commitmentPlans:
   path: Microsoft.Batch/commitmentPlans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/commitmentPlans
   architecture review:
     type: UNKNOWN
@@ -3129,7 +3129,7 @@ commitmentPlans:
 complianceResults:
   path: Microsoft.Batch/complianceResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/complianceResults
   architecture review:
     type: UNKNOWN
@@ -3146,7 +3146,7 @@ complianceResults:
 components:
   path: Microsoft.Batch/components
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/components
   architecture review:
     type: UNKNOWN
@@ -3163,7 +3163,7 @@ components:
 componentsSummary:
   path: Microsoft.Batch/componentsSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/componentsSummary
   architecture review:
     type: UNKNOWN
@@ -3180,7 +3180,7 @@ componentsSummary:
 configuration:
   path: Microsoft.Batch/configuration
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/configuration
   architecture review:
     type: UNKNOWN
@@ -3197,7 +3197,7 @@ configuration:
 configurationAssignments:
   path: Microsoft.Batch/configurationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/configurationAssignments
   architecture review:
     type: UNKNOWN
@@ -3214,7 +3214,7 @@ configurationAssignments:
 configurationStores:
   path: Microsoft.Batch/configurationStores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/configurationStores
   architecture review:
     type: UNKNOWN
@@ -3231,7 +3231,7 @@ configurationStores:
 configurations:
   path: Microsoft.Batch/configurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/configurations
   architecture review:
     type: UNKNOWN
@@ -3248,7 +3248,7 @@ configurations:
 connectionGateways:
   path: Microsoft.Batch/connectionGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/connectionGateways
   architecture review:
     type: UNKNOWN
@@ -3265,7 +3265,7 @@ connectionGateways:
 connections:
   path: Microsoft.Batch/connections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/connections
   architecture review:
     type: UNKNOWN
@@ -3282,7 +3282,7 @@ connections:
 consoleServices:
   path: Microsoft.Batch/consoleServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/consoleServices
   architecture review:
     type: UNKNOWN
@@ -3299,7 +3299,7 @@ consoleServices:
 consoles:
   path: Microsoft.Batch/consoles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/consoles
   architecture review:
     type: UNKNOWN
@@ -3316,7 +3316,7 @@ consoles:
 containerGroups:
   path: Microsoft.Batch/containerGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/containerGroups
   architecture review:
     type: UNKNOWN
@@ -3333,7 +3333,7 @@ containerGroups:
 containerServices:
   path: Microsoft.Batch/containerServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/containerServices
   architecture review:
     type: UNKNOWN
@@ -3350,7 +3350,7 @@ containerServices:
 controllers:
   path: Microsoft.Batch/controllers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/controllers
   architecture review:
     type: UNKNOWN
@@ -3367,7 +3367,7 @@ controllers:
 createBillingRoleAssignment:
   path: Microsoft.Batch/createBillingRoleAssignment
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/createBillingRoleAssignment
   architecture review:
     type: UNKNOWN
@@ -3384,7 +3384,7 @@ createBillingRoleAssignment:
 credits:
   path: Microsoft.Batch/credits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/credits
   architecture review:
     type: UNKNOWN
@@ -3401,7 +3401,7 @@ credits:
 customApis:
   path: Microsoft.Batch/customApis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/customApis
   architecture review:
     type: UNKNOWN
@@ -3418,7 +3418,7 @@ customApis:
 dashboards:
   path: Microsoft.Batch/dashboards
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dashboards
   architecture review:
     type: UNKNOWN
@@ -3435,7 +3435,7 @@ dashboards:
 dataAliases:
   path: Microsoft.Batch/dataAliases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dataAliases
   architecture review:
     type: UNKNOWN
@@ -3452,7 +3452,7 @@ dataAliases:
 dataCollectionAgents:
   path: Microsoft.Batch/dataCollectionAgents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dataCollectionAgents
   architecture review:
     type: UNKNOWN
@@ -3469,7 +3469,7 @@ dataCollectionAgents:
 dataConnectors:
   path: Microsoft.Batch/dataConnectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dataConnectors
   architecture review:
     type: UNKNOWN
@@ -3486,7 +3486,7 @@ dataConnectors:
 dataConnectorsCheckRequirements:
   path: Microsoft.Batch/dataConnectorsCheckRequirements
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dataConnectorsCheckRequirements
   architecture review:
     type: UNKNOWN
@@ -3503,7 +3503,7 @@ dataConnectorsCheckRequirements:
 dataFactories:
   path: Microsoft.Batch/dataFactories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dataFactories
   architecture review:
     type: UNKNOWN
@@ -3520,7 +3520,7 @@ dataFactories:
 dataFactorySchema:
   path: Microsoft.Batch/dataFactorySchema
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dataFactorySchema
   architecture review:
     type: UNKNOWN
@@ -3537,7 +3537,7 @@ dataFactorySchema:
 dataManagers:
   path: Microsoft.Batch/dataManagers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dataManagers
   architecture review:
     type: UNKNOWN
@@ -3554,7 +3554,7 @@ dataManagers:
 databaseAccountNames:
   path: Microsoft.Batch/databaseAccountNames
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/databaseAccountNames
   architecture review:
     type: UNKNOWN
@@ -3571,7 +3571,7 @@ databaseAccountNames:
 databaseAccounts:
   path: Microsoft.Batch/databaseAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/databaseAccounts
   architecture review:
     type: UNKNOWN
@@ -3588,7 +3588,7 @@ databaseAccounts:
 databases:
   path: Microsoft.Batch/databases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/databases
   architecture review:
     type: UNKNOWN
@@ -3605,7 +3605,7 @@ databases:
 ddosCustomPolicies:
   path: Microsoft.Batch/ddosCustomPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ddosCustomPolicies
   architecture review:
     type: UNKNOWN
@@ -3622,7 +3622,7 @@ ddosCustomPolicies:
 ddosProtectionPlans:
   path: Microsoft.Batch/ddosProtectionPlans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ddosProtectionPlans
   architecture review:
     type: UNKNOWN
@@ -3639,7 +3639,7 @@ ddosProtectionPlans:
 dedicatedCloudNodes:
   path: Microsoft.Batch/dedicatedCloudNodes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dedicatedCloudNodes
   architecture review:
     type: UNKNOWN
@@ -3656,7 +3656,7 @@ dedicatedCloudNodes:
 dedicatedCloudServices:
   path: Microsoft.Batch/dedicatedCloudServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dedicatedCloudServices
   architecture review:
     type: UNKNOWN
@@ -3673,7 +3673,7 @@ dedicatedCloudServices:
 deletedSites:
   path: Microsoft.Batch/deletedSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/deletedSites
   architecture review:
     type: UNKNOWN
@@ -3690,7 +3690,7 @@ deletedSites:
 deletedVaults:
   path: Microsoft.Batch/deletedVaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/deletedVaults
   architecture review:
     type: UNKNOWN
@@ -3707,7 +3707,7 @@ deletedVaults:
 denyAssignments:
   path: Microsoft.Batch/denyAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/denyAssignments
   architecture review:
     type: UNKNOWN
@@ -3724,7 +3724,7 @@ denyAssignments:
 departments:
   path: Microsoft.Batch/departments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/departments
   architecture review:
     type: UNKNOWN
@@ -3741,7 +3741,7 @@ departments:
 deploymentLocations:
   path: Microsoft.Batch/deploymentLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/deploymentLocations
   architecture review:
     type: UNKNOWN
@@ -3758,7 +3758,7 @@ deploymentLocations:
 deploymentScripts:
   path: Microsoft.Batch/deploymentScripts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/deploymentScripts
   architecture review:
     type: UNKNOWN
@@ -3775,7 +3775,7 @@ deploymentScripts:
 deployments:
   path: Microsoft.Batch/deployments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/deployments
   architecture review:
     type: UNKNOWN
@@ -3792,7 +3792,7 @@ deployments:
 deviceSecurityGroups:
   path: Microsoft.Batch/deviceSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/deviceSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -3809,7 +3809,7 @@ deviceSecurityGroups:
 diagnosticSettings:
   path: Microsoft.Batch/diagnosticSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/diagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -3826,7 +3826,7 @@ diagnosticSettings:
 diagnosticSettingsCategories:
   path: Microsoft.Batch/diagnosticSettingsCategories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/diagnosticSettingsCategories
   architecture review:
     type: UNKNOWN
@@ -3843,7 +3843,7 @@ diagnosticSettingsCategories:
 discoveredSecuritySolutions:
   path: Microsoft.Batch/discoveredSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/discoveredSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -3860,7 +3860,7 @@ discoveredSecuritySolutions:
 diskEncryptionSets:
   path: Microsoft.Batch/diskEncryptionSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/diskEncryptionSets
   architecture review:
     type: UNKNOWN
@@ -3877,7 +3877,7 @@ diskEncryptionSets:
 disks:
   path: Microsoft.Batch/disks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/disks
   architecture review:
     type: UNKNOWN
@@ -3894,7 +3894,7 @@ disks:
 dnsOperationResults:
   path: Microsoft.Batch/dnsOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -3911,7 +3911,7 @@ dnsOperationResults:
 dnsOperationStatuses:
   path: Microsoft.Batch/dnsOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -3928,7 +3928,7 @@ dnsOperationStatuses:
 dnszones:
   path: Microsoft.Batch/dnszones
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/dnszones
   architecture review:
     type: UNKNOWN
@@ -3945,7 +3945,7 @@ dnszones:
 domainNames:
   path: Microsoft.Batch/domainNames
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/domainNames
   architecture review:
     type: UNKNOWN
@@ -3962,7 +3962,7 @@ domainNames:
 domains:
   path: Microsoft.Batch/domains
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/domains
   architecture review:
     type: UNKNOWN
@@ -3979,7 +3979,7 @@ domains:
 edgenodes:
   path: Microsoft.Batch/edgenodes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/edgenodes
   architecture review:
     type: UNKNOWN
@@ -3996,7 +3996,7 @@ edgenodes:
 elevateAccess:
   path: Microsoft.Batch/elevateAccess
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/elevateAccess
   architecture review:
     type: UNKNOWN
@@ -4013,7 +4013,7 @@ elevateAccess:
 emergingissues:
   path: Microsoft.Batch/emergingissues
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/emergingissues
   architecture review:
     type: UNKNOWN
@@ -4030,7 +4030,7 @@ emergingissues:
 enable:
   path: Microsoft.Batch/enable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/enable
   architecture review:
     type: UNKNOWN
@@ -4047,7 +4047,7 @@ enable:
 enrollmentAccounts:
   path: Microsoft.Batch/enrollmentAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/enrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -4064,7 +4064,7 @@ enrollmentAccounts:
 entities:
   path: Microsoft.Batch/entities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/entities
   architecture review:
     type: UNKNOWN
@@ -4081,7 +4081,7 @@ entities:
 entityQueries:
   path: Microsoft.Batch/entityQueries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/entityQueries
   architecture review:
     type: UNKNOWN
@@ -4098,7 +4098,7 @@ entityQueries:
 environments:
   path: Microsoft.Batch/environments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/environments
   architecture review:
     type: UNKNOWN
@@ -4115,7 +4115,7 @@ environments:
 eventCategories:
   path: Microsoft.Batch/eventCategories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/eventCategories
   architecture review:
     type: UNKNOWN
@@ -4132,7 +4132,7 @@ eventCategories:
 eventSubscriptions:
   path: Microsoft.Batch/eventSubscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/eventSubscriptions
   architecture review:
     type: UNKNOWN
@@ -4149,7 +4149,7 @@ eventSubscriptions:
 events:
   path: Microsoft.Batch/events
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/events
   architecture review:
     type: UNKNOWN
@@ -4166,7 +4166,7 @@ events:
 eventtypes:
   path: Microsoft.Batch/eventtypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/eventtypes
   architecture review:
     type: UNKNOWN
@@ -4183,7 +4183,7 @@ eventtypes:
 exchange:
   path: Microsoft.Batch/exchange
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/exchange
   architecture review:
     type: UNKNOWN
@@ -4200,7 +4200,7 @@ exchange:
 expressRouteCircuits:
   path: Microsoft.Batch/expressRouteCircuits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/expressRouteCircuits
   architecture review:
     type: UNKNOWN
@@ -4217,7 +4217,7 @@ expressRouteCircuits:
 expressRouteCrossConnections:
   path: Microsoft.Batch/expressRouteCrossConnections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/expressRouteCrossConnections
   architecture review:
     type: UNKNOWN
@@ -4234,7 +4234,7 @@ expressRouteCrossConnections:
 expressRouteGateways:
   path: Microsoft.Batch/expressRouteGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/expressRouteGateways
   architecture review:
     type: UNKNOWN
@@ -4251,7 +4251,7 @@ expressRouteGateways:
 expressRouteServiceProviders:
   path: Microsoft.Batch/expressRouteServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/expressRouteServiceProviders
   architecture review:
     type: UNKNOWN
@@ -4268,7 +4268,7 @@ expressRouteServiceProviders:
 extendedDiagnosticSettings:
   path: Microsoft.Batch/extendedDiagnosticSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/extendedDiagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -4285,7 +4285,7 @@ extendedDiagnosticSettings:
 extensionTopics:
   path: Microsoft.Batch/extensionTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/extensionTopics
   architecture review:
     type: UNKNOWN
@@ -4302,7 +4302,7 @@ extensionTopics:
 externalSecuritySolutions:
   path: Microsoft.Batch/externalSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/externalSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4319,7 +4319,7 @@ externalSecuritySolutions:
 factories:
   path: Microsoft.Batch/factories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/factories
   architecture review:
     type: UNKNOWN
@@ -4336,7 +4336,7 @@ factories:
 featureProviders:
   path: Microsoft.Batch/featureProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/featureProviders
   architecture review:
     type: UNKNOWN
@@ -4353,7 +4353,7 @@ featureProviders:
 features:
   path: Microsoft.Batch/features
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/features
   architecture review:
     type: UNKNOWN
@@ -4370,7 +4370,7 @@ features:
 findOrphanRoleAssignments:
   path: Microsoft.Batch/findOrphanRoleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/findOrphanRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -4387,7 +4387,7 @@ findOrphanRoleAssignments:
 firewallPolicies:
   path: Microsoft.Batch/firewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/firewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4404,7 +4404,7 @@ firewallPolicies:
 frontDoors:
   path: Microsoft.Batch/frontDoors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/frontDoors
   architecture review:
     type: UNKNOWN
@@ -4421,7 +4421,7 @@ frontDoors:
 frontdoorOperationResults:
   path: Microsoft.Batch/frontdoorOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/frontdoorOperationResults
   architecture review:
     type: UNKNOWN
@@ -4438,7 +4438,7 @@ frontdoorOperationResults:
 frontdoorWebApplicationFirewallManagedRuleSets:
   path: Microsoft.Batch/frontdoorWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/frontdoorWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -4455,7 +4455,7 @@ frontdoorWebApplicationFirewallManagedRuleSets:
 frontdoorWebApplicationFirewallPolicies:
   path: Microsoft.Batch/frontdoorWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/frontdoorWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4472,7 +4472,7 @@ frontdoorWebApplicationFirewallPolicies:
 frontdoors:
   path: Microsoft.Batch/frontdoors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/frontdoors
   architecture review:
     type: UNKNOWN
@@ -4489,7 +4489,7 @@ frontdoors:
 galleries:
   path: Microsoft.Batch/galleries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/galleries
   architecture review:
     type: UNKNOWN
@@ -4506,7 +4506,7 @@ galleries:
 gatewaySupportedDevices:
   path: Microsoft.Batch/gatewaySupportedDevices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/gatewaySupportedDevices
   architecture review:
     type: UNKNOWN
@@ -4523,7 +4523,7 @@ gatewaySupportedDevices:
 gateways:
   path: Microsoft.Batch/gateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/gateways
   architecture review:
     type: UNKNOWN
@@ -4540,7 +4540,7 @@ gateways:
 generateRecommendations:
   path: Microsoft.Batch/generateRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/generateRecommendations
   architecture review:
     type: UNKNOWN
@@ -4557,7 +4557,7 @@ generateRecommendations:
 generateSsoRequest:
   path: Microsoft.Batch/generateSsoRequest
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/generateSsoRequest
   architecture review:
     type: UNKNOWN
@@ -4574,7 +4574,7 @@ generateSsoRequest:
 georegions:
   path: Microsoft.Batch/georegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/georegions
   architecture review:
     type: UNKNOWN
@@ -4591,7 +4591,7 @@ georegions:
 getDnsResourceReference:
   path: Microsoft.Batch/getDnsResourceReference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/getDnsResourceReference
   architecture review:
     type: UNKNOWN
@@ -4608,7 +4608,7 @@ getDnsResourceReference:
 getEntities:
   path: Microsoft.Batch/getEntities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/getEntities
   architecture review:
     type: UNKNOWN
@@ -4625,7 +4625,7 @@ getEntities:
 guestConfigurationAssignments:
   path: Microsoft.Batch/guestConfigurationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/guestConfigurationAssignments
   architecture review:
     type: UNKNOWN
@@ -4642,7 +4642,7 @@ guestConfigurationAssignments:
 hanaInstances:
   path: Microsoft.Batch/hanaInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/hanaInstances
   architecture review:
     type: UNKNOWN
@@ -4659,7 +4659,7 @@ hanaInstances:
 hostGroups:
   path: Microsoft.Batch/hostGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/hostGroups
   architecture review:
     type: UNKNOWN
@@ -4676,7 +4676,7 @@ hostGroups:
 hostingEnvironments:
   path: Microsoft.Batch/hostingEnvironments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/hostingEnvironments
   architecture review:
     type: UNKNOWN
@@ -4693,7 +4693,7 @@ hostingEnvironments:
 hybridUseBenefits:
   path: Microsoft.Batch/hybridUseBenefits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/hybridUseBenefits
   architecture review:
     type: UNKNOWN
@@ -4710,7 +4710,7 @@ hybridUseBenefits:
 images:
   path: Microsoft.Batch/images
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/images
   architecture review:
     type: UNKNOWN
@@ -4727,7 +4727,7 @@ images:
 incidents:
   path: Microsoft.Batch/incidents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/incidents
   architecture review:
     type: UNKNOWN
@@ -4744,7 +4744,7 @@ incidents:
 instancePools:
   path: Microsoft.Batch/instancePools
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/instancePools
   architecture review:
     type: UNKNOWN
@@ -4761,7 +4761,7 @@ instancePools:
 integrationAccounts:
   path: Microsoft.Batch/integrationAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/integrationAccounts
   architecture review:
     type: UNKNOWN
@@ -4778,7 +4778,7 @@ integrationAccounts:
 integrationServiceEnvironments:
   path: Microsoft.Batch/integrationServiceEnvironments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/integrationServiceEnvironments
   architecture review:
     type: UNKNOWN
@@ -4795,7 +4795,7 @@ integrationServiceEnvironments:
 internalNotify:
   path: Microsoft.Batch/internalNotify
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/internalNotify
   architecture review:
     type: UNKNOWN
@@ -4812,7 +4812,7 @@ internalNotify:
 invoices:
   path: Microsoft.Batch/invoices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/invoices
   architecture review:
     type: UNKNOWN
@@ -4829,7 +4829,7 @@ invoices:
 iotSecuritySolutions:
   path: Microsoft.Batch/iotSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/iotSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4846,7 +4846,7 @@ iotSecuritySolutions:
 ipGroups:
   path: Microsoft.Batch/ipGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ipGroups
   architecture review:
     type: UNKNOWN
@@ -4863,7 +4863,7 @@ ipGroups:
 ishostingenvironmentnameavailable:
   path: Microsoft.Batch/ishostingenvironmentnameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ishostingenvironmentnameavailable
   architecture review:
     type: UNKNOWN
@@ -4880,7 +4880,7 @@ ishostingenvironmentnameavailable:
 ishostnameavailable:
   path: Microsoft.Batch/ishostnameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/ishostnameavailable
   architecture review:
     type: UNKNOWN
@@ -4897,7 +4897,7 @@ ishostnameavailable:
 isusernameavailable:
   path: Microsoft.Batch/isusernameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/isusernameavailable
   architecture review:
     type: UNKNOWN
@@ -4914,7 +4914,7 @@ isusernameavailable:
 jitNetworkAccessPolicies:
   path: Microsoft.Batch/jitNetworkAccessPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/jitNetworkAccessPolicies
   architecture review:
     type: UNKNOWN
@@ -4931,7 +4931,7 @@ jitNetworkAccessPolicies:
 jitRequests:
   path: Microsoft.Batch/jitRequests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/jitRequests
   architecture review:
     type: UNKNOWN
@@ -4948,7 +4948,7 @@ jitRequests:
 jobcollections:
   path: Microsoft.Batch/jobcollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/jobcollections
   architecture review:
     type: UNKNOWN
@@ -4965,7 +4965,7 @@ jobcollections:
 jobs:
   path: Microsoft.Batch/jobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/jobs
   architecture review:
     type: UNKNOWN
@@ -4982,7 +4982,7 @@ jobs:
 labAccounts:
   path: Microsoft.Batch/labAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/labAccounts
   architecture review:
     type: UNKNOWN
@@ -4999,7 +4999,7 @@ labAccounts:
 labaccounts:
   path: Microsoft.Batch/labaccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/labaccounts
   architecture review:
     type: UNKNOWN
@@ -5016,7 +5016,7 @@ labaccounts:
 labs:
   path: Microsoft.Batch/labs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/labs
   architecture review:
     type: UNKNOWN
@@ -5033,7 +5033,7 @@ labs:
 legacyPeerings:
   path: Microsoft.Batch/legacyPeerings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/legacyPeerings
   architecture review:
     type: UNKNOWN
@@ -5050,7 +5050,7 @@ legacyPeerings:
 linkTargets:
   path: Microsoft.Batch/linkTargets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/linkTargets
   architecture review:
     type: UNKNOWN
@@ -5067,7 +5067,7 @@ linkTargets:
 links:
   path: Microsoft.Batch/links
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/links
   architecture review:
     type: UNKNOWN
@@ -5084,7 +5084,7 @@ links:
 listAuthServiceProviders:
   path: Microsoft.Batch/listAuthServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/listAuthServiceProviders
   architecture review:
     type: UNKNOWN
@@ -5101,7 +5101,7 @@ listAuthServiceProviders:
 listAvailableOffers:
   path: Microsoft.Batch/listAvailableOffers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/listAvailableOffers
   architecture review:
     type: UNKNOWN
@@ -5118,7 +5118,7 @@ listAvailableOffers:
 listBenefits:
   path: Microsoft.Batch/listBenefits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/listBenefits
   architecture review:
     type: UNKNOWN
@@ -5135,7 +5135,7 @@ listBenefits:
 listCommunicationPreference:
   path: Microsoft.Batch/listCommunicationPreference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/listCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -5152,7 +5152,7 @@ listCommunicationPreference:
 listDomainRecommendations:
   path: Microsoft.Batch/listDomainRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/listDomainRecommendations
   architecture review:
     type: UNKNOWN
@@ -5169,7 +5169,7 @@ listDomainRecommendations:
 listMigrationdate:
   path: Microsoft.Batch/listMigrationdate
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/listMigrationdate
   architecture review:
     type: UNKNOWN
@@ -5186,7 +5186,7 @@ listMigrationdate:
 listSitesAssignedToHostName:
   path: Microsoft.Batch/listSitesAssignedToHostName
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/listSitesAssignedToHostName
   architecture review:
     type: UNKNOWN
@@ -5203,7 +5203,7 @@ listSitesAssignedToHostName:
 listinvitations:
   path: Microsoft.Batch/listinvitations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/listinvitations
   architecture review:
     type: UNKNOWN
@@ -5220,7 +5220,7 @@ listinvitations:
 loadBalancers:
   path: Microsoft.Batch/loadBalancers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/loadBalancers
   architecture review:
     type: UNKNOWN
@@ -5237,7 +5237,7 @@ loadBalancers:
 localNetworkGateways:
   path: Microsoft.Batch/localNetworkGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/localNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -5254,7 +5254,7 @@ localNetworkGateways:
 locations:
   path: Microsoft.Batch/locations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/locations
   architecture review:
     type: UNKNOWN
@@ -5271,7 +5271,7 @@ locations:
 locks:
   path: Microsoft.Batch/locks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/locks
   architecture review:
     type: UNKNOWN
@@ -5288,7 +5288,7 @@ locks:
 logDefinitions:
   path: Microsoft.Batch/logDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/logDefinitions
   architecture review:
     type: UNKNOWN
@@ -5305,7 +5305,7 @@ logDefinitions:
 logprofiles:
   path: Microsoft.Batch/logprofiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/logprofiles
   architecture review:
     type: UNKNOWN
@@ -5322,7 +5322,7 @@ logprofiles:
 logs:
   path: Microsoft.Batch/logs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/logs
   architecture review:
     type: UNKNOWN
@@ -5339,7 +5339,7 @@ logs:
 lots:
   path: Microsoft.Batch/lots
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/lots
   architecture review:
     type: UNKNOWN
@@ -5356,7 +5356,7 @@ lots:
 machines:
   path: Microsoft.Batch/machines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/machines
   architecture review:
     type: UNKNOWN
@@ -5373,7 +5373,7 @@ machines:
 maintenanceConfigurations:
   path: Microsoft.Batch/maintenanceConfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/maintenanceConfigurations
   architecture review:
     type: UNKNOWN
@@ -5390,7 +5390,7 @@ maintenanceConfigurations:
 managedClusters:
   path: Microsoft.Batch/managedClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/managedClusters
   architecture review:
     type: UNKNOWN
@@ -5407,7 +5407,7 @@ managedClusters:
 managedInstances:
   path: Microsoft.Batch/managedInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/managedInstances
   architecture review:
     type: UNKNOWN
@@ -5424,7 +5424,7 @@ managedInstances:
 managementGroups:
   path: Microsoft.Batch/managementGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/managementGroups
   architecture review:
     type: UNKNOWN
@@ -5441,7 +5441,7 @@ managementGroups:
 managementassociations:
   path: Microsoft.Batch/managementassociations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/managementassociations
   architecture review:
     type: UNKNOWN
@@ -5458,7 +5458,7 @@ managementassociations:
 managementconfigurations:
   path: Microsoft.Batch/managementconfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/managementconfigurations
   architecture review:
     type: UNKNOWN
@@ -5475,7 +5475,7 @@ managementconfigurations:
 managers:
   path: Microsoft.Batch/managers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/managers
   architecture review:
     type: UNKNOWN
@@ -5492,7 +5492,7 @@ managers:
 mapApis:
   path: Microsoft.Batch/mapApis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/mapApis
   architecture review:
     type: UNKNOWN
@@ -5509,7 +5509,7 @@ mapApis:
 marketplaceRegistrationDefinitions:
   path: Microsoft.Batch/marketplaceRegistrationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/marketplaceRegistrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -5526,7 +5526,7 @@ marketplaceRegistrationDefinitions:
 mediaservices:
   path: Microsoft.Batch/mediaservices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/mediaservices
   architecture review:
     type: UNKNOWN
@@ -5543,7 +5543,7 @@ mediaservices:
 metadata:
   path: Microsoft.Batch/metadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/metadata
   architecture review:
     type: UNKNOWN
@@ -5560,7 +5560,7 @@ metadata:
 metricDefinitions:
   path: Microsoft.Batch/metricDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/metricDefinitions
   architecture review:
     type: UNKNOWN
@@ -5577,7 +5577,7 @@ metricDefinitions:
 metricNamespaces:
   path: Microsoft.Batch/metricNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/metricNamespaces
   architecture review:
     type: UNKNOWN
@@ -5594,7 +5594,7 @@ metricNamespaces:
 metricalerts:
   path: Microsoft.Batch/metricalerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/metricalerts
   architecture review:
     type: UNKNOWN
@@ -5611,7 +5611,7 @@ metricalerts:
 metricbaselines:
   path: Microsoft.Batch/metricbaselines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/metricbaselines
   architecture review:
     type: UNKNOWN
@@ -5628,7 +5628,7 @@ metricbaselines:
 metricbatch:
   path: Microsoft.Batch/metricbatch
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/metricbatch
   architecture review:
     type: UNKNOWN
@@ -5645,7 +5645,7 @@ metricbatch:
 metrics:
   path: Microsoft.Batch/metrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/metrics
   architecture review:
     type: UNKNOWN
@@ -5662,7 +5662,7 @@ metrics:
 migrateToNewPricingModel:
   path: Microsoft.Batch/migrateToNewPricingModel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/migrateToNewPricingModel
   architecture review:
     type: UNKNOWN
@@ -5679,7 +5679,7 @@ migrateToNewPricingModel:
 migratealertrules:
   path: Microsoft.Batch/migratealertrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/migratealertrules
   architecture review:
     type: UNKNOWN
@@ -5696,7 +5696,7 @@ migratealertrules:
 migrateprojects:
   path: Microsoft.Batch/migrateprojects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/migrateprojects
   architecture review:
     type: UNKNOWN
@@ -5713,7 +5713,7 @@ migrateprojects:
 monitorInstances:
   path: Microsoft.Batch/monitorInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/monitorInstances
   architecture review:
     type: UNKNOWN
@@ -5730,7 +5730,7 @@ monitorInstances:
 monitorInstancesSummary:
   path: Microsoft.Batch/monitorInstancesSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/monitorInstancesSummary
   architecture review:
     type: UNKNOWN
@@ -5747,7 +5747,7 @@ monitorInstancesSummary:
 monitors:
   path: Microsoft.Batch/monitors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/monitors
   architecture review:
     type: UNKNOWN
@@ -5764,7 +5764,7 @@ monitors:
 moveSubscriptionResources:
   path: Microsoft.Batch/moveSubscriptionResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/moveSubscriptionResources
   architecture review:
     type: UNKNOWN
@@ -5781,7 +5781,7 @@ moveSubscriptionResources:
 myWorkbooks:
   path: Microsoft.Batch/myWorkbooks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/myWorkbooks
   architecture review:
     type: UNKNOWN
@@ -5798,7 +5798,7 @@ myWorkbooks:
 namespaces:
   path: Microsoft.Batch/namespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/namespaces
   architecture review:
     type: UNKNOWN
@@ -5815,7 +5815,7 @@ namespaces:
 natGateways:
   path: Microsoft.Batch/natGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/natGateways
   architecture review:
     type: UNKNOWN
@@ -5832,7 +5832,7 @@ natGateways:
 networkExperimentProfiles:
   path: Microsoft.Batch/networkExperimentProfiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/networkExperimentProfiles
   architecture review:
     type: UNKNOWN
@@ -5849,7 +5849,7 @@ networkExperimentProfiles:
 networkIntentPolicies:
   path: Microsoft.Batch/networkIntentPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/networkIntentPolicies
   architecture review:
     type: UNKNOWN
@@ -5866,7 +5866,7 @@ networkIntentPolicies:
 networkInterfaces:
   path: Microsoft.Batch/networkInterfaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/networkInterfaces
   architecture review:
     type: UNKNOWN
@@ -5883,7 +5883,7 @@ networkInterfaces:
 networkProfiles:
   path: Microsoft.Batch/networkProfiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/networkProfiles
   architecture review:
     type: UNKNOWN
@@ -5900,7 +5900,7 @@ networkProfiles:
 networkSecurityGroups:
   path: Microsoft.Batch/networkSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/networkSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -5917,7 +5917,7 @@ networkSecurityGroups:
 networkWatchers:
   path: Microsoft.Batch/networkWatchers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/networkWatchers
   architecture review:
     type: UNKNOWN
@@ -5934,7 +5934,7 @@ networkWatchers:
 networks:
   path: Microsoft.Batch/networks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/networks
   architecture review:
     type: UNKNOWN
@@ -5951,7 +5951,7 @@ networks:
 notificationSettings:
   path: Microsoft.Batch/notificationSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/notificationSettings
   architecture review:
     type: UNKNOWN
@@ -5968,7 +5968,7 @@ notificationSettings:
 notifications:
   path: Microsoft.Batch/notifications
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/notifications
   architecture review:
     type: UNKNOWN
@@ -5985,7 +5985,7 @@ notifications:
 notifyResourceJobs:
   path: Microsoft.Batch/notifyResourceJobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/notifyResourceJobs
   architecture review:
     type: UNKNOWN
@@ -6002,7 +6002,7 @@ notifyResourceJobs:
 offerTypes:
   path: Microsoft.Batch/offerTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/offerTypes
   architecture review:
     type: UNKNOWN
@@ -6019,7 +6019,7 @@ offerTypes:
 offers:
   path: Microsoft.Batch/offers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/offers
   architecture review:
     type: UNKNOWN
@@ -6036,7 +6036,7 @@ offers:
 offertypes:
   path: Microsoft.Batch/offertypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/offertypes
   architecture review:
     type: UNKNOWN
@@ -6053,7 +6053,7 @@ offertypes:
 officeConsents:
   path: Microsoft.Batch/officeConsents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/officeConsents
   architecture review:
     type: UNKNOWN
@@ -6070,7 +6070,7 @@ officeConsents:
 openShiftManagedClusters:
   path: Microsoft.Batch/openShiftManagedClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/openShiftManagedClusters
   architecture review:
     type: UNKNOWN
@@ -6087,7 +6087,7 @@ openShiftManagedClusters:
 operatingSystemFamilies:
   path: Microsoft.Batch/operatingSystemFamilies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/operatingSystemFamilies
   architecture review:
     type: UNKNOWN
@@ -6104,7 +6104,7 @@ operatingSystemFamilies:
 operatingSystems:
   path: Microsoft.Batch/operatingSystems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/operatingSystems
   architecture review:
     type: UNKNOWN
@@ -6121,7 +6121,7 @@ operatingSystems:
 operationResults:
   path: Microsoft.Batch/operationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/operationResults
   architecture review:
     type: UNKNOWN
@@ -6138,7 +6138,7 @@ operationResults:
 operationStatus:
   path: Microsoft.Batch/operationStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/operationStatus
   architecture review:
     type: UNKNOWN
@@ -6155,7 +6155,7 @@ operationStatus:
 operationStatuses:
   path: Microsoft.Batch/operationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/operationStatuses
   architecture review:
     type: UNKNOWN
@@ -6172,7 +6172,7 @@ operationStatuses:
 operationresults:
   path: Microsoft.Batch/operationresults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/operationresults
   architecture review:
     type: UNKNOWN
@@ -6189,7 +6189,7 @@ operationresults:
 operations:
   path: Microsoft.Batch/operations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/operations
   architecture review:
     type: UNKNOWN
@@ -6206,7 +6206,7 @@ operations:
 operationsStatus:
   path: Microsoft.Batch/operationsStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/operationsStatus
   architecture review:
     type: UNKNOWN
@@ -6223,7 +6223,7 @@ operationsStatus:
 operationsstatus:
   path: Microsoft.Batch/operationsstatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/operationsstatus
   architecture review:
     type: UNKNOWN
@@ -6240,7 +6240,7 @@ operationsstatus:
 osImages:
   path: Microsoft.Batch/osImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/osImages
   architecture review:
     type: UNKNOWN
@@ -6257,7 +6257,7 @@ osImages:
 osNamespaces:
   path: Microsoft.Batch/osNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/osNamespaces
   architecture review:
     type: UNKNOWN
@@ -6274,7 +6274,7 @@ osNamespaces:
 osPlatformImages:
   path: Microsoft.Batch/osPlatformImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/osPlatformImages
   architecture review:
     type: UNKNOWN
@@ -6291,7 +6291,7 @@ osPlatformImages:
 p2sVpnGateways:
   path: Microsoft.Batch/p2sVpnGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/p2sVpnGateways
   architecture review:
     type: UNKNOWN
@@ -6308,7 +6308,7 @@ p2sVpnGateways:
 partnerNamespaces:
   path: Microsoft.Batch/partnerNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/partnerNamespaces
   architecture review:
     type: UNKNOWN
@@ -6325,7 +6325,7 @@ partnerNamespaces:
 partnerTopics:
   path: Microsoft.Batch/partnerTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/partnerTopics
   architecture review:
     type: UNKNOWN
@@ -6342,7 +6342,7 @@ partnerTopics:
 peerAsns:
   path: Microsoft.Batch/peerAsns
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/peerAsns
   architecture review:
     type: UNKNOWN
@@ -6359,7 +6359,7 @@ peerAsns:
 peeringLocations:
   path: Microsoft.Batch/peeringLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/peeringLocations
   architecture review:
     type: UNKNOWN
@@ -6376,7 +6376,7 @@ peeringLocations:
 peeringServiceCountries:
   path: Microsoft.Batch/peeringServiceCountries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/peeringServiceCountries
   architecture review:
     type: UNKNOWN
@@ -6393,7 +6393,7 @@ peeringServiceCountries:
 peeringServiceLocations:
   path: Microsoft.Batch/peeringServiceLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/peeringServiceLocations
   architecture review:
     type: UNKNOWN
@@ -6410,7 +6410,7 @@ peeringServiceLocations:
 peeringServiceProviders:
   path: Microsoft.Batch/peeringServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/peeringServiceProviders
   architecture review:
     type: UNKNOWN
@@ -6427,7 +6427,7 @@ peeringServiceProviders:
 peerings:
   path: Microsoft.Batch/peerings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/peerings
   architecture review:
     type: UNKNOWN
@@ -6444,7 +6444,7 @@ peerings:
 permissions:
   path: Microsoft.Batch/permissions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/permissions
   architecture review:
     type: UNKNOWN
@@ -6461,7 +6461,7 @@ permissions:
 pipelines:
   path: Microsoft.Batch/pipelines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/pipelines
   architecture review:
     type: UNKNOWN
@@ -6478,7 +6478,7 @@ pipelines:
 placePurchaseOrder:
   path: Microsoft.Batch/placePurchaseOrder
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/placePurchaseOrder
   architecture review:
     type: UNKNOWN
@@ -6495,7 +6495,7 @@ placePurchaseOrder:
 plans:
   path: Microsoft.Batch/plans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/plans
   architecture review:
     type: UNKNOWN
@@ -6512,7 +6512,7 @@ plans:
 policies:
   path: Microsoft.Batch/policies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/policies
   architecture review:
     type: UNKNOWN
@@ -6529,7 +6529,7 @@ policies:
 policyAssignments:
   path: Microsoft.Batch/policyAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/policyAssignments
   architecture review:
     type: UNKNOWN
@@ -6546,7 +6546,7 @@ policyAssignments:
 policyDefinitions:
   path: Microsoft.Batch/policyDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/policyDefinitions
   architecture review:
     type: UNKNOWN
@@ -6563,7 +6563,7 @@ policyDefinitions:
 policyEvents:
   path: Microsoft.Batch/policyEvents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/policyEvents
   architecture review:
     type: UNKNOWN
@@ -6580,7 +6580,7 @@ policyEvents:
 policyMetadata:
   path: Microsoft.Batch/policyMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/policyMetadata
   architecture review:
     type: UNKNOWN
@@ -6597,7 +6597,7 @@ policyMetadata:
 policySetDefinitions:
   path: Microsoft.Batch/policySetDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/policySetDefinitions
   architecture review:
     type: UNKNOWN
@@ -6614,7 +6614,7 @@ policySetDefinitions:
 policyStates:
   path: Microsoft.Batch/policyStates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/policyStates
   architecture review:
     type: UNKNOWN
@@ -6631,7 +6631,7 @@ policyStates:
 policyTrackedResources:
   path: Microsoft.Batch/policyTrackedResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/policyTrackedResources
   architecture review:
     type: UNKNOWN
@@ -6648,7 +6648,7 @@ policyTrackedResources:
 premiumMessagingRegions:
   path: Microsoft.Batch/premiumMessagingRegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/premiumMessagingRegions
   architecture review:
     type: UNKNOWN
@@ -6665,7 +6665,7 @@ premiumMessagingRegions:
 pricings:
   path: Microsoft.Batch/pricings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/pricings
   architecture review:
     type: UNKNOWN
@@ -6682,7 +6682,7 @@ pricings:
 privateDnsOperationResults:
   path: Microsoft.Batch/privateDnsOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/privateDnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -6699,7 +6699,7 @@ privateDnsOperationResults:
 privateDnsOperationStatuses:
   path: Microsoft.Batch/privateDnsOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/privateDnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6716,7 +6716,7 @@ privateDnsOperationStatuses:
 privateDnsZones:
   path: Microsoft.Batch/privateDnsZones
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/privateDnsZones
   architecture review:
     type: UNKNOWN
@@ -6733,7 +6733,7 @@ privateDnsZones:
 privateDnsZonesInternal:
   path: Microsoft.Batch/privateDnsZonesInternal
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/privateDnsZonesInternal
   architecture review:
     type: UNKNOWN
@@ -6750,7 +6750,7 @@ privateDnsZonesInternal:
 privateEndpointRedirectMaps:
   path: Microsoft.Batch/privateEndpointRedirectMaps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/privateEndpointRedirectMaps
   architecture review:
     type: UNKNOWN
@@ -6767,7 +6767,7 @@ privateEndpointRedirectMaps:
 privateEndpoints:
   path: Microsoft.Batch/privateEndpoints
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/privateEndpoints
   architecture review:
     type: UNKNOWN
@@ -6784,7 +6784,7 @@ privateEndpoints:
 privateLinkScopeOperationStatuses:
   path: Microsoft.Batch/privateLinkScopeOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/privateLinkScopeOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6801,7 +6801,7 @@ privateLinkScopeOperationStatuses:
 privateLinkScopes:
   path: Microsoft.Batch/privateLinkScopes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/privateLinkScopes
   architecture review:
     type: UNKNOWN
@@ -6818,7 +6818,7 @@ privateLinkScopes:
 privateLinkServices:
   path: Microsoft.Batch/privateLinkServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/privateLinkServices
   architecture review:
     type: UNKNOWN
@@ -6835,7 +6835,7 @@ privateLinkServices:
 privateStoreClient:
   path: Microsoft.Batch/privateStoreClient
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/privateStoreClient
   architecture review:
     type: UNKNOWN
@@ -6852,7 +6852,7 @@ privateStoreClient:
 privateStores:
   path: Microsoft.Batch/privateStores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/privateStores
   architecture review:
     type: UNKNOWN
@@ -6869,7 +6869,7 @@ privateStores:
 privategalleryitems:
   path: Microsoft.Batch/privategalleryitems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/privategalleryitems
   architecture review:
     type: UNKNOWN
@@ -6886,7 +6886,7 @@ privategalleryitems:
 products:
   path: Microsoft.Batch/products
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/products
   architecture review:
     type: UNKNOWN
@@ -6903,7 +6903,7 @@ products:
 profiles:
   path: Microsoft.Batch/profiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/profiles
   architecture review:
     type: UNKNOWN
@@ -6920,7 +6920,7 @@ profiles:
 projects:
   path: Microsoft.Batch/projects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/projects
   architecture review:
     type: UNKNOWN
@@ -6937,7 +6937,7 @@ projects:
 providerOperations:
   path: Microsoft.Batch/providerOperations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/providerOperations
   architecture review:
     type: UNKNOWN
@@ -6954,7 +6954,7 @@ providerOperations:
 providerRegistrations:
   path: Microsoft.Batch/providerRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/providerRegistrations
   architecture review:
     type: UNKNOWN
@@ -6971,7 +6971,7 @@ providerRegistrations:
 providers:
   path: Microsoft.Batch/providers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/providers
   architecture review:
     type: UNKNOWN
@@ -6988,7 +6988,7 @@ providers:
 proximityPlacementGroups:
   path: Microsoft.Batch/proximityPlacementGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/proximityPlacementGroups
   architecture review:
     type: UNKNOWN
@@ -7005,7 +7005,7 @@ proximityPlacementGroups:
 publicIPAddresses:
   path: Microsoft.Batch/publicIPAddresses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/publicIPAddresses
   architecture review:
     type: UNKNOWN
@@ -7022,7 +7022,7 @@ publicIPAddresses:
 publicIPPrefixes:
   path: Microsoft.Batch/publicIPPrefixes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/publicIPPrefixes
   architecture review:
     type: UNKNOWN
@@ -7039,7 +7039,7 @@ publicIPPrefixes:
 publicImages:
   path: Microsoft.Batch/publicImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/publicImages
   architecture review:
     type: UNKNOWN
@@ -7056,7 +7056,7 @@ publicImages:
 publishers:
   path: Microsoft.Batch/publishers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/publishers
   architecture review:
     type: UNKNOWN
@@ -7073,7 +7073,7 @@ publishers:
 publishingUsers:
   path: Microsoft.Batch/publishingUsers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/publishingUsers
   architecture review:
     type: UNKNOWN
@@ -7090,7 +7090,7 @@ publishingUsers:
 queries:
   path: Microsoft.Batch/queries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/queries
   architecture review:
     type: UNKNOWN
@@ -7107,7 +7107,7 @@ queries:
 quotas:
   path: Microsoft.Batch/quotas
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/quotas
   architecture review:
     type: UNKNOWN
@@ -7124,7 +7124,7 @@ quotas:
 recommendations:
   path: Microsoft.Batch/recommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/recommendations
   architecture review:
     type: UNKNOWN
@@ -7141,7 +7141,7 @@ recommendations:
 redis:
   path: Microsoft.Batch/redis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/redis
   architecture review:
     type: UNKNOWN
@@ -7158,7 +7158,7 @@ redis:
 register:
   path: Microsoft.Batch/register
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/register
   architecture review:
     type: UNKNOWN
@@ -7175,7 +7175,7 @@ register:
 registrationAssignments:
   path: Microsoft.Batch/registrationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/registrationAssignments
   architecture review:
     type: UNKNOWN
@@ -7192,7 +7192,7 @@ registrationAssignments:
 registrationDefinitions:
   path: Microsoft.Batch/registrationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/registrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -7209,7 +7209,7 @@ registrationDefinitions:
 registrations:
   path: Microsoft.Batch/registrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/registrations
   architecture review:
     type: UNKNOWN
@@ -7226,7 +7226,7 @@ registrations:
 registries:
   path: Microsoft.Batch/registries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/registries
   architecture review:
     type: UNKNOWN
@@ -7243,7 +7243,7 @@ registries:
 regulatoryComplianceStandards:
   path: Microsoft.Batch/regulatoryComplianceStandards
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/regulatoryComplianceStandards
   architecture review:
     type: UNKNOWN
@@ -7260,7 +7260,7 @@ regulatoryComplianceStandards:
 remediations:
   path: Microsoft.Batch/remediations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/remediations
   architecture review:
     type: UNKNOWN
@@ -7277,7 +7277,7 @@ remediations:
 rename:
   path: Microsoft.Batch/rename
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/rename
   architecture review:
     type: UNKNOWN
@@ -7294,7 +7294,7 @@ rename:
 replicationEligibilityResults:
   path: Microsoft.Batch/replicationEligibilityResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/replicationEligibilityResults
   architecture review:
     type: UNKNOWN
@@ -7311,7 +7311,7 @@ replicationEligibilityResults:
 reportFeedback:
   path: Microsoft.Batch/reportFeedback
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/reportFeedback
   architecture review:
     type: UNKNOWN
@@ -7328,7 +7328,7 @@ reportFeedback:
 reports:
   path: Microsoft.Batch/reports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/reports
   architecture review:
     type: UNKNOWN
@@ -7345,7 +7345,7 @@ reports:
 requests:
   path: Microsoft.Batch/requests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/requests
   architecture review:
     type: UNKNOWN
@@ -7362,7 +7362,7 @@ requests:
 reservationOrders:
   path: Microsoft.Batch/reservationOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/reservationOrders
   architecture review:
     type: UNKNOWN
@@ -7379,7 +7379,7 @@ reservationOrders:
 reservations:
   path: Microsoft.Batch/reservations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/reservations
   architecture review:
     type: UNKNOWN
@@ -7396,7 +7396,7 @@ reservations:
 reservedIps:
   path: Microsoft.Batch/reservedIps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/reservedIps
   architecture review:
     type: UNKNOWN
@@ -7413,7 +7413,7 @@ reservedIps:
 resourceChangeDetails:
   path: Microsoft.Batch/resourceChangeDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/resourceChangeDetails
   architecture review:
     type: UNKNOWN
@@ -7430,7 +7430,7 @@ resourceChangeDetails:
 resourceChanges:
   path: Microsoft.Batch/resourceChanges
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/resourceChanges
   architecture review:
     type: UNKNOWN
@@ -7447,7 +7447,7 @@ resourceChanges:
 resourceGroups:
   path: Microsoft.Batch/resourceGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/resourceGroups
   architecture review:
     type: UNKNOWN
@@ -7464,7 +7464,7 @@ resourceGroups:
 resourceHealthMetadata:
   path: Microsoft.Batch/resourceHealthMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/resourceHealthMetadata
   architecture review:
     type: UNKNOWN
@@ -7481,7 +7481,7 @@ resourceHealthMetadata:
 resourceProviders:
   path: Microsoft.Batch/resourceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/resourceProviders
   architecture review:
     type: UNKNOWN
@@ -7498,7 +7498,7 @@ resourceProviders:
 resourceTypes:
   path: Microsoft.Batch/resourceTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/resourceTypes
   architecture review:
     type: UNKNOWN
@@ -7515,7 +7515,7 @@ resourceTypes:
 resources:
   path: Microsoft.Batch/resources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/resources
   architecture review:
     type: UNKNOWN
@@ -7532,7 +7532,7 @@ resources:
 resourcesHistory:
   path: Microsoft.Batch/resourcesHistory
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/resourcesHistory
   architecture review:
     type: UNKNOWN
@@ -7549,7 +7549,7 @@ resourcesHistory:
 restorePointCollections:
   path: Microsoft.Batch/restorePointCollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/restorePointCollections
   architecture review:
     type: UNKNOWN
@@ -7566,7 +7566,7 @@ restorePointCollections:
 roleAssignments:
   path: Microsoft.Batch/roleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/roleAssignments
   architecture review:
     type: UNKNOWN
@@ -7583,7 +7583,7 @@ roleAssignments:
 roleAssignmentsUsageMetrics:
   path: Microsoft.Batch/roleAssignmentsUsageMetrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/roleAssignmentsUsageMetrics
   architecture review:
     type: UNKNOWN
@@ -7600,7 +7600,7 @@ roleAssignmentsUsageMetrics:
 roleDefinitions:
   path: Microsoft.Batch/roleDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/roleDefinitions
   architecture review:
     type: UNKNOWN
@@ -7617,7 +7617,7 @@ roleDefinitions:
 rollbackToLegacyPricingModel:
   path: Microsoft.Batch/rollbackToLegacyPricingModel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/rollbackToLegacyPricingModel
   architecture review:
     type: UNKNOWN
@@ -7634,7 +7634,7 @@ rollbackToLegacyPricingModel:
 rollouts:
   path: Microsoft.Batch/rollouts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/rollouts
   architecture review:
     type: UNKNOWN
@@ -7651,7 +7651,7 @@ rollouts:
 routeFilters:
   path: Microsoft.Batch/routeFilters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/routeFilters
   architecture review:
     type: UNKNOWN
@@ -7668,7 +7668,7 @@ routeFilters:
 routeTables:
   path: Microsoft.Batch/routeTables
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/routeTables
   architecture review:
     type: UNKNOWN
@@ -7685,7 +7685,7 @@ routeTables:
 runtimes:
   path: Microsoft.Batch/runtimes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/runtimes
   architecture review:
     type: UNKNOWN
@@ -7702,7 +7702,7 @@ runtimes:
 saasresources:
   path: Microsoft.Batch/saasresources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/saasresources
   architecture review:
     type: UNKNOWN
@@ -7719,7 +7719,7 @@ saasresources:
 sapMonitors:
   path: Microsoft.Batch/sapMonitors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/sapMonitors
   architecture review:
     type: UNKNOWN
@@ -7736,7 +7736,7 @@ sapMonitors:
 scheduledqueryrules:
   path: Microsoft.Batch/scheduledqueryrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/scheduledqueryrules
   architecture review:
     type: UNKNOWN
@@ -7753,7 +7753,7 @@ scheduledqueryrules:
 schedules:
   path: Microsoft.Batch/schedules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/schedules
   architecture review:
     type: UNKNOWN
@@ -7770,7 +7770,7 @@ schedules:
 searchServices:
   path: Microsoft.Batch/searchServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/searchServices
   architecture review:
     type: UNKNOWN
@@ -7787,7 +7787,7 @@ searchServices:
 secrets:
   path: Microsoft.Batch/secrets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/secrets
   architecture review:
     type: UNKNOWN
@@ -7804,7 +7804,7 @@ secrets:
 securityContacts:
   path: Microsoft.Batch/securityContacts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/securityContacts
   architecture review:
     type: UNKNOWN
@@ -7821,7 +7821,7 @@ securityContacts:
 securitySolutions:
   path: Microsoft.Batch/securitySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/securitySolutions
   architecture review:
     type: UNKNOWN
@@ -7838,7 +7838,7 @@ securitySolutions:
 securitySolutionsReferenceData:
   path: Microsoft.Batch/securitySolutionsReferenceData
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/securitySolutionsReferenceData
   architecture review:
     type: UNKNOWN
@@ -7855,7 +7855,7 @@ securitySolutionsReferenceData:
 securityStatuses:
   path: Microsoft.Batch/securityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/securityStatuses
   architecture review:
     type: UNKNOWN
@@ -7872,7 +7872,7 @@ securityStatuses:
 securityStatusesSummaries:
   path: Microsoft.Batch/securityStatusesSummaries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/securityStatusesSummaries
   architecture review:
     type: UNKNOWN
@@ -7889,7 +7889,7 @@ securityStatusesSummaries:
 serverFarms:
   path: Microsoft.Batch/serverFarms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/serverFarms
   architecture review:
     type: UNKNOWN
@@ -7906,7 +7906,7 @@ serverFarms:
 serverGroups:
   path: Microsoft.Batch/serverGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/serverGroups
   architecture review:
     type: UNKNOWN
@@ -7923,7 +7923,7 @@ serverGroups:
 serverVulnerabilityAssessments:
   path: Microsoft.Batch/serverVulnerabilityAssessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/serverVulnerabilityAssessments
   architecture review:
     type: UNKNOWN
@@ -7940,7 +7940,7 @@ serverVulnerabilityAssessments:
 serverfarms:
   path: Microsoft.Batch/serverfarms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/serverfarms
   architecture review:
     type: UNKNOWN
@@ -7957,7 +7957,7 @@ serverfarms:
 servers:
   path: Microsoft.Batch/servers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/servers
   architecture review:
     type: UNKNOWN
@@ -7974,7 +7974,7 @@ servers:
 serversv2:
   path: Microsoft.Batch/serversv2
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/serversv2
   architecture review:
     type: UNKNOWN
@@ -7991,7 +7991,7 @@ serversv2:
 service:
   path: Microsoft.Batch/service
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/service
   architecture review:
     type: UNKNOWN
@@ -8008,7 +8008,7 @@ service:
 serviceAssociationLinks:
   path: Microsoft.Batch/serviceAssociationLinks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/serviceAssociationLinks
   architecture review:
     type: UNKNOWN
@@ -8025,7 +8025,7 @@ serviceAssociationLinks:
 serviceEndpointPolicies:
   path: Microsoft.Batch/serviceEndpointPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/serviceEndpointPolicies
   architecture review:
     type: UNKNOWN
@@ -8042,7 +8042,7 @@ serviceEndpointPolicies:
 serviceTopologies:
   path: Microsoft.Batch/serviceTopologies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/serviceTopologies
   architecture review:
     type: UNKNOWN
@@ -8059,7 +8059,7 @@ serviceTopologies:
 servicehealthmetrics:
   path: Microsoft.Batch/servicehealthmetrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/servicehealthmetrics
   architecture review:
     type: UNKNOWN
@@ -8076,7 +8076,7 @@ servicehealthmetrics:
 services:
   path: Microsoft.Batch/services
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/services
   architecture review:
     type: UNKNOWN
@@ -8093,7 +8093,7 @@ services:
 settings:
   path: Microsoft.Batch/settings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/settings
   architecture review:
     type: UNKNOWN
@@ -8110,7 +8110,7 @@ settings:
 sharedVMImages:
   path: Microsoft.Batch/sharedVMImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/sharedVMImages
   architecture review:
     type: UNKNOWN
@@ -8127,7 +8127,7 @@ sharedVMImages:
 showbackRules:
   path: Microsoft.Batch/showbackRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/showbackRules
   architecture review:
     type: UNKNOWN
@@ -8144,7 +8144,7 @@ showbackRules:
 singleServers:
   path: Microsoft.Batch/singleServers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/singleServers
   architecture review:
     type: UNKNOWN
@@ -8161,7 +8161,7 @@ singleServers:
 sites:
   path: Microsoft.Batch/sites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/sites
   architecture review:
     type: UNKNOWN
@@ -8178,7 +8178,7 @@ sites:
 sku:
   path: Microsoft.Batch/sku
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/sku
   architecture review:
     type: UNKNOWN
@@ -8195,7 +8195,7 @@ sku:
 smartDetectorAlertRules:
   path: Microsoft.Batch/smartDetectorAlertRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/smartDetectorAlertRules
   architecture review:
     type: UNKNOWN
@@ -8212,7 +8212,7 @@ smartDetectorAlertRules:
 smartGroups:
   path: Microsoft.Batch/smartGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/smartGroups
   architecture review:
     type: UNKNOWN
@@ -8229,7 +8229,7 @@ smartGroups:
 snapshots:
   path: Microsoft.Batch/snapshots
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/snapshots
   architecture review:
     type: UNKNOWN
@@ -8246,7 +8246,7 @@ snapshots:
 software:
   path: Microsoft.Batch/software
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/software
   architecture review:
     type: UNKNOWN
@@ -8263,7 +8263,7 @@ software:
 softwareUpdateProfile:
   path: Microsoft.Batch/softwareUpdateProfile
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/softwareUpdateProfile
   architecture review:
     type: UNKNOWN
@@ -8280,7 +8280,7 @@ softwareUpdateProfile:
 softwareUpdates:
   path: Microsoft.Batch/softwareUpdates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/softwareUpdates
   architecture review:
     type: UNKNOWN
@@ -8297,7 +8297,7 @@ softwareUpdates:
 solutions:
   path: Microsoft.Batch/solutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/solutions
   architecture review:
     type: UNKNOWN
@@ -8314,7 +8314,7 @@ solutions:
 sourceControls:
   path: Microsoft.Batch/sourceControls
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/sourceControls
   architecture review:
     type: UNKNOWN
@@ -8331,7 +8331,7 @@ sourceControls:
 spatialAnchorsAccounts:
   path: Microsoft.Batch/spatialAnchorsAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/spatialAnchorsAccounts
   architecture review:
     type: UNKNOWN
@@ -8348,7 +8348,7 @@ spatialAnchorsAccounts:
 sqlServerRegistrations:
   path: Microsoft.Batch/sqlServerRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/sqlServerRegistrations
   architecture review:
     type: UNKNOWN
@@ -8365,7 +8365,7 @@ sqlServerRegistrations:
 sshPublicKeys:
   path: Microsoft.Batch/sshPublicKeys
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/sshPublicKeys
   architecture review:
     type: UNKNOWN
@@ -8382,7 +8382,7 @@ sshPublicKeys:
 startTenantBackfill:
   path: Microsoft.Batch/startTenantBackfill
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/startTenantBackfill
   architecture review:
     type: UNKNOWN
@@ -8399,7 +8399,7 @@ startTenantBackfill:
 steps:
   path: Microsoft.Batch/steps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/steps
   architecture review:
     type: UNKNOWN
@@ -8416,7 +8416,7 @@ steps:
 storageAccounts:
   path: Microsoft.Batch/storageAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/storageAccounts
   architecture review:
     type: UNKNOWN
@@ -8433,7 +8433,7 @@ storageAccounts:
 storageInsightConfigs:
   path: Microsoft.Batch/storageInsightConfigs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/storageInsightConfigs
   architecture review:
     type: UNKNOWN
@@ -8450,7 +8450,7 @@ storageInsightConfigs:
 storageSyncServices:
   path: Microsoft.Batch/storageSyncServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/storageSyncServices
   architecture review:
     type: UNKNOWN
@@ -8467,7 +8467,7 @@ storageSyncServices:
 stores:
   path: Microsoft.Batch/stores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/stores
   architecture review:
     type: UNKNOWN
@@ -8484,7 +8484,7 @@ stores:
 streamingjobs:
   path: Microsoft.Batch/streamingjobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/streamingjobs
   architecture review:
     type: UNKNOWN
@@ -8501,7 +8501,7 @@ streamingjobs:
 subAssessments:
   path: Microsoft.Batch/subAssessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/subAssessments
   architecture review:
     type: UNKNOWN
@@ -8518,7 +8518,7 @@ subAssessments:
 subscriptionFeatureRegistrations:
   path: Microsoft.Batch/subscriptionFeatureRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/subscriptionFeatureRegistrations
   architecture review:
     type: UNKNOWN
@@ -8535,7 +8535,7 @@ subscriptionFeatureRegistrations:
 subscriptions:
   path: Microsoft.Batch/subscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/subscriptions
   architecture review:
     type: UNKNOWN
@@ -8552,7 +8552,7 @@ subscriptions:
 subscriptionsStatus:
   path: Microsoft.Batch/subscriptionsStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/subscriptionsStatus
   architecture review:
     type: UNKNOWN
@@ -8569,7 +8569,7 @@ subscriptionsStatus:
 supportProviders:
   path: Microsoft.Batch/supportProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/supportProviders
   architecture review:
     type: UNKNOWN
@@ -8586,7 +8586,7 @@ supportProviders:
 supporttickets:
   path: Microsoft.Batch/supporttickets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/supporttickets
   architecture review:
     type: UNKNOWN
@@ -8603,7 +8603,7 @@ supporttickets:
 suppressions:
   path: Microsoft.Batch/suppressions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/suppressions
   architecture review:
     type: UNKNOWN
@@ -8620,7 +8620,7 @@ suppressions:
 systemTopics:
   path: Microsoft.Batch/systemTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/systemTopics
   architecture review:
     type: UNKNOWN
@@ -8637,7 +8637,7 @@ systemTopics:
 tags:
   path: Microsoft.Batch/tags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/tags
   architecture review:
     type: UNKNOWN
@@ -8654,7 +8654,7 @@ tags:
 tasks:
   path: Microsoft.Batch/tasks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/tasks
   architecture review:
     type: UNKNOWN
@@ -8671,7 +8671,7 @@ tasks:
 tenantBackfillStatus:
   path: Microsoft.Batch/tenantBackfillStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/tenantBackfillStatus
   architecture review:
     type: UNKNOWN
@@ -8688,7 +8688,7 @@ tenantBackfillStatus:
 tenants:
   path: Microsoft.Batch/tenants
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/tenants
   architecture review:
     type: UNKNOWN
@@ -8705,7 +8705,7 @@ tenants:
 topLevelDomains:
   path: Microsoft.Batch/topLevelDomains
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/topLevelDomains
   architecture review:
     type: UNKNOWN
@@ -8722,7 +8722,7 @@ topLevelDomains:
 topicTypes:
   path: Microsoft.Batch/topicTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/topicTypes
   architecture review:
     type: UNKNOWN
@@ -8739,7 +8739,7 @@ topicTypes:
 topics:
   path: Microsoft.Batch/topics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/topics
   architecture review:
     type: UNKNOWN
@@ -8756,7 +8756,7 @@ topics:
 topologies:
   path: Microsoft.Batch/topologies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/topologies
   architecture review:
     type: UNKNOWN
@@ -8773,7 +8773,7 @@ topologies:
 topology:
   path: Microsoft.Batch/topology
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/topology
   architecture review:
     type: UNKNOWN
@@ -8790,7 +8790,7 @@ topology:
 trafficManagerGeographicHierarchies:
   path: Microsoft.Batch/trafficManagerGeographicHierarchies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/trafficManagerGeographicHierarchies
   architecture review:
     type: UNKNOWN
@@ -8807,7 +8807,7 @@ trafficManagerGeographicHierarchies:
 trafficManagerUserMetricsKeys:
   path: Microsoft.Batch/trafficManagerUserMetricsKeys
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/trafficManagerUserMetricsKeys
   architecture review:
     type: UNKNOWN
@@ -8824,7 +8824,7 @@ trafficManagerUserMetricsKeys:
 trafficmanagerprofiles:
   path: Microsoft.Batch/trafficmanagerprofiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/trafficmanagerprofiles
   architecture review:
     type: UNKNOWN
@@ -8841,7 +8841,7 @@ trafficmanagerprofiles:
 transactions:
   path: Microsoft.Batch/transactions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/transactions
   architecture review:
     type: UNKNOWN
@@ -8858,7 +8858,7 @@ transactions:
 transfers:
   path: Microsoft.Batch/transfers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/transfers
   architecture review:
     type: UNKNOWN
@@ -8875,7 +8875,7 @@ transfers:
 updateCommunicationPreference:
   path: Microsoft.Batch/updateCommunicationPreference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/updateCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -8892,7 +8892,7 @@ updateCommunicationPreference:
 updates:
   path: Microsoft.Batch/updates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/updates
   architecture review:
     type: UNKNOWN
@@ -8909,7 +8909,7 @@ updates:
 usages:
   path: Microsoft.Batch/usages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/usages
   architecture review:
     type: UNKNOWN
@@ -8926,7 +8926,7 @@ usages:
 userAssignedIdentities:
   path: Microsoft.Batch/userAssignedIdentities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/userAssignedIdentities
   architecture review:
     type: UNKNOWN
@@ -8943,7 +8943,7 @@ userAssignedIdentities:
 userSettings:
   path: Microsoft.Batch/userSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/userSettings
   architecture review:
     type: UNKNOWN
@@ -8960,7 +8960,7 @@ userSettings:
 users:
   path: Microsoft.Batch/users
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/users
   architecture review:
     type: UNKNOWN
@@ -8977,7 +8977,7 @@ users:
 validate:
   path: Microsoft.Batch/validate
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/validate
   architecture review:
     type: UNKNOWN
@@ -8994,7 +8994,7 @@ validate:
 validateAddress:
   path: Microsoft.Batch/validateAddress
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/validateAddress
   architecture review:
     type: UNKNOWN
@@ -9011,7 +9011,7 @@ validateAddress:
 validateCertificateRegistrationInformation:
   path: Microsoft.Batch/validateCertificateRegistrationInformation
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/validateCertificateRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9028,7 +9028,7 @@ validateCertificateRegistrationInformation:
 validateDomainRegistrationInformation:
   path: Microsoft.Batch/validateDomainRegistrationInformation
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/validateDomainRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9045,7 +9045,7 @@ validateDomainRegistrationInformation:
 validateProbe:
   path: Microsoft.Batch/validateProbe
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/validateProbe
   architecture review:
     type: UNKNOWN
@@ -9062,7 +9062,7 @@ validateProbe:
 validateReservationOrder:
   path: Microsoft.Batch/validateReservationOrder
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/validateReservationOrder
   architecture review:
     type: UNKNOWN
@@ -9079,7 +9079,7 @@ validateReservationOrder:
 validateServiceName:
   path: Microsoft.Batch/validateServiceName
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/validateServiceName
   architecture review:
     type: UNKNOWN
@@ -9096,7 +9096,7 @@ validateServiceName:
 validateSubscriptionMoveAvailability:
   path: Microsoft.Batch/validateSubscriptionMoveAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/validateSubscriptionMoveAvailability
   architecture review:
     type: UNKNOWN
@@ -9113,7 +9113,7 @@ validateSubscriptionMoveAvailability:
 vaults:
   path: Microsoft.Batch/vaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/vaults
   architecture review:
     type: UNKNOWN
@@ -9130,7 +9130,7 @@ vaults:
 verifyHostingEnvironmentVnet:
   path: Microsoft.Batch/verifyHostingEnvironmentVnet
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/verifyHostingEnvironmentVnet
   architecture review:
     type: UNKNOWN
@@ -9147,7 +9147,7 @@ verifyHostingEnvironmentVnet:
 views:
   path: Microsoft.Batch/views
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/views
   architecture review:
     type: UNKNOWN
@@ -9164,7 +9164,7 @@ views:
 virtualClusters:
   path: Microsoft.Batch/virtualClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/virtualClusters
   architecture review:
     type: UNKNOWN
@@ -9181,7 +9181,7 @@ virtualClusters:
 virtualHubs:
   path: Microsoft.Batch/virtualHubs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/virtualHubs
   architecture review:
     type: UNKNOWN
@@ -9198,7 +9198,7 @@ virtualHubs:
 virtualMachineScaleSets:
   path: Microsoft.Batch/virtualMachineScaleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/virtualMachineScaleSets
   architecture review:
     type: UNKNOWN
@@ -9215,7 +9215,7 @@ virtualMachineScaleSets:
 virtualMachines:
   path: Microsoft.Batch/virtualMachines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/virtualMachines
   architecture review:
     type: UNKNOWN
@@ -9232,7 +9232,7 @@ virtualMachines:
 virtualNetworkGateways:
   path: Microsoft.Batch/virtualNetworkGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/virtualNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -9249,7 +9249,7 @@ virtualNetworkGateways:
 virtualNetworkTaps:
   path: Microsoft.Batch/virtualNetworkTaps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/virtualNetworkTaps
   architecture review:
     type: UNKNOWN
@@ -9266,7 +9266,7 @@ virtualNetworkTaps:
 virtualNetworks:
   path: Microsoft.Batch/virtualNetworks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/virtualNetworks
   architecture review:
     type: UNKNOWN
@@ -9283,7 +9283,7 @@ virtualNetworks:
 virtualRouters:
   path: Microsoft.Batch/virtualRouters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/virtualRouters
   architecture review:
     type: UNKNOWN
@@ -9300,7 +9300,7 @@ virtualRouters:
 virtualWans:
   path: Microsoft.Batch/virtualWans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/virtualWans
   architecture review:
     type: UNKNOWN
@@ -9317,7 +9317,7 @@ virtualWans:
 vmImages:
   path: Microsoft.Batch/vmImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/vmImages
   architecture review:
     type: UNKNOWN
@@ -9334,7 +9334,7 @@ vmImages:
 vmInsightsOnboardingStatuses:
   path: Microsoft.Batch/vmInsightsOnboardingStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/vmInsightsOnboardingStatuses
   architecture review:
     type: UNKNOWN
@@ -9351,7 +9351,7 @@ vmInsightsOnboardingStatuses:
 volumes:
   path: Microsoft.Batch/volumes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/volumes
   architecture review:
     type: UNKNOWN
@@ -9368,7 +9368,7 @@ volumes:
 vpnGateways:
   path: Microsoft.Batch/vpnGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/vpnGateways
   architecture review:
     type: UNKNOWN
@@ -9385,7 +9385,7 @@ vpnGateways:
 vpnServerConfigurations:
   path: Microsoft.Batch/vpnServerConfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/vpnServerConfigurations
   architecture review:
     type: UNKNOWN
@@ -9402,7 +9402,7 @@ vpnServerConfigurations:
 vpnSites:
   path: Microsoft.Batch/vpnSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/vpnSites
   architecture review:
     type: UNKNOWN
@@ -9419,7 +9419,7 @@ vpnSites:
 watchers:
   path: Microsoft.Batch/watchers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/watchers
   architecture review:
     type: UNKNOWN
@@ -9436,7 +9436,7 @@ watchers:
 webApplicationFirewallPolicies:
   path: Microsoft.Batch/webApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/webApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -9453,7 +9453,7 @@ webApplicationFirewallPolicies:
 webServices:
   path: Microsoft.Batch/webServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/webServices
   architecture review:
     type: UNKNOWN
@@ -9470,7 +9470,7 @@ webServices:
 webtests:
   path: Microsoft.Batch/webtests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/webtests
   architecture review:
     type: UNKNOWN
@@ -9487,7 +9487,7 @@ webtests:
 workbooks:
   path: Microsoft.Batch/workbooks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/workbooks
   architecture review:
     type: UNKNOWN
@@ -9504,7 +9504,7 @@ workbooks:
 workbooktemplates:
   path: Microsoft.Batch/workbooktemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/workbooktemplates
   architecture review:
     type: UNKNOWN
@@ -9521,7 +9521,7 @@ workbooktemplates:
 workflows:
   path: Microsoft.Batch/workflows
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/workflows
   architecture review:
     type: UNKNOWN
@@ -9538,7 +9538,7 @@ workflows:
 workspaceCollections:
   path: Microsoft.Batch/workspaceCollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/workspaceCollections
   architecture review:
     type: UNKNOWN
@@ -9555,7 +9555,7 @@ workspaceCollections:
 workspaceSettings:
   path: Microsoft.Batch/workspaceSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/workspaceSettings
   architecture review:
     type: UNKNOWN
@@ -9572,7 +9572,7 @@ workspaceSettings:
 workspaces:
   path: Microsoft.Batch/workspaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.Batch/workspaces
   architecture review:
     type: UNKNOWN

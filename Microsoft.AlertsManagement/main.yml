@@ -1,7 +1,7 @@
 AggregatedCost:
   path: Microsoft.AlertsManagement/AggregatedCost
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/AggregatedCost
   architecture review:
     type: UNKNOWN
@@ -18,7 +18,7 @@ AggregatedCost:
 Alerts:
   path: Microsoft.AlertsManagement/Alerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Alerts
   architecture review:
     type: UNKNOWN
@@ -35,7 +35,7 @@ Alerts:
 AutoProvisioningSettings:
   path: Microsoft.AlertsManagement/AutoProvisioningSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/AutoProvisioningSettings
   architecture review:
     type: UNKNOWN
@@ -52,7 +52,7 @@ AutoProvisioningSettings:
 Balances:
   path: Microsoft.AlertsManagement/Balances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Balances
   architecture review:
     type: UNKNOWN
@@ -69,7 +69,7 @@ Balances:
 BillingAccounts:
   path: Microsoft.AlertsManagement/BillingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/BillingAccounts
   architecture review:
     type: UNKNOWN
@@ -86,7 +86,7 @@ BillingAccounts:
 Budgets:
   path: Microsoft.AlertsManagement/Budgets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Budgets
   architecture review:
     type: UNKNOWN
@@ -103,7 +103,7 @@ Budgets:
 CdnWebApplicationFirewallManagedRuleSets:
   path: Microsoft.AlertsManagement/CdnWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/CdnWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -120,7 +120,7 @@ CdnWebApplicationFirewallManagedRuleSets:
 CdnWebApplicationFirewallPolicies:
   path: Microsoft.AlertsManagement/CdnWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/CdnWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -137,7 +137,7 @@ CdnWebApplicationFirewallPolicies:
 Charges:
   path: Microsoft.AlertsManagement/Charges
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Charges
   architecture review:
     type: UNKNOWN
@@ -154,7 +154,7 @@ Charges:
 CloudConnectors:
   path: Microsoft.AlertsManagement/CloudConnectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/CloudConnectors
   architecture review:
     type: UNKNOWN
@@ -171,7 +171,7 @@ CloudConnectors:
 Compliances:
   path: Microsoft.AlertsManagement/Compliances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Compliances
   architecture review:
     type: UNKNOWN
@@ -188,7 +188,7 @@ Compliances:
 Components:
   path: Microsoft.AlertsManagement/Components
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Components
   architecture review:
     type: UNKNOWN
@@ -205,7 +205,7 @@ Components:
 Connectors:
   path: Microsoft.AlertsManagement/Connectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Connectors
   architecture review:
     type: UNKNOWN
@@ -222,7 +222,7 @@ Connectors:
 CostTags:
   path: Microsoft.AlertsManagement/CostTags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/CostTags
   architecture review:
     type: UNKNOWN
@@ -239,7 +239,7 @@ CostTags:
 CreateSubscription:
   path: Microsoft.AlertsManagement/CreateSubscription
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/CreateSubscription
   architecture review:
     type: UNKNOWN
@@ -256,7 +256,7 @@ CreateSubscription:
 DataBoxEdgeDevices:
   path: Microsoft.AlertsManagement/DataBoxEdgeDevices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/DataBoxEdgeDevices
   architecture review:
     type: UNKNOWN
@@ -273,7 +273,7 @@ DataBoxEdgeDevices:
 Departments:
   path: Microsoft.AlertsManagement/Departments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Departments
   architecture review:
     type: UNKNOWN
@@ -290,7 +290,7 @@ Departments:
 DeviceServices:
   path: Microsoft.AlertsManagement/DeviceServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/DeviceServices
   architecture review:
     type: UNKNOWN
@@ -307,7 +307,7 @@ DeviceServices:
 Dimensions:
   path: Microsoft.AlertsManagement/Dimensions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Dimensions
   architecture review:
     type: UNKNOWN
@@ -324,7 +324,7 @@ Dimensions:
 DomainServices:
   path: Microsoft.AlertsManagement/DomainServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/DomainServices
   architecture review:
     type: UNKNOWN
@@ -341,7 +341,7 @@ DomainServices:
 EnrollmentAccounts:
   path: Microsoft.AlertsManagement/EnrollmentAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/EnrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -358,7 +358,7 @@ EnrollmentAccounts:
 Exports:
   path: Microsoft.AlertsManagement/Exports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Exports
   architecture review:
     type: UNKNOWN
@@ -375,7 +375,7 @@ Exports:
 ExternalBillingAccounts:
   path: Microsoft.AlertsManagement/ExternalBillingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ExternalBillingAccounts
   architecture review:
     type: UNKNOWN
@@ -392,7 +392,7 @@ ExternalBillingAccounts:
 ExternalSubscriptions:
   path: Microsoft.AlertsManagement/ExternalSubscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ExternalSubscriptions
   architecture review:
     type: UNKNOWN
@@ -409,7 +409,7 @@ ExternalSubscriptions:
 Forecast:
   path: Microsoft.AlertsManagement/Forecast
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Forecast
   architecture review:
     type: UNKNOWN
@@ -426,7 +426,7 @@ Forecast:
 Forecasts:
   path: Microsoft.AlertsManagement/Forecasts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Forecasts
   architecture review:
     type: UNKNOWN
@@ -443,7 +443,7 @@ Forecasts:
 Graph:
   path: Microsoft.AlertsManagement/Graph
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Graph
   architecture review:
     type: UNKNOWN
@@ -460,7 +460,7 @@ Graph:
 HyperVSites:
   path: Microsoft.AlertsManagement/HyperVSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/HyperVSites
   architecture review:
     type: UNKNOWN
@@ -477,7 +477,7 @@ HyperVSites:
 Identities:
   path: Microsoft.AlertsManagement/Identities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Identities
   architecture review:
     type: UNKNOWN
@@ -494,7 +494,7 @@ Identities:
 ImportSites:
   path: Microsoft.AlertsManagement/ImportSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ImportSites
   architecture review:
     type: UNKNOWN
@@ -511,7 +511,7 @@ ImportSites:
 InformationProtectionPolicies:
   path: Microsoft.AlertsManagement/InformationProtectionPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/InformationProtectionPolicies
   architecture review:
     type: UNKNOWN
@@ -528,7 +528,7 @@ InformationProtectionPolicies:
 IoTApps:
   path: Microsoft.AlertsManagement/IoTApps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/IoTApps
   architecture review:
     type: UNKNOWN
@@ -545,7 +545,7 @@ IoTApps:
 IotHubs:
   path: Microsoft.AlertsManagement/IotHubs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/IotHubs
   architecture review:
     type: UNKNOWN
@@ -562,7 +562,7 @@ IotHubs:
 Locations:
   path: Microsoft.AlertsManagement/Locations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Locations
   architecture review:
     type: UNKNOWN
@@ -579,7 +579,7 @@ Locations:
 Marketplaces:
   path: Microsoft.AlertsManagement/Marketplaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Marketplaces
   architecture review:
     type: UNKNOWN
@@ -596,7 +596,7 @@ Marketplaces:
 Namespaces:
   path: Microsoft.AlertsManagement/Namespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Namespaces
   architecture review:
     type: UNKNOWN
@@ -613,7 +613,7 @@ Namespaces:
 OperationResults:
   path: Microsoft.AlertsManagement/OperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/OperationResults
   architecture review:
     type: UNKNOWN
@@ -630,7 +630,7 @@ OperationResults:
 OperationStatus:
   path: Microsoft.AlertsManagement/OperationStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/OperationStatus
   architecture review:
     type: UNKNOWN
@@ -647,7 +647,7 @@ OperationStatus:
 Operations:
   path: Microsoft.AlertsManagement/Operations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Operations
   architecture review:
     type: UNKNOWN
@@ -664,7 +664,7 @@ Operations:
 Pricesheets:
   path: Microsoft.AlertsManagement/Pricesheets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Pricesheets
   architecture review:
     type: UNKNOWN
@@ -681,7 +681,7 @@ Pricesheets:
 ProvisioningServices:
   path: Microsoft.AlertsManagement/ProvisioningServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ProvisioningServices
   architecture review:
     type: UNKNOWN
@@ -698,7 +698,7 @@ ProvisioningServices:
 Query:
   path: Microsoft.AlertsManagement/Query
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Query
   architecture review:
     type: UNKNOWN
@@ -715,7 +715,7 @@ Query:
 RateCard:
   path: Microsoft.AlertsManagement/RateCard
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/RateCard
   architecture review:
     type: UNKNOWN
@@ -732,7 +732,7 @@ RateCard:
 Redis:
   path: Microsoft.AlertsManagement/Redis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Redis
   architecture review:
     type: UNKNOWN
@@ -749,7 +749,7 @@ Redis:
 Reportconfigs:
   path: Microsoft.AlertsManagement/Reportconfigs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Reportconfigs
   architecture review:
     type: UNKNOWN
@@ -766,7 +766,7 @@ Reportconfigs:
 Reports:
   path: Microsoft.AlertsManagement/Reports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Reports
   architecture review:
     type: UNKNOWN
@@ -783,7 +783,7 @@ Reports:
 ReservationDetails:
   path: Microsoft.AlertsManagement/ReservationDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ReservationDetails
   architecture review:
     type: UNKNOWN
@@ -800,7 +800,7 @@ ReservationDetails:
 ReservationRecommendations:
   path: Microsoft.AlertsManagement/ReservationRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ReservationRecommendations
   architecture review:
     type: UNKNOWN
@@ -817,7 +817,7 @@ ReservationRecommendations:
 ReservationSummaries:
   path: Microsoft.AlertsManagement/ReservationSummaries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ReservationSummaries
   architecture review:
     type: UNKNOWN
@@ -834,7 +834,7 @@ ReservationSummaries:
 ReservationTransactions:
   path: Microsoft.AlertsManagement/ReservationTransactions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ReservationTransactions
   architecture review:
     type: UNKNOWN
@@ -851,7 +851,7 @@ ReservationTransactions:
 ServerSites:
   path: Microsoft.AlertsManagement/ServerSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ServerSites
   architecture review:
     type: UNKNOWN
@@ -868,7 +868,7 @@ ServerSites:
 Settings:
   path: Microsoft.AlertsManagement/Settings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Settings
   architecture review:
     type: UNKNOWN
@@ -885,7 +885,7 @@ Settings:
 SignalR:
   path: Microsoft.AlertsManagement/SignalR
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/SignalR
   architecture review:
     type: UNKNOWN
@@ -902,7 +902,7 @@ SignalR:
 Spring:
   path: Microsoft.AlertsManagement/Spring
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Spring
   architecture review:
     type: UNKNOWN
@@ -919,7 +919,7 @@ Spring:
 SqlVirtualMachineGroups:
   path: Microsoft.AlertsManagement/SqlVirtualMachineGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/SqlVirtualMachineGroups
   architecture review:
     type: UNKNOWN
@@ -936,7 +936,7 @@ SqlVirtualMachineGroups:
 SqlVirtualMachines:
   path: Microsoft.AlertsManagement/SqlVirtualMachines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/SqlVirtualMachines
   architecture review:
     type: UNKNOWN
@@ -953,7 +953,7 @@ SqlVirtualMachines:
 SubscriptionDefinitions:
   path: Microsoft.AlertsManagement/SubscriptionDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/SubscriptionDefinitions
   architecture review:
     type: UNKNOWN
@@ -970,7 +970,7 @@ SubscriptionDefinitions:
 SubscriptionOperations:
   path: Microsoft.AlertsManagement/SubscriptionOperations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/SubscriptionOperations
   architecture review:
     type: UNKNOWN
@@ -987,7 +987,7 @@ SubscriptionOperations:
 Tags:
   path: Microsoft.AlertsManagement/Tags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Tags
   architecture review:
     type: UNKNOWN
@@ -1004,7 +1004,7 @@ Tags:
 Terms:
   path: Microsoft.AlertsManagement/Terms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Terms
   architecture review:
     type: UNKNOWN
@@ -1021,7 +1021,7 @@ Terms:
 UsageAggregates:
   path: Microsoft.AlertsManagement/UsageAggregates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/UsageAggregates
   architecture review:
     type: UNKNOWN
@@ -1038,7 +1038,7 @@ UsageAggregates:
 UsageDetails:
   path: Microsoft.AlertsManagement/UsageDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/UsageDetails
   architecture review:
     type: UNKNOWN
@@ -1055,7 +1055,7 @@ UsageDetails:
 VMwareSites:
   path: Microsoft.AlertsManagement/VMwareSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/VMwareSites
   architecture review:
     type: UNKNOWN
@@ -1072,7 +1072,7 @@ VMwareSites:
 Vaults:
   path: Microsoft.AlertsManagement/Vaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Vaults
   architecture review:
     type: UNKNOWN
@@ -1089,7 +1089,7 @@ Vaults:
 Views:
   path: Microsoft.AlertsManagement/Views
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Views
   architecture review:
     type: UNKNOWN
@@ -1106,7 +1106,7 @@ Views:
 Workspaces:
   path: Microsoft.AlertsManagement/Workspaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/Workspaces
   architecture review:
     type: UNKNOWN
@@ -1123,7 +1123,7 @@ Workspaces:
 aadsupportcases:
   path: Microsoft.AlertsManagement/aadsupportcases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/aadsupportcases
   architecture review:
     type: UNKNOWN
@@ -1140,7 +1140,7 @@ aadsupportcases:
 account:
   path: Microsoft.AlertsManagement/account
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/account
   architecture review:
     type: UNKNOWN
@@ -1157,7 +1157,7 @@ account:
 accounts:
   path: Microsoft.AlertsManagement/accounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/accounts
   architecture review:
     type: UNKNOWN
@@ -1174,7 +1174,7 @@ accounts:
 actionRules:
   path: Microsoft.AlertsManagement/actionRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/actionRules
   architecture review:
     type: UNKNOWN
@@ -1191,7 +1191,7 @@ actionRules:
 actiongroups:
   path: Microsoft.AlertsManagement/actiongroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/actiongroups
   architecture review:
     type: UNKNOWN
@@ -1208,7 +1208,7 @@ actiongroups:
 activityLogAlerts:
   path: Microsoft.AlertsManagement/activityLogAlerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/activityLogAlerts
   architecture review:
     type: UNKNOWN
@@ -1225,7 +1225,7 @@ activityLogAlerts:
 adaptiveNetworkHardenings:
   path: Microsoft.AlertsManagement/adaptiveNetworkHardenings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/adaptiveNetworkHardenings
   architecture review:
     type: UNKNOWN
@@ -1242,7 +1242,7 @@ adaptiveNetworkHardenings:
 addsservices:
   path: Microsoft.AlertsManagement/addsservices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/addsservices
   architecture review:
     type: UNKNOWN
@@ -1259,7 +1259,7 @@ addsservices:
 advancedThreatProtectionSettings:
   path: Microsoft.AlertsManagement/advancedThreatProtectionSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/advancedThreatProtectionSettings
   architecture review:
     type: UNKNOWN
@@ -1276,7 +1276,7 @@ advancedThreatProtectionSettings:
 agents:
   path: Microsoft.AlertsManagement/agents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/agents
   architecture review:
     type: UNKNOWN
@@ -1293,7 +1293,7 @@ agents:
 aggregations:
   path: Microsoft.AlertsManagement/aggregations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/aggregations
   architecture review:
     type: UNKNOWN
@@ -1310,7 +1310,7 @@ aggregations:
 agreements:
   path: Microsoft.AlertsManagement/agreements
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/agreements
   architecture review:
     type: UNKNOWN
@@ -1327,7 +1327,7 @@ agreements:
 alertRuleTemplates:
   path: Microsoft.AlertsManagement/alertRuleTemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/alertRuleTemplates
   architecture review:
     type: UNKNOWN
@@ -1344,7 +1344,7 @@ alertRuleTemplates:
 alertRules:
   path: Microsoft.AlertsManagement/alertRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/alertRules
   architecture review:
     type: UNKNOWN
@@ -1361,7 +1361,7 @@ alertRules:
 alertrules:
   path: Microsoft.AlertsManagement/alertrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/alertrules
   architecture review:
     type: UNKNOWN
@@ -1378,7 +1378,7 @@ alertrules:
 alerts:
   path: Microsoft.AlertsManagement/alerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/alerts
   architecture review:
     type: UNKNOWN
@@ -1395,7 +1395,7 @@ alerts:
 alertsList:
   path: Microsoft.AlertsManagement/alertsList
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/alertsList
   architecture review:
     type: UNKNOWN
@@ -1412,7 +1412,7 @@ alertsList:
 alertsMetaData:
   path: Microsoft.AlertsManagement/alertsMetaData
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/alertsMetaData
   architecture review:
     type: UNKNOWN
@@ -1429,7 +1429,7 @@ alertsMetaData:
 alertsSummary:
   path: Microsoft.AlertsManagement/alertsSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/alertsSummary
   architecture review:
     type: UNKNOWN
@@ -1446,7 +1446,7 @@ alertsSummary:
 alertsSummaryList:
   path: Microsoft.AlertsManagement/alertsSummaryList
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/alertsSummaryList
   architecture review:
     type: UNKNOWN
@@ -1463,7 +1463,7 @@ alertsSummaryList:
 allowedConnections:
   path: Microsoft.AlertsManagement/allowedConnections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/allowedConnections
   architecture review:
     type: UNKNOWN
@@ -1480,7 +1480,7 @@ allowedConnections:
 anonymousapiusers:
   path: Microsoft.AlertsManagement/anonymousapiusers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/anonymousapiusers
   architecture review:
     type: UNKNOWN
@@ -1497,7 +1497,7 @@ anonymousapiusers:
 appTemplates:
   path: Microsoft.AlertsManagement/appTemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/appTemplates
   architecture review:
     type: UNKNOWN
@@ -1514,7 +1514,7 @@ appTemplates:
 applicationDefinitions:
   path: Microsoft.AlertsManagement/applicationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/applicationDefinitions
   architecture review:
     type: UNKNOWN
@@ -1531,7 +1531,7 @@ applicationDefinitions:
 applicationGatewayAvailableRequestHeaders:
   path: Microsoft.AlertsManagement/applicationGatewayAvailableRequestHeaders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/applicationGatewayAvailableRequestHeaders
   architecture review:
     type: UNKNOWN
@@ -1548,7 +1548,7 @@ applicationGatewayAvailableRequestHeaders:
 applicationGatewayAvailableResponseHeaders:
   path: Microsoft.AlertsManagement/applicationGatewayAvailableResponseHeaders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/applicationGatewayAvailableResponseHeaders
   architecture review:
     type: UNKNOWN
@@ -1565,7 +1565,7 @@ applicationGatewayAvailableResponseHeaders:
 applicationGatewayAvailableServerVariables:
   path: Microsoft.AlertsManagement/applicationGatewayAvailableServerVariables
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/applicationGatewayAvailableServerVariables
   architecture review:
     type: UNKNOWN
@@ -1582,7 +1582,7 @@ applicationGatewayAvailableServerVariables:
 applicationGatewayAvailableSslOptions:
   path: Microsoft.AlertsManagement/applicationGatewayAvailableSslOptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/applicationGatewayAvailableSslOptions
   architecture review:
     type: UNKNOWN
@@ -1599,7 +1599,7 @@ applicationGatewayAvailableSslOptions:
 applicationGatewayAvailableWafRuleSets:
   path: Microsoft.AlertsManagement/applicationGatewayAvailableWafRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/applicationGatewayAvailableWafRuleSets
   architecture review:
     type: UNKNOWN
@@ -1616,7 +1616,7 @@ applicationGatewayAvailableWafRuleSets:
 applicationGatewayWebApplicationFirewallPolicies:
   path: Microsoft.AlertsManagement/applicationGatewayWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/applicationGatewayWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -1633,7 +1633,7 @@ applicationGatewayWebApplicationFirewallPolicies:
 applicationGateways:
   path: Microsoft.AlertsManagement/applicationGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/applicationGateways
   architecture review:
     type: UNKNOWN
@@ -1650,7 +1650,7 @@ applicationGateways:
 applicationSecurityGroups:
   path: Microsoft.AlertsManagement/applicationSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/applicationSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -1667,7 +1667,7 @@ applicationSecurityGroups:
 applicationWhitelistings:
   path: Microsoft.AlertsManagement/applicationWhitelistings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/applicationWhitelistings
   architecture review:
     type: UNKNOWN
@@ -1684,7 +1684,7 @@ applicationWhitelistings:
 applications:
   path: Microsoft.AlertsManagement/applications
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/applications
   architecture review:
     type: UNKNOWN
@@ -1701,7 +1701,7 @@ applications:
 appliedReservations:
   path: Microsoft.AlertsManagement/appliedReservations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/appliedReservations
   architecture review:
     type: UNKNOWN
@@ -1718,7 +1718,7 @@ appliedReservations:
 applyUpdates:
   path: Microsoft.AlertsManagement/applyUpdates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/applyUpdates
   architecture review:
     type: UNKNOWN
@@ -1735,7 +1735,7 @@ applyUpdates:
 apps:
   path: Microsoft.AlertsManagement/apps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/apps
   architecture review:
     type: UNKNOWN
@@ -1752,7 +1752,7 @@ apps:
 artifactSources:
   path: Microsoft.AlertsManagement/artifactSources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/artifactSources
   architecture review:
     type: UNKNOWN
@@ -1769,7 +1769,7 @@ artifactSources:
 assessmentMetadata:
   path: Microsoft.AlertsManagement/assessmentMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/assessmentMetadata
   architecture review:
     type: UNKNOWN
@@ -1786,7 +1786,7 @@ assessmentMetadata:
 assessmentProjects:
   path: Microsoft.AlertsManagement/assessmentProjects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/assessmentProjects
   architecture review:
     type: UNKNOWN
@@ -1803,7 +1803,7 @@ assessmentProjects:
 assessmentprojects:
   path: Microsoft.AlertsManagement/assessmentprojects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/assessmentprojects
   architecture review:
     type: UNKNOWN
@@ -1820,7 +1820,7 @@ assessmentprojects:
 assessments:
   path: Microsoft.AlertsManagement/assessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/assessments
   architecture review:
     type: UNKNOWN
@@ -1837,7 +1837,7 @@ assessments:
 associations:
   path: Microsoft.AlertsManagement/associations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/associations
   architecture review:
     type: UNKNOWN
@@ -1854,7 +1854,7 @@ associations:
 asyncOperationResults:
   path: Microsoft.AlertsManagement/asyncOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/asyncOperationResults
   architecture review:
     type: UNKNOWN
@@ -1871,7 +1871,7 @@ asyncOperationResults:
 attestationProviders:
   path: Microsoft.AlertsManagement/attestationProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/attestationProviders
   architecture review:
     type: UNKNOWN
@@ -1888,7 +1888,7 @@ attestationProviders:
 autoDismissAlertsRules:
   path: Microsoft.AlertsManagement/autoDismissAlertsRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/autoDismissAlertsRules
   architecture review:
     type: UNKNOWN
@@ -1905,7 +1905,7 @@ autoDismissAlertsRules:
 automationAccounts:
   path: Microsoft.AlertsManagement/automationAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/automationAccounts
   architecture review:
     type: UNKNOWN
@@ -1922,7 +1922,7 @@ automationAccounts:
 automations:
   path: Microsoft.AlertsManagement/automations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/automations
   architecture review:
     type: UNKNOWN
@@ -1939,7 +1939,7 @@ automations:
 autoscalesettings:
   path: Microsoft.AlertsManagement/autoscalesettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/autoscalesettings
   architecture review:
     type: UNKNOWN
@@ -1956,7 +1956,7 @@ autoscalesettings:
 availabilitySets:
   path: Microsoft.AlertsManagement/availabilitySets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/availabilitySets
   architecture review:
     type: UNKNOWN
@@ -1973,7 +1973,7 @@ availabilitySets:
 availabilityStatuses:
   path: Microsoft.AlertsManagement/availabilityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/availabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -1990,7 +1990,7 @@ availabilityStatuses:
 availableAccounts:
   path: Microsoft.AlertsManagement/availableAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/availableAccounts
   architecture review:
     type: UNKNOWN
@@ -2007,7 +2007,7 @@ availableAccounts:
 availableClusterRegions:
   path: Microsoft.AlertsManagement/availableClusterRegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/availableClusterRegions
   architecture review:
     type: UNKNOWN
@@ -2024,7 +2024,7 @@ availableClusterRegions:
 availableStacks:
   path: Microsoft.AlertsManagement/availableStacks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/availableStacks
   architecture review:
     type: UNKNOWN
@@ -2041,7 +2041,7 @@ availableStacks:
 azureFirewallFqdnTags:
   path: Microsoft.AlertsManagement/azureFirewallFqdnTags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/azureFirewallFqdnTags
   architecture review:
     type: UNKNOWN
@@ -2058,7 +2058,7 @@ azureFirewallFqdnTags:
 azureFirewalls:
   path: Microsoft.AlertsManagement/azureFirewalls
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/azureFirewalls
   architecture review:
     type: UNKNOWN
@@ -2075,7 +2075,7 @@ azureFirewalls:
 b2cDirectories:
   path: Microsoft.AlertsManagement/b2cDirectories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/b2cDirectories
   architecture review:
     type: UNKNOWN
@@ -2092,7 +2092,7 @@ b2cDirectories:
 b2ctenants:
   path: Microsoft.AlertsManagement/b2ctenants
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/b2ctenants
   architecture review:
     type: UNKNOWN
@@ -2109,7 +2109,7 @@ b2ctenants:
 backupProtectedItems:
   path: Microsoft.AlertsManagement/backupProtectedItems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/backupProtectedItems
   architecture review:
     type: UNKNOWN
@@ -2126,7 +2126,7 @@ backupProtectedItems:
 baseline:
   path: Microsoft.AlertsManagement/baseline
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/baseline
   architecture review:
     type: UNKNOWN
@@ -2143,7 +2143,7 @@ baseline:
 bastionHosts:
   path: Microsoft.AlertsManagement/bastionHosts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/bastionHosts
   architecture review:
     type: UNKNOWN
@@ -2160,7 +2160,7 @@ bastionHosts:
 batchAccounts:
   path: Microsoft.AlertsManagement/batchAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/batchAccounts
   architecture review:
     type: UNKNOWN
@@ -2177,7 +2177,7 @@ batchAccounts:
 bgpServiceCommunities:
   path: Microsoft.AlertsManagement/bgpServiceCommunities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/bgpServiceCommunities
   architecture review:
     type: UNKNOWN
@@ -2194,7 +2194,7 @@ bgpServiceCommunities:
 billingAccounts:
   path: Microsoft.AlertsManagement/billingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/billingAccounts
   architecture review:
     type: UNKNOWN
@@ -2211,7 +2211,7 @@ billingAccounts:
 billingMeters:
   path: Microsoft.AlertsManagement/billingMeters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/billingMeters
   architecture review:
     type: UNKNOWN
@@ -2228,7 +2228,7 @@ billingMeters:
 billingPeriods:
   path: Microsoft.AlertsManagement/billingPeriods
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/billingPeriods
   architecture review:
     type: UNKNOWN
@@ -2245,7 +2245,7 @@ billingPeriods:
 billingPermissions:
   path: Microsoft.AlertsManagement/billingPermissions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/billingPermissions
   architecture review:
     type: UNKNOWN
@@ -2262,7 +2262,7 @@ billingPermissions:
 billingProperty:
   path: Microsoft.AlertsManagement/billingProperty
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/billingProperty
   architecture review:
     type: UNKNOWN
@@ -2279,7 +2279,7 @@ billingProperty:
 billingRoleAssignments:
   path: Microsoft.AlertsManagement/billingRoleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/billingRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -2296,7 +2296,7 @@ billingRoleAssignments:
 billingRoleDefinitions:
   path: Microsoft.AlertsManagement/billingRoleDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/billingRoleDefinitions
   architecture review:
     type: UNKNOWN
@@ -2313,7 +2313,7 @@ billingRoleDefinitions:
 blockchainMembers:
   path: Microsoft.AlertsManagement/blockchainMembers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/blockchainMembers
   architecture review:
     type: UNKNOWN
@@ -2330,7 +2330,7 @@ blockchainMembers:
 blueprintAssignments:
   path: Microsoft.AlertsManagement/blueprintAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/blueprintAssignments
   architecture review:
     type: UNKNOWN
@@ -2347,7 +2347,7 @@ blueprintAssignments:
 blueprints:
   path: Microsoft.AlertsManagement/blueprints
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/blueprints
   architecture review:
     type: UNKNOWN
@@ -2364,7 +2364,7 @@ blueprints:
 bookmarks:
   path: Microsoft.AlertsManagement/bookmarks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/bookmarks
   architecture review:
     type: UNKNOWN
@@ -2381,7 +2381,7 @@ bookmarks:
 botServices:
   path: Microsoft.AlertsManagement/botServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/botServices
   architecture review:
     type: UNKNOWN
@@ -2398,7 +2398,7 @@ botServices:
 calculateExchange:
   path: Microsoft.AlertsManagement/calculateExchange
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/calculateExchange
   architecture review:
     type: UNKNOWN
@@ -2415,7 +2415,7 @@ calculateExchange:
 calculatePrice:
   path: Microsoft.AlertsManagement/calculatePrice
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/calculatePrice
   architecture review:
     type: UNKNOWN
@@ -2432,7 +2432,7 @@ calculatePrice:
 calculatePurchasePrice:
   path: Microsoft.AlertsManagement/calculatePurchasePrice
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/calculatePurchasePrice
   architecture review:
     type: UNKNOWN
@@ -2449,7 +2449,7 @@ calculatePurchasePrice:
 calculatebaseline:
   path: Microsoft.AlertsManagement/calculatebaseline
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/calculatebaseline
   architecture review:
     type: UNKNOWN
@@ -2466,7 +2466,7 @@ calculatebaseline:
 cancel:
   path: Microsoft.AlertsManagement/cancel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/cancel
   architecture review:
     type: UNKNOWN
@@ -2483,7 +2483,7 @@ cancel:
 capabilities:
   path: Microsoft.AlertsManagement/capabilities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/capabilities
   architecture review:
     type: UNKNOWN
@@ -2500,7 +2500,7 @@ capabilities:
 capacities:
   path: Microsoft.AlertsManagement/capacities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/capacities
   architecture review:
     type: UNKNOWN
@@ -2517,7 +2517,7 @@ capacities:
 cases:
   path: Microsoft.AlertsManagement/cases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/cases
   architecture review:
     type: UNKNOWN
@@ -2534,7 +2534,7 @@ cases:
 catalogs:
   path: Microsoft.AlertsManagement/catalogs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/catalogs
   architecture review:
     type: UNKNOWN
@@ -2551,7 +2551,7 @@ catalogs:
 certificateOrders:
   path: Microsoft.AlertsManagement/certificateOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/certificateOrders
   architecture review:
     type: UNKNOWN
@@ -2568,7 +2568,7 @@ certificateOrders:
 certificates:
   path: Microsoft.AlertsManagement/certificates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/certificates
   architecture review:
     type: UNKNOWN
@@ -2585,7 +2585,7 @@ certificates:
 checkAccess:
   path: Microsoft.AlertsManagement/checkAccess
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkAccess
   architecture review:
     type: UNKNOWN
@@ -2602,7 +2602,7 @@ checkAccess:
 checkAzureDataFactoryNameAvailability:
   path: Microsoft.AlertsManagement/checkAzureDataFactoryNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkAzureDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2619,7 +2619,7 @@ checkAzureDataFactoryNameAvailability:
 checkDataFactoryNameAvailability:
   path: Microsoft.AlertsManagement/checkDataFactoryNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2636,7 +2636,7 @@ checkDataFactoryNameAvailability:
 checkDomainAvailability:
   path: Microsoft.AlertsManagement/checkDomainAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkDomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2653,7 +2653,7 @@ checkDomainAvailability:
 checkDomainNameAvailability:
   path: Microsoft.AlertsManagement/checkDomainNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkDomainNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2670,7 +2670,7 @@ checkDomainNameAvailability:
 checkFeedbackRequired:
   path: Microsoft.AlertsManagement/checkFeedbackRequired
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkFeedbackRequired
   architecture review:
     type: UNKNOWN
@@ -2687,7 +2687,7 @@ checkFeedbackRequired:
 checkFrontdoorNameAvailability:
   path: Microsoft.AlertsManagement/checkFrontdoorNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkFrontdoorNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2704,7 +2704,7 @@ checkFrontdoorNameAvailability:
 checkModernEligibility:
   path: Microsoft.AlertsManagement/checkModernEligibility
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkModernEligibility
   architecture review:
     type: UNKNOWN
@@ -2721,7 +2721,7 @@ checkModernEligibility:
 checkNameAvailability:
   path: Microsoft.AlertsManagement/checkNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2738,7 +2738,7 @@ checkNameAvailability:
 checkNamespaceAvailability:
   path: Microsoft.AlertsManagement/checkNamespaceAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkNamespaceAvailability
   architecture review:
     type: UNKNOWN
@@ -2755,7 +2755,7 @@ checkNamespaceAvailability:
 checkOffers:
   path: Microsoft.AlertsManagement/checkOffers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkOffers
   architecture review:
     type: UNKNOWN
@@ -2772,7 +2772,7 @@ checkOffers:
 checkPolicyCompliance:
   path: Microsoft.AlertsManagement/checkPolicyCompliance
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkPolicyCompliance
   architecture review:
     type: UNKNOWN
@@ -2789,7 +2789,7 @@ checkPolicyCompliance:
 checkProvisioningServiceNameAvailability:
   path: Microsoft.AlertsManagement/checkProvisioningServiceNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkProvisioningServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2806,7 +2806,7 @@ checkProvisioningServiceNameAvailability:
 checkPurchaseStatus:
   path: Microsoft.AlertsManagement/checkPurchaseStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkPurchaseStatus
   architecture review:
     type: UNKNOWN
@@ -2823,7 +2823,7 @@ checkPurchaseStatus:
 checkResourceUsage:
   path: Microsoft.AlertsManagement/checkResourceUsage
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkResourceUsage
   architecture review:
     type: UNKNOWN
@@ -2840,7 +2840,7 @@ checkResourceUsage:
 checkScopes:
   path: Microsoft.AlertsManagement/checkScopes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkScopes
   architecture review:
     type: UNKNOWN
@@ -2857,7 +2857,7 @@ checkScopes:
 checkServiceNameAvailability:
   path: Microsoft.AlertsManagement/checkServiceNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2874,7 +2874,7 @@ checkServiceNameAvailability:
 checkServiceProviderAvailability:
   path: Microsoft.AlertsManagement/checkServiceProviderAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkServiceProviderAvailability
   architecture review:
     type: UNKNOWN
@@ -2891,7 +2891,7 @@ checkServiceProviderAvailability:
 checkStorageAccountAvailability:
   path: Microsoft.AlertsManagement/checkStorageAccountAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkStorageAccountAvailability
   architecture review:
     type: UNKNOWN
@@ -2908,7 +2908,7 @@ checkStorageAccountAvailability:
 checkSubdomainAvailability:
   path: Microsoft.AlertsManagement/checkSubdomainAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkSubdomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2925,7 +2925,7 @@ checkSubdomainAvailability:
 checkTrafficManagerNameAvailability:
   path: Microsoft.AlertsManagement/checkTrafficManagerNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkTrafficManagerNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2942,7 +2942,7 @@ checkTrafficManagerNameAvailability:
 checknameavailability:
   path: Microsoft.AlertsManagement/checknameavailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checknameavailability
   architecture review:
     type: UNKNOWN
@@ -2959,7 +2959,7 @@ checknameavailability:
 checkresourcename:
   path: Microsoft.AlertsManagement/checkresourcename
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/checkresourcename
   architecture review:
     type: UNKNOWN
@@ -2976,7 +2976,7 @@ checkresourcename:
 childAvailabilityStatuses:
   path: Microsoft.AlertsManagement/childAvailabilityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/childAvailabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -2993,7 +2993,7 @@ childAvailabilityStatuses:
 childResources:
   path: Microsoft.AlertsManagement/childResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/childResources
   architecture review:
     type: UNKNOWN
@@ -3010,7 +3010,7 @@ childResources:
 classicAdministrators:
   path: Microsoft.AlertsManagement/classicAdministrators
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/classicAdministrators
   architecture review:
     type: UNKNOWN
@@ -3027,7 +3027,7 @@ classicAdministrators:
 classicDevServices:
   path: Microsoft.AlertsManagement/classicDevServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/classicDevServices
   architecture review:
     type: UNKNOWN
@@ -3044,7 +3044,7 @@ classicDevServices:
 classicInfrastructureResources:
   path: Microsoft.AlertsManagement/classicInfrastructureResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/classicInfrastructureResources
   architecture review:
     type: UNKNOWN
@@ -3061,7 +3061,7 @@ classicInfrastructureResources:
 cloudManifestFiles:
   path: Microsoft.AlertsManagement/cloudManifestFiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/cloudManifestFiles
   architecture review:
     type: UNKNOWN
@@ -3078,7 +3078,7 @@ cloudManifestFiles:
 clusters:
   path: Microsoft.AlertsManagement/clusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/clusters
   architecture review:
     type: UNKNOWN
@@ -3095,7 +3095,7 @@ clusters:
 commercialReservationOrders:
   path: Microsoft.AlertsManagement/commercialReservationOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/commercialReservationOrders
   architecture review:
     type: UNKNOWN
@@ -3112,7 +3112,7 @@ commercialReservationOrders:
 commitmentPlans:
   path: Microsoft.AlertsManagement/commitmentPlans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/commitmentPlans
   architecture review:
     type: UNKNOWN
@@ -3129,7 +3129,7 @@ commitmentPlans:
 complianceResults:
   path: Microsoft.AlertsManagement/complianceResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/complianceResults
   architecture review:
     type: UNKNOWN
@@ -3146,7 +3146,7 @@ complianceResults:
 components:
   path: Microsoft.AlertsManagement/components
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/components
   architecture review:
     type: UNKNOWN
@@ -3163,7 +3163,7 @@ components:
 componentsSummary:
   path: Microsoft.AlertsManagement/componentsSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/componentsSummary
   architecture review:
     type: UNKNOWN
@@ -3180,7 +3180,7 @@ componentsSummary:
 configuration:
   path: Microsoft.AlertsManagement/configuration
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/configuration
   architecture review:
     type: UNKNOWN
@@ -3197,7 +3197,7 @@ configuration:
 configurationAssignments:
   path: Microsoft.AlertsManagement/configurationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/configurationAssignments
   architecture review:
     type: UNKNOWN
@@ -3214,7 +3214,7 @@ configurationAssignments:
 configurationStores:
   path: Microsoft.AlertsManagement/configurationStores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/configurationStores
   architecture review:
     type: UNKNOWN
@@ -3231,7 +3231,7 @@ configurationStores:
 configurations:
   path: Microsoft.AlertsManagement/configurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/configurations
   architecture review:
     type: UNKNOWN
@@ -3248,7 +3248,7 @@ configurations:
 connectionGateways:
   path: Microsoft.AlertsManagement/connectionGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/connectionGateways
   architecture review:
     type: UNKNOWN
@@ -3265,7 +3265,7 @@ connectionGateways:
 connections:
   path: Microsoft.AlertsManagement/connections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/connections
   architecture review:
     type: UNKNOWN
@@ -3282,7 +3282,7 @@ connections:
 consoleServices:
   path: Microsoft.AlertsManagement/consoleServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/consoleServices
   architecture review:
     type: UNKNOWN
@@ -3299,7 +3299,7 @@ consoleServices:
 consoles:
   path: Microsoft.AlertsManagement/consoles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/consoles
   architecture review:
     type: UNKNOWN
@@ -3316,7 +3316,7 @@ consoles:
 containerGroups:
   path: Microsoft.AlertsManagement/containerGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/containerGroups
   architecture review:
     type: UNKNOWN
@@ -3333,7 +3333,7 @@ containerGroups:
 containerServices:
   path: Microsoft.AlertsManagement/containerServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/containerServices
   architecture review:
     type: UNKNOWN
@@ -3350,7 +3350,7 @@ containerServices:
 controllers:
   path: Microsoft.AlertsManagement/controllers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/controllers
   architecture review:
     type: UNKNOWN
@@ -3367,7 +3367,7 @@ controllers:
 createBillingRoleAssignment:
   path: Microsoft.AlertsManagement/createBillingRoleAssignment
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/createBillingRoleAssignment
   architecture review:
     type: UNKNOWN
@@ -3384,7 +3384,7 @@ createBillingRoleAssignment:
 credits:
   path: Microsoft.AlertsManagement/credits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/credits
   architecture review:
     type: UNKNOWN
@@ -3401,7 +3401,7 @@ credits:
 customApis:
   path: Microsoft.AlertsManagement/customApis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/customApis
   architecture review:
     type: UNKNOWN
@@ -3418,7 +3418,7 @@ customApis:
 dashboards:
   path: Microsoft.AlertsManagement/dashboards
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dashboards
   architecture review:
     type: UNKNOWN
@@ -3435,7 +3435,7 @@ dashboards:
 dataAliases:
   path: Microsoft.AlertsManagement/dataAliases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dataAliases
   architecture review:
     type: UNKNOWN
@@ -3452,7 +3452,7 @@ dataAliases:
 dataCollectionAgents:
   path: Microsoft.AlertsManagement/dataCollectionAgents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dataCollectionAgents
   architecture review:
     type: UNKNOWN
@@ -3469,7 +3469,7 @@ dataCollectionAgents:
 dataConnectors:
   path: Microsoft.AlertsManagement/dataConnectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dataConnectors
   architecture review:
     type: UNKNOWN
@@ -3486,7 +3486,7 @@ dataConnectors:
 dataConnectorsCheckRequirements:
   path: Microsoft.AlertsManagement/dataConnectorsCheckRequirements
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dataConnectorsCheckRequirements
   architecture review:
     type: UNKNOWN
@@ -3503,7 +3503,7 @@ dataConnectorsCheckRequirements:
 dataFactories:
   path: Microsoft.AlertsManagement/dataFactories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dataFactories
   architecture review:
     type: UNKNOWN
@@ -3520,7 +3520,7 @@ dataFactories:
 dataFactorySchema:
   path: Microsoft.AlertsManagement/dataFactorySchema
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dataFactorySchema
   architecture review:
     type: UNKNOWN
@@ -3537,7 +3537,7 @@ dataFactorySchema:
 dataManagers:
   path: Microsoft.AlertsManagement/dataManagers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dataManagers
   architecture review:
     type: UNKNOWN
@@ -3554,7 +3554,7 @@ dataManagers:
 databaseAccountNames:
   path: Microsoft.AlertsManagement/databaseAccountNames
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/databaseAccountNames
   architecture review:
     type: UNKNOWN
@@ -3571,7 +3571,7 @@ databaseAccountNames:
 databaseAccounts:
   path: Microsoft.AlertsManagement/databaseAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/databaseAccounts
   architecture review:
     type: UNKNOWN
@@ -3588,7 +3588,7 @@ databaseAccounts:
 databases:
   path: Microsoft.AlertsManagement/databases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/databases
   architecture review:
     type: UNKNOWN
@@ -3605,7 +3605,7 @@ databases:
 ddosCustomPolicies:
   path: Microsoft.AlertsManagement/ddosCustomPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ddosCustomPolicies
   architecture review:
     type: UNKNOWN
@@ -3622,7 +3622,7 @@ ddosCustomPolicies:
 ddosProtectionPlans:
   path: Microsoft.AlertsManagement/ddosProtectionPlans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ddosProtectionPlans
   architecture review:
     type: UNKNOWN
@@ -3639,7 +3639,7 @@ ddosProtectionPlans:
 dedicatedCloudNodes:
   path: Microsoft.AlertsManagement/dedicatedCloudNodes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dedicatedCloudNodes
   architecture review:
     type: UNKNOWN
@@ -3656,7 +3656,7 @@ dedicatedCloudNodes:
 dedicatedCloudServices:
   path: Microsoft.AlertsManagement/dedicatedCloudServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dedicatedCloudServices
   architecture review:
     type: UNKNOWN
@@ -3673,7 +3673,7 @@ dedicatedCloudServices:
 deletedSites:
   path: Microsoft.AlertsManagement/deletedSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/deletedSites
   architecture review:
     type: UNKNOWN
@@ -3690,7 +3690,7 @@ deletedSites:
 deletedVaults:
   path: Microsoft.AlertsManagement/deletedVaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/deletedVaults
   architecture review:
     type: UNKNOWN
@@ -3707,7 +3707,7 @@ deletedVaults:
 denyAssignments:
   path: Microsoft.AlertsManagement/denyAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/denyAssignments
   architecture review:
     type: UNKNOWN
@@ -3724,7 +3724,7 @@ denyAssignments:
 departments:
   path: Microsoft.AlertsManagement/departments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/departments
   architecture review:
     type: UNKNOWN
@@ -3741,7 +3741,7 @@ departments:
 deploymentLocations:
   path: Microsoft.AlertsManagement/deploymentLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/deploymentLocations
   architecture review:
     type: UNKNOWN
@@ -3758,7 +3758,7 @@ deploymentLocations:
 deploymentScripts:
   path: Microsoft.AlertsManagement/deploymentScripts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/deploymentScripts
   architecture review:
     type: UNKNOWN
@@ -3775,7 +3775,7 @@ deploymentScripts:
 deployments:
   path: Microsoft.AlertsManagement/deployments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/deployments
   architecture review:
     type: UNKNOWN
@@ -3792,7 +3792,7 @@ deployments:
 deviceSecurityGroups:
   path: Microsoft.AlertsManagement/deviceSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/deviceSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -3809,7 +3809,7 @@ deviceSecurityGroups:
 diagnosticSettings:
   path: Microsoft.AlertsManagement/diagnosticSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/diagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -3826,7 +3826,7 @@ diagnosticSettings:
 diagnosticSettingsCategories:
   path: Microsoft.AlertsManagement/diagnosticSettingsCategories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/diagnosticSettingsCategories
   architecture review:
     type: UNKNOWN
@@ -3843,7 +3843,7 @@ diagnosticSettingsCategories:
 discoveredSecuritySolutions:
   path: Microsoft.AlertsManagement/discoveredSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/discoveredSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -3860,7 +3860,7 @@ discoveredSecuritySolutions:
 diskEncryptionSets:
   path: Microsoft.AlertsManagement/diskEncryptionSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/diskEncryptionSets
   architecture review:
     type: UNKNOWN
@@ -3877,7 +3877,7 @@ diskEncryptionSets:
 disks:
   path: Microsoft.AlertsManagement/disks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/disks
   architecture review:
     type: UNKNOWN
@@ -3894,7 +3894,7 @@ disks:
 dnsOperationResults:
   path: Microsoft.AlertsManagement/dnsOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -3911,7 +3911,7 @@ dnsOperationResults:
 dnsOperationStatuses:
   path: Microsoft.AlertsManagement/dnsOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -3928,7 +3928,7 @@ dnsOperationStatuses:
 dnszones:
   path: Microsoft.AlertsManagement/dnszones
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/dnszones
   architecture review:
     type: UNKNOWN
@@ -3945,7 +3945,7 @@ dnszones:
 domainNames:
   path: Microsoft.AlertsManagement/domainNames
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/domainNames
   architecture review:
     type: UNKNOWN
@@ -3962,7 +3962,7 @@ domainNames:
 domains:
   path: Microsoft.AlertsManagement/domains
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/domains
   architecture review:
     type: UNKNOWN
@@ -3979,7 +3979,7 @@ domains:
 edgenodes:
   path: Microsoft.AlertsManagement/edgenodes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/edgenodes
   architecture review:
     type: UNKNOWN
@@ -3996,7 +3996,7 @@ edgenodes:
 elevateAccess:
   path: Microsoft.AlertsManagement/elevateAccess
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/elevateAccess
   architecture review:
     type: UNKNOWN
@@ -4013,7 +4013,7 @@ elevateAccess:
 emergingissues:
   path: Microsoft.AlertsManagement/emergingissues
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/emergingissues
   architecture review:
     type: UNKNOWN
@@ -4030,7 +4030,7 @@ emergingissues:
 enable:
   path: Microsoft.AlertsManagement/enable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/enable
   architecture review:
     type: UNKNOWN
@@ -4047,7 +4047,7 @@ enable:
 enrollmentAccounts:
   path: Microsoft.AlertsManagement/enrollmentAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/enrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -4064,7 +4064,7 @@ enrollmentAccounts:
 entities:
   path: Microsoft.AlertsManagement/entities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/entities
   architecture review:
     type: UNKNOWN
@@ -4081,7 +4081,7 @@ entities:
 entityQueries:
   path: Microsoft.AlertsManagement/entityQueries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/entityQueries
   architecture review:
     type: UNKNOWN
@@ -4098,7 +4098,7 @@ entityQueries:
 environments:
   path: Microsoft.AlertsManagement/environments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/environments
   architecture review:
     type: UNKNOWN
@@ -4115,7 +4115,7 @@ environments:
 eventCategories:
   path: Microsoft.AlertsManagement/eventCategories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/eventCategories
   architecture review:
     type: UNKNOWN
@@ -4132,7 +4132,7 @@ eventCategories:
 eventSubscriptions:
   path: Microsoft.AlertsManagement/eventSubscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/eventSubscriptions
   architecture review:
     type: UNKNOWN
@@ -4149,7 +4149,7 @@ eventSubscriptions:
 events:
   path: Microsoft.AlertsManagement/events
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/events
   architecture review:
     type: UNKNOWN
@@ -4166,7 +4166,7 @@ events:
 eventtypes:
   path: Microsoft.AlertsManagement/eventtypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/eventtypes
   architecture review:
     type: UNKNOWN
@@ -4183,7 +4183,7 @@ eventtypes:
 exchange:
   path: Microsoft.AlertsManagement/exchange
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/exchange
   architecture review:
     type: UNKNOWN
@@ -4200,7 +4200,7 @@ exchange:
 expressRouteCircuits:
   path: Microsoft.AlertsManagement/expressRouteCircuits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/expressRouteCircuits
   architecture review:
     type: UNKNOWN
@@ -4217,7 +4217,7 @@ expressRouteCircuits:
 expressRouteCrossConnections:
   path: Microsoft.AlertsManagement/expressRouteCrossConnections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/expressRouteCrossConnections
   architecture review:
     type: UNKNOWN
@@ -4234,7 +4234,7 @@ expressRouteCrossConnections:
 expressRouteGateways:
   path: Microsoft.AlertsManagement/expressRouteGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/expressRouteGateways
   architecture review:
     type: UNKNOWN
@@ -4251,7 +4251,7 @@ expressRouteGateways:
 expressRouteServiceProviders:
   path: Microsoft.AlertsManagement/expressRouteServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/expressRouteServiceProviders
   architecture review:
     type: UNKNOWN
@@ -4268,7 +4268,7 @@ expressRouteServiceProviders:
 extendedDiagnosticSettings:
   path: Microsoft.AlertsManagement/extendedDiagnosticSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/extendedDiagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -4285,7 +4285,7 @@ extendedDiagnosticSettings:
 extensionTopics:
   path: Microsoft.AlertsManagement/extensionTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/extensionTopics
   architecture review:
     type: UNKNOWN
@@ -4302,7 +4302,7 @@ extensionTopics:
 externalSecuritySolutions:
   path: Microsoft.AlertsManagement/externalSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/externalSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4319,7 +4319,7 @@ externalSecuritySolutions:
 factories:
   path: Microsoft.AlertsManagement/factories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/factories
   architecture review:
     type: UNKNOWN
@@ -4336,7 +4336,7 @@ factories:
 featureProviders:
   path: Microsoft.AlertsManagement/featureProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/featureProviders
   architecture review:
     type: UNKNOWN
@@ -4353,7 +4353,7 @@ featureProviders:
 features:
   path: Microsoft.AlertsManagement/features
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/features
   architecture review:
     type: UNKNOWN
@@ -4370,7 +4370,7 @@ features:
 findOrphanRoleAssignments:
   path: Microsoft.AlertsManagement/findOrphanRoleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/findOrphanRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -4387,7 +4387,7 @@ findOrphanRoleAssignments:
 firewallPolicies:
   path: Microsoft.AlertsManagement/firewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/firewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4404,7 +4404,7 @@ firewallPolicies:
 frontDoors:
   path: Microsoft.AlertsManagement/frontDoors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/frontDoors
   architecture review:
     type: UNKNOWN
@@ -4421,7 +4421,7 @@ frontDoors:
 frontdoorOperationResults:
   path: Microsoft.AlertsManagement/frontdoorOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/frontdoorOperationResults
   architecture review:
     type: UNKNOWN
@@ -4438,7 +4438,7 @@ frontdoorOperationResults:
 frontdoorWebApplicationFirewallManagedRuleSets:
   path: Microsoft.AlertsManagement/frontdoorWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/frontdoorWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -4455,7 +4455,7 @@ frontdoorWebApplicationFirewallManagedRuleSets:
 frontdoorWebApplicationFirewallPolicies:
   path: Microsoft.AlertsManagement/frontdoorWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/frontdoorWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4472,7 +4472,7 @@ frontdoorWebApplicationFirewallPolicies:
 frontdoors:
   path: Microsoft.AlertsManagement/frontdoors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/frontdoors
   architecture review:
     type: UNKNOWN
@@ -4489,7 +4489,7 @@ frontdoors:
 galleries:
   path: Microsoft.AlertsManagement/galleries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/galleries
   architecture review:
     type: UNKNOWN
@@ -4506,7 +4506,7 @@ galleries:
 gatewaySupportedDevices:
   path: Microsoft.AlertsManagement/gatewaySupportedDevices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/gatewaySupportedDevices
   architecture review:
     type: UNKNOWN
@@ -4523,7 +4523,7 @@ gatewaySupportedDevices:
 gateways:
   path: Microsoft.AlertsManagement/gateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/gateways
   architecture review:
     type: UNKNOWN
@@ -4540,7 +4540,7 @@ gateways:
 generateRecommendations:
   path: Microsoft.AlertsManagement/generateRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/generateRecommendations
   architecture review:
     type: UNKNOWN
@@ -4557,7 +4557,7 @@ generateRecommendations:
 generateSsoRequest:
   path: Microsoft.AlertsManagement/generateSsoRequest
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/generateSsoRequest
   architecture review:
     type: UNKNOWN
@@ -4574,7 +4574,7 @@ generateSsoRequest:
 georegions:
   path: Microsoft.AlertsManagement/georegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/georegions
   architecture review:
     type: UNKNOWN
@@ -4591,7 +4591,7 @@ georegions:
 getDnsResourceReference:
   path: Microsoft.AlertsManagement/getDnsResourceReference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/getDnsResourceReference
   architecture review:
     type: UNKNOWN
@@ -4608,7 +4608,7 @@ getDnsResourceReference:
 getEntities:
   path: Microsoft.AlertsManagement/getEntities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/getEntities
   architecture review:
     type: UNKNOWN
@@ -4625,7 +4625,7 @@ getEntities:
 guestConfigurationAssignments:
   path: Microsoft.AlertsManagement/guestConfigurationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/guestConfigurationAssignments
   architecture review:
     type: UNKNOWN
@@ -4642,7 +4642,7 @@ guestConfigurationAssignments:
 hanaInstances:
   path: Microsoft.AlertsManagement/hanaInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/hanaInstances
   architecture review:
     type: UNKNOWN
@@ -4659,7 +4659,7 @@ hanaInstances:
 hostGroups:
   path: Microsoft.AlertsManagement/hostGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/hostGroups
   architecture review:
     type: UNKNOWN
@@ -4676,7 +4676,7 @@ hostGroups:
 hostingEnvironments:
   path: Microsoft.AlertsManagement/hostingEnvironments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/hostingEnvironments
   architecture review:
     type: UNKNOWN
@@ -4693,7 +4693,7 @@ hostingEnvironments:
 hybridUseBenefits:
   path: Microsoft.AlertsManagement/hybridUseBenefits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/hybridUseBenefits
   architecture review:
     type: UNKNOWN
@@ -4710,7 +4710,7 @@ hybridUseBenefits:
 images:
   path: Microsoft.AlertsManagement/images
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/images
   architecture review:
     type: UNKNOWN
@@ -4727,7 +4727,7 @@ images:
 incidents:
   path: Microsoft.AlertsManagement/incidents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/incidents
   architecture review:
     type: UNKNOWN
@@ -4744,7 +4744,7 @@ incidents:
 instancePools:
   path: Microsoft.AlertsManagement/instancePools
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/instancePools
   architecture review:
     type: UNKNOWN
@@ -4761,7 +4761,7 @@ instancePools:
 integrationAccounts:
   path: Microsoft.AlertsManagement/integrationAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/integrationAccounts
   architecture review:
     type: UNKNOWN
@@ -4778,7 +4778,7 @@ integrationAccounts:
 integrationServiceEnvironments:
   path: Microsoft.AlertsManagement/integrationServiceEnvironments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/integrationServiceEnvironments
   architecture review:
     type: UNKNOWN
@@ -4795,7 +4795,7 @@ integrationServiceEnvironments:
 internalNotify:
   path: Microsoft.AlertsManagement/internalNotify
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/internalNotify
   architecture review:
     type: UNKNOWN
@@ -4812,7 +4812,7 @@ internalNotify:
 invoices:
   path: Microsoft.AlertsManagement/invoices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/invoices
   architecture review:
     type: UNKNOWN
@@ -4829,7 +4829,7 @@ invoices:
 iotSecuritySolutions:
   path: Microsoft.AlertsManagement/iotSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/iotSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4846,7 +4846,7 @@ iotSecuritySolutions:
 ipGroups:
   path: Microsoft.AlertsManagement/ipGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ipGroups
   architecture review:
     type: UNKNOWN
@@ -4863,7 +4863,7 @@ ipGroups:
 ishostingenvironmentnameavailable:
   path: Microsoft.AlertsManagement/ishostingenvironmentnameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ishostingenvironmentnameavailable
   architecture review:
     type: UNKNOWN
@@ -4880,7 +4880,7 @@ ishostingenvironmentnameavailable:
 ishostnameavailable:
   path: Microsoft.AlertsManagement/ishostnameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/ishostnameavailable
   architecture review:
     type: UNKNOWN
@@ -4897,7 +4897,7 @@ ishostnameavailable:
 isusernameavailable:
   path: Microsoft.AlertsManagement/isusernameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/isusernameavailable
   architecture review:
     type: UNKNOWN
@@ -4914,7 +4914,7 @@ isusernameavailable:
 jitNetworkAccessPolicies:
   path: Microsoft.AlertsManagement/jitNetworkAccessPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/jitNetworkAccessPolicies
   architecture review:
     type: UNKNOWN
@@ -4931,7 +4931,7 @@ jitNetworkAccessPolicies:
 jitRequests:
   path: Microsoft.AlertsManagement/jitRequests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/jitRequests
   architecture review:
     type: UNKNOWN
@@ -4948,7 +4948,7 @@ jitRequests:
 jobcollections:
   path: Microsoft.AlertsManagement/jobcollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/jobcollections
   architecture review:
     type: UNKNOWN
@@ -4965,7 +4965,7 @@ jobcollections:
 jobs:
   path: Microsoft.AlertsManagement/jobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/jobs
   architecture review:
     type: UNKNOWN
@@ -4982,7 +4982,7 @@ jobs:
 labAccounts:
   path: Microsoft.AlertsManagement/labAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/labAccounts
   architecture review:
     type: UNKNOWN
@@ -4999,7 +4999,7 @@ labAccounts:
 labaccounts:
   path: Microsoft.AlertsManagement/labaccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/labaccounts
   architecture review:
     type: UNKNOWN
@@ -5016,7 +5016,7 @@ labaccounts:
 labs:
   path: Microsoft.AlertsManagement/labs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/labs
   architecture review:
     type: UNKNOWN
@@ -5033,7 +5033,7 @@ labs:
 legacyPeerings:
   path: Microsoft.AlertsManagement/legacyPeerings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/legacyPeerings
   architecture review:
     type: UNKNOWN
@@ -5050,7 +5050,7 @@ legacyPeerings:
 linkTargets:
   path: Microsoft.AlertsManagement/linkTargets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/linkTargets
   architecture review:
     type: UNKNOWN
@@ -5067,7 +5067,7 @@ linkTargets:
 links:
   path: Microsoft.AlertsManagement/links
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/links
   architecture review:
     type: UNKNOWN
@@ -5084,7 +5084,7 @@ links:
 listAuthServiceProviders:
   path: Microsoft.AlertsManagement/listAuthServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/listAuthServiceProviders
   architecture review:
     type: UNKNOWN
@@ -5101,7 +5101,7 @@ listAuthServiceProviders:
 listAvailableOffers:
   path: Microsoft.AlertsManagement/listAvailableOffers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/listAvailableOffers
   architecture review:
     type: UNKNOWN
@@ -5118,7 +5118,7 @@ listAvailableOffers:
 listBenefits:
   path: Microsoft.AlertsManagement/listBenefits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/listBenefits
   architecture review:
     type: UNKNOWN
@@ -5135,7 +5135,7 @@ listBenefits:
 listCommunicationPreference:
   path: Microsoft.AlertsManagement/listCommunicationPreference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/listCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -5152,7 +5152,7 @@ listCommunicationPreference:
 listDomainRecommendations:
   path: Microsoft.AlertsManagement/listDomainRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/listDomainRecommendations
   architecture review:
     type: UNKNOWN
@@ -5169,7 +5169,7 @@ listDomainRecommendations:
 listMigrationdate:
   path: Microsoft.AlertsManagement/listMigrationdate
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/listMigrationdate
   architecture review:
     type: UNKNOWN
@@ -5186,7 +5186,7 @@ listMigrationdate:
 listSitesAssignedToHostName:
   path: Microsoft.AlertsManagement/listSitesAssignedToHostName
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/listSitesAssignedToHostName
   architecture review:
     type: UNKNOWN
@@ -5203,7 +5203,7 @@ listSitesAssignedToHostName:
 listinvitations:
   path: Microsoft.AlertsManagement/listinvitations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/listinvitations
   architecture review:
     type: UNKNOWN
@@ -5220,7 +5220,7 @@ listinvitations:
 loadBalancers:
   path: Microsoft.AlertsManagement/loadBalancers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/loadBalancers
   architecture review:
     type: UNKNOWN
@@ -5237,7 +5237,7 @@ loadBalancers:
 localNetworkGateways:
   path: Microsoft.AlertsManagement/localNetworkGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/localNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -5254,7 +5254,7 @@ localNetworkGateways:
 locations:
   path: Microsoft.AlertsManagement/locations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/locations
   architecture review:
     type: UNKNOWN
@@ -5271,7 +5271,7 @@ locations:
 locks:
   path: Microsoft.AlertsManagement/locks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/locks
   architecture review:
     type: UNKNOWN
@@ -5288,7 +5288,7 @@ locks:
 logDefinitions:
   path: Microsoft.AlertsManagement/logDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/logDefinitions
   architecture review:
     type: UNKNOWN
@@ -5305,7 +5305,7 @@ logDefinitions:
 logprofiles:
   path: Microsoft.AlertsManagement/logprofiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/logprofiles
   architecture review:
     type: UNKNOWN
@@ -5322,7 +5322,7 @@ logprofiles:
 logs:
   path: Microsoft.AlertsManagement/logs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/logs
   architecture review:
     type: UNKNOWN
@@ -5339,7 +5339,7 @@ logs:
 lots:
   path: Microsoft.AlertsManagement/lots
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/lots
   architecture review:
     type: UNKNOWN
@@ -5356,7 +5356,7 @@ lots:
 machines:
   path: Microsoft.AlertsManagement/machines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/machines
   architecture review:
     type: UNKNOWN
@@ -5373,7 +5373,7 @@ machines:
 maintenanceConfigurations:
   path: Microsoft.AlertsManagement/maintenanceConfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/maintenanceConfigurations
   architecture review:
     type: UNKNOWN
@@ -5390,7 +5390,7 @@ maintenanceConfigurations:
 managedClusters:
   path: Microsoft.AlertsManagement/managedClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/managedClusters
   architecture review:
     type: UNKNOWN
@@ -5407,7 +5407,7 @@ managedClusters:
 managedInstances:
   path: Microsoft.AlertsManagement/managedInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/managedInstances
   architecture review:
     type: UNKNOWN
@@ -5424,7 +5424,7 @@ managedInstances:
 managementGroups:
   path: Microsoft.AlertsManagement/managementGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/managementGroups
   architecture review:
     type: UNKNOWN
@@ -5441,7 +5441,7 @@ managementGroups:
 managementassociations:
   path: Microsoft.AlertsManagement/managementassociations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/managementassociations
   architecture review:
     type: UNKNOWN
@@ -5458,7 +5458,7 @@ managementassociations:
 managementconfigurations:
   path: Microsoft.AlertsManagement/managementconfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/managementconfigurations
   architecture review:
     type: UNKNOWN
@@ -5475,7 +5475,7 @@ managementconfigurations:
 managers:
   path: Microsoft.AlertsManagement/managers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/managers
   architecture review:
     type: UNKNOWN
@@ -5492,7 +5492,7 @@ managers:
 mapApis:
   path: Microsoft.AlertsManagement/mapApis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/mapApis
   architecture review:
     type: UNKNOWN
@@ -5509,7 +5509,7 @@ mapApis:
 marketplaceRegistrationDefinitions:
   path: Microsoft.AlertsManagement/marketplaceRegistrationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/marketplaceRegistrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -5526,7 +5526,7 @@ marketplaceRegistrationDefinitions:
 mediaservices:
   path: Microsoft.AlertsManagement/mediaservices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/mediaservices
   architecture review:
     type: UNKNOWN
@@ -5543,7 +5543,7 @@ mediaservices:
 metadata:
   path: Microsoft.AlertsManagement/metadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/metadata
   architecture review:
     type: UNKNOWN
@@ -5560,7 +5560,7 @@ metadata:
 metricDefinitions:
   path: Microsoft.AlertsManagement/metricDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/metricDefinitions
   architecture review:
     type: UNKNOWN
@@ -5577,7 +5577,7 @@ metricDefinitions:
 metricNamespaces:
   path: Microsoft.AlertsManagement/metricNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/metricNamespaces
   architecture review:
     type: UNKNOWN
@@ -5594,7 +5594,7 @@ metricNamespaces:
 metricalerts:
   path: Microsoft.AlertsManagement/metricalerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/metricalerts
   architecture review:
     type: UNKNOWN
@@ -5611,7 +5611,7 @@ metricalerts:
 metricbaselines:
   path: Microsoft.AlertsManagement/metricbaselines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/metricbaselines
   architecture review:
     type: UNKNOWN
@@ -5628,7 +5628,7 @@ metricbaselines:
 metricbatch:
   path: Microsoft.AlertsManagement/metricbatch
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/metricbatch
   architecture review:
     type: UNKNOWN
@@ -5645,7 +5645,7 @@ metricbatch:
 metrics:
   path: Microsoft.AlertsManagement/metrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/metrics
   architecture review:
     type: UNKNOWN
@@ -5662,7 +5662,7 @@ metrics:
 migrateToNewPricingModel:
   path: Microsoft.AlertsManagement/migrateToNewPricingModel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/migrateToNewPricingModel
   architecture review:
     type: UNKNOWN
@@ -5679,7 +5679,7 @@ migrateToNewPricingModel:
 migratealertrules:
   path: Microsoft.AlertsManagement/migratealertrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/migratealertrules
   architecture review:
     type: UNKNOWN
@@ -5696,7 +5696,7 @@ migratealertrules:
 migrateprojects:
   path: Microsoft.AlertsManagement/migrateprojects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/migrateprojects
   architecture review:
     type: UNKNOWN
@@ -5713,7 +5713,7 @@ migrateprojects:
 monitorInstances:
   path: Microsoft.AlertsManagement/monitorInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/monitorInstances
   architecture review:
     type: UNKNOWN
@@ -5730,7 +5730,7 @@ monitorInstances:
 monitorInstancesSummary:
   path: Microsoft.AlertsManagement/monitorInstancesSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/monitorInstancesSummary
   architecture review:
     type: UNKNOWN
@@ -5747,7 +5747,7 @@ monitorInstancesSummary:
 monitors:
   path: Microsoft.AlertsManagement/monitors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/monitors
   architecture review:
     type: UNKNOWN
@@ -5764,7 +5764,7 @@ monitors:
 moveSubscriptionResources:
   path: Microsoft.AlertsManagement/moveSubscriptionResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/moveSubscriptionResources
   architecture review:
     type: UNKNOWN
@@ -5781,7 +5781,7 @@ moveSubscriptionResources:
 myWorkbooks:
   path: Microsoft.AlertsManagement/myWorkbooks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/myWorkbooks
   architecture review:
     type: UNKNOWN
@@ -5798,7 +5798,7 @@ myWorkbooks:
 namespaces:
   path: Microsoft.AlertsManagement/namespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/namespaces
   architecture review:
     type: UNKNOWN
@@ -5815,7 +5815,7 @@ namespaces:
 natGateways:
   path: Microsoft.AlertsManagement/natGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/natGateways
   architecture review:
     type: UNKNOWN
@@ -5832,7 +5832,7 @@ natGateways:
 networkExperimentProfiles:
   path: Microsoft.AlertsManagement/networkExperimentProfiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/networkExperimentProfiles
   architecture review:
     type: UNKNOWN
@@ -5849,7 +5849,7 @@ networkExperimentProfiles:
 networkIntentPolicies:
   path: Microsoft.AlertsManagement/networkIntentPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/networkIntentPolicies
   architecture review:
     type: UNKNOWN
@@ -5866,7 +5866,7 @@ networkIntentPolicies:
 networkInterfaces:
   path: Microsoft.AlertsManagement/networkInterfaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/networkInterfaces
   architecture review:
     type: UNKNOWN
@@ -5883,7 +5883,7 @@ networkInterfaces:
 networkProfiles:
   path: Microsoft.AlertsManagement/networkProfiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/networkProfiles
   architecture review:
     type: UNKNOWN
@@ -5900,7 +5900,7 @@ networkProfiles:
 networkSecurityGroups:
   path: Microsoft.AlertsManagement/networkSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/networkSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -5917,7 +5917,7 @@ networkSecurityGroups:
 networkWatchers:
   path: Microsoft.AlertsManagement/networkWatchers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/networkWatchers
   architecture review:
     type: UNKNOWN
@@ -5934,7 +5934,7 @@ networkWatchers:
 networks:
   path: Microsoft.AlertsManagement/networks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/networks
   architecture review:
     type: UNKNOWN
@@ -5951,7 +5951,7 @@ networks:
 notificationSettings:
   path: Microsoft.AlertsManagement/notificationSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/notificationSettings
   architecture review:
     type: UNKNOWN
@@ -5968,7 +5968,7 @@ notificationSettings:
 notifications:
   path: Microsoft.AlertsManagement/notifications
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/notifications
   architecture review:
     type: UNKNOWN
@@ -5985,7 +5985,7 @@ notifications:
 notifyResourceJobs:
   path: Microsoft.AlertsManagement/notifyResourceJobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/notifyResourceJobs
   architecture review:
     type: UNKNOWN
@@ -6002,7 +6002,7 @@ notifyResourceJobs:
 offerTypes:
   path: Microsoft.AlertsManagement/offerTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/offerTypes
   architecture review:
     type: UNKNOWN
@@ -6019,7 +6019,7 @@ offerTypes:
 offers:
   path: Microsoft.AlertsManagement/offers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/offers
   architecture review:
     type: UNKNOWN
@@ -6036,7 +6036,7 @@ offers:
 offertypes:
   path: Microsoft.AlertsManagement/offertypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/offertypes
   architecture review:
     type: UNKNOWN
@@ -6053,7 +6053,7 @@ offertypes:
 officeConsents:
   path: Microsoft.AlertsManagement/officeConsents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/officeConsents
   architecture review:
     type: UNKNOWN
@@ -6070,7 +6070,7 @@ officeConsents:
 openShiftManagedClusters:
   path: Microsoft.AlertsManagement/openShiftManagedClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/openShiftManagedClusters
   architecture review:
     type: UNKNOWN
@@ -6087,7 +6087,7 @@ openShiftManagedClusters:
 operatingSystemFamilies:
   path: Microsoft.AlertsManagement/operatingSystemFamilies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/operatingSystemFamilies
   architecture review:
     type: UNKNOWN
@@ -6104,7 +6104,7 @@ operatingSystemFamilies:
 operatingSystems:
   path: Microsoft.AlertsManagement/operatingSystems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/operatingSystems
   architecture review:
     type: UNKNOWN
@@ -6121,7 +6121,7 @@ operatingSystems:
 operationResults:
   path: Microsoft.AlertsManagement/operationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/operationResults
   architecture review:
     type: UNKNOWN
@@ -6138,7 +6138,7 @@ operationResults:
 operationStatus:
   path: Microsoft.AlertsManagement/operationStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/operationStatus
   architecture review:
     type: UNKNOWN
@@ -6155,7 +6155,7 @@ operationStatus:
 operationStatuses:
   path: Microsoft.AlertsManagement/operationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/operationStatuses
   architecture review:
     type: UNKNOWN
@@ -6172,7 +6172,7 @@ operationStatuses:
 operationresults:
   path: Microsoft.AlertsManagement/operationresults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/operationresults
   architecture review:
     type: UNKNOWN
@@ -6189,7 +6189,7 @@ operationresults:
 operations:
   path: Microsoft.AlertsManagement/operations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/operations
   architecture review:
     type: UNKNOWN
@@ -6206,7 +6206,7 @@ operations:
 operationsStatus:
   path: Microsoft.AlertsManagement/operationsStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/operationsStatus
   architecture review:
     type: UNKNOWN
@@ -6223,7 +6223,7 @@ operationsStatus:
 operationsstatus:
   path: Microsoft.AlertsManagement/operationsstatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/operationsstatus
   architecture review:
     type: UNKNOWN
@@ -6240,7 +6240,7 @@ operationsstatus:
 osImages:
   path: Microsoft.AlertsManagement/osImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/osImages
   architecture review:
     type: UNKNOWN
@@ -6257,7 +6257,7 @@ osImages:
 osNamespaces:
   path: Microsoft.AlertsManagement/osNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/osNamespaces
   architecture review:
     type: UNKNOWN
@@ -6274,7 +6274,7 @@ osNamespaces:
 osPlatformImages:
   path: Microsoft.AlertsManagement/osPlatformImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/osPlatformImages
   architecture review:
     type: UNKNOWN
@@ -6291,7 +6291,7 @@ osPlatformImages:
 p2sVpnGateways:
   path: Microsoft.AlertsManagement/p2sVpnGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/p2sVpnGateways
   architecture review:
     type: UNKNOWN
@@ -6308,7 +6308,7 @@ p2sVpnGateways:
 partnerNamespaces:
   path: Microsoft.AlertsManagement/partnerNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/partnerNamespaces
   architecture review:
     type: UNKNOWN
@@ -6325,7 +6325,7 @@ partnerNamespaces:
 partnerTopics:
   path: Microsoft.AlertsManagement/partnerTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/partnerTopics
   architecture review:
     type: UNKNOWN
@@ -6342,7 +6342,7 @@ partnerTopics:
 peerAsns:
   path: Microsoft.AlertsManagement/peerAsns
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/peerAsns
   architecture review:
     type: UNKNOWN
@@ -6359,7 +6359,7 @@ peerAsns:
 peeringLocations:
   path: Microsoft.AlertsManagement/peeringLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/peeringLocations
   architecture review:
     type: UNKNOWN
@@ -6376,7 +6376,7 @@ peeringLocations:
 peeringServiceCountries:
   path: Microsoft.AlertsManagement/peeringServiceCountries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/peeringServiceCountries
   architecture review:
     type: UNKNOWN
@@ -6393,7 +6393,7 @@ peeringServiceCountries:
 peeringServiceLocations:
   path: Microsoft.AlertsManagement/peeringServiceLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/peeringServiceLocations
   architecture review:
     type: UNKNOWN
@@ -6410,7 +6410,7 @@ peeringServiceLocations:
 peeringServiceProviders:
   path: Microsoft.AlertsManagement/peeringServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/peeringServiceProviders
   architecture review:
     type: UNKNOWN
@@ -6427,7 +6427,7 @@ peeringServiceProviders:
 peerings:
   path: Microsoft.AlertsManagement/peerings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/peerings
   architecture review:
     type: UNKNOWN
@@ -6444,7 +6444,7 @@ peerings:
 permissions:
   path: Microsoft.AlertsManagement/permissions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/permissions
   architecture review:
     type: UNKNOWN
@@ -6461,7 +6461,7 @@ permissions:
 pipelines:
   path: Microsoft.AlertsManagement/pipelines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/pipelines
   architecture review:
     type: UNKNOWN
@@ -6478,7 +6478,7 @@ pipelines:
 placePurchaseOrder:
   path: Microsoft.AlertsManagement/placePurchaseOrder
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/placePurchaseOrder
   architecture review:
     type: UNKNOWN
@@ -6495,7 +6495,7 @@ placePurchaseOrder:
 plans:
   path: Microsoft.AlertsManagement/plans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/plans
   architecture review:
     type: UNKNOWN
@@ -6512,7 +6512,7 @@ plans:
 policies:
   path: Microsoft.AlertsManagement/policies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/policies
   architecture review:
     type: UNKNOWN
@@ -6529,7 +6529,7 @@ policies:
 policyAssignments:
   path: Microsoft.AlertsManagement/policyAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/policyAssignments
   architecture review:
     type: UNKNOWN
@@ -6546,7 +6546,7 @@ policyAssignments:
 policyDefinitions:
   path: Microsoft.AlertsManagement/policyDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/policyDefinitions
   architecture review:
     type: UNKNOWN
@@ -6563,7 +6563,7 @@ policyDefinitions:
 policyEvents:
   path: Microsoft.AlertsManagement/policyEvents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/policyEvents
   architecture review:
     type: UNKNOWN
@@ -6580,7 +6580,7 @@ policyEvents:
 policyMetadata:
   path: Microsoft.AlertsManagement/policyMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/policyMetadata
   architecture review:
     type: UNKNOWN
@@ -6597,7 +6597,7 @@ policyMetadata:
 policySetDefinitions:
   path: Microsoft.AlertsManagement/policySetDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/policySetDefinitions
   architecture review:
     type: UNKNOWN
@@ -6614,7 +6614,7 @@ policySetDefinitions:
 policyStates:
   path: Microsoft.AlertsManagement/policyStates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/policyStates
   architecture review:
     type: UNKNOWN
@@ -6631,7 +6631,7 @@ policyStates:
 policyTrackedResources:
   path: Microsoft.AlertsManagement/policyTrackedResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/policyTrackedResources
   architecture review:
     type: UNKNOWN
@@ -6648,7 +6648,7 @@ policyTrackedResources:
 premiumMessagingRegions:
   path: Microsoft.AlertsManagement/premiumMessagingRegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/premiumMessagingRegions
   architecture review:
     type: UNKNOWN
@@ -6665,7 +6665,7 @@ premiumMessagingRegions:
 pricings:
   path: Microsoft.AlertsManagement/pricings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/pricings
   architecture review:
     type: UNKNOWN
@@ -6682,7 +6682,7 @@ pricings:
 privateDnsOperationResults:
   path: Microsoft.AlertsManagement/privateDnsOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/privateDnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -6699,7 +6699,7 @@ privateDnsOperationResults:
 privateDnsOperationStatuses:
   path: Microsoft.AlertsManagement/privateDnsOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/privateDnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6716,7 +6716,7 @@ privateDnsOperationStatuses:
 privateDnsZones:
   path: Microsoft.AlertsManagement/privateDnsZones
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/privateDnsZones
   architecture review:
     type: UNKNOWN
@@ -6733,7 +6733,7 @@ privateDnsZones:
 privateDnsZonesInternal:
   path: Microsoft.AlertsManagement/privateDnsZonesInternal
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/privateDnsZonesInternal
   architecture review:
     type: UNKNOWN
@@ -6750,7 +6750,7 @@ privateDnsZonesInternal:
 privateEndpointRedirectMaps:
   path: Microsoft.AlertsManagement/privateEndpointRedirectMaps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/privateEndpointRedirectMaps
   architecture review:
     type: UNKNOWN
@@ -6767,7 +6767,7 @@ privateEndpointRedirectMaps:
 privateEndpoints:
   path: Microsoft.AlertsManagement/privateEndpoints
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/privateEndpoints
   architecture review:
     type: UNKNOWN
@@ -6784,7 +6784,7 @@ privateEndpoints:
 privateLinkScopeOperationStatuses:
   path: Microsoft.AlertsManagement/privateLinkScopeOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/privateLinkScopeOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6801,7 +6801,7 @@ privateLinkScopeOperationStatuses:
 privateLinkScopes:
   path: Microsoft.AlertsManagement/privateLinkScopes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/privateLinkScopes
   architecture review:
     type: UNKNOWN
@@ -6818,7 +6818,7 @@ privateLinkScopes:
 privateLinkServices:
   path: Microsoft.AlertsManagement/privateLinkServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/privateLinkServices
   architecture review:
     type: UNKNOWN
@@ -6835,7 +6835,7 @@ privateLinkServices:
 privateStoreClient:
   path: Microsoft.AlertsManagement/privateStoreClient
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/privateStoreClient
   architecture review:
     type: UNKNOWN
@@ -6852,7 +6852,7 @@ privateStoreClient:
 privateStores:
   path: Microsoft.AlertsManagement/privateStores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/privateStores
   architecture review:
     type: UNKNOWN
@@ -6869,7 +6869,7 @@ privateStores:
 privategalleryitems:
   path: Microsoft.AlertsManagement/privategalleryitems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/privategalleryitems
   architecture review:
     type: UNKNOWN
@@ -6886,7 +6886,7 @@ privategalleryitems:
 products:
   path: Microsoft.AlertsManagement/products
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/products
   architecture review:
     type: UNKNOWN
@@ -6903,7 +6903,7 @@ products:
 profiles:
   path: Microsoft.AlertsManagement/profiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/profiles
   architecture review:
     type: UNKNOWN
@@ -6920,7 +6920,7 @@ profiles:
 projects:
   path: Microsoft.AlertsManagement/projects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/projects
   architecture review:
     type: UNKNOWN
@@ -6937,7 +6937,7 @@ projects:
 providerOperations:
   path: Microsoft.AlertsManagement/providerOperations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/providerOperations
   architecture review:
     type: UNKNOWN
@@ -6954,7 +6954,7 @@ providerOperations:
 providerRegistrations:
   path: Microsoft.AlertsManagement/providerRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/providerRegistrations
   architecture review:
     type: UNKNOWN
@@ -6971,7 +6971,7 @@ providerRegistrations:
 providers:
   path: Microsoft.AlertsManagement/providers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/providers
   architecture review:
     type: UNKNOWN
@@ -6988,7 +6988,7 @@ providers:
 proximityPlacementGroups:
   path: Microsoft.AlertsManagement/proximityPlacementGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/proximityPlacementGroups
   architecture review:
     type: UNKNOWN
@@ -7005,7 +7005,7 @@ proximityPlacementGroups:
 publicIPAddresses:
   path: Microsoft.AlertsManagement/publicIPAddresses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/publicIPAddresses
   architecture review:
     type: UNKNOWN
@@ -7022,7 +7022,7 @@ publicIPAddresses:
 publicIPPrefixes:
   path: Microsoft.AlertsManagement/publicIPPrefixes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/publicIPPrefixes
   architecture review:
     type: UNKNOWN
@@ -7039,7 +7039,7 @@ publicIPPrefixes:
 publicImages:
   path: Microsoft.AlertsManagement/publicImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/publicImages
   architecture review:
     type: UNKNOWN
@@ -7056,7 +7056,7 @@ publicImages:
 publishers:
   path: Microsoft.AlertsManagement/publishers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/publishers
   architecture review:
     type: UNKNOWN
@@ -7073,7 +7073,7 @@ publishers:
 publishingUsers:
   path: Microsoft.AlertsManagement/publishingUsers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/publishingUsers
   architecture review:
     type: UNKNOWN
@@ -7090,7 +7090,7 @@ publishingUsers:
 queries:
   path: Microsoft.AlertsManagement/queries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/queries
   architecture review:
     type: UNKNOWN
@@ -7107,7 +7107,7 @@ queries:
 quotas:
   path: Microsoft.AlertsManagement/quotas
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/quotas
   architecture review:
     type: UNKNOWN
@@ -7124,7 +7124,7 @@ quotas:
 recommendations:
   path: Microsoft.AlertsManagement/recommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/recommendations
   architecture review:
     type: UNKNOWN
@@ -7141,7 +7141,7 @@ recommendations:
 redis:
   path: Microsoft.AlertsManagement/redis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/redis
   architecture review:
     type: UNKNOWN
@@ -7158,7 +7158,7 @@ redis:
 register:
   path: Microsoft.AlertsManagement/register
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/register
   architecture review:
     type: UNKNOWN
@@ -7175,7 +7175,7 @@ register:
 registrationAssignments:
   path: Microsoft.AlertsManagement/registrationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/registrationAssignments
   architecture review:
     type: UNKNOWN
@@ -7192,7 +7192,7 @@ registrationAssignments:
 registrationDefinitions:
   path: Microsoft.AlertsManagement/registrationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/registrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -7209,7 +7209,7 @@ registrationDefinitions:
 registrations:
   path: Microsoft.AlertsManagement/registrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/registrations
   architecture review:
     type: UNKNOWN
@@ -7226,7 +7226,7 @@ registrations:
 registries:
   path: Microsoft.AlertsManagement/registries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/registries
   architecture review:
     type: UNKNOWN
@@ -7243,7 +7243,7 @@ registries:
 regulatoryComplianceStandards:
   path: Microsoft.AlertsManagement/regulatoryComplianceStandards
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/regulatoryComplianceStandards
   architecture review:
     type: UNKNOWN
@@ -7260,7 +7260,7 @@ regulatoryComplianceStandards:
 remediations:
   path: Microsoft.AlertsManagement/remediations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/remediations
   architecture review:
     type: UNKNOWN
@@ -7277,7 +7277,7 @@ remediations:
 rename:
   path: Microsoft.AlertsManagement/rename
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/rename
   architecture review:
     type: UNKNOWN
@@ -7294,7 +7294,7 @@ rename:
 replicationEligibilityResults:
   path: Microsoft.AlertsManagement/replicationEligibilityResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/replicationEligibilityResults
   architecture review:
     type: UNKNOWN
@@ -7311,7 +7311,7 @@ replicationEligibilityResults:
 reportFeedback:
   path: Microsoft.AlertsManagement/reportFeedback
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/reportFeedback
   architecture review:
     type: UNKNOWN
@@ -7328,7 +7328,7 @@ reportFeedback:
 reports:
   path: Microsoft.AlertsManagement/reports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/reports
   architecture review:
     type: UNKNOWN
@@ -7345,7 +7345,7 @@ reports:
 requests:
   path: Microsoft.AlertsManagement/requests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/requests
   architecture review:
     type: UNKNOWN
@@ -7362,7 +7362,7 @@ requests:
 reservationOrders:
   path: Microsoft.AlertsManagement/reservationOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/reservationOrders
   architecture review:
     type: UNKNOWN
@@ -7379,7 +7379,7 @@ reservationOrders:
 reservations:
   path: Microsoft.AlertsManagement/reservations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/reservations
   architecture review:
     type: UNKNOWN
@@ -7396,7 +7396,7 @@ reservations:
 reservedIps:
   path: Microsoft.AlertsManagement/reservedIps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/reservedIps
   architecture review:
     type: UNKNOWN
@@ -7413,7 +7413,7 @@ reservedIps:
 resourceChangeDetails:
   path: Microsoft.AlertsManagement/resourceChangeDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/resourceChangeDetails
   architecture review:
     type: UNKNOWN
@@ -7430,7 +7430,7 @@ resourceChangeDetails:
 resourceChanges:
   path: Microsoft.AlertsManagement/resourceChanges
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/resourceChanges
   architecture review:
     type: UNKNOWN
@@ -7447,7 +7447,7 @@ resourceChanges:
 resourceGroups:
   path: Microsoft.AlertsManagement/resourceGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/resourceGroups
   architecture review:
     type: UNKNOWN
@@ -7464,7 +7464,7 @@ resourceGroups:
 resourceHealthMetadata:
   path: Microsoft.AlertsManagement/resourceHealthMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/resourceHealthMetadata
   architecture review:
     type: UNKNOWN
@@ -7481,7 +7481,7 @@ resourceHealthMetadata:
 resourceProviders:
   path: Microsoft.AlertsManagement/resourceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/resourceProviders
   architecture review:
     type: UNKNOWN
@@ -7498,7 +7498,7 @@ resourceProviders:
 resourceTypes:
   path: Microsoft.AlertsManagement/resourceTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/resourceTypes
   architecture review:
     type: UNKNOWN
@@ -7515,7 +7515,7 @@ resourceTypes:
 resources:
   path: Microsoft.AlertsManagement/resources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/resources
   architecture review:
     type: UNKNOWN
@@ -7532,7 +7532,7 @@ resources:
 resourcesHistory:
   path: Microsoft.AlertsManagement/resourcesHistory
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/resourcesHistory
   architecture review:
     type: UNKNOWN
@@ -7549,7 +7549,7 @@ resourcesHistory:
 restorePointCollections:
   path: Microsoft.AlertsManagement/restorePointCollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/restorePointCollections
   architecture review:
     type: UNKNOWN
@@ -7566,7 +7566,7 @@ restorePointCollections:
 roleAssignments:
   path: Microsoft.AlertsManagement/roleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/roleAssignments
   architecture review:
     type: UNKNOWN
@@ -7583,7 +7583,7 @@ roleAssignments:
 roleAssignmentsUsageMetrics:
   path: Microsoft.AlertsManagement/roleAssignmentsUsageMetrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/roleAssignmentsUsageMetrics
   architecture review:
     type: UNKNOWN
@@ -7600,7 +7600,7 @@ roleAssignmentsUsageMetrics:
 roleDefinitions:
   path: Microsoft.AlertsManagement/roleDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/roleDefinitions
   architecture review:
     type: UNKNOWN
@@ -7617,7 +7617,7 @@ roleDefinitions:
 rollbackToLegacyPricingModel:
   path: Microsoft.AlertsManagement/rollbackToLegacyPricingModel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/rollbackToLegacyPricingModel
   architecture review:
     type: UNKNOWN
@@ -7634,7 +7634,7 @@ rollbackToLegacyPricingModel:
 rollouts:
   path: Microsoft.AlertsManagement/rollouts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/rollouts
   architecture review:
     type: UNKNOWN
@@ -7651,7 +7651,7 @@ rollouts:
 routeFilters:
   path: Microsoft.AlertsManagement/routeFilters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/routeFilters
   architecture review:
     type: UNKNOWN
@@ -7668,7 +7668,7 @@ routeFilters:
 routeTables:
   path: Microsoft.AlertsManagement/routeTables
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/routeTables
   architecture review:
     type: UNKNOWN
@@ -7685,7 +7685,7 @@ routeTables:
 runtimes:
   path: Microsoft.AlertsManagement/runtimes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/runtimes
   architecture review:
     type: UNKNOWN
@@ -7702,7 +7702,7 @@ runtimes:
 saasresources:
   path: Microsoft.AlertsManagement/saasresources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/saasresources
   architecture review:
     type: UNKNOWN
@@ -7719,7 +7719,7 @@ saasresources:
 sapMonitors:
   path: Microsoft.AlertsManagement/sapMonitors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/sapMonitors
   architecture review:
     type: UNKNOWN
@@ -7736,7 +7736,7 @@ sapMonitors:
 scheduledqueryrules:
   path: Microsoft.AlertsManagement/scheduledqueryrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/scheduledqueryrules
   architecture review:
     type: UNKNOWN
@@ -7753,7 +7753,7 @@ scheduledqueryrules:
 schedules:
   path: Microsoft.AlertsManagement/schedules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/schedules
   architecture review:
     type: UNKNOWN
@@ -7770,7 +7770,7 @@ schedules:
 searchServices:
   path: Microsoft.AlertsManagement/searchServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/searchServices
   architecture review:
     type: UNKNOWN
@@ -7787,7 +7787,7 @@ searchServices:
 secrets:
   path: Microsoft.AlertsManagement/secrets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/secrets
   architecture review:
     type: UNKNOWN
@@ -7804,7 +7804,7 @@ secrets:
 securityContacts:
   path: Microsoft.AlertsManagement/securityContacts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/securityContacts
   architecture review:
     type: UNKNOWN
@@ -7821,7 +7821,7 @@ securityContacts:
 securitySolutions:
   path: Microsoft.AlertsManagement/securitySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/securitySolutions
   architecture review:
     type: UNKNOWN
@@ -7838,7 +7838,7 @@ securitySolutions:
 securitySolutionsReferenceData:
   path: Microsoft.AlertsManagement/securitySolutionsReferenceData
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/securitySolutionsReferenceData
   architecture review:
     type: UNKNOWN
@@ -7855,7 +7855,7 @@ securitySolutionsReferenceData:
 securityStatuses:
   path: Microsoft.AlertsManagement/securityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/securityStatuses
   architecture review:
     type: UNKNOWN
@@ -7872,7 +7872,7 @@ securityStatuses:
 securityStatusesSummaries:
   path: Microsoft.AlertsManagement/securityStatusesSummaries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/securityStatusesSummaries
   architecture review:
     type: UNKNOWN
@@ -7889,7 +7889,7 @@ securityStatusesSummaries:
 serverFarms:
   path: Microsoft.AlertsManagement/serverFarms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/serverFarms
   architecture review:
     type: UNKNOWN
@@ -7906,7 +7906,7 @@ serverFarms:
 serverGroups:
   path: Microsoft.AlertsManagement/serverGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/serverGroups
   architecture review:
     type: UNKNOWN
@@ -7923,7 +7923,7 @@ serverGroups:
 serverVulnerabilityAssessments:
   path: Microsoft.AlertsManagement/serverVulnerabilityAssessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/serverVulnerabilityAssessments
   architecture review:
     type: UNKNOWN
@@ -7940,7 +7940,7 @@ serverVulnerabilityAssessments:
 serverfarms:
   path: Microsoft.AlertsManagement/serverfarms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/serverfarms
   architecture review:
     type: UNKNOWN
@@ -7957,7 +7957,7 @@ serverfarms:
 servers:
   path: Microsoft.AlertsManagement/servers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/servers
   architecture review:
     type: UNKNOWN
@@ -7974,7 +7974,7 @@ servers:
 serversv2:
   path: Microsoft.AlertsManagement/serversv2
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/serversv2
   architecture review:
     type: UNKNOWN
@@ -7991,7 +7991,7 @@ serversv2:
 service:
   path: Microsoft.AlertsManagement/service
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/service
   architecture review:
     type: UNKNOWN
@@ -8008,7 +8008,7 @@ service:
 serviceAssociationLinks:
   path: Microsoft.AlertsManagement/serviceAssociationLinks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/serviceAssociationLinks
   architecture review:
     type: UNKNOWN
@@ -8025,7 +8025,7 @@ serviceAssociationLinks:
 serviceEndpointPolicies:
   path: Microsoft.AlertsManagement/serviceEndpointPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/serviceEndpointPolicies
   architecture review:
     type: UNKNOWN
@@ -8042,7 +8042,7 @@ serviceEndpointPolicies:
 serviceTopologies:
   path: Microsoft.AlertsManagement/serviceTopologies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/serviceTopologies
   architecture review:
     type: UNKNOWN
@@ -8059,7 +8059,7 @@ serviceTopologies:
 servicehealthmetrics:
   path: Microsoft.AlertsManagement/servicehealthmetrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/servicehealthmetrics
   architecture review:
     type: UNKNOWN
@@ -8076,7 +8076,7 @@ servicehealthmetrics:
 services:
   path: Microsoft.AlertsManagement/services
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/services
   architecture review:
     type: UNKNOWN
@@ -8093,7 +8093,7 @@ services:
 settings:
   path: Microsoft.AlertsManagement/settings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/settings
   architecture review:
     type: UNKNOWN
@@ -8110,7 +8110,7 @@ settings:
 sharedVMImages:
   path: Microsoft.AlertsManagement/sharedVMImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/sharedVMImages
   architecture review:
     type: UNKNOWN
@@ -8127,7 +8127,7 @@ sharedVMImages:
 showbackRules:
   path: Microsoft.AlertsManagement/showbackRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/showbackRules
   architecture review:
     type: UNKNOWN
@@ -8144,7 +8144,7 @@ showbackRules:
 singleServers:
   path: Microsoft.AlertsManagement/singleServers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/singleServers
   architecture review:
     type: UNKNOWN
@@ -8161,7 +8161,7 @@ singleServers:
 sites:
   path: Microsoft.AlertsManagement/sites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/sites
   architecture review:
     type: UNKNOWN
@@ -8178,7 +8178,7 @@ sites:
 sku:
   path: Microsoft.AlertsManagement/sku
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/sku
   architecture review:
     type: UNKNOWN
@@ -8195,7 +8195,7 @@ sku:
 smartDetectorAlertRules:
   path: Microsoft.AlertsManagement/smartDetectorAlertRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/smartDetectorAlertRules
   architecture review:
     type: UNKNOWN
@@ -8212,7 +8212,7 @@ smartDetectorAlertRules:
 smartGroups:
   path: Microsoft.AlertsManagement/smartGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/smartGroups
   architecture review:
     type: UNKNOWN
@@ -8229,7 +8229,7 @@ smartGroups:
 snapshots:
   path: Microsoft.AlertsManagement/snapshots
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/snapshots
   architecture review:
     type: UNKNOWN
@@ -8246,7 +8246,7 @@ snapshots:
 software:
   path: Microsoft.AlertsManagement/software
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/software
   architecture review:
     type: UNKNOWN
@@ -8263,7 +8263,7 @@ software:
 softwareUpdateProfile:
   path: Microsoft.AlertsManagement/softwareUpdateProfile
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/softwareUpdateProfile
   architecture review:
     type: UNKNOWN
@@ -8280,7 +8280,7 @@ softwareUpdateProfile:
 softwareUpdates:
   path: Microsoft.AlertsManagement/softwareUpdates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/softwareUpdates
   architecture review:
     type: UNKNOWN
@@ -8297,7 +8297,7 @@ softwareUpdates:
 solutions:
   path: Microsoft.AlertsManagement/solutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/solutions
   architecture review:
     type: UNKNOWN
@@ -8314,7 +8314,7 @@ solutions:
 sourceControls:
   path: Microsoft.AlertsManagement/sourceControls
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/sourceControls
   architecture review:
     type: UNKNOWN
@@ -8331,7 +8331,7 @@ sourceControls:
 spatialAnchorsAccounts:
   path: Microsoft.AlertsManagement/spatialAnchorsAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/spatialAnchorsAccounts
   architecture review:
     type: UNKNOWN
@@ -8348,7 +8348,7 @@ spatialAnchorsAccounts:
 sqlServerRegistrations:
   path: Microsoft.AlertsManagement/sqlServerRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/sqlServerRegistrations
   architecture review:
     type: UNKNOWN
@@ -8365,7 +8365,7 @@ sqlServerRegistrations:
 sshPublicKeys:
   path: Microsoft.AlertsManagement/sshPublicKeys
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/sshPublicKeys
   architecture review:
     type: UNKNOWN
@@ -8382,7 +8382,7 @@ sshPublicKeys:
 startTenantBackfill:
   path: Microsoft.AlertsManagement/startTenantBackfill
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/startTenantBackfill
   architecture review:
     type: UNKNOWN
@@ -8399,7 +8399,7 @@ startTenantBackfill:
 steps:
   path: Microsoft.AlertsManagement/steps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/steps
   architecture review:
     type: UNKNOWN
@@ -8416,7 +8416,7 @@ steps:
 storageAccounts:
   path: Microsoft.AlertsManagement/storageAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/storageAccounts
   architecture review:
     type: UNKNOWN
@@ -8433,7 +8433,7 @@ storageAccounts:
 storageInsightConfigs:
   path: Microsoft.AlertsManagement/storageInsightConfigs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/storageInsightConfigs
   architecture review:
     type: UNKNOWN
@@ -8450,7 +8450,7 @@ storageInsightConfigs:
 storageSyncServices:
   path: Microsoft.AlertsManagement/storageSyncServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/storageSyncServices
   architecture review:
     type: UNKNOWN
@@ -8467,7 +8467,7 @@ storageSyncServices:
 stores:
   path: Microsoft.AlertsManagement/stores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/stores
   architecture review:
     type: UNKNOWN
@@ -8484,7 +8484,7 @@ stores:
 streamingjobs:
   path: Microsoft.AlertsManagement/streamingjobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/streamingjobs
   architecture review:
     type: UNKNOWN
@@ -8501,7 +8501,7 @@ streamingjobs:
 subAssessments:
   path: Microsoft.AlertsManagement/subAssessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/subAssessments
   architecture review:
     type: UNKNOWN
@@ -8518,7 +8518,7 @@ subAssessments:
 subscriptionFeatureRegistrations:
   path: Microsoft.AlertsManagement/subscriptionFeatureRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/subscriptionFeatureRegistrations
   architecture review:
     type: UNKNOWN
@@ -8535,7 +8535,7 @@ subscriptionFeatureRegistrations:
 subscriptions:
   path: Microsoft.AlertsManagement/subscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/subscriptions
   architecture review:
     type: UNKNOWN
@@ -8552,7 +8552,7 @@ subscriptions:
 subscriptionsStatus:
   path: Microsoft.AlertsManagement/subscriptionsStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/subscriptionsStatus
   architecture review:
     type: UNKNOWN
@@ -8569,7 +8569,7 @@ subscriptionsStatus:
 supportProviders:
   path: Microsoft.AlertsManagement/supportProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/supportProviders
   architecture review:
     type: UNKNOWN
@@ -8586,7 +8586,7 @@ supportProviders:
 supporttickets:
   path: Microsoft.AlertsManagement/supporttickets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/supporttickets
   architecture review:
     type: UNKNOWN
@@ -8603,7 +8603,7 @@ supporttickets:
 suppressions:
   path: Microsoft.AlertsManagement/suppressions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/suppressions
   architecture review:
     type: UNKNOWN
@@ -8620,7 +8620,7 @@ suppressions:
 systemTopics:
   path: Microsoft.AlertsManagement/systemTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/systemTopics
   architecture review:
     type: UNKNOWN
@@ -8637,7 +8637,7 @@ systemTopics:
 tags:
   path: Microsoft.AlertsManagement/tags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/tags
   architecture review:
     type: UNKNOWN
@@ -8654,7 +8654,7 @@ tags:
 tasks:
   path: Microsoft.AlertsManagement/tasks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/tasks
   architecture review:
     type: UNKNOWN
@@ -8671,7 +8671,7 @@ tasks:
 tenantBackfillStatus:
   path: Microsoft.AlertsManagement/tenantBackfillStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/tenantBackfillStatus
   architecture review:
     type: UNKNOWN
@@ -8688,7 +8688,7 @@ tenantBackfillStatus:
 tenants:
   path: Microsoft.AlertsManagement/tenants
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/tenants
   architecture review:
     type: UNKNOWN
@@ -8705,7 +8705,7 @@ tenants:
 topLevelDomains:
   path: Microsoft.AlertsManagement/topLevelDomains
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/topLevelDomains
   architecture review:
     type: UNKNOWN
@@ -8722,7 +8722,7 @@ topLevelDomains:
 topicTypes:
   path: Microsoft.AlertsManagement/topicTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/topicTypes
   architecture review:
     type: UNKNOWN
@@ -8739,7 +8739,7 @@ topicTypes:
 topics:
   path: Microsoft.AlertsManagement/topics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/topics
   architecture review:
     type: UNKNOWN
@@ -8756,7 +8756,7 @@ topics:
 topologies:
   path: Microsoft.AlertsManagement/topologies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/topologies
   architecture review:
     type: UNKNOWN
@@ -8773,7 +8773,7 @@ topologies:
 topology:
   path: Microsoft.AlertsManagement/topology
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/topology
   architecture review:
     type: UNKNOWN
@@ -8790,7 +8790,7 @@ topology:
 trafficManagerGeographicHierarchies:
   path: Microsoft.AlertsManagement/trafficManagerGeographicHierarchies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/trafficManagerGeographicHierarchies
   architecture review:
     type: UNKNOWN
@@ -8807,7 +8807,7 @@ trafficManagerGeographicHierarchies:
 trafficManagerUserMetricsKeys:
   path: Microsoft.AlertsManagement/trafficManagerUserMetricsKeys
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/trafficManagerUserMetricsKeys
   architecture review:
     type: UNKNOWN
@@ -8824,7 +8824,7 @@ trafficManagerUserMetricsKeys:
 trafficmanagerprofiles:
   path: Microsoft.AlertsManagement/trafficmanagerprofiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/trafficmanagerprofiles
   architecture review:
     type: UNKNOWN
@@ -8841,7 +8841,7 @@ trafficmanagerprofiles:
 transactions:
   path: Microsoft.AlertsManagement/transactions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/transactions
   architecture review:
     type: UNKNOWN
@@ -8858,7 +8858,7 @@ transactions:
 transfers:
   path: Microsoft.AlertsManagement/transfers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/transfers
   architecture review:
     type: UNKNOWN
@@ -8875,7 +8875,7 @@ transfers:
 updateCommunicationPreference:
   path: Microsoft.AlertsManagement/updateCommunicationPreference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/updateCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -8892,7 +8892,7 @@ updateCommunicationPreference:
 updates:
   path: Microsoft.AlertsManagement/updates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/updates
   architecture review:
     type: UNKNOWN
@@ -8909,7 +8909,7 @@ updates:
 usages:
   path: Microsoft.AlertsManagement/usages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/usages
   architecture review:
     type: UNKNOWN
@@ -8926,7 +8926,7 @@ usages:
 userAssignedIdentities:
   path: Microsoft.AlertsManagement/userAssignedIdentities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/userAssignedIdentities
   architecture review:
     type: UNKNOWN
@@ -8943,7 +8943,7 @@ userAssignedIdentities:
 userSettings:
   path: Microsoft.AlertsManagement/userSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/userSettings
   architecture review:
     type: UNKNOWN
@@ -8960,7 +8960,7 @@ userSettings:
 users:
   path: Microsoft.AlertsManagement/users
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/users
   architecture review:
     type: UNKNOWN
@@ -8977,7 +8977,7 @@ users:
 validate:
   path: Microsoft.AlertsManagement/validate
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/validate
   architecture review:
     type: UNKNOWN
@@ -8994,7 +8994,7 @@ validate:
 validateAddress:
   path: Microsoft.AlertsManagement/validateAddress
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/validateAddress
   architecture review:
     type: UNKNOWN
@@ -9011,7 +9011,7 @@ validateAddress:
 validateCertificateRegistrationInformation:
   path: Microsoft.AlertsManagement/validateCertificateRegistrationInformation
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/validateCertificateRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9028,7 +9028,7 @@ validateCertificateRegistrationInformation:
 validateDomainRegistrationInformation:
   path: Microsoft.AlertsManagement/validateDomainRegistrationInformation
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/validateDomainRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9045,7 +9045,7 @@ validateDomainRegistrationInformation:
 validateProbe:
   path: Microsoft.AlertsManagement/validateProbe
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/validateProbe
   architecture review:
     type: UNKNOWN
@@ -9062,7 +9062,7 @@ validateProbe:
 validateReservationOrder:
   path: Microsoft.AlertsManagement/validateReservationOrder
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/validateReservationOrder
   architecture review:
     type: UNKNOWN
@@ -9079,7 +9079,7 @@ validateReservationOrder:
 validateServiceName:
   path: Microsoft.AlertsManagement/validateServiceName
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/validateServiceName
   architecture review:
     type: UNKNOWN
@@ -9096,7 +9096,7 @@ validateServiceName:
 validateSubscriptionMoveAvailability:
   path: Microsoft.AlertsManagement/validateSubscriptionMoveAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/validateSubscriptionMoveAvailability
   architecture review:
     type: UNKNOWN
@@ -9113,7 +9113,7 @@ validateSubscriptionMoveAvailability:
 vaults:
   path: Microsoft.AlertsManagement/vaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/vaults
   architecture review:
     type: UNKNOWN
@@ -9130,7 +9130,7 @@ vaults:
 verifyHostingEnvironmentVnet:
   path: Microsoft.AlertsManagement/verifyHostingEnvironmentVnet
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/verifyHostingEnvironmentVnet
   architecture review:
     type: UNKNOWN
@@ -9147,7 +9147,7 @@ verifyHostingEnvironmentVnet:
 views:
   path: Microsoft.AlertsManagement/views
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/views
   architecture review:
     type: UNKNOWN
@@ -9164,7 +9164,7 @@ views:
 virtualClusters:
   path: Microsoft.AlertsManagement/virtualClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/virtualClusters
   architecture review:
     type: UNKNOWN
@@ -9181,7 +9181,7 @@ virtualClusters:
 virtualHubs:
   path: Microsoft.AlertsManagement/virtualHubs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/virtualHubs
   architecture review:
     type: UNKNOWN
@@ -9198,7 +9198,7 @@ virtualHubs:
 virtualMachineScaleSets:
   path: Microsoft.AlertsManagement/virtualMachineScaleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/virtualMachineScaleSets
   architecture review:
     type: UNKNOWN
@@ -9215,7 +9215,7 @@ virtualMachineScaleSets:
 virtualMachines:
   path: Microsoft.AlertsManagement/virtualMachines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/virtualMachines
   architecture review:
     type: UNKNOWN
@@ -9232,7 +9232,7 @@ virtualMachines:
 virtualNetworkGateways:
   path: Microsoft.AlertsManagement/virtualNetworkGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/virtualNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -9249,7 +9249,7 @@ virtualNetworkGateways:
 virtualNetworkTaps:
   path: Microsoft.AlertsManagement/virtualNetworkTaps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/virtualNetworkTaps
   architecture review:
     type: UNKNOWN
@@ -9266,7 +9266,7 @@ virtualNetworkTaps:
 virtualNetworks:
   path: Microsoft.AlertsManagement/virtualNetworks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/virtualNetworks
   architecture review:
     type: UNKNOWN
@@ -9283,7 +9283,7 @@ virtualNetworks:
 virtualRouters:
   path: Microsoft.AlertsManagement/virtualRouters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/virtualRouters
   architecture review:
     type: UNKNOWN
@@ -9300,7 +9300,7 @@ virtualRouters:
 virtualWans:
   path: Microsoft.AlertsManagement/virtualWans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/virtualWans
   architecture review:
     type: UNKNOWN
@@ -9317,7 +9317,7 @@ virtualWans:
 vmImages:
   path: Microsoft.AlertsManagement/vmImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/vmImages
   architecture review:
     type: UNKNOWN
@@ -9334,7 +9334,7 @@ vmImages:
 vmInsightsOnboardingStatuses:
   path: Microsoft.AlertsManagement/vmInsightsOnboardingStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/vmInsightsOnboardingStatuses
   architecture review:
     type: UNKNOWN
@@ -9351,7 +9351,7 @@ vmInsightsOnboardingStatuses:
 volumes:
   path: Microsoft.AlertsManagement/volumes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/volumes
   architecture review:
     type: UNKNOWN
@@ -9368,7 +9368,7 @@ volumes:
 vpnGateways:
   path: Microsoft.AlertsManagement/vpnGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/vpnGateways
   architecture review:
     type: UNKNOWN
@@ -9385,7 +9385,7 @@ vpnGateways:
 vpnServerConfigurations:
   path: Microsoft.AlertsManagement/vpnServerConfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/vpnServerConfigurations
   architecture review:
     type: UNKNOWN
@@ -9402,7 +9402,7 @@ vpnServerConfigurations:
 vpnSites:
   path: Microsoft.AlertsManagement/vpnSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/vpnSites
   architecture review:
     type: UNKNOWN
@@ -9419,7 +9419,7 @@ vpnSites:
 watchers:
   path: Microsoft.AlertsManagement/watchers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/watchers
   architecture review:
     type: UNKNOWN
@@ -9436,7 +9436,7 @@ watchers:
 webApplicationFirewallPolicies:
   path: Microsoft.AlertsManagement/webApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/webApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -9453,7 +9453,7 @@ webApplicationFirewallPolicies:
 webServices:
   path: Microsoft.AlertsManagement/webServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/webServices
   architecture review:
     type: UNKNOWN
@@ -9470,7 +9470,7 @@ webServices:
 webtests:
   path: Microsoft.AlertsManagement/webtests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/webtests
   architecture review:
     type: UNKNOWN
@@ -9487,7 +9487,7 @@ webtests:
 workbooks:
   path: Microsoft.AlertsManagement/workbooks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/workbooks
   architecture review:
     type: UNKNOWN
@@ -9504,7 +9504,7 @@ workbooks:
 workbooktemplates:
   path: Microsoft.AlertsManagement/workbooktemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/workbooktemplates
   architecture review:
     type: UNKNOWN
@@ -9521,7 +9521,7 @@ workbooktemplates:
 workflows:
   path: Microsoft.AlertsManagement/workflows
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/workflows
   architecture review:
     type: UNKNOWN
@@ -9538,7 +9538,7 @@ workflows:
 workspaceCollections:
   path: Microsoft.AlertsManagement/workspaceCollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/workspaceCollections
   architecture review:
     type: UNKNOWN
@@ -9555,7 +9555,7 @@ workspaceCollections:
 workspaceSettings:
   path: Microsoft.AlertsManagement/workspaceSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/workspaceSettings
   architecture review:
     type: UNKNOWN
@@ -9572,7 +9572,7 @@ workspaceSettings:
 workspaces:
   path: Microsoft.AlertsManagement/workspaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AlertsManagement/workspaces
   architecture review:
     type: UNKNOWN

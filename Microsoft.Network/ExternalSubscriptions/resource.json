@@ -1,6 +1,0 @@
-[
-    "Microsoft.Network/ExternalSubscriptions/Alerts",
-    "Microsoft.Network/ExternalSubscriptions/Dimensions",
-    "Microsoft.Network/ExternalSubscriptions/Forecast",
-    "Microsoft.Network/ExternalSubscriptions/Query"
-]

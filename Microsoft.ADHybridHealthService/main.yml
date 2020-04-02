@@ -1,7 +1,7 @@
 AggregatedCost:
   path: Microsoft.ADHybridHealthService/AggregatedCost
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/AggregatedCost
   architecture review:
     type: UNKNOWN
@@ -18,7 +18,7 @@ AggregatedCost:
 Alerts:
   path: Microsoft.ADHybridHealthService/Alerts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Alerts
   architecture review:
     type: UNKNOWN
@@ -35,7 +35,7 @@ Alerts:
 AutoProvisioningSettings:
   path: Microsoft.ADHybridHealthService/AutoProvisioningSettings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/AutoProvisioningSettings
   architecture review:
     type: UNKNOWN
@@ -52,7 +52,7 @@ AutoProvisioningSettings:
 Balances:
   path: Microsoft.ADHybridHealthService/Balances
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Balances
   architecture review:
     type: UNKNOWN
@@ -69,7 +69,7 @@ Balances:
 BillingAccounts:
   path: Microsoft.ADHybridHealthService/BillingAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/BillingAccounts
   architecture review:
     type: UNKNOWN
@@ -86,7 +86,7 @@ BillingAccounts:
 Budgets:
   path: Microsoft.ADHybridHealthService/Budgets
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Budgets
   architecture review:
     type: UNKNOWN
@@ -103,7 +103,7 @@ Budgets:
 CdnWebApplicationFirewallManagedRuleSets:
   path: Microsoft.ADHybridHealthService/CdnWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/CdnWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -120,7 +120,7 @@ CdnWebApplicationFirewallManagedRuleSets:
 CdnWebApplicationFirewallPolicies:
   path: Microsoft.ADHybridHealthService/CdnWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/CdnWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -137,7 +137,7 @@ CdnWebApplicationFirewallPolicies:
 Charges:
   path: Microsoft.ADHybridHealthService/Charges
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Charges
   architecture review:
     type: UNKNOWN
@@ -154,7 +154,7 @@ Charges:
 CloudConnectors:
   path: Microsoft.ADHybridHealthService/CloudConnectors
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/CloudConnectors
   architecture review:
     type: UNKNOWN
@@ -171,7 +171,7 @@ CloudConnectors:
 Compliances:
   path: Microsoft.ADHybridHealthService/Compliances
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Compliances
   architecture review:
     type: UNKNOWN
@@ -188,7 +188,7 @@ Compliances:
 Components:
   path: Microsoft.ADHybridHealthService/Components
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Components
   architecture review:
     type: UNKNOWN
@@ -205,7 +205,7 @@ Components:
 Connectors:
   path: Microsoft.ADHybridHealthService/Connectors
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Connectors
   architecture review:
     type: UNKNOWN
@@ -222,7 +222,7 @@ Connectors:
 CostTags:
   path: Microsoft.ADHybridHealthService/CostTags
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/CostTags
   architecture review:
     type: UNKNOWN
@@ -239,7 +239,7 @@ CostTags:
 CreateSubscription:
   path: Microsoft.ADHybridHealthService/CreateSubscription
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/CreateSubscription
   architecture review:
     type: UNKNOWN
@@ -256,7 +256,7 @@ CreateSubscription:
 DataBoxEdgeDevices:
   path: Microsoft.ADHybridHealthService/DataBoxEdgeDevices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/DataBoxEdgeDevices
   architecture review:
     type: UNKNOWN
@@ -273,7 +273,7 @@ DataBoxEdgeDevices:
 Departments:
   path: Microsoft.ADHybridHealthService/Departments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Departments
   architecture review:
     type: UNKNOWN
@@ -290,7 +290,7 @@ Departments:
 DeviceServices:
   path: Microsoft.ADHybridHealthService/DeviceServices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/DeviceServices
   architecture review:
     type: UNKNOWN
@@ -307,7 +307,7 @@ DeviceServices:
 Dimensions:
   path: Microsoft.ADHybridHealthService/Dimensions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Dimensions
   architecture review:
     type: UNKNOWN
@@ -324,7 +324,7 @@ Dimensions:
 DomainServices:
   path: Microsoft.ADHybridHealthService/DomainServices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/DomainServices
   architecture review:
     type: UNKNOWN
@@ -341,7 +341,7 @@ DomainServices:
 EnrollmentAccounts:
   path: Microsoft.ADHybridHealthService/EnrollmentAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/EnrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -358,7 +358,7 @@ EnrollmentAccounts:
 Exports:
   path: Microsoft.ADHybridHealthService/Exports
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Exports
   architecture review:
     type: UNKNOWN
@@ -375,7 +375,7 @@ Exports:
 ExternalBillingAccounts:
   path: Microsoft.ADHybridHealthService/ExternalBillingAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ExternalBillingAccounts
   architecture review:
     type: UNKNOWN
@@ -392,7 +392,7 @@ ExternalBillingAccounts:
 ExternalSubscriptions:
   path: Microsoft.ADHybridHealthService/ExternalSubscriptions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ExternalSubscriptions
   architecture review:
     type: UNKNOWN
@@ -409,7 +409,7 @@ ExternalSubscriptions:
 Forecast:
   path: Microsoft.ADHybridHealthService/Forecast
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Forecast
   architecture review:
     type: UNKNOWN
@@ -426,7 +426,7 @@ Forecast:
 Forecasts:
   path: Microsoft.ADHybridHealthService/Forecasts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Forecasts
   architecture review:
     type: UNKNOWN
@@ -443,7 +443,7 @@ Forecasts:
 Graph:
   path: Microsoft.ADHybridHealthService/Graph
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Graph
   architecture review:
     type: UNKNOWN
@@ -460,7 +460,7 @@ Graph:
 HyperVSites:
   path: Microsoft.ADHybridHealthService/HyperVSites
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/HyperVSites
   architecture review:
     type: UNKNOWN
@@ -477,7 +477,7 @@ HyperVSites:
 Identities:
   path: Microsoft.ADHybridHealthService/Identities
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Identities
   architecture review:
     type: UNKNOWN
@@ -494,7 +494,7 @@ Identities:
 ImportSites:
   path: Microsoft.ADHybridHealthService/ImportSites
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ImportSites
   architecture review:
     type: UNKNOWN
@@ -511,7 +511,7 @@ ImportSites:
 InformationProtectionPolicies:
   path: Microsoft.ADHybridHealthService/InformationProtectionPolicies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/InformationProtectionPolicies
   architecture review:
     type: UNKNOWN
@@ -528,7 +528,7 @@ InformationProtectionPolicies:
 IoTApps:
   path: Microsoft.ADHybridHealthService/IoTApps
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/IoTApps
   architecture review:
     type: UNKNOWN
@@ -545,7 +545,7 @@ IoTApps:
 IotHubs:
   path: Microsoft.ADHybridHealthService/IotHubs
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/IotHubs
   architecture review:
     type: UNKNOWN
@@ -562,7 +562,7 @@ IotHubs:
 Locations:
   path: Microsoft.ADHybridHealthService/Locations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Locations
   architecture review:
     type: UNKNOWN
@@ -579,7 +579,7 @@ Locations:
 Marketplaces:
   path: Microsoft.ADHybridHealthService/Marketplaces
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Marketplaces
   architecture review:
     type: UNKNOWN
@@ -596,7 +596,7 @@ Marketplaces:
 Namespaces:
   path: Microsoft.ADHybridHealthService/Namespaces
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Namespaces
   architecture review:
     type: UNKNOWN
@@ -613,7 +613,7 @@ Namespaces:
 OperationResults:
   path: Microsoft.ADHybridHealthService/OperationResults
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/OperationResults
   architecture review:
     type: UNKNOWN
@@ -630,7 +630,7 @@ OperationResults:
 OperationStatus:
   path: Microsoft.ADHybridHealthService/OperationStatus
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/OperationStatus
   architecture review:
     type: UNKNOWN
@@ -647,7 +647,7 @@ OperationStatus:
 Operations:
   path: Microsoft.ADHybridHealthService/Operations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Operations
   architecture review:
     type: UNKNOWN
@@ -664,7 +664,7 @@ Operations:
 Pricesheets:
   path: Microsoft.ADHybridHealthService/Pricesheets
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Pricesheets
   architecture review:
     type: UNKNOWN
@@ -681,7 +681,7 @@ Pricesheets:
 ProvisioningServices:
   path: Microsoft.ADHybridHealthService/ProvisioningServices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ProvisioningServices
   architecture review:
     type: UNKNOWN
@@ -698,7 +698,7 @@ ProvisioningServices:
 Query:
   path: Microsoft.ADHybridHealthService/Query
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Query
   architecture review:
     type: UNKNOWN
@@ -715,7 +715,7 @@ Query:
 RateCard:
   path: Microsoft.ADHybridHealthService/RateCard
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/RateCard
   architecture review:
     type: UNKNOWN
@@ -732,7 +732,7 @@ RateCard:
 Redis:
   path: Microsoft.ADHybridHealthService/Redis
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Redis
   architecture review:
     type: UNKNOWN
@@ -749,7 +749,7 @@ Redis:
 Reportconfigs:
   path: Microsoft.ADHybridHealthService/Reportconfigs
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Reportconfigs
   architecture review:
     type: UNKNOWN
@@ -766,7 +766,7 @@ Reportconfigs:
 Reports:
   path: Microsoft.ADHybridHealthService/Reports
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Reports
   architecture review:
     type: UNKNOWN
@@ -783,7 +783,7 @@ Reports:
 ReservationDetails:
   path: Microsoft.ADHybridHealthService/ReservationDetails
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ReservationDetails
   architecture review:
     type: UNKNOWN
@@ -800,7 +800,7 @@ ReservationDetails:
 ReservationRecommendations:
   path: Microsoft.ADHybridHealthService/ReservationRecommendations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ReservationRecommendations
   architecture review:
     type: UNKNOWN
@@ -817,7 +817,7 @@ ReservationRecommendations:
 ReservationSummaries:
   path: Microsoft.ADHybridHealthService/ReservationSummaries
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ReservationSummaries
   architecture review:
     type: UNKNOWN
@@ -834,7 +834,7 @@ ReservationSummaries:
 ReservationTransactions:
   path: Microsoft.ADHybridHealthService/ReservationTransactions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ReservationTransactions
   architecture review:
     type: UNKNOWN
@@ -851,7 +851,7 @@ ReservationTransactions:
 ServerSites:
   path: Microsoft.ADHybridHealthService/ServerSites
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ServerSites
   architecture review:
     type: UNKNOWN
@@ -868,7 +868,7 @@ ServerSites:
 Settings:
   path: Microsoft.ADHybridHealthService/Settings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Settings
   architecture review:
     type: UNKNOWN
@@ -885,7 +885,7 @@ Settings:
 SignalR:
   path: Microsoft.ADHybridHealthService/SignalR
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/SignalR
   architecture review:
     type: UNKNOWN
@@ -902,7 +902,7 @@ SignalR:
 Spring:
   path: Microsoft.ADHybridHealthService/Spring
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Spring
   architecture review:
     type: UNKNOWN
@@ -919,7 +919,7 @@ Spring:
 SqlVirtualMachineGroups:
   path: Microsoft.ADHybridHealthService/SqlVirtualMachineGroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/SqlVirtualMachineGroups
   architecture review:
     type: UNKNOWN
@@ -936,7 +936,7 @@ SqlVirtualMachineGroups:
 SqlVirtualMachines:
   path: Microsoft.ADHybridHealthService/SqlVirtualMachines
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/SqlVirtualMachines
   architecture review:
     type: UNKNOWN
@@ -953,7 +953,7 @@ SqlVirtualMachines:
 SubscriptionDefinitions:
   path: Microsoft.ADHybridHealthService/SubscriptionDefinitions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/SubscriptionDefinitions
   architecture review:
     type: UNKNOWN
@@ -970,7 +970,7 @@ SubscriptionDefinitions:
 SubscriptionOperations:
   path: Microsoft.ADHybridHealthService/SubscriptionOperations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/SubscriptionOperations
   architecture review:
     type: UNKNOWN
@@ -987,7 +987,7 @@ SubscriptionOperations:
 Tags:
   path: Microsoft.ADHybridHealthService/Tags
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Tags
   architecture review:
     type: UNKNOWN
@@ -1004,7 +1004,7 @@ Tags:
 Terms:
   path: Microsoft.ADHybridHealthService/Terms
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Terms
   architecture review:
     type: UNKNOWN
@@ -1021,7 +1021,7 @@ Terms:
 UsageAggregates:
   path: Microsoft.ADHybridHealthService/UsageAggregates
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/UsageAggregates
   architecture review:
     type: UNKNOWN
@@ -1038,7 +1038,7 @@ UsageAggregates:
 UsageDetails:
   path: Microsoft.ADHybridHealthService/UsageDetails
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/UsageDetails
   architecture review:
     type: UNKNOWN
@@ -1055,7 +1055,7 @@ UsageDetails:
 VMwareSites:
   path: Microsoft.ADHybridHealthService/VMwareSites
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/VMwareSites
   architecture review:
     type: UNKNOWN
@@ -1072,7 +1072,7 @@ VMwareSites:
 Vaults:
   path: Microsoft.ADHybridHealthService/Vaults
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Vaults
   architecture review:
     type: UNKNOWN
@@ -1089,7 +1089,7 @@ Vaults:
 Views:
   path: Microsoft.ADHybridHealthService/Views
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Views
   architecture review:
     type: UNKNOWN
@@ -1106,7 +1106,7 @@ Views:
 Workspaces:
   path: Microsoft.ADHybridHealthService/Workspaces
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/Workspaces
   architecture review:
     type: UNKNOWN
@@ -1123,7 +1123,7 @@ Workspaces:
 aadsupportcases:
   path: Microsoft.ADHybridHealthService/aadsupportcases
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/aadsupportcases
   architecture review:
     type: UNKNOWN
@@ -1140,7 +1140,7 @@ aadsupportcases:
 account:
   path: Microsoft.ADHybridHealthService/account
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/account
   architecture review:
     type: UNKNOWN
@@ -1157,7 +1157,7 @@ account:
 accounts:
   path: Microsoft.ADHybridHealthService/accounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/accounts
   architecture review:
     type: UNKNOWN
@@ -1174,7 +1174,7 @@ accounts:
 actionRules:
   path: Microsoft.ADHybridHealthService/actionRules
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/actionRules
   architecture review:
     type: UNKNOWN
@@ -1191,7 +1191,7 @@ actionRules:
 actiongroups:
   path: Microsoft.ADHybridHealthService/actiongroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/actiongroups
   architecture review:
     type: UNKNOWN
@@ -1208,7 +1208,7 @@ actiongroups:
 activityLogAlerts:
   path: Microsoft.ADHybridHealthService/activityLogAlerts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/activityLogAlerts
   architecture review:
     type: UNKNOWN
@@ -1225,7 +1225,7 @@ activityLogAlerts:
 adaptiveNetworkHardenings:
   path: Microsoft.ADHybridHealthService/adaptiveNetworkHardenings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/adaptiveNetworkHardenings
   architecture review:
     type: UNKNOWN
@@ -1242,7 +1242,7 @@ adaptiveNetworkHardenings:
 addsservices:
   path: Microsoft.ADHybridHealthService/addsservices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/addsservices
   architecture review:
     type: UNKNOWN
@@ -1259,7 +1259,7 @@ addsservices:
 advancedThreatProtectionSettings:
   path: Microsoft.ADHybridHealthService/advancedThreatProtectionSettings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/advancedThreatProtectionSettings
   architecture review:
     type: UNKNOWN
@@ -1276,7 +1276,7 @@ advancedThreatProtectionSettings:
 agents:
   path: Microsoft.ADHybridHealthService/agents
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/agents
   architecture review:
     type: UNKNOWN
@@ -1293,7 +1293,7 @@ agents:
 aggregations:
   path: Microsoft.ADHybridHealthService/aggregations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/aggregations
   architecture review:
     type: UNKNOWN
@@ -1310,7 +1310,7 @@ aggregations:
 agreements:
   path: Microsoft.ADHybridHealthService/agreements
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/agreements
   architecture review:
     type: UNKNOWN
@@ -1327,7 +1327,7 @@ agreements:
 alertRuleTemplates:
   path: Microsoft.ADHybridHealthService/alertRuleTemplates
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/alertRuleTemplates
   architecture review:
     type: UNKNOWN
@@ -1344,7 +1344,7 @@ alertRuleTemplates:
 alertRules:
   path: Microsoft.ADHybridHealthService/alertRules
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/alertRules
   architecture review:
     type: UNKNOWN
@@ -1361,7 +1361,7 @@ alertRules:
 alertrules:
   path: Microsoft.ADHybridHealthService/alertrules
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/alertrules
   architecture review:
     type: UNKNOWN
@@ -1378,7 +1378,7 @@ alertrules:
 alerts:
   path: Microsoft.ADHybridHealthService/alerts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/alerts
   architecture review:
     type: UNKNOWN
@@ -1395,7 +1395,7 @@ alerts:
 alertsList:
   path: Microsoft.ADHybridHealthService/alertsList
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/alertsList
   architecture review:
     type: UNKNOWN
@@ -1412,7 +1412,7 @@ alertsList:
 alertsMetaData:
   path: Microsoft.ADHybridHealthService/alertsMetaData
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/alertsMetaData
   architecture review:
     type: UNKNOWN
@@ -1429,7 +1429,7 @@ alertsMetaData:
 alertsSummary:
   path: Microsoft.ADHybridHealthService/alertsSummary
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/alertsSummary
   architecture review:
     type: UNKNOWN
@@ -1446,7 +1446,7 @@ alertsSummary:
 alertsSummaryList:
   path: Microsoft.ADHybridHealthService/alertsSummaryList
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/alertsSummaryList
   architecture review:
     type: UNKNOWN
@@ -1463,7 +1463,7 @@ alertsSummaryList:
 allowedConnections:
   path: Microsoft.ADHybridHealthService/allowedConnections
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/allowedConnections
   architecture review:
     type: UNKNOWN
@@ -1480,7 +1480,7 @@ allowedConnections:
 anonymousapiusers:
   path: Microsoft.ADHybridHealthService/anonymousapiusers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/anonymousapiusers
   architecture review:
     type: UNKNOWN
@@ -1497,7 +1497,7 @@ anonymousapiusers:
 appTemplates:
   path: Microsoft.ADHybridHealthService/appTemplates
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/appTemplates
   architecture review:
     type: UNKNOWN
@@ -1514,7 +1514,7 @@ appTemplates:
 applicationDefinitions:
   path: Microsoft.ADHybridHealthService/applicationDefinitions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/applicationDefinitions
   architecture review:
     type: UNKNOWN
@@ -1531,7 +1531,7 @@ applicationDefinitions:
 applicationGatewayAvailableRequestHeaders:
   path: Microsoft.ADHybridHealthService/applicationGatewayAvailableRequestHeaders
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/applicationGatewayAvailableRequestHeaders
   architecture review:
     type: UNKNOWN
@@ -1548,7 +1548,7 @@ applicationGatewayAvailableRequestHeaders:
 applicationGatewayAvailableResponseHeaders:
   path: Microsoft.ADHybridHealthService/applicationGatewayAvailableResponseHeaders
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/applicationGatewayAvailableResponseHeaders
   architecture review:
     type: UNKNOWN
@@ -1565,7 +1565,7 @@ applicationGatewayAvailableResponseHeaders:
 applicationGatewayAvailableServerVariables:
   path: Microsoft.ADHybridHealthService/applicationGatewayAvailableServerVariables
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/applicationGatewayAvailableServerVariables
   architecture review:
     type: UNKNOWN
@@ -1582,7 +1582,7 @@ applicationGatewayAvailableServerVariables:
 applicationGatewayAvailableSslOptions:
   path: Microsoft.ADHybridHealthService/applicationGatewayAvailableSslOptions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/applicationGatewayAvailableSslOptions
   architecture review:
     type: UNKNOWN
@@ -1599,7 +1599,7 @@ applicationGatewayAvailableSslOptions:
 applicationGatewayAvailableWafRuleSets:
   path: Microsoft.ADHybridHealthService/applicationGatewayAvailableWafRuleSets
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/applicationGatewayAvailableWafRuleSets
   architecture review:
     type: UNKNOWN
@@ -1616,7 +1616,7 @@ applicationGatewayAvailableWafRuleSets:
 applicationGatewayWebApplicationFirewallPolicies:
   path: Microsoft.ADHybridHealthService/applicationGatewayWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/applicationGatewayWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -1633,7 +1633,7 @@ applicationGatewayWebApplicationFirewallPolicies:
 applicationGateways:
   path: Microsoft.ADHybridHealthService/applicationGateways
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/applicationGateways
   architecture review:
     type: UNKNOWN
@@ -1650,7 +1650,7 @@ applicationGateways:
 applicationSecurityGroups:
   path: Microsoft.ADHybridHealthService/applicationSecurityGroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/applicationSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -1667,7 +1667,7 @@ applicationSecurityGroups:
 applicationWhitelistings:
   path: Microsoft.ADHybridHealthService/applicationWhitelistings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/applicationWhitelistings
   architecture review:
     type: UNKNOWN
@@ -1684,7 +1684,7 @@ applicationWhitelistings:
 applications:
   path: Microsoft.ADHybridHealthService/applications
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/applications
   architecture review:
     type: UNKNOWN
@@ -1701,7 +1701,7 @@ applications:
 appliedReservations:
   path: Microsoft.ADHybridHealthService/appliedReservations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/appliedReservations
   architecture review:
     type: UNKNOWN
@@ -1718,7 +1718,7 @@ appliedReservations:
 applyUpdates:
   path: Microsoft.ADHybridHealthService/applyUpdates
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/applyUpdates
   architecture review:
     type: UNKNOWN
@@ -1735,7 +1735,7 @@ applyUpdates:
 apps:
   path: Microsoft.ADHybridHealthService/apps
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/apps
   architecture review:
     type: UNKNOWN
@@ -1752,7 +1752,7 @@ apps:
 artifactSources:
   path: Microsoft.ADHybridHealthService/artifactSources
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/artifactSources
   architecture review:
     type: UNKNOWN
@@ -1769,7 +1769,7 @@ artifactSources:
 assessmentMetadata:
   path: Microsoft.ADHybridHealthService/assessmentMetadata
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/assessmentMetadata
   architecture review:
     type: UNKNOWN
@@ -1786,7 +1786,7 @@ assessmentMetadata:
 assessmentProjects:
   path: Microsoft.ADHybridHealthService/assessmentProjects
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/assessmentProjects
   architecture review:
     type: UNKNOWN
@@ -1803,7 +1803,7 @@ assessmentProjects:
 assessmentprojects:
   path: Microsoft.ADHybridHealthService/assessmentprojects
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/assessmentprojects
   architecture review:
     type: UNKNOWN
@@ -1820,7 +1820,7 @@ assessmentprojects:
 assessments:
   path: Microsoft.ADHybridHealthService/assessments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/assessments
   architecture review:
     type: UNKNOWN
@@ -1837,7 +1837,7 @@ assessments:
 associations:
   path: Microsoft.ADHybridHealthService/associations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/associations
   architecture review:
     type: UNKNOWN
@@ -1854,7 +1854,7 @@ associations:
 asyncOperationResults:
   path: Microsoft.ADHybridHealthService/asyncOperationResults
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/asyncOperationResults
   architecture review:
     type: UNKNOWN
@@ -1871,7 +1871,7 @@ asyncOperationResults:
 attestationProviders:
   path: Microsoft.ADHybridHealthService/attestationProviders
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/attestationProviders
   architecture review:
     type: UNKNOWN
@@ -1888,7 +1888,7 @@ attestationProviders:
 autoDismissAlertsRules:
   path: Microsoft.ADHybridHealthService/autoDismissAlertsRules
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/autoDismissAlertsRules
   architecture review:
     type: UNKNOWN
@@ -1905,7 +1905,7 @@ autoDismissAlertsRules:
 automationAccounts:
   path: Microsoft.ADHybridHealthService/automationAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/automationAccounts
   architecture review:
     type: UNKNOWN
@@ -1922,7 +1922,7 @@ automationAccounts:
 automations:
   path: Microsoft.ADHybridHealthService/automations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/automations
   architecture review:
     type: UNKNOWN
@@ -1939,7 +1939,7 @@ automations:
 autoscalesettings:
   path: Microsoft.ADHybridHealthService/autoscalesettings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/autoscalesettings
   architecture review:
     type: UNKNOWN
@@ -1956,7 +1956,7 @@ autoscalesettings:
 availabilitySets:
   path: Microsoft.ADHybridHealthService/availabilitySets
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/availabilitySets
   architecture review:
     type: UNKNOWN
@@ -1973,7 +1973,7 @@ availabilitySets:
 availabilityStatuses:
   path: Microsoft.ADHybridHealthService/availabilityStatuses
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/availabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -1990,7 +1990,7 @@ availabilityStatuses:
 availableAccounts:
   path: Microsoft.ADHybridHealthService/availableAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/availableAccounts
   architecture review:
     type: UNKNOWN
@@ -2007,7 +2007,7 @@ availableAccounts:
 availableClusterRegions:
   path: Microsoft.ADHybridHealthService/availableClusterRegions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/availableClusterRegions
   architecture review:
     type: UNKNOWN
@@ -2024,7 +2024,7 @@ availableClusterRegions:
 availableStacks:
   path: Microsoft.ADHybridHealthService/availableStacks
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/availableStacks
   architecture review:
     type: UNKNOWN
@@ -2041,7 +2041,7 @@ availableStacks:
 azureFirewallFqdnTags:
   path: Microsoft.ADHybridHealthService/azureFirewallFqdnTags
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/azureFirewallFqdnTags
   architecture review:
     type: UNKNOWN
@@ -2058,7 +2058,7 @@ azureFirewallFqdnTags:
 azureFirewalls:
   path: Microsoft.ADHybridHealthService/azureFirewalls
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/azureFirewalls
   architecture review:
     type: UNKNOWN
@@ -2075,7 +2075,7 @@ azureFirewalls:
 b2cDirectories:
   path: Microsoft.ADHybridHealthService/b2cDirectories
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/b2cDirectories
   architecture review:
     type: UNKNOWN
@@ -2092,7 +2092,7 @@ b2cDirectories:
 b2ctenants:
   path: Microsoft.ADHybridHealthService/b2ctenants
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/b2ctenants
   architecture review:
     type: UNKNOWN
@@ -2109,7 +2109,7 @@ b2ctenants:
 backupProtectedItems:
   path: Microsoft.ADHybridHealthService/backupProtectedItems
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/backupProtectedItems
   architecture review:
     type: UNKNOWN
@@ -2126,7 +2126,7 @@ backupProtectedItems:
 baseline:
   path: Microsoft.ADHybridHealthService/baseline
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/baseline
   architecture review:
     type: UNKNOWN
@@ -2143,7 +2143,7 @@ baseline:
 bastionHosts:
   path: Microsoft.ADHybridHealthService/bastionHosts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/bastionHosts
   architecture review:
     type: UNKNOWN
@@ -2160,7 +2160,7 @@ bastionHosts:
 batchAccounts:
   path: Microsoft.ADHybridHealthService/batchAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/batchAccounts
   architecture review:
     type: UNKNOWN
@@ -2177,7 +2177,7 @@ batchAccounts:
 bgpServiceCommunities:
   path: Microsoft.ADHybridHealthService/bgpServiceCommunities
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/bgpServiceCommunities
   architecture review:
     type: UNKNOWN
@@ -2194,7 +2194,7 @@ bgpServiceCommunities:
 billingAccounts:
   path: Microsoft.ADHybridHealthService/billingAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/billingAccounts
   architecture review:
     type: UNKNOWN
@@ -2211,7 +2211,7 @@ billingAccounts:
 billingMeters:
   path: Microsoft.ADHybridHealthService/billingMeters
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/billingMeters
   architecture review:
     type: UNKNOWN
@@ -2228,7 +2228,7 @@ billingMeters:
 billingPeriods:
   path: Microsoft.ADHybridHealthService/billingPeriods
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/billingPeriods
   architecture review:
     type: UNKNOWN
@@ -2245,7 +2245,7 @@ billingPeriods:
 billingPermissions:
   path: Microsoft.ADHybridHealthService/billingPermissions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/billingPermissions
   architecture review:
     type: UNKNOWN
@@ -2262,7 +2262,7 @@ billingPermissions:
 billingProperty:
   path: Microsoft.ADHybridHealthService/billingProperty
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/billingProperty
   architecture review:
     type: UNKNOWN
@@ -2279,7 +2279,7 @@ billingProperty:
 billingRoleAssignments:
   path: Microsoft.ADHybridHealthService/billingRoleAssignments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/billingRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -2296,7 +2296,7 @@ billingRoleAssignments:
 billingRoleDefinitions:
   path: Microsoft.ADHybridHealthService/billingRoleDefinitions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/billingRoleDefinitions
   architecture review:
     type: UNKNOWN
@@ -2313,7 +2313,7 @@ billingRoleDefinitions:
 blockchainMembers:
   path: Microsoft.ADHybridHealthService/blockchainMembers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/blockchainMembers
   architecture review:
     type: UNKNOWN
@@ -2330,7 +2330,7 @@ blockchainMembers:
 blueprintAssignments:
   path: Microsoft.ADHybridHealthService/blueprintAssignments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/blueprintAssignments
   architecture review:
     type: UNKNOWN
@@ -2347,7 +2347,7 @@ blueprintAssignments:
 blueprints:
   path: Microsoft.ADHybridHealthService/blueprints
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/blueprints
   architecture review:
     type: UNKNOWN
@@ -2364,7 +2364,7 @@ blueprints:
 bookmarks:
   path: Microsoft.ADHybridHealthService/bookmarks
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/bookmarks
   architecture review:
     type: UNKNOWN
@@ -2381,7 +2381,7 @@ bookmarks:
 botServices:
   path: Microsoft.ADHybridHealthService/botServices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/botServices
   architecture review:
     type: UNKNOWN
@@ -2398,7 +2398,7 @@ botServices:
 calculateExchange:
   path: Microsoft.ADHybridHealthService/calculateExchange
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/calculateExchange
   architecture review:
     type: UNKNOWN
@@ -2415,7 +2415,7 @@ calculateExchange:
 calculatePrice:
   path: Microsoft.ADHybridHealthService/calculatePrice
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/calculatePrice
   architecture review:
     type: UNKNOWN
@@ -2432,7 +2432,7 @@ calculatePrice:
 calculatePurchasePrice:
   path: Microsoft.ADHybridHealthService/calculatePurchasePrice
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/calculatePurchasePrice
   architecture review:
     type: UNKNOWN
@@ -2449,7 +2449,7 @@ calculatePurchasePrice:
 calculatebaseline:
   path: Microsoft.ADHybridHealthService/calculatebaseline
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/calculatebaseline
   architecture review:
     type: UNKNOWN
@@ -2466,7 +2466,7 @@ calculatebaseline:
 cancel:
   path: Microsoft.ADHybridHealthService/cancel
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/cancel
   architecture review:
     type: UNKNOWN
@@ -2483,7 +2483,7 @@ cancel:
 capabilities:
   path: Microsoft.ADHybridHealthService/capabilities
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/capabilities
   architecture review:
     type: UNKNOWN
@@ -2500,7 +2500,7 @@ capabilities:
 capacities:
   path: Microsoft.ADHybridHealthService/capacities
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/capacities
   architecture review:
     type: UNKNOWN
@@ -2517,7 +2517,7 @@ capacities:
 cases:
   path: Microsoft.ADHybridHealthService/cases
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/cases
   architecture review:
     type: UNKNOWN
@@ -2534,7 +2534,7 @@ cases:
 catalogs:
   path: Microsoft.ADHybridHealthService/catalogs
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/catalogs
   architecture review:
     type: UNKNOWN
@@ -2551,7 +2551,7 @@ catalogs:
 certificateOrders:
   path: Microsoft.ADHybridHealthService/certificateOrders
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/certificateOrders
   architecture review:
     type: UNKNOWN
@@ -2568,7 +2568,7 @@ certificateOrders:
 certificates:
   path: Microsoft.ADHybridHealthService/certificates
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/certificates
   architecture review:
     type: UNKNOWN
@@ -2585,7 +2585,7 @@ certificates:
 checkAccess:
   path: Microsoft.ADHybridHealthService/checkAccess
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkAccess
   architecture review:
     type: UNKNOWN
@@ -2602,7 +2602,7 @@ checkAccess:
 checkAzureDataFactoryNameAvailability:
   path: Microsoft.ADHybridHealthService/checkAzureDataFactoryNameAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkAzureDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2619,7 +2619,7 @@ checkAzureDataFactoryNameAvailability:
 checkDataFactoryNameAvailability:
   path: Microsoft.ADHybridHealthService/checkDataFactoryNameAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2636,7 +2636,7 @@ checkDataFactoryNameAvailability:
 checkDomainAvailability:
   path: Microsoft.ADHybridHealthService/checkDomainAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkDomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2653,7 +2653,7 @@ checkDomainAvailability:
 checkDomainNameAvailability:
   path: Microsoft.ADHybridHealthService/checkDomainNameAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkDomainNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2670,7 +2670,7 @@ checkDomainNameAvailability:
 checkFeedbackRequired:
   path: Microsoft.ADHybridHealthService/checkFeedbackRequired
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkFeedbackRequired
   architecture review:
     type: UNKNOWN
@@ -2687,7 +2687,7 @@ checkFeedbackRequired:
 checkFrontdoorNameAvailability:
   path: Microsoft.ADHybridHealthService/checkFrontdoorNameAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkFrontdoorNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2704,7 +2704,7 @@ checkFrontdoorNameAvailability:
 checkModernEligibility:
   path: Microsoft.ADHybridHealthService/checkModernEligibility
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkModernEligibility
   architecture review:
     type: UNKNOWN
@@ -2721,7 +2721,7 @@ checkModernEligibility:
 checkNameAvailability:
   path: Microsoft.ADHybridHealthService/checkNameAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2738,7 +2738,7 @@ checkNameAvailability:
 checkNamespaceAvailability:
   path: Microsoft.ADHybridHealthService/checkNamespaceAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkNamespaceAvailability
   architecture review:
     type: UNKNOWN
@@ -2755,7 +2755,7 @@ checkNamespaceAvailability:
 checkOffers:
   path: Microsoft.ADHybridHealthService/checkOffers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkOffers
   architecture review:
     type: UNKNOWN
@@ -2772,7 +2772,7 @@ checkOffers:
 checkPolicyCompliance:
   path: Microsoft.ADHybridHealthService/checkPolicyCompliance
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkPolicyCompliance
   architecture review:
     type: UNKNOWN
@@ -2789,7 +2789,7 @@ checkPolicyCompliance:
 checkProvisioningServiceNameAvailability:
   path: Microsoft.ADHybridHealthService/checkProvisioningServiceNameAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkProvisioningServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2806,7 +2806,7 @@ checkProvisioningServiceNameAvailability:
 checkPurchaseStatus:
   path: Microsoft.ADHybridHealthService/checkPurchaseStatus
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkPurchaseStatus
   architecture review:
     type: UNKNOWN
@@ -2823,7 +2823,7 @@ checkPurchaseStatus:
 checkResourceUsage:
   path: Microsoft.ADHybridHealthService/checkResourceUsage
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkResourceUsage
   architecture review:
     type: UNKNOWN
@@ -2840,7 +2840,7 @@ checkResourceUsage:
 checkScopes:
   path: Microsoft.ADHybridHealthService/checkScopes
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkScopes
   architecture review:
     type: UNKNOWN
@@ -2857,7 +2857,7 @@ checkScopes:
 checkServiceNameAvailability:
   path: Microsoft.ADHybridHealthService/checkServiceNameAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2874,7 +2874,7 @@ checkServiceNameAvailability:
 checkServiceProviderAvailability:
   path: Microsoft.ADHybridHealthService/checkServiceProviderAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkServiceProviderAvailability
   architecture review:
     type: UNKNOWN
@@ -2891,7 +2891,7 @@ checkServiceProviderAvailability:
 checkStorageAccountAvailability:
   path: Microsoft.ADHybridHealthService/checkStorageAccountAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkStorageAccountAvailability
   architecture review:
     type: UNKNOWN
@@ -2908,7 +2908,7 @@ checkStorageAccountAvailability:
 checkSubdomainAvailability:
   path: Microsoft.ADHybridHealthService/checkSubdomainAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkSubdomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2925,7 +2925,7 @@ checkSubdomainAvailability:
 checkTrafficManagerNameAvailability:
   path: Microsoft.ADHybridHealthService/checkTrafficManagerNameAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkTrafficManagerNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2942,7 +2942,7 @@ checkTrafficManagerNameAvailability:
 checknameavailability:
   path: Microsoft.ADHybridHealthService/checknameavailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checknameavailability
   architecture review:
     type: UNKNOWN
@@ -2959,7 +2959,7 @@ checknameavailability:
 checkresourcename:
   path: Microsoft.ADHybridHealthService/checkresourcename
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/checkresourcename
   architecture review:
     type: UNKNOWN
@@ -2976,7 +2976,7 @@ checkresourcename:
 childAvailabilityStatuses:
   path: Microsoft.ADHybridHealthService/childAvailabilityStatuses
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/childAvailabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -2993,7 +2993,7 @@ childAvailabilityStatuses:
 childResources:
   path: Microsoft.ADHybridHealthService/childResources
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/childResources
   architecture review:
     type: UNKNOWN
@@ -3010,7 +3010,7 @@ childResources:
 classicAdministrators:
   path: Microsoft.ADHybridHealthService/classicAdministrators
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/classicAdministrators
   architecture review:
     type: UNKNOWN
@@ -3027,7 +3027,7 @@ classicAdministrators:
 classicDevServices:
   path: Microsoft.ADHybridHealthService/classicDevServices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/classicDevServices
   architecture review:
     type: UNKNOWN
@@ -3044,7 +3044,7 @@ classicDevServices:
 classicInfrastructureResources:
   path: Microsoft.ADHybridHealthService/classicInfrastructureResources
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/classicInfrastructureResources
   architecture review:
     type: UNKNOWN
@@ -3061,7 +3061,7 @@ classicInfrastructureResources:
 cloudManifestFiles:
   path: Microsoft.ADHybridHealthService/cloudManifestFiles
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/cloudManifestFiles
   architecture review:
     type: UNKNOWN
@@ -3078,7 +3078,7 @@ cloudManifestFiles:
 clusters:
   path: Microsoft.ADHybridHealthService/clusters
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/clusters
   architecture review:
     type: UNKNOWN
@@ -3095,7 +3095,7 @@ clusters:
 commercialReservationOrders:
   path: Microsoft.ADHybridHealthService/commercialReservationOrders
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/commercialReservationOrders
   architecture review:
     type: UNKNOWN
@@ -3112,7 +3112,7 @@ commercialReservationOrders:
 commitmentPlans:
   path: Microsoft.ADHybridHealthService/commitmentPlans
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/commitmentPlans
   architecture review:
     type: UNKNOWN
@@ -3129,7 +3129,7 @@ commitmentPlans:
 complianceResults:
   path: Microsoft.ADHybridHealthService/complianceResults
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/complianceResults
   architecture review:
     type: UNKNOWN
@@ -3146,7 +3146,7 @@ complianceResults:
 components:
   path: Microsoft.ADHybridHealthService/components
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/components
   architecture review:
     type: UNKNOWN
@@ -3163,7 +3163,7 @@ components:
 componentsSummary:
   path: Microsoft.ADHybridHealthService/componentsSummary
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/componentsSummary
   architecture review:
     type: UNKNOWN
@@ -3180,7 +3180,7 @@ componentsSummary:
 configuration:
   path: Microsoft.ADHybridHealthService/configuration
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/configuration
   architecture review:
     type: UNKNOWN
@@ -3197,7 +3197,7 @@ configuration:
 configurationAssignments:
   path: Microsoft.ADHybridHealthService/configurationAssignments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/configurationAssignments
   architecture review:
     type: UNKNOWN
@@ -3214,7 +3214,7 @@ configurationAssignments:
 configurationStores:
   path: Microsoft.ADHybridHealthService/configurationStores
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/configurationStores
   architecture review:
     type: UNKNOWN
@@ -3231,7 +3231,7 @@ configurationStores:
 configurations:
   path: Microsoft.ADHybridHealthService/configurations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/configurations
   architecture review:
     type: UNKNOWN
@@ -3248,7 +3248,7 @@ configurations:
 connectionGateways:
   path: Microsoft.ADHybridHealthService/connectionGateways
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/connectionGateways
   architecture review:
     type: UNKNOWN
@@ -3265,7 +3265,7 @@ connectionGateways:
 connections:
   path: Microsoft.ADHybridHealthService/connections
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/connections
   architecture review:
     type: UNKNOWN
@@ -3282,7 +3282,7 @@ connections:
 consoleServices:
   path: Microsoft.ADHybridHealthService/consoleServices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/consoleServices
   architecture review:
     type: UNKNOWN
@@ -3299,7 +3299,7 @@ consoleServices:
 consoles:
   path: Microsoft.ADHybridHealthService/consoles
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/consoles
   architecture review:
     type: UNKNOWN
@@ -3316,7 +3316,7 @@ consoles:
 containerGroups:
   path: Microsoft.ADHybridHealthService/containerGroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/containerGroups
   architecture review:
     type: UNKNOWN
@@ -3333,7 +3333,7 @@ containerGroups:
 containerServices:
   path: Microsoft.ADHybridHealthService/containerServices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/containerServices
   architecture review:
     type: UNKNOWN
@@ -3350,7 +3350,7 @@ containerServices:
 controllers:
   path: Microsoft.ADHybridHealthService/controllers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/controllers
   architecture review:
     type: UNKNOWN
@@ -3367,7 +3367,7 @@ controllers:
 createBillingRoleAssignment:
   path: Microsoft.ADHybridHealthService/createBillingRoleAssignment
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/createBillingRoleAssignment
   architecture review:
     type: UNKNOWN
@@ -3384,7 +3384,7 @@ createBillingRoleAssignment:
 credits:
   path: Microsoft.ADHybridHealthService/credits
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/credits
   architecture review:
     type: UNKNOWN
@@ -3401,7 +3401,7 @@ credits:
 customApis:
   path: Microsoft.ADHybridHealthService/customApis
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/customApis
   architecture review:
     type: UNKNOWN
@@ -3418,7 +3418,7 @@ customApis:
 dashboards:
   path: Microsoft.ADHybridHealthService/dashboards
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dashboards
   architecture review:
     type: UNKNOWN
@@ -3435,7 +3435,7 @@ dashboards:
 dataAliases:
   path: Microsoft.ADHybridHealthService/dataAliases
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dataAliases
   architecture review:
     type: UNKNOWN
@@ -3452,7 +3452,7 @@ dataAliases:
 dataCollectionAgents:
   path: Microsoft.ADHybridHealthService/dataCollectionAgents
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dataCollectionAgents
   architecture review:
     type: UNKNOWN
@@ -3469,7 +3469,7 @@ dataCollectionAgents:
 dataConnectors:
   path: Microsoft.ADHybridHealthService/dataConnectors
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dataConnectors
   architecture review:
     type: UNKNOWN
@@ -3486,7 +3486,7 @@ dataConnectors:
 dataConnectorsCheckRequirements:
   path: Microsoft.ADHybridHealthService/dataConnectorsCheckRequirements
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dataConnectorsCheckRequirements
   architecture review:
     type: UNKNOWN
@@ -3503,7 +3503,7 @@ dataConnectorsCheckRequirements:
 dataFactories:
   path: Microsoft.ADHybridHealthService/dataFactories
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dataFactories
   architecture review:
     type: UNKNOWN
@@ -3520,7 +3520,7 @@ dataFactories:
 dataFactorySchema:
   path: Microsoft.ADHybridHealthService/dataFactorySchema
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dataFactorySchema
   architecture review:
     type: UNKNOWN
@@ -3537,7 +3537,7 @@ dataFactorySchema:
 dataManagers:
   path: Microsoft.ADHybridHealthService/dataManagers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dataManagers
   architecture review:
     type: UNKNOWN
@@ -3554,7 +3554,7 @@ dataManagers:
 databaseAccountNames:
   path: Microsoft.ADHybridHealthService/databaseAccountNames
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/databaseAccountNames
   architecture review:
     type: UNKNOWN
@@ -3571,7 +3571,7 @@ databaseAccountNames:
 databaseAccounts:
   path: Microsoft.ADHybridHealthService/databaseAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/databaseAccounts
   architecture review:
     type: UNKNOWN
@@ -3588,7 +3588,7 @@ databaseAccounts:
 databases:
   path: Microsoft.ADHybridHealthService/databases
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/databases
   architecture review:
     type: UNKNOWN
@@ -3605,7 +3605,7 @@ databases:
 ddosCustomPolicies:
   path: Microsoft.ADHybridHealthService/ddosCustomPolicies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ddosCustomPolicies
   architecture review:
     type: UNKNOWN
@@ -3622,7 +3622,7 @@ ddosCustomPolicies:
 ddosProtectionPlans:
   path: Microsoft.ADHybridHealthService/ddosProtectionPlans
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ddosProtectionPlans
   architecture review:
     type: UNKNOWN
@@ -3639,7 +3639,7 @@ ddosProtectionPlans:
 dedicatedCloudNodes:
   path: Microsoft.ADHybridHealthService/dedicatedCloudNodes
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dedicatedCloudNodes
   architecture review:
     type: UNKNOWN
@@ -3656,7 +3656,7 @@ dedicatedCloudNodes:
 dedicatedCloudServices:
   path: Microsoft.ADHybridHealthService/dedicatedCloudServices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dedicatedCloudServices
   architecture review:
     type: UNKNOWN
@@ -3673,7 +3673,7 @@ dedicatedCloudServices:
 deletedSites:
   path: Microsoft.ADHybridHealthService/deletedSites
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/deletedSites
   architecture review:
     type: UNKNOWN
@@ -3690,7 +3690,7 @@ deletedSites:
 deletedVaults:
   path: Microsoft.ADHybridHealthService/deletedVaults
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/deletedVaults
   architecture review:
     type: UNKNOWN
@@ -3707,7 +3707,7 @@ deletedVaults:
 denyAssignments:
   path: Microsoft.ADHybridHealthService/denyAssignments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/denyAssignments
   architecture review:
     type: UNKNOWN
@@ -3724,7 +3724,7 @@ denyAssignments:
 departments:
   path: Microsoft.ADHybridHealthService/departments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/departments
   architecture review:
     type: UNKNOWN
@@ -3741,7 +3741,7 @@ departments:
 deploymentLocations:
   path: Microsoft.ADHybridHealthService/deploymentLocations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/deploymentLocations
   architecture review:
     type: UNKNOWN
@@ -3758,7 +3758,7 @@ deploymentLocations:
 deploymentScripts:
   path: Microsoft.ADHybridHealthService/deploymentScripts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/deploymentScripts
   architecture review:
     type: UNKNOWN
@@ -3775,7 +3775,7 @@ deploymentScripts:
 deployments:
   path: Microsoft.ADHybridHealthService/deployments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/deployments
   architecture review:
     type: UNKNOWN
@@ -3792,7 +3792,7 @@ deployments:
 deviceSecurityGroups:
   path: Microsoft.ADHybridHealthService/deviceSecurityGroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/deviceSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -3809,7 +3809,7 @@ deviceSecurityGroups:
 diagnosticSettings:
   path: Microsoft.ADHybridHealthService/diagnosticSettings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/diagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -3826,7 +3826,7 @@ diagnosticSettings:
 diagnosticSettingsCategories:
   path: Microsoft.ADHybridHealthService/diagnosticSettingsCategories
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/diagnosticSettingsCategories
   architecture review:
     type: UNKNOWN
@@ -3843,7 +3843,7 @@ diagnosticSettingsCategories:
 discoveredSecuritySolutions:
   path: Microsoft.ADHybridHealthService/discoveredSecuritySolutions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/discoveredSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -3860,7 +3860,7 @@ discoveredSecuritySolutions:
 diskEncryptionSets:
   path: Microsoft.ADHybridHealthService/diskEncryptionSets
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/diskEncryptionSets
   architecture review:
     type: UNKNOWN
@@ -3877,7 +3877,7 @@ diskEncryptionSets:
 disks:
   path: Microsoft.ADHybridHealthService/disks
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/disks
   architecture review:
     type: UNKNOWN
@@ -3894,7 +3894,7 @@ disks:
 dnsOperationResults:
   path: Microsoft.ADHybridHealthService/dnsOperationResults
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -3911,7 +3911,7 @@ dnsOperationResults:
 dnsOperationStatuses:
   path: Microsoft.ADHybridHealthService/dnsOperationStatuses
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -3928,7 +3928,7 @@ dnsOperationStatuses:
 dnszones:
   path: Microsoft.ADHybridHealthService/dnszones
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/dnszones
   architecture review:
     type: UNKNOWN
@@ -3945,7 +3945,7 @@ dnszones:
 domainNames:
   path: Microsoft.ADHybridHealthService/domainNames
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/domainNames
   architecture review:
     type: UNKNOWN
@@ -3962,7 +3962,7 @@ domainNames:
 domains:
   path: Microsoft.ADHybridHealthService/domains
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/domains
   architecture review:
     type: UNKNOWN
@@ -3979,7 +3979,7 @@ domains:
 edgenodes:
   path: Microsoft.ADHybridHealthService/edgenodes
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/edgenodes
   architecture review:
     type: UNKNOWN
@@ -3996,7 +3996,7 @@ edgenodes:
 elevateAccess:
   path: Microsoft.ADHybridHealthService/elevateAccess
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/elevateAccess
   architecture review:
     type: UNKNOWN
@@ -4013,7 +4013,7 @@ elevateAccess:
 emergingissues:
   path: Microsoft.ADHybridHealthService/emergingissues
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/emergingissues
   architecture review:
     type: UNKNOWN
@@ -4030,7 +4030,7 @@ emergingissues:
 enable:
   path: Microsoft.ADHybridHealthService/enable
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/enable
   architecture review:
     type: UNKNOWN
@@ -4047,7 +4047,7 @@ enable:
 enrollmentAccounts:
   path: Microsoft.ADHybridHealthService/enrollmentAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/enrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -4064,7 +4064,7 @@ enrollmentAccounts:
 entities:
   path: Microsoft.ADHybridHealthService/entities
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/entities
   architecture review:
     type: UNKNOWN
@@ -4081,7 +4081,7 @@ entities:
 entityQueries:
   path: Microsoft.ADHybridHealthService/entityQueries
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/entityQueries
   architecture review:
     type: UNKNOWN
@@ -4098,7 +4098,7 @@ entityQueries:
 environments:
   path: Microsoft.ADHybridHealthService/environments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/environments
   architecture review:
     type: UNKNOWN
@@ -4115,7 +4115,7 @@ environments:
 eventCategories:
   path: Microsoft.ADHybridHealthService/eventCategories
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/eventCategories
   architecture review:
     type: UNKNOWN
@@ -4132,7 +4132,7 @@ eventCategories:
 eventSubscriptions:
   path: Microsoft.ADHybridHealthService/eventSubscriptions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/eventSubscriptions
   architecture review:
     type: UNKNOWN
@@ -4149,7 +4149,7 @@ eventSubscriptions:
 events:
   path: Microsoft.ADHybridHealthService/events
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/events
   architecture review:
     type: UNKNOWN
@@ -4166,7 +4166,7 @@ events:
 eventtypes:
   path: Microsoft.ADHybridHealthService/eventtypes
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/eventtypes
   architecture review:
     type: UNKNOWN
@@ -4183,7 +4183,7 @@ eventtypes:
 exchange:
   path: Microsoft.ADHybridHealthService/exchange
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/exchange
   architecture review:
     type: UNKNOWN
@@ -4200,7 +4200,7 @@ exchange:
 expressRouteCircuits:
   path: Microsoft.ADHybridHealthService/expressRouteCircuits
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/expressRouteCircuits
   architecture review:
     type: UNKNOWN
@@ -4217,7 +4217,7 @@ expressRouteCircuits:
 expressRouteCrossConnections:
   path: Microsoft.ADHybridHealthService/expressRouteCrossConnections
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/expressRouteCrossConnections
   architecture review:
     type: UNKNOWN
@@ -4234,7 +4234,7 @@ expressRouteCrossConnections:
 expressRouteGateways:
   path: Microsoft.ADHybridHealthService/expressRouteGateways
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/expressRouteGateways
   architecture review:
     type: UNKNOWN
@@ -4251,7 +4251,7 @@ expressRouteGateways:
 expressRouteServiceProviders:
   path: Microsoft.ADHybridHealthService/expressRouteServiceProviders
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/expressRouteServiceProviders
   architecture review:
     type: UNKNOWN
@@ -4268,7 +4268,7 @@ expressRouteServiceProviders:
 extendedDiagnosticSettings:
   path: Microsoft.ADHybridHealthService/extendedDiagnosticSettings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/extendedDiagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -4285,7 +4285,7 @@ extendedDiagnosticSettings:
 extensionTopics:
   path: Microsoft.ADHybridHealthService/extensionTopics
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/extensionTopics
   architecture review:
     type: UNKNOWN
@@ -4302,7 +4302,7 @@ extensionTopics:
 externalSecuritySolutions:
   path: Microsoft.ADHybridHealthService/externalSecuritySolutions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/externalSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4319,7 +4319,7 @@ externalSecuritySolutions:
 factories:
   path: Microsoft.ADHybridHealthService/factories
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/factories
   architecture review:
     type: UNKNOWN
@@ -4336,7 +4336,7 @@ factories:
 featureProviders:
   path: Microsoft.ADHybridHealthService/featureProviders
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/featureProviders
   architecture review:
     type: UNKNOWN
@@ -4353,7 +4353,7 @@ featureProviders:
 features:
   path: Microsoft.ADHybridHealthService/features
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/features
   architecture review:
     type: UNKNOWN
@@ -4370,7 +4370,7 @@ features:
 findOrphanRoleAssignments:
   path: Microsoft.ADHybridHealthService/findOrphanRoleAssignments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/findOrphanRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -4387,7 +4387,7 @@ findOrphanRoleAssignments:
 firewallPolicies:
   path: Microsoft.ADHybridHealthService/firewallPolicies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/firewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4404,7 +4404,7 @@ firewallPolicies:
 frontDoors:
   path: Microsoft.ADHybridHealthService/frontDoors
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/frontDoors
   architecture review:
     type: UNKNOWN
@@ -4421,7 +4421,7 @@ frontDoors:
 frontdoorOperationResults:
   path: Microsoft.ADHybridHealthService/frontdoorOperationResults
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/frontdoorOperationResults
   architecture review:
     type: UNKNOWN
@@ -4438,7 +4438,7 @@ frontdoorOperationResults:
 frontdoorWebApplicationFirewallManagedRuleSets:
   path: Microsoft.ADHybridHealthService/frontdoorWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/frontdoorWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -4455,7 +4455,7 @@ frontdoorWebApplicationFirewallManagedRuleSets:
 frontdoorWebApplicationFirewallPolicies:
   path: Microsoft.ADHybridHealthService/frontdoorWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/frontdoorWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4472,7 +4472,7 @@ frontdoorWebApplicationFirewallPolicies:
 frontdoors:
   path: Microsoft.ADHybridHealthService/frontdoors
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/frontdoors
   architecture review:
     type: UNKNOWN
@@ -4489,7 +4489,7 @@ frontdoors:
 galleries:
   path: Microsoft.ADHybridHealthService/galleries
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/galleries
   architecture review:
     type: UNKNOWN
@@ -4506,7 +4506,7 @@ galleries:
 gatewaySupportedDevices:
   path: Microsoft.ADHybridHealthService/gatewaySupportedDevices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/gatewaySupportedDevices
   architecture review:
     type: UNKNOWN
@@ -4523,7 +4523,7 @@ gatewaySupportedDevices:
 gateways:
   path: Microsoft.ADHybridHealthService/gateways
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/gateways
   architecture review:
     type: UNKNOWN
@@ -4540,7 +4540,7 @@ gateways:
 generateRecommendations:
   path: Microsoft.ADHybridHealthService/generateRecommendations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/generateRecommendations
   architecture review:
     type: UNKNOWN
@@ -4557,7 +4557,7 @@ generateRecommendations:
 generateSsoRequest:
   path: Microsoft.ADHybridHealthService/generateSsoRequest
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/generateSsoRequest
   architecture review:
     type: UNKNOWN
@@ -4574,7 +4574,7 @@ generateSsoRequest:
 georegions:
   path: Microsoft.ADHybridHealthService/georegions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/georegions
   architecture review:
     type: UNKNOWN
@@ -4591,7 +4591,7 @@ georegions:
 getDnsResourceReference:
   path: Microsoft.ADHybridHealthService/getDnsResourceReference
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/getDnsResourceReference
   architecture review:
     type: UNKNOWN
@@ -4608,7 +4608,7 @@ getDnsResourceReference:
 getEntities:
   path: Microsoft.ADHybridHealthService/getEntities
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/getEntities
   architecture review:
     type: UNKNOWN
@@ -4625,7 +4625,7 @@ getEntities:
 guestConfigurationAssignments:
   path: Microsoft.ADHybridHealthService/guestConfigurationAssignments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/guestConfigurationAssignments
   architecture review:
     type: UNKNOWN
@@ -4642,7 +4642,7 @@ guestConfigurationAssignments:
 hanaInstances:
   path: Microsoft.ADHybridHealthService/hanaInstances
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/hanaInstances
   architecture review:
     type: UNKNOWN
@@ -4659,7 +4659,7 @@ hanaInstances:
 hostGroups:
   path: Microsoft.ADHybridHealthService/hostGroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/hostGroups
   architecture review:
     type: UNKNOWN
@@ -4676,7 +4676,7 @@ hostGroups:
 hostingEnvironments:
   path: Microsoft.ADHybridHealthService/hostingEnvironments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/hostingEnvironments
   architecture review:
     type: UNKNOWN
@@ -4693,7 +4693,7 @@ hostingEnvironments:
 hybridUseBenefits:
   path: Microsoft.ADHybridHealthService/hybridUseBenefits
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/hybridUseBenefits
   architecture review:
     type: UNKNOWN
@@ -4710,7 +4710,7 @@ hybridUseBenefits:
 images:
   path: Microsoft.ADHybridHealthService/images
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/images
   architecture review:
     type: UNKNOWN
@@ -4727,7 +4727,7 @@ images:
 incidents:
   path: Microsoft.ADHybridHealthService/incidents
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/incidents
   architecture review:
     type: UNKNOWN
@@ -4744,7 +4744,7 @@ incidents:
 instancePools:
   path: Microsoft.ADHybridHealthService/instancePools
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/instancePools
   architecture review:
     type: UNKNOWN
@@ -4761,7 +4761,7 @@ instancePools:
 integrationAccounts:
   path: Microsoft.ADHybridHealthService/integrationAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/integrationAccounts
   architecture review:
     type: UNKNOWN
@@ -4778,7 +4778,7 @@ integrationAccounts:
 integrationServiceEnvironments:
   path: Microsoft.ADHybridHealthService/integrationServiceEnvironments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/integrationServiceEnvironments
   architecture review:
     type: UNKNOWN
@@ -4795,7 +4795,7 @@ integrationServiceEnvironments:
 internalNotify:
   path: Microsoft.ADHybridHealthService/internalNotify
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/internalNotify
   architecture review:
     type: UNKNOWN
@@ -4812,7 +4812,7 @@ internalNotify:
 invoices:
   path: Microsoft.ADHybridHealthService/invoices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/invoices
   architecture review:
     type: UNKNOWN
@@ -4829,7 +4829,7 @@ invoices:
 iotSecuritySolutions:
   path: Microsoft.ADHybridHealthService/iotSecuritySolutions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/iotSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4846,7 +4846,7 @@ iotSecuritySolutions:
 ipGroups:
   path: Microsoft.ADHybridHealthService/ipGroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ipGroups
   architecture review:
     type: UNKNOWN
@@ -4863,7 +4863,7 @@ ipGroups:
 ishostingenvironmentnameavailable:
   path: Microsoft.ADHybridHealthService/ishostingenvironmentnameavailable
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ishostingenvironmentnameavailable
   architecture review:
     type: UNKNOWN
@@ -4880,7 +4880,7 @@ ishostingenvironmentnameavailable:
 ishostnameavailable:
   path: Microsoft.ADHybridHealthService/ishostnameavailable
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/ishostnameavailable
   architecture review:
     type: UNKNOWN
@@ -4897,7 +4897,7 @@ ishostnameavailable:
 isusernameavailable:
   path: Microsoft.ADHybridHealthService/isusernameavailable
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/isusernameavailable
   architecture review:
     type: UNKNOWN
@@ -4914,7 +4914,7 @@ isusernameavailable:
 jitNetworkAccessPolicies:
   path: Microsoft.ADHybridHealthService/jitNetworkAccessPolicies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/jitNetworkAccessPolicies
   architecture review:
     type: UNKNOWN
@@ -4931,7 +4931,7 @@ jitNetworkAccessPolicies:
 jitRequests:
   path: Microsoft.ADHybridHealthService/jitRequests
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/jitRequests
   architecture review:
     type: UNKNOWN
@@ -4948,7 +4948,7 @@ jitRequests:
 jobcollections:
   path: Microsoft.ADHybridHealthService/jobcollections
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/jobcollections
   architecture review:
     type: UNKNOWN
@@ -4965,7 +4965,7 @@ jobcollections:
 jobs:
   path: Microsoft.ADHybridHealthService/jobs
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/jobs
   architecture review:
     type: UNKNOWN
@@ -4982,7 +4982,7 @@ jobs:
 labAccounts:
   path: Microsoft.ADHybridHealthService/labAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/labAccounts
   architecture review:
     type: UNKNOWN
@@ -4999,7 +4999,7 @@ labAccounts:
 labaccounts:
   path: Microsoft.ADHybridHealthService/labaccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/labaccounts
   architecture review:
     type: UNKNOWN
@@ -5016,7 +5016,7 @@ labaccounts:
 labs:
   path: Microsoft.ADHybridHealthService/labs
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/labs
   architecture review:
     type: UNKNOWN
@@ -5033,7 +5033,7 @@ labs:
 legacyPeerings:
   path: Microsoft.ADHybridHealthService/legacyPeerings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/legacyPeerings
   architecture review:
     type: UNKNOWN
@@ -5050,7 +5050,7 @@ legacyPeerings:
 linkTargets:
   path: Microsoft.ADHybridHealthService/linkTargets
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/linkTargets
   architecture review:
     type: UNKNOWN
@@ -5067,7 +5067,7 @@ linkTargets:
 links:
   path: Microsoft.ADHybridHealthService/links
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/links
   architecture review:
     type: UNKNOWN
@@ -5084,7 +5084,7 @@ links:
 listAuthServiceProviders:
   path: Microsoft.ADHybridHealthService/listAuthServiceProviders
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/listAuthServiceProviders
   architecture review:
     type: UNKNOWN
@@ -5101,7 +5101,7 @@ listAuthServiceProviders:
 listAvailableOffers:
   path: Microsoft.ADHybridHealthService/listAvailableOffers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/listAvailableOffers
   architecture review:
     type: UNKNOWN
@@ -5118,7 +5118,7 @@ listAvailableOffers:
 listBenefits:
   path: Microsoft.ADHybridHealthService/listBenefits
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/listBenefits
   architecture review:
     type: UNKNOWN
@@ -5135,7 +5135,7 @@ listBenefits:
 listCommunicationPreference:
   path: Microsoft.ADHybridHealthService/listCommunicationPreference
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/listCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -5152,7 +5152,7 @@ listCommunicationPreference:
 listDomainRecommendations:
   path: Microsoft.ADHybridHealthService/listDomainRecommendations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/listDomainRecommendations
   architecture review:
     type: UNKNOWN
@@ -5169,7 +5169,7 @@ listDomainRecommendations:
 listMigrationdate:
   path: Microsoft.ADHybridHealthService/listMigrationdate
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/listMigrationdate
   architecture review:
     type: UNKNOWN
@@ -5186,7 +5186,7 @@ listMigrationdate:
 listSitesAssignedToHostName:
   path: Microsoft.ADHybridHealthService/listSitesAssignedToHostName
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/listSitesAssignedToHostName
   architecture review:
     type: UNKNOWN
@@ -5203,7 +5203,7 @@ listSitesAssignedToHostName:
 listinvitations:
   path: Microsoft.ADHybridHealthService/listinvitations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/listinvitations
   architecture review:
     type: UNKNOWN
@@ -5220,7 +5220,7 @@ listinvitations:
 loadBalancers:
   path: Microsoft.ADHybridHealthService/loadBalancers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/loadBalancers
   architecture review:
     type: UNKNOWN
@@ -5237,7 +5237,7 @@ loadBalancers:
 localNetworkGateways:
   path: Microsoft.ADHybridHealthService/localNetworkGateways
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/localNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -5254,7 +5254,7 @@ localNetworkGateways:
 locations:
   path: Microsoft.ADHybridHealthService/locations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/locations
   architecture review:
     type: UNKNOWN
@@ -5271,7 +5271,7 @@ locations:
 locks:
   path: Microsoft.ADHybridHealthService/locks
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/locks
   architecture review:
     type: UNKNOWN
@@ -5288,7 +5288,7 @@ locks:
 logDefinitions:
   path: Microsoft.ADHybridHealthService/logDefinitions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/logDefinitions
   architecture review:
     type: UNKNOWN
@@ -5305,7 +5305,7 @@ logDefinitions:
 logprofiles:
   path: Microsoft.ADHybridHealthService/logprofiles
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/logprofiles
   architecture review:
     type: UNKNOWN
@@ -5322,7 +5322,7 @@ logprofiles:
 logs:
   path: Microsoft.ADHybridHealthService/logs
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/logs
   architecture review:
     type: UNKNOWN
@@ -5339,7 +5339,7 @@ logs:
 lots:
   path: Microsoft.ADHybridHealthService/lots
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/lots
   architecture review:
     type: UNKNOWN
@@ -5356,7 +5356,7 @@ lots:
 machines:
   path: Microsoft.ADHybridHealthService/machines
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/machines
   architecture review:
     type: UNKNOWN
@@ -5373,7 +5373,7 @@ machines:
 maintenanceConfigurations:
   path: Microsoft.ADHybridHealthService/maintenanceConfigurations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/maintenanceConfigurations
   architecture review:
     type: UNKNOWN
@@ -5390,7 +5390,7 @@ maintenanceConfigurations:
 managedClusters:
   path: Microsoft.ADHybridHealthService/managedClusters
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/managedClusters
   architecture review:
     type: UNKNOWN
@@ -5407,7 +5407,7 @@ managedClusters:
 managedInstances:
   path: Microsoft.ADHybridHealthService/managedInstances
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/managedInstances
   architecture review:
     type: UNKNOWN
@@ -5424,7 +5424,7 @@ managedInstances:
 managementGroups:
   path: Microsoft.ADHybridHealthService/managementGroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/managementGroups
   architecture review:
     type: UNKNOWN
@@ -5441,7 +5441,7 @@ managementGroups:
 managementassociations:
   path: Microsoft.ADHybridHealthService/managementassociations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/managementassociations
   architecture review:
     type: UNKNOWN
@@ -5458,7 +5458,7 @@ managementassociations:
 managementconfigurations:
   path: Microsoft.ADHybridHealthService/managementconfigurations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/managementconfigurations
   architecture review:
     type: UNKNOWN
@@ -5475,7 +5475,7 @@ managementconfigurations:
 managers:
   path: Microsoft.ADHybridHealthService/managers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/managers
   architecture review:
     type: UNKNOWN
@@ -5492,7 +5492,7 @@ managers:
 mapApis:
   path: Microsoft.ADHybridHealthService/mapApis
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/mapApis
   architecture review:
     type: UNKNOWN
@@ -5509,7 +5509,7 @@ mapApis:
 marketplaceRegistrationDefinitions:
   path: Microsoft.ADHybridHealthService/marketplaceRegistrationDefinitions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/marketplaceRegistrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -5526,7 +5526,7 @@ marketplaceRegistrationDefinitions:
 mediaservices:
   path: Microsoft.ADHybridHealthService/mediaservices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/mediaservices
   architecture review:
     type: UNKNOWN
@@ -5543,7 +5543,7 @@ mediaservices:
 metadata:
   path: Microsoft.ADHybridHealthService/metadata
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/metadata
   architecture review:
     type: UNKNOWN
@@ -5560,7 +5560,7 @@ metadata:
 metricDefinitions:
   path: Microsoft.ADHybridHealthService/metricDefinitions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/metricDefinitions
   architecture review:
     type: UNKNOWN
@@ -5577,7 +5577,7 @@ metricDefinitions:
 metricNamespaces:
   path: Microsoft.ADHybridHealthService/metricNamespaces
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/metricNamespaces
   architecture review:
     type: UNKNOWN
@@ -5594,7 +5594,7 @@ metricNamespaces:
 metricalerts:
   path: Microsoft.ADHybridHealthService/metricalerts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/metricalerts
   architecture review:
     type: UNKNOWN
@@ -5611,7 +5611,7 @@ metricalerts:
 metricbaselines:
   path: Microsoft.ADHybridHealthService/metricbaselines
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/metricbaselines
   architecture review:
     type: UNKNOWN
@@ -5628,7 +5628,7 @@ metricbaselines:
 metricbatch:
   path: Microsoft.ADHybridHealthService/metricbatch
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/metricbatch
   architecture review:
     type: UNKNOWN
@@ -5645,7 +5645,7 @@ metricbatch:
 metrics:
   path: Microsoft.ADHybridHealthService/metrics
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/metrics
   architecture review:
     type: UNKNOWN
@@ -5662,7 +5662,7 @@ metrics:
 migrateToNewPricingModel:
   path: Microsoft.ADHybridHealthService/migrateToNewPricingModel
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/migrateToNewPricingModel
   architecture review:
     type: UNKNOWN
@@ -5679,7 +5679,7 @@ migrateToNewPricingModel:
 migratealertrules:
   path: Microsoft.ADHybridHealthService/migratealertrules
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/migratealertrules
   architecture review:
     type: UNKNOWN
@@ -5696,7 +5696,7 @@ migratealertrules:
 migrateprojects:
   path: Microsoft.ADHybridHealthService/migrateprojects
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/migrateprojects
   architecture review:
     type: UNKNOWN
@@ -5713,7 +5713,7 @@ migrateprojects:
 monitorInstances:
   path: Microsoft.ADHybridHealthService/monitorInstances
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/monitorInstances
   architecture review:
     type: UNKNOWN
@@ -5730,7 +5730,7 @@ monitorInstances:
 monitorInstancesSummary:
   path: Microsoft.ADHybridHealthService/monitorInstancesSummary
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/monitorInstancesSummary
   architecture review:
     type: UNKNOWN
@@ -5747,7 +5747,7 @@ monitorInstancesSummary:
 monitors:
   path: Microsoft.ADHybridHealthService/monitors
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/monitors
   architecture review:
     type: UNKNOWN
@@ -5764,7 +5764,7 @@ monitors:
 moveSubscriptionResources:
   path: Microsoft.ADHybridHealthService/moveSubscriptionResources
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/moveSubscriptionResources
   architecture review:
     type: UNKNOWN
@@ -5781,7 +5781,7 @@ moveSubscriptionResources:
 myWorkbooks:
   path: Microsoft.ADHybridHealthService/myWorkbooks
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/myWorkbooks
   architecture review:
     type: UNKNOWN
@@ -5798,7 +5798,7 @@ myWorkbooks:
 namespaces:
   path: Microsoft.ADHybridHealthService/namespaces
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/namespaces
   architecture review:
     type: UNKNOWN
@@ -5815,7 +5815,7 @@ namespaces:
 natGateways:
   path: Microsoft.ADHybridHealthService/natGateways
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/natGateways
   architecture review:
     type: UNKNOWN
@@ -5832,7 +5832,7 @@ natGateways:
 networkExperimentProfiles:
   path: Microsoft.ADHybridHealthService/networkExperimentProfiles
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/networkExperimentProfiles
   architecture review:
     type: UNKNOWN
@@ -5849,7 +5849,7 @@ networkExperimentProfiles:
 networkIntentPolicies:
   path: Microsoft.ADHybridHealthService/networkIntentPolicies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/networkIntentPolicies
   architecture review:
     type: UNKNOWN
@@ -5866,7 +5866,7 @@ networkIntentPolicies:
 networkInterfaces:
   path: Microsoft.ADHybridHealthService/networkInterfaces
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/networkInterfaces
   architecture review:
     type: UNKNOWN
@@ -5883,7 +5883,7 @@ networkInterfaces:
 networkProfiles:
   path: Microsoft.ADHybridHealthService/networkProfiles
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/networkProfiles
   architecture review:
     type: UNKNOWN
@@ -5900,7 +5900,7 @@ networkProfiles:
 networkSecurityGroups:
   path: Microsoft.ADHybridHealthService/networkSecurityGroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/networkSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -5917,7 +5917,7 @@ networkSecurityGroups:
 networkWatchers:
   path: Microsoft.ADHybridHealthService/networkWatchers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/networkWatchers
   architecture review:
     type: UNKNOWN
@@ -5934,7 +5934,7 @@ networkWatchers:
 networks:
   path: Microsoft.ADHybridHealthService/networks
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/networks
   architecture review:
     type: UNKNOWN
@@ -5951,7 +5951,7 @@ networks:
 notificationSettings:
   path: Microsoft.ADHybridHealthService/notificationSettings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/notificationSettings
   architecture review:
     type: UNKNOWN
@@ -5968,7 +5968,7 @@ notificationSettings:
 notifications:
   path: Microsoft.ADHybridHealthService/notifications
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/notifications
   architecture review:
     type: UNKNOWN
@@ -5985,7 +5985,7 @@ notifications:
 notifyResourceJobs:
   path: Microsoft.ADHybridHealthService/notifyResourceJobs
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/notifyResourceJobs
   architecture review:
     type: UNKNOWN
@@ -6002,7 +6002,7 @@ notifyResourceJobs:
 offerTypes:
   path: Microsoft.ADHybridHealthService/offerTypes
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/offerTypes
   architecture review:
     type: UNKNOWN
@@ -6019,7 +6019,7 @@ offerTypes:
 offers:
   path: Microsoft.ADHybridHealthService/offers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/offers
   architecture review:
     type: UNKNOWN
@@ -6036,7 +6036,7 @@ offers:
 offertypes:
   path: Microsoft.ADHybridHealthService/offertypes
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/offertypes
   architecture review:
     type: UNKNOWN
@@ -6053,7 +6053,7 @@ offertypes:
 officeConsents:
   path: Microsoft.ADHybridHealthService/officeConsents
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/officeConsents
   architecture review:
     type: UNKNOWN
@@ -6070,7 +6070,7 @@ officeConsents:
 openShiftManagedClusters:
   path: Microsoft.ADHybridHealthService/openShiftManagedClusters
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/openShiftManagedClusters
   architecture review:
     type: UNKNOWN
@@ -6087,7 +6087,7 @@ openShiftManagedClusters:
 operatingSystemFamilies:
   path: Microsoft.ADHybridHealthService/operatingSystemFamilies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/operatingSystemFamilies
   architecture review:
     type: UNKNOWN
@@ -6104,7 +6104,7 @@ operatingSystemFamilies:
 operatingSystems:
   path: Microsoft.ADHybridHealthService/operatingSystems
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/operatingSystems
   architecture review:
     type: UNKNOWN
@@ -6121,7 +6121,7 @@ operatingSystems:
 operationResults:
   path: Microsoft.ADHybridHealthService/operationResults
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/operationResults
   architecture review:
     type: UNKNOWN
@@ -6138,7 +6138,7 @@ operationResults:
 operationStatus:
   path: Microsoft.ADHybridHealthService/operationStatus
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/operationStatus
   architecture review:
     type: UNKNOWN
@@ -6155,7 +6155,7 @@ operationStatus:
 operationStatuses:
   path: Microsoft.ADHybridHealthService/operationStatuses
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/operationStatuses
   architecture review:
     type: UNKNOWN
@@ -6172,7 +6172,7 @@ operationStatuses:
 operationresults:
   path: Microsoft.ADHybridHealthService/operationresults
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/operationresults
   architecture review:
     type: UNKNOWN
@@ -6189,7 +6189,7 @@ operationresults:
 operations:
   path: Microsoft.ADHybridHealthService/operations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/operations
   architecture review:
     type: UNKNOWN
@@ -6206,7 +6206,7 @@ operations:
 operationsStatus:
   path: Microsoft.ADHybridHealthService/operationsStatus
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/operationsStatus
   architecture review:
     type: UNKNOWN
@@ -6223,7 +6223,7 @@ operationsStatus:
 operationsstatus:
   path: Microsoft.ADHybridHealthService/operationsstatus
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/operationsstatus
   architecture review:
     type: UNKNOWN
@@ -6240,7 +6240,7 @@ operationsstatus:
 osImages:
   path: Microsoft.ADHybridHealthService/osImages
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/osImages
   architecture review:
     type: UNKNOWN
@@ -6257,7 +6257,7 @@ osImages:
 osNamespaces:
   path: Microsoft.ADHybridHealthService/osNamespaces
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/osNamespaces
   architecture review:
     type: UNKNOWN
@@ -6274,7 +6274,7 @@ osNamespaces:
 osPlatformImages:
   path: Microsoft.ADHybridHealthService/osPlatformImages
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/osPlatformImages
   architecture review:
     type: UNKNOWN
@@ -6291,7 +6291,7 @@ osPlatformImages:
 p2sVpnGateways:
   path: Microsoft.ADHybridHealthService/p2sVpnGateways
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/p2sVpnGateways
   architecture review:
     type: UNKNOWN
@@ -6308,7 +6308,7 @@ p2sVpnGateways:
 partnerNamespaces:
   path: Microsoft.ADHybridHealthService/partnerNamespaces
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/partnerNamespaces
   architecture review:
     type: UNKNOWN
@@ -6325,7 +6325,7 @@ partnerNamespaces:
 partnerTopics:
   path: Microsoft.ADHybridHealthService/partnerTopics
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/partnerTopics
   architecture review:
     type: UNKNOWN
@@ -6342,7 +6342,7 @@ partnerTopics:
 peerAsns:
   path: Microsoft.ADHybridHealthService/peerAsns
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/peerAsns
   architecture review:
     type: UNKNOWN
@@ -6359,7 +6359,7 @@ peerAsns:
 peeringLocations:
   path: Microsoft.ADHybridHealthService/peeringLocations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/peeringLocations
   architecture review:
     type: UNKNOWN
@@ -6376,7 +6376,7 @@ peeringLocations:
 peeringServiceCountries:
   path: Microsoft.ADHybridHealthService/peeringServiceCountries
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/peeringServiceCountries
   architecture review:
     type: UNKNOWN
@@ -6393,7 +6393,7 @@ peeringServiceCountries:
 peeringServiceLocations:
   path: Microsoft.ADHybridHealthService/peeringServiceLocations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/peeringServiceLocations
   architecture review:
     type: UNKNOWN
@@ -6410,7 +6410,7 @@ peeringServiceLocations:
 peeringServiceProviders:
   path: Microsoft.ADHybridHealthService/peeringServiceProviders
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/peeringServiceProviders
   architecture review:
     type: UNKNOWN
@@ -6427,7 +6427,7 @@ peeringServiceProviders:
 peerings:
   path: Microsoft.ADHybridHealthService/peerings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/peerings
   architecture review:
     type: UNKNOWN
@@ -6444,7 +6444,7 @@ peerings:
 permissions:
   path: Microsoft.ADHybridHealthService/permissions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/permissions
   architecture review:
     type: UNKNOWN
@@ -6461,7 +6461,7 @@ permissions:
 pipelines:
   path: Microsoft.ADHybridHealthService/pipelines
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/pipelines
   architecture review:
     type: UNKNOWN
@@ -6478,7 +6478,7 @@ pipelines:
 placePurchaseOrder:
   path: Microsoft.ADHybridHealthService/placePurchaseOrder
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/placePurchaseOrder
   architecture review:
     type: UNKNOWN
@@ -6495,7 +6495,7 @@ placePurchaseOrder:
 plans:
   path: Microsoft.ADHybridHealthService/plans
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/plans
   architecture review:
     type: UNKNOWN
@@ -6512,7 +6512,7 @@ plans:
 policies:
   path: Microsoft.ADHybridHealthService/policies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/policies
   architecture review:
     type: UNKNOWN
@@ -6529,7 +6529,7 @@ policies:
 policyAssignments:
   path: Microsoft.ADHybridHealthService/policyAssignments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/policyAssignments
   architecture review:
     type: UNKNOWN
@@ -6546,7 +6546,7 @@ policyAssignments:
 policyDefinitions:
   path: Microsoft.ADHybridHealthService/policyDefinitions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/policyDefinitions
   architecture review:
     type: UNKNOWN
@@ -6563,7 +6563,7 @@ policyDefinitions:
 policyEvents:
   path: Microsoft.ADHybridHealthService/policyEvents
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/policyEvents
   architecture review:
     type: UNKNOWN
@@ -6580,7 +6580,7 @@ policyEvents:
 policyMetadata:
   path: Microsoft.ADHybridHealthService/policyMetadata
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/policyMetadata
   architecture review:
     type: UNKNOWN
@@ -6597,7 +6597,7 @@ policyMetadata:
 policySetDefinitions:
   path: Microsoft.ADHybridHealthService/policySetDefinitions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/policySetDefinitions
   architecture review:
     type: UNKNOWN
@@ -6614,7 +6614,7 @@ policySetDefinitions:
 policyStates:
   path: Microsoft.ADHybridHealthService/policyStates
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/policyStates
   architecture review:
     type: UNKNOWN
@@ -6631,7 +6631,7 @@ policyStates:
 policyTrackedResources:
   path: Microsoft.ADHybridHealthService/policyTrackedResources
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/policyTrackedResources
   architecture review:
     type: UNKNOWN
@@ -6648,7 +6648,7 @@ policyTrackedResources:
 premiumMessagingRegions:
   path: Microsoft.ADHybridHealthService/premiumMessagingRegions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/premiumMessagingRegions
   architecture review:
     type: UNKNOWN
@@ -6665,7 +6665,7 @@ premiumMessagingRegions:
 pricings:
   path: Microsoft.ADHybridHealthService/pricings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/pricings
   architecture review:
     type: UNKNOWN
@@ -6682,7 +6682,7 @@ pricings:
 privateDnsOperationResults:
   path: Microsoft.ADHybridHealthService/privateDnsOperationResults
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/privateDnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -6699,7 +6699,7 @@ privateDnsOperationResults:
 privateDnsOperationStatuses:
   path: Microsoft.ADHybridHealthService/privateDnsOperationStatuses
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/privateDnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6716,7 +6716,7 @@ privateDnsOperationStatuses:
 privateDnsZones:
   path: Microsoft.ADHybridHealthService/privateDnsZones
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/privateDnsZones
   architecture review:
     type: UNKNOWN
@@ -6733,7 +6733,7 @@ privateDnsZones:
 privateDnsZonesInternal:
   path: Microsoft.ADHybridHealthService/privateDnsZonesInternal
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/privateDnsZonesInternal
   architecture review:
     type: UNKNOWN
@@ -6750,7 +6750,7 @@ privateDnsZonesInternal:
 privateEndpointRedirectMaps:
   path: Microsoft.ADHybridHealthService/privateEndpointRedirectMaps
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/privateEndpointRedirectMaps
   architecture review:
     type: UNKNOWN
@@ -6767,7 +6767,7 @@ privateEndpointRedirectMaps:
 privateEndpoints:
   path: Microsoft.ADHybridHealthService/privateEndpoints
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/privateEndpoints
   architecture review:
     type: UNKNOWN
@@ -6784,7 +6784,7 @@ privateEndpoints:
 privateLinkScopeOperationStatuses:
   path: Microsoft.ADHybridHealthService/privateLinkScopeOperationStatuses
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/privateLinkScopeOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6801,7 +6801,7 @@ privateLinkScopeOperationStatuses:
 privateLinkScopes:
   path: Microsoft.ADHybridHealthService/privateLinkScopes
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/privateLinkScopes
   architecture review:
     type: UNKNOWN
@@ -6818,7 +6818,7 @@ privateLinkScopes:
 privateLinkServices:
   path: Microsoft.ADHybridHealthService/privateLinkServices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/privateLinkServices
   architecture review:
     type: UNKNOWN
@@ -6835,7 +6835,7 @@ privateLinkServices:
 privateStoreClient:
   path: Microsoft.ADHybridHealthService/privateStoreClient
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/privateStoreClient
   architecture review:
     type: UNKNOWN
@@ -6852,7 +6852,7 @@ privateStoreClient:
 privateStores:
   path: Microsoft.ADHybridHealthService/privateStores
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/privateStores
   architecture review:
     type: UNKNOWN
@@ -6869,7 +6869,7 @@ privateStores:
 privategalleryitems:
   path: Microsoft.ADHybridHealthService/privategalleryitems
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/privategalleryitems
   architecture review:
     type: UNKNOWN
@@ -6886,7 +6886,7 @@ privategalleryitems:
 products:
   path: Microsoft.ADHybridHealthService/products
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/products
   architecture review:
     type: UNKNOWN
@@ -6903,7 +6903,7 @@ products:
 profiles:
   path: Microsoft.ADHybridHealthService/profiles
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/profiles
   architecture review:
     type: UNKNOWN
@@ -6920,7 +6920,7 @@ profiles:
 projects:
   path: Microsoft.ADHybridHealthService/projects
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/projects
   architecture review:
     type: UNKNOWN
@@ -6937,7 +6937,7 @@ projects:
 providerOperations:
   path: Microsoft.ADHybridHealthService/providerOperations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/providerOperations
   architecture review:
     type: UNKNOWN
@@ -6954,7 +6954,7 @@ providerOperations:
 providerRegistrations:
   path: Microsoft.ADHybridHealthService/providerRegistrations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/providerRegistrations
   architecture review:
     type: UNKNOWN
@@ -6971,7 +6971,7 @@ providerRegistrations:
 providers:
   path: Microsoft.ADHybridHealthService/providers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/providers
   architecture review:
     type: UNKNOWN
@@ -6988,7 +6988,7 @@ providers:
 proximityPlacementGroups:
   path: Microsoft.ADHybridHealthService/proximityPlacementGroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/proximityPlacementGroups
   architecture review:
     type: UNKNOWN
@@ -7005,7 +7005,7 @@ proximityPlacementGroups:
 publicIPAddresses:
   path: Microsoft.ADHybridHealthService/publicIPAddresses
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/publicIPAddresses
   architecture review:
     type: UNKNOWN
@@ -7022,7 +7022,7 @@ publicIPAddresses:
 publicIPPrefixes:
   path: Microsoft.ADHybridHealthService/publicIPPrefixes
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/publicIPPrefixes
   architecture review:
     type: UNKNOWN
@@ -7039,7 +7039,7 @@ publicIPPrefixes:
 publicImages:
   path: Microsoft.ADHybridHealthService/publicImages
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/publicImages
   architecture review:
     type: UNKNOWN
@@ -7056,7 +7056,7 @@ publicImages:
 publishers:
   path: Microsoft.ADHybridHealthService/publishers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/publishers
   architecture review:
     type: UNKNOWN
@@ -7073,7 +7073,7 @@ publishers:
 publishingUsers:
   path: Microsoft.ADHybridHealthService/publishingUsers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/publishingUsers
   architecture review:
     type: UNKNOWN
@@ -7090,7 +7090,7 @@ publishingUsers:
 queries:
   path: Microsoft.ADHybridHealthService/queries
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/queries
   architecture review:
     type: UNKNOWN
@@ -7107,7 +7107,7 @@ queries:
 quotas:
   path: Microsoft.ADHybridHealthService/quotas
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/quotas
   architecture review:
     type: UNKNOWN
@@ -7124,7 +7124,7 @@ quotas:
 recommendations:
   path: Microsoft.ADHybridHealthService/recommendations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/recommendations
   architecture review:
     type: UNKNOWN
@@ -7141,7 +7141,7 @@ recommendations:
 redis:
   path: Microsoft.ADHybridHealthService/redis
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/redis
   architecture review:
     type: UNKNOWN
@@ -7158,7 +7158,7 @@ redis:
 register:
   path: Microsoft.ADHybridHealthService/register
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/register
   architecture review:
     type: UNKNOWN
@@ -7175,7 +7175,7 @@ register:
 registrationAssignments:
   path: Microsoft.ADHybridHealthService/registrationAssignments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/registrationAssignments
   architecture review:
     type: UNKNOWN
@@ -7192,7 +7192,7 @@ registrationAssignments:
 registrationDefinitions:
   path: Microsoft.ADHybridHealthService/registrationDefinitions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/registrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -7209,7 +7209,7 @@ registrationDefinitions:
 registrations:
   path: Microsoft.ADHybridHealthService/registrations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/registrations
   architecture review:
     type: UNKNOWN
@@ -7226,7 +7226,7 @@ registrations:
 registries:
   path: Microsoft.ADHybridHealthService/registries
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/registries
   architecture review:
     type: UNKNOWN
@@ -7243,7 +7243,7 @@ registries:
 regulatoryComplianceStandards:
   path: Microsoft.ADHybridHealthService/regulatoryComplianceStandards
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/regulatoryComplianceStandards
   architecture review:
     type: UNKNOWN
@@ -7260,7 +7260,7 @@ regulatoryComplianceStandards:
 remediations:
   path: Microsoft.ADHybridHealthService/remediations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/remediations
   architecture review:
     type: UNKNOWN
@@ -7277,7 +7277,7 @@ remediations:
 rename:
   path: Microsoft.ADHybridHealthService/rename
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/rename
   architecture review:
     type: UNKNOWN
@@ -7294,7 +7294,7 @@ rename:
 replicationEligibilityResults:
   path: Microsoft.ADHybridHealthService/replicationEligibilityResults
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/replicationEligibilityResults
   architecture review:
     type: UNKNOWN
@@ -7311,7 +7311,7 @@ replicationEligibilityResults:
 reportFeedback:
   path: Microsoft.ADHybridHealthService/reportFeedback
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/reportFeedback
   architecture review:
     type: UNKNOWN
@@ -7328,7 +7328,7 @@ reportFeedback:
 reports:
   path: Microsoft.ADHybridHealthService/reports
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/reports
   architecture review:
     type: UNKNOWN
@@ -7345,7 +7345,7 @@ reports:
 requests:
   path: Microsoft.ADHybridHealthService/requests
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/requests
   architecture review:
     type: UNKNOWN
@@ -7362,7 +7362,7 @@ requests:
 reservationOrders:
   path: Microsoft.ADHybridHealthService/reservationOrders
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/reservationOrders
   architecture review:
     type: UNKNOWN
@@ -7379,7 +7379,7 @@ reservationOrders:
 reservations:
   path: Microsoft.ADHybridHealthService/reservations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/reservations
   architecture review:
     type: UNKNOWN
@@ -7396,7 +7396,7 @@ reservations:
 reservedIps:
   path: Microsoft.ADHybridHealthService/reservedIps
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/reservedIps
   architecture review:
     type: UNKNOWN
@@ -7413,7 +7413,7 @@ reservedIps:
 resourceChangeDetails:
   path: Microsoft.ADHybridHealthService/resourceChangeDetails
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/resourceChangeDetails
   architecture review:
     type: UNKNOWN
@@ -7430,7 +7430,7 @@ resourceChangeDetails:
 resourceChanges:
   path: Microsoft.ADHybridHealthService/resourceChanges
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/resourceChanges
   architecture review:
     type: UNKNOWN
@@ -7447,7 +7447,7 @@ resourceChanges:
 resourceGroups:
   path: Microsoft.ADHybridHealthService/resourceGroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/resourceGroups
   architecture review:
     type: UNKNOWN
@@ -7464,7 +7464,7 @@ resourceGroups:
 resourceHealthMetadata:
   path: Microsoft.ADHybridHealthService/resourceHealthMetadata
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/resourceHealthMetadata
   architecture review:
     type: UNKNOWN
@@ -7481,7 +7481,7 @@ resourceHealthMetadata:
 resourceProviders:
   path: Microsoft.ADHybridHealthService/resourceProviders
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/resourceProviders
   architecture review:
     type: UNKNOWN
@@ -7498,7 +7498,7 @@ resourceProviders:
 resourceTypes:
   path: Microsoft.ADHybridHealthService/resourceTypes
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/resourceTypes
   architecture review:
     type: UNKNOWN
@@ -7515,7 +7515,7 @@ resourceTypes:
 resources:
   path: Microsoft.ADHybridHealthService/resources
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/resources
   architecture review:
     type: UNKNOWN
@@ -7532,7 +7532,7 @@ resources:
 resourcesHistory:
   path: Microsoft.ADHybridHealthService/resourcesHistory
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/resourcesHistory
   architecture review:
     type: UNKNOWN
@@ -7549,7 +7549,7 @@ resourcesHistory:
 restorePointCollections:
   path: Microsoft.ADHybridHealthService/restorePointCollections
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/restorePointCollections
   architecture review:
     type: UNKNOWN
@@ -7566,7 +7566,7 @@ restorePointCollections:
 roleAssignments:
   path: Microsoft.ADHybridHealthService/roleAssignments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/roleAssignments
   architecture review:
     type: UNKNOWN
@@ -7583,7 +7583,7 @@ roleAssignments:
 roleAssignmentsUsageMetrics:
   path: Microsoft.ADHybridHealthService/roleAssignmentsUsageMetrics
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/roleAssignmentsUsageMetrics
   architecture review:
     type: UNKNOWN
@@ -7600,7 +7600,7 @@ roleAssignmentsUsageMetrics:
 roleDefinitions:
   path: Microsoft.ADHybridHealthService/roleDefinitions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/roleDefinitions
   architecture review:
     type: UNKNOWN
@@ -7617,7 +7617,7 @@ roleDefinitions:
 rollbackToLegacyPricingModel:
   path: Microsoft.ADHybridHealthService/rollbackToLegacyPricingModel
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/rollbackToLegacyPricingModel
   architecture review:
     type: UNKNOWN
@@ -7634,7 +7634,7 @@ rollbackToLegacyPricingModel:
 rollouts:
   path: Microsoft.ADHybridHealthService/rollouts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/rollouts
   architecture review:
     type: UNKNOWN
@@ -7651,7 +7651,7 @@ rollouts:
 routeFilters:
   path: Microsoft.ADHybridHealthService/routeFilters
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/routeFilters
   architecture review:
     type: UNKNOWN
@@ -7668,7 +7668,7 @@ routeFilters:
 routeTables:
   path: Microsoft.ADHybridHealthService/routeTables
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/routeTables
   architecture review:
     type: UNKNOWN
@@ -7685,7 +7685,7 @@ routeTables:
 runtimes:
   path: Microsoft.ADHybridHealthService/runtimes
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/runtimes
   architecture review:
     type: UNKNOWN
@@ -7702,7 +7702,7 @@ runtimes:
 saasresources:
   path: Microsoft.ADHybridHealthService/saasresources
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/saasresources
   architecture review:
     type: UNKNOWN
@@ -7719,7 +7719,7 @@ saasresources:
 sapMonitors:
   path: Microsoft.ADHybridHealthService/sapMonitors
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/sapMonitors
   architecture review:
     type: UNKNOWN
@@ -7736,7 +7736,7 @@ sapMonitors:
 scheduledqueryrules:
   path: Microsoft.ADHybridHealthService/scheduledqueryrules
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/scheduledqueryrules
   architecture review:
     type: UNKNOWN
@@ -7753,7 +7753,7 @@ scheduledqueryrules:
 schedules:
   path: Microsoft.ADHybridHealthService/schedules
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/schedules
   architecture review:
     type: UNKNOWN
@@ -7770,7 +7770,7 @@ schedules:
 searchServices:
   path: Microsoft.ADHybridHealthService/searchServices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/searchServices
   architecture review:
     type: UNKNOWN
@@ -7787,7 +7787,7 @@ searchServices:
 secrets:
   path: Microsoft.ADHybridHealthService/secrets
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/secrets
   architecture review:
     type: UNKNOWN
@@ -7804,7 +7804,7 @@ secrets:
 securityContacts:
   path: Microsoft.ADHybridHealthService/securityContacts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/securityContacts
   architecture review:
     type: UNKNOWN
@@ -7821,7 +7821,7 @@ securityContacts:
 securitySolutions:
   path: Microsoft.ADHybridHealthService/securitySolutions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/securitySolutions
   architecture review:
     type: UNKNOWN
@@ -7838,7 +7838,7 @@ securitySolutions:
 securitySolutionsReferenceData:
   path: Microsoft.ADHybridHealthService/securitySolutionsReferenceData
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/securitySolutionsReferenceData
   architecture review:
     type: UNKNOWN
@@ -7855,7 +7855,7 @@ securitySolutionsReferenceData:
 securityStatuses:
   path: Microsoft.ADHybridHealthService/securityStatuses
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/securityStatuses
   architecture review:
     type: UNKNOWN
@@ -7872,7 +7872,7 @@ securityStatuses:
 securityStatusesSummaries:
   path: Microsoft.ADHybridHealthService/securityStatusesSummaries
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/securityStatusesSummaries
   architecture review:
     type: UNKNOWN
@@ -7889,7 +7889,7 @@ securityStatusesSummaries:
 serverFarms:
   path: Microsoft.ADHybridHealthService/serverFarms
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/serverFarms
   architecture review:
     type: UNKNOWN
@@ -7906,7 +7906,7 @@ serverFarms:
 serverGroups:
   path: Microsoft.ADHybridHealthService/serverGroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/serverGroups
   architecture review:
     type: UNKNOWN
@@ -7923,7 +7923,7 @@ serverGroups:
 serverVulnerabilityAssessments:
   path: Microsoft.ADHybridHealthService/serverVulnerabilityAssessments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/serverVulnerabilityAssessments
   architecture review:
     type: UNKNOWN
@@ -7940,7 +7940,7 @@ serverVulnerabilityAssessments:
 serverfarms:
   path: Microsoft.ADHybridHealthService/serverfarms
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/serverfarms
   architecture review:
     type: UNKNOWN
@@ -7957,7 +7957,7 @@ serverfarms:
 servers:
   path: Microsoft.ADHybridHealthService/servers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/servers
   architecture review:
     type: UNKNOWN
@@ -7974,7 +7974,7 @@ servers:
 serversv2:
   path: Microsoft.ADHybridHealthService/serversv2
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/serversv2
   architecture review:
     type: UNKNOWN
@@ -7991,7 +7991,7 @@ serversv2:
 service:
   path: Microsoft.ADHybridHealthService/service
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/service
   architecture review:
     type: UNKNOWN
@@ -8008,7 +8008,7 @@ service:
 serviceAssociationLinks:
   path: Microsoft.ADHybridHealthService/serviceAssociationLinks
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/serviceAssociationLinks
   architecture review:
     type: UNKNOWN
@@ -8025,7 +8025,7 @@ serviceAssociationLinks:
 serviceEndpointPolicies:
   path: Microsoft.ADHybridHealthService/serviceEndpointPolicies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/serviceEndpointPolicies
   architecture review:
     type: UNKNOWN
@@ -8042,7 +8042,7 @@ serviceEndpointPolicies:
 serviceTopologies:
   path: Microsoft.ADHybridHealthService/serviceTopologies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/serviceTopologies
   architecture review:
     type: UNKNOWN
@@ -8059,7 +8059,7 @@ serviceTopologies:
 servicehealthmetrics:
   path: Microsoft.ADHybridHealthService/servicehealthmetrics
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/servicehealthmetrics
   architecture review:
     type: UNKNOWN
@@ -8076,7 +8076,7 @@ servicehealthmetrics:
 services:
   path: Microsoft.ADHybridHealthService/services
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/services
   architecture review:
     type: UNKNOWN
@@ -8093,7 +8093,7 @@ services:
 settings:
   path: Microsoft.ADHybridHealthService/settings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/settings
   architecture review:
     type: UNKNOWN
@@ -8110,7 +8110,7 @@ settings:
 sharedVMImages:
   path: Microsoft.ADHybridHealthService/sharedVMImages
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/sharedVMImages
   architecture review:
     type: UNKNOWN
@@ -8127,7 +8127,7 @@ sharedVMImages:
 showbackRules:
   path: Microsoft.ADHybridHealthService/showbackRules
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/showbackRules
   architecture review:
     type: UNKNOWN
@@ -8144,7 +8144,7 @@ showbackRules:
 singleServers:
   path: Microsoft.ADHybridHealthService/singleServers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/singleServers
   architecture review:
     type: UNKNOWN
@@ -8161,7 +8161,7 @@ singleServers:
 sites:
   path: Microsoft.ADHybridHealthService/sites
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/sites
   architecture review:
     type: UNKNOWN
@@ -8178,7 +8178,7 @@ sites:
 sku:
   path: Microsoft.ADHybridHealthService/sku
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/sku
   architecture review:
     type: UNKNOWN
@@ -8195,7 +8195,7 @@ sku:
 smartDetectorAlertRules:
   path: Microsoft.ADHybridHealthService/smartDetectorAlertRules
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/smartDetectorAlertRules
   architecture review:
     type: UNKNOWN
@@ -8212,7 +8212,7 @@ smartDetectorAlertRules:
 smartGroups:
   path: Microsoft.ADHybridHealthService/smartGroups
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/smartGroups
   architecture review:
     type: UNKNOWN
@@ -8229,7 +8229,7 @@ smartGroups:
 snapshots:
   path: Microsoft.ADHybridHealthService/snapshots
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/snapshots
   architecture review:
     type: UNKNOWN
@@ -8246,7 +8246,7 @@ snapshots:
 software:
   path: Microsoft.ADHybridHealthService/software
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/software
   architecture review:
     type: UNKNOWN
@@ -8263,7 +8263,7 @@ software:
 softwareUpdateProfile:
   path: Microsoft.ADHybridHealthService/softwareUpdateProfile
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/softwareUpdateProfile
   architecture review:
     type: UNKNOWN
@@ -8280,7 +8280,7 @@ softwareUpdateProfile:
 softwareUpdates:
   path: Microsoft.ADHybridHealthService/softwareUpdates
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/softwareUpdates
   architecture review:
     type: UNKNOWN
@@ -8297,7 +8297,7 @@ softwareUpdates:
 solutions:
   path: Microsoft.ADHybridHealthService/solutions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/solutions
   architecture review:
     type: UNKNOWN
@@ -8314,7 +8314,7 @@ solutions:
 sourceControls:
   path: Microsoft.ADHybridHealthService/sourceControls
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/sourceControls
   architecture review:
     type: UNKNOWN
@@ -8331,7 +8331,7 @@ sourceControls:
 spatialAnchorsAccounts:
   path: Microsoft.ADHybridHealthService/spatialAnchorsAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/spatialAnchorsAccounts
   architecture review:
     type: UNKNOWN
@@ -8348,7 +8348,7 @@ spatialAnchorsAccounts:
 sqlServerRegistrations:
   path: Microsoft.ADHybridHealthService/sqlServerRegistrations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/sqlServerRegistrations
   architecture review:
     type: UNKNOWN
@@ -8365,7 +8365,7 @@ sqlServerRegistrations:
 sshPublicKeys:
   path: Microsoft.ADHybridHealthService/sshPublicKeys
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/sshPublicKeys
   architecture review:
     type: UNKNOWN
@@ -8382,7 +8382,7 @@ sshPublicKeys:
 startTenantBackfill:
   path: Microsoft.ADHybridHealthService/startTenantBackfill
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/startTenantBackfill
   architecture review:
     type: UNKNOWN
@@ -8399,7 +8399,7 @@ startTenantBackfill:
 steps:
   path: Microsoft.ADHybridHealthService/steps
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/steps
   architecture review:
     type: UNKNOWN
@@ -8416,7 +8416,7 @@ steps:
 storageAccounts:
   path: Microsoft.ADHybridHealthService/storageAccounts
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/storageAccounts
   architecture review:
     type: UNKNOWN
@@ -8433,7 +8433,7 @@ storageAccounts:
 storageInsightConfigs:
   path: Microsoft.ADHybridHealthService/storageInsightConfigs
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/storageInsightConfigs
   architecture review:
     type: UNKNOWN
@@ -8450,7 +8450,7 @@ storageInsightConfigs:
 storageSyncServices:
   path: Microsoft.ADHybridHealthService/storageSyncServices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/storageSyncServices
   architecture review:
     type: UNKNOWN
@@ -8467,7 +8467,7 @@ storageSyncServices:
 stores:
   path: Microsoft.ADHybridHealthService/stores
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/stores
   architecture review:
     type: UNKNOWN
@@ -8484,7 +8484,7 @@ stores:
 streamingjobs:
   path: Microsoft.ADHybridHealthService/streamingjobs
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/streamingjobs
   architecture review:
     type: UNKNOWN
@@ -8501,7 +8501,7 @@ streamingjobs:
 subAssessments:
   path: Microsoft.ADHybridHealthService/subAssessments
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/subAssessments
   architecture review:
     type: UNKNOWN
@@ -8518,7 +8518,7 @@ subAssessments:
 subscriptionFeatureRegistrations:
   path: Microsoft.ADHybridHealthService/subscriptionFeatureRegistrations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/subscriptionFeatureRegistrations
   architecture review:
     type: UNKNOWN
@@ -8535,7 +8535,7 @@ subscriptionFeatureRegistrations:
 subscriptions:
   path: Microsoft.ADHybridHealthService/subscriptions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/subscriptions
   architecture review:
     type: UNKNOWN
@@ -8552,7 +8552,7 @@ subscriptions:
 subscriptionsStatus:
   path: Microsoft.ADHybridHealthService/subscriptionsStatus
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/subscriptionsStatus
   architecture review:
     type: UNKNOWN
@@ -8569,7 +8569,7 @@ subscriptionsStatus:
 supportProviders:
   path: Microsoft.ADHybridHealthService/supportProviders
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/supportProviders
   architecture review:
     type: UNKNOWN
@@ -8586,7 +8586,7 @@ supportProviders:
 supporttickets:
   path: Microsoft.ADHybridHealthService/supporttickets
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/supporttickets
   architecture review:
     type: UNKNOWN
@@ -8603,7 +8603,7 @@ supporttickets:
 suppressions:
   path: Microsoft.ADHybridHealthService/suppressions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/suppressions
   architecture review:
     type: UNKNOWN
@@ -8620,7 +8620,7 @@ suppressions:
 systemTopics:
   path: Microsoft.ADHybridHealthService/systemTopics
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/systemTopics
   architecture review:
     type: UNKNOWN
@@ -8637,7 +8637,7 @@ systemTopics:
 tags:
   path: Microsoft.ADHybridHealthService/tags
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/tags
   architecture review:
     type: UNKNOWN
@@ -8654,7 +8654,7 @@ tags:
 tasks:
   path: Microsoft.ADHybridHealthService/tasks
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/tasks
   architecture review:
     type: UNKNOWN
@@ -8671,7 +8671,7 @@ tasks:
 tenantBackfillStatus:
   path: Microsoft.ADHybridHealthService/tenantBackfillStatus
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/tenantBackfillStatus
   architecture review:
     type: UNKNOWN
@@ -8688,7 +8688,7 @@ tenantBackfillStatus:
 tenants:
   path: Microsoft.ADHybridHealthService/tenants
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/tenants
   architecture review:
     type: UNKNOWN
@@ -8705,7 +8705,7 @@ tenants:
 topLevelDomains:
   path: Microsoft.ADHybridHealthService/topLevelDomains
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/topLevelDomains
   architecture review:
     type: UNKNOWN
@@ -8722,7 +8722,7 @@ topLevelDomains:
 topicTypes:
   path: Microsoft.ADHybridHealthService/topicTypes
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/topicTypes
   architecture review:
     type: UNKNOWN
@@ -8739,7 +8739,7 @@ topicTypes:
 topics:
   path: Microsoft.ADHybridHealthService/topics
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/topics
   architecture review:
     type: UNKNOWN
@@ -8756,7 +8756,7 @@ topics:
 topologies:
   path: Microsoft.ADHybridHealthService/topologies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/topologies
   architecture review:
     type: UNKNOWN
@@ -8773,7 +8773,7 @@ topologies:
 topology:
   path: Microsoft.ADHybridHealthService/topology
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/topology
   architecture review:
     type: UNKNOWN
@@ -8790,7 +8790,7 @@ topology:
 trafficManagerGeographicHierarchies:
   path: Microsoft.ADHybridHealthService/trafficManagerGeographicHierarchies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/trafficManagerGeographicHierarchies
   architecture review:
     type: UNKNOWN
@@ -8807,7 +8807,7 @@ trafficManagerGeographicHierarchies:
 trafficManagerUserMetricsKeys:
   path: Microsoft.ADHybridHealthService/trafficManagerUserMetricsKeys
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/trafficManagerUserMetricsKeys
   architecture review:
     type: UNKNOWN
@@ -8824,7 +8824,7 @@ trafficManagerUserMetricsKeys:
 trafficmanagerprofiles:
   path: Microsoft.ADHybridHealthService/trafficmanagerprofiles
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/trafficmanagerprofiles
   architecture review:
     type: UNKNOWN
@@ -8841,7 +8841,7 @@ trafficmanagerprofiles:
 transactions:
   path: Microsoft.ADHybridHealthService/transactions
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/transactions
   architecture review:
     type: UNKNOWN
@@ -8858,7 +8858,7 @@ transactions:
 transfers:
   path: Microsoft.ADHybridHealthService/transfers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/transfers
   architecture review:
     type: UNKNOWN
@@ -8875,7 +8875,7 @@ transfers:
 updateCommunicationPreference:
   path: Microsoft.ADHybridHealthService/updateCommunicationPreference
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/updateCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -8892,7 +8892,7 @@ updateCommunicationPreference:
 updates:
   path: Microsoft.ADHybridHealthService/updates
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/updates
   architecture review:
     type: UNKNOWN
@@ -8909,7 +8909,7 @@ updates:
 usages:
   path: Microsoft.ADHybridHealthService/usages
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/usages
   architecture review:
     type: UNKNOWN
@@ -8926,7 +8926,7 @@ usages:
 userAssignedIdentities:
   path: Microsoft.ADHybridHealthService/userAssignedIdentities
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/userAssignedIdentities
   architecture review:
     type: UNKNOWN
@@ -8943,7 +8943,7 @@ userAssignedIdentities:
 userSettings:
   path: Microsoft.ADHybridHealthService/userSettings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/userSettings
   architecture review:
     type: UNKNOWN
@@ -8960,7 +8960,7 @@ userSettings:
 users:
   path: Microsoft.ADHybridHealthService/users
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/users
   architecture review:
     type: UNKNOWN
@@ -8977,7 +8977,7 @@ users:
 validate:
   path: Microsoft.ADHybridHealthService/validate
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/validate
   architecture review:
     type: UNKNOWN
@@ -8994,7 +8994,7 @@ validate:
 validateAddress:
   path: Microsoft.ADHybridHealthService/validateAddress
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/validateAddress
   architecture review:
     type: UNKNOWN
@@ -9011,7 +9011,7 @@ validateAddress:
 validateCertificateRegistrationInformation:
   path: Microsoft.ADHybridHealthService/validateCertificateRegistrationInformation
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/validateCertificateRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9028,7 +9028,7 @@ validateCertificateRegistrationInformation:
 validateDomainRegistrationInformation:
   path: Microsoft.ADHybridHealthService/validateDomainRegistrationInformation
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/validateDomainRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9045,7 +9045,7 @@ validateDomainRegistrationInformation:
 validateProbe:
   path: Microsoft.ADHybridHealthService/validateProbe
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/validateProbe
   architecture review:
     type: UNKNOWN
@@ -9062,7 +9062,7 @@ validateProbe:
 validateReservationOrder:
   path: Microsoft.ADHybridHealthService/validateReservationOrder
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/validateReservationOrder
   architecture review:
     type: UNKNOWN
@@ -9079,7 +9079,7 @@ validateReservationOrder:
 validateServiceName:
   path: Microsoft.ADHybridHealthService/validateServiceName
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/validateServiceName
   architecture review:
     type: UNKNOWN
@@ -9096,7 +9096,7 @@ validateServiceName:
 validateSubscriptionMoveAvailability:
   path: Microsoft.ADHybridHealthService/validateSubscriptionMoveAvailability
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/validateSubscriptionMoveAvailability
   architecture review:
     type: UNKNOWN
@@ -9113,7 +9113,7 @@ validateSubscriptionMoveAvailability:
 vaults:
   path: Microsoft.ADHybridHealthService/vaults
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/vaults
   architecture review:
     type: UNKNOWN
@@ -9130,7 +9130,7 @@ vaults:
 verifyHostingEnvironmentVnet:
   path: Microsoft.ADHybridHealthService/verifyHostingEnvironmentVnet
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/verifyHostingEnvironmentVnet
   architecture review:
     type: UNKNOWN
@@ -9147,7 +9147,7 @@ verifyHostingEnvironmentVnet:
 views:
   path: Microsoft.ADHybridHealthService/views
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/views
   architecture review:
     type: UNKNOWN
@@ -9164,7 +9164,7 @@ views:
 virtualClusters:
   path: Microsoft.ADHybridHealthService/virtualClusters
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/virtualClusters
   architecture review:
     type: UNKNOWN
@@ -9181,7 +9181,7 @@ virtualClusters:
 virtualHubs:
   path: Microsoft.ADHybridHealthService/virtualHubs
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/virtualHubs
   architecture review:
     type: UNKNOWN
@@ -9198,7 +9198,7 @@ virtualHubs:
 virtualMachineScaleSets:
   path: Microsoft.ADHybridHealthService/virtualMachineScaleSets
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/virtualMachineScaleSets
   architecture review:
     type: UNKNOWN
@@ -9215,7 +9215,7 @@ virtualMachineScaleSets:
 virtualMachines:
   path: Microsoft.ADHybridHealthService/virtualMachines
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/virtualMachines
   architecture review:
     type: UNKNOWN
@@ -9232,7 +9232,7 @@ virtualMachines:
 virtualNetworkGateways:
   path: Microsoft.ADHybridHealthService/virtualNetworkGateways
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/virtualNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -9249,7 +9249,7 @@ virtualNetworkGateways:
 virtualNetworkTaps:
   path: Microsoft.ADHybridHealthService/virtualNetworkTaps
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/virtualNetworkTaps
   architecture review:
     type: UNKNOWN
@@ -9266,7 +9266,7 @@ virtualNetworkTaps:
 virtualNetworks:
   path: Microsoft.ADHybridHealthService/virtualNetworks
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/virtualNetworks
   architecture review:
     type: UNKNOWN
@@ -9283,7 +9283,7 @@ virtualNetworks:
 virtualRouters:
   path: Microsoft.ADHybridHealthService/virtualRouters
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/virtualRouters
   architecture review:
     type: UNKNOWN
@@ -9300,7 +9300,7 @@ virtualRouters:
 virtualWans:
   path: Microsoft.ADHybridHealthService/virtualWans
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/virtualWans
   architecture review:
     type: UNKNOWN
@@ -9317,7 +9317,7 @@ virtualWans:
 vmImages:
   path: Microsoft.ADHybridHealthService/vmImages
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/vmImages
   architecture review:
     type: UNKNOWN
@@ -9334,7 +9334,7 @@ vmImages:
 vmInsightsOnboardingStatuses:
   path: Microsoft.ADHybridHealthService/vmInsightsOnboardingStatuses
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/vmInsightsOnboardingStatuses
   architecture review:
     type: UNKNOWN
@@ -9351,7 +9351,7 @@ vmInsightsOnboardingStatuses:
 volumes:
   path: Microsoft.ADHybridHealthService/volumes
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/volumes
   architecture review:
     type: UNKNOWN
@@ -9368,7 +9368,7 @@ volumes:
 vpnGateways:
   path: Microsoft.ADHybridHealthService/vpnGateways
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/vpnGateways
   architecture review:
     type: UNKNOWN
@@ -9385,7 +9385,7 @@ vpnGateways:
 vpnServerConfigurations:
   path: Microsoft.ADHybridHealthService/vpnServerConfigurations
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/vpnServerConfigurations
   architecture review:
     type: UNKNOWN
@@ -9402,7 +9402,7 @@ vpnServerConfigurations:
 vpnSites:
   path: Microsoft.ADHybridHealthService/vpnSites
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/vpnSites
   architecture review:
     type: UNKNOWN
@@ -9419,7 +9419,7 @@ vpnSites:
 watchers:
   path: Microsoft.ADHybridHealthService/watchers
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/watchers
   architecture review:
     type: UNKNOWN
@@ -9436,7 +9436,7 @@ watchers:
 webApplicationFirewallPolicies:
   path: Microsoft.ADHybridHealthService/webApplicationFirewallPolicies
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/webApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -9453,7 +9453,7 @@ webApplicationFirewallPolicies:
 webServices:
   path: Microsoft.ADHybridHealthService/webServices
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/webServices
   architecture review:
     type: UNKNOWN
@@ -9470,7 +9470,7 @@ webServices:
 webtests:
   path: Microsoft.ADHybridHealthService/webtests
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/webtests
   architecture review:
     type: UNKNOWN
@@ -9487,7 +9487,7 @@ webtests:
 workbooks:
   path: Microsoft.ADHybridHealthService/workbooks
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/workbooks
   architecture review:
     type: UNKNOWN
@@ -9504,7 +9504,7 @@ workbooks:
 workbooktemplates:
   path: Microsoft.ADHybridHealthService/workbooktemplates
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/workbooktemplates
   architecture review:
     type: UNKNOWN
@@ -9521,7 +9521,7 @@ workbooktemplates:
 workflows:
   path: Microsoft.ADHybridHealthService/workflows
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/workflows
   architecture review:
     type: UNKNOWN
@@ -9538,7 +9538,7 @@ workflows:
 workspaceCollections:
   path: Microsoft.ADHybridHealthService/workspaceCollections
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/workspaceCollections
   architecture review:
     type: UNKNOWN
@@ -9555,7 +9555,7 @@ workspaceCollections:
 workspaceSettings:
   path: Microsoft.ADHybridHealthService/workspaceSettings
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/workspaceSettings
   architecture review:
     type: UNKNOWN
@@ -9572,7 +9572,7 @@ workspaceSettings:
 workspaces:
   path: Microsoft.ADHybridHealthService/workspaces
   description: UNKNOWN
-  status: ADOPT
+  status: HOLD
   url: Microsoft.ADHybridHealthService/workspaces
   architecture review:
     type: UNKNOWN

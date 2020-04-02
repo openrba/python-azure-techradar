@@ -1,5 +1,0 @@
-[
-    "Microsoft.Network/storageAccounts/services/diagnosticSettings",
-    "Microsoft.Network/storageAccounts/services/metricDefinitions",
-    "Microsoft.Network/storageAccounts/services/metrics"
-]

@@ -1,8 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/managedInstances/databases/backupLongTermRetentionPolicies",
-    "Microsoft.DBforMariaDB/managedInstances/databases/backupShortTermRetentionPolicies",
-    "Microsoft.DBforMariaDB/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
-    "Microsoft.DBforMariaDB/managedInstances/databases/securityAlertPolicies",
-    "Microsoft.DBforMariaDB/managedInstances/databases/vulnerabilityAssessments",
-    "Microsoft.DBforMariaDB/managedInstances/databases/vulnerabilityAssessments/rules/baselines"
-]

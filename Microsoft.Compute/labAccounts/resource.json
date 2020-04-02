@@ -1,6 +1,0 @@
-[
-    "Microsoft.Compute/labAccounts/galleryImages",
-    "Microsoft.Compute/labAccounts/labs",
-    "Microsoft.Compute/labAccounts/labs/environmentSettings",
-    "Microsoft.Compute/labAccounts/labs/users"
-]

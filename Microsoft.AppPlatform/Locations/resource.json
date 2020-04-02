@@ -1,7 +1,0 @@
-[
-    "Microsoft.AppPlatform/Locations/OperationStatuses",
-    "Microsoft.AppPlatform/Locations/OperationTypes",
-    "Microsoft.AppPlatform/Locations/availabilityGroupListenerOperationResults",
-    "Microsoft.AppPlatform/Locations/sqlVirtualMachineGroupOperationResults",
-    "Microsoft.AppPlatform/Locations/sqlVirtualMachineOperationResults"
-]

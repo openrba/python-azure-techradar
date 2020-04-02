@@ -1,7 +1,0 @@
-[
-    "Microsoft.Network/ddosProtectionPlans/provisioningState",
-    "Microsoft.Network/ddosProtectionPlans/resourceGuid",
-    "Microsoft.Network/ddosProtectionPlans/virtualNetworks",
-    "Microsoft.Network/ddosProtectionPlans/virtualNetworks[*]",
-    "Microsoft.Network/ddosProtectionPlans/virtualNetworks[*].id"
-]

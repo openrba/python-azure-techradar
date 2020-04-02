@@ -1,6 +1,0 @@
-[
-    "Microsoft.ApiManagement/service/apis/releases/apiId",
-    "Microsoft.ApiManagement/service/apis/releases/createdDateTime",
-    "Microsoft.ApiManagement/service/apis/releases/notes",
-    "Microsoft.ApiManagement/service/apis/releases/updatedDateTime"
-]

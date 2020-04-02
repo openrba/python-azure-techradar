@@ -1,8 +1,0 @@
-[
-    "Microsoft.AlertsManagement/Vaults/backupFabrics/backupProtectionIntent",
-    "Microsoft.AlertsManagement/Vaults/backupFabrics/protectionContainers",
-    "Microsoft.AlertsManagement/Vaults/backupFabrics/protectionContainers/protectedItems",
-    "Microsoft.AlertsManagement/Vaults/backupPolicies",
-    "Microsoft.AlertsManagement/Vaults/backupstorageconfig",
-    "Microsoft.AlertsManagement/Vaults/extendedInformation"
-]

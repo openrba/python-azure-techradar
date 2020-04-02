@@ -1,7 +1,0 @@
-[
-    "Microsoft.AppConfiguration/labs/users/disks",
-    "Microsoft.AppConfiguration/labs/users/environments",
-    "Microsoft.AppConfiguration/labs/users/secrets",
-    "Microsoft.AppConfiguration/labs/users/serviceFabrics",
-    "Microsoft.AppConfiguration/labs/users/serviceFabrics/schedules"
-]

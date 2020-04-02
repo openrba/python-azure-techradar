@@ -1,6 +1,0 @@
-[
-    "Microsoft.Advisor/networkWatchers/connectionMonitors",
-    "Microsoft.Advisor/networkWatchers/flowLogs",
-    "Microsoft.Advisor/networkWatchers/packetCaptures",
-    "Microsoft.Advisor/networkWatchers/pingMeshes"
-]

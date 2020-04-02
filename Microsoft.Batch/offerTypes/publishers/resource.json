@@ -1,7 +1,0 @@
-[
-    "Microsoft.Batch/offerTypes/publishers/offers",
-    "Microsoft.Batch/offerTypes/publishers/offers/plans",
-    "Microsoft.Batch/offerTypes/publishers/offers/plans/agreements",
-    "Microsoft.Batch/offerTypes/publishers/offers/plans/configs",
-    "Microsoft.Batch/offerTypes/publishers/offers/plans/configs/importImage"
-]

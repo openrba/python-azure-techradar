@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/ExternalSubscriptions/Alerts",
-    "Microsoft.DBforMariaDB/ExternalSubscriptions/Dimensions",
-    "Microsoft.DBforMariaDB/ExternalSubscriptions/Forecast",
-    "Microsoft.DBforMariaDB/ExternalSubscriptions/Query"
-]

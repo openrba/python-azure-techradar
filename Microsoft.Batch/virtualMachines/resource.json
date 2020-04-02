@@ -1,6 +1,0 @@
-[
-    "Microsoft.Batch/virtualMachines/diagnosticSettings",
-    "Microsoft.Batch/virtualMachines/extensions",
-    "Microsoft.Batch/virtualMachines/metricDefinitions",
-    "Microsoft.Batch/virtualMachines/metrics"
-]

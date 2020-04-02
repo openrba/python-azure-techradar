@@ -1,5 +1,0 @@
-[
-    "Microsoft.AppConfiguration/registries/buildTasks/listSourceRepositoryProperties",
-    "Microsoft.AppConfiguration/registries/buildTasks/steps",
-    "Microsoft.AppConfiguration/registries/buildTasks/steps/listBuildArguments"
-]

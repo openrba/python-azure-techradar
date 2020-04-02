@@ -1,5 +1,0 @@
-[
-    "Microsoft.Advisor/databaseAccounts/gremlinDatabases/graphs",
-    "Microsoft.Advisor/databaseAccounts/gremlinDatabases/graphs/throughputSettings",
-    "Microsoft.Advisor/databaseAccounts/gremlinDatabases/throughputSettings"
-]

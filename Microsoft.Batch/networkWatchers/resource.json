@@ -1,6 +1,0 @@
-[
-    "Microsoft.Batch/networkWatchers/connectionMonitors",
-    "Microsoft.Batch/networkWatchers/flowLogs",
-    "Microsoft.Batch/networkWatchers/packetCaptures",
-    "Microsoft.Batch/networkWatchers/pingMeshes"
-]

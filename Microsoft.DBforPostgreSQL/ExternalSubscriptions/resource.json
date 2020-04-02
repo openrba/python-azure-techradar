@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/ExternalSubscriptions/Alerts",
-    "Microsoft.DBforPostgreSQL/ExternalSubscriptions/Dimensions",
-    "Microsoft.DBforPostgreSQL/ExternalSubscriptions/Forecast",
-    "Microsoft.DBforPostgreSQL/ExternalSubscriptions/Query"
-]

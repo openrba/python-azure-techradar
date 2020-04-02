@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/virtualMachines/diagnosticSettings",
-    "Microsoft.DBforPostgreSQL/virtualMachines/extensions",
-    "Microsoft.DBforPostgreSQL/virtualMachines/metricDefinitions",
-    "Microsoft.DBforPostgreSQL/virtualMachines/metrics"
-]

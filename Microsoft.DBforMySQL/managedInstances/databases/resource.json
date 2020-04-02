@@ -1,8 +1,0 @@
-[
-    "Microsoft.DBforMySQL/managedInstances/databases/backupLongTermRetentionPolicies",
-    "Microsoft.DBforMySQL/managedInstances/databases/backupShortTermRetentionPolicies",
-    "Microsoft.DBforMySQL/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
-    "Microsoft.DBforMySQL/managedInstances/databases/securityAlertPolicies",
-    "Microsoft.DBforMySQL/managedInstances/databases/vulnerabilityAssessments",
-    "Microsoft.DBforMySQL/managedInstances/databases/vulnerabilityAssessments/rules/baselines"
-]

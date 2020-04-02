@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMySQL/databaseAccounts/gremlinDatabases/graphs",
-    "Microsoft.DBforMySQL/databaseAccounts/gremlinDatabases/graphs/throughputSettings",
-    "Microsoft.DBforMySQL/databaseAccounts/gremlinDatabases/throughputSettings"
-]

@@ -1,6 +1,0 @@
-[
-    "Microsoft.Advisor/virtualMachines/diagnosticSettings",
-    "Microsoft.Advisor/virtualMachines/extensions",
-    "Microsoft.Advisor/virtualMachines/metricDefinitions",
-    "Microsoft.Advisor/virtualMachines/metrics"
-]

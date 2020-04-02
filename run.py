@@ -95,7 +95,7 @@ def findChildren(current_dict,current_data,current_path,search,index):
                 with open(current_path + key + '/resource.json', 'w+') as f:
                     json.dump(resource_list, f, indent=4)
             
-            processPath(current_path+key+'/',key,(index+1),current_status)
+            processPath(current_path+key+'/',key,(index+1),'HOLD')
 
 def processPath(path,search,index,default):
 # Gets the resources and the custom and combines them together

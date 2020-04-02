@@ -1,5 +1,0 @@
-[
-    "Microsoft.AlertsManagement/accounts/sharesubscriptions/consumerSourceDataSets",
-    "Microsoft.AlertsManagement/accounts/sharesubscriptions/datasetmappings",
-    "Microsoft.AlertsManagement/accounts/sharesubscriptions/triggers"
-]

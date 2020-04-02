@@ -1,8 +1,0 @@
-[
-    "Microsoft.DBforMySQL/factories/dataflows",
-    "Microsoft.DBforMySQL/factories/datasets",
-    "Microsoft.DBforMySQL/factories/integrationRuntimes",
-    "Microsoft.DBforMySQL/factories/linkedservices",
-    "Microsoft.DBforMySQL/factories/pipelines",
-    "Microsoft.DBforMySQL/factories/triggers"
-]

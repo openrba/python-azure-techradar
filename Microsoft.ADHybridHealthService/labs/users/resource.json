@@ -1,7 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/labs/users/disks",
-    "Microsoft.ADHybridHealthService/labs/users/environments",
-    "Microsoft.ADHybridHealthService/labs/users/secrets",
-    "Microsoft.ADHybridHealthService/labs/users/serviceFabrics",
-    "Microsoft.ADHybridHealthService/labs/users/serviceFabrics/schedules"
-]

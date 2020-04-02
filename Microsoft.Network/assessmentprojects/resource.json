@@ -1,6 +1,0 @@
-[
-    "Microsoft.Network/assessmentprojects/groups",
-    "Microsoft.Network/assessmentprojects/groups/assessments",
-    "Microsoft.Network/assessmentprojects/hypervcollectors",
-    "Microsoft.Network/assessmentprojects/vmwarecollectors"
-]

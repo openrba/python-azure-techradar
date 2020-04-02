@@ -38,11 +38,11 @@ Microsoft.ADHybridHealthService:
     notes: There are no security notes for this service at this time.
 Microsoft.Addons:
   path: Microsoft.Addons
-  description: UNKNOWN
+  description: Add additonal support plans from other providers to your Azure resources.
   status: HOLD
   url: Microsoft.Addons
   architecture review:
-    type: UNKNOWN
+    type: SAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -293,15 +293,19 @@ Microsoft.Batch:
     notes: There are no security notes for this service at this time.
 Microsoft.BatchAI:
   path: Microsoft.BatchAI
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Batch AI is designed to help you run large AI training and testing
+    workloads in the cloud. Batch AI supports multiple training toolkits such as Tensorflow,
+    CNTK, Chainer, among others, as well as the ability to deploy your own software
+    stacks at scale.
+  status: REJECT
   url: Microsoft.BatchAI
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: PAAS
+    status: REVIEWED
+    start: 1/1/2020
+    end: 1/1/2020
+    notes: Azure Batch AI has been retired. You can no longer create new resources
+      of this service.
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
@@ -310,13 +314,15 @@ Microsoft.BatchAI:
     notes: There are no security notes for this service at this time.
 Microsoft.Billing:
   path: Microsoft.Billing
-  description: UNKNOWN
-  status: HOLD
+  description: Azure Cost Management and Billing help you understand Azure billing,
+    manage your account and subscriptions, monitor and control Azure spending and
+    optimize resource use.
+  status: ASSESS
   url: Microsoft.Billing
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: SAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -327,13 +333,14 @@ Microsoft.Billing:
     notes: There are no security notes for this service at this time.
 Microsoft.BingMaps:
   path: Microsoft.BingMaps
-  description: UNKNOWN
-  status: HOLD
+  description: The Bing Maps Platform offers a suite of controls and service APIs
+    that you can use to add Bing Maps or geospatial services to your application.
+  status: ASSESS
   url: Microsoft.BingMaps
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
+    type: SAAS
+    status: UNDER REVIEW
+    start: 3/1/2020
     end: NOT ENDED
     notes: There are no architectural notes for this service at this time.
   security review:
@@ -344,11 +351,13 @@ Microsoft.BingMaps:
     notes: There are no security notes for this service at this time.
 Microsoft.Blockchain:
   path: Microsoft.Blockchain
-  description: UNKNOWN
+  description: Azure Blockchain Workbench Preview is a collection of Azure services
+    and capabilities designed to help you create and deploy blockchain applications
+    to share business processes and data with other organizations.
   status: HOLD
   url: Microsoft.Blockchain
   architecture review:
-    type: UNKNOWN
+    type: PAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -361,11 +370,12 @@ Microsoft.Blockchain:
     notes: There are no security notes for this service at this time.
 Microsoft.BlockchainTokens:
   path: Microsoft.BlockchainTokens
-  description: UNKNOWN
+  description: Azure Blockchain Tokens makes deploying and managing standard tokens
+    easier than ever.
   status: HOLD
   url: Microsoft.BlockchainTokens
   architecture review:
-    type: UNKNOWN
+    type: PAAS
     status: NOT REVIEWED
     start: NOT STARTED
     end: NOT ENDED
@@ -633,11 +643,11 @@ Microsoft.Commerce:
     notes: There are no security notes for this service at this time.
 Microsoft.Compute:
   path: Microsoft.Compute
-  description: UNKNOWN
+  description: Azure compute provides the infrastructure you need to run your apps.
   status: TRIAL
   url: Microsoft.Compute
   architecture review:
-    type: IAAAS
+    type: IAAS
     status: REVIEWED
     start: 3/1/2020
     end: NOT ENDED
@@ -1809,7 +1819,8 @@ Microsoft.NetApp:
     notes: There are no security notes for this service at this time.
 Microsoft.Network:
   path: Microsoft.Network
-  description: UNKNOWN
+  description: Azure Virtual Network (VNet) is the fundamental building block for
+    your private network in Azure.
   status: TRIAL
   url: Microsoft.Network
   architecture review:

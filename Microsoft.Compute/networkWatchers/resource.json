@@ -1,6 +1,0 @@
-[
-    "Microsoft.Compute/networkWatchers/connectionMonitors",
-    "Microsoft.Compute/networkWatchers/flowLogs",
-    "Microsoft.Compute/networkWatchers/packetCaptures",
-    "Microsoft.Compute/networkWatchers/pingMeshes"
-]

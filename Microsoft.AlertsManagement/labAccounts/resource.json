@@ -1,6 +1,0 @@
-[
-    "Microsoft.AlertsManagement/labAccounts/galleryImages",
-    "Microsoft.AlertsManagement/labAccounts/labs",
-    "Microsoft.AlertsManagement/labAccounts/labs/environmentSettings",
-    "Microsoft.AlertsManagement/labAccounts/labs/users"
-]

@@ -1,5 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/Vaults/backupFabrics/backupProtectionIntent",
-    "Microsoft.ADHybridHealthService/Vaults/backupFabrics/protectionContainers",
-    "Microsoft.ADHybridHealthService/Vaults/backupFabrics/protectionContainers/protectedItems"
-]

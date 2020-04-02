@@ -1,8 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/databaseAccounts/sqlDatabases/containers",
-    "Microsoft.ADHybridHealthService/databaseAccounts/sqlDatabases/containers/storedProcedures",
-    "Microsoft.ADHybridHealthService/databaseAccounts/sqlDatabases/containers/throughputSettings",
-    "Microsoft.ADHybridHealthService/databaseAccounts/sqlDatabases/containers/triggers",
-    "Microsoft.ADHybridHealthService/databaseAccounts/sqlDatabases/containers/userDefinedFunctions",
-    "Microsoft.ADHybridHealthService/databaseAccounts/sqlDatabases/throughputSettings"
-]

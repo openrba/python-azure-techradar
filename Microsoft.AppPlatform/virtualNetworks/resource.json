@@ -1,5 +1,0 @@
-[
-    "Microsoft.AppPlatform/virtualNetworks/remoteVirtualNetworkPeeringProxies",
-    "Microsoft.AppPlatform/virtualNetworks/subnets",
-    "Microsoft.AppPlatform/virtualNetworks/virtualNetworkPeerings"
-]

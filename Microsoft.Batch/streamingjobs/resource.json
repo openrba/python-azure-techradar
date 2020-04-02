@@ -1,6 +1,0 @@
-[
-    "Microsoft.Batch/streamingjobs/functions",
-    "Microsoft.Batch/streamingjobs/inputs",
-    "Microsoft.Batch/streamingjobs/outputs",
-    "Microsoft.Batch/streamingjobs/transformations"
-]

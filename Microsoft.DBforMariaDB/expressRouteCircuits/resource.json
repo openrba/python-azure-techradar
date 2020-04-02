@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/expressRouteCircuits/authorizations",
-    "Microsoft.DBforMariaDB/expressRouteCircuits/peerings",
-    "Microsoft.DBforMariaDB/expressRouteCircuits/peerings/connections"
-]

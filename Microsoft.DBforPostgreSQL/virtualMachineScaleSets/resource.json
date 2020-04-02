@@ -1,7 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/virtualMachineScaleSets/extensions",
-    "Microsoft.DBforPostgreSQL/virtualMachineScaleSets/networkInterfaces",
-    "Microsoft.DBforPostgreSQL/virtualMachineScaleSets/publicIPAddresses",
-    "Microsoft.DBforPostgreSQL/virtualMachineScaleSets/virtualMachines",
-    "Microsoft.DBforPostgreSQL/virtualMachineScaleSets/virtualMachines/networkInterfaces"
-]

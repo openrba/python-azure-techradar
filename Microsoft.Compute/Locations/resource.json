@@ -1,7 +1,0 @@
-[
-    "Microsoft.Compute/Locations/OperationStatuses",
-    "Microsoft.Compute/Locations/OperationTypes",
-    "Microsoft.Compute/Locations/availabilityGroupListenerOperationResults",
-    "Microsoft.Compute/Locations/sqlVirtualMachineGroupOperationResults",
-    "Microsoft.Compute/Locations/sqlVirtualMachineOperationResults"
-]

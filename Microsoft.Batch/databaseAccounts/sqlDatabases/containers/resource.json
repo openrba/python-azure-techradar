@@ -1,6 +1,0 @@
-[
-    "Microsoft.Batch/databaseAccounts/sqlDatabases/containers/storedProcedures",
-    "Microsoft.Batch/databaseAccounts/sqlDatabases/containers/throughputSettings",
-    "Microsoft.Batch/databaseAccounts/sqlDatabases/containers/triggers",
-    "Microsoft.Batch/databaseAccounts/sqlDatabases/containers/userDefinedFunctions"
-]

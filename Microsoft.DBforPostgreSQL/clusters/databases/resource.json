@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/clusters/databases/dataconnections",
-    "Microsoft.DBforPostgreSQL/clusters/databases/eventhubconnections",
-    "Microsoft.DBforPostgreSQL/clusters/databases/principalassignments"
-]

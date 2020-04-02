@@ -1,5 +1,0 @@
-[
-    "Microsoft.Batch/registries/webhooks/getCallbackConfig",
-    "Microsoft.Batch/registries/webhooks/listEvents",
-    "Microsoft.Batch/registries/webhooks/ping"
-]

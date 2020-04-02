@@ -1,8 +1,0 @@
-[
-    "Microsoft.AppConfiguration/Vaults/backupFabrics/backupProtectionIntent",
-    "Microsoft.AppConfiguration/Vaults/backupFabrics/protectionContainers",
-    "Microsoft.AppConfiguration/Vaults/backupFabrics/protectionContainers/protectedItems",
-    "Microsoft.AppConfiguration/Vaults/backupPolicies",
-    "Microsoft.AppConfiguration/Vaults/backupstorageconfig",
-    "Microsoft.AppConfiguration/Vaults/extendedInformation"
-]

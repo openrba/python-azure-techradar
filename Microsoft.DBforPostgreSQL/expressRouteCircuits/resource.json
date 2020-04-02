@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/expressRouteCircuits/authorizations",
-    "Microsoft.DBforPostgreSQL/expressRouteCircuits/peerings",
-    "Microsoft.DBforPostgreSQL/expressRouteCircuits/peerings/connections"
-]

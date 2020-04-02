@@ -1,9 +1,0 @@
-[
-    "Microsoft.Network/billingAccounts/customers/billingPermissions",
-    "Microsoft.Network/billingAccounts/customers/billingSubscriptions",
-    "Microsoft.Network/billingAccounts/customers/initiateTransfer",
-    "Microsoft.Network/billingAccounts/customers/policies",
-    "Microsoft.Network/billingAccounts/customers/products",
-    "Microsoft.Network/billingAccounts/customers/transactions",
-    "Microsoft.Network/billingAccounts/customers/transfers"
-]

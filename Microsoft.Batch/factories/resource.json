@@ -1,8 +1,0 @@
-[
-    "Microsoft.Batch/factories/dataflows",
-    "Microsoft.Batch/factories/datasets",
-    "Microsoft.Batch/factories/integrationRuntimes",
-    "Microsoft.Batch/factories/linkedservices",
-    "Microsoft.Batch/factories/pipelines",
-    "Microsoft.Batch/factories/triggers"
-]

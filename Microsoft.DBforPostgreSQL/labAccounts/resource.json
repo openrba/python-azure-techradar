@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/labAccounts/galleryImages",
-    "Microsoft.DBforPostgreSQL/labAccounts/labs",
-    "Microsoft.DBforPostgreSQL/labAccounts/labs/environmentSettings",
-    "Microsoft.DBforPostgreSQL/labAccounts/labs/users"
-]

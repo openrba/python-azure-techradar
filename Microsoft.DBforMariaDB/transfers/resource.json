@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/transfers/acceptTransfer",
-    "Microsoft.DBforMariaDB/transfers/declineTransfer",
-    "Microsoft.DBforMariaDB/transfers/operationStatus",
-    "Microsoft.DBforMariaDB/transfers/validateTransfer"
-]

@@ -1,7 +1,0 @@
-[
-    "Microsoft.Compute/labs/users/disks",
-    "Microsoft.Compute/labs/users/environments",
-    "Microsoft.Compute/labs/users/secrets",
-    "Microsoft.Compute/labs/users/serviceFabrics",
-    "Microsoft.Compute/labs/users/serviceFabrics/schedules"
-]

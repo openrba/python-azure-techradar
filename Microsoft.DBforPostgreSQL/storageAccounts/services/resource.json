@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/storageAccounts/services/diagnosticSettings",
-    "Microsoft.DBforPostgreSQL/storageAccounts/services/metricDefinitions",
-    "Microsoft.DBforPostgreSQL/storageAccounts/services/metrics"
-]

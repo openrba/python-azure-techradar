@@ -1,7 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/storageSyncServices/registeredServers",
-    "Microsoft.ADHybridHealthService/storageSyncServices/syncGroups",
-    "Microsoft.ADHybridHealthService/storageSyncServices/syncGroups/cloudEndpoints",
-    "Microsoft.ADHybridHealthService/storageSyncServices/syncGroups/serverEndpoints",
-    "Microsoft.ADHybridHealthService/storageSyncServices/workflows"
-]

@@ -1,5 +1,0 @@
-[
-    "Microsoft.Advisor/registries/buildTasks/listSourceRepositoryProperties",
-    "Microsoft.Advisor/registries/buildTasks/steps",
-    "Microsoft.Advisor/registries/buildTasks/steps/listBuildArguments"
-]

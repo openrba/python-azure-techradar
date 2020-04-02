@@ -1,8 +1,0 @@
-[
-    "Microsoft.ApiManagement/Vaults/backupFabrics/backupProtectionIntent",
-    "Microsoft.ApiManagement/Vaults/backupFabrics/protectionContainers",
-    "Microsoft.ApiManagement/Vaults/backupFabrics/protectionContainers/protectedItems",
-    "Microsoft.ApiManagement/Vaults/backupPolicies",
-    "Microsoft.ApiManagement/Vaults/backupstorageconfig",
-    "Microsoft.ApiManagement/Vaults/extendedInformation"
-]

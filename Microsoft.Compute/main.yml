@@ -1,7 +1,7 @@
 AggregatedCost:
   path: Microsoft.Compute/AggregatedCost
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/AggregatedCost
   architecture review:
     type: UNKNOWN
@@ -18,7 +18,7 @@ AggregatedCost:
 Alerts:
   path: Microsoft.Compute/Alerts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Alerts
   architecture review:
     type: UNKNOWN
@@ -35,7 +35,7 @@ Alerts:
 AutoProvisioningSettings:
   path: Microsoft.Compute/AutoProvisioningSettings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/AutoProvisioningSettings
   architecture review:
     type: UNKNOWN
@@ -52,7 +52,7 @@ AutoProvisioningSettings:
 Balances:
   path: Microsoft.Compute/Balances
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Balances
   architecture review:
     type: UNKNOWN
@@ -69,7 +69,7 @@ Balances:
 BillingAccounts:
   path: Microsoft.Compute/BillingAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/BillingAccounts
   architecture review:
     type: UNKNOWN
@@ -86,7 +86,7 @@ BillingAccounts:
 Budgets:
   path: Microsoft.Compute/Budgets
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Budgets
   architecture review:
     type: UNKNOWN
@@ -103,7 +103,7 @@ Budgets:
 CdnWebApplicationFirewallManagedRuleSets:
   path: Microsoft.Compute/CdnWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/CdnWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -120,7 +120,7 @@ CdnWebApplicationFirewallManagedRuleSets:
 CdnWebApplicationFirewallPolicies:
   path: Microsoft.Compute/CdnWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/CdnWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -137,7 +137,7 @@ CdnWebApplicationFirewallPolicies:
 Charges:
   path: Microsoft.Compute/Charges
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Charges
   architecture review:
     type: UNKNOWN
@@ -154,7 +154,7 @@ Charges:
 CloudConnectors:
   path: Microsoft.Compute/CloudConnectors
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/CloudConnectors
   architecture review:
     type: UNKNOWN
@@ -171,7 +171,7 @@ CloudConnectors:
 Compliances:
   path: Microsoft.Compute/Compliances
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Compliances
   architecture review:
     type: UNKNOWN
@@ -188,7 +188,7 @@ Compliances:
 Components:
   path: Microsoft.Compute/Components
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Components
   architecture review:
     type: UNKNOWN
@@ -205,7 +205,7 @@ Components:
 Connectors:
   path: Microsoft.Compute/Connectors
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Connectors
   architecture review:
     type: UNKNOWN
@@ -222,7 +222,7 @@ Connectors:
 CostTags:
   path: Microsoft.Compute/CostTags
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/CostTags
   architecture review:
     type: UNKNOWN
@@ -239,7 +239,7 @@ CostTags:
 CreateSubscription:
   path: Microsoft.Compute/CreateSubscription
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/CreateSubscription
   architecture review:
     type: UNKNOWN
@@ -256,7 +256,7 @@ CreateSubscription:
 DataBoxEdgeDevices:
   path: Microsoft.Compute/DataBoxEdgeDevices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/DataBoxEdgeDevices
   architecture review:
     type: UNKNOWN
@@ -273,7 +273,7 @@ DataBoxEdgeDevices:
 Departments:
   path: Microsoft.Compute/Departments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Departments
   architecture review:
     type: UNKNOWN
@@ -290,7 +290,7 @@ Departments:
 DeviceServices:
   path: Microsoft.Compute/DeviceServices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/DeviceServices
   architecture review:
     type: UNKNOWN
@@ -307,7 +307,7 @@ DeviceServices:
 Dimensions:
   path: Microsoft.Compute/Dimensions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Dimensions
   architecture review:
     type: UNKNOWN
@@ -324,7 +324,7 @@ Dimensions:
 DomainServices:
   path: Microsoft.Compute/DomainServices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/DomainServices
   architecture review:
     type: UNKNOWN
@@ -341,7 +341,7 @@ DomainServices:
 EnrollmentAccounts:
   path: Microsoft.Compute/EnrollmentAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/EnrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -358,7 +358,7 @@ EnrollmentAccounts:
 Exports:
   path: Microsoft.Compute/Exports
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Exports
   architecture review:
     type: UNKNOWN
@@ -375,7 +375,7 @@ Exports:
 ExternalBillingAccounts:
   path: Microsoft.Compute/ExternalBillingAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ExternalBillingAccounts
   architecture review:
     type: UNKNOWN
@@ -392,7 +392,7 @@ ExternalBillingAccounts:
 ExternalSubscriptions:
   path: Microsoft.Compute/ExternalSubscriptions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ExternalSubscriptions
   architecture review:
     type: UNKNOWN
@@ -409,7 +409,7 @@ ExternalSubscriptions:
 Forecast:
   path: Microsoft.Compute/Forecast
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Forecast
   architecture review:
     type: UNKNOWN
@@ -426,7 +426,7 @@ Forecast:
 Forecasts:
   path: Microsoft.Compute/Forecasts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Forecasts
   architecture review:
     type: UNKNOWN
@@ -443,7 +443,7 @@ Forecasts:
 Graph:
   path: Microsoft.Compute/Graph
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Graph
   architecture review:
     type: UNKNOWN
@@ -460,7 +460,7 @@ Graph:
 HyperVSites:
   path: Microsoft.Compute/HyperVSites
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/HyperVSites
   architecture review:
     type: UNKNOWN
@@ -477,7 +477,7 @@ HyperVSites:
 Identities:
   path: Microsoft.Compute/Identities
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Identities
   architecture review:
     type: UNKNOWN
@@ -494,7 +494,7 @@ Identities:
 ImportSites:
   path: Microsoft.Compute/ImportSites
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ImportSites
   architecture review:
     type: UNKNOWN
@@ -511,7 +511,7 @@ ImportSites:
 InformationProtectionPolicies:
   path: Microsoft.Compute/InformationProtectionPolicies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/InformationProtectionPolicies
   architecture review:
     type: UNKNOWN
@@ -528,7 +528,7 @@ InformationProtectionPolicies:
 IoTApps:
   path: Microsoft.Compute/IoTApps
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/IoTApps
   architecture review:
     type: UNKNOWN
@@ -545,7 +545,7 @@ IoTApps:
 IotHubs:
   path: Microsoft.Compute/IotHubs
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/IotHubs
   architecture review:
     type: UNKNOWN
@@ -562,7 +562,7 @@ IotHubs:
 Locations:
   path: Microsoft.Compute/Locations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Locations
   architecture review:
     type: UNKNOWN
@@ -579,7 +579,7 @@ Locations:
 Marketplaces:
   path: Microsoft.Compute/Marketplaces
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Marketplaces
   architecture review:
     type: UNKNOWN
@@ -596,7 +596,7 @@ Marketplaces:
 Namespaces:
   path: Microsoft.Compute/Namespaces
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Namespaces
   architecture review:
     type: UNKNOWN
@@ -613,7 +613,7 @@ Namespaces:
 OperationResults:
   path: Microsoft.Compute/OperationResults
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/OperationResults
   architecture review:
     type: UNKNOWN
@@ -630,7 +630,7 @@ OperationResults:
 OperationStatus:
   path: Microsoft.Compute/OperationStatus
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/OperationStatus
   architecture review:
     type: UNKNOWN
@@ -647,7 +647,7 @@ OperationStatus:
 Operations:
   path: Microsoft.Compute/Operations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Operations
   architecture review:
     type: UNKNOWN
@@ -664,7 +664,7 @@ Operations:
 Pricesheets:
   path: Microsoft.Compute/Pricesheets
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Pricesheets
   architecture review:
     type: UNKNOWN
@@ -681,7 +681,7 @@ Pricesheets:
 ProvisioningServices:
   path: Microsoft.Compute/ProvisioningServices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ProvisioningServices
   architecture review:
     type: UNKNOWN
@@ -698,7 +698,7 @@ ProvisioningServices:
 Query:
   path: Microsoft.Compute/Query
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Query
   architecture review:
     type: UNKNOWN
@@ -715,7 +715,7 @@ Query:
 RateCard:
   path: Microsoft.Compute/RateCard
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/RateCard
   architecture review:
     type: UNKNOWN
@@ -732,7 +732,7 @@ RateCard:
 Redis:
   path: Microsoft.Compute/Redis
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Redis
   architecture review:
     type: UNKNOWN
@@ -749,7 +749,7 @@ Redis:
 Reportconfigs:
   path: Microsoft.Compute/Reportconfigs
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Reportconfigs
   architecture review:
     type: UNKNOWN
@@ -766,7 +766,7 @@ Reportconfigs:
 Reports:
   path: Microsoft.Compute/Reports
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Reports
   architecture review:
     type: UNKNOWN
@@ -783,7 +783,7 @@ Reports:
 ReservationDetails:
   path: Microsoft.Compute/ReservationDetails
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ReservationDetails
   architecture review:
     type: UNKNOWN
@@ -800,7 +800,7 @@ ReservationDetails:
 ReservationRecommendations:
   path: Microsoft.Compute/ReservationRecommendations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ReservationRecommendations
   architecture review:
     type: UNKNOWN
@@ -817,7 +817,7 @@ ReservationRecommendations:
 ReservationSummaries:
   path: Microsoft.Compute/ReservationSummaries
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ReservationSummaries
   architecture review:
     type: UNKNOWN
@@ -834,7 +834,7 @@ ReservationSummaries:
 ReservationTransactions:
   path: Microsoft.Compute/ReservationTransactions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ReservationTransactions
   architecture review:
     type: UNKNOWN
@@ -851,7 +851,7 @@ ReservationTransactions:
 ServerSites:
   path: Microsoft.Compute/ServerSites
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ServerSites
   architecture review:
     type: UNKNOWN
@@ -868,7 +868,7 @@ ServerSites:
 Settings:
   path: Microsoft.Compute/Settings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Settings
   architecture review:
     type: UNKNOWN
@@ -885,7 +885,7 @@ Settings:
 SignalR:
   path: Microsoft.Compute/SignalR
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/SignalR
   architecture review:
     type: UNKNOWN
@@ -902,7 +902,7 @@ SignalR:
 Spring:
   path: Microsoft.Compute/Spring
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Spring
   architecture review:
     type: UNKNOWN
@@ -919,7 +919,7 @@ Spring:
 SqlVirtualMachineGroups:
   path: Microsoft.Compute/SqlVirtualMachineGroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/SqlVirtualMachineGroups
   architecture review:
     type: UNKNOWN
@@ -936,7 +936,7 @@ SqlVirtualMachineGroups:
 SqlVirtualMachines:
   path: Microsoft.Compute/SqlVirtualMachines
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/SqlVirtualMachines
   architecture review:
     type: UNKNOWN
@@ -953,7 +953,7 @@ SqlVirtualMachines:
 SubscriptionDefinitions:
   path: Microsoft.Compute/SubscriptionDefinitions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/SubscriptionDefinitions
   architecture review:
     type: UNKNOWN
@@ -970,7 +970,7 @@ SubscriptionDefinitions:
 SubscriptionOperations:
   path: Microsoft.Compute/SubscriptionOperations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/SubscriptionOperations
   architecture review:
     type: UNKNOWN
@@ -987,7 +987,7 @@ SubscriptionOperations:
 Tags:
   path: Microsoft.Compute/Tags
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Tags
   architecture review:
     type: UNKNOWN
@@ -1004,7 +1004,7 @@ Tags:
 Terms:
   path: Microsoft.Compute/Terms
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Terms
   architecture review:
     type: UNKNOWN
@@ -1021,7 +1021,7 @@ Terms:
 UsageAggregates:
   path: Microsoft.Compute/UsageAggregates
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/UsageAggregates
   architecture review:
     type: UNKNOWN
@@ -1038,7 +1038,7 @@ UsageAggregates:
 UsageDetails:
   path: Microsoft.Compute/UsageDetails
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/UsageDetails
   architecture review:
     type: UNKNOWN
@@ -1055,7 +1055,7 @@ UsageDetails:
 VMwareSites:
   path: Microsoft.Compute/VMwareSites
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/VMwareSites
   architecture review:
     type: UNKNOWN
@@ -1072,7 +1072,7 @@ VMwareSites:
 Vaults:
   path: Microsoft.Compute/Vaults
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Vaults
   architecture review:
     type: UNKNOWN
@@ -1089,7 +1089,7 @@ Vaults:
 Views:
   path: Microsoft.Compute/Views
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Views
   architecture review:
     type: UNKNOWN
@@ -1106,7 +1106,7 @@ Views:
 VirtualMachineScaleSets:
   path: Microsoft.Compute/VirtualMachineScaleSets
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/VirtualMachineScaleSets
   architecture review:
     type: UNKNOWN
@@ -1123,7 +1123,7 @@ VirtualMachineScaleSets:
 Workspaces:
   path: Microsoft.Compute/Workspaces
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/Workspaces
   architecture review:
     type: UNKNOWN
@@ -1140,7 +1140,7 @@ Workspaces:
 aadsupportcases:
   path: Microsoft.Compute/aadsupportcases
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/aadsupportcases
   architecture review:
     type: UNKNOWN
@@ -1157,7 +1157,7 @@ aadsupportcases:
 account:
   path: Microsoft.Compute/account
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/account
   architecture review:
     type: UNKNOWN
@@ -1174,7 +1174,7 @@ account:
 accounts:
   path: Microsoft.Compute/accounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/accounts
   architecture review:
     type: UNKNOWN
@@ -1191,7 +1191,7 @@ accounts:
 actionRules:
   path: Microsoft.Compute/actionRules
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/actionRules
   architecture review:
     type: UNKNOWN
@@ -1208,7 +1208,7 @@ actionRules:
 actiongroups:
   path: Microsoft.Compute/actiongroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/actiongroups
   architecture review:
     type: UNKNOWN
@@ -1225,7 +1225,7 @@ actiongroups:
 activityLogAlerts:
   path: Microsoft.Compute/activityLogAlerts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/activityLogAlerts
   architecture review:
     type: UNKNOWN
@@ -1242,7 +1242,7 @@ activityLogAlerts:
 adaptiveNetworkHardenings:
   path: Microsoft.Compute/adaptiveNetworkHardenings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/adaptiveNetworkHardenings
   architecture review:
     type: UNKNOWN
@@ -1259,7 +1259,7 @@ adaptiveNetworkHardenings:
 addsservices:
   path: Microsoft.Compute/addsservices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/addsservices
   architecture review:
     type: UNKNOWN
@@ -1276,7 +1276,7 @@ addsservices:
 advancedThreatProtectionSettings:
   path: Microsoft.Compute/advancedThreatProtectionSettings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/advancedThreatProtectionSettings
   architecture review:
     type: UNKNOWN
@@ -1293,7 +1293,7 @@ advancedThreatProtectionSettings:
 agents:
   path: Microsoft.Compute/agents
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/agents
   architecture review:
     type: UNKNOWN
@@ -1310,7 +1310,7 @@ agents:
 aggregations:
   path: Microsoft.Compute/aggregations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/aggregations
   architecture review:
     type: UNKNOWN
@@ -1327,7 +1327,7 @@ aggregations:
 agreements:
   path: Microsoft.Compute/agreements
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/agreements
   architecture review:
     type: UNKNOWN
@@ -1344,7 +1344,7 @@ agreements:
 alertRuleTemplates:
   path: Microsoft.Compute/alertRuleTemplates
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/alertRuleTemplates
   architecture review:
     type: UNKNOWN
@@ -1361,7 +1361,7 @@ alertRuleTemplates:
 alertRules:
   path: Microsoft.Compute/alertRules
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/alertRules
   architecture review:
     type: UNKNOWN
@@ -1378,7 +1378,7 @@ alertRules:
 alertrules:
   path: Microsoft.Compute/alertrules
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/alertrules
   architecture review:
     type: UNKNOWN
@@ -1395,7 +1395,7 @@ alertrules:
 alerts:
   path: Microsoft.Compute/alerts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/alerts
   architecture review:
     type: UNKNOWN
@@ -1412,7 +1412,7 @@ alerts:
 alertsList:
   path: Microsoft.Compute/alertsList
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/alertsList
   architecture review:
     type: UNKNOWN
@@ -1429,7 +1429,7 @@ alertsList:
 alertsMetaData:
   path: Microsoft.Compute/alertsMetaData
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/alertsMetaData
   architecture review:
     type: UNKNOWN
@@ -1446,7 +1446,7 @@ alertsMetaData:
 alertsSummary:
   path: Microsoft.Compute/alertsSummary
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/alertsSummary
   architecture review:
     type: UNKNOWN
@@ -1463,7 +1463,7 @@ alertsSummary:
 alertsSummaryList:
   path: Microsoft.Compute/alertsSummaryList
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/alertsSummaryList
   architecture review:
     type: UNKNOWN
@@ -1480,7 +1480,7 @@ alertsSummaryList:
 allowedConnections:
   path: Microsoft.Compute/allowedConnections
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/allowedConnections
   architecture review:
     type: UNKNOWN
@@ -1497,7 +1497,7 @@ allowedConnections:
 anonymousapiusers:
   path: Microsoft.Compute/anonymousapiusers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/anonymousapiusers
   architecture review:
     type: UNKNOWN
@@ -1514,7 +1514,7 @@ anonymousapiusers:
 appTemplates:
   path: Microsoft.Compute/appTemplates
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/appTemplates
   architecture review:
     type: UNKNOWN
@@ -1531,7 +1531,7 @@ appTemplates:
 applicationDefinitions:
   path: Microsoft.Compute/applicationDefinitions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/applicationDefinitions
   architecture review:
     type: UNKNOWN
@@ -1548,7 +1548,7 @@ applicationDefinitions:
 applicationGatewayAvailableRequestHeaders:
   path: Microsoft.Compute/applicationGatewayAvailableRequestHeaders
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/applicationGatewayAvailableRequestHeaders
   architecture review:
     type: UNKNOWN
@@ -1565,7 +1565,7 @@ applicationGatewayAvailableRequestHeaders:
 applicationGatewayAvailableResponseHeaders:
   path: Microsoft.Compute/applicationGatewayAvailableResponseHeaders
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/applicationGatewayAvailableResponseHeaders
   architecture review:
     type: UNKNOWN
@@ -1582,7 +1582,7 @@ applicationGatewayAvailableResponseHeaders:
 applicationGatewayAvailableServerVariables:
   path: Microsoft.Compute/applicationGatewayAvailableServerVariables
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/applicationGatewayAvailableServerVariables
   architecture review:
     type: UNKNOWN
@@ -1599,7 +1599,7 @@ applicationGatewayAvailableServerVariables:
 applicationGatewayAvailableSslOptions:
   path: Microsoft.Compute/applicationGatewayAvailableSslOptions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/applicationGatewayAvailableSslOptions
   architecture review:
     type: UNKNOWN
@@ -1616,7 +1616,7 @@ applicationGatewayAvailableSslOptions:
 applicationGatewayAvailableWafRuleSets:
   path: Microsoft.Compute/applicationGatewayAvailableWafRuleSets
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/applicationGatewayAvailableWafRuleSets
   architecture review:
     type: UNKNOWN
@@ -1633,7 +1633,7 @@ applicationGatewayAvailableWafRuleSets:
 applicationGatewayWebApplicationFirewallPolicies:
   path: Microsoft.Compute/applicationGatewayWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/applicationGatewayWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -1650,7 +1650,7 @@ applicationGatewayWebApplicationFirewallPolicies:
 applicationGateways:
   path: Microsoft.Compute/applicationGateways
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/applicationGateways
   architecture review:
     type: UNKNOWN
@@ -1667,7 +1667,7 @@ applicationGateways:
 applicationSecurityGroups:
   path: Microsoft.Compute/applicationSecurityGroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/applicationSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -1684,7 +1684,7 @@ applicationSecurityGroups:
 applicationWhitelistings:
   path: Microsoft.Compute/applicationWhitelistings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/applicationWhitelistings
   architecture review:
     type: UNKNOWN
@@ -1701,7 +1701,7 @@ applicationWhitelistings:
 applications:
   path: Microsoft.Compute/applications
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/applications
   architecture review:
     type: UNKNOWN
@@ -1718,7 +1718,7 @@ applications:
 appliedReservations:
   path: Microsoft.Compute/appliedReservations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/appliedReservations
   architecture review:
     type: UNKNOWN
@@ -1735,7 +1735,7 @@ appliedReservations:
 applyUpdates:
   path: Microsoft.Compute/applyUpdates
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/applyUpdates
   architecture review:
     type: UNKNOWN
@@ -1752,7 +1752,7 @@ applyUpdates:
 apps:
   path: Microsoft.Compute/apps
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/apps
   architecture review:
     type: UNKNOWN
@@ -1769,7 +1769,7 @@ apps:
 artifactSources:
   path: Microsoft.Compute/artifactSources
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/artifactSources
   architecture review:
     type: UNKNOWN
@@ -1786,7 +1786,7 @@ artifactSources:
 assessmentMetadata:
   path: Microsoft.Compute/assessmentMetadata
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/assessmentMetadata
   architecture review:
     type: UNKNOWN
@@ -1803,7 +1803,7 @@ assessmentMetadata:
 assessmentProjects:
   path: Microsoft.Compute/assessmentProjects
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/assessmentProjects
   architecture review:
     type: UNKNOWN
@@ -1820,7 +1820,7 @@ assessmentProjects:
 assessmentprojects:
   path: Microsoft.Compute/assessmentprojects
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/assessmentprojects
   architecture review:
     type: UNKNOWN
@@ -1837,7 +1837,7 @@ assessmentprojects:
 assessments:
   path: Microsoft.Compute/assessments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/assessments
   architecture review:
     type: UNKNOWN
@@ -1854,7 +1854,7 @@ assessments:
 associations:
   path: Microsoft.Compute/associations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/associations
   architecture review:
     type: UNKNOWN
@@ -1871,7 +1871,7 @@ associations:
 asyncOperationResults:
   path: Microsoft.Compute/asyncOperationResults
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/asyncOperationResults
   architecture review:
     type: UNKNOWN
@@ -1888,7 +1888,7 @@ asyncOperationResults:
 attestationProviders:
   path: Microsoft.Compute/attestationProviders
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/attestationProviders
   architecture review:
     type: UNKNOWN
@@ -1905,7 +1905,7 @@ attestationProviders:
 autoDismissAlertsRules:
   path: Microsoft.Compute/autoDismissAlertsRules
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/autoDismissAlertsRules
   architecture review:
     type: UNKNOWN
@@ -1922,7 +1922,7 @@ autoDismissAlertsRules:
 automationAccounts:
   path: Microsoft.Compute/automationAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/automationAccounts
   architecture review:
     type: UNKNOWN
@@ -1939,7 +1939,7 @@ automationAccounts:
 automations:
   path: Microsoft.Compute/automations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/automations
   architecture review:
     type: UNKNOWN
@@ -1956,7 +1956,7 @@ automations:
 autoscalesettings:
   path: Microsoft.Compute/autoscalesettings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/autoscalesettings
   architecture review:
     type: UNKNOWN
@@ -1973,7 +1973,7 @@ autoscalesettings:
 availabilitySets:
   path: Microsoft.Compute/availabilitySets
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/availabilitySets
   architecture review:
     type: UNKNOWN
@@ -1990,7 +1990,7 @@ availabilitySets:
 availabilityStatuses:
   path: Microsoft.Compute/availabilityStatuses
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/availabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -2007,7 +2007,7 @@ availabilityStatuses:
 availableAccounts:
   path: Microsoft.Compute/availableAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/availableAccounts
   architecture review:
     type: UNKNOWN
@@ -2024,7 +2024,7 @@ availableAccounts:
 availableClusterRegions:
   path: Microsoft.Compute/availableClusterRegions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/availableClusterRegions
   architecture review:
     type: UNKNOWN
@@ -2041,7 +2041,7 @@ availableClusterRegions:
 availableStacks:
   path: Microsoft.Compute/availableStacks
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/availableStacks
   architecture review:
     type: UNKNOWN
@@ -2058,7 +2058,7 @@ availableStacks:
 azureFirewallFqdnTags:
   path: Microsoft.Compute/azureFirewallFqdnTags
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/azureFirewallFqdnTags
   architecture review:
     type: UNKNOWN
@@ -2075,7 +2075,7 @@ azureFirewallFqdnTags:
 azureFirewalls:
   path: Microsoft.Compute/azureFirewalls
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/azureFirewalls
   architecture review:
     type: UNKNOWN
@@ -2092,7 +2092,7 @@ azureFirewalls:
 b2cDirectories:
   path: Microsoft.Compute/b2cDirectories
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/b2cDirectories
   architecture review:
     type: UNKNOWN
@@ -2109,7 +2109,7 @@ b2cDirectories:
 b2ctenants:
   path: Microsoft.Compute/b2ctenants
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/b2ctenants
   architecture review:
     type: UNKNOWN
@@ -2126,7 +2126,7 @@ b2ctenants:
 backupProtectedItems:
   path: Microsoft.Compute/backupProtectedItems
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/backupProtectedItems
   architecture review:
     type: UNKNOWN
@@ -2143,7 +2143,7 @@ backupProtectedItems:
 baseline:
   path: Microsoft.Compute/baseline
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/baseline
   architecture review:
     type: UNKNOWN
@@ -2160,7 +2160,7 @@ baseline:
 bastionHosts:
   path: Microsoft.Compute/bastionHosts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/bastionHosts
   architecture review:
     type: UNKNOWN
@@ -2177,7 +2177,7 @@ bastionHosts:
 batchAccounts:
   path: Microsoft.Compute/batchAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/batchAccounts
   architecture review:
     type: UNKNOWN
@@ -2194,7 +2194,7 @@ batchAccounts:
 bgpServiceCommunities:
   path: Microsoft.Compute/bgpServiceCommunities
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/bgpServiceCommunities
   architecture review:
     type: UNKNOWN
@@ -2211,7 +2211,7 @@ bgpServiceCommunities:
 billingAccounts:
   path: Microsoft.Compute/billingAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/billingAccounts
   architecture review:
     type: UNKNOWN
@@ -2228,7 +2228,7 @@ billingAccounts:
 billingMeters:
   path: Microsoft.Compute/billingMeters
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/billingMeters
   architecture review:
     type: UNKNOWN
@@ -2245,7 +2245,7 @@ billingMeters:
 billingPeriods:
   path: Microsoft.Compute/billingPeriods
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/billingPeriods
   architecture review:
     type: UNKNOWN
@@ -2262,7 +2262,7 @@ billingPeriods:
 billingPermissions:
   path: Microsoft.Compute/billingPermissions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/billingPermissions
   architecture review:
     type: UNKNOWN
@@ -2279,7 +2279,7 @@ billingPermissions:
 billingProperty:
   path: Microsoft.Compute/billingProperty
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/billingProperty
   architecture review:
     type: UNKNOWN
@@ -2296,7 +2296,7 @@ billingProperty:
 billingRoleAssignments:
   path: Microsoft.Compute/billingRoleAssignments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/billingRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -2313,7 +2313,7 @@ billingRoleAssignments:
 billingRoleDefinitions:
   path: Microsoft.Compute/billingRoleDefinitions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/billingRoleDefinitions
   architecture review:
     type: UNKNOWN
@@ -2330,7 +2330,7 @@ billingRoleDefinitions:
 blockchainMembers:
   path: Microsoft.Compute/blockchainMembers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/blockchainMembers
   architecture review:
     type: UNKNOWN
@@ -2347,7 +2347,7 @@ blockchainMembers:
 blueprintAssignments:
   path: Microsoft.Compute/blueprintAssignments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/blueprintAssignments
   architecture review:
     type: UNKNOWN
@@ -2364,7 +2364,7 @@ blueprintAssignments:
 blueprints:
   path: Microsoft.Compute/blueprints
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/blueprints
   architecture review:
     type: UNKNOWN
@@ -2381,7 +2381,7 @@ blueprints:
 bookmarks:
   path: Microsoft.Compute/bookmarks
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/bookmarks
   architecture review:
     type: UNKNOWN
@@ -2398,7 +2398,7 @@ bookmarks:
 botServices:
   path: Microsoft.Compute/botServices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/botServices
   architecture review:
     type: UNKNOWN
@@ -2415,7 +2415,7 @@ botServices:
 calculateExchange:
   path: Microsoft.Compute/calculateExchange
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/calculateExchange
   architecture review:
     type: UNKNOWN
@@ -2432,7 +2432,7 @@ calculateExchange:
 calculatePrice:
   path: Microsoft.Compute/calculatePrice
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/calculatePrice
   architecture review:
     type: UNKNOWN
@@ -2449,7 +2449,7 @@ calculatePrice:
 calculatePurchasePrice:
   path: Microsoft.Compute/calculatePurchasePrice
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/calculatePurchasePrice
   architecture review:
     type: UNKNOWN
@@ -2466,7 +2466,7 @@ calculatePurchasePrice:
 calculatebaseline:
   path: Microsoft.Compute/calculatebaseline
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/calculatebaseline
   architecture review:
     type: UNKNOWN
@@ -2483,7 +2483,7 @@ calculatebaseline:
 cancel:
   path: Microsoft.Compute/cancel
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/cancel
   architecture review:
     type: UNKNOWN
@@ -2500,7 +2500,7 @@ cancel:
 capabilities:
   path: Microsoft.Compute/capabilities
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/capabilities
   architecture review:
     type: UNKNOWN
@@ -2517,7 +2517,7 @@ capabilities:
 capacities:
   path: Microsoft.Compute/capacities
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/capacities
   architecture review:
     type: UNKNOWN
@@ -2534,7 +2534,7 @@ capacities:
 cases:
   path: Microsoft.Compute/cases
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/cases
   architecture review:
     type: UNKNOWN
@@ -2551,7 +2551,7 @@ cases:
 catalogs:
   path: Microsoft.Compute/catalogs
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/catalogs
   architecture review:
     type: UNKNOWN
@@ -2568,7 +2568,7 @@ catalogs:
 certificateOrders:
   path: Microsoft.Compute/certificateOrders
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/certificateOrders
   architecture review:
     type: UNKNOWN
@@ -2585,7 +2585,7 @@ certificateOrders:
 certificates:
   path: Microsoft.Compute/certificates
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/certificates
   architecture review:
     type: UNKNOWN
@@ -2602,7 +2602,7 @@ certificates:
 checkAccess:
   path: Microsoft.Compute/checkAccess
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkAccess
   architecture review:
     type: UNKNOWN
@@ -2619,7 +2619,7 @@ checkAccess:
 checkAzureDataFactoryNameAvailability:
   path: Microsoft.Compute/checkAzureDataFactoryNameAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkAzureDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2636,7 +2636,7 @@ checkAzureDataFactoryNameAvailability:
 checkDataFactoryNameAvailability:
   path: Microsoft.Compute/checkDataFactoryNameAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2653,7 +2653,7 @@ checkDataFactoryNameAvailability:
 checkDomainAvailability:
   path: Microsoft.Compute/checkDomainAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkDomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2670,7 +2670,7 @@ checkDomainAvailability:
 checkDomainNameAvailability:
   path: Microsoft.Compute/checkDomainNameAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkDomainNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2687,7 +2687,7 @@ checkDomainNameAvailability:
 checkFeedbackRequired:
   path: Microsoft.Compute/checkFeedbackRequired
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkFeedbackRequired
   architecture review:
     type: UNKNOWN
@@ -2704,7 +2704,7 @@ checkFeedbackRequired:
 checkFrontdoorNameAvailability:
   path: Microsoft.Compute/checkFrontdoorNameAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkFrontdoorNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2721,7 +2721,7 @@ checkFrontdoorNameAvailability:
 checkModernEligibility:
   path: Microsoft.Compute/checkModernEligibility
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkModernEligibility
   architecture review:
     type: UNKNOWN
@@ -2738,7 +2738,7 @@ checkModernEligibility:
 checkNameAvailability:
   path: Microsoft.Compute/checkNameAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2755,7 +2755,7 @@ checkNameAvailability:
 checkNamespaceAvailability:
   path: Microsoft.Compute/checkNamespaceAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkNamespaceAvailability
   architecture review:
     type: UNKNOWN
@@ -2772,7 +2772,7 @@ checkNamespaceAvailability:
 checkOffers:
   path: Microsoft.Compute/checkOffers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkOffers
   architecture review:
     type: UNKNOWN
@@ -2789,7 +2789,7 @@ checkOffers:
 checkPolicyCompliance:
   path: Microsoft.Compute/checkPolicyCompliance
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkPolicyCompliance
   architecture review:
     type: UNKNOWN
@@ -2806,7 +2806,7 @@ checkPolicyCompliance:
 checkProvisioningServiceNameAvailability:
   path: Microsoft.Compute/checkProvisioningServiceNameAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkProvisioningServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2823,7 +2823,7 @@ checkProvisioningServiceNameAvailability:
 checkPurchaseStatus:
   path: Microsoft.Compute/checkPurchaseStatus
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkPurchaseStatus
   architecture review:
     type: UNKNOWN
@@ -2840,7 +2840,7 @@ checkPurchaseStatus:
 checkResourceUsage:
   path: Microsoft.Compute/checkResourceUsage
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkResourceUsage
   architecture review:
     type: UNKNOWN
@@ -2857,7 +2857,7 @@ checkResourceUsage:
 checkScopes:
   path: Microsoft.Compute/checkScopes
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkScopes
   architecture review:
     type: UNKNOWN
@@ -2874,7 +2874,7 @@ checkScopes:
 checkServiceNameAvailability:
   path: Microsoft.Compute/checkServiceNameAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2891,7 +2891,7 @@ checkServiceNameAvailability:
 checkServiceProviderAvailability:
   path: Microsoft.Compute/checkServiceProviderAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkServiceProviderAvailability
   architecture review:
     type: UNKNOWN
@@ -2908,7 +2908,7 @@ checkServiceProviderAvailability:
 checkStorageAccountAvailability:
   path: Microsoft.Compute/checkStorageAccountAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkStorageAccountAvailability
   architecture review:
     type: UNKNOWN
@@ -2925,7 +2925,7 @@ checkStorageAccountAvailability:
 checkSubdomainAvailability:
   path: Microsoft.Compute/checkSubdomainAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkSubdomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2942,7 +2942,7 @@ checkSubdomainAvailability:
 checkTrafficManagerNameAvailability:
   path: Microsoft.Compute/checkTrafficManagerNameAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkTrafficManagerNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2959,7 +2959,7 @@ checkTrafficManagerNameAvailability:
 checknameavailability:
   path: Microsoft.Compute/checknameavailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checknameavailability
   architecture review:
     type: UNKNOWN
@@ -2976,7 +2976,7 @@ checknameavailability:
 checkresourcename:
   path: Microsoft.Compute/checkresourcename
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/checkresourcename
   architecture review:
     type: UNKNOWN
@@ -2993,7 +2993,7 @@ checkresourcename:
 childAvailabilityStatuses:
   path: Microsoft.Compute/childAvailabilityStatuses
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/childAvailabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -3010,7 +3010,7 @@ childAvailabilityStatuses:
 childResources:
   path: Microsoft.Compute/childResources
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/childResources
   architecture review:
     type: UNKNOWN
@@ -3027,7 +3027,7 @@ childResources:
 classicAdministrators:
   path: Microsoft.Compute/classicAdministrators
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/classicAdministrators
   architecture review:
     type: UNKNOWN
@@ -3044,7 +3044,7 @@ classicAdministrators:
 classicDevServices:
   path: Microsoft.Compute/classicDevServices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/classicDevServices
   architecture review:
     type: UNKNOWN
@@ -3061,7 +3061,7 @@ classicDevServices:
 classicInfrastructureResources:
   path: Microsoft.Compute/classicInfrastructureResources
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/classicInfrastructureResources
   architecture review:
     type: UNKNOWN
@@ -3078,7 +3078,7 @@ classicInfrastructureResources:
 cloudManifestFiles:
   path: Microsoft.Compute/cloudManifestFiles
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/cloudManifestFiles
   architecture review:
     type: UNKNOWN
@@ -3095,7 +3095,7 @@ cloudManifestFiles:
 clusters:
   path: Microsoft.Compute/clusters
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/clusters
   architecture review:
     type: UNKNOWN
@@ -3112,7 +3112,7 @@ clusters:
 commercialReservationOrders:
   path: Microsoft.Compute/commercialReservationOrders
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/commercialReservationOrders
   architecture review:
     type: UNKNOWN
@@ -3129,7 +3129,7 @@ commercialReservationOrders:
 commitmentPlans:
   path: Microsoft.Compute/commitmentPlans
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/commitmentPlans
   architecture review:
     type: UNKNOWN
@@ -3146,7 +3146,7 @@ commitmentPlans:
 complianceResults:
   path: Microsoft.Compute/complianceResults
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/complianceResults
   architecture review:
     type: UNKNOWN
@@ -3163,7 +3163,7 @@ complianceResults:
 components:
   path: Microsoft.Compute/components
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/components
   architecture review:
     type: UNKNOWN
@@ -3180,7 +3180,7 @@ components:
 componentsSummary:
   path: Microsoft.Compute/componentsSummary
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/componentsSummary
   architecture review:
     type: UNKNOWN
@@ -3197,7 +3197,7 @@ componentsSummary:
 configuration:
   path: Microsoft.Compute/configuration
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/configuration
   architecture review:
     type: UNKNOWN
@@ -3214,7 +3214,7 @@ configuration:
 configurationAssignments:
   path: Microsoft.Compute/configurationAssignments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/configurationAssignments
   architecture review:
     type: UNKNOWN
@@ -3231,7 +3231,7 @@ configurationAssignments:
 configurationStores:
   path: Microsoft.Compute/configurationStores
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/configurationStores
   architecture review:
     type: UNKNOWN
@@ -3248,7 +3248,7 @@ configurationStores:
 configurations:
   path: Microsoft.Compute/configurations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/configurations
   architecture review:
     type: UNKNOWN
@@ -3265,7 +3265,7 @@ configurations:
 connectionGateways:
   path: Microsoft.Compute/connectionGateways
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/connectionGateways
   architecture review:
     type: UNKNOWN
@@ -3282,7 +3282,7 @@ connectionGateways:
 connections:
   path: Microsoft.Compute/connections
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/connections
   architecture review:
     type: UNKNOWN
@@ -3299,7 +3299,7 @@ connections:
 consoleServices:
   path: Microsoft.Compute/consoleServices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/consoleServices
   architecture review:
     type: UNKNOWN
@@ -3316,7 +3316,7 @@ consoleServices:
 consoles:
   path: Microsoft.Compute/consoles
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/consoles
   architecture review:
     type: UNKNOWN
@@ -3333,7 +3333,7 @@ consoles:
 containerGroups:
   path: Microsoft.Compute/containerGroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/containerGroups
   architecture review:
     type: UNKNOWN
@@ -3350,7 +3350,7 @@ containerGroups:
 containerServices:
   path: Microsoft.Compute/containerServices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/containerServices
   architecture review:
     type: UNKNOWN
@@ -3367,7 +3367,7 @@ containerServices:
 controllers:
   path: Microsoft.Compute/controllers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/controllers
   architecture review:
     type: UNKNOWN
@@ -3384,7 +3384,7 @@ controllers:
 createBillingRoleAssignment:
   path: Microsoft.Compute/createBillingRoleAssignment
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/createBillingRoleAssignment
   architecture review:
     type: UNKNOWN
@@ -3401,7 +3401,7 @@ createBillingRoleAssignment:
 credits:
   path: Microsoft.Compute/credits
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/credits
   architecture review:
     type: UNKNOWN
@@ -3418,7 +3418,7 @@ credits:
 customApis:
   path: Microsoft.Compute/customApis
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/customApis
   architecture review:
     type: UNKNOWN
@@ -3435,7 +3435,7 @@ customApis:
 dashboards:
   path: Microsoft.Compute/dashboards
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dashboards
   architecture review:
     type: UNKNOWN
@@ -3452,7 +3452,7 @@ dashboards:
 dataAliases:
   path: Microsoft.Compute/dataAliases
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dataAliases
   architecture review:
     type: UNKNOWN
@@ -3469,7 +3469,7 @@ dataAliases:
 dataCollectionAgents:
   path: Microsoft.Compute/dataCollectionAgents
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dataCollectionAgents
   architecture review:
     type: UNKNOWN
@@ -3486,7 +3486,7 @@ dataCollectionAgents:
 dataConnectors:
   path: Microsoft.Compute/dataConnectors
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dataConnectors
   architecture review:
     type: UNKNOWN
@@ -3503,7 +3503,7 @@ dataConnectors:
 dataConnectorsCheckRequirements:
   path: Microsoft.Compute/dataConnectorsCheckRequirements
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dataConnectorsCheckRequirements
   architecture review:
     type: UNKNOWN
@@ -3520,7 +3520,7 @@ dataConnectorsCheckRequirements:
 dataFactories:
   path: Microsoft.Compute/dataFactories
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dataFactories
   architecture review:
     type: UNKNOWN
@@ -3537,7 +3537,7 @@ dataFactories:
 dataFactorySchema:
   path: Microsoft.Compute/dataFactorySchema
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dataFactorySchema
   architecture review:
     type: UNKNOWN
@@ -3554,7 +3554,7 @@ dataFactorySchema:
 dataManagers:
   path: Microsoft.Compute/dataManagers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dataManagers
   architecture review:
     type: UNKNOWN
@@ -3571,7 +3571,7 @@ dataManagers:
 databaseAccountNames:
   path: Microsoft.Compute/databaseAccountNames
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/databaseAccountNames
   architecture review:
     type: UNKNOWN
@@ -3588,7 +3588,7 @@ databaseAccountNames:
 databaseAccounts:
   path: Microsoft.Compute/databaseAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/databaseAccounts
   architecture review:
     type: UNKNOWN
@@ -3605,7 +3605,7 @@ databaseAccounts:
 databases:
   path: Microsoft.Compute/databases
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/databases
   architecture review:
     type: UNKNOWN
@@ -3622,7 +3622,7 @@ databases:
 ddosCustomPolicies:
   path: Microsoft.Compute/ddosCustomPolicies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ddosCustomPolicies
   architecture review:
     type: UNKNOWN
@@ -3639,7 +3639,7 @@ ddosCustomPolicies:
 ddosProtectionPlans:
   path: Microsoft.Compute/ddosProtectionPlans
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ddosProtectionPlans
   architecture review:
     type: UNKNOWN
@@ -3656,7 +3656,7 @@ ddosProtectionPlans:
 dedicatedCloudNodes:
   path: Microsoft.Compute/dedicatedCloudNodes
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dedicatedCloudNodes
   architecture review:
     type: UNKNOWN
@@ -3673,7 +3673,7 @@ dedicatedCloudNodes:
 dedicatedCloudServices:
   path: Microsoft.Compute/dedicatedCloudServices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dedicatedCloudServices
   architecture review:
     type: UNKNOWN
@@ -3690,7 +3690,7 @@ dedicatedCloudServices:
 deletedSites:
   path: Microsoft.Compute/deletedSites
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/deletedSites
   architecture review:
     type: UNKNOWN
@@ -3707,7 +3707,7 @@ deletedSites:
 deletedVaults:
   path: Microsoft.Compute/deletedVaults
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/deletedVaults
   architecture review:
     type: UNKNOWN
@@ -3724,7 +3724,7 @@ deletedVaults:
 denyAssignments:
   path: Microsoft.Compute/denyAssignments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/denyAssignments
   architecture review:
     type: UNKNOWN
@@ -3741,7 +3741,7 @@ denyAssignments:
 departments:
   path: Microsoft.Compute/departments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/departments
   architecture review:
     type: UNKNOWN
@@ -3758,7 +3758,7 @@ departments:
 deploymentLocations:
   path: Microsoft.Compute/deploymentLocations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/deploymentLocations
   architecture review:
     type: UNKNOWN
@@ -3775,7 +3775,7 @@ deploymentLocations:
 deploymentScripts:
   path: Microsoft.Compute/deploymentScripts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/deploymentScripts
   architecture review:
     type: UNKNOWN
@@ -3792,7 +3792,7 @@ deploymentScripts:
 deployments:
   path: Microsoft.Compute/deployments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/deployments
   architecture review:
     type: UNKNOWN
@@ -3809,7 +3809,7 @@ deployments:
 deviceSecurityGroups:
   path: Microsoft.Compute/deviceSecurityGroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/deviceSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -3826,7 +3826,7 @@ deviceSecurityGroups:
 diagnosticSettings:
   path: Microsoft.Compute/diagnosticSettings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/diagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -3843,7 +3843,7 @@ diagnosticSettings:
 diagnosticSettingsCategories:
   path: Microsoft.Compute/diagnosticSettingsCategories
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/diagnosticSettingsCategories
   architecture review:
     type: UNKNOWN
@@ -3860,7 +3860,7 @@ diagnosticSettingsCategories:
 discoveredSecuritySolutions:
   path: Microsoft.Compute/discoveredSecuritySolutions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/discoveredSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -3877,7 +3877,7 @@ discoveredSecuritySolutions:
 diskEncryptionSets:
   path: Microsoft.Compute/diskEncryptionSets
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/diskEncryptionSets
   architecture review:
     type: UNKNOWN
@@ -3894,7 +3894,7 @@ diskEncryptionSets:
 disks:
   path: Microsoft.Compute/disks
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/disks
   architecture review:
     type: UNKNOWN
@@ -3911,7 +3911,7 @@ disks:
 dnsOperationResults:
   path: Microsoft.Compute/dnsOperationResults
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -3928,7 +3928,7 @@ dnsOperationResults:
 dnsOperationStatuses:
   path: Microsoft.Compute/dnsOperationStatuses
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -3945,7 +3945,7 @@ dnsOperationStatuses:
 dnszones:
   path: Microsoft.Compute/dnszones
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/dnszones
   architecture review:
     type: UNKNOWN
@@ -3962,7 +3962,7 @@ dnszones:
 domainNames:
   path: Microsoft.Compute/domainNames
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/domainNames
   architecture review:
     type: UNKNOWN
@@ -3979,7 +3979,7 @@ domainNames:
 domains:
   path: Microsoft.Compute/domains
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/domains
   architecture review:
     type: UNKNOWN
@@ -3996,7 +3996,7 @@ domains:
 edgenodes:
   path: Microsoft.Compute/edgenodes
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/edgenodes
   architecture review:
     type: UNKNOWN
@@ -4013,7 +4013,7 @@ edgenodes:
 elevateAccess:
   path: Microsoft.Compute/elevateAccess
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/elevateAccess
   architecture review:
     type: UNKNOWN
@@ -4030,7 +4030,7 @@ elevateAccess:
 emergingissues:
   path: Microsoft.Compute/emergingissues
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/emergingissues
   architecture review:
     type: UNKNOWN
@@ -4047,7 +4047,7 @@ emergingissues:
 enable:
   path: Microsoft.Compute/enable
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/enable
   architecture review:
     type: UNKNOWN
@@ -4064,7 +4064,7 @@ enable:
 enrollmentAccounts:
   path: Microsoft.Compute/enrollmentAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/enrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -4081,7 +4081,7 @@ enrollmentAccounts:
 entities:
   path: Microsoft.Compute/entities
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/entities
   architecture review:
     type: UNKNOWN
@@ -4098,7 +4098,7 @@ entities:
 entityQueries:
   path: Microsoft.Compute/entityQueries
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/entityQueries
   architecture review:
     type: UNKNOWN
@@ -4115,7 +4115,7 @@ entityQueries:
 environments:
   path: Microsoft.Compute/environments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/environments
   architecture review:
     type: UNKNOWN
@@ -4132,7 +4132,7 @@ environments:
 eventCategories:
   path: Microsoft.Compute/eventCategories
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/eventCategories
   architecture review:
     type: UNKNOWN
@@ -4149,7 +4149,7 @@ eventCategories:
 eventSubscriptions:
   path: Microsoft.Compute/eventSubscriptions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/eventSubscriptions
   architecture review:
     type: UNKNOWN
@@ -4166,7 +4166,7 @@ eventSubscriptions:
 events:
   path: Microsoft.Compute/events
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/events
   architecture review:
     type: UNKNOWN
@@ -4183,7 +4183,7 @@ events:
 eventtypes:
   path: Microsoft.Compute/eventtypes
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/eventtypes
   architecture review:
     type: UNKNOWN
@@ -4200,7 +4200,7 @@ eventtypes:
 exchange:
   path: Microsoft.Compute/exchange
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/exchange
   architecture review:
     type: UNKNOWN
@@ -4217,7 +4217,7 @@ exchange:
 expressRouteCircuits:
   path: Microsoft.Compute/expressRouteCircuits
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/expressRouteCircuits
   architecture review:
     type: UNKNOWN
@@ -4234,7 +4234,7 @@ expressRouteCircuits:
 expressRouteCrossConnections:
   path: Microsoft.Compute/expressRouteCrossConnections
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/expressRouteCrossConnections
   architecture review:
     type: UNKNOWN
@@ -4251,7 +4251,7 @@ expressRouteCrossConnections:
 expressRouteGateways:
   path: Microsoft.Compute/expressRouteGateways
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/expressRouteGateways
   architecture review:
     type: UNKNOWN
@@ -4268,7 +4268,7 @@ expressRouteGateways:
 expressRouteServiceProviders:
   path: Microsoft.Compute/expressRouteServiceProviders
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/expressRouteServiceProviders
   architecture review:
     type: UNKNOWN
@@ -4285,7 +4285,7 @@ expressRouteServiceProviders:
 extendedDiagnosticSettings:
   path: Microsoft.Compute/extendedDiagnosticSettings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/extendedDiagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -4302,7 +4302,7 @@ extendedDiagnosticSettings:
 extensionTopics:
   path: Microsoft.Compute/extensionTopics
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/extensionTopics
   architecture review:
     type: UNKNOWN
@@ -4319,7 +4319,7 @@ extensionTopics:
 externalSecuritySolutions:
   path: Microsoft.Compute/externalSecuritySolutions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/externalSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4336,7 +4336,7 @@ externalSecuritySolutions:
 factories:
   path: Microsoft.Compute/factories
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/factories
   architecture review:
     type: UNKNOWN
@@ -4353,7 +4353,7 @@ factories:
 featureProviders:
   path: Microsoft.Compute/featureProviders
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/featureProviders
   architecture review:
     type: UNKNOWN
@@ -4370,7 +4370,7 @@ featureProviders:
 features:
   path: Microsoft.Compute/features
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/features
   architecture review:
     type: UNKNOWN
@@ -4387,7 +4387,7 @@ features:
 findOrphanRoleAssignments:
   path: Microsoft.Compute/findOrphanRoleAssignments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/findOrphanRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -4404,7 +4404,7 @@ findOrphanRoleAssignments:
 firewallPolicies:
   path: Microsoft.Compute/firewallPolicies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/firewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4421,7 +4421,7 @@ firewallPolicies:
 frontDoors:
   path: Microsoft.Compute/frontDoors
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/frontDoors
   architecture review:
     type: UNKNOWN
@@ -4438,7 +4438,7 @@ frontDoors:
 frontdoorOperationResults:
   path: Microsoft.Compute/frontdoorOperationResults
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/frontdoorOperationResults
   architecture review:
     type: UNKNOWN
@@ -4455,7 +4455,7 @@ frontdoorOperationResults:
 frontdoorWebApplicationFirewallManagedRuleSets:
   path: Microsoft.Compute/frontdoorWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/frontdoorWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -4472,7 +4472,7 @@ frontdoorWebApplicationFirewallManagedRuleSets:
 frontdoorWebApplicationFirewallPolicies:
   path: Microsoft.Compute/frontdoorWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/frontdoorWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4489,7 +4489,7 @@ frontdoorWebApplicationFirewallPolicies:
 frontdoors:
   path: Microsoft.Compute/frontdoors
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/frontdoors
   architecture review:
     type: UNKNOWN
@@ -4506,7 +4506,7 @@ frontdoors:
 galleries:
   path: Microsoft.Compute/galleries
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/galleries
   architecture review:
     type: UNKNOWN
@@ -4523,7 +4523,7 @@ galleries:
 gatewaySupportedDevices:
   path: Microsoft.Compute/gatewaySupportedDevices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/gatewaySupportedDevices
   architecture review:
     type: UNKNOWN
@@ -4540,7 +4540,7 @@ gatewaySupportedDevices:
 gateways:
   path: Microsoft.Compute/gateways
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/gateways
   architecture review:
     type: UNKNOWN
@@ -4557,7 +4557,7 @@ gateways:
 generateRecommendations:
   path: Microsoft.Compute/generateRecommendations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/generateRecommendations
   architecture review:
     type: UNKNOWN
@@ -4574,7 +4574,7 @@ generateRecommendations:
 generateSsoRequest:
   path: Microsoft.Compute/generateSsoRequest
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/generateSsoRequest
   architecture review:
     type: UNKNOWN
@@ -4591,7 +4591,7 @@ generateSsoRequest:
 georegions:
   path: Microsoft.Compute/georegions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/georegions
   architecture review:
     type: UNKNOWN
@@ -4608,7 +4608,7 @@ georegions:
 getDnsResourceReference:
   path: Microsoft.Compute/getDnsResourceReference
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/getDnsResourceReference
   architecture review:
     type: UNKNOWN
@@ -4625,7 +4625,7 @@ getDnsResourceReference:
 getEntities:
   path: Microsoft.Compute/getEntities
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/getEntities
   architecture review:
     type: UNKNOWN
@@ -4642,7 +4642,7 @@ getEntities:
 guestConfigurationAssignments:
   path: Microsoft.Compute/guestConfigurationAssignments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/guestConfigurationAssignments
   architecture review:
     type: UNKNOWN
@@ -4659,7 +4659,7 @@ guestConfigurationAssignments:
 hanaInstances:
   path: Microsoft.Compute/hanaInstances
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/hanaInstances
   architecture review:
     type: UNKNOWN
@@ -4676,7 +4676,7 @@ hanaInstances:
 hostGroups:
   path: Microsoft.Compute/hostGroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/hostGroups
   architecture review:
     type: UNKNOWN
@@ -4693,7 +4693,7 @@ hostGroups:
 hostingEnvironments:
   path: Microsoft.Compute/hostingEnvironments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/hostingEnvironments
   architecture review:
     type: UNKNOWN
@@ -4710,7 +4710,7 @@ hostingEnvironments:
 hybridUseBenefits:
   path: Microsoft.Compute/hybridUseBenefits
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/hybridUseBenefits
   architecture review:
     type: UNKNOWN
@@ -4727,7 +4727,7 @@ hybridUseBenefits:
 imageId:
   path: Microsoft.Compute/imageId
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/imageId
   architecture review:
     type: UNKNOWN
@@ -4744,7 +4744,7 @@ imageId:
 imageOffer:
   path: Microsoft.Compute/imageOffer
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/imageOffer
   architecture review:
     type: UNKNOWN
@@ -4761,7 +4761,7 @@ imageOffer:
 imagePublisher:
   path: Microsoft.Compute/imagePublisher
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/imagePublisher
   architecture review:
     type: UNKNOWN
@@ -4778,7 +4778,7 @@ imagePublisher:
 imageSku:
   path: Microsoft.Compute/imageSku
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/imageSku
   architecture review:
     type: UNKNOWN
@@ -4795,7 +4795,7 @@ imageSku:
 imageVersion:
   path: Microsoft.Compute/imageVersion
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/imageVersion
   architecture review:
     type: UNKNOWN
@@ -4812,7 +4812,7 @@ imageVersion:
 images:
   path: Microsoft.Compute/images
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/images
   architecture review:
     type: UNKNOWN
@@ -4829,7 +4829,7 @@ images:
 incidents:
   path: Microsoft.Compute/incidents
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/incidents
   architecture review:
     type: UNKNOWN
@@ -4846,7 +4846,7 @@ incidents:
 instancePools:
   path: Microsoft.Compute/instancePools
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/instancePools
   architecture review:
     type: UNKNOWN
@@ -4863,7 +4863,7 @@ instancePools:
 integrationAccounts:
   path: Microsoft.Compute/integrationAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/integrationAccounts
   architecture review:
     type: UNKNOWN
@@ -4880,7 +4880,7 @@ integrationAccounts:
 integrationServiceEnvironments:
   path: Microsoft.Compute/integrationServiceEnvironments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/integrationServiceEnvironments
   architecture review:
     type: UNKNOWN
@@ -4897,7 +4897,7 @@ integrationServiceEnvironments:
 internalNotify:
   path: Microsoft.Compute/internalNotify
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/internalNotify
   architecture review:
     type: UNKNOWN
@@ -4914,7 +4914,7 @@ internalNotify:
 invoices:
   path: Microsoft.Compute/invoices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/invoices
   architecture review:
     type: UNKNOWN
@@ -4931,7 +4931,7 @@ invoices:
 iotSecuritySolutions:
   path: Microsoft.Compute/iotSecuritySolutions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/iotSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4948,7 +4948,7 @@ iotSecuritySolutions:
 ipGroups:
   path: Microsoft.Compute/ipGroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ipGroups
   architecture review:
     type: UNKNOWN
@@ -4965,7 +4965,7 @@ ipGroups:
 ishostingenvironmentnameavailable:
   path: Microsoft.Compute/ishostingenvironmentnameavailable
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ishostingenvironmentnameavailable
   architecture review:
     type: UNKNOWN
@@ -4982,7 +4982,7 @@ ishostingenvironmentnameavailable:
 ishostnameavailable:
   path: Microsoft.Compute/ishostnameavailable
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/ishostnameavailable
   architecture review:
     type: UNKNOWN
@@ -4999,7 +4999,7 @@ ishostnameavailable:
 isusernameavailable:
   path: Microsoft.Compute/isusernameavailable
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/isusernameavailable
   architecture review:
     type: UNKNOWN
@@ -5016,7 +5016,7 @@ isusernameavailable:
 jitNetworkAccessPolicies:
   path: Microsoft.Compute/jitNetworkAccessPolicies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/jitNetworkAccessPolicies
   architecture review:
     type: UNKNOWN
@@ -5033,7 +5033,7 @@ jitNetworkAccessPolicies:
 jitRequests:
   path: Microsoft.Compute/jitRequests
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/jitRequests
   architecture review:
     type: UNKNOWN
@@ -5050,7 +5050,7 @@ jitRequests:
 jobcollections:
   path: Microsoft.Compute/jobcollections
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/jobcollections
   architecture review:
     type: UNKNOWN
@@ -5067,7 +5067,7 @@ jobcollections:
 jobs:
   path: Microsoft.Compute/jobs
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/jobs
   architecture review:
     type: UNKNOWN
@@ -5084,7 +5084,7 @@ jobs:
 labAccounts:
   path: Microsoft.Compute/labAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/labAccounts
   architecture review:
     type: UNKNOWN
@@ -5101,7 +5101,7 @@ labAccounts:
 labaccounts:
   path: Microsoft.Compute/labaccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/labaccounts
   architecture review:
     type: UNKNOWN
@@ -5118,7 +5118,7 @@ labaccounts:
 labs:
   path: Microsoft.Compute/labs
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/labs
   architecture review:
     type: UNKNOWN
@@ -5135,7 +5135,7 @@ labs:
 legacyPeerings:
   path: Microsoft.Compute/legacyPeerings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/legacyPeerings
   architecture review:
     type: UNKNOWN
@@ -5152,7 +5152,7 @@ legacyPeerings:
 licenseType:
   path: Microsoft.Compute/licenseType
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/licenseType
   architecture review:
     type: UNKNOWN
@@ -5169,7 +5169,7 @@ licenseType:
 linkTargets:
   path: Microsoft.Compute/linkTargets
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/linkTargets
   architecture review:
     type: UNKNOWN
@@ -5186,7 +5186,7 @@ linkTargets:
 links:
   path: Microsoft.Compute/links
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/links
   architecture review:
     type: UNKNOWN
@@ -5203,7 +5203,7 @@ links:
 listAuthServiceProviders:
   path: Microsoft.Compute/listAuthServiceProviders
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/listAuthServiceProviders
   architecture review:
     type: UNKNOWN
@@ -5220,7 +5220,7 @@ listAuthServiceProviders:
 listAvailableOffers:
   path: Microsoft.Compute/listAvailableOffers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/listAvailableOffers
   architecture review:
     type: UNKNOWN
@@ -5237,7 +5237,7 @@ listAvailableOffers:
 listBenefits:
   path: Microsoft.Compute/listBenefits
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/listBenefits
   architecture review:
     type: UNKNOWN
@@ -5254,7 +5254,7 @@ listBenefits:
 listCommunicationPreference:
   path: Microsoft.Compute/listCommunicationPreference
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/listCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -5271,7 +5271,7 @@ listCommunicationPreference:
 listDomainRecommendations:
   path: Microsoft.Compute/listDomainRecommendations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/listDomainRecommendations
   architecture review:
     type: UNKNOWN
@@ -5288,7 +5288,7 @@ listDomainRecommendations:
 listMigrationdate:
   path: Microsoft.Compute/listMigrationdate
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/listMigrationdate
   architecture review:
     type: UNKNOWN
@@ -5305,7 +5305,7 @@ listMigrationdate:
 listSitesAssignedToHostName:
   path: Microsoft.Compute/listSitesAssignedToHostName
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/listSitesAssignedToHostName
   architecture review:
     type: UNKNOWN
@@ -5322,7 +5322,7 @@ listSitesAssignedToHostName:
 listinvitations:
   path: Microsoft.Compute/listinvitations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/listinvitations
   architecture review:
     type: UNKNOWN
@@ -5339,7 +5339,7 @@ listinvitations:
 loadBalancers:
   path: Microsoft.Compute/loadBalancers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/loadBalancers
   architecture review:
     type: UNKNOWN
@@ -5356,7 +5356,7 @@ loadBalancers:
 localNetworkGateways:
   path: Microsoft.Compute/localNetworkGateways
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/localNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -5373,7 +5373,7 @@ localNetworkGateways:
 locations:
   path: Microsoft.Compute/locations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/locations
   architecture review:
     type: UNKNOWN
@@ -5390,7 +5390,7 @@ locations:
 locks:
   path: Microsoft.Compute/locks
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/locks
   architecture review:
     type: UNKNOWN
@@ -5407,7 +5407,7 @@ locks:
 logDefinitions:
   path: Microsoft.Compute/logDefinitions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/logDefinitions
   architecture review:
     type: UNKNOWN
@@ -5424,7 +5424,7 @@ logDefinitions:
 logprofiles:
   path: Microsoft.Compute/logprofiles
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/logprofiles
   architecture review:
     type: UNKNOWN
@@ -5441,7 +5441,7 @@ logprofiles:
 logs:
   path: Microsoft.Compute/logs
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/logs
   architecture review:
     type: UNKNOWN
@@ -5458,7 +5458,7 @@ logs:
 lots:
   path: Microsoft.Compute/lots
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/lots
   architecture review:
     type: UNKNOWN
@@ -5475,7 +5475,7 @@ lots:
 machines:
   path: Microsoft.Compute/machines
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/machines
   architecture review:
     type: UNKNOWN
@@ -5492,7 +5492,7 @@ machines:
 maintenanceConfigurations:
   path: Microsoft.Compute/maintenanceConfigurations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/maintenanceConfigurations
   architecture review:
     type: UNKNOWN
@@ -5509,7 +5509,7 @@ maintenanceConfigurations:
 managedClusters:
   path: Microsoft.Compute/managedClusters
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/managedClusters
   architecture review:
     type: UNKNOWN
@@ -5526,7 +5526,7 @@ managedClusters:
 managedInstances:
   path: Microsoft.Compute/managedInstances
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/managedInstances
   architecture review:
     type: UNKNOWN
@@ -5543,7 +5543,7 @@ managedInstances:
 managementGroups:
   path: Microsoft.Compute/managementGroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/managementGroups
   architecture review:
     type: UNKNOWN
@@ -5560,7 +5560,7 @@ managementGroups:
 managementassociations:
   path: Microsoft.Compute/managementassociations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/managementassociations
   architecture review:
     type: UNKNOWN
@@ -5577,7 +5577,7 @@ managementassociations:
 managementconfigurations:
   path: Microsoft.Compute/managementconfigurations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/managementconfigurations
   architecture review:
     type: UNKNOWN
@@ -5594,7 +5594,7 @@ managementconfigurations:
 managers:
   path: Microsoft.Compute/managers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/managers
   architecture review:
     type: UNKNOWN
@@ -5611,7 +5611,7 @@ managers:
 mapApis:
   path: Microsoft.Compute/mapApis
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/mapApis
   architecture review:
     type: UNKNOWN
@@ -5628,7 +5628,7 @@ mapApis:
 marketplaceRegistrationDefinitions:
   path: Microsoft.Compute/marketplaceRegistrationDefinitions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/marketplaceRegistrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -5645,7 +5645,7 @@ marketplaceRegistrationDefinitions:
 mediaservices:
   path: Microsoft.Compute/mediaservices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/mediaservices
   architecture review:
     type: UNKNOWN
@@ -5662,7 +5662,7 @@ mediaservices:
 metadata:
   path: Microsoft.Compute/metadata
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/metadata
   architecture review:
     type: UNKNOWN
@@ -5679,7 +5679,7 @@ metadata:
 metricDefinitions:
   path: Microsoft.Compute/metricDefinitions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/metricDefinitions
   architecture review:
     type: UNKNOWN
@@ -5696,7 +5696,7 @@ metricDefinitions:
 metricNamespaces:
   path: Microsoft.Compute/metricNamespaces
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/metricNamespaces
   architecture review:
     type: UNKNOWN
@@ -5713,7 +5713,7 @@ metricNamespaces:
 metricalerts:
   path: Microsoft.Compute/metricalerts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/metricalerts
   architecture review:
     type: UNKNOWN
@@ -5730,7 +5730,7 @@ metricalerts:
 metricbaselines:
   path: Microsoft.Compute/metricbaselines
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/metricbaselines
   architecture review:
     type: UNKNOWN
@@ -5747,7 +5747,7 @@ metricbaselines:
 metricbatch:
   path: Microsoft.Compute/metricbatch
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/metricbatch
   architecture review:
     type: UNKNOWN
@@ -5764,7 +5764,7 @@ metricbatch:
 metrics:
   path: Microsoft.Compute/metrics
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/metrics
   architecture review:
     type: UNKNOWN
@@ -5781,7 +5781,7 @@ metrics:
 migrateToNewPricingModel:
   path: Microsoft.Compute/migrateToNewPricingModel
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/migrateToNewPricingModel
   architecture review:
     type: UNKNOWN
@@ -5798,7 +5798,7 @@ migrateToNewPricingModel:
 migratealertrules:
   path: Microsoft.Compute/migratealertrules
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/migratealertrules
   architecture review:
     type: UNKNOWN
@@ -5815,7 +5815,7 @@ migratealertrules:
 migrateprojects:
   path: Microsoft.Compute/migrateprojects
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/migrateprojects
   architecture review:
     type: UNKNOWN
@@ -5832,7 +5832,7 @@ migrateprojects:
 monitorInstances:
   path: Microsoft.Compute/monitorInstances
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/monitorInstances
   architecture review:
     type: UNKNOWN
@@ -5849,7 +5849,7 @@ monitorInstances:
 monitorInstancesSummary:
   path: Microsoft.Compute/monitorInstancesSummary
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/monitorInstancesSummary
   architecture review:
     type: UNKNOWN
@@ -5866,7 +5866,7 @@ monitorInstancesSummary:
 monitors:
   path: Microsoft.Compute/monitors
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/monitors
   architecture review:
     type: UNKNOWN
@@ -5883,7 +5883,7 @@ monitors:
 moveSubscriptionResources:
   path: Microsoft.Compute/moveSubscriptionResources
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/moveSubscriptionResources
   architecture review:
     type: UNKNOWN
@@ -5900,7 +5900,7 @@ moveSubscriptionResources:
 myWorkbooks:
   path: Microsoft.Compute/myWorkbooks
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/myWorkbooks
   architecture review:
     type: UNKNOWN
@@ -5917,7 +5917,7 @@ myWorkbooks:
 namespaces:
   path: Microsoft.Compute/namespaces
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/namespaces
   architecture review:
     type: UNKNOWN
@@ -5934,7 +5934,7 @@ namespaces:
 natGateways:
   path: Microsoft.Compute/natGateways
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/natGateways
   architecture review:
     type: UNKNOWN
@@ -5951,7 +5951,7 @@ natGateways:
 networkExperimentProfiles:
   path: Microsoft.Compute/networkExperimentProfiles
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/networkExperimentProfiles
   architecture review:
     type: UNKNOWN
@@ -5968,7 +5968,7 @@ networkExperimentProfiles:
 networkIntentPolicies:
   path: Microsoft.Compute/networkIntentPolicies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/networkIntentPolicies
   architecture review:
     type: UNKNOWN
@@ -5985,7 +5985,7 @@ networkIntentPolicies:
 networkInterfaces:
   path: Microsoft.Compute/networkInterfaces
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/networkInterfaces
   architecture review:
     type: UNKNOWN
@@ -6002,7 +6002,7 @@ networkInterfaces:
 networkProfiles:
   path: Microsoft.Compute/networkProfiles
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/networkProfiles
   architecture review:
     type: UNKNOWN
@@ -6019,7 +6019,7 @@ networkProfiles:
 networkSecurityGroups:
   path: Microsoft.Compute/networkSecurityGroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/networkSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -6036,7 +6036,7 @@ networkSecurityGroups:
 networkWatchers:
   path: Microsoft.Compute/networkWatchers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/networkWatchers
   architecture review:
     type: UNKNOWN
@@ -6053,7 +6053,7 @@ networkWatchers:
 networks:
   path: Microsoft.Compute/networks
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/networks
   architecture review:
     type: UNKNOWN
@@ -6070,7 +6070,7 @@ networks:
 notificationSettings:
   path: Microsoft.Compute/notificationSettings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/notificationSettings
   architecture review:
     type: UNKNOWN
@@ -6087,7 +6087,7 @@ notificationSettings:
 notifications:
   path: Microsoft.Compute/notifications
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/notifications
   architecture review:
     type: UNKNOWN
@@ -6104,7 +6104,7 @@ notifications:
 notifyResourceJobs:
   path: Microsoft.Compute/notifyResourceJobs
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/notifyResourceJobs
   architecture review:
     type: UNKNOWN
@@ -6121,7 +6121,7 @@ notifyResourceJobs:
 offerTypes:
   path: Microsoft.Compute/offerTypes
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/offerTypes
   architecture review:
     type: UNKNOWN
@@ -6138,7 +6138,7 @@ offerTypes:
 offers:
   path: Microsoft.Compute/offers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/offers
   architecture review:
     type: UNKNOWN
@@ -6155,7 +6155,7 @@ offers:
 offertypes:
   path: Microsoft.Compute/offertypes
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/offertypes
   architecture review:
     type: UNKNOWN
@@ -6172,7 +6172,7 @@ offertypes:
 officeConsents:
   path: Microsoft.Compute/officeConsents
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/officeConsents
   architecture review:
     type: UNKNOWN
@@ -6189,7 +6189,7 @@ officeConsents:
 openShiftManagedClusters:
   path: Microsoft.Compute/openShiftManagedClusters
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/openShiftManagedClusters
   architecture review:
     type: UNKNOWN
@@ -6206,7 +6206,7 @@ openShiftManagedClusters:
 operatingSystemFamilies:
   path: Microsoft.Compute/operatingSystemFamilies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/operatingSystemFamilies
   architecture review:
     type: UNKNOWN
@@ -6223,7 +6223,7 @@ operatingSystemFamilies:
 operatingSystems:
   path: Microsoft.Compute/operatingSystems
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/operatingSystems
   architecture review:
     type: UNKNOWN
@@ -6240,7 +6240,7 @@ operatingSystems:
 operationResults:
   path: Microsoft.Compute/operationResults
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/operationResults
   architecture review:
     type: UNKNOWN
@@ -6257,7 +6257,7 @@ operationResults:
 operationStatus:
   path: Microsoft.Compute/operationStatus
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/operationStatus
   architecture review:
     type: UNKNOWN
@@ -6274,7 +6274,7 @@ operationStatus:
 operationStatuses:
   path: Microsoft.Compute/operationStatuses
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/operationStatuses
   architecture review:
     type: UNKNOWN
@@ -6291,7 +6291,7 @@ operationStatuses:
 operationresults:
   path: Microsoft.Compute/operationresults
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/operationresults
   architecture review:
     type: UNKNOWN
@@ -6308,7 +6308,7 @@ operationresults:
 operations:
   path: Microsoft.Compute/operations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/operations
   architecture review:
     type: UNKNOWN
@@ -6325,7 +6325,7 @@ operations:
 operationsStatus:
   path: Microsoft.Compute/operationsStatus
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/operationsStatus
   architecture review:
     type: UNKNOWN
@@ -6342,7 +6342,7 @@ operationsStatus:
 operationsstatus:
   path: Microsoft.Compute/operationsstatus
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/operationsstatus
   architecture review:
     type: UNKNOWN
@@ -6359,7 +6359,7 @@ operationsstatus:
 osImages:
   path: Microsoft.Compute/osImages
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/osImages
   architecture review:
     type: UNKNOWN
@@ -6376,7 +6376,7 @@ osImages:
 osNamespaces:
   path: Microsoft.Compute/osNamespaces
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/osNamespaces
   architecture review:
     type: UNKNOWN
@@ -6393,7 +6393,7 @@ osNamespaces:
 osPlatformImages:
   path: Microsoft.Compute/osPlatformImages
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/osPlatformImages
   architecture review:
     type: UNKNOWN
@@ -6410,7 +6410,7 @@ osPlatformImages:
 p2sVpnGateways:
   path: Microsoft.Compute/p2sVpnGateways
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/p2sVpnGateways
   architecture review:
     type: UNKNOWN
@@ -6427,7 +6427,7 @@ p2sVpnGateways:
 partnerNamespaces:
   path: Microsoft.Compute/partnerNamespaces
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/partnerNamespaces
   architecture review:
     type: UNKNOWN
@@ -6444,7 +6444,7 @@ partnerNamespaces:
 partnerTopics:
   path: Microsoft.Compute/partnerTopics
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/partnerTopics
   architecture review:
     type: UNKNOWN
@@ -6461,7 +6461,7 @@ partnerTopics:
 peerAsns:
   path: Microsoft.Compute/peerAsns
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/peerAsns
   architecture review:
     type: UNKNOWN
@@ -6478,7 +6478,7 @@ peerAsns:
 peeringLocations:
   path: Microsoft.Compute/peeringLocations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/peeringLocations
   architecture review:
     type: UNKNOWN
@@ -6495,7 +6495,7 @@ peeringLocations:
 peeringServiceCountries:
   path: Microsoft.Compute/peeringServiceCountries
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/peeringServiceCountries
   architecture review:
     type: UNKNOWN
@@ -6512,7 +6512,7 @@ peeringServiceCountries:
 peeringServiceLocations:
   path: Microsoft.Compute/peeringServiceLocations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/peeringServiceLocations
   architecture review:
     type: UNKNOWN
@@ -6529,7 +6529,7 @@ peeringServiceLocations:
 peeringServiceProviders:
   path: Microsoft.Compute/peeringServiceProviders
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/peeringServiceProviders
   architecture review:
     type: UNKNOWN
@@ -6546,7 +6546,7 @@ peeringServiceProviders:
 peerings:
   path: Microsoft.Compute/peerings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/peerings
   architecture review:
     type: UNKNOWN
@@ -6563,7 +6563,7 @@ peerings:
 permissions:
   path: Microsoft.Compute/permissions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/permissions
   architecture review:
     type: UNKNOWN
@@ -6580,7 +6580,7 @@ permissions:
 pipelines:
   path: Microsoft.Compute/pipelines
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/pipelines
   architecture review:
     type: UNKNOWN
@@ -6597,7 +6597,7 @@ pipelines:
 placePurchaseOrder:
   path: Microsoft.Compute/placePurchaseOrder
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/placePurchaseOrder
   architecture review:
     type: UNKNOWN
@@ -6614,7 +6614,7 @@ placePurchaseOrder:
 plans:
   path: Microsoft.Compute/plans
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/plans
   architecture review:
     type: UNKNOWN
@@ -6631,7 +6631,7 @@ plans:
 policies:
   path: Microsoft.Compute/policies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/policies
   architecture review:
     type: UNKNOWN
@@ -6648,7 +6648,7 @@ policies:
 policyAssignments:
   path: Microsoft.Compute/policyAssignments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/policyAssignments
   architecture review:
     type: UNKNOWN
@@ -6665,7 +6665,7 @@ policyAssignments:
 policyDefinitions:
   path: Microsoft.Compute/policyDefinitions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/policyDefinitions
   architecture review:
     type: UNKNOWN
@@ -6682,7 +6682,7 @@ policyDefinitions:
 policyEvents:
   path: Microsoft.Compute/policyEvents
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/policyEvents
   architecture review:
     type: UNKNOWN
@@ -6699,7 +6699,7 @@ policyEvents:
 policyMetadata:
   path: Microsoft.Compute/policyMetadata
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/policyMetadata
   architecture review:
     type: UNKNOWN
@@ -6716,7 +6716,7 @@ policyMetadata:
 policySetDefinitions:
   path: Microsoft.Compute/policySetDefinitions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/policySetDefinitions
   architecture review:
     type: UNKNOWN
@@ -6733,7 +6733,7 @@ policySetDefinitions:
 policyStates:
   path: Microsoft.Compute/policyStates
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/policyStates
   architecture review:
     type: UNKNOWN
@@ -6750,7 +6750,7 @@ policyStates:
 policyTrackedResources:
   path: Microsoft.Compute/policyTrackedResources
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/policyTrackedResources
   architecture review:
     type: UNKNOWN
@@ -6767,7 +6767,7 @@ policyTrackedResources:
 premiumMessagingRegions:
   path: Microsoft.Compute/premiumMessagingRegions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/premiumMessagingRegions
   architecture review:
     type: UNKNOWN
@@ -6784,7 +6784,7 @@ premiumMessagingRegions:
 pricings:
   path: Microsoft.Compute/pricings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/pricings
   architecture review:
     type: UNKNOWN
@@ -6801,7 +6801,7 @@ pricings:
 privateDnsOperationResults:
   path: Microsoft.Compute/privateDnsOperationResults
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/privateDnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -6818,7 +6818,7 @@ privateDnsOperationResults:
 privateDnsOperationStatuses:
   path: Microsoft.Compute/privateDnsOperationStatuses
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/privateDnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6835,7 +6835,7 @@ privateDnsOperationStatuses:
 privateDnsZones:
   path: Microsoft.Compute/privateDnsZones
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/privateDnsZones
   architecture review:
     type: UNKNOWN
@@ -6852,7 +6852,7 @@ privateDnsZones:
 privateDnsZonesInternal:
   path: Microsoft.Compute/privateDnsZonesInternal
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/privateDnsZonesInternal
   architecture review:
     type: UNKNOWN
@@ -6869,7 +6869,7 @@ privateDnsZonesInternal:
 privateEndpointRedirectMaps:
   path: Microsoft.Compute/privateEndpointRedirectMaps
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/privateEndpointRedirectMaps
   architecture review:
     type: UNKNOWN
@@ -6886,7 +6886,7 @@ privateEndpointRedirectMaps:
 privateEndpoints:
   path: Microsoft.Compute/privateEndpoints
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/privateEndpoints
   architecture review:
     type: UNKNOWN
@@ -6903,7 +6903,7 @@ privateEndpoints:
 privateLinkScopeOperationStatuses:
   path: Microsoft.Compute/privateLinkScopeOperationStatuses
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/privateLinkScopeOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6920,7 +6920,7 @@ privateLinkScopeOperationStatuses:
 privateLinkScopes:
   path: Microsoft.Compute/privateLinkScopes
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/privateLinkScopes
   architecture review:
     type: UNKNOWN
@@ -6937,7 +6937,7 @@ privateLinkScopes:
 privateLinkServices:
   path: Microsoft.Compute/privateLinkServices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/privateLinkServices
   architecture review:
     type: UNKNOWN
@@ -6954,7 +6954,7 @@ privateLinkServices:
 privateStoreClient:
   path: Microsoft.Compute/privateStoreClient
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/privateStoreClient
   architecture review:
     type: UNKNOWN
@@ -6971,7 +6971,7 @@ privateStoreClient:
 privateStores:
   path: Microsoft.Compute/privateStores
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/privateStores
   architecture review:
     type: UNKNOWN
@@ -6988,7 +6988,7 @@ privateStores:
 privategalleryitems:
   path: Microsoft.Compute/privategalleryitems
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/privategalleryitems
   architecture review:
     type: UNKNOWN
@@ -7005,7 +7005,7 @@ privategalleryitems:
 products:
   path: Microsoft.Compute/products
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/products
   architecture review:
     type: UNKNOWN
@@ -7022,7 +7022,7 @@ products:
 profiles:
   path: Microsoft.Compute/profiles
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/profiles
   architecture review:
     type: UNKNOWN
@@ -7039,7 +7039,7 @@ profiles:
 projects:
   path: Microsoft.Compute/projects
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/projects
   architecture review:
     type: UNKNOWN
@@ -7056,7 +7056,7 @@ projects:
 providerOperations:
   path: Microsoft.Compute/providerOperations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/providerOperations
   architecture review:
     type: UNKNOWN
@@ -7073,7 +7073,7 @@ providerOperations:
 providerRegistrations:
   path: Microsoft.Compute/providerRegistrations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/providerRegistrations
   architecture review:
     type: UNKNOWN
@@ -7090,7 +7090,7 @@ providerRegistrations:
 providers:
   path: Microsoft.Compute/providers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/providers
   architecture review:
     type: UNKNOWN
@@ -7107,7 +7107,7 @@ providers:
 proximityPlacementGroups:
   path: Microsoft.Compute/proximityPlacementGroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/proximityPlacementGroups
   architecture review:
     type: UNKNOWN
@@ -7124,7 +7124,7 @@ proximityPlacementGroups:
 publicIPAddresses:
   path: Microsoft.Compute/publicIPAddresses
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/publicIPAddresses
   architecture review:
     type: UNKNOWN
@@ -7141,7 +7141,7 @@ publicIPAddresses:
 publicIPPrefixes:
   path: Microsoft.Compute/publicIPPrefixes
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/publicIPPrefixes
   architecture review:
     type: UNKNOWN
@@ -7158,7 +7158,7 @@ publicIPPrefixes:
 publicImages:
   path: Microsoft.Compute/publicImages
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/publicImages
   architecture review:
     type: UNKNOWN
@@ -7175,7 +7175,7 @@ publicImages:
 publishers:
   path: Microsoft.Compute/publishers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/publishers
   architecture review:
     type: UNKNOWN
@@ -7192,7 +7192,7 @@ publishers:
 publishingUsers:
   path: Microsoft.Compute/publishingUsers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/publishingUsers
   architecture review:
     type: UNKNOWN
@@ -7209,7 +7209,7 @@ publishingUsers:
 queries:
   path: Microsoft.Compute/queries
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/queries
   architecture review:
     type: UNKNOWN
@@ -7226,7 +7226,7 @@ queries:
 quotas:
   path: Microsoft.Compute/quotas
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/quotas
   architecture review:
     type: UNKNOWN
@@ -7243,7 +7243,7 @@ quotas:
 recommendations:
   path: Microsoft.Compute/recommendations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/recommendations
   architecture review:
     type: UNKNOWN
@@ -7260,7 +7260,7 @@ recommendations:
 redis:
   path: Microsoft.Compute/redis
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/redis
   architecture review:
     type: UNKNOWN
@@ -7277,7 +7277,7 @@ redis:
 register:
   path: Microsoft.Compute/register
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/register
   architecture review:
     type: UNKNOWN
@@ -7294,7 +7294,7 @@ register:
 registrationAssignments:
   path: Microsoft.Compute/registrationAssignments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/registrationAssignments
   architecture review:
     type: UNKNOWN
@@ -7311,7 +7311,7 @@ registrationAssignments:
 registrationDefinitions:
   path: Microsoft.Compute/registrationDefinitions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/registrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -7328,7 +7328,7 @@ registrationDefinitions:
 registrations:
   path: Microsoft.Compute/registrations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/registrations
   architecture review:
     type: UNKNOWN
@@ -7345,7 +7345,7 @@ registrations:
 registries:
   path: Microsoft.Compute/registries
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/registries
   architecture review:
     type: UNKNOWN
@@ -7362,7 +7362,7 @@ registries:
 regulatoryComplianceStandards:
   path: Microsoft.Compute/regulatoryComplianceStandards
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/regulatoryComplianceStandards
   architecture review:
     type: UNKNOWN
@@ -7379,7 +7379,7 @@ regulatoryComplianceStandards:
 remediations:
   path: Microsoft.Compute/remediations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/remediations
   architecture review:
     type: UNKNOWN
@@ -7396,7 +7396,7 @@ remediations:
 rename:
   path: Microsoft.Compute/rename
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/rename
   architecture review:
     type: UNKNOWN
@@ -7413,7 +7413,7 @@ rename:
 replicationEligibilityResults:
   path: Microsoft.Compute/replicationEligibilityResults
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/replicationEligibilityResults
   architecture review:
     type: UNKNOWN
@@ -7430,7 +7430,7 @@ replicationEligibilityResults:
 reportFeedback:
   path: Microsoft.Compute/reportFeedback
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/reportFeedback
   architecture review:
     type: UNKNOWN
@@ -7447,7 +7447,7 @@ reportFeedback:
 reports:
   path: Microsoft.Compute/reports
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/reports
   architecture review:
     type: UNKNOWN
@@ -7464,7 +7464,7 @@ reports:
 requests:
   path: Microsoft.Compute/requests
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/requests
   architecture review:
     type: UNKNOWN
@@ -7481,7 +7481,7 @@ requests:
 reservationOrders:
   path: Microsoft.Compute/reservationOrders
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/reservationOrders
   architecture review:
     type: UNKNOWN
@@ -7498,7 +7498,7 @@ reservationOrders:
 reservations:
   path: Microsoft.Compute/reservations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/reservations
   architecture review:
     type: UNKNOWN
@@ -7515,7 +7515,7 @@ reservations:
 reservedIps:
   path: Microsoft.Compute/reservedIps
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/reservedIps
   architecture review:
     type: UNKNOWN
@@ -7532,7 +7532,7 @@ reservedIps:
 resourceChangeDetails:
   path: Microsoft.Compute/resourceChangeDetails
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/resourceChangeDetails
   architecture review:
     type: UNKNOWN
@@ -7549,7 +7549,7 @@ resourceChangeDetails:
 resourceChanges:
   path: Microsoft.Compute/resourceChanges
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/resourceChanges
   architecture review:
     type: UNKNOWN
@@ -7566,7 +7566,7 @@ resourceChanges:
 resourceGroups:
   path: Microsoft.Compute/resourceGroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/resourceGroups
   architecture review:
     type: UNKNOWN
@@ -7583,7 +7583,7 @@ resourceGroups:
 resourceHealthMetadata:
   path: Microsoft.Compute/resourceHealthMetadata
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/resourceHealthMetadata
   architecture review:
     type: UNKNOWN
@@ -7600,7 +7600,7 @@ resourceHealthMetadata:
 resourceProviders:
   path: Microsoft.Compute/resourceProviders
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/resourceProviders
   architecture review:
     type: UNKNOWN
@@ -7617,7 +7617,7 @@ resourceProviders:
 resourceTypes:
   path: Microsoft.Compute/resourceTypes
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/resourceTypes
   architecture review:
     type: UNKNOWN
@@ -7634,7 +7634,7 @@ resourceTypes:
 resources:
   path: Microsoft.Compute/resources
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/resources
   architecture review:
     type: UNKNOWN
@@ -7651,7 +7651,7 @@ resources:
 resourcesHistory:
   path: Microsoft.Compute/resourcesHistory
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/resourcesHistory
   architecture review:
     type: UNKNOWN
@@ -7668,7 +7668,7 @@ resourcesHistory:
 restorePointCollections:
   path: Microsoft.Compute/restorePointCollections
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/restorePointCollections
   architecture review:
     type: UNKNOWN
@@ -7685,7 +7685,7 @@ restorePointCollections:
 roleAssignments:
   path: Microsoft.Compute/roleAssignments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/roleAssignments
   architecture review:
     type: UNKNOWN
@@ -7702,7 +7702,7 @@ roleAssignments:
 roleAssignmentsUsageMetrics:
   path: Microsoft.Compute/roleAssignmentsUsageMetrics
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/roleAssignmentsUsageMetrics
   architecture review:
     type: UNKNOWN
@@ -7719,7 +7719,7 @@ roleAssignmentsUsageMetrics:
 roleDefinitions:
   path: Microsoft.Compute/roleDefinitions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/roleDefinitions
   architecture review:
     type: UNKNOWN
@@ -7736,7 +7736,7 @@ roleDefinitions:
 rollbackToLegacyPricingModel:
   path: Microsoft.Compute/rollbackToLegacyPricingModel
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/rollbackToLegacyPricingModel
   architecture review:
     type: UNKNOWN
@@ -7753,7 +7753,7 @@ rollbackToLegacyPricingModel:
 rollouts:
   path: Microsoft.Compute/rollouts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/rollouts
   architecture review:
     type: UNKNOWN
@@ -7770,7 +7770,7 @@ rollouts:
 routeFilters:
   path: Microsoft.Compute/routeFilters
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/routeFilters
   architecture review:
     type: UNKNOWN
@@ -7787,7 +7787,7 @@ routeFilters:
 routeTables:
   path: Microsoft.Compute/routeTables
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/routeTables
   architecture review:
     type: UNKNOWN
@@ -7804,7 +7804,7 @@ routeTables:
 runtimes:
   path: Microsoft.Compute/runtimes
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/runtimes
   architecture review:
     type: UNKNOWN
@@ -7821,7 +7821,7 @@ runtimes:
 saasresources:
   path: Microsoft.Compute/saasresources
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/saasresources
   architecture review:
     type: UNKNOWN
@@ -7838,7 +7838,7 @@ saasresources:
 sapMonitors:
   path: Microsoft.Compute/sapMonitors
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/sapMonitors
   architecture review:
     type: UNKNOWN
@@ -7855,7 +7855,7 @@ sapMonitors:
 scheduledqueryrules:
   path: Microsoft.Compute/scheduledqueryrules
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/scheduledqueryrules
   architecture review:
     type: UNKNOWN
@@ -7872,7 +7872,7 @@ scheduledqueryrules:
 schedules:
   path: Microsoft.Compute/schedules
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/schedules
   architecture review:
     type: UNKNOWN
@@ -7889,7 +7889,7 @@ schedules:
 searchServices:
   path: Microsoft.Compute/searchServices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/searchServices
   architecture review:
     type: UNKNOWN
@@ -7906,7 +7906,7 @@ searchServices:
 secrets:
   path: Microsoft.Compute/secrets
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/secrets
   architecture review:
     type: UNKNOWN
@@ -7923,7 +7923,7 @@ secrets:
 securityContacts:
   path: Microsoft.Compute/securityContacts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/securityContacts
   architecture review:
     type: UNKNOWN
@@ -7940,7 +7940,7 @@ securityContacts:
 securitySolutions:
   path: Microsoft.Compute/securitySolutions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/securitySolutions
   architecture review:
     type: UNKNOWN
@@ -7957,7 +7957,7 @@ securitySolutions:
 securitySolutionsReferenceData:
   path: Microsoft.Compute/securitySolutionsReferenceData
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/securitySolutionsReferenceData
   architecture review:
     type: UNKNOWN
@@ -7974,7 +7974,7 @@ securitySolutionsReferenceData:
 securityStatuses:
   path: Microsoft.Compute/securityStatuses
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/securityStatuses
   architecture review:
     type: UNKNOWN
@@ -7991,7 +7991,7 @@ securityStatuses:
 securityStatusesSummaries:
   path: Microsoft.Compute/securityStatusesSummaries
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/securityStatusesSummaries
   architecture review:
     type: UNKNOWN
@@ -8008,7 +8008,7 @@ securityStatusesSummaries:
 serverFarms:
   path: Microsoft.Compute/serverFarms
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/serverFarms
   architecture review:
     type: UNKNOWN
@@ -8025,7 +8025,7 @@ serverFarms:
 serverGroups:
   path: Microsoft.Compute/serverGroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/serverGroups
   architecture review:
     type: UNKNOWN
@@ -8042,7 +8042,7 @@ serverGroups:
 serverVulnerabilityAssessments:
   path: Microsoft.Compute/serverVulnerabilityAssessments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/serverVulnerabilityAssessments
   architecture review:
     type: UNKNOWN
@@ -8059,7 +8059,7 @@ serverVulnerabilityAssessments:
 serverfarms:
   path: Microsoft.Compute/serverfarms
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/serverfarms
   architecture review:
     type: UNKNOWN
@@ -8076,7 +8076,7 @@ serverfarms:
 servers:
   path: Microsoft.Compute/servers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/servers
   architecture review:
     type: UNKNOWN
@@ -8093,7 +8093,7 @@ servers:
 serversv2:
   path: Microsoft.Compute/serversv2
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/serversv2
   architecture review:
     type: UNKNOWN
@@ -8110,7 +8110,7 @@ serversv2:
 service:
   path: Microsoft.Compute/service
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/service
   architecture review:
     type: UNKNOWN
@@ -8127,7 +8127,7 @@ service:
 serviceAssociationLinks:
   path: Microsoft.Compute/serviceAssociationLinks
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/serviceAssociationLinks
   architecture review:
     type: UNKNOWN
@@ -8144,7 +8144,7 @@ serviceAssociationLinks:
 serviceEndpointPolicies:
   path: Microsoft.Compute/serviceEndpointPolicies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/serviceEndpointPolicies
   architecture review:
     type: UNKNOWN
@@ -8161,7 +8161,7 @@ serviceEndpointPolicies:
 serviceTopologies:
   path: Microsoft.Compute/serviceTopologies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/serviceTopologies
   architecture review:
     type: UNKNOWN
@@ -8178,7 +8178,7 @@ serviceTopologies:
 servicehealthmetrics:
   path: Microsoft.Compute/servicehealthmetrics
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/servicehealthmetrics
   architecture review:
     type: UNKNOWN
@@ -8195,7 +8195,7 @@ servicehealthmetrics:
 services:
   path: Microsoft.Compute/services
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/services
   architecture review:
     type: UNKNOWN
@@ -8212,7 +8212,7 @@ services:
 settings:
   path: Microsoft.Compute/settings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/settings
   architecture review:
     type: UNKNOWN
@@ -8229,7 +8229,7 @@ settings:
 sharedVMImages:
   path: Microsoft.Compute/sharedVMImages
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/sharedVMImages
   architecture review:
     type: UNKNOWN
@@ -8246,7 +8246,7 @@ sharedVMImages:
 showbackRules:
   path: Microsoft.Compute/showbackRules
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/showbackRules
   architecture review:
     type: UNKNOWN
@@ -8263,7 +8263,7 @@ showbackRules:
 singleServers:
   path: Microsoft.Compute/singleServers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/singleServers
   architecture review:
     type: UNKNOWN
@@ -8280,7 +8280,7 @@ singleServers:
 sites:
   path: Microsoft.Compute/sites
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/sites
   architecture review:
     type: UNKNOWN
@@ -8297,7 +8297,7 @@ sites:
 sku:
   path: Microsoft.Compute/sku
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/sku
   architecture review:
     type: UNKNOWN
@@ -8314,7 +8314,7 @@ sku:
 smartDetectorAlertRules:
   path: Microsoft.Compute/smartDetectorAlertRules
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/smartDetectorAlertRules
   architecture review:
     type: UNKNOWN
@@ -8331,7 +8331,7 @@ smartDetectorAlertRules:
 smartGroups:
   path: Microsoft.Compute/smartGroups
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/smartGroups
   architecture review:
     type: UNKNOWN
@@ -8348,7 +8348,7 @@ smartGroups:
 snapshots:
   path: Microsoft.Compute/snapshots
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/snapshots
   architecture review:
     type: UNKNOWN
@@ -8365,7 +8365,7 @@ snapshots:
 software:
   path: Microsoft.Compute/software
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/software
   architecture review:
     type: UNKNOWN
@@ -8382,7 +8382,7 @@ software:
 softwareUpdateProfile:
   path: Microsoft.Compute/softwareUpdateProfile
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/softwareUpdateProfile
   architecture review:
     type: UNKNOWN
@@ -8399,7 +8399,7 @@ softwareUpdateProfile:
 softwareUpdates:
   path: Microsoft.Compute/softwareUpdates
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/softwareUpdates
   architecture review:
     type: UNKNOWN
@@ -8416,7 +8416,7 @@ softwareUpdates:
 solutions:
   path: Microsoft.Compute/solutions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/solutions
   architecture review:
     type: UNKNOWN
@@ -8433,7 +8433,7 @@ solutions:
 sourceControls:
   path: Microsoft.Compute/sourceControls
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/sourceControls
   architecture review:
     type: UNKNOWN
@@ -8450,7 +8450,7 @@ sourceControls:
 spatialAnchorsAccounts:
   path: Microsoft.Compute/spatialAnchorsAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/spatialAnchorsAccounts
   architecture review:
     type: UNKNOWN
@@ -8467,7 +8467,7 @@ spatialAnchorsAccounts:
 sqlServerRegistrations:
   path: Microsoft.Compute/sqlServerRegistrations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/sqlServerRegistrations
   architecture review:
     type: UNKNOWN
@@ -8484,7 +8484,7 @@ sqlServerRegistrations:
 sshPublicKeys:
   path: Microsoft.Compute/sshPublicKeys
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/sshPublicKeys
   architecture review:
     type: UNKNOWN
@@ -8501,7 +8501,7 @@ sshPublicKeys:
 startTenantBackfill:
   path: Microsoft.Compute/startTenantBackfill
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/startTenantBackfill
   architecture review:
     type: UNKNOWN
@@ -8518,7 +8518,7 @@ startTenantBackfill:
 steps:
   path: Microsoft.Compute/steps
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/steps
   architecture review:
     type: UNKNOWN
@@ -8535,7 +8535,7 @@ steps:
 storageAccounts:
   path: Microsoft.Compute/storageAccounts
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/storageAccounts
   architecture review:
     type: UNKNOWN
@@ -8552,7 +8552,7 @@ storageAccounts:
 storageInsightConfigs:
   path: Microsoft.Compute/storageInsightConfigs
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/storageInsightConfigs
   architecture review:
     type: UNKNOWN
@@ -8569,7 +8569,7 @@ storageInsightConfigs:
 storageSyncServices:
   path: Microsoft.Compute/storageSyncServices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/storageSyncServices
   architecture review:
     type: UNKNOWN
@@ -8586,7 +8586,7 @@ storageSyncServices:
 stores:
   path: Microsoft.Compute/stores
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/stores
   architecture review:
     type: UNKNOWN
@@ -8603,7 +8603,7 @@ stores:
 streamingjobs:
   path: Microsoft.Compute/streamingjobs
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/streamingjobs
   architecture review:
     type: UNKNOWN
@@ -8620,7 +8620,7 @@ streamingjobs:
 subAssessments:
   path: Microsoft.Compute/subAssessments
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/subAssessments
   architecture review:
     type: UNKNOWN
@@ -8637,7 +8637,7 @@ subAssessments:
 subscriptionFeatureRegistrations:
   path: Microsoft.Compute/subscriptionFeatureRegistrations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/subscriptionFeatureRegistrations
   architecture review:
     type: UNKNOWN
@@ -8654,7 +8654,7 @@ subscriptionFeatureRegistrations:
 subscriptions:
   path: Microsoft.Compute/subscriptions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/subscriptions
   architecture review:
     type: UNKNOWN
@@ -8671,7 +8671,7 @@ subscriptions:
 subscriptionsStatus:
   path: Microsoft.Compute/subscriptionsStatus
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/subscriptionsStatus
   architecture review:
     type: UNKNOWN
@@ -8688,7 +8688,7 @@ subscriptionsStatus:
 supportProviders:
   path: Microsoft.Compute/supportProviders
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/supportProviders
   architecture review:
     type: UNKNOWN
@@ -8705,7 +8705,7 @@ supportProviders:
 supporttickets:
   path: Microsoft.Compute/supporttickets
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/supporttickets
   architecture review:
     type: UNKNOWN
@@ -8722,7 +8722,7 @@ supporttickets:
 suppressions:
   path: Microsoft.Compute/suppressions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/suppressions
   architecture review:
     type: UNKNOWN
@@ -8739,7 +8739,7 @@ suppressions:
 systemTopics:
   path: Microsoft.Compute/systemTopics
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/systemTopics
   architecture review:
     type: UNKNOWN
@@ -8756,7 +8756,7 @@ systemTopics:
 tags:
   path: Microsoft.Compute/tags
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/tags
   architecture review:
     type: UNKNOWN
@@ -8773,7 +8773,7 @@ tags:
 tasks:
   path: Microsoft.Compute/tasks
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/tasks
   architecture review:
     type: UNKNOWN
@@ -8790,7 +8790,7 @@ tasks:
 tenantBackfillStatus:
   path: Microsoft.Compute/tenantBackfillStatus
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/tenantBackfillStatus
   architecture review:
     type: UNKNOWN
@@ -8807,7 +8807,7 @@ tenantBackfillStatus:
 tenants:
   path: Microsoft.Compute/tenants
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/tenants
   architecture review:
     type: UNKNOWN
@@ -8824,7 +8824,7 @@ tenants:
 topLevelDomains:
   path: Microsoft.Compute/topLevelDomains
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/topLevelDomains
   architecture review:
     type: UNKNOWN
@@ -8841,7 +8841,7 @@ topLevelDomains:
 topicTypes:
   path: Microsoft.Compute/topicTypes
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/topicTypes
   architecture review:
     type: UNKNOWN
@@ -8858,7 +8858,7 @@ topicTypes:
 topics:
   path: Microsoft.Compute/topics
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/topics
   architecture review:
     type: UNKNOWN
@@ -8875,7 +8875,7 @@ topics:
 topologies:
   path: Microsoft.Compute/topologies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/topologies
   architecture review:
     type: UNKNOWN
@@ -8892,7 +8892,7 @@ topologies:
 topology:
   path: Microsoft.Compute/topology
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/topology
   architecture review:
     type: UNKNOWN
@@ -8909,7 +8909,7 @@ topology:
 trafficManagerGeographicHierarchies:
   path: Microsoft.Compute/trafficManagerGeographicHierarchies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/trafficManagerGeographicHierarchies
   architecture review:
     type: UNKNOWN
@@ -8926,7 +8926,7 @@ trafficManagerGeographicHierarchies:
 trafficManagerUserMetricsKeys:
   path: Microsoft.Compute/trafficManagerUserMetricsKeys
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/trafficManagerUserMetricsKeys
   architecture review:
     type: UNKNOWN
@@ -8943,7 +8943,7 @@ trafficManagerUserMetricsKeys:
 trafficmanagerprofiles:
   path: Microsoft.Compute/trafficmanagerprofiles
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/trafficmanagerprofiles
   architecture review:
     type: UNKNOWN
@@ -8960,7 +8960,7 @@ trafficmanagerprofiles:
 transactions:
   path: Microsoft.Compute/transactions
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/transactions
   architecture review:
     type: UNKNOWN
@@ -8977,7 +8977,7 @@ transactions:
 transfers:
   path: Microsoft.Compute/transfers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/transfers
   architecture review:
     type: UNKNOWN
@@ -8994,7 +8994,7 @@ transfers:
 updateCommunicationPreference:
   path: Microsoft.Compute/updateCommunicationPreference
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/updateCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -9011,7 +9011,7 @@ updateCommunicationPreference:
 updates:
   path: Microsoft.Compute/updates
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/updates
   architecture review:
     type: UNKNOWN
@@ -9028,7 +9028,7 @@ updates:
 usages:
   path: Microsoft.Compute/usages
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/usages
   architecture review:
     type: UNKNOWN
@@ -9045,7 +9045,7 @@ usages:
 userAssignedIdentities:
   path: Microsoft.Compute/userAssignedIdentities
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/userAssignedIdentities
   architecture review:
     type: UNKNOWN
@@ -9062,7 +9062,7 @@ userAssignedIdentities:
 userSettings:
   path: Microsoft.Compute/userSettings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/userSettings
   architecture review:
     type: UNKNOWN
@@ -9079,7 +9079,7 @@ userSettings:
 users:
   path: Microsoft.Compute/users
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/users
   architecture review:
     type: UNKNOWN
@@ -9096,7 +9096,7 @@ users:
 validate:
   path: Microsoft.Compute/validate
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/validate
   architecture review:
     type: UNKNOWN
@@ -9113,7 +9113,7 @@ validate:
 validateAddress:
   path: Microsoft.Compute/validateAddress
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/validateAddress
   architecture review:
     type: UNKNOWN
@@ -9130,7 +9130,7 @@ validateAddress:
 validateCertificateRegistrationInformation:
   path: Microsoft.Compute/validateCertificateRegistrationInformation
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/validateCertificateRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9147,7 +9147,7 @@ validateCertificateRegistrationInformation:
 validateDomainRegistrationInformation:
   path: Microsoft.Compute/validateDomainRegistrationInformation
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/validateDomainRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9164,7 +9164,7 @@ validateDomainRegistrationInformation:
 validateProbe:
   path: Microsoft.Compute/validateProbe
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/validateProbe
   architecture review:
     type: UNKNOWN
@@ -9181,7 +9181,7 @@ validateProbe:
 validateReservationOrder:
   path: Microsoft.Compute/validateReservationOrder
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/validateReservationOrder
   architecture review:
     type: UNKNOWN
@@ -9198,7 +9198,7 @@ validateReservationOrder:
 validateServiceName:
   path: Microsoft.Compute/validateServiceName
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/validateServiceName
   architecture review:
     type: UNKNOWN
@@ -9215,7 +9215,7 @@ validateServiceName:
 validateSubscriptionMoveAvailability:
   path: Microsoft.Compute/validateSubscriptionMoveAvailability
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/validateSubscriptionMoveAvailability
   architecture review:
     type: UNKNOWN
@@ -9232,7 +9232,7 @@ validateSubscriptionMoveAvailability:
 vaults:
   path: Microsoft.Compute/vaults
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/vaults
   architecture review:
     type: UNKNOWN
@@ -9249,7 +9249,7 @@ vaults:
 verifyHostingEnvironmentVnet:
   path: Microsoft.Compute/verifyHostingEnvironmentVnet
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/verifyHostingEnvironmentVnet
   architecture review:
     type: UNKNOWN
@@ -9266,7 +9266,7 @@ verifyHostingEnvironmentVnet:
 views:
   path: Microsoft.Compute/views
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/views
   architecture review:
     type: UNKNOWN
@@ -9283,7 +9283,7 @@ views:
 virtualClusters:
   path: Microsoft.Compute/virtualClusters
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/virtualClusters
   architecture review:
     type: UNKNOWN
@@ -9300,7 +9300,7 @@ virtualClusters:
 virtualHubs:
   path: Microsoft.Compute/virtualHubs
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/virtualHubs
   architecture review:
     type: UNKNOWN
@@ -9317,7 +9317,7 @@ virtualHubs:
 virtualMachineScaleSets:
   path: Microsoft.Compute/virtualMachineScaleSets
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/virtualMachineScaleSets
   architecture review:
     type: UNKNOWN
@@ -9334,7 +9334,7 @@ virtualMachineScaleSets:
 virtualMachines:
   path: Microsoft.Compute/virtualMachines
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/virtualMachines
   architecture review:
     type: UNKNOWN
@@ -9351,7 +9351,7 @@ virtualMachines:
 virtualNetworkGateways:
   path: Microsoft.Compute/virtualNetworkGateways
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/virtualNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -9368,7 +9368,7 @@ virtualNetworkGateways:
 virtualNetworkTaps:
   path: Microsoft.Compute/virtualNetworkTaps
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/virtualNetworkTaps
   architecture review:
     type: UNKNOWN
@@ -9385,7 +9385,7 @@ virtualNetworkTaps:
 virtualNetworks:
   path: Microsoft.Compute/virtualNetworks
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/virtualNetworks
   architecture review:
     type: UNKNOWN
@@ -9402,7 +9402,7 @@ virtualNetworks:
 virtualRouters:
   path: Microsoft.Compute/virtualRouters
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/virtualRouters
   architecture review:
     type: UNKNOWN
@@ -9419,7 +9419,7 @@ virtualRouters:
 virtualWans:
   path: Microsoft.Compute/virtualWans
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/virtualWans
   architecture review:
     type: UNKNOWN
@@ -9436,7 +9436,7 @@ virtualWans:
 vmImages:
   path: Microsoft.Compute/vmImages
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/vmImages
   architecture review:
     type: UNKNOWN
@@ -9453,7 +9453,7 @@ vmImages:
 vmInsightsOnboardingStatuses:
   path: Microsoft.Compute/vmInsightsOnboardingStatuses
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/vmInsightsOnboardingStatuses
   architecture review:
     type: UNKNOWN
@@ -9470,7 +9470,7 @@ vmInsightsOnboardingStatuses:
 volumes:
   path: Microsoft.Compute/volumes
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/volumes
   architecture review:
     type: UNKNOWN
@@ -9487,7 +9487,7 @@ volumes:
 vpnGateways:
   path: Microsoft.Compute/vpnGateways
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/vpnGateways
   architecture review:
     type: UNKNOWN
@@ -9504,7 +9504,7 @@ vpnGateways:
 vpnServerConfigurations:
   path: Microsoft.Compute/vpnServerConfigurations
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/vpnServerConfigurations
   architecture review:
     type: UNKNOWN
@@ -9521,7 +9521,7 @@ vpnServerConfigurations:
 vpnSites:
   path: Microsoft.Compute/vpnSites
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/vpnSites
   architecture review:
     type: UNKNOWN
@@ -9538,7 +9538,7 @@ vpnSites:
 watchers:
   path: Microsoft.Compute/watchers
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/watchers
   architecture review:
     type: UNKNOWN
@@ -9555,7 +9555,7 @@ watchers:
 webApplicationFirewallPolicies:
   path: Microsoft.Compute/webApplicationFirewallPolicies
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/webApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -9572,7 +9572,7 @@ webApplicationFirewallPolicies:
 webServices:
   path: Microsoft.Compute/webServices
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/webServices
   architecture review:
     type: UNKNOWN
@@ -9589,7 +9589,7 @@ webServices:
 webtests:
   path: Microsoft.Compute/webtests
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/webtests
   architecture review:
     type: UNKNOWN
@@ -9606,7 +9606,7 @@ webtests:
 workbooks:
   path: Microsoft.Compute/workbooks
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/workbooks
   architecture review:
     type: UNKNOWN
@@ -9623,7 +9623,7 @@ workbooks:
 workbooktemplates:
   path: Microsoft.Compute/workbooktemplates
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/workbooktemplates
   architecture review:
     type: UNKNOWN
@@ -9640,7 +9640,7 @@ workbooktemplates:
 workflows:
   path: Microsoft.Compute/workflows
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/workflows
   architecture review:
     type: UNKNOWN
@@ -9657,7 +9657,7 @@ workflows:
 workspaceCollections:
   path: Microsoft.Compute/workspaceCollections
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/workspaceCollections
   architecture review:
     type: UNKNOWN
@@ -9674,7 +9674,7 @@ workspaceCollections:
 workspaceSettings:
   path: Microsoft.Compute/workspaceSettings
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/workspaceSettings
   architecture review:
     type: UNKNOWN
@@ -9691,7 +9691,7 @@ workspaceSettings:
 workspaces:
   path: Microsoft.Compute/workspaces
   description: UNKNOWN
-  status: TRIAL
+  status: HOLD
   url: Microsoft.Compute/workspaces
   architecture review:
     type: UNKNOWN

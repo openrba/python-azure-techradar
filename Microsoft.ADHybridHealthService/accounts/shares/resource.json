@@ -1,6 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/accounts/shares/datasets",
-    "Microsoft.ADHybridHealthService/accounts/shares/invitations",
-    "Microsoft.ADHybridHealthService/accounts/shares/providersharesubscriptions",
-    "Microsoft.ADHybridHealthService/accounts/shares/synchronizationSettings"
-]

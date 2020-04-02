@@ -1,7 +1,0 @@
-[
-    "Microsoft.ApiManagement/services/problemclassifications",
-    "Microsoft.ApiManagement/services/projects",
-    "Microsoft.ApiManagement/services/projects/files",
-    "Microsoft.ApiManagement/services/projects/tasks",
-    "Microsoft.ApiManagement/services/serviceTasks"
-]

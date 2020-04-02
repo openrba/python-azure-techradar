@@ -1,7 +1,0 @@
-[
-    "Microsoft.ApiManagement/service/openidConnectProviders/clientId",
-    "Microsoft.ApiManagement/service/openidConnectProviders/clientSecret",
-    "Microsoft.ApiManagement/service/openidConnectProviders/description",
-    "Microsoft.ApiManagement/service/openidConnectProviders/displayName",
-    "Microsoft.ApiManagement/service/openidConnectProviders/metadataEndpoint"
-]

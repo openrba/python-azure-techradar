@@ -1,4 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/accounts/storageAccounts/containers",
-    "Microsoft.DBforMariaDB/accounts/storageAccounts/containers/listSasTokens"
-]

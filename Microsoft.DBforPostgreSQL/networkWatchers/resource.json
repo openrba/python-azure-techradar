@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/networkWatchers/connectionMonitors",
-    "Microsoft.DBforPostgreSQL/networkWatchers/flowLogs",
-    "Microsoft.DBforPostgreSQL/networkWatchers/packetCaptures",
-    "Microsoft.DBforPostgreSQL/networkWatchers/pingMeshes"
-]

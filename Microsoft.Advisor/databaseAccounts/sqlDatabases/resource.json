@@ -1,8 +1,0 @@
-[
-    "Microsoft.Advisor/databaseAccounts/sqlDatabases/containers",
-    "Microsoft.Advisor/databaseAccounts/sqlDatabases/containers/storedProcedures",
-    "Microsoft.Advisor/databaseAccounts/sqlDatabases/containers/throughputSettings",
-    "Microsoft.Advisor/databaseAccounts/sqlDatabases/containers/triggers",
-    "Microsoft.Advisor/databaseAccounts/sqlDatabases/containers/userDefinedFunctions",
-    "Microsoft.Advisor/databaseAccounts/sqlDatabases/throughputSettings"
-]

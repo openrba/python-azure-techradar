@@ -1,5 +1,0 @@
-[
-    "Microsoft.Compute/virtualNetworks/remoteVirtualNetworkPeeringProxies",
-    "Microsoft.Compute/virtualNetworks/subnets",
-    "Microsoft.Compute/virtualNetworks/virtualNetworkPeerings"
-]

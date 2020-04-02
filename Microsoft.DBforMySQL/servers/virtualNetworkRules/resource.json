@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMySQL/servers/virtualNetworkRules/ignoreMissingVnetServiceEndpoint",
-    "Microsoft.DBforMySQL/servers/virtualNetworkRules/state",
-    "Microsoft.DBforMySQL/servers/virtualNetworkRules/virtualNetworkSubnetId"
-]

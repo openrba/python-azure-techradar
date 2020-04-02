@@ -1,5 +1,0 @@
-[
-    "Microsoft.Network/registries/buildTasks/listSourceRepositoryProperties",
-    "Microsoft.Network/registries/buildTasks/steps",
-    "Microsoft.Network/registries/buildTasks/steps/listBuildArguments"
-]

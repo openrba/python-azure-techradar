@@ -1,5 +1,0 @@
-[
-    "Microsoft.Batch/Vaults/backupFabrics/backupProtectionIntent",
-    "Microsoft.Batch/Vaults/backupFabrics/protectionContainers",
-    "Microsoft.Batch/Vaults/backupFabrics/protectionContainers/protectedItems"
-]

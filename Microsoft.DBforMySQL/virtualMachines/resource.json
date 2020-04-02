@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforMySQL/virtualMachines/diagnosticSettings",
-    "Microsoft.DBforMySQL/virtualMachines/extensions",
-    "Microsoft.DBforMySQL/virtualMachines/metricDefinitions",
-    "Microsoft.DBforMySQL/virtualMachines/metrics"
-]

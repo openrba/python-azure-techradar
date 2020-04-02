@@ -1,7 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/labs/users/disks",
-    "Microsoft.DBforPostgreSQL/labs/users/environments",
-    "Microsoft.DBforPostgreSQL/labs/users/secrets",
-    "Microsoft.DBforPostgreSQL/labs/users/serviceFabrics",
-    "Microsoft.DBforPostgreSQL/labs/users/serviceFabrics/schedules"
-]

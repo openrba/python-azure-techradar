@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/batchAccounts/applications",
-    "Microsoft.DBforMariaDB/batchAccounts/applications/versions",
-    "Microsoft.DBforMariaDB/batchAccounts/certificates",
-    "Microsoft.DBforMariaDB/batchAccounts/pools"
-]

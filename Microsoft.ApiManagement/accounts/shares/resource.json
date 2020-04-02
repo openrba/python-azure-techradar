@@ -1,6 +1,0 @@
-[
-    "Microsoft.ApiManagement/accounts/shares/datasets",
-    "Microsoft.ApiManagement/accounts/shares/invitations",
-    "Microsoft.ApiManagement/accounts/shares/providersharesubscriptions",
-    "Microsoft.ApiManagement/accounts/shares/synchronizationSettings"
-]

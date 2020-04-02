@@ -1,7 +1,0 @@
-[
-    "Microsoft.Advisor/services/problemclassifications",
-    "Microsoft.Advisor/services/projects",
-    "Microsoft.Advisor/services/projects/files",
-    "Microsoft.Advisor/services/projects/tasks",
-    "Microsoft.Advisor/services/serviceTasks"
-]

@@ -1,7 +1,0 @@
-[
-    "Microsoft.DBforMySQL/services/problemclassifications",
-    "Microsoft.DBforMySQL/services/projects",
-    "Microsoft.DBforMySQL/services/projects/files",
-    "Microsoft.DBforMySQL/services/projects/tasks",
-    "Microsoft.DBforMySQL/services/serviceTasks"
-]

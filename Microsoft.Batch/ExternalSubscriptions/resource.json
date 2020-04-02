@@ -1,6 +1,0 @@
-[
-    "Microsoft.Batch/ExternalSubscriptions/Alerts",
-    "Microsoft.Batch/ExternalSubscriptions/Dimensions",
-    "Microsoft.Batch/ExternalSubscriptions/Forecast",
-    "Microsoft.Batch/ExternalSubscriptions/Query"
-]

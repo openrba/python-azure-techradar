@@ -1,7 +1,0 @@
-[
-    "Microsoft.Batch/services/problemclassifications",
-    "Microsoft.Batch/services/projects",
-    "Microsoft.Batch/services/projects/files",
-    "Microsoft.Batch/services/projects/tasks",
-    "Microsoft.Batch/services/serviceTasks"
-]

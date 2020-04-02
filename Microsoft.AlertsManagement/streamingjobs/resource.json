@@ -1,6 +1,0 @@
-[
-    "Microsoft.AlertsManagement/streamingjobs/functions",
-    "Microsoft.AlertsManagement/streamingjobs/inputs",
-    "Microsoft.AlertsManagement/streamingjobs/outputs",
-    "Microsoft.AlertsManagement/streamingjobs/transformations"
-]

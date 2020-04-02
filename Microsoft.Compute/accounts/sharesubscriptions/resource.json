@@ -1,5 +1,0 @@
-[
-    "Microsoft.Compute/accounts/sharesubscriptions/consumerSourceDataSets",
-    "Microsoft.Compute/accounts/sharesubscriptions/datasetmappings",
-    "Microsoft.Compute/accounts/sharesubscriptions/triggers"
-]

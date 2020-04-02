@@ -1,7 +1,0 @@
-[
-    "Microsoft.AlertsManagement/virtualMachineScaleSets/extensions",
-    "Microsoft.AlertsManagement/virtualMachineScaleSets/networkInterfaces",
-    "Microsoft.AlertsManagement/virtualMachineScaleSets/publicIPAddresses",
-    "Microsoft.AlertsManagement/virtualMachineScaleSets/virtualMachines",
-    "Microsoft.AlertsManagement/virtualMachineScaleSets/virtualMachines/networkInterfaces"
-]

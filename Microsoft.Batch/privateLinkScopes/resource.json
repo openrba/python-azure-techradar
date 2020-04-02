@@ -1,5 +1,0 @@
-[
-    "Microsoft.Batch/privateLinkScopes/privateEndpointConnectionProxies",
-    "Microsoft.Batch/privateLinkScopes/privateEndpointConnections",
-    "Microsoft.Batch/privateLinkScopes/scopedResources"
-]

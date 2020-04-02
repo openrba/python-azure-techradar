@@ -1,6 +1,0 @@
-[
-    "Microsoft.AppPlatform/profiles/endpoints",
-    "Microsoft.AppPlatform/profiles/endpoints/customdomains",
-    "Microsoft.AppPlatform/profiles/endpoints/origingroups",
-    "Microsoft.AppPlatform/profiles/endpoints/origins"
-]

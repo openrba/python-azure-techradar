@@ -1,6 +1,0 @@
-[
-    "Microsoft.AppConfiguration/ExternalBillingAccounts/Alerts",
-    "Microsoft.AppConfiguration/ExternalBillingAccounts/Dimensions",
-    "Microsoft.AppConfiguration/ExternalBillingAccounts/Forecast",
-    "Microsoft.AppConfiguration/ExternalBillingAccounts/Query"
-]

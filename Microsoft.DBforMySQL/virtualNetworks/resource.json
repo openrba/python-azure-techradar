@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMySQL/virtualNetworks/remoteVirtualNetworkPeeringProxies",
-    "Microsoft.DBforMySQL/virtualNetworks/subnets",
-    "Microsoft.DBforMySQL/virtualNetworks/virtualNetworkPeerings"
-]

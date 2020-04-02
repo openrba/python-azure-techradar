@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/environments/accessPolicies",
-    "Microsoft.DBforPostgreSQL/environments/eventsources",
-    "Microsoft.DBforPostgreSQL/environments/referenceDataSets"
-]

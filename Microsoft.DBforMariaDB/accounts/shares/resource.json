@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/accounts/shares/datasets",
-    "Microsoft.DBforMariaDB/accounts/shares/invitations",
-    "Microsoft.DBforMariaDB/accounts/shares/providersharesubscriptions",
-    "Microsoft.DBforMariaDB/accounts/shares/synchronizationSettings"
-]

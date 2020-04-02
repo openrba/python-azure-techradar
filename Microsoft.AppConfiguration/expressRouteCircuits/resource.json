@@ -1,5 +1,0 @@
-[
-    "Microsoft.AppConfiguration/expressRouteCircuits/authorizations",
-    "Microsoft.AppConfiguration/expressRouteCircuits/peerings",
-    "Microsoft.AppConfiguration/expressRouteCircuits/peerings/connections"
-]

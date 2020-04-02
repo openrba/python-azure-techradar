@@ -1,5 +1,0 @@
-[
-    "Microsoft.ApiManagement/privateLinkScopes/privateEndpointConnectionProxies",
-    "Microsoft.ApiManagement/privateLinkScopes/privateEndpointConnections",
-    "Microsoft.ApiManagement/privateLinkScopes/scopedResources"
-]

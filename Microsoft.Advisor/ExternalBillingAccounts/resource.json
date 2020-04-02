@@ -1,6 +1,0 @@
-[
-    "Microsoft.Advisor/ExternalBillingAccounts/Alerts",
-    "Microsoft.Advisor/ExternalBillingAccounts/Dimensions",
-    "Microsoft.Advisor/ExternalBillingAccounts/Forecast",
-    "Microsoft.Advisor/ExternalBillingAccounts/Query"
-]

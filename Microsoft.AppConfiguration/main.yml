@@ -1,7 +1,7 @@
 AggregatedCost:
   path: Microsoft.AppConfiguration/AggregatedCost
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/AggregatedCost
   architecture review:
     type: UNKNOWN
@@ -18,7 +18,7 @@ AggregatedCost:
 Alerts:
   path: Microsoft.AppConfiguration/Alerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Alerts
   architecture review:
     type: UNKNOWN
@@ -35,7 +35,7 @@ Alerts:
 AutoProvisioningSettings:
   path: Microsoft.AppConfiguration/AutoProvisioningSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/AutoProvisioningSettings
   architecture review:
     type: UNKNOWN
@@ -52,7 +52,7 @@ AutoProvisioningSettings:
 Balances:
   path: Microsoft.AppConfiguration/Balances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Balances
   architecture review:
     type: UNKNOWN
@@ -69,7 +69,7 @@ Balances:
 BillingAccounts:
   path: Microsoft.AppConfiguration/BillingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/BillingAccounts
   architecture review:
     type: UNKNOWN
@@ -86,7 +86,7 @@ BillingAccounts:
 Budgets:
   path: Microsoft.AppConfiguration/Budgets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Budgets
   architecture review:
     type: UNKNOWN
@@ -103,7 +103,7 @@ Budgets:
 CdnWebApplicationFirewallManagedRuleSets:
   path: Microsoft.AppConfiguration/CdnWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/CdnWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -120,7 +120,7 @@ CdnWebApplicationFirewallManagedRuleSets:
 CdnWebApplicationFirewallPolicies:
   path: Microsoft.AppConfiguration/CdnWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/CdnWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -137,7 +137,7 @@ CdnWebApplicationFirewallPolicies:
 Charges:
   path: Microsoft.AppConfiguration/Charges
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Charges
   architecture review:
     type: UNKNOWN
@@ -154,7 +154,7 @@ Charges:
 CloudConnectors:
   path: Microsoft.AppConfiguration/CloudConnectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/CloudConnectors
   architecture review:
     type: UNKNOWN
@@ -171,7 +171,7 @@ CloudConnectors:
 Compliances:
   path: Microsoft.AppConfiguration/Compliances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Compliances
   architecture review:
     type: UNKNOWN
@@ -188,7 +188,7 @@ Compliances:
 Components:
   path: Microsoft.AppConfiguration/Components
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Components
   architecture review:
     type: UNKNOWN
@@ -205,7 +205,7 @@ Components:
 Connectors:
   path: Microsoft.AppConfiguration/Connectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Connectors
   architecture review:
     type: UNKNOWN
@@ -222,7 +222,7 @@ Connectors:
 CostTags:
   path: Microsoft.AppConfiguration/CostTags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/CostTags
   architecture review:
     type: UNKNOWN
@@ -239,7 +239,7 @@ CostTags:
 CreateSubscription:
   path: Microsoft.AppConfiguration/CreateSubscription
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/CreateSubscription
   architecture review:
     type: UNKNOWN
@@ -256,7 +256,7 @@ CreateSubscription:
 DataBoxEdgeDevices:
   path: Microsoft.AppConfiguration/DataBoxEdgeDevices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/DataBoxEdgeDevices
   architecture review:
     type: UNKNOWN
@@ -273,7 +273,7 @@ DataBoxEdgeDevices:
 Departments:
   path: Microsoft.AppConfiguration/Departments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Departments
   architecture review:
     type: UNKNOWN
@@ -290,7 +290,7 @@ Departments:
 DeviceServices:
   path: Microsoft.AppConfiguration/DeviceServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/DeviceServices
   architecture review:
     type: UNKNOWN
@@ -307,7 +307,7 @@ DeviceServices:
 Dimensions:
   path: Microsoft.AppConfiguration/Dimensions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Dimensions
   architecture review:
     type: UNKNOWN
@@ -324,7 +324,7 @@ Dimensions:
 DomainServices:
   path: Microsoft.AppConfiguration/DomainServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/DomainServices
   architecture review:
     type: UNKNOWN
@@ -341,7 +341,7 @@ DomainServices:
 EnrollmentAccounts:
   path: Microsoft.AppConfiguration/EnrollmentAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/EnrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -358,7 +358,7 @@ EnrollmentAccounts:
 Exports:
   path: Microsoft.AppConfiguration/Exports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Exports
   architecture review:
     type: UNKNOWN
@@ -375,7 +375,7 @@ Exports:
 ExternalBillingAccounts:
   path: Microsoft.AppConfiguration/ExternalBillingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ExternalBillingAccounts
   architecture review:
     type: UNKNOWN
@@ -392,7 +392,7 @@ ExternalBillingAccounts:
 ExternalSubscriptions:
   path: Microsoft.AppConfiguration/ExternalSubscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ExternalSubscriptions
   architecture review:
     type: UNKNOWN
@@ -409,7 +409,7 @@ ExternalSubscriptions:
 Forecast:
   path: Microsoft.AppConfiguration/Forecast
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Forecast
   architecture review:
     type: UNKNOWN
@@ -426,7 +426,7 @@ Forecast:
 Forecasts:
   path: Microsoft.AppConfiguration/Forecasts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Forecasts
   architecture review:
     type: UNKNOWN
@@ -443,7 +443,7 @@ Forecasts:
 Graph:
   path: Microsoft.AppConfiguration/Graph
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Graph
   architecture review:
     type: UNKNOWN
@@ -460,7 +460,7 @@ Graph:
 HyperVSites:
   path: Microsoft.AppConfiguration/HyperVSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/HyperVSites
   architecture review:
     type: UNKNOWN
@@ -477,7 +477,7 @@ HyperVSites:
 Identities:
   path: Microsoft.AppConfiguration/Identities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Identities
   architecture review:
     type: UNKNOWN
@@ -494,7 +494,7 @@ Identities:
 ImportSites:
   path: Microsoft.AppConfiguration/ImportSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ImportSites
   architecture review:
     type: UNKNOWN
@@ -511,7 +511,7 @@ ImportSites:
 InformationProtectionPolicies:
   path: Microsoft.AppConfiguration/InformationProtectionPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/InformationProtectionPolicies
   architecture review:
     type: UNKNOWN
@@ -528,7 +528,7 @@ InformationProtectionPolicies:
 IoTApps:
   path: Microsoft.AppConfiguration/IoTApps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/IoTApps
   architecture review:
     type: UNKNOWN
@@ -545,7 +545,7 @@ IoTApps:
 IotHubs:
   path: Microsoft.AppConfiguration/IotHubs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/IotHubs
   architecture review:
     type: UNKNOWN
@@ -562,7 +562,7 @@ IotHubs:
 Locations:
   path: Microsoft.AppConfiguration/Locations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Locations
   architecture review:
     type: UNKNOWN
@@ -579,7 +579,7 @@ Locations:
 Marketplaces:
   path: Microsoft.AppConfiguration/Marketplaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Marketplaces
   architecture review:
     type: UNKNOWN
@@ -596,7 +596,7 @@ Marketplaces:
 Namespaces:
   path: Microsoft.AppConfiguration/Namespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Namespaces
   architecture review:
     type: UNKNOWN
@@ -613,7 +613,7 @@ Namespaces:
 OperationResults:
   path: Microsoft.AppConfiguration/OperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/OperationResults
   architecture review:
     type: UNKNOWN
@@ -630,7 +630,7 @@ OperationResults:
 OperationStatus:
   path: Microsoft.AppConfiguration/OperationStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/OperationStatus
   architecture review:
     type: UNKNOWN
@@ -647,7 +647,7 @@ OperationStatus:
 Operations:
   path: Microsoft.AppConfiguration/Operations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Operations
   architecture review:
     type: UNKNOWN
@@ -664,7 +664,7 @@ Operations:
 Pricesheets:
   path: Microsoft.AppConfiguration/Pricesheets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Pricesheets
   architecture review:
     type: UNKNOWN
@@ -681,7 +681,7 @@ Pricesheets:
 ProvisioningServices:
   path: Microsoft.AppConfiguration/ProvisioningServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ProvisioningServices
   architecture review:
     type: UNKNOWN
@@ -698,7 +698,7 @@ ProvisioningServices:
 Query:
   path: Microsoft.AppConfiguration/Query
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Query
   architecture review:
     type: UNKNOWN
@@ -715,7 +715,7 @@ Query:
 RateCard:
   path: Microsoft.AppConfiguration/RateCard
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/RateCard
   architecture review:
     type: UNKNOWN
@@ -732,7 +732,7 @@ RateCard:
 Redis:
   path: Microsoft.AppConfiguration/Redis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Redis
   architecture review:
     type: UNKNOWN
@@ -749,7 +749,7 @@ Redis:
 Reportconfigs:
   path: Microsoft.AppConfiguration/Reportconfigs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Reportconfigs
   architecture review:
     type: UNKNOWN
@@ -766,7 +766,7 @@ Reportconfigs:
 Reports:
   path: Microsoft.AppConfiguration/Reports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Reports
   architecture review:
     type: UNKNOWN
@@ -783,7 +783,7 @@ Reports:
 ReservationDetails:
   path: Microsoft.AppConfiguration/ReservationDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ReservationDetails
   architecture review:
     type: UNKNOWN
@@ -800,7 +800,7 @@ ReservationDetails:
 ReservationRecommendations:
   path: Microsoft.AppConfiguration/ReservationRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ReservationRecommendations
   architecture review:
     type: UNKNOWN
@@ -817,7 +817,7 @@ ReservationRecommendations:
 ReservationSummaries:
   path: Microsoft.AppConfiguration/ReservationSummaries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ReservationSummaries
   architecture review:
     type: UNKNOWN
@@ -834,7 +834,7 @@ ReservationSummaries:
 ReservationTransactions:
   path: Microsoft.AppConfiguration/ReservationTransactions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ReservationTransactions
   architecture review:
     type: UNKNOWN
@@ -851,7 +851,7 @@ ReservationTransactions:
 ServerSites:
   path: Microsoft.AppConfiguration/ServerSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ServerSites
   architecture review:
     type: UNKNOWN
@@ -868,7 +868,7 @@ ServerSites:
 Settings:
   path: Microsoft.AppConfiguration/Settings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Settings
   architecture review:
     type: UNKNOWN
@@ -885,7 +885,7 @@ Settings:
 SignalR:
   path: Microsoft.AppConfiguration/SignalR
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/SignalR
   architecture review:
     type: UNKNOWN
@@ -902,7 +902,7 @@ SignalR:
 Spring:
   path: Microsoft.AppConfiguration/Spring
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Spring
   architecture review:
     type: UNKNOWN
@@ -919,7 +919,7 @@ Spring:
 SqlVirtualMachineGroups:
   path: Microsoft.AppConfiguration/SqlVirtualMachineGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/SqlVirtualMachineGroups
   architecture review:
     type: UNKNOWN
@@ -936,7 +936,7 @@ SqlVirtualMachineGroups:
 SqlVirtualMachines:
   path: Microsoft.AppConfiguration/SqlVirtualMachines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/SqlVirtualMachines
   architecture review:
     type: UNKNOWN
@@ -953,7 +953,7 @@ SqlVirtualMachines:
 SubscriptionDefinitions:
   path: Microsoft.AppConfiguration/SubscriptionDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/SubscriptionDefinitions
   architecture review:
     type: UNKNOWN
@@ -970,7 +970,7 @@ SubscriptionDefinitions:
 SubscriptionOperations:
   path: Microsoft.AppConfiguration/SubscriptionOperations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/SubscriptionOperations
   architecture review:
     type: UNKNOWN
@@ -987,7 +987,7 @@ SubscriptionOperations:
 Tags:
   path: Microsoft.AppConfiguration/Tags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Tags
   architecture review:
     type: UNKNOWN
@@ -1004,7 +1004,7 @@ Tags:
 Terms:
   path: Microsoft.AppConfiguration/Terms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Terms
   architecture review:
     type: UNKNOWN
@@ -1021,7 +1021,7 @@ Terms:
 UsageAggregates:
   path: Microsoft.AppConfiguration/UsageAggregates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/UsageAggregates
   architecture review:
     type: UNKNOWN
@@ -1038,7 +1038,7 @@ UsageAggregates:
 UsageDetails:
   path: Microsoft.AppConfiguration/UsageDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/UsageDetails
   architecture review:
     type: UNKNOWN
@@ -1055,7 +1055,7 @@ UsageDetails:
 VMwareSites:
   path: Microsoft.AppConfiguration/VMwareSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/VMwareSites
   architecture review:
     type: UNKNOWN
@@ -1072,7 +1072,7 @@ VMwareSites:
 Vaults:
   path: Microsoft.AppConfiguration/Vaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Vaults
   architecture review:
     type: UNKNOWN
@@ -1089,7 +1089,7 @@ Vaults:
 Views:
   path: Microsoft.AppConfiguration/Views
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Views
   architecture review:
     type: UNKNOWN
@@ -1106,7 +1106,7 @@ Views:
 Workspaces:
   path: Microsoft.AppConfiguration/Workspaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/Workspaces
   architecture review:
     type: UNKNOWN
@@ -1123,7 +1123,7 @@ Workspaces:
 aadsupportcases:
   path: Microsoft.AppConfiguration/aadsupportcases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/aadsupportcases
   architecture review:
     type: UNKNOWN
@@ -1140,7 +1140,7 @@ aadsupportcases:
 account:
   path: Microsoft.AppConfiguration/account
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/account
   architecture review:
     type: UNKNOWN
@@ -1157,7 +1157,7 @@ account:
 accounts:
   path: Microsoft.AppConfiguration/accounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/accounts
   architecture review:
     type: UNKNOWN
@@ -1174,7 +1174,7 @@ accounts:
 actionRules:
   path: Microsoft.AppConfiguration/actionRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/actionRules
   architecture review:
     type: UNKNOWN
@@ -1191,7 +1191,7 @@ actionRules:
 actiongroups:
   path: Microsoft.AppConfiguration/actiongroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/actiongroups
   architecture review:
     type: UNKNOWN
@@ -1208,7 +1208,7 @@ actiongroups:
 activityLogAlerts:
   path: Microsoft.AppConfiguration/activityLogAlerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/activityLogAlerts
   architecture review:
     type: UNKNOWN
@@ -1225,7 +1225,7 @@ activityLogAlerts:
 adaptiveNetworkHardenings:
   path: Microsoft.AppConfiguration/adaptiveNetworkHardenings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/adaptiveNetworkHardenings
   architecture review:
     type: UNKNOWN
@@ -1242,7 +1242,7 @@ adaptiveNetworkHardenings:
 addsservices:
   path: Microsoft.AppConfiguration/addsservices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/addsservices
   architecture review:
     type: UNKNOWN
@@ -1259,7 +1259,7 @@ addsservices:
 advancedThreatProtectionSettings:
   path: Microsoft.AppConfiguration/advancedThreatProtectionSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/advancedThreatProtectionSettings
   architecture review:
     type: UNKNOWN
@@ -1276,7 +1276,7 @@ advancedThreatProtectionSettings:
 agents:
   path: Microsoft.AppConfiguration/agents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/agents
   architecture review:
     type: UNKNOWN
@@ -1293,7 +1293,7 @@ agents:
 aggregations:
   path: Microsoft.AppConfiguration/aggregations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/aggregations
   architecture review:
     type: UNKNOWN
@@ -1310,7 +1310,7 @@ aggregations:
 agreements:
   path: Microsoft.AppConfiguration/agreements
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/agreements
   architecture review:
     type: UNKNOWN
@@ -1327,7 +1327,7 @@ agreements:
 alertRuleTemplates:
   path: Microsoft.AppConfiguration/alertRuleTemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/alertRuleTemplates
   architecture review:
     type: UNKNOWN
@@ -1344,7 +1344,7 @@ alertRuleTemplates:
 alertRules:
   path: Microsoft.AppConfiguration/alertRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/alertRules
   architecture review:
     type: UNKNOWN
@@ -1361,7 +1361,7 @@ alertRules:
 alertrules:
   path: Microsoft.AppConfiguration/alertrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/alertrules
   architecture review:
     type: UNKNOWN
@@ -1378,7 +1378,7 @@ alertrules:
 alerts:
   path: Microsoft.AppConfiguration/alerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/alerts
   architecture review:
     type: UNKNOWN
@@ -1395,7 +1395,7 @@ alerts:
 alertsList:
   path: Microsoft.AppConfiguration/alertsList
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/alertsList
   architecture review:
     type: UNKNOWN
@@ -1412,7 +1412,7 @@ alertsList:
 alertsMetaData:
   path: Microsoft.AppConfiguration/alertsMetaData
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/alertsMetaData
   architecture review:
     type: UNKNOWN
@@ -1429,7 +1429,7 @@ alertsMetaData:
 alertsSummary:
   path: Microsoft.AppConfiguration/alertsSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/alertsSummary
   architecture review:
     type: UNKNOWN
@@ -1446,7 +1446,7 @@ alertsSummary:
 alertsSummaryList:
   path: Microsoft.AppConfiguration/alertsSummaryList
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/alertsSummaryList
   architecture review:
     type: UNKNOWN
@@ -1463,7 +1463,7 @@ alertsSummaryList:
 allowedConnections:
   path: Microsoft.AppConfiguration/allowedConnections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/allowedConnections
   architecture review:
     type: UNKNOWN
@@ -1480,7 +1480,7 @@ allowedConnections:
 anonymousapiusers:
   path: Microsoft.AppConfiguration/anonymousapiusers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/anonymousapiusers
   architecture review:
     type: UNKNOWN
@@ -1497,7 +1497,7 @@ anonymousapiusers:
 appTemplates:
   path: Microsoft.AppConfiguration/appTemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/appTemplates
   architecture review:
     type: UNKNOWN
@@ -1514,7 +1514,7 @@ appTemplates:
 applicationDefinitions:
   path: Microsoft.AppConfiguration/applicationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/applicationDefinitions
   architecture review:
     type: UNKNOWN
@@ -1531,7 +1531,7 @@ applicationDefinitions:
 applicationGatewayAvailableRequestHeaders:
   path: Microsoft.AppConfiguration/applicationGatewayAvailableRequestHeaders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/applicationGatewayAvailableRequestHeaders
   architecture review:
     type: UNKNOWN
@@ -1548,7 +1548,7 @@ applicationGatewayAvailableRequestHeaders:
 applicationGatewayAvailableResponseHeaders:
   path: Microsoft.AppConfiguration/applicationGatewayAvailableResponseHeaders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/applicationGatewayAvailableResponseHeaders
   architecture review:
     type: UNKNOWN
@@ -1565,7 +1565,7 @@ applicationGatewayAvailableResponseHeaders:
 applicationGatewayAvailableServerVariables:
   path: Microsoft.AppConfiguration/applicationGatewayAvailableServerVariables
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/applicationGatewayAvailableServerVariables
   architecture review:
     type: UNKNOWN
@@ -1582,7 +1582,7 @@ applicationGatewayAvailableServerVariables:
 applicationGatewayAvailableSslOptions:
   path: Microsoft.AppConfiguration/applicationGatewayAvailableSslOptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/applicationGatewayAvailableSslOptions
   architecture review:
     type: UNKNOWN
@@ -1599,7 +1599,7 @@ applicationGatewayAvailableSslOptions:
 applicationGatewayAvailableWafRuleSets:
   path: Microsoft.AppConfiguration/applicationGatewayAvailableWafRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/applicationGatewayAvailableWafRuleSets
   architecture review:
     type: UNKNOWN
@@ -1616,7 +1616,7 @@ applicationGatewayAvailableWafRuleSets:
 applicationGatewayWebApplicationFirewallPolicies:
   path: Microsoft.AppConfiguration/applicationGatewayWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/applicationGatewayWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -1633,7 +1633,7 @@ applicationGatewayWebApplicationFirewallPolicies:
 applicationGateways:
   path: Microsoft.AppConfiguration/applicationGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/applicationGateways
   architecture review:
     type: UNKNOWN
@@ -1650,7 +1650,7 @@ applicationGateways:
 applicationSecurityGroups:
   path: Microsoft.AppConfiguration/applicationSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/applicationSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -1667,7 +1667,7 @@ applicationSecurityGroups:
 applicationWhitelistings:
   path: Microsoft.AppConfiguration/applicationWhitelistings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/applicationWhitelistings
   architecture review:
     type: UNKNOWN
@@ -1684,7 +1684,7 @@ applicationWhitelistings:
 applications:
   path: Microsoft.AppConfiguration/applications
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/applications
   architecture review:
     type: UNKNOWN
@@ -1701,7 +1701,7 @@ applications:
 appliedReservations:
   path: Microsoft.AppConfiguration/appliedReservations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/appliedReservations
   architecture review:
     type: UNKNOWN
@@ -1718,7 +1718,7 @@ appliedReservations:
 applyUpdates:
   path: Microsoft.AppConfiguration/applyUpdates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/applyUpdates
   architecture review:
     type: UNKNOWN
@@ -1735,7 +1735,7 @@ applyUpdates:
 apps:
   path: Microsoft.AppConfiguration/apps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/apps
   architecture review:
     type: UNKNOWN
@@ -1752,7 +1752,7 @@ apps:
 artifactSources:
   path: Microsoft.AppConfiguration/artifactSources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/artifactSources
   architecture review:
     type: UNKNOWN
@@ -1769,7 +1769,7 @@ artifactSources:
 assessmentMetadata:
   path: Microsoft.AppConfiguration/assessmentMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/assessmentMetadata
   architecture review:
     type: UNKNOWN
@@ -1786,7 +1786,7 @@ assessmentMetadata:
 assessmentProjects:
   path: Microsoft.AppConfiguration/assessmentProjects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/assessmentProjects
   architecture review:
     type: UNKNOWN
@@ -1803,7 +1803,7 @@ assessmentProjects:
 assessmentprojects:
   path: Microsoft.AppConfiguration/assessmentprojects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/assessmentprojects
   architecture review:
     type: UNKNOWN
@@ -1820,7 +1820,7 @@ assessmentprojects:
 assessments:
   path: Microsoft.AppConfiguration/assessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/assessments
   architecture review:
     type: UNKNOWN
@@ -1837,7 +1837,7 @@ assessments:
 associations:
   path: Microsoft.AppConfiguration/associations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/associations
   architecture review:
     type: UNKNOWN
@@ -1854,7 +1854,7 @@ associations:
 asyncOperationResults:
   path: Microsoft.AppConfiguration/asyncOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/asyncOperationResults
   architecture review:
     type: UNKNOWN
@@ -1871,7 +1871,7 @@ asyncOperationResults:
 attestationProviders:
   path: Microsoft.AppConfiguration/attestationProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/attestationProviders
   architecture review:
     type: UNKNOWN
@@ -1888,7 +1888,7 @@ attestationProviders:
 autoDismissAlertsRules:
   path: Microsoft.AppConfiguration/autoDismissAlertsRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/autoDismissAlertsRules
   architecture review:
     type: UNKNOWN
@@ -1905,7 +1905,7 @@ autoDismissAlertsRules:
 automationAccounts:
   path: Microsoft.AppConfiguration/automationAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/automationAccounts
   architecture review:
     type: UNKNOWN
@@ -1922,7 +1922,7 @@ automationAccounts:
 automations:
   path: Microsoft.AppConfiguration/automations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/automations
   architecture review:
     type: UNKNOWN
@@ -1939,7 +1939,7 @@ automations:
 autoscalesettings:
   path: Microsoft.AppConfiguration/autoscalesettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/autoscalesettings
   architecture review:
     type: UNKNOWN
@@ -1956,7 +1956,7 @@ autoscalesettings:
 availabilitySets:
   path: Microsoft.AppConfiguration/availabilitySets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/availabilitySets
   architecture review:
     type: UNKNOWN
@@ -1973,7 +1973,7 @@ availabilitySets:
 availabilityStatuses:
   path: Microsoft.AppConfiguration/availabilityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/availabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -1990,7 +1990,7 @@ availabilityStatuses:
 availableAccounts:
   path: Microsoft.AppConfiguration/availableAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/availableAccounts
   architecture review:
     type: UNKNOWN
@@ -2007,7 +2007,7 @@ availableAccounts:
 availableClusterRegions:
   path: Microsoft.AppConfiguration/availableClusterRegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/availableClusterRegions
   architecture review:
     type: UNKNOWN
@@ -2024,7 +2024,7 @@ availableClusterRegions:
 availableStacks:
   path: Microsoft.AppConfiguration/availableStacks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/availableStacks
   architecture review:
     type: UNKNOWN
@@ -2041,7 +2041,7 @@ availableStacks:
 azureFirewallFqdnTags:
   path: Microsoft.AppConfiguration/azureFirewallFqdnTags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/azureFirewallFqdnTags
   architecture review:
     type: UNKNOWN
@@ -2058,7 +2058,7 @@ azureFirewallFqdnTags:
 azureFirewalls:
   path: Microsoft.AppConfiguration/azureFirewalls
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/azureFirewalls
   architecture review:
     type: UNKNOWN
@@ -2075,7 +2075,7 @@ azureFirewalls:
 b2cDirectories:
   path: Microsoft.AppConfiguration/b2cDirectories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/b2cDirectories
   architecture review:
     type: UNKNOWN
@@ -2092,7 +2092,7 @@ b2cDirectories:
 b2ctenants:
   path: Microsoft.AppConfiguration/b2ctenants
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/b2ctenants
   architecture review:
     type: UNKNOWN
@@ -2109,7 +2109,7 @@ b2ctenants:
 backupProtectedItems:
   path: Microsoft.AppConfiguration/backupProtectedItems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/backupProtectedItems
   architecture review:
     type: UNKNOWN
@@ -2126,7 +2126,7 @@ backupProtectedItems:
 baseline:
   path: Microsoft.AppConfiguration/baseline
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/baseline
   architecture review:
     type: UNKNOWN
@@ -2143,7 +2143,7 @@ baseline:
 bastionHosts:
   path: Microsoft.AppConfiguration/bastionHosts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/bastionHosts
   architecture review:
     type: UNKNOWN
@@ -2160,7 +2160,7 @@ bastionHosts:
 batchAccounts:
   path: Microsoft.AppConfiguration/batchAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/batchAccounts
   architecture review:
     type: UNKNOWN
@@ -2177,7 +2177,7 @@ batchAccounts:
 bgpServiceCommunities:
   path: Microsoft.AppConfiguration/bgpServiceCommunities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/bgpServiceCommunities
   architecture review:
     type: UNKNOWN
@@ -2194,7 +2194,7 @@ bgpServiceCommunities:
 billingAccounts:
   path: Microsoft.AppConfiguration/billingAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/billingAccounts
   architecture review:
     type: UNKNOWN
@@ -2211,7 +2211,7 @@ billingAccounts:
 billingMeters:
   path: Microsoft.AppConfiguration/billingMeters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/billingMeters
   architecture review:
     type: UNKNOWN
@@ -2228,7 +2228,7 @@ billingMeters:
 billingPeriods:
   path: Microsoft.AppConfiguration/billingPeriods
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/billingPeriods
   architecture review:
     type: UNKNOWN
@@ -2245,7 +2245,7 @@ billingPeriods:
 billingPermissions:
   path: Microsoft.AppConfiguration/billingPermissions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/billingPermissions
   architecture review:
     type: UNKNOWN
@@ -2262,7 +2262,7 @@ billingPermissions:
 billingProperty:
   path: Microsoft.AppConfiguration/billingProperty
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/billingProperty
   architecture review:
     type: UNKNOWN
@@ -2279,7 +2279,7 @@ billingProperty:
 billingRoleAssignments:
   path: Microsoft.AppConfiguration/billingRoleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/billingRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -2296,7 +2296,7 @@ billingRoleAssignments:
 billingRoleDefinitions:
   path: Microsoft.AppConfiguration/billingRoleDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/billingRoleDefinitions
   architecture review:
     type: UNKNOWN
@@ -2313,7 +2313,7 @@ billingRoleDefinitions:
 blockchainMembers:
   path: Microsoft.AppConfiguration/blockchainMembers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/blockchainMembers
   architecture review:
     type: UNKNOWN
@@ -2330,7 +2330,7 @@ blockchainMembers:
 blueprintAssignments:
   path: Microsoft.AppConfiguration/blueprintAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/blueprintAssignments
   architecture review:
     type: UNKNOWN
@@ -2347,7 +2347,7 @@ blueprintAssignments:
 blueprints:
   path: Microsoft.AppConfiguration/blueprints
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/blueprints
   architecture review:
     type: UNKNOWN
@@ -2364,7 +2364,7 @@ blueprints:
 bookmarks:
   path: Microsoft.AppConfiguration/bookmarks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/bookmarks
   architecture review:
     type: UNKNOWN
@@ -2381,7 +2381,7 @@ bookmarks:
 botServices:
   path: Microsoft.AppConfiguration/botServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/botServices
   architecture review:
     type: UNKNOWN
@@ -2398,7 +2398,7 @@ botServices:
 calculateExchange:
   path: Microsoft.AppConfiguration/calculateExchange
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/calculateExchange
   architecture review:
     type: UNKNOWN
@@ -2415,7 +2415,7 @@ calculateExchange:
 calculatePrice:
   path: Microsoft.AppConfiguration/calculatePrice
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/calculatePrice
   architecture review:
     type: UNKNOWN
@@ -2432,7 +2432,7 @@ calculatePrice:
 calculatePurchasePrice:
   path: Microsoft.AppConfiguration/calculatePurchasePrice
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/calculatePurchasePrice
   architecture review:
     type: UNKNOWN
@@ -2449,7 +2449,7 @@ calculatePurchasePrice:
 calculatebaseline:
   path: Microsoft.AppConfiguration/calculatebaseline
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/calculatebaseline
   architecture review:
     type: UNKNOWN
@@ -2466,7 +2466,7 @@ calculatebaseline:
 cancel:
   path: Microsoft.AppConfiguration/cancel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/cancel
   architecture review:
     type: UNKNOWN
@@ -2483,7 +2483,7 @@ cancel:
 capabilities:
   path: Microsoft.AppConfiguration/capabilities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/capabilities
   architecture review:
     type: UNKNOWN
@@ -2500,7 +2500,7 @@ capabilities:
 capacities:
   path: Microsoft.AppConfiguration/capacities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/capacities
   architecture review:
     type: UNKNOWN
@@ -2517,7 +2517,7 @@ capacities:
 cases:
   path: Microsoft.AppConfiguration/cases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/cases
   architecture review:
     type: UNKNOWN
@@ -2534,7 +2534,7 @@ cases:
 catalogs:
   path: Microsoft.AppConfiguration/catalogs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/catalogs
   architecture review:
     type: UNKNOWN
@@ -2551,7 +2551,7 @@ catalogs:
 certificateOrders:
   path: Microsoft.AppConfiguration/certificateOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/certificateOrders
   architecture review:
     type: UNKNOWN
@@ -2568,7 +2568,7 @@ certificateOrders:
 certificates:
   path: Microsoft.AppConfiguration/certificates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/certificates
   architecture review:
     type: UNKNOWN
@@ -2585,7 +2585,7 @@ certificates:
 checkAccess:
   path: Microsoft.AppConfiguration/checkAccess
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkAccess
   architecture review:
     type: UNKNOWN
@@ -2602,7 +2602,7 @@ checkAccess:
 checkAzureDataFactoryNameAvailability:
   path: Microsoft.AppConfiguration/checkAzureDataFactoryNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkAzureDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2619,7 +2619,7 @@ checkAzureDataFactoryNameAvailability:
 checkDataFactoryNameAvailability:
   path: Microsoft.AppConfiguration/checkDataFactoryNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkDataFactoryNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2636,7 +2636,7 @@ checkDataFactoryNameAvailability:
 checkDomainAvailability:
   path: Microsoft.AppConfiguration/checkDomainAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkDomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2653,7 +2653,7 @@ checkDomainAvailability:
 checkDomainNameAvailability:
   path: Microsoft.AppConfiguration/checkDomainNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkDomainNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2670,7 +2670,7 @@ checkDomainNameAvailability:
 checkFeedbackRequired:
   path: Microsoft.AppConfiguration/checkFeedbackRequired
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkFeedbackRequired
   architecture review:
     type: UNKNOWN
@@ -2687,7 +2687,7 @@ checkFeedbackRequired:
 checkFrontdoorNameAvailability:
   path: Microsoft.AppConfiguration/checkFrontdoorNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkFrontdoorNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2704,7 +2704,7 @@ checkFrontdoorNameAvailability:
 checkModernEligibility:
   path: Microsoft.AppConfiguration/checkModernEligibility
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkModernEligibility
   architecture review:
     type: UNKNOWN
@@ -2721,7 +2721,7 @@ checkModernEligibility:
 checkNameAvailability:
   path: Microsoft.AppConfiguration/checkNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2738,7 +2738,7 @@ checkNameAvailability:
 checkNamespaceAvailability:
   path: Microsoft.AppConfiguration/checkNamespaceAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkNamespaceAvailability
   architecture review:
     type: UNKNOWN
@@ -2755,7 +2755,7 @@ checkNamespaceAvailability:
 checkOffers:
   path: Microsoft.AppConfiguration/checkOffers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkOffers
   architecture review:
     type: UNKNOWN
@@ -2772,7 +2772,7 @@ checkOffers:
 checkPolicyCompliance:
   path: Microsoft.AppConfiguration/checkPolicyCompliance
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkPolicyCompliance
   architecture review:
     type: UNKNOWN
@@ -2789,7 +2789,7 @@ checkPolicyCompliance:
 checkProvisioningServiceNameAvailability:
   path: Microsoft.AppConfiguration/checkProvisioningServiceNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkProvisioningServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2806,7 +2806,7 @@ checkProvisioningServiceNameAvailability:
 checkPurchaseStatus:
   path: Microsoft.AppConfiguration/checkPurchaseStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkPurchaseStatus
   architecture review:
     type: UNKNOWN
@@ -2823,7 +2823,7 @@ checkPurchaseStatus:
 checkResourceUsage:
   path: Microsoft.AppConfiguration/checkResourceUsage
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkResourceUsage
   architecture review:
     type: UNKNOWN
@@ -2840,7 +2840,7 @@ checkResourceUsage:
 checkScopes:
   path: Microsoft.AppConfiguration/checkScopes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkScopes
   architecture review:
     type: UNKNOWN
@@ -2857,7 +2857,7 @@ checkScopes:
 checkServiceNameAvailability:
   path: Microsoft.AppConfiguration/checkServiceNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkServiceNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2874,7 +2874,7 @@ checkServiceNameAvailability:
 checkServiceProviderAvailability:
   path: Microsoft.AppConfiguration/checkServiceProviderAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkServiceProviderAvailability
   architecture review:
     type: UNKNOWN
@@ -2891,7 +2891,7 @@ checkServiceProviderAvailability:
 checkStorageAccountAvailability:
   path: Microsoft.AppConfiguration/checkStorageAccountAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkStorageAccountAvailability
   architecture review:
     type: UNKNOWN
@@ -2908,7 +2908,7 @@ checkStorageAccountAvailability:
 checkSubdomainAvailability:
   path: Microsoft.AppConfiguration/checkSubdomainAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkSubdomainAvailability
   architecture review:
     type: UNKNOWN
@@ -2925,7 +2925,7 @@ checkSubdomainAvailability:
 checkTrafficManagerNameAvailability:
   path: Microsoft.AppConfiguration/checkTrafficManagerNameAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkTrafficManagerNameAvailability
   architecture review:
     type: UNKNOWN
@@ -2942,7 +2942,7 @@ checkTrafficManagerNameAvailability:
 checknameavailability:
   path: Microsoft.AppConfiguration/checknameavailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checknameavailability
   architecture review:
     type: UNKNOWN
@@ -2959,7 +2959,7 @@ checknameavailability:
 checkresourcename:
   path: Microsoft.AppConfiguration/checkresourcename
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/checkresourcename
   architecture review:
     type: UNKNOWN
@@ -2976,7 +2976,7 @@ checkresourcename:
 childAvailabilityStatuses:
   path: Microsoft.AppConfiguration/childAvailabilityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/childAvailabilityStatuses
   architecture review:
     type: UNKNOWN
@@ -2993,7 +2993,7 @@ childAvailabilityStatuses:
 childResources:
   path: Microsoft.AppConfiguration/childResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/childResources
   architecture review:
     type: UNKNOWN
@@ -3010,7 +3010,7 @@ childResources:
 classicAdministrators:
   path: Microsoft.AppConfiguration/classicAdministrators
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/classicAdministrators
   architecture review:
     type: UNKNOWN
@@ -3027,7 +3027,7 @@ classicAdministrators:
 classicDevServices:
   path: Microsoft.AppConfiguration/classicDevServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/classicDevServices
   architecture review:
     type: UNKNOWN
@@ -3044,7 +3044,7 @@ classicDevServices:
 classicInfrastructureResources:
   path: Microsoft.AppConfiguration/classicInfrastructureResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/classicInfrastructureResources
   architecture review:
     type: UNKNOWN
@@ -3061,7 +3061,7 @@ classicInfrastructureResources:
 cloudManifestFiles:
   path: Microsoft.AppConfiguration/cloudManifestFiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/cloudManifestFiles
   architecture review:
     type: UNKNOWN
@@ -3078,7 +3078,7 @@ cloudManifestFiles:
 clusters:
   path: Microsoft.AppConfiguration/clusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/clusters
   architecture review:
     type: UNKNOWN
@@ -3095,7 +3095,7 @@ clusters:
 commercialReservationOrders:
   path: Microsoft.AppConfiguration/commercialReservationOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/commercialReservationOrders
   architecture review:
     type: UNKNOWN
@@ -3112,7 +3112,7 @@ commercialReservationOrders:
 commitmentPlans:
   path: Microsoft.AppConfiguration/commitmentPlans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/commitmentPlans
   architecture review:
     type: UNKNOWN
@@ -3129,7 +3129,7 @@ commitmentPlans:
 complianceResults:
   path: Microsoft.AppConfiguration/complianceResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/complianceResults
   architecture review:
     type: UNKNOWN
@@ -3146,7 +3146,7 @@ complianceResults:
 components:
   path: Microsoft.AppConfiguration/components
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/components
   architecture review:
     type: UNKNOWN
@@ -3163,7 +3163,7 @@ components:
 componentsSummary:
   path: Microsoft.AppConfiguration/componentsSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/componentsSummary
   architecture review:
     type: UNKNOWN
@@ -3180,7 +3180,7 @@ componentsSummary:
 configuration:
   path: Microsoft.AppConfiguration/configuration
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/configuration
   architecture review:
     type: UNKNOWN
@@ -3197,7 +3197,7 @@ configuration:
 configurationAssignments:
   path: Microsoft.AppConfiguration/configurationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/configurationAssignments
   architecture review:
     type: UNKNOWN
@@ -3214,7 +3214,7 @@ configurationAssignments:
 configurationStores:
   path: Microsoft.AppConfiguration/configurationStores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/configurationStores
   architecture review:
     type: UNKNOWN
@@ -3231,7 +3231,7 @@ configurationStores:
 configurations:
   path: Microsoft.AppConfiguration/configurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/configurations
   architecture review:
     type: UNKNOWN
@@ -3248,7 +3248,7 @@ configurations:
 connectionGateways:
   path: Microsoft.AppConfiguration/connectionGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/connectionGateways
   architecture review:
     type: UNKNOWN
@@ -3265,7 +3265,7 @@ connectionGateways:
 connections:
   path: Microsoft.AppConfiguration/connections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/connections
   architecture review:
     type: UNKNOWN
@@ -3282,7 +3282,7 @@ connections:
 consoleServices:
   path: Microsoft.AppConfiguration/consoleServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/consoleServices
   architecture review:
     type: UNKNOWN
@@ -3299,7 +3299,7 @@ consoleServices:
 consoles:
   path: Microsoft.AppConfiguration/consoles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/consoles
   architecture review:
     type: UNKNOWN
@@ -3316,7 +3316,7 @@ consoles:
 containerGroups:
   path: Microsoft.AppConfiguration/containerGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/containerGroups
   architecture review:
     type: UNKNOWN
@@ -3333,7 +3333,7 @@ containerGroups:
 containerServices:
   path: Microsoft.AppConfiguration/containerServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/containerServices
   architecture review:
     type: UNKNOWN
@@ -3350,7 +3350,7 @@ containerServices:
 controllers:
   path: Microsoft.AppConfiguration/controllers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/controllers
   architecture review:
     type: UNKNOWN
@@ -3367,7 +3367,7 @@ controllers:
 createBillingRoleAssignment:
   path: Microsoft.AppConfiguration/createBillingRoleAssignment
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/createBillingRoleAssignment
   architecture review:
     type: UNKNOWN
@@ -3384,7 +3384,7 @@ createBillingRoleAssignment:
 credits:
   path: Microsoft.AppConfiguration/credits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/credits
   architecture review:
     type: UNKNOWN
@@ -3401,7 +3401,7 @@ credits:
 customApis:
   path: Microsoft.AppConfiguration/customApis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/customApis
   architecture review:
     type: UNKNOWN
@@ -3418,7 +3418,7 @@ customApis:
 dashboards:
   path: Microsoft.AppConfiguration/dashboards
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dashboards
   architecture review:
     type: UNKNOWN
@@ -3435,7 +3435,7 @@ dashboards:
 dataAliases:
   path: Microsoft.AppConfiguration/dataAliases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dataAliases
   architecture review:
     type: UNKNOWN
@@ -3452,7 +3452,7 @@ dataAliases:
 dataCollectionAgents:
   path: Microsoft.AppConfiguration/dataCollectionAgents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dataCollectionAgents
   architecture review:
     type: UNKNOWN
@@ -3469,7 +3469,7 @@ dataCollectionAgents:
 dataConnectors:
   path: Microsoft.AppConfiguration/dataConnectors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dataConnectors
   architecture review:
     type: UNKNOWN
@@ -3486,7 +3486,7 @@ dataConnectors:
 dataConnectorsCheckRequirements:
   path: Microsoft.AppConfiguration/dataConnectorsCheckRequirements
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dataConnectorsCheckRequirements
   architecture review:
     type: UNKNOWN
@@ -3503,7 +3503,7 @@ dataConnectorsCheckRequirements:
 dataFactories:
   path: Microsoft.AppConfiguration/dataFactories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dataFactories
   architecture review:
     type: UNKNOWN
@@ -3520,7 +3520,7 @@ dataFactories:
 dataFactorySchema:
   path: Microsoft.AppConfiguration/dataFactorySchema
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dataFactorySchema
   architecture review:
     type: UNKNOWN
@@ -3537,7 +3537,7 @@ dataFactorySchema:
 dataManagers:
   path: Microsoft.AppConfiguration/dataManagers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dataManagers
   architecture review:
     type: UNKNOWN
@@ -3554,7 +3554,7 @@ dataManagers:
 databaseAccountNames:
   path: Microsoft.AppConfiguration/databaseAccountNames
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/databaseAccountNames
   architecture review:
     type: UNKNOWN
@@ -3571,7 +3571,7 @@ databaseAccountNames:
 databaseAccounts:
   path: Microsoft.AppConfiguration/databaseAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/databaseAccounts
   architecture review:
     type: UNKNOWN
@@ -3588,7 +3588,7 @@ databaseAccounts:
 databases:
   path: Microsoft.AppConfiguration/databases
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/databases
   architecture review:
     type: UNKNOWN
@@ -3605,7 +3605,7 @@ databases:
 ddosCustomPolicies:
   path: Microsoft.AppConfiguration/ddosCustomPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ddosCustomPolicies
   architecture review:
     type: UNKNOWN
@@ -3622,7 +3622,7 @@ ddosCustomPolicies:
 ddosProtectionPlans:
   path: Microsoft.AppConfiguration/ddosProtectionPlans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ddosProtectionPlans
   architecture review:
     type: UNKNOWN
@@ -3639,7 +3639,7 @@ ddosProtectionPlans:
 dedicatedCloudNodes:
   path: Microsoft.AppConfiguration/dedicatedCloudNodes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dedicatedCloudNodes
   architecture review:
     type: UNKNOWN
@@ -3656,7 +3656,7 @@ dedicatedCloudNodes:
 dedicatedCloudServices:
   path: Microsoft.AppConfiguration/dedicatedCloudServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dedicatedCloudServices
   architecture review:
     type: UNKNOWN
@@ -3673,7 +3673,7 @@ dedicatedCloudServices:
 deletedSites:
   path: Microsoft.AppConfiguration/deletedSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/deletedSites
   architecture review:
     type: UNKNOWN
@@ -3690,7 +3690,7 @@ deletedSites:
 deletedVaults:
   path: Microsoft.AppConfiguration/deletedVaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/deletedVaults
   architecture review:
     type: UNKNOWN
@@ -3707,7 +3707,7 @@ deletedVaults:
 denyAssignments:
   path: Microsoft.AppConfiguration/denyAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/denyAssignments
   architecture review:
     type: UNKNOWN
@@ -3724,7 +3724,7 @@ denyAssignments:
 departments:
   path: Microsoft.AppConfiguration/departments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/departments
   architecture review:
     type: UNKNOWN
@@ -3741,7 +3741,7 @@ departments:
 deploymentLocations:
   path: Microsoft.AppConfiguration/deploymentLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/deploymentLocations
   architecture review:
     type: UNKNOWN
@@ -3758,7 +3758,7 @@ deploymentLocations:
 deploymentScripts:
   path: Microsoft.AppConfiguration/deploymentScripts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/deploymentScripts
   architecture review:
     type: UNKNOWN
@@ -3775,7 +3775,7 @@ deploymentScripts:
 deployments:
   path: Microsoft.AppConfiguration/deployments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/deployments
   architecture review:
     type: UNKNOWN
@@ -3792,7 +3792,7 @@ deployments:
 deviceSecurityGroups:
   path: Microsoft.AppConfiguration/deviceSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/deviceSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -3809,7 +3809,7 @@ deviceSecurityGroups:
 diagnosticSettings:
   path: Microsoft.AppConfiguration/diagnosticSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/diagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -3826,7 +3826,7 @@ diagnosticSettings:
 diagnosticSettingsCategories:
   path: Microsoft.AppConfiguration/diagnosticSettingsCategories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/diagnosticSettingsCategories
   architecture review:
     type: UNKNOWN
@@ -3843,7 +3843,7 @@ diagnosticSettingsCategories:
 discoveredSecuritySolutions:
   path: Microsoft.AppConfiguration/discoveredSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/discoveredSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -3860,7 +3860,7 @@ discoveredSecuritySolutions:
 diskEncryptionSets:
   path: Microsoft.AppConfiguration/diskEncryptionSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/diskEncryptionSets
   architecture review:
     type: UNKNOWN
@@ -3877,7 +3877,7 @@ diskEncryptionSets:
 disks:
   path: Microsoft.AppConfiguration/disks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/disks
   architecture review:
     type: UNKNOWN
@@ -3894,7 +3894,7 @@ disks:
 dnsOperationResults:
   path: Microsoft.AppConfiguration/dnsOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -3911,7 +3911,7 @@ dnsOperationResults:
 dnsOperationStatuses:
   path: Microsoft.AppConfiguration/dnsOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -3928,7 +3928,7 @@ dnsOperationStatuses:
 dnszones:
   path: Microsoft.AppConfiguration/dnszones
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/dnszones
   architecture review:
     type: UNKNOWN
@@ -3945,7 +3945,7 @@ dnszones:
 domainNames:
   path: Microsoft.AppConfiguration/domainNames
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/domainNames
   architecture review:
     type: UNKNOWN
@@ -3962,7 +3962,7 @@ domainNames:
 domains:
   path: Microsoft.AppConfiguration/domains
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/domains
   architecture review:
     type: UNKNOWN
@@ -3979,7 +3979,7 @@ domains:
 edgenodes:
   path: Microsoft.AppConfiguration/edgenodes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/edgenodes
   architecture review:
     type: UNKNOWN
@@ -3996,7 +3996,7 @@ edgenodes:
 elevateAccess:
   path: Microsoft.AppConfiguration/elevateAccess
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/elevateAccess
   architecture review:
     type: UNKNOWN
@@ -4013,7 +4013,7 @@ elevateAccess:
 emergingissues:
   path: Microsoft.AppConfiguration/emergingissues
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/emergingissues
   architecture review:
     type: UNKNOWN
@@ -4030,7 +4030,7 @@ emergingissues:
 enable:
   path: Microsoft.AppConfiguration/enable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/enable
   architecture review:
     type: UNKNOWN
@@ -4047,7 +4047,7 @@ enable:
 enrollmentAccounts:
   path: Microsoft.AppConfiguration/enrollmentAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/enrollmentAccounts
   architecture review:
     type: UNKNOWN
@@ -4064,7 +4064,7 @@ enrollmentAccounts:
 entities:
   path: Microsoft.AppConfiguration/entities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/entities
   architecture review:
     type: UNKNOWN
@@ -4081,7 +4081,7 @@ entities:
 entityQueries:
   path: Microsoft.AppConfiguration/entityQueries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/entityQueries
   architecture review:
     type: UNKNOWN
@@ -4098,7 +4098,7 @@ entityQueries:
 environments:
   path: Microsoft.AppConfiguration/environments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/environments
   architecture review:
     type: UNKNOWN
@@ -4115,7 +4115,7 @@ environments:
 eventCategories:
   path: Microsoft.AppConfiguration/eventCategories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/eventCategories
   architecture review:
     type: UNKNOWN
@@ -4132,7 +4132,7 @@ eventCategories:
 eventSubscriptions:
   path: Microsoft.AppConfiguration/eventSubscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/eventSubscriptions
   architecture review:
     type: UNKNOWN
@@ -4149,7 +4149,7 @@ eventSubscriptions:
 events:
   path: Microsoft.AppConfiguration/events
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/events
   architecture review:
     type: UNKNOWN
@@ -4166,7 +4166,7 @@ events:
 eventtypes:
   path: Microsoft.AppConfiguration/eventtypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/eventtypes
   architecture review:
     type: UNKNOWN
@@ -4183,7 +4183,7 @@ eventtypes:
 exchange:
   path: Microsoft.AppConfiguration/exchange
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/exchange
   architecture review:
     type: UNKNOWN
@@ -4200,7 +4200,7 @@ exchange:
 expressRouteCircuits:
   path: Microsoft.AppConfiguration/expressRouteCircuits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/expressRouteCircuits
   architecture review:
     type: UNKNOWN
@@ -4217,7 +4217,7 @@ expressRouteCircuits:
 expressRouteCrossConnections:
   path: Microsoft.AppConfiguration/expressRouteCrossConnections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/expressRouteCrossConnections
   architecture review:
     type: UNKNOWN
@@ -4234,7 +4234,7 @@ expressRouteCrossConnections:
 expressRouteGateways:
   path: Microsoft.AppConfiguration/expressRouteGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/expressRouteGateways
   architecture review:
     type: UNKNOWN
@@ -4251,7 +4251,7 @@ expressRouteGateways:
 expressRouteServiceProviders:
   path: Microsoft.AppConfiguration/expressRouteServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/expressRouteServiceProviders
   architecture review:
     type: UNKNOWN
@@ -4268,7 +4268,7 @@ expressRouteServiceProviders:
 extendedDiagnosticSettings:
   path: Microsoft.AppConfiguration/extendedDiagnosticSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/extendedDiagnosticSettings
   architecture review:
     type: UNKNOWN
@@ -4285,7 +4285,7 @@ extendedDiagnosticSettings:
 extensionTopics:
   path: Microsoft.AppConfiguration/extensionTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/extensionTopics
   architecture review:
     type: UNKNOWN
@@ -4302,7 +4302,7 @@ extensionTopics:
 externalSecuritySolutions:
   path: Microsoft.AppConfiguration/externalSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/externalSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4319,7 +4319,7 @@ externalSecuritySolutions:
 factories:
   path: Microsoft.AppConfiguration/factories
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/factories
   architecture review:
     type: UNKNOWN
@@ -4336,7 +4336,7 @@ factories:
 featureProviders:
   path: Microsoft.AppConfiguration/featureProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/featureProviders
   architecture review:
     type: UNKNOWN
@@ -4353,7 +4353,7 @@ featureProviders:
 features:
   path: Microsoft.AppConfiguration/features
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/features
   architecture review:
     type: UNKNOWN
@@ -4370,7 +4370,7 @@ features:
 findOrphanRoleAssignments:
   path: Microsoft.AppConfiguration/findOrphanRoleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/findOrphanRoleAssignments
   architecture review:
     type: UNKNOWN
@@ -4387,7 +4387,7 @@ findOrphanRoleAssignments:
 firewallPolicies:
   path: Microsoft.AppConfiguration/firewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/firewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4404,7 +4404,7 @@ firewallPolicies:
 frontDoors:
   path: Microsoft.AppConfiguration/frontDoors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/frontDoors
   architecture review:
     type: UNKNOWN
@@ -4421,7 +4421,7 @@ frontDoors:
 frontdoorOperationResults:
   path: Microsoft.AppConfiguration/frontdoorOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/frontdoorOperationResults
   architecture review:
     type: UNKNOWN
@@ -4438,7 +4438,7 @@ frontdoorOperationResults:
 frontdoorWebApplicationFirewallManagedRuleSets:
   path: Microsoft.AppConfiguration/frontdoorWebApplicationFirewallManagedRuleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/frontdoorWebApplicationFirewallManagedRuleSets
   architecture review:
     type: UNKNOWN
@@ -4455,7 +4455,7 @@ frontdoorWebApplicationFirewallManagedRuleSets:
 frontdoorWebApplicationFirewallPolicies:
   path: Microsoft.AppConfiguration/frontdoorWebApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/frontdoorWebApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -4472,7 +4472,7 @@ frontdoorWebApplicationFirewallPolicies:
 frontdoors:
   path: Microsoft.AppConfiguration/frontdoors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/frontdoors
   architecture review:
     type: UNKNOWN
@@ -4489,7 +4489,7 @@ frontdoors:
 galleries:
   path: Microsoft.AppConfiguration/galleries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/galleries
   architecture review:
     type: UNKNOWN
@@ -4506,7 +4506,7 @@ galleries:
 gatewaySupportedDevices:
   path: Microsoft.AppConfiguration/gatewaySupportedDevices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/gatewaySupportedDevices
   architecture review:
     type: UNKNOWN
@@ -4523,7 +4523,7 @@ gatewaySupportedDevices:
 gateways:
   path: Microsoft.AppConfiguration/gateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/gateways
   architecture review:
     type: UNKNOWN
@@ -4540,7 +4540,7 @@ gateways:
 generateRecommendations:
   path: Microsoft.AppConfiguration/generateRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/generateRecommendations
   architecture review:
     type: UNKNOWN
@@ -4557,7 +4557,7 @@ generateRecommendations:
 generateSsoRequest:
   path: Microsoft.AppConfiguration/generateSsoRequest
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/generateSsoRequest
   architecture review:
     type: UNKNOWN
@@ -4574,7 +4574,7 @@ generateSsoRequest:
 georegions:
   path: Microsoft.AppConfiguration/georegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/georegions
   architecture review:
     type: UNKNOWN
@@ -4591,7 +4591,7 @@ georegions:
 getDnsResourceReference:
   path: Microsoft.AppConfiguration/getDnsResourceReference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/getDnsResourceReference
   architecture review:
     type: UNKNOWN
@@ -4608,7 +4608,7 @@ getDnsResourceReference:
 getEntities:
   path: Microsoft.AppConfiguration/getEntities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/getEntities
   architecture review:
     type: UNKNOWN
@@ -4625,7 +4625,7 @@ getEntities:
 guestConfigurationAssignments:
   path: Microsoft.AppConfiguration/guestConfigurationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/guestConfigurationAssignments
   architecture review:
     type: UNKNOWN
@@ -4642,7 +4642,7 @@ guestConfigurationAssignments:
 hanaInstances:
   path: Microsoft.AppConfiguration/hanaInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/hanaInstances
   architecture review:
     type: UNKNOWN
@@ -4659,7 +4659,7 @@ hanaInstances:
 hostGroups:
   path: Microsoft.AppConfiguration/hostGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/hostGroups
   architecture review:
     type: UNKNOWN
@@ -4676,7 +4676,7 @@ hostGroups:
 hostingEnvironments:
   path: Microsoft.AppConfiguration/hostingEnvironments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/hostingEnvironments
   architecture review:
     type: UNKNOWN
@@ -4693,7 +4693,7 @@ hostingEnvironments:
 hybridUseBenefits:
   path: Microsoft.AppConfiguration/hybridUseBenefits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/hybridUseBenefits
   architecture review:
     type: UNKNOWN
@@ -4710,7 +4710,7 @@ hybridUseBenefits:
 images:
   path: Microsoft.AppConfiguration/images
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/images
   architecture review:
     type: UNKNOWN
@@ -4727,7 +4727,7 @@ images:
 incidents:
   path: Microsoft.AppConfiguration/incidents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/incidents
   architecture review:
     type: UNKNOWN
@@ -4744,7 +4744,7 @@ incidents:
 instancePools:
   path: Microsoft.AppConfiguration/instancePools
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/instancePools
   architecture review:
     type: UNKNOWN
@@ -4761,7 +4761,7 @@ instancePools:
 integrationAccounts:
   path: Microsoft.AppConfiguration/integrationAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/integrationAccounts
   architecture review:
     type: UNKNOWN
@@ -4778,7 +4778,7 @@ integrationAccounts:
 integrationServiceEnvironments:
   path: Microsoft.AppConfiguration/integrationServiceEnvironments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/integrationServiceEnvironments
   architecture review:
     type: UNKNOWN
@@ -4795,7 +4795,7 @@ integrationServiceEnvironments:
 internalNotify:
   path: Microsoft.AppConfiguration/internalNotify
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/internalNotify
   architecture review:
     type: UNKNOWN
@@ -4812,7 +4812,7 @@ internalNotify:
 invoices:
   path: Microsoft.AppConfiguration/invoices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/invoices
   architecture review:
     type: UNKNOWN
@@ -4829,7 +4829,7 @@ invoices:
 iotSecuritySolutions:
   path: Microsoft.AppConfiguration/iotSecuritySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/iotSecuritySolutions
   architecture review:
     type: UNKNOWN
@@ -4846,7 +4846,7 @@ iotSecuritySolutions:
 ipGroups:
   path: Microsoft.AppConfiguration/ipGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ipGroups
   architecture review:
     type: UNKNOWN
@@ -4863,7 +4863,7 @@ ipGroups:
 ishostingenvironmentnameavailable:
   path: Microsoft.AppConfiguration/ishostingenvironmentnameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ishostingenvironmentnameavailable
   architecture review:
     type: UNKNOWN
@@ -4880,7 +4880,7 @@ ishostingenvironmentnameavailable:
 ishostnameavailable:
   path: Microsoft.AppConfiguration/ishostnameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/ishostnameavailable
   architecture review:
     type: UNKNOWN
@@ -4897,7 +4897,7 @@ ishostnameavailable:
 isusernameavailable:
   path: Microsoft.AppConfiguration/isusernameavailable
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/isusernameavailable
   architecture review:
     type: UNKNOWN
@@ -4914,7 +4914,7 @@ isusernameavailable:
 jitNetworkAccessPolicies:
   path: Microsoft.AppConfiguration/jitNetworkAccessPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/jitNetworkAccessPolicies
   architecture review:
     type: UNKNOWN
@@ -4931,7 +4931,7 @@ jitNetworkAccessPolicies:
 jitRequests:
   path: Microsoft.AppConfiguration/jitRequests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/jitRequests
   architecture review:
     type: UNKNOWN
@@ -4948,7 +4948,7 @@ jitRequests:
 jobcollections:
   path: Microsoft.AppConfiguration/jobcollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/jobcollections
   architecture review:
     type: UNKNOWN
@@ -4965,7 +4965,7 @@ jobcollections:
 jobs:
   path: Microsoft.AppConfiguration/jobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/jobs
   architecture review:
     type: UNKNOWN
@@ -4982,7 +4982,7 @@ jobs:
 labAccounts:
   path: Microsoft.AppConfiguration/labAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/labAccounts
   architecture review:
     type: UNKNOWN
@@ -4999,7 +4999,7 @@ labAccounts:
 labaccounts:
   path: Microsoft.AppConfiguration/labaccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/labaccounts
   architecture review:
     type: UNKNOWN
@@ -5016,7 +5016,7 @@ labaccounts:
 labs:
   path: Microsoft.AppConfiguration/labs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/labs
   architecture review:
     type: UNKNOWN
@@ -5033,7 +5033,7 @@ labs:
 legacyPeerings:
   path: Microsoft.AppConfiguration/legacyPeerings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/legacyPeerings
   architecture review:
     type: UNKNOWN
@@ -5050,7 +5050,7 @@ legacyPeerings:
 linkTargets:
   path: Microsoft.AppConfiguration/linkTargets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/linkTargets
   architecture review:
     type: UNKNOWN
@@ -5067,7 +5067,7 @@ linkTargets:
 links:
   path: Microsoft.AppConfiguration/links
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/links
   architecture review:
     type: UNKNOWN
@@ -5084,7 +5084,7 @@ links:
 listAuthServiceProviders:
   path: Microsoft.AppConfiguration/listAuthServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/listAuthServiceProviders
   architecture review:
     type: UNKNOWN
@@ -5101,7 +5101,7 @@ listAuthServiceProviders:
 listAvailableOffers:
   path: Microsoft.AppConfiguration/listAvailableOffers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/listAvailableOffers
   architecture review:
     type: UNKNOWN
@@ -5118,7 +5118,7 @@ listAvailableOffers:
 listBenefits:
   path: Microsoft.AppConfiguration/listBenefits
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/listBenefits
   architecture review:
     type: UNKNOWN
@@ -5135,7 +5135,7 @@ listBenefits:
 listCommunicationPreference:
   path: Microsoft.AppConfiguration/listCommunicationPreference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/listCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -5152,7 +5152,7 @@ listCommunicationPreference:
 listDomainRecommendations:
   path: Microsoft.AppConfiguration/listDomainRecommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/listDomainRecommendations
   architecture review:
     type: UNKNOWN
@@ -5169,7 +5169,7 @@ listDomainRecommendations:
 listMigrationdate:
   path: Microsoft.AppConfiguration/listMigrationdate
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/listMigrationdate
   architecture review:
     type: UNKNOWN
@@ -5186,7 +5186,7 @@ listMigrationdate:
 listSitesAssignedToHostName:
   path: Microsoft.AppConfiguration/listSitesAssignedToHostName
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/listSitesAssignedToHostName
   architecture review:
     type: UNKNOWN
@@ -5203,7 +5203,7 @@ listSitesAssignedToHostName:
 listinvitations:
   path: Microsoft.AppConfiguration/listinvitations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/listinvitations
   architecture review:
     type: UNKNOWN
@@ -5220,7 +5220,7 @@ listinvitations:
 loadBalancers:
   path: Microsoft.AppConfiguration/loadBalancers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/loadBalancers
   architecture review:
     type: UNKNOWN
@@ -5237,7 +5237,7 @@ loadBalancers:
 localNetworkGateways:
   path: Microsoft.AppConfiguration/localNetworkGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/localNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -5254,7 +5254,7 @@ localNetworkGateways:
 locations:
   path: Microsoft.AppConfiguration/locations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/locations
   architecture review:
     type: UNKNOWN
@@ -5271,7 +5271,7 @@ locations:
 locks:
   path: Microsoft.AppConfiguration/locks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/locks
   architecture review:
     type: UNKNOWN
@@ -5288,7 +5288,7 @@ locks:
 logDefinitions:
   path: Microsoft.AppConfiguration/logDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/logDefinitions
   architecture review:
     type: UNKNOWN
@@ -5305,7 +5305,7 @@ logDefinitions:
 logprofiles:
   path: Microsoft.AppConfiguration/logprofiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/logprofiles
   architecture review:
     type: UNKNOWN
@@ -5322,7 +5322,7 @@ logprofiles:
 logs:
   path: Microsoft.AppConfiguration/logs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/logs
   architecture review:
     type: UNKNOWN
@@ -5339,7 +5339,7 @@ logs:
 lots:
   path: Microsoft.AppConfiguration/lots
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/lots
   architecture review:
     type: UNKNOWN
@@ -5356,7 +5356,7 @@ lots:
 machines:
   path: Microsoft.AppConfiguration/machines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/machines
   architecture review:
     type: UNKNOWN
@@ -5373,7 +5373,7 @@ machines:
 maintenanceConfigurations:
   path: Microsoft.AppConfiguration/maintenanceConfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/maintenanceConfigurations
   architecture review:
     type: UNKNOWN
@@ -5390,7 +5390,7 @@ maintenanceConfigurations:
 managedClusters:
   path: Microsoft.AppConfiguration/managedClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/managedClusters
   architecture review:
     type: UNKNOWN
@@ -5407,7 +5407,7 @@ managedClusters:
 managedInstances:
   path: Microsoft.AppConfiguration/managedInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/managedInstances
   architecture review:
     type: UNKNOWN
@@ -5424,7 +5424,7 @@ managedInstances:
 managementGroups:
   path: Microsoft.AppConfiguration/managementGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/managementGroups
   architecture review:
     type: UNKNOWN
@@ -5441,7 +5441,7 @@ managementGroups:
 managementassociations:
   path: Microsoft.AppConfiguration/managementassociations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/managementassociations
   architecture review:
     type: UNKNOWN
@@ -5458,7 +5458,7 @@ managementassociations:
 managementconfigurations:
   path: Microsoft.AppConfiguration/managementconfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/managementconfigurations
   architecture review:
     type: UNKNOWN
@@ -5475,7 +5475,7 @@ managementconfigurations:
 managers:
   path: Microsoft.AppConfiguration/managers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/managers
   architecture review:
     type: UNKNOWN
@@ -5492,7 +5492,7 @@ managers:
 mapApis:
   path: Microsoft.AppConfiguration/mapApis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/mapApis
   architecture review:
     type: UNKNOWN
@@ -5509,7 +5509,7 @@ mapApis:
 marketplaceRegistrationDefinitions:
   path: Microsoft.AppConfiguration/marketplaceRegistrationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/marketplaceRegistrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -5526,7 +5526,7 @@ marketplaceRegistrationDefinitions:
 mediaservices:
   path: Microsoft.AppConfiguration/mediaservices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/mediaservices
   architecture review:
     type: UNKNOWN
@@ -5543,7 +5543,7 @@ mediaservices:
 metadata:
   path: Microsoft.AppConfiguration/metadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/metadata
   architecture review:
     type: UNKNOWN
@@ -5560,7 +5560,7 @@ metadata:
 metricDefinitions:
   path: Microsoft.AppConfiguration/metricDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/metricDefinitions
   architecture review:
     type: UNKNOWN
@@ -5577,7 +5577,7 @@ metricDefinitions:
 metricNamespaces:
   path: Microsoft.AppConfiguration/metricNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/metricNamespaces
   architecture review:
     type: UNKNOWN
@@ -5594,7 +5594,7 @@ metricNamespaces:
 metricalerts:
   path: Microsoft.AppConfiguration/metricalerts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/metricalerts
   architecture review:
     type: UNKNOWN
@@ -5611,7 +5611,7 @@ metricalerts:
 metricbaselines:
   path: Microsoft.AppConfiguration/metricbaselines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/metricbaselines
   architecture review:
     type: UNKNOWN
@@ -5628,7 +5628,7 @@ metricbaselines:
 metricbatch:
   path: Microsoft.AppConfiguration/metricbatch
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/metricbatch
   architecture review:
     type: UNKNOWN
@@ -5645,7 +5645,7 @@ metricbatch:
 metrics:
   path: Microsoft.AppConfiguration/metrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/metrics
   architecture review:
     type: UNKNOWN
@@ -5662,7 +5662,7 @@ metrics:
 migrateToNewPricingModel:
   path: Microsoft.AppConfiguration/migrateToNewPricingModel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/migrateToNewPricingModel
   architecture review:
     type: UNKNOWN
@@ -5679,7 +5679,7 @@ migrateToNewPricingModel:
 migratealertrules:
   path: Microsoft.AppConfiguration/migratealertrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/migratealertrules
   architecture review:
     type: UNKNOWN
@@ -5696,7 +5696,7 @@ migratealertrules:
 migrateprojects:
   path: Microsoft.AppConfiguration/migrateprojects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/migrateprojects
   architecture review:
     type: UNKNOWN
@@ -5713,7 +5713,7 @@ migrateprojects:
 monitorInstances:
   path: Microsoft.AppConfiguration/monitorInstances
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/monitorInstances
   architecture review:
     type: UNKNOWN
@@ -5730,7 +5730,7 @@ monitorInstances:
 monitorInstancesSummary:
   path: Microsoft.AppConfiguration/monitorInstancesSummary
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/monitorInstancesSummary
   architecture review:
     type: UNKNOWN
@@ -5747,7 +5747,7 @@ monitorInstancesSummary:
 monitors:
   path: Microsoft.AppConfiguration/monitors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/monitors
   architecture review:
     type: UNKNOWN
@@ -5764,7 +5764,7 @@ monitors:
 moveSubscriptionResources:
   path: Microsoft.AppConfiguration/moveSubscriptionResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/moveSubscriptionResources
   architecture review:
     type: UNKNOWN
@@ -5781,7 +5781,7 @@ moveSubscriptionResources:
 myWorkbooks:
   path: Microsoft.AppConfiguration/myWorkbooks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/myWorkbooks
   architecture review:
     type: UNKNOWN
@@ -5798,7 +5798,7 @@ myWorkbooks:
 namespaces:
   path: Microsoft.AppConfiguration/namespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/namespaces
   architecture review:
     type: UNKNOWN
@@ -5815,7 +5815,7 @@ namespaces:
 natGateways:
   path: Microsoft.AppConfiguration/natGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/natGateways
   architecture review:
     type: UNKNOWN
@@ -5832,7 +5832,7 @@ natGateways:
 networkExperimentProfiles:
   path: Microsoft.AppConfiguration/networkExperimentProfiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/networkExperimentProfiles
   architecture review:
     type: UNKNOWN
@@ -5849,7 +5849,7 @@ networkExperimentProfiles:
 networkIntentPolicies:
   path: Microsoft.AppConfiguration/networkIntentPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/networkIntentPolicies
   architecture review:
     type: UNKNOWN
@@ -5866,7 +5866,7 @@ networkIntentPolicies:
 networkInterfaces:
   path: Microsoft.AppConfiguration/networkInterfaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/networkInterfaces
   architecture review:
     type: UNKNOWN
@@ -5883,7 +5883,7 @@ networkInterfaces:
 networkProfiles:
   path: Microsoft.AppConfiguration/networkProfiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/networkProfiles
   architecture review:
     type: UNKNOWN
@@ -5900,7 +5900,7 @@ networkProfiles:
 networkSecurityGroups:
   path: Microsoft.AppConfiguration/networkSecurityGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/networkSecurityGroups
   architecture review:
     type: UNKNOWN
@@ -5917,7 +5917,7 @@ networkSecurityGroups:
 networkWatchers:
   path: Microsoft.AppConfiguration/networkWatchers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/networkWatchers
   architecture review:
     type: UNKNOWN
@@ -5934,7 +5934,7 @@ networkWatchers:
 networks:
   path: Microsoft.AppConfiguration/networks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/networks
   architecture review:
     type: UNKNOWN
@@ -5951,7 +5951,7 @@ networks:
 notificationSettings:
   path: Microsoft.AppConfiguration/notificationSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/notificationSettings
   architecture review:
     type: UNKNOWN
@@ -5968,7 +5968,7 @@ notificationSettings:
 notifications:
   path: Microsoft.AppConfiguration/notifications
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/notifications
   architecture review:
     type: UNKNOWN
@@ -5985,7 +5985,7 @@ notifications:
 notifyResourceJobs:
   path: Microsoft.AppConfiguration/notifyResourceJobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/notifyResourceJobs
   architecture review:
     type: UNKNOWN
@@ -6002,7 +6002,7 @@ notifyResourceJobs:
 offerTypes:
   path: Microsoft.AppConfiguration/offerTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/offerTypes
   architecture review:
     type: UNKNOWN
@@ -6019,7 +6019,7 @@ offerTypes:
 offers:
   path: Microsoft.AppConfiguration/offers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/offers
   architecture review:
     type: UNKNOWN
@@ -6036,7 +6036,7 @@ offers:
 offertypes:
   path: Microsoft.AppConfiguration/offertypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/offertypes
   architecture review:
     type: UNKNOWN
@@ -6053,7 +6053,7 @@ offertypes:
 officeConsents:
   path: Microsoft.AppConfiguration/officeConsents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/officeConsents
   architecture review:
     type: UNKNOWN
@@ -6070,7 +6070,7 @@ officeConsents:
 openShiftManagedClusters:
   path: Microsoft.AppConfiguration/openShiftManagedClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/openShiftManagedClusters
   architecture review:
     type: UNKNOWN
@@ -6087,7 +6087,7 @@ openShiftManagedClusters:
 operatingSystemFamilies:
   path: Microsoft.AppConfiguration/operatingSystemFamilies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/operatingSystemFamilies
   architecture review:
     type: UNKNOWN
@@ -6104,7 +6104,7 @@ operatingSystemFamilies:
 operatingSystems:
   path: Microsoft.AppConfiguration/operatingSystems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/operatingSystems
   architecture review:
     type: UNKNOWN
@@ -6121,7 +6121,7 @@ operatingSystems:
 operationResults:
   path: Microsoft.AppConfiguration/operationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/operationResults
   architecture review:
     type: UNKNOWN
@@ -6138,7 +6138,7 @@ operationResults:
 operationStatus:
   path: Microsoft.AppConfiguration/operationStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/operationStatus
   architecture review:
     type: UNKNOWN
@@ -6155,7 +6155,7 @@ operationStatus:
 operationStatuses:
   path: Microsoft.AppConfiguration/operationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/operationStatuses
   architecture review:
     type: UNKNOWN
@@ -6172,7 +6172,7 @@ operationStatuses:
 operationresults:
   path: Microsoft.AppConfiguration/operationresults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/operationresults
   architecture review:
     type: UNKNOWN
@@ -6189,7 +6189,7 @@ operationresults:
 operations:
   path: Microsoft.AppConfiguration/operations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/operations
   architecture review:
     type: UNKNOWN
@@ -6206,7 +6206,7 @@ operations:
 operationsStatus:
   path: Microsoft.AppConfiguration/operationsStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/operationsStatus
   architecture review:
     type: UNKNOWN
@@ -6223,7 +6223,7 @@ operationsStatus:
 operationsstatus:
   path: Microsoft.AppConfiguration/operationsstatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/operationsstatus
   architecture review:
     type: UNKNOWN
@@ -6240,7 +6240,7 @@ operationsstatus:
 osImages:
   path: Microsoft.AppConfiguration/osImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/osImages
   architecture review:
     type: UNKNOWN
@@ -6257,7 +6257,7 @@ osImages:
 osNamespaces:
   path: Microsoft.AppConfiguration/osNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/osNamespaces
   architecture review:
     type: UNKNOWN
@@ -6274,7 +6274,7 @@ osNamespaces:
 osPlatformImages:
   path: Microsoft.AppConfiguration/osPlatformImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/osPlatformImages
   architecture review:
     type: UNKNOWN
@@ -6291,7 +6291,7 @@ osPlatformImages:
 p2sVpnGateways:
   path: Microsoft.AppConfiguration/p2sVpnGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/p2sVpnGateways
   architecture review:
     type: UNKNOWN
@@ -6308,7 +6308,7 @@ p2sVpnGateways:
 partnerNamespaces:
   path: Microsoft.AppConfiguration/partnerNamespaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/partnerNamespaces
   architecture review:
     type: UNKNOWN
@@ -6325,7 +6325,7 @@ partnerNamespaces:
 partnerTopics:
   path: Microsoft.AppConfiguration/partnerTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/partnerTopics
   architecture review:
     type: UNKNOWN
@@ -6342,7 +6342,7 @@ partnerTopics:
 peerAsns:
   path: Microsoft.AppConfiguration/peerAsns
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/peerAsns
   architecture review:
     type: UNKNOWN
@@ -6359,7 +6359,7 @@ peerAsns:
 peeringLocations:
   path: Microsoft.AppConfiguration/peeringLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/peeringLocations
   architecture review:
     type: UNKNOWN
@@ -6376,7 +6376,7 @@ peeringLocations:
 peeringServiceCountries:
   path: Microsoft.AppConfiguration/peeringServiceCountries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/peeringServiceCountries
   architecture review:
     type: UNKNOWN
@@ -6393,7 +6393,7 @@ peeringServiceCountries:
 peeringServiceLocations:
   path: Microsoft.AppConfiguration/peeringServiceLocations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/peeringServiceLocations
   architecture review:
     type: UNKNOWN
@@ -6410,7 +6410,7 @@ peeringServiceLocations:
 peeringServiceProviders:
   path: Microsoft.AppConfiguration/peeringServiceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/peeringServiceProviders
   architecture review:
     type: UNKNOWN
@@ -6427,7 +6427,7 @@ peeringServiceProviders:
 peerings:
   path: Microsoft.AppConfiguration/peerings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/peerings
   architecture review:
     type: UNKNOWN
@@ -6444,7 +6444,7 @@ peerings:
 permissions:
   path: Microsoft.AppConfiguration/permissions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/permissions
   architecture review:
     type: UNKNOWN
@@ -6461,7 +6461,7 @@ permissions:
 pipelines:
   path: Microsoft.AppConfiguration/pipelines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/pipelines
   architecture review:
     type: UNKNOWN
@@ -6478,7 +6478,7 @@ pipelines:
 placePurchaseOrder:
   path: Microsoft.AppConfiguration/placePurchaseOrder
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/placePurchaseOrder
   architecture review:
     type: UNKNOWN
@@ -6495,7 +6495,7 @@ placePurchaseOrder:
 plans:
   path: Microsoft.AppConfiguration/plans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/plans
   architecture review:
     type: UNKNOWN
@@ -6512,7 +6512,7 @@ plans:
 policies:
   path: Microsoft.AppConfiguration/policies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/policies
   architecture review:
     type: UNKNOWN
@@ -6529,7 +6529,7 @@ policies:
 policyAssignments:
   path: Microsoft.AppConfiguration/policyAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/policyAssignments
   architecture review:
     type: UNKNOWN
@@ -6546,7 +6546,7 @@ policyAssignments:
 policyDefinitions:
   path: Microsoft.AppConfiguration/policyDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/policyDefinitions
   architecture review:
     type: UNKNOWN
@@ -6563,7 +6563,7 @@ policyDefinitions:
 policyEvents:
   path: Microsoft.AppConfiguration/policyEvents
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/policyEvents
   architecture review:
     type: UNKNOWN
@@ -6580,7 +6580,7 @@ policyEvents:
 policyMetadata:
   path: Microsoft.AppConfiguration/policyMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/policyMetadata
   architecture review:
     type: UNKNOWN
@@ -6597,7 +6597,7 @@ policyMetadata:
 policySetDefinitions:
   path: Microsoft.AppConfiguration/policySetDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/policySetDefinitions
   architecture review:
     type: UNKNOWN
@@ -6614,7 +6614,7 @@ policySetDefinitions:
 policyStates:
   path: Microsoft.AppConfiguration/policyStates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/policyStates
   architecture review:
     type: UNKNOWN
@@ -6631,7 +6631,7 @@ policyStates:
 policyTrackedResources:
   path: Microsoft.AppConfiguration/policyTrackedResources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/policyTrackedResources
   architecture review:
     type: UNKNOWN
@@ -6648,7 +6648,7 @@ policyTrackedResources:
 premiumMessagingRegions:
   path: Microsoft.AppConfiguration/premiumMessagingRegions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/premiumMessagingRegions
   architecture review:
     type: UNKNOWN
@@ -6665,7 +6665,7 @@ premiumMessagingRegions:
 pricings:
   path: Microsoft.AppConfiguration/pricings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/pricings
   architecture review:
     type: UNKNOWN
@@ -6682,7 +6682,7 @@ pricings:
 privateDnsOperationResults:
   path: Microsoft.AppConfiguration/privateDnsOperationResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/privateDnsOperationResults
   architecture review:
     type: UNKNOWN
@@ -6699,7 +6699,7 @@ privateDnsOperationResults:
 privateDnsOperationStatuses:
   path: Microsoft.AppConfiguration/privateDnsOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/privateDnsOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6716,7 +6716,7 @@ privateDnsOperationStatuses:
 privateDnsZones:
   path: Microsoft.AppConfiguration/privateDnsZones
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/privateDnsZones
   architecture review:
     type: UNKNOWN
@@ -6733,7 +6733,7 @@ privateDnsZones:
 privateDnsZonesInternal:
   path: Microsoft.AppConfiguration/privateDnsZonesInternal
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/privateDnsZonesInternal
   architecture review:
     type: UNKNOWN
@@ -6750,7 +6750,7 @@ privateDnsZonesInternal:
 privateEndpointRedirectMaps:
   path: Microsoft.AppConfiguration/privateEndpointRedirectMaps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/privateEndpointRedirectMaps
   architecture review:
     type: UNKNOWN
@@ -6767,7 +6767,7 @@ privateEndpointRedirectMaps:
 privateEndpoints:
   path: Microsoft.AppConfiguration/privateEndpoints
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/privateEndpoints
   architecture review:
     type: UNKNOWN
@@ -6784,7 +6784,7 @@ privateEndpoints:
 privateLinkScopeOperationStatuses:
   path: Microsoft.AppConfiguration/privateLinkScopeOperationStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/privateLinkScopeOperationStatuses
   architecture review:
     type: UNKNOWN
@@ -6801,7 +6801,7 @@ privateLinkScopeOperationStatuses:
 privateLinkScopes:
   path: Microsoft.AppConfiguration/privateLinkScopes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/privateLinkScopes
   architecture review:
     type: UNKNOWN
@@ -6818,7 +6818,7 @@ privateLinkScopes:
 privateLinkServices:
   path: Microsoft.AppConfiguration/privateLinkServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/privateLinkServices
   architecture review:
     type: UNKNOWN
@@ -6835,7 +6835,7 @@ privateLinkServices:
 privateStoreClient:
   path: Microsoft.AppConfiguration/privateStoreClient
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/privateStoreClient
   architecture review:
     type: UNKNOWN
@@ -6852,7 +6852,7 @@ privateStoreClient:
 privateStores:
   path: Microsoft.AppConfiguration/privateStores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/privateStores
   architecture review:
     type: UNKNOWN
@@ -6869,7 +6869,7 @@ privateStores:
 privategalleryitems:
   path: Microsoft.AppConfiguration/privategalleryitems
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/privategalleryitems
   architecture review:
     type: UNKNOWN
@@ -6886,7 +6886,7 @@ privategalleryitems:
 products:
   path: Microsoft.AppConfiguration/products
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/products
   architecture review:
     type: UNKNOWN
@@ -6903,7 +6903,7 @@ products:
 profiles:
   path: Microsoft.AppConfiguration/profiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/profiles
   architecture review:
     type: UNKNOWN
@@ -6920,7 +6920,7 @@ profiles:
 projects:
   path: Microsoft.AppConfiguration/projects
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/projects
   architecture review:
     type: UNKNOWN
@@ -6937,7 +6937,7 @@ projects:
 providerOperations:
   path: Microsoft.AppConfiguration/providerOperations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/providerOperations
   architecture review:
     type: UNKNOWN
@@ -6954,7 +6954,7 @@ providerOperations:
 providerRegistrations:
   path: Microsoft.AppConfiguration/providerRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/providerRegistrations
   architecture review:
     type: UNKNOWN
@@ -6971,7 +6971,7 @@ providerRegistrations:
 providers:
   path: Microsoft.AppConfiguration/providers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/providers
   architecture review:
     type: UNKNOWN
@@ -6988,7 +6988,7 @@ providers:
 proximityPlacementGroups:
   path: Microsoft.AppConfiguration/proximityPlacementGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/proximityPlacementGroups
   architecture review:
     type: UNKNOWN
@@ -7005,7 +7005,7 @@ proximityPlacementGroups:
 publicIPAddresses:
   path: Microsoft.AppConfiguration/publicIPAddresses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/publicIPAddresses
   architecture review:
     type: UNKNOWN
@@ -7022,7 +7022,7 @@ publicIPAddresses:
 publicIPPrefixes:
   path: Microsoft.AppConfiguration/publicIPPrefixes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/publicIPPrefixes
   architecture review:
     type: UNKNOWN
@@ -7039,7 +7039,7 @@ publicIPPrefixes:
 publicImages:
   path: Microsoft.AppConfiguration/publicImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/publicImages
   architecture review:
     type: UNKNOWN
@@ -7056,7 +7056,7 @@ publicImages:
 publishers:
   path: Microsoft.AppConfiguration/publishers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/publishers
   architecture review:
     type: UNKNOWN
@@ -7073,7 +7073,7 @@ publishers:
 publishingUsers:
   path: Microsoft.AppConfiguration/publishingUsers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/publishingUsers
   architecture review:
     type: UNKNOWN
@@ -7090,7 +7090,7 @@ publishingUsers:
 queries:
   path: Microsoft.AppConfiguration/queries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/queries
   architecture review:
     type: UNKNOWN
@@ -7107,7 +7107,7 @@ queries:
 quotas:
   path: Microsoft.AppConfiguration/quotas
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/quotas
   architecture review:
     type: UNKNOWN
@@ -7124,7 +7124,7 @@ quotas:
 recommendations:
   path: Microsoft.AppConfiguration/recommendations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/recommendations
   architecture review:
     type: UNKNOWN
@@ -7141,7 +7141,7 @@ recommendations:
 redis:
   path: Microsoft.AppConfiguration/redis
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/redis
   architecture review:
     type: UNKNOWN
@@ -7158,7 +7158,7 @@ redis:
 register:
   path: Microsoft.AppConfiguration/register
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/register
   architecture review:
     type: UNKNOWN
@@ -7175,7 +7175,7 @@ register:
 registrationAssignments:
   path: Microsoft.AppConfiguration/registrationAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/registrationAssignments
   architecture review:
     type: UNKNOWN
@@ -7192,7 +7192,7 @@ registrationAssignments:
 registrationDefinitions:
   path: Microsoft.AppConfiguration/registrationDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/registrationDefinitions
   architecture review:
     type: UNKNOWN
@@ -7209,7 +7209,7 @@ registrationDefinitions:
 registrations:
   path: Microsoft.AppConfiguration/registrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/registrations
   architecture review:
     type: UNKNOWN
@@ -7226,7 +7226,7 @@ registrations:
 registries:
   path: Microsoft.AppConfiguration/registries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/registries
   architecture review:
     type: UNKNOWN
@@ -7243,7 +7243,7 @@ registries:
 regulatoryComplianceStandards:
   path: Microsoft.AppConfiguration/regulatoryComplianceStandards
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/regulatoryComplianceStandards
   architecture review:
     type: UNKNOWN
@@ -7260,7 +7260,7 @@ regulatoryComplianceStandards:
 remediations:
   path: Microsoft.AppConfiguration/remediations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/remediations
   architecture review:
     type: UNKNOWN
@@ -7277,7 +7277,7 @@ remediations:
 rename:
   path: Microsoft.AppConfiguration/rename
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/rename
   architecture review:
     type: UNKNOWN
@@ -7294,7 +7294,7 @@ rename:
 replicationEligibilityResults:
   path: Microsoft.AppConfiguration/replicationEligibilityResults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/replicationEligibilityResults
   architecture review:
     type: UNKNOWN
@@ -7311,7 +7311,7 @@ replicationEligibilityResults:
 reportFeedback:
   path: Microsoft.AppConfiguration/reportFeedback
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/reportFeedback
   architecture review:
     type: UNKNOWN
@@ -7328,7 +7328,7 @@ reportFeedback:
 reports:
   path: Microsoft.AppConfiguration/reports
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/reports
   architecture review:
     type: UNKNOWN
@@ -7345,7 +7345,7 @@ reports:
 requests:
   path: Microsoft.AppConfiguration/requests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/requests
   architecture review:
     type: UNKNOWN
@@ -7362,7 +7362,7 @@ requests:
 reservationOrders:
   path: Microsoft.AppConfiguration/reservationOrders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/reservationOrders
   architecture review:
     type: UNKNOWN
@@ -7379,7 +7379,7 @@ reservationOrders:
 reservations:
   path: Microsoft.AppConfiguration/reservations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/reservations
   architecture review:
     type: UNKNOWN
@@ -7396,7 +7396,7 @@ reservations:
 reservedIps:
   path: Microsoft.AppConfiguration/reservedIps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/reservedIps
   architecture review:
     type: UNKNOWN
@@ -7413,7 +7413,7 @@ reservedIps:
 resourceChangeDetails:
   path: Microsoft.AppConfiguration/resourceChangeDetails
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/resourceChangeDetails
   architecture review:
     type: UNKNOWN
@@ -7430,7 +7430,7 @@ resourceChangeDetails:
 resourceChanges:
   path: Microsoft.AppConfiguration/resourceChanges
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/resourceChanges
   architecture review:
     type: UNKNOWN
@@ -7447,7 +7447,7 @@ resourceChanges:
 resourceGroups:
   path: Microsoft.AppConfiguration/resourceGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/resourceGroups
   architecture review:
     type: UNKNOWN
@@ -7464,7 +7464,7 @@ resourceGroups:
 resourceHealthMetadata:
   path: Microsoft.AppConfiguration/resourceHealthMetadata
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/resourceHealthMetadata
   architecture review:
     type: UNKNOWN
@@ -7481,7 +7481,7 @@ resourceHealthMetadata:
 resourceProviders:
   path: Microsoft.AppConfiguration/resourceProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/resourceProviders
   architecture review:
     type: UNKNOWN
@@ -7498,7 +7498,7 @@ resourceProviders:
 resourceTypes:
   path: Microsoft.AppConfiguration/resourceTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/resourceTypes
   architecture review:
     type: UNKNOWN
@@ -7515,7 +7515,7 @@ resourceTypes:
 resources:
   path: Microsoft.AppConfiguration/resources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/resources
   architecture review:
     type: UNKNOWN
@@ -7532,7 +7532,7 @@ resources:
 resourcesHistory:
   path: Microsoft.AppConfiguration/resourcesHistory
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/resourcesHistory
   architecture review:
     type: UNKNOWN
@@ -7549,7 +7549,7 @@ resourcesHistory:
 restorePointCollections:
   path: Microsoft.AppConfiguration/restorePointCollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/restorePointCollections
   architecture review:
     type: UNKNOWN
@@ -7566,7 +7566,7 @@ restorePointCollections:
 roleAssignments:
   path: Microsoft.AppConfiguration/roleAssignments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/roleAssignments
   architecture review:
     type: UNKNOWN
@@ -7583,7 +7583,7 @@ roleAssignments:
 roleAssignmentsUsageMetrics:
   path: Microsoft.AppConfiguration/roleAssignmentsUsageMetrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/roleAssignmentsUsageMetrics
   architecture review:
     type: UNKNOWN
@@ -7600,7 +7600,7 @@ roleAssignmentsUsageMetrics:
 roleDefinitions:
   path: Microsoft.AppConfiguration/roleDefinitions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/roleDefinitions
   architecture review:
     type: UNKNOWN
@@ -7617,7 +7617,7 @@ roleDefinitions:
 rollbackToLegacyPricingModel:
   path: Microsoft.AppConfiguration/rollbackToLegacyPricingModel
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/rollbackToLegacyPricingModel
   architecture review:
     type: UNKNOWN
@@ -7634,7 +7634,7 @@ rollbackToLegacyPricingModel:
 rollouts:
   path: Microsoft.AppConfiguration/rollouts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/rollouts
   architecture review:
     type: UNKNOWN
@@ -7651,7 +7651,7 @@ rollouts:
 routeFilters:
   path: Microsoft.AppConfiguration/routeFilters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/routeFilters
   architecture review:
     type: UNKNOWN
@@ -7668,7 +7668,7 @@ routeFilters:
 routeTables:
   path: Microsoft.AppConfiguration/routeTables
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/routeTables
   architecture review:
     type: UNKNOWN
@@ -7685,7 +7685,7 @@ routeTables:
 runtimes:
   path: Microsoft.AppConfiguration/runtimes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/runtimes
   architecture review:
     type: UNKNOWN
@@ -7702,7 +7702,7 @@ runtimes:
 saasresources:
   path: Microsoft.AppConfiguration/saasresources
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/saasresources
   architecture review:
     type: UNKNOWN
@@ -7719,7 +7719,7 @@ saasresources:
 sapMonitors:
   path: Microsoft.AppConfiguration/sapMonitors
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/sapMonitors
   architecture review:
     type: UNKNOWN
@@ -7736,7 +7736,7 @@ sapMonitors:
 scheduledqueryrules:
   path: Microsoft.AppConfiguration/scheduledqueryrules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/scheduledqueryrules
   architecture review:
     type: UNKNOWN
@@ -7753,7 +7753,7 @@ scheduledqueryrules:
 schedules:
   path: Microsoft.AppConfiguration/schedules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/schedules
   architecture review:
     type: UNKNOWN
@@ -7770,7 +7770,7 @@ schedules:
 searchServices:
   path: Microsoft.AppConfiguration/searchServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/searchServices
   architecture review:
     type: UNKNOWN
@@ -7787,7 +7787,7 @@ searchServices:
 secrets:
   path: Microsoft.AppConfiguration/secrets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/secrets
   architecture review:
     type: UNKNOWN
@@ -7804,7 +7804,7 @@ secrets:
 securityContacts:
   path: Microsoft.AppConfiguration/securityContacts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/securityContacts
   architecture review:
     type: UNKNOWN
@@ -7821,7 +7821,7 @@ securityContacts:
 securitySolutions:
   path: Microsoft.AppConfiguration/securitySolutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/securitySolutions
   architecture review:
     type: UNKNOWN
@@ -7838,7 +7838,7 @@ securitySolutions:
 securitySolutionsReferenceData:
   path: Microsoft.AppConfiguration/securitySolutionsReferenceData
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/securitySolutionsReferenceData
   architecture review:
     type: UNKNOWN
@@ -7855,7 +7855,7 @@ securitySolutionsReferenceData:
 securityStatuses:
   path: Microsoft.AppConfiguration/securityStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/securityStatuses
   architecture review:
     type: UNKNOWN
@@ -7872,7 +7872,7 @@ securityStatuses:
 securityStatusesSummaries:
   path: Microsoft.AppConfiguration/securityStatusesSummaries
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/securityStatusesSummaries
   architecture review:
     type: UNKNOWN
@@ -7889,7 +7889,7 @@ securityStatusesSummaries:
 serverFarms:
   path: Microsoft.AppConfiguration/serverFarms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/serverFarms
   architecture review:
     type: UNKNOWN
@@ -7906,7 +7906,7 @@ serverFarms:
 serverGroups:
   path: Microsoft.AppConfiguration/serverGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/serverGroups
   architecture review:
     type: UNKNOWN
@@ -7923,7 +7923,7 @@ serverGroups:
 serverVulnerabilityAssessments:
   path: Microsoft.AppConfiguration/serverVulnerabilityAssessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/serverVulnerabilityAssessments
   architecture review:
     type: UNKNOWN
@@ -7940,7 +7940,7 @@ serverVulnerabilityAssessments:
 serverfarms:
   path: Microsoft.AppConfiguration/serverfarms
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/serverfarms
   architecture review:
     type: UNKNOWN
@@ -7957,7 +7957,7 @@ serverfarms:
 servers:
   path: Microsoft.AppConfiguration/servers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/servers
   architecture review:
     type: UNKNOWN
@@ -7974,7 +7974,7 @@ servers:
 serversv2:
   path: Microsoft.AppConfiguration/serversv2
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/serversv2
   architecture review:
     type: UNKNOWN
@@ -7991,7 +7991,7 @@ serversv2:
 service:
   path: Microsoft.AppConfiguration/service
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/service
   architecture review:
     type: UNKNOWN
@@ -8008,7 +8008,7 @@ service:
 serviceAssociationLinks:
   path: Microsoft.AppConfiguration/serviceAssociationLinks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/serviceAssociationLinks
   architecture review:
     type: UNKNOWN
@@ -8025,7 +8025,7 @@ serviceAssociationLinks:
 serviceEndpointPolicies:
   path: Microsoft.AppConfiguration/serviceEndpointPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/serviceEndpointPolicies
   architecture review:
     type: UNKNOWN
@@ -8042,7 +8042,7 @@ serviceEndpointPolicies:
 serviceTopologies:
   path: Microsoft.AppConfiguration/serviceTopologies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/serviceTopologies
   architecture review:
     type: UNKNOWN
@@ -8059,7 +8059,7 @@ serviceTopologies:
 servicehealthmetrics:
   path: Microsoft.AppConfiguration/servicehealthmetrics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/servicehealthmetrics
   architecture review:
     type: UNKNOWN
@@ -8076,7 +8076,7 @@ servicehealthmetrics:
 services:
   path: Microsoft.AppConfiguration/services
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/services
   architecture review:
     type: UNKNOWN
@@ -8093,7 +8093,7 @@ services:
 settings:
   path: Microsoft.AppConfiguration/settings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/settings
   architecture review:
     type: UNKNOWN
@@ -8110,7 +8110,7 @@ settings:
 sharedVMImages:
   path: Microsoft.AppConfiguration/sharedVMImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/sharedVMImages
   architecture review:
     type: UNKNOWN
@@ -8127,7 +8127,7 @@ sharedVMImages:
 showbackRules:
   path: Microsoft.AppConfiguration/showbackRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/showbackRules
   architecture review:
     type: UNKNOWN
@@ -8144,7 +8144,7 @@ showbackRules:
 singleServers:
   path: Microsoft.AppConfiguration/singleServers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/singleServers
   architecture review:
     type: UNKNOWN
@@ -8161,7 +8161,7 @@ singleServers:
 sites:
   path: Microsoft.AppConfiguration/sites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/sites
   architecture review:
     type: UNKNOWN
@@ -8178,7 +8178,7 @@ sites:
 sku:
   path: Microsoft.AppConfiguration/sku
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/sku
   architecture review:
     type: UNKNOWN
@@ -8195,7 +8195,7 @@ sku:
 smartDetectorAlertRules:
   path: Microsoft.AppConfiguration/smartDetectorAlertRules
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/smartDetectorAlertRules
   architecture review:
     type: UNKNOWN
@@ -8212,7 +8212,7 @@ smartDetectorAlertRules:
 smartGroups:
   path: Microsoft.AppConfiguration/smartGroups
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/smartGroups
   architecture review:
     type: UNKNOWN
@@ -8229,7 +8229,7 @@ smartGroups:
 snapshots:
   path: Microsoft.AppConfiguration/snapshots
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/snapshots
   architecture review:
     type: UNKNOWN
@@ -8246,7 +8246,7 @@ snapshots:
 software:
   path: Microsoft.AppConfiguration/software
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/software
   architecture review:
     type: UNKNOWN
@@ -8263,7 +8263,7 @@ software:
 softwareUpdateProfile:
   path: Microsoft.AppConfiguration/softwareUpdateProfile
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/softwareUpdateProfile
   architecture review:
     type: UNKNOWN
@@ -8280,7 +8280,7 @@ softwareUpdateProfile:
 softwareUpdates:
   path: Microsoft.AppConfiguration/softwareUpdates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/softwareUpdates
   architecture review:
     type: UNKNOWN
@@ -8297,7 +8297,7 @@ softwareUpdates:
 solutions:
   path: Microsoft.AppConfiguration/solutions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/solutions
   architecture review:
     type: UNKNOWN
@@ -8314,7 +8314,7 @@ solutions:
 sourceControls:
   path: Microsoft.AppConfiguration/sourceControls
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/sourceControls
   architecture review:
     type: UNKNOWN
@@ -8331,7 +8331,7 @@ sourceControls:
 spatialAnchorsAccounts:
   path: Microsoft.AppConfiguration/spatialAnchorsAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/spatialAnchorsAccounts
   architecture review:
     type: UNKNOWN
@@ -8348,7 +8348,7 @@ spatialAnchorsAccounts:
 sqlServerRegistrations:
   path: Microsoft.AppConfiguration/sqlServerRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/sqlServerRegistrations
   architecture review:
     type: UNKNOWN
@@ -8365,7 +8365,7 @@ sqlServerRegistrations:
 sshPublicKeys:
   path: Microsoft.AppConfiguration/sshPublicKeys
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/sshPublicKeys
   architecture review:
     type: UNKNOWN
@@ -8382,7 +8382,7 @@ sshPublicKeys:
 startTenantBackfill:
   path: Microsoft.AppConfiguration/startTenantBackfill
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/startTenantBackfill
   architecture review:
     type: UNKNOWN
@@ -8399,7 +8399,7 @@ startTenantBackfill:
 steps:
   path: Microsoft.AppConfiguration/steps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/steps
   architecture review:
     type: UNKNOWN
@@ -8416,7 +8416,7 @@ steps:
 storageAccounts:
   path: Microsoft.AppConfiguration/storageAccounts
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/storageAccounts
   architecture review:
     type: UNKNOWN
@@ -8433,7 +8433,7 @@ storageAccounts:
 storageInsightConfigs:
   path: Microsoft.AppConfiguration/storageInsightConfigs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/storageInsightConfigs
   architecture review:
     type: UNKNOWN
@@ -8450,7 +8450,7 @@ storageInsightConfigs:
 storageSyncServices:
   path: Microsoft.AppConfiguration/storageSyncServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/storageSyncServices
   architecture review:
     type: UNKNOWN
@@ -8467,7 +8467,7 @@ storageSyncServices:
 stores:
   path: Microsoft.AppConfiguration/stores
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/stores
   architecture review:
     type: UNKNOWN
@@ -8484,7 +8484,7 @@ stores:
 streamingjobs:
   path: Microsoft.AppConfiguration/streamingjobs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/streamingjobs
   architecture review:
     type: UNKNOWN
@@ -8501,7 +8501,7 @@ streamingjobs:
 subAssessments:
   path: Microsoft.AppConfiguration/subAssessments
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/subAssessments
   architecture review:
     type: UNKNOWN
@@ -8518,7 +8518,7 @@ subAssessments:
 subscriptionFeatureRegistrations:
   path: Microsoft.AppConfiguration/subscriptionFeatureRegistrations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/subscriptionFeatureRegistrations
   architecture review:
     type: UNKNOWN
@@ -8535,7 +8535,7 @@ subscriptionFeatureRegistrations:
 subscriptions:
   path: Microsoft.AppConfiguration/subscriptions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/subscriptions
   architecture review:
     type: UNKNOWN
@@ -8552,7 +8552,7 @@ subscriptions:
 subscriptionsStatus:
   path: Microsoft.AppConfiguration/subscriptionsStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/subscriptionsStatus
   architecture review:
     type: UNKNOWN
@@ -8569,7 +8569,7 @@ subscriptionsStatus:
 supportProviders:
   path: Microsoft.AppConfiguration/supportProviders
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/supportProviders
   architecture review:
     type: UNKNOWN
@@ -8586,7 +8586,7 @@ supportProviders:
 supporttickets:
   path: Microsoft.AppConfiguration/supporttickets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/supporttickets
   architecture review:
     type: UNKNOWN
@@ -8603,7 +8603,7 @@ supporttickets:
 suppressions:
   path: Microsoft.AppConfiguration/suppressions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/suppressions
   architecture review:
     type: UNKNOWN
@@ -8620,7 +8620,7 @@ suppressions:
 systemTopics:
   path: Microsoft.AppConfiguration/systemTopics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/systemTopics
   architecture review:
     type: UNKNOWN
@@ -8637,7 +8637,7 @@ systemTopics:
 tags:
   path: Microsoft.AppConfiguration/tags
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/tags
   architecture review:
     type: UNKNOWN
@@ -8654,7 +8654,7 @@ tags:
 tasks:
   path: Microsoft.AppConfiguration/tasks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/tasks
   architecture review:
     type: UNKNOWN
@@ -8671,7 +8671,7 @@ tasks:
 tenantBackfillStatus:
   path: Microsoft.AppConfiguration/tenantBackfillStatus
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/tenantBackfillStatus
   architecture review:
     type: UNKNOWN
@@ -8688,7 +8688,7 @@ tenantBackfillStatus:
 tenants:
   path: Microsoft.AppConfiguration/tenants
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/tenants
   architecture review:
     type: UNKNOWN
@@ -8705,7 +8705,7 @@ tenants:
 topLevelDomains:
   path: Microsoft.AppConfiguration/topLevelDomains
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/topLevelDomains
   architecture review:
     type: UNKNOWN
@@ -8722,7 +8722,7 @@ topLevelDomains:
 topicTypes:
   path: Microsoft.AppConfiguration/topicTypes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/topicTypes
   architecture review:
     type: UNKNOWN
@@ -8739,7 +8739,7 @@ topicTypes:
 topics:
   path: Microsoft.AppConfiguration/topics
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/topics
   architecture review:
     type: UNKNOWN
@@ -8756,7 +8756,7 @@ topics:
 topologies:
   path: Microsoft.AppConfiguration/topologies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/topologies
   architecture review:
     type: UNKNOWN
@@ -8773,7 +8773,7 @@ topologies:
 topology:
   path: Microsoft.AppConfiguration/topology
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/topology
   architecture review:
     type: UNKNOWN
@@ -8790,7 +8790,7 @@ topology:
 trafficManagerGeographicHierarchies:
   path: Microsoft.AppConfiguration/trafficManagerGeographicHierarchies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/trafficManagerGeographicHierarchies
   architecture review:
     type: UNKNOWN
@@ -8807,7 +8807,7 @@ trafficManagerGeographicHierarchies:
 trafficManagerUserMetricsKeys:
   path: Microsoft.AppConfiguration/trafficManagerUserMetricsKeys
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/trafficManagerUserMetricsKeys
   architecture review:
     type: UNKNOWN
@@ -8824,7 +8824,7 @@ trafficManagerUserMetricsKeys:
 trafficmanagerprofiles:
   path: Microsoft.AppConfiguration/trafficmanagerprofiles
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/trafficmanagerprofiles
   architecture review:
     type: UNKNOWN
@@ -8841,7 +8841,7 @@ trafficmanagerprofiles:
 transactions:
   path: Microsoft.AppConfiguration/transactions
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/transactions
   architecture review:
     type: UNKNOWN
@@ -8858,7 +8858,7 @@ transactions:
 transfers:
   path: Microsoft.AppConfiguration/transfers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/transfers
   architecture review:
     type: UNKNOWN
@@ -8875,7 +8875,7 @@ transfers:
 updateCommunicationPreference:
   path: Microsoft.AppConfiguration/updateCommunicationPreference
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/updateCommunicationPreference
   architecture review:
     type: UNKNOWN
@@ -8892,7 +8892,7 @@ updateCommunicationPreference:
 updates:
   path: Microsoft.AppConfiguration/updates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/updates
   architecture review:
     type: UNKNOWN
@@ -8909,7 +8909,7 @@ updates:
 usages:
   path: Microsoft.AppConfiguration/usages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/usages
   architecture review:
     type: UNKNOWN
@@ -8926,7 +8926,7 @@ usages:
 userAssignedIdentities:
   path: Microsoft.AppConfiguration/userAssignedIdentities
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/userAssignedIdentities
   architecture review:
     type: UNKNOWN
@@ -8943,7 +8943,7 @@ userAssignedIdentities:
 userSettings:
   path: Microsoft.AppConfiguration/userSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/userSettings
   architecture review:
     type: UNKNOWN
@@ -8960,7 +8960,7 @@ userSettings:
 users:
   path: Microsoft.AppConfiguration/users
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/users
   architecture review:
     type: UNKNOWN
@@ -8977,7 +8977,7 @@ users:
 validate:
   path: Microsoft.AppConfiguration/validate
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/validate
   architecture review:
     type: UNKNOWN
@@ -8994,7 +8994,7 @@ validate:
 validateAddress:
   path: Microsoft.AppConfiguration/validateAddress
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/validateAddress
   architecture review:
     type: UNKNOWN
@@ -9011,7 +9011,7 @@ validateAddress:
 validateCertificateRegistrationInformation:
   path: Microsoft.AppConfiguration/validateCertificateRegistrationInformation
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/validateCertificateRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9028,7 +9028,7 @@ validateCertificateRegistrationInformation:
 validateDomainRegistrationInformation:
   path: Microsoft.AppConfiguration/validateDomainRegistrationInformation
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/validateDomainRegistrationInformation
   architecture review:
     type: UNKNOWN
@@ -9045,7 +9045,7 @@ validateDomainRegistrationInformation:
 validateProbe:
   path: Microsoft.AppConfiguration/validateProbe
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/validateProbe
   architecture review:
     type: UNKNOWN
@@ -9062,7 +9062,7 @@ validateProbe:
 validateReservationOrder:
   path: Microsoft.AppConfiguration/validateReservationOrder
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/validateReservationOrder
   architecture review:
     type: UNKNOWN
@@ -9079,7 +9079,7 @@ validateReservationOrder:
 validateServiceName:
   path: Microsoft.AppConfiguration/validateServiceName
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/validateServiceName
   architecture review:
     type: UNKNOWN
@@ -9096,7 +9096,7 @@ validateServiceName:
 validateSubscriptionMoveAvailability:
   path: Microsoft.AppConfiguration/validateSubscriptionMoveAvailability
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/validateSubscriptionMoveAvailability
   architecture review:
     type: UNKNOWN
@@ -9113,7 +9113,7 @@ validateSubscriptionMoveAvailability:
 vaults:
   path: Microsoft.AppConfiguration/vaults
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/vaults
   architecture review:
     type: UNKNOWN
@@ -9130,7 +9130,7 @@ vaults:
 verifyHostingEnvironmentVnet:
   path: Microsoft.AppConfiguration/verifyHostingEnvironmentVnet
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/verifyHostingEnvironmentVnet
   architecture review:
     type: UNKNOWN
@@ -9147,7 +9147,7 @@ verifyHostingEnvironmentVnet:
 views:
   path: Microsoft.AppConfiguration/views
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/views
   architecture review:
     type: UNKNOWN
@@ -9164,7 +9164,7 @@ views:
 virtualClusters:
   path: Microsoft.AppConfiguration/virtualClusters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/virtualClusters
   architecture review:
     type: UNKNOWN
@@ -9181,7 +9181,7 @@ virtualClusters:
 virtualHubs:
   path: Microsoft.AppConfiguration/virtualHubs
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/virtualHubs
   architecture review:
     type: UNKNOWN
@@ -9198,7 +9198,7 @@ virtualHubs:
 virtualMachineScaleSets:
   path: Microsoft.AppConfiguration/virtualMachineScaleSets
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/virtualMachineScaleSets
   architecture review:
     type: UNKNOWN
@@ -9215,7 +9215,7 @@ virtualMachineScaleSets:
 virtualMachines:
   path: Microsoft.AppConfiguration/virtualMachines
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/virtualMachines
   architecture review:
     type: UNKNOWN
@@ -9232,7 +9232,7 @@ virtualMachines:
 virtualNetworkGateways:
   path: Microsoft.AppConfiguration/virtualNetworkGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/virtualNetworkGateways
   architecture review:
     type: UNKNOWN
@@ -9249,7 +9249,7 @@ virtualNetworkGateways:
 virtualNetworkTaps:
   path: Microsoft.AppConfiguration/virtualNetworkTaps
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/virtualNetworkTaps
   architecture review:
     type: UNKNOWN
@@ -9266,7 +9266,7 @@ virtualNetworkTaps:
 virtualNetworks:
   path: Microsoft.AppConfiguration/virtualNetworks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/virtualNetworks
   architecture review:
     type: UNKNOWN
@@ -9283,7 +9283,7 @@ virtualNetworks:
 virtualRouters:
   path: Microsoft.AppConfiguration/virtualRouters
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/virtualRouters
   architecture review:
     type: UNKNOWN
@@ -9300,7 +9300,7 @@ virtualRouters:
 virtualWans:
   path: Microsoft.AppConfiguration/virtualWans
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/virtualWans
   architecture review:
     type: UNKNOWN
@@ -9317,7 +9317,7 @@ virtualWans:
 vmImages:
   path: Microsoft.AppConfiguration/vmImages
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/vmImages
   architecture review:
     type: UNKNOWN
@@ -9334,7 +9334,7 @@ vmImages:
 vmInsightsOnboardingStatuses:
   path: Microsoft.AppConfiguration/vmInsightsOnboardingStatuses
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/vmInsightsOnboardingStatuses
   architecture review:
     type: UNKNOWN
@@ -9351,7 +9351,7 @@ vmInsightsOnboardingStatuses:
 volumes:
   path: Microsoft.AppConfiguration/volumes
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/volumes
   architecture review:
     type: UNKNOWN
@@ -9368,7 +9368,7 @@ volumes:
 vpnGateways:
   path: Microsoft.AppConfiguration/vpnGateways
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/vpnGateways
   architecture review:
     type: UNKNOWN
@@ -9385,7 +9385,7 @@ vpnGateways:
 vpnServerConfigurations:
   path: Microsoft.AppConfiguration/vpnServerConfigurations
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/vpnServerConfigurations
   architecture review:
     type: UNKNOWN
@@ -9402,7 +9402,7 @@ vpnServerConfigurations:
 vpnSites:
   path: Microsoft.AppConfiguration/vpnSites
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/vpnSites
   architecture review:
     type: UNKNOWN
@@ -9419,7 +9419,7 @@ vpnSites:
 watchers:
   path: Microsoft.AppConfiguration/watchers
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/watchers
   architecture review:
     type: UNKNOWN
@@ -9436,7 +9436,7 @@ watchers:
 webApplicationFirewallPolicies:
   path: Microsoft.AppConfiguration/webApplicationFirewallPolicies
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/webApplicationFirewallPolicies
   architecture review:
     type: UNKNOWN
@@ -9453,7 +9453,7 @@ webApplicationFirewallPolicies:
 webServices:
   path: Microsoft.AppConfiguration/webServices
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/webServices
   architecture review:
     type: UNKNOWN
@@ -9470,7 +9470,7 @@ webServices:
 webtests:
   path: Microsoft.AppConfiguration/webtests
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/webtests
   architecture review:
     type: UNKNOWN
@@ -9487,7 +9487,7 @@ webtests:
 workbooks:
   path: Microsoft.AppConfiguration/workbooks
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/workbooks
   architecture review:
     type: UNKNOWN
@@ -9504,7 +9504,7 @@ workbooks:
 workbooktemplates:
   path: Microsoft.AppConfiguration/workbooktemplates
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/workbooktemplates
   architecture review:
     type: UNKNOWN
@@ -9521,7 +9521,7 @@ workbooktemplates:
 workflows:
   path: Microsoft.AppConfiguration/workflows
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/workflows
   architecture review:
     type: UNKNOWN
@@ -9538,7 +9538,7 @@ workflows:
 workspaceCollections:
   path: Microsoft.AppConfiguration/workspaceCollections
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/workspaceCollections
   architecture review:
     type: UNKNOWN
@@ -9555,7 +9555,7 @@ workspaceCollections:
 workspaceSettings:
   path: Microsoft.AppConfiguration/workspaceSettings
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/workspaceSettings
   architecture review:
     type: UNKNOWN
@@ -9572,7 +9572,7 @@ workspaceSettings:
 workspaces:
   path: Microsoft.AppConfiguration/workspaces
   description: UNKNOWN
-  status: ASSESS
+  status: HOLD
   url: Microsoft.AppConfiguration/workspaces
   architecture review:
     type: UNKNOWN

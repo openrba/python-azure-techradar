@@ -1,6 +1,0 @@
-[
-    "Microsoft.AlertsManagement/ExternalSubscriptions/Alerts",
-    "Microsoft.AlertsManagement/ExternalSubscriptions/Dimensions",
-    "Microsoft.AlertsManagement/ExternalSubscriptions/Forecast",
-    "Microsoft.AlertsManagement/ExternalSubscriptions/Query"
-]

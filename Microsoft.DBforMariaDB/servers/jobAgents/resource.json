@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/servers/jobAgents/jobs",
-    "Microsoft.DBforMariaDB/servers/jobAgents/jobs/executions",
-    "Microsoft.DBforMariaDB/servers/jobAgents/jobs/steps"
-]

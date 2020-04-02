@@ -1,6 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/transfers/acceptTransfer",
-    "Microsoft.ADHybridHealthService/transfers/declineTransfer",
-    "Microsoft.ADHybridHealthService/transfers/operationStatus",
-    "Microsoft.ADHybridHealthService/transfers/validateTransfer"
-]

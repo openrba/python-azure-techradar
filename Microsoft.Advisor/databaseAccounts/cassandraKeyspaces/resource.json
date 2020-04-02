@@ -1,5 +1,0 @@
-[
-    "Microsoft.Advisor/databaseAccounts/cassandraKeyspaces/tables",
-    "Microsoft.Advisor/databaseAccounts/cassandraKeyspaces/tables/throughputSettings",
-    "Microsoft.Advisor/databaseAccounts/cassandraKeyspaces/throughputSettings"
-]

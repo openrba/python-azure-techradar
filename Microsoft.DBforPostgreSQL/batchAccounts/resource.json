@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/batchAccounts/applications",
-    "Microsoft.DBforPostgreSQL/batchAccounts/applications/versions",
-    "Microsoft.DBforPostgreSQL/batchAccounts/certificates",
-    "Microsoft.DBforPostgreSQL/batchAccounts/pools"
-]

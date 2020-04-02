@@ -32,9 +32,9 @@ Technologies that we have seen work with success in projects to solve real probl
 
 |<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>[Microsoft.Compute](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute)</sub>|<sub>UNKNOWN</sub>|<sub>IAAAS</sub>|<sub>TRIAL</sub>|
+|<sub>[Microsoft.Compute](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Compute)</sub>|<sub>Azure compute provides the infrastructure you need to run your apps.</sub>|<sub>IAAS</sub>|<sub>TRIAL</sub>|
 |<sub>[Microsoft.DBforPostgreSQL](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforPostgreSQL)</sub>|<sub>Azure Database for PostgreSQL is a relational database service based on the open-source Postgres database engine.</sub>|<sub>PAAS</sub>|<sub>TRIAL</sub>|
-|<sub>[Microsoft.Network](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network)</sub>|<sub>UNKNOWN</sub>|<sub>IAAS</sub>|<sub>TRIAL</sub>|
+|<sub>[Microsoft.Network](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Network)</sub>|<sub>Azure Virtual Network (VNet) is the fundamental building block for your private network in Azure.</sub>|<sub>IAAS</sub>|<sub>TRIAL</sub>|
 
 ### Assess
 
@@ -49,6 +49,8 @@ Technologies that are promising and have clear potential value-add for us; techn
 |<sub>[Microsoft.AppConfiguration](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AppConfiguration)</sub>|<sub>Azure App Configuration provides a service to centrally manage application settings and feature flags.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.AppPlatform](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.AppPlatform)</sub>|<sub>Azure Spring Cloud makes it easy to deploy Spring Boot-based microservice applications to Azure with zero code changes.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.Batch](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Batch)</sub>|<sub>Azure Batch runs large-scale applications efficiently in the cloud. Schedule compute-intensive tasks and dynamically adjust resources for your solution without managing infrastructure.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.Billing](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Billing)</sub>|<sub>Azure Cost Management and Billing help you understand Azure billing, manage your account and subscriptions, monitor and control Azure spending and optimize resource use.</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.BingMaps](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.BingMaps)</sub>|<sub>The Bing Maps Platform offers a suite of controls and service APIs that you can use to add Bing Maps or geospatial services to your application.</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.DBforMariaDB](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMariaDB)</sub>|<sub>Azure Database for MariaDB provides fully managed, enterprise-ready community MariaDB database as a service.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.DBforMySQL](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DBforMySQL)</sub>|<sub>Azure Database for MySQL provides fully managed, enterprise-ready community MySQL database as a service.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 
@@ -60,17 +62,14 @@ Technologies not recommended to be used for new projects. Technologies that we t
 |<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
 |<sub>Microsoft.AAD</sub>|<sub>Azure Active Directory Domain Services (Azure AD DS) provides managed domain services such as domain join, group policy, lightweight directory access protocol (LDAP), and Kerberos / NTLM authentication that is fully compatible with Windows Server Active Directory.</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Addons</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.Addons</sub>|<sub>Add additonal support plans from other providers to your Azure resources.</sub>|<sub>SAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.AnalysisServices</sub>|<sub>Learn how to set up data modeling with Analysis Services in the cloud. Documentation shows you how to create an enterprise BI solution by using tabular data models.</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Attestation</sub>|<sub>Azure Attestation Service</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.AzureActiveDirectory</sub>|<sub>Azure Active Directory B2C (Azure AD B2C) is an identity management service that enables custom control of how your customers sign up, sign in, and manage their profiles when using your iOS, Android, .NET, single-page (SPA), and other applications.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.AzureData</sub>|<sub>We don't use the Azure Portal often so we need notification function when available for ESU patches.</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.AzureStack</sub>|<sub>Azure Stack is a hybrid cloud computing software solution developed by Microsoft based on the company's Azure cloud platform.</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.BatchAI</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Billing</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.BingMaps</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Blockchain</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.BlockchainTokens</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.Blockchain</sub>|<sub>Azure Blockchain Workbench Preview is a collection of Azure services and capabilities designed to help you create and deploy blockchain applications to share business processes and data with other organizations.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
+|<sub>Microsoft.BlockchainTokens</sub>|<sub>Azure Blockchain Tokens makes deploying and managing standard tokens easier than ever.</sub>|<sub>PAAS</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Blueprint</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.BotService</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.CDN</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
@@ -209,6 +208,7 @@ Technologies not recommended to be used for any projects. Technologies that have
 | :---: | :---: | :---: | :---: |
 |<sub>Microsoft.Authorization</sub>|<sub>Azure Resource Manager is the deployment and management service for Azure.</sub>|<sub>PAAS</sub>|<sub>REJECT</sub>|
 |<sub>Microsoft.Automation</sub>|<sub>Azure Automation delivers a cloud-based automation and configuration service that provides consistent management across your Azure and non-Azure environments.</sub>|<sub>PAAS</sub>|<sub>REJECT</sub>|
+|<sub>Microsoft.BatchAI</sub>|<sub>Azure Batch AI is designed to help you run large AI training and testing workloads in the cloud. Batch AI supports multiple training toolkits such as Tensorflow, CNTK, Chainer, among others, as well as the ability to deploy your own software stacks at scale.</sub>|<sub>PAAS</sub>|<sub>REJECT</sub>|
 |<sub>Microsoft.ClassicCompute</sub>|<sub>Deprecated version of Azure compute</sub>|<sub>IAAS</sub>|<sub>REJECT</sub>|
 |<sub>Microsoft.ClassicInfrastructureMigrate</sub>|<sub>Deprecated version of Azure migrate</sub>|<sub>IAAS</sub>|<sub>REJECT</sub>|
 |<sub>Microsoft.ClassicNetwork</sub>|<sub>Deprecated version of Azure network</sub>|<sub>IAAS</sub>|<sub>REJECT</sub>|

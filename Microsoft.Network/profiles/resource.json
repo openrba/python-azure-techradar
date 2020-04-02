@@ -1,6 +1,0 @@
-[
-    "Microsoft.Network/profiles/endpoints",
-    "Microsoft.Network/profiles/endpoints/customdomains",
-    "Microsoft.Network/profiles/endpoints/origingroups",
-    "Microsoft.Network/profiles/endpoints/origins"
-]

@@ -1,6 +1,0 @@
-[
-    "Microsoft.ApiManagement/ExternalBillingAccounts/Alerts",
-    "Microsoft.ApiManagement/ExternalBillingAccounts/Dimensions",
-    "Microsoft.ApiManagement/ExternalBillingAccounts/Forecast",
-    "Microsoft.ApiManagement/ExternalBillingAccounts/Query"
-]

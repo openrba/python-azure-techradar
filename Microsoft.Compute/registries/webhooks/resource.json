@@ -1,5 +1,0 @@
-[
-    "Microsoft.Compute/registries/webhooks/getCallbackConfig",
-    "Microsoft.Compute/registries/webhooks/listEvents",
-    "Microsoft.Compute/registries/webhooks/ping"
-]

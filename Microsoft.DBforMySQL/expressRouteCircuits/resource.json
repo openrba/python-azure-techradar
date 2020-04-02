@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMySQL/expressRouteCircuits/authorizations",
-    "Microsoft.DBforMySQL/expressRouteCircuits/peerings",
-    "Microsoft.DBforMySQL/expressRouteCircuits/peerings/connections"
-]

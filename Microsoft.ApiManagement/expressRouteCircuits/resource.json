@@ -1,5 +1,0 @@
-[
-    "Microsoft.ApiManagement/expressRouteCircuits/authorizations",
-    "Microsoft.ApiManagement/expressRouteCircuits/peerings",
-    "Microsoft.ApiManagement/expressRouteCircuits/peerings/connections"
-]

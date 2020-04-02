@@ -1,6 +1,0 @@
-[
-    "Microsoft.AlertsManagement/transfers/acceptTransfer",
-    "Microsoft.AlertsManagement/transfers/declineTransfer",
-    "Microsoft.AlertsManagement/transfers/operationStatus",
-    "Microsoft.AlertsManagement/transfers/validateTransfer"
-]

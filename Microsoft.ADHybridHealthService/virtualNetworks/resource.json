@@ -1,5 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/virtualNetworks/remoteVirtualNetworkPeeringProxies",
-    "Microsoft.ADHybridHealthService/virtualNetworks/subnets",
-    "Microsoft.ADHybridHealthService/virtualNetworks/virtualNetworkPeerings"
-]

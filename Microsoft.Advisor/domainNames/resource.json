@@ -1,9 +1,0 @@
-[
-    "Microsoft.Advisor/domainNames/capabilities",
-    "Microsoft.Advisor/domainNames/internalLoadBalancers",
-    "Microsoft.Advisor/domainNames/serviceCertificates",
-    "Microsoft.Advisor/domainNames/slots",
-    "Microsoft.Advisor/domainNames/slots/roles",
-    "Microsoft.Advisor/domainNames/slots/roles/metricDefinitions",
-    "Microsoft.Advisor/domainNames/slots/roles/metrics"
-]

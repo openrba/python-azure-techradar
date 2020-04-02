@@ -1,7 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/Locations/OperationStatuses",
-    "Microsoft.ADHybridHealthService/Locations/OperationTypes",
-    "Microsoft.ADHybridHealthService/Locations/availabilityGroupListenerOperationResults",
-    "Microsoft.ADHybridHealthService/Locations/sqlVirtualMachineGroupOperationResults",
-    "Microsoft.ADHybridHealthService/Locations/sqlVirtualMachineOperationResults"
-]

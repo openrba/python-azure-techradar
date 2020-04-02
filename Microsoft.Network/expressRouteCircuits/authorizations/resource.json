@@ -1,5 +1,0 @@
-[
-    "Microsoft.Network/expressRouteCircuits/authorizations/authorizationKey",
-    "Microsoft.Network/expressRouteCircuits/authorizations/authorizationUseStatus",
-    "Microsoft.Network/expressRouteCircuits/authorizations/provisioningState"
-]

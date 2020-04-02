@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/environments/accessPolicies",
-    "Microsoft.DBforMariaDB/environments/eventsources",
-    "Microsoft.DBforMariaDB/environments/referenceDataSets"
-]

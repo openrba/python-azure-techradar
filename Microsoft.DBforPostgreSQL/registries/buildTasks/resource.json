@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/registries/buildTasks/listSourceRepositoryProperties",
-    "Microsoft.DBforPostgreSQL/registries/buildTasks/steps",
-    "Microsoft.DBforPostgreSQL/registries/buildTasks/steps/listBuildArguments"
-]

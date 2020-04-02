@@ -1,7 +1,0 @@
-[
-    "Microsoft.Batch/labs/users/disks",
-    "Microsoft.Batch/labs/users/environments",
-    "Microsoft.Batch/labs/users/secrets",
-    "Microsoft.Batch/labs/users/serviceFabrics",
-    "Microsoft.Batch/labs/users/serviceFabrics/schedules"
-]

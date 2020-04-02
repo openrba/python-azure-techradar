@@ -1,8 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/managedInstances/databases/backupLongTermRetentionPolicies",
-    "Microsoft.ADHybridHealthService/managedInstances/databases/backupShortTermRetentionPolicies",
-    "Microsoft.ADHybridHealthService/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
-    "Microsoft.ADHybridHealthService/managedInstances/databases/securityAlertPolicies",
-    "Microsoft.ADHybridHealthService/managedInstances/databases/vulnerabilityAssessments",
-    "Microsoft.ADHybridHealthService/managedInstances/databases/vulnerabilityAssessments/rules/baselines"
-]

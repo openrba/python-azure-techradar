@@ -1,5 +1,0 @@
-[
-    "Microsoft.ApiManagement/databaseAccounts/cassandraKeyspaces/tables",
-    "Microsoft.ApiManagement/databaseAccounts/cassandraKeyspaces/tables/throughputSettings",
-    "Microsoft.ApiManagement/databaseAccounts/cassandraKeyspaces/throughputSettings"
-]

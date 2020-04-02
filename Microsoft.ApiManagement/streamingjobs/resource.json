@@ -1,6 +1,0 @@
-[
-    "Microsoft.ApiManagement/streamingjobs/functions",
-    "Microsoft.ApiManagement/streamingjobs/inputs",
-    "Microsoft.ApiManagement/streamingjobs/outputs",
-    "Microsoft.ApiManagement/streamingjobs/transformations"
-]

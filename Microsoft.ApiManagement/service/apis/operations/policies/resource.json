@@ -1,9 +1,0 @@
-[
-    "Microsoft.ApiManagement/service/apis/operations/policies/contentFormat",
-    "Microsoft.ApiManagement/service/apis/operations/policies/format",
-    "Microsoft.ApiManagement/service/apis/operations/policies/policy.contentFormat",
-    "Microsoft.ApiManagement/service/apis/operations/policies/policy.format",
-    "Microsoft.ApiManagement/service/apis/operations/policies/policy.policyContent",
-    "Microsoft.ApiManagement/service/apis/operations/policies/policy.value",
-    "Microsoft.ApiManagement/service/apis/operations/policies/policyContent"
-]

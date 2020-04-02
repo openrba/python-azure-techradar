@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforMySQL/databaseAccounts/sqlDatabases/containers/storedProcedures",
-    "Microsoft.DBforMySQL/databaseAccounts/sqlDatabases/containers/throughputSettings",
-    "Microsoft.DBforMySQL/databaseAccounts/sqlDatabases/containers/triggers",
-    "Microsoft.DBforMySQL/databaseAccounts/sqlDatabases/containers/userDefinedFunctions"
-]

@@ -1,5 +1,0 @@
-[
-    "Microsoft.ApiManagement/registries/buildTasks/listSourceRepositoryProperties",
-    "Microsoft.ApiManagement/registries/buildTasks/steps",
-    "Microsoft.ApiManagement/registries/buildTasks/steps/listBuildArguments"
-]

@@ -1,5 +1,0 @@
-[
-    "Microsoft.Batch/batchAccounts/certificates/format",
-    "Microsoft.Batch/batchAccounts/certificates/thumbprint",
-    "Microsoft.Batch/batchAccounts/certificates/thumbprintAlgorithm"
-]

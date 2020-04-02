@@ -1,7 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/virtualMachineScaleSets/extensions",
-    "Microsoft.ADHybridHealthService/virtualMachineScaleSets/networkInterfaces",
-    "Microsoft.ADHybridHealthService/virtualMachineScaleSets/publicIPAddresses",
-    "Microsoft.ADHybridHealthService/virtualMachineScaleSets/virtualMachines",
-    "Microsoft.ADHybridHealthService/virtualMachineScaleSets/virtualMachines/networkInterfaces"
-]

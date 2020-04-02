@@ -1,9 +1,0 @@
-[
-    "Microsoft.AlertsManagement/billingAccounts/customers/billingPermissions",
-    "Microsoft.AlertsManagement/billingAccounts/customers/billingSubscriptions",
-    "Microsoft.AlertsManagement/billingAccounts/customers/initiateTransfer",
-    "Microsoft.AlertsManagement/billingAccounts/customers/policies",
-    "Microsoft.AlertsManagement/billingAccounts/customers/products",
-    "Microsoft.AlertsManagement/billingAccounts/customers/transactions",
-    "Microsoft.AlertsManagement/billingAccounts/customers/transfers"
-]

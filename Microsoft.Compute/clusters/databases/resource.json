@@ -1,5 +1,0 @@
-[
-    "Microsoft.Compute/clusters/databases/dataconnections",
-    "Microsoft.Compute/clusters/databases/eventhubconnections",
-    "Microsoft.Compute/clusters/databases/principalassignments"
-]

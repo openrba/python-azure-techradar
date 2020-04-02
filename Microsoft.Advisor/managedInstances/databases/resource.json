@@ -1,8 +1,0 @@
-[
-    "Microsoft.Advisor/managedInstances/databases/backupLongTermRetentionPolicies",
-    "Microsoft.Advisor/managedInstances/databases/backupShortTermRetentionPolicies",
-    "Microsoft.Advisor/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
-    "Microsoft.Advisor/managedInstances/databases/securityAlertPolicies",
-    "Microsoft.Advisor/managedInstances/databases/vulnerabilityAssessments",
-    "Microsoft.Advisor/managedInstances/databases/vulnerabilityAssessments/rules/baselines"
-]

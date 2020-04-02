@@ -1,5 +1,0 @@
-[
-    "Microsoft.ApiManagement/storageAccounts/services/diagnosticSettings",
-    "Microsoft.ApiManagement/storageAccounts/services/metricDefinitions",
-    "Microsoft.ApiManagement/storageAccounts/services/metrics"
-]

@@ -1,5 +1,0 @@
-[
-    "Microsoft.ADHybridHealthService/expressRouteCircuits/authorizations",
-    "Microsoft.ADHybridHealthService/expressRouteCircuits/peerings",
-    "Microsoft.ADHybridHealthService/expressRouteCircuits/peerings/connections"
-]

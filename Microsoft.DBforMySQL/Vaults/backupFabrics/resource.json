@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMySQL/Vaults/backupFabrics/backupProtectionIntent",
-    "Microsoft.DBforMySQL/Vaults/backupFabrics/protectionContainers",
-    "Microsoft.DBforMySQL/Vaults/backupFabrics/protectionContainers/protectedItems"
-]

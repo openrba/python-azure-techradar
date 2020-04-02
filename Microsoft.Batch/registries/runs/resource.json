@@ -1,4 +1,0 @@
-[
-    "Microsoft.Batch/registries/runs/cancel",
-    "Microsoft.Batch/registries/runs/listLogSasUrl"
-]

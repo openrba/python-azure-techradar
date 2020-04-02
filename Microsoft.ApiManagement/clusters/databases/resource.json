@@ -1,5 +1,0 @@
-[
-    "Microsoft.ApiManagement/clusters/databases/dataconnections",
-    "Microsoft.ApiManagement/clusters/databases/eventhubconnections",
-    "Microsoft.ApiManagement/clusters/databases/principalassignments"
-]

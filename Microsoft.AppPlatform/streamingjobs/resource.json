@@ -1,6 +1,0 @@
-[
-    "Microsoft.AppPlatform/streamingjobs/functions",
-    "Microsoft.AppPlatform/streamingjobs/inputs",
-    "Microsoft.AppPlatform/streamingjobs/outputs",
-    "Microsoft.AppPlatform/streamingjobs/transformations"
-]

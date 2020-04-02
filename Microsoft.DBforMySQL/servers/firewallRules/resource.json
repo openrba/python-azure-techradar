@@ -1,4 +1,0 @@
-[
-    "Microsoft.DBforMySQL/servers/firewallRules/endIpAddress",
-    "Microsoft.DBforMySQL/servers/firewallRules/startIpAddress"
-]

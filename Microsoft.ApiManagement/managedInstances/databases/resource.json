@@ -1,8 +1,0 @@
-[
-    "Microsoft.ApiManagement/managedInstances/databases/backupLongTermRetentionPolicies",
-    "Microsoft.ApiManagement/managedInstances/databases/backupShortTermRetentionPolicies",
-    "Microsoft.ApiManagement/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
-    "Microsoft.ApiManagement/managedInstances/databases/securityAlertPolicies",
-    "Microsoft.ApiManagement/managedInstances/databases/vulnerabilityAssessments",
-    "Microsoft.ApiManagement/managedInstances/databases/vulnerabilityAssessments/rules/baselines"
-]

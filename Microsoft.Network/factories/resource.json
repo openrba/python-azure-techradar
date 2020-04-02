@@ -1,8 +1,0 @@
-[
-    "Microsoft.Network/factories/dataflows",
-    "Microsoft.Network/factories/datasets",
-    "Microsoft.Network/factories/integrationRuntimes",
-    "Microsoft.Network/factories/linkedservices",
-    "Microsoft.Network/factories/pipelines",
-    "Microsoft.Network/factories/triggers"
-]

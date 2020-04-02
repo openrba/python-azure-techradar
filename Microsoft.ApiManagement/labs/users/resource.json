@@ -1,7 +1,0 @@
-[
-    "Microsoft.ApiManagement/labs/users/disks",
-    "Microsoft.ApiManagement/labs/users/environments",
-    "Microsoft.ApiManagement/labs/users/secrets",
-    "Microsoft.ApiManagement/labs/users/serviceFabrics",
-    "Microsoft.ApiManagement/labs/users/serviceFabrics/schedules"
-]

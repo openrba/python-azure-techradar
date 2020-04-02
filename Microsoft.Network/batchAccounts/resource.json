@@ -1,6 +1,0 @@
-[
-    "Microsoft.Network/batchAccounts/applications",
-    "Microsoft.Network/batchAccounts/applications/versions",
-    "Microsoft.Network/batchAccounts/certificates",
-    "Microsoft.Network/batchAccounts/pools"
-]

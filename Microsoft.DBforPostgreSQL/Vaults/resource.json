@@ -1,8 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/Vaults/backupFabrics/backupProtectionIntent",
-    "Microsoft.DBforPostgreSQL/Vaults/backupFabrics/protectionContainers",
-    "Microsoft.DBforPostgreSQL/Vaults/backupFabrics/protectionContainers/protectedItems",
-    "Microsoft.DBforPostgreSQL/Vaults/backupPolicies",
-    "Microsoft.DBforPostgreSQL/Vaults/backupstorageconfig",
-    "Microsoft.DBforPostgreSQL/Vaults/extendedInformation"
-]

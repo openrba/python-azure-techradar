@@ -1,6 +1,0 @@
-[
-    "Microsoft.Compute/streamingjobs/functions",
-    "Microsoft.Compute/streamingjobs/inputs",
-    "Microsoft.Compute/streamingjobs/outputs",
-    "Microsoft.Compute/streamingjobs/transformations"
-]

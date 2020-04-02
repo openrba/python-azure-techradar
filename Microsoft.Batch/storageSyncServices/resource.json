@@ -1,7 +1,0 @@
-[
-    "Microsoft.Batch/storageSyncServices/registeredServers",
-    "Microsoft.Batch/storageSyncServices/syncGroups",
-    "Microsoft.Batch/storageSyncServices/syncGroups/cloudEndpoints",
-    "Microsoft.Batch/storageSyncServices/syncGroups/serverEndpoints",
-    "Microsoft.Batch/storageSyncServices/workflows"
-]

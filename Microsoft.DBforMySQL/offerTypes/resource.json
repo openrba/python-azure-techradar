@@ -1,8 +1,0 @@
-[
-    "Microsoft.DBforMySQL/offerTypes/publishers",
-    "Microsoft.DBforMySQL/offerTypes/publishers/offers",
-    "Microsoft.DBforMySQL/offerTypes/publishers/offers/plans",
-    "Microsoft.DBforMySQL/offerTypes/publishers/offers/plans/agreements",
-    "Microsoft.DBforMySQL/offerTypes/publishers/offers/plans/configs",
-    "Microsoft.DBforMySQL/offerTypes/publishers/offers/plans/configs/importImage"
-]

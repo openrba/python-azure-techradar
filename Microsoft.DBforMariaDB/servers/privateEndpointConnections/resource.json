@@ -1,9 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateEndpoint",
-    "Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateEndpoint.id",
-    "Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState",
-    "Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired",
-    "Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.description",
-    "Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.status",
-    "Microsoft.DBforMariaDB/servers/privateEndpointConnections/provisioningState"
-]

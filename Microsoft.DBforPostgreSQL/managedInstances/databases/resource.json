@@ -1,8 +1,0 @@
-[
-    "Microsoft.DBforPostgreSQL/managedInstances/databases/backupLongTermRetentionPolicies",
-    "Microsoft.DBforPostgreSQL/managedInstances/databases/backupShortTermRetentionPolicies",
-    "Microsoft.DBforPostgreSQL/managedInstances/databases/schemas/tables/columns/sensitivityLabels",
-    "Microsoft.DBforPostgreSQL/managedInstances/databases/securityAlertPolicies",
-    "Microsoft.DBforPostgreSQL/managedInstances/databases/vulnerabilityAssessments",
-    "Microsoft.DBforPostgreSQL/managedInstances/databases/vulnerabilityAssessments/rules/baselines"
-]

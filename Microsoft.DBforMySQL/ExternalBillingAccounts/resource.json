@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforMySQL/ExternalBillingAccounts/Alerts",
-    "Microsoft.DBforMySQL/ExternalBillingAccounts/Dimensions",
-    "Microsoft.DBforMySQL/ExternalBillingAccounts/Forecast",
-    "Microsoft.DBforMySQL/ExternalBillingAccounts/Query"
-]

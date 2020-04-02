@@ -1,9 +1,0 @@
-[
-    "Microsoft.AlertsManagement/domainNames/capabilities",
-    "Microsoft.AlertsManagement/domainNames/internalLoadBalancers",
-    "Microsoft.AlertsManagement/domainNames/serviceCertificates",
-    "Microsoft.AlertsManagement/domainNames/slots",
-    "Microsoft.AlertsManagement/domainNames/slots/roles",
-    "Microsoft.AlertsManagement/domainNames/slots/roles/metricDefinitions",
-    "Microsoft.AlertsManagement/domainNames/slots/roles/metrics"
-]

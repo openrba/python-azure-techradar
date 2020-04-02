@@ -1,6 +1,0 @@
-[
-    "Microsoft.AppPlatform/ExternalSubscriptions/Alerts",
-    "Microsoft.AppPlatform/ExternalSubscriptions/Dimensions",
-    "Microsoft.AppPlatform/ExternalSubscriptions/Forecast",
-    "Microsoft.AppPlatform/ExternalSubscriptions/Query"
-]

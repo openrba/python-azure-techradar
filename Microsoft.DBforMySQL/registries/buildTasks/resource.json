@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMySQL/registries/buildTasks/listSourceRepositoryProperties",
-    "Microsoft.DBforMySQL/registries/buildTasks/steps",
-    "Microsoft.DBforMySQL/registries/buildTasks/steps/listBuildArguments"
-]

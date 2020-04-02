@@ -1,6 +1,0 @@
-[
-    "Microsoft.DBforMySQL/streamingjobs/functions",
-    "Microsoft.DBforMySQL/streamingjobs/inputs",
-    "Microsoft.DBforMySQL/streamingjobs/outputs",
-    "Microsoft.DBforMySQL/streamingjobs/transformations"
-]

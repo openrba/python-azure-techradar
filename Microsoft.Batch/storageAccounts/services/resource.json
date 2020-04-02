@@ -1,5 +1,0 @@
-[
-    "Microsoft.Batch/storageAccounts/services/diagnosticSettings",
-    "Microsoft.Batch/storageAccounts/services/metricDefinitions",
-    "Microsoft.Batch/storageAccounts/services/metrics"
-]

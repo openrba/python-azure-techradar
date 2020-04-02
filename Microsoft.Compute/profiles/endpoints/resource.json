@@ -1,5 +1,0 @@
-[
-    "Microsoft.Compute/profiles/endpoints/customdomains",
-    "Microsoft.Compute/profiles/endpoints/origingroups",
-    "Microsoft.Compute/profiles/endpoints/origins"
-]

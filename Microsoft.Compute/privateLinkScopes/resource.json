@@ -1,5 +1,0 @@
-[
-    "Microsoft.Compute/privateLinkScopes/privateEndpointConnectionProxies",
-    "Microsoft.Compute/privateLinkScopes/privateEndpointConnections",
-    "Microsoft.Compute/privateLinkScopes/scopedResources"
-]

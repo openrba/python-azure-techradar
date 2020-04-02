@@ -1,7 +1,0 @@
-[
-    "Microsoft.Batch/virtualMachineScaleSets/extensions",
-    "Microsoft.Batch/virtualMachineScaleSets/networkInterfaces",
-    "Microsoft.Batch/virtualMachineScaleSets/publicIPAddresses",
-    "Microsoft.Batch/virtualMachineScaleSets/virtualMachines",
-    "Microsoft.Batch/virtualMachineScaleSets/virtualMachines/networkInterfaces"
-]

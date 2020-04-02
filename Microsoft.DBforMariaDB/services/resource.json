@@ -1,7 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/services/problemclassifications",
-    "Microsoft.DBforMariaDB/services/projects",
-    "Microsoft.DBforMariaDB/services/projects/files",
-    "Microsoft.DBforMariaDB/services/projects/tasks",
-    "Microsoft.DBforMariaDB/services/serviceTasks"
-]

@@ -1,7 +1,0 @@
-[
-    "Microsoft.AlertsManagement/Locations/OperationStatuses",
-    "Microsoft.AlertsManagement/Locations/OperationTypes",
-    "Microsoft.AlertsManagement/Locations/availabilityGroupListenerOperationResults",
-    "Microsoft.AlertsManagement/Locations/sqlVirtualMachineGroupOperationResults",
-    "Microsoft.AlertsManagement/Locations/sqlVirtualMachineOperationResults"
-]

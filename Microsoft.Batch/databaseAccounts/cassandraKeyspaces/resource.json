@@ -1,5 +1,0 @@
-[
-    "Microsoft.Batch/databaseAccounts/cassandraKeyspaces/tables",
-    "Microsoft.Batch/databaseAccounts/cassandraKeyspaces/tables/throughputSettings",
-    "Microsoft.Batch/databaseAccounts/cassandraKeyspaces/throughputSettings"
-]

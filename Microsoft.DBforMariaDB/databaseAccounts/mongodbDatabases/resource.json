@@ -1,5 +1,0 @@
-[
-    "Microsoft.DBforMariaDB/databaseAccounts/mongodbDatabases/collections",
-    "Microsoft.DBforMariaDB/databaseAccounts/mongodbDatabases/collections/throughputSettings",
-    "Microsoft.DBforMariaDB/databaseAccounts/mongodbDatabases/throughputSettings"
-]

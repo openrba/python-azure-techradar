@@ -1,6 +1,0 @@
-[
-    "Microsoft.AppPlatform/networkWatchers/connectionMonitors",
-    "Microsoft.AppPlatform/networkWatchers/flowLogs",
-    "Microsoft.AppPlatform/networkWatchers/packetCaptures",
-    "Microsoft.AppPlatform/networkWatchers/pingMeshes"
-]

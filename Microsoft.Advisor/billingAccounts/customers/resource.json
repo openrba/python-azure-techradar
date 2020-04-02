@@ -1,9 +1,0 @@
-[
-    "Microsoft.Advisor/billingAccounts/customers/billingPermissions",
-    "Microsoft.Advisor/billingAccounts/customers/billingSubscriptions",
-    "Microsoft.Advisor/billingAccounts/customers/initiateTransfer",
-    "Microsoft.Advisor/billingAccounts/customers/policies",
-    "Microsoft.Advisor/billingAccounts/customers/products",
-    "Microsoft.Advisor/billingAccounts/customers/transactions",
-    "Microsoft.Advisor/billingAccounts/customers/transfers"
-]

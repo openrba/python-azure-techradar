@@ -1,6 +1,0 @@
-[
-    "Microsoft.ApiManagement/assessmentprojects/groups",
-    "Microsoft.ApiManagement/assessmentprojects/groups/assessments",
-    "Microsoft.ApiManagement/assessmentprojects/hypervcollectors",
-    "Microsoft.ApiManagement/assessmentprojects/vmwarecollectors"
-]

@@ -1,6 +1,0 @@
-[
-    "Microsoft.Compute/accounts/shares/datasets",
-    "Microsoft.Compute/accounts/shares/invitations",
-    "Microsoft.Compute/accounts/shares/providersharesubscriptions",
-    "Microsoft.Compute/accounts/shares/synchronizationSettings"
-]
