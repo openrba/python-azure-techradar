@@ -1479,7 +1479,7 @@ Microsoft.ImportExport:
 Microsoft.Insights:
   path: Microsoft.Insights
   description: UNKNOWN
-  status: HOLD
+  status: ASSESS
   url: Microsoft.Insights
   architecture review:
     type: UNKNOWN
