@@ -2312,15 +2312,15 @@ Microsoft.SerialConsole:
     notes: There are no security notes for this service at this time.
 Microsoft.ServiceBus:
   path: Microsoft.ServiceBus
-  description: UNKNOWN
-  status: HOLD
+  description: Reliable cloud messaging as a service (MaaS) and simple hybrid integration
+  status: ASSESS
   url: Microsoft.ServiceBus
   architecture review:
-    type: UNKNOWN
-    status: NOT REVIEWED
-    start: NOT STARTED
-    end: NOT ENDED
-    notes: There are no architectural notes for this service at this time.
+    type: MAAS
+    status: REVIEWED
+    start: 10/5/2020
+    end: 10/5/2020
+    notes: This is approved for use with dapr. "An event-driven, portable runtime for building microservices on cloud and edge"
   security review:
     class: UNKNOWN
     status: NOT REVIEWED
