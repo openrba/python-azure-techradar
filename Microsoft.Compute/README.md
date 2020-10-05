@@ -21,19 +21,19 @@ The RBA TechRadar for Azure is a list of technologies, complemented by an assesm
 
 Technologies we have high confidence in to serve our purpose, also at large scale.  Technologies with a usage culture in the RBA production environment, low risk, automated policy enforcement and are recommended to be widely used.  
   
-***<font color="red"> There are currently no resources at this ring level. </font>***
+***<font color="red">There are currently no resources at this ring level.</font>***
 ### Trial
 
 
 Technologies that we have seen work with success in projects to solve real problems;  first serious usage experience that confirm benefits and uncover limitations.  TRIAL technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.  This area can contain services that have been architecture and security reviewed but do not contain automated policy managmeent.  
   
-***<font color="red"> There are currently no resources at this ring level. </font>***
+***<font color="red">There are currently no resources at this ring level.</font>***
 ### Assess
 
 
 Technologies that are promising and have clear potential value-add for us; technologies worth investing some research and prototyping efforts to see if it has impact.  ASSESS technologies have higher risks;  they are often new to our organization and highly unproven within RBA.  You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.  These technologies can also include services that are currently in architecture or security review.  
   
-***<font color="red"> There are currently no resources at this ring level. </font>***
+***<font color="red">There are currently no resources at this ring level.</font>***
 ### Hold
 
 
@@ -618,4 +618,4 @@ Technologies not recommended to be used for new projects. Technologies that we t
 
 Technologies not recommended to be used for any projects. Technologies that have undergone architecture and security review but do not meet company standards for use.  REJECT technologies should never be used on any project and should be considered deprecated for existing projects.  
   
-***<font color="red"> There are currently no resources at this ring level. </font>***
+***<font color="red">There are currently no resources at this ring level.</font>***

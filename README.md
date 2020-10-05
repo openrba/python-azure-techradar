@@ -75,6 +75,8 @@ Technologies that are promising and have clear potential value-add for us; techn
 |<sub>[Microsoft.DevSpaces](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DevSpaces)</sub>|<sub>Azure Dev Spaces is an extension to AKS that allows you to easily run and debug your code in the context of a larger application.</sub>|<sub>SAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.Devices](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Devices)</sub>|<sub>IoT Hub is a managed service, hosted in the cloud, that acts as a central message hub for bi-directional communication between your IoT application and the devices it manages.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
 |<sub>[Microsoft.DocumentDB](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.DocumentDB)</sub>|<sub>Azure Cosmos DB is Microsoftâ€™s globally distributed, multi-model database service for operational and analytics workloads.</sub>|<sub>PAAS</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.Insights](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.Insights)</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>ASSESS</sub>|
+|<sub>[Microsoft.ServiceBus](https://github.com/openrba/python-azure-techradar/tree/master/Microsoft.ServiceBus)</sub>|<sub>Reliable cloud messaging as a service (MaaS) and simple hybrid integration</sub>|<sub>MAAS</sub>|<sub>ASSESS</sub>|
 
 ### Hold
 
@@ -117,7 +119,6 @@ Technologies not recommended to be used for new projects. Technologies that we t
 |<sub>Microsoft.HybridData</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Hydra</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.ImportExport</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.Insights</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.IoTCentral</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.IoTSpaces</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.KeyVault</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
@@ -165,7 +166,6 @@ Technologies not recommended to be used for new projects. Technologies that we t
 |<sub>Microsoft.Security</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.SecurityInsights</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.SerialConsole</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
-|<sub>Microsoft.ServiceBus</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.ServiceFabric</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.ServiceFabricMesh</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 |<sub>Microsoft.Services</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|

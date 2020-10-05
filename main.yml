@@ -2320,7 +2320,8 @@ Microsoft.ServiceBus:
     status: REVIEWED
     start: 10/5/2020
     end: 10/5/2020
-    notes: This is approved for use with dapr. "An event-driven, portable runtime for building microservices on cloud and edge"
+    notes: This is approved for use with dapr. "An event-driven, portable runtime
+      for building microservices on cloud and edge"
   security review:
     class: UNKNOWN
     status: NOT REVIEWED

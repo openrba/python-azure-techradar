@@ -1,0 +1,238 @@
+ActivityLogAlerts:
+  path: Microsoft.Insights/ActivityLogAlerts
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/ActivityLogAlerts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+Components:
+  path: Microsoft.Insights/Components
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/Components
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+actiongroups:
+  path: Microsoft.Insights/actiongroups
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/actiongroups
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+activityLogAlerts:
+  path: Microsoft.Insights/activityLogAlerts
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/activityLogAlerts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+alertRules:
+  path: Microsoft.Insights/alertRules
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/alertRules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+alertrules:
+  path: Microsoft.Insights/alertrules
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/alertrules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+autoscalesettings:
+  path: Microsoft.Insights/autoscalesettings
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/autoscalesettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+components:
+  path: Microsoft.Insights/components
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/components
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+diagnosticSettings:
+  path: Microsoft.Insights/diagnosticSettings
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/diagnosticSettings
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+logProfiles:
+  path: Microsoft.Insights/logProfiles
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/logProfiles
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+metricalerts:
+  path: Microsoft.Insights/metricalerts
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/metricalerts
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+scheduledqueryrules:
+  path: Microsoft.Insights/scheduledqueryrules
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/scheduledqueryrules
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+webtests:
+  path: Microsoft.Insights/webtests
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/webtests
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.
+workbooks:
+  path: Microsoft.Insights/workbooks
+  description: UNKNOWN
+  status: HOLD
+  url: Microsoft.Insights/workbooks
+  architecture review:
+    type: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no architectural notes for this service at this time.
+  security review:
+    class: UNKNOWN
+    status: NOT REVIEWED
+    start: NOT STARTED
+    end: NOT ENDED
+    notes: There are no security notes for this service at this time.

@@ -41,7 +41,20 @@ Technologies not recommended to be used for new projects. Technologies that we t
 
 |<sub>Resource</sub>|<sub>Description</sub>|<sub>Type</sub>|<sub>Status</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>workspaces</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>ActivityLogAlerts</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>Components</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>actiongroups</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>activityLogAlerts</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>alertRules</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>alertrules</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>autoscalesettings</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>components</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>diagnosticSettings</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>logProfiles</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>metricalerts</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>scheduledqueryrules</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>webtests</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
+|<sub>workbooks</sub>|<sub>UNKNOWN</sub>|<sub>UNKNOWN</sub>|<sub>HOLD</sub>|
 
 ### Reject
 
